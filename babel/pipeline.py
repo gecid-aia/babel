@@ -1,3 +1,5 @@
+from cprint import cprint
+
 from babel.translation import from_google
 
 
@@ -19,7 +21,7 @@ class TranslationStep:
         self.to_lang = to_lang
 
     def translate(self, text):
-        print(f"Step {self.from_lang} - {self.to_lang}")
+        cprint.info(f"Step {self.from_lang} - {self.to_lang}")
         text = from_google(text, source=self.from_lang, target=self.to_lang)
-        print(f'\t{text}')
+        cprint.info(f'\t{text}\n')
         return text

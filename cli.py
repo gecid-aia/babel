@@ -16,13 +16,16 @@ def from_idh_csv(filename):
     entries = rows.import_from_csv(filename)
     languages = [e.code for e in entries]
 
+    chain_str = ' - '.join(languages)
+    cprint.ok(f"Translation chain: {chain_str}.")
+    cprint.ok(f"Input text: {TEXT}.\n")
+
     text, result = chain_translate_text(TEXT, 'pt', languages)
 
-
-    cprint.info("\n##### RESULTADO ######\n")
-    cprint.info(text)
+    cprint.ok("\n##### RESULTADO ######\n")
+    cprint.ok(text)
     print()
-    cprint.info(result)
+    cprint.ok(result)
 
 
 if __name__ == '__main__':
