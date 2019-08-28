@@ -14,7 +14,7 @@ Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensi
 @click.argument('filename', type=click.Path(exists=True))
 def from_idh_csv(filename):
     entries = rows.import_from_csv(filename)
-    languages = [e.code for e in entries]
+    languages = [e.code.strip() for e in sorted(entries, key=lambda x: x.idh, reverse=True)]
 
     chain_str = ' - '.join(languages)
     cprint.ok(f"Translation chain: {chain_str}.")
