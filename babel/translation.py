@@ -3,6 +3,9 @@ from decouple import config
 
 
 def from_google(text, source, target):
+    if source == target:
+        return text
+
     qs = {
         'key': config('GOOGLE_API_KEY', cast=str),
         'source': source,
