@@ -23,3 +23,4 @@ def from_google(text, source, target):
     else:
         print("Error")
         print(data)
+        raise Exception(data)
