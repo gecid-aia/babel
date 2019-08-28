@@ -1,7 +1,7 @@
 from babel.translation import from_google
 
 
-def translation_steps(start_language, languages, two_way=False):
+def translation_steps(start_language, languages, two_way=True):
     if two_way:
         pipeline = [start_language] + languages + languages[-2::-1] + [start_language]
     else:
@@ -20,5 +20,6 @@ class TranslationStep:
 
     def translate(self, text):
         print(f"Step {self.from_lang} - {self.to_lang}")
-        from random import shuffle
-        return from_google(text, source=self.from_lang, target=self.to_lang)
+        text = from_google(text, source=self.from_lang, target=self.to_lang)
+        print(f'\t{text}')
+        return text
