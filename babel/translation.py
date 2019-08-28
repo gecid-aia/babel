@@ -1,9 +1,10 @@
 import requests
+from decouple import config
 
 
 def from_google(text, source, target):
     qs = {
-        'key': '',
+        'key': config('GOOGLE_API_KEY', cast=str),
         'source': source,
         'target': target,
         'format': 'text',
