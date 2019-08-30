@@ -11,3 +11,4 @@
 .sass-cache/
 project/media/*
 *.ipynb
+.~lock*
