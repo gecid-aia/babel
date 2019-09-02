@@ -1,0 +1,364 @@
+Translation chain: no - it - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação..
+
+Step pt - no
+	For ham vil hver lesing av hvilken som helst tekst alltid gi en ny størrelse på og forståelse av den teksten. Metaforisk sett står han foran tekstene som Heraclitus River Bather, som det er umulig å komme inn to ganger fordi forløpet hele tiden endrer seg.
+
+Step no - it
+	Per lui, ogni lettura di qualsiasi testo darà sempre una nuova dimensione e comprensione di quel testo. Metaforicamente parlando, si trova di fronte a testi come Heraclitus River Bather, a cui è impossibile entrare due volte perché il corso è in costante cambiamento.
+
+Step it - en
+	For him, every reading of any text will always give a new dimension and understanding of that text. Metaphorically speaking, it is faced with texts like Heraclitus River Bather, which cannot be entered twice because the course is constantly changing.
+
+Step en - ga
+	Dóibh féin, tabharfaidh gach léamh ar aon téacs gné nua agus tuiscint nua ar an téacs sin i gcónaí. Ag labhairt dó go meiticiúil, bíonn téacsanna mar Heraclitus River Bather os comhair an phobail, rud nach féidir a iontráil faoi dhó toisc go mbíonn an cúrsa ag athrú i gcónaí.
+
+Step ga - de
+	Für sich bringt jedes Lesen eines Textes immer eine neue Dimension und ein neues Verständnis dieses Textes. Akribisch gesprochen sind Texte wie Heraclitus River Bather gemeinfrei. Sie können nicht zweimal eingegeben werden, da sich der Kurs ständig ändert.
+
+Step de - is
+	Út af fyrir sig færir hver lestur texta alltaf nýja vídd og nýjan skilning á þessum texta. Nákvæmlega séð eru textar á borð við Heraclitus River Bather almenningseignir. Ekki er hægt að slá þau inn tvisvar vegna þess að námskeiðið er stöðugt að breytast.
+
+Step is - zh-TW
+	當然，每次閱讀文本總會帶來新的維度和對本文的新理解。確切地說，像Heraclitus River Bather這樣的文字是公共財產。他們不能兩次進入，因為課程在不斷變化。
+
+Step zh-TW - sv
+	Naturligtvis kommer du alltid att få en ny dimension och en ny förståelse av denna artikel varje gång du läser en text. Snarare är ord som Heraclitus River Bather allmän egendom. De kan inte gå in två gånger eftersom kursen ständigt förändras.
+
+Step sv - zh-TW
+	當然，每次閱讀文本時，您都將獲得一個新的維度和對本文的新理解。相反，像Heraclitus River Bather這樣的詞是公共財產。當課程不斷變化時，他們無法進入兩次。
+
+Step zh-TW - nl
+	Natuurlijk krijgt u elke keer dat u de tekst leest een nieuwe dimensie en een nieuw begrip van dit artikel. In plaats daarvan zijn woorden als Heraclitus River Bather publiek eigendom. Wanneer de koers verandert, kunnen ze niet twee keer meedoen.
+
+Step nl - da
+	Selvfølgelig, hver gang du læser teksten, får du en ny dimension og en ny forståelse af denne artikel. I stedet er ord som Heraclitus River Bather offentlig ejendom. Når kurset ændres, kan de ikke deltage to gange.
+
+Step da - en
+	Of course, every time you read the text, you get a new dimension and a new understanding of this article. Instead, words like Heraclitus River Bather are public property. When the course changes, they cannot attend twice.
+
+Step en - en
+	Of course, every time you read the text, you get a new dimension and a new understanding of this article. Instead, words like Heraclitus River Bather are public property. When the course changes, they cannot attend twice.
+
+Step en - en
+	Of course, every time you read the text, you get a new dimension and a new understanding of this article. Instead, words like Heraclitus River Bather are public property. When the course changes, they cannot attend twice.
+
+Step en - fi
+	Tietenkin, joka kerta kun luet tekstiä, saat uuden ulottuvuuden ja uuden käsityksen tästä artikkelista. Sen sijaan sanat Heraclitus River Bather ovat julkista omaisuutta. Kun kurssi muuttuu, he eivät voi osallistua kahdesti.
+
+Step fi - mi
+	Ma te aha, i nga wa katoa ka panui koe i te tuhinga, ka whiwhi koe i tetahi waahanga hou me te maarama hou mo tenei tuhinga. Engari, ko nga kupu Heraclitus River Bather he taonga a te iwi. Mena ka rereke te akoranga, kaore e taea te whakauru tuarua.
+
+Step mi - nl
+	In elk geval ontvangt u elke keer dat u het artikel leest een nieuwe en begrijpelijke sectie voor dit artikel. De woorden Heraclitus River Bather zijn echter openbaar eigendom. Als de cursus anders is, kan de tweede cursus niet worden opgenomen.
+
+Step nl - de
+	In jedem Fall erhalten Sie jedes Mal, wenn Sie den Artikel lesen, einen neuen und verständlichen Abschnitt für diesen Artikel. Die Worte Heraclitus River Bather sind jedoch öffentliches Eigentum. Wenn der Kurs anders ist, kann der zweite Kurs nicht aufgenommen werden.
+
+Step de - ja
+	いずれにせよ、記事を読むたびに、この記事の新しいわかりやすいセクションを受け取ります。ただし、ヘラクレイトスリバーバザーという言葉は公有財産です。コースが異なる場合、2番目のコースは受講できません。
+
+Step ja - de
+	In jedem Fall erhalten Sie jedes Mal, wenn Sie einen Artikel lesen, einen neuen, leicht verständlichen Abschnitt dieses Artikels. Das Wort Herakrate River Bazaar ist jedoch ein öffentliches Eigentum. Wenn der Kurs anders ist, kann der zweite Kurs nicht belegt werden.
+
+Step de - lb
+	Op alle Fall, all Kéier wann Dir en Artikel liest, kritt Dir eng nei, einfach ze verstoen Sektioun vun dësem Artikel. Wéi och ëmmer, d'Wuert Herakrate River Bazaar ass eng ëffentlech Eegeschafte. Wann de Cours anescht ass, kann den zweete Cours net geholl ginn.
+
+Step lb - he
+	בכל מקרה, בכל פעם שאתה קורא מאמר, אתה מקבל קטע חדש וקל להבנה במאמר זה. עם זאת, המילה Herakrate River Bazaar היא נכס ציבורי. אם הקורס שונה, לא ניתן לעבור את הקורס השני.
+
+Step he - ko
+	어쨌든 기사를 읽을 때마다 기사의 새롭고 이해하기 쉬운 섹션이 나타납니다. 그러나 Herakrate River Bazaar라는 단어는 공공 재산입니다. 코스가 다르면 두 번째 코스를 통과 할 수 없습니다.
+
+Step ko - fr
+	Dans tous les cas, chaque fois que vous lisez l'article, une nouvelle section, facile à comprendre, apparaît. Mais le mot Herakrate River Bazaar est une propriété publique. Si le cours est différent, vous ne pouvez pas réussir le deuxième cours.
+
+Step fr - sl
+	Vsekakor se vsakič, ko preberete članek, pojavi nov razdelek, ki ga je enostavno razumeti. Toda beseda Herakrate River Bazaar je javna last. Če je tečaj drugačen, ne morete opraviti drugega razreda.
+
+Step sl - es
+	En cualquier caso, cada vez que lee el artículo, aparece una nueva sección que es fácil de entender. Pero la palabra Bazar del río Herakrate es propiedad pública. Si el curso es diferente, no puedes tomar una segunda clase.
+
+Step es - cs
+	V každém případě se při každém čtení článku objeví nová sekce, která je snadno pochopitelná. Slovo Bazaar řeky Herakrate je však veřejným majetkem. Pokud je kurz jiný, nemůžete vzít druhou třídu.
+
+Step cs - it
+	In ogni caso, ogni volta che leggi un articolo, appare una nuova sezione che è facile da capire. Tuttavia, la parola bazar del fiume Herakrate è di proprietà pubblica. Se il corso è diverso, non puoi frequentare la seconda classe.
+
+Step it - mt
+	Fi kwalunkwe każ, kull darba li taqra artiklu, tidher sezzjoni ġdida li hija faċli biex tinftiehem. Madankollu, il-kelma bazaar tax-xmara Herakrate hija proprjetà pubblika. Jekk il-kors huwa differenti, ma tistax tattendi t-tieni klassi.
+
+Step mt - et
+	Igal juhul iga kord, kui lugeda artiklit, mis on uus osa, mis on lihtne aru saada. Kuid sõna jõe Herakrate Bazaar on riigivara. Kui muidugi on erinevad, ei saa osaleda teise klassi.
+
+Step et - el
+	Σε κάθε περίπτωση, κάθε φορά που διαβάζετε ένα νέο άρθρο, είναι εύκολο να το καταλάβετε. Ωστόσο, η λέξη ποτάμι Herakrate Bazaar είναι ιδιοκτησία του κράτους. Εκτός αν το μάθημα είναι διαφορετικό, δεν μπορείτε να παρακολουθήσετε κάποια άλλη τάξη.
+
+Step el - tr
+	Her durumda, yeni bir makale okuduğunuzda, anlaşılması kolaydır. Ancak, Herakrate Bazaar kelimesi devlete aittir. Kurs farklı olmadığı sürece başka bir sınıfa katılamazsınız.
+
+Step tr - pl
+	W każdym razie, kiedy czytasz nowy artykuł, łatwo to zrozumieć. Jednak słowo Herakrate Bazaar należy do państwa. Nie możesz dołączyć do innej klasy, chyba że kurs jest inny.
+
+Step pl - ar
+	على أي حال ، عندما تقرأ مقالة جديدة ، فمن السهل أن نفهمها. ومع ذلك ، فإن كلمة Herakrate Bazaar تنتمي إلى الدولة. لا يمكنك الانضمام إلى فصل آخر إلا إذا كانت الدورة مختلفة.
+
+Step ar - ca
+	De totes maneres, quan llegeixes un article nou, és fàcil d'entendre. Tanmateix, la paraula Herakrate Bazaar pertany a l'estat. Podeu unir-vos a una altra classe només si el curs és diferent.
+
+Step ca - lt
+	Bet kokiu atveju, kai jūs skaitote naują straipsnį, tai lengva suprasti. Tačiau žodis Herakrate Bazaar priklauso valstybei. Į kitą klasę galite įstoti tik tuo atveju, jei kursai skiriasi.
+
+Step lt - ar
+	على أي حال ، عندما تقرأ مقالة جديدة ، فمن السهل أن نفهمها. لكن كلمة Herakrate Bazaar تنتمي إلى الدولة. يمكنك فقط إدخال فصل آخر إذا كانت الدورات مختلفة.
+
+Step ar - sk
+	Každopádne, keď si prečítate nový článok, je ľahké to pochopiť. Slovo Herakrate Bazaar však patrí štátu. Ďalšiu kapitolu môžete zadať, iba ak sú kurzy odlišné.
+
+Step sk - ms
+	Bagaimanapun, apabila anda membaca artikel baru, mudah difahami. Walau bagaimanapun, perkataan Herakrate Bazaar dimiliki oleh kerajaan. Anda boleh memasukkan bab seterusnya jika kursus berbeza.
+
+Step ms - ar
+	ومع ذلك ، عند قراءة مقال جديد ، فمن السهل أن نفهم. ومع ذلك ، فإن كلمة Herakrate Bazaar مملوكة من قبل الحكومة. يمكنك إدخال الفصل التالي إذا كانت الدورة مختلفة.
+
+Step ar - lv
+	Tomēr, lasot jaunu rakstu, tas ir viegli saprotams. Tomēr vārds Herakrate Bazaar pieder valdībai. Ja kurss ir atšķirīgs, varat ievadīt nākamo nodaļu.
+
+Step lv - pt
+	No entanto, ler um novo artigo é fácil de entender. No entanto, o nome Herakrate Bazaar pertence ao governo. Se o curso for diferente, você pode entrar no próximo capítulo.
+
+Step pt - ar
+	ومع ذلك ، من السهل فهم مقال جديد. ومع ذلك ، فإن اسم Herakrate Bazaar ينتمي إلى الحكومة. إذا كانت الدورة مختلفة ، يمكنك الانتقال إلى الفصل التالي.
+
+Step ar - es
+	Sin embargo, un nuevo artículo es fácil de entender. Sin embargo, el nombre de Herakrate Bazaar pertenece al gobierno. Si el curso es diferente, puede pasar al siguiente capítulo.
+
+Step es - hu
+	Egy új cikk azonban könnyen érthető. Herakrate Bazaar neve azonban a kormányhoz tartozik. Ha a kurzus más, folytassa a következő fejezettel.
+
+Step hu - hr
+	No, novi je članak lako razumjeti. Ime Herakrate Bazaar, međutim, pripada vladi. Ako je tečaj drugačiji, prijeđite na sljedeće poglavlje.
+
+Step hr - es
+	Pero el nuevo artículo es fácil de entender. El nombre de Herakrate Bazaar, sin embargo, pertenece al gobierno. Si el curso es diferente, pase al siguiente capítulo.
+
+Step es - ar
+	لكن المقال الجديد سهل الفهم. بيد أن اسم Herakrate Bazaar ينتمي إلى الحكومة. إذا كانت الدورة التدريبية مختلفة ، فانتقل إلى الفصل التالي.
+
+Step ar - ru
+	Но новую статью легко понять. Однако название Herakrate Bazaar принадлежит правительству. Если курс отличается, перейдите к следующей главе.
+
+Step ru - sq
+	Por artikulli i ri është i lehtë për tu kuptuar. Sidoqoftë, emri Herakrate Pazari është në pronësi të qeverisë. Nëse kursi është i ndryshëm, vazhdoni te kapitulli tjetër.
+
+Step sq - bg
+	Но новата статия е лесна за разбиране. Името Herakrate Bazaar обаче е собственост на правителството. Ако курсът е различен, продължете към следващата глава.
+
+Step bg - ro
+	Dar noul articol este ușor de înțeles. Cu toate acestea, numele Herakrate Bazaar este deținut de guvern. Dacă cursul este diferit, continuați la capitolul următor.
+
+Step ro - ru
+	Но новую статью легко понять. Однако название Herakrate Bazaar принадлежит правительству. Если курс отличается, перейдите к следующей главе.
+
+Step ru - en
+	But the new article is easy to understand. However, the name Herakrate Bazaar is owned by the government. If the course is different, continue to the next chapter.
+
+Step en - es
+	Pero el nuevo artículo es fácil de entender. Sin embargo, el nombre Bazar Herakrate es propiedad del gobierno. Si el curso es diferente, continúe con el próximo capítulo.
+
+Step es - ar
+	لكن المقال الجديد سهل الفهم. ومع ذلك ، فإن اسم بازار هيراكريت مملوك من قبل الحكومة. إذا كانت الدورة التدريبية مختلفة ، تابع الفصل التالي.
+
+Step ar - ms
+	Tetapi artikel baru mudah difahami. Walau bagaimanapun, nama Herakrit Bazaar dimiliki oleh kerajaan. Sekiranya kursus itu berbeza, lanjutkan dengan bab seterusnya.
+
+Step ms - en
+	But new articles are easy to understand. However, the name Herakrit Bazaar is owned by the government. If the course is different, continue with the next chapter.
+
+Step en - kk
+	Бірақ жаңа мақалаларды түсіну оңай. Алайда, Геракрит базарының атауы үкіметтің иелігінде. Егер курс басқаша болса, келесі тарауды жалғастырыңыз.
+
+Step kk - en
+	But new articles are easier to understand. However, the name of the Heracritus market is under the government's control. If the course is different, continue with the next section.
+
+Step en - ms
+	Tetapi artikel baru lebih mudah difahami. Walau bagaimanapun, nama pasar Heracritus adalah di bawah kawalan kerajaan. Sekiranya kursus itu berlainan, teruskan dengan bahagian seterusnya.
+
+Step ms - ar
+	لكن المقالات الجديدة أسهل في الفهم. ومع ذلك ، كان اسم سوق Heracritus تحت سيطرة الحكومة. إذا كانت الدورة التدريبية مختلفة ، فتابع القسم التالي.
+
+Step ar - es
+	Pero los nuevos artículos son más fáciles de entender. Sin embargo, el nombre de mercado Heracritus estaba bajo control del gobierno. Si el curso es diferente, continúe con la siguiente sección.
+
+Step es - en
+	But the new articles are easier to understand. However, the market name Heracritus was under government control. If the course is different, continue with the next section.
+
+Step en - ru
+	Но новые статьи легче понять. Однако рыночное название Heracritus находилось под контролем правительства. Если курс отличается, перейдите к следующему разделу.
+
+Step ru - ro
+	Dar articolele noi sunt mai ușor de înțeles. Cu toate acestea, numele de piață Heracritus era sub control guvernamental. Dacă cursul este diferit, continuați la secțiunea următoare.
+
+Step ro - bg
+	Но новите статии са по-лесни за разбиране. Въпреки това пазарното име Херакрит беше под контрола на правителството. Ако курсът е различен, продължете към следващия раздел.
+
+Step bg - sq
+	Por artikujt e rinj janë më të lehtë për tu kuptuar. Sidoqoftë, emri i tregut Herakrit ishte nën kontrollin e qeverisë. Nëse kursi është i ndryshëm, vazhdoni në pjesën tjetër.
+
+Step sq - ru
+	Но новинки легче понять. Тем не менее, торговая марка Herakrit была под контролем правительства. Если курс отличается, перейдите к следующему разделу.
+
+Step ru - ar
+	لكن العناصر الجديدة أسهل في الفهم. ومع ذلك ، كانت علامة Herakrit التجارية تحت سيطرة الحكومة. إذا كانت الدورة التدريبية مختلفة ، فانتقل إلى القسم التالي.
+
+Step ar - es
+	Pero los nuevos elementos son más fáciles de entender. Sin embargo, la marca Herakrit estaba bajo control gubernamental. Si el curso es diferente, vaya a la siguiente sección.
+
+Step es - hr
+	Ali nove elemente je lakše razumjeti. Ipak, marka Herakrit bila je pod državnom kontrolom. Ako je tečaj drugačiji, prijeđite na sljedeći odjeljak.
+
+Step hr - hu
+	Az új elemek azonban könnyebben érthetők. Ennek ellenére a Herakrit márka állami ellenőrzés alatt állt. Ha a kurzus más, folytassa a következő szakaszra.
+
+Step hu - es
+	Sin embargo, los nuevos elementos son más fáciles de entender. Sin embargo, la marca Herakrit estaba bajo control estatal. Si el curso es diferente, continúe con la siguiente sección.
+
+Step es - ar
+	ومع ذلك ، فإن العناصر الجديدة هي أسهل للفهم. ومع ذلك ، كانت العلامة التجارية Herakrit تحت سيطرة الدولة. إذا كانت الدورة التدريبية مختلفة ، فتابع القسم التالي.
+
+Step ar - pt
+	No entanto, os novos elementos são mais fáceis de entender. No entanto, a marca Herakrit estava sob controle estatal. Se o curso for diferente, continue na próxima seção.
+
+Step pt - lv
+	Tomēr jaunos elementus ir vieglāk saprast. Tomēr Herakrit preču zīme bija valsts kontrolē. Ja kurss atšķiras, pārejiet uz nākamo sadaļu.
+
+Step lv - ar
+	ومع ذلك ، فإن العناصر الجديدة هي أسهل للفهم. ومع ذلك ، كانت علامة هيراكريت تحت سيطرة الدولة. إذا كانت الدورة التدريبية مختلفة ، انتقل إلى القسم التالي.
+
+Step ar - ms
+	Walau bagaimanapun, elemen baru lebih mudah difahami. Walau bagaimanapun, tanda Herakrit berada di bawah kawalan kerajaan. Sekiranya kursus itu berbeza, pergi ke bahagian seterusnya.
+
+Step ms - sk
+	Nové prvky sú však ľahšie pochopiteľné. Znamenie Herakrit však bolo pod kontrolou vlády. Ak je kurz iný, prejdite na nasledujúcu časť.
+
+Step sk - ar
+	ومع ذلك ، فإن العناصر الجديدة هي أسهل للفهم. لكن علامة هيراكريت كانت تحت سيطرة الحكومة. إذا كانت الدورة التدريبية مختلفة ، فانتقل إلى القسم التالي.
+
+Step ar - lt
+	Tačiau naujus elementus lengviau suprasti. Tačiau „Heracrit“ prekės ženklą kontroliavo vyriausybė. Jei kursas skiriasi, eikite į kitą skyrių.
+
+Step lt - ca
+	Però els nous elements són més fàcils d’entendre. Tot i això, la marca Heracrit estava controlada pel govern. Si el curs és diferent, aneu a la secció següent.
+
+Step ca - ar
+	لكن العناصر الجديدة أسهل في الفهم. ومع ذلك ، كانت العلامة التجارية Heracrit تسيطر عليها الحكومة. إذا كانت الدورة التدريبية مختلفة ، فانتقل إلى القسم التالي.
+
+Step ar - pl
+	Ale nowe elementy są łatwiejsze do zrozumienia. Jednak marka Heracrit była kontrolowana przez rząd. Jeśli kurs jest inny, przejdź do następnej sekcji.
+
+Step pl - tr
+	Ancak yeni unsurları anlamak daha kolaydır. Ancak, Heracrit markası hükümet tarafından kontrol edildi. Kurs farklıysa, bir sonraki bölüme gidin.
+
+Step tr - el
+	Αλλά τα νέα στοιχεία είναι πιο εύκολα κατανοητά. Ωστόσο, η μάρκα Heracrit ελέγχθηκε από την κυβέρνηση. Εάν το μάθημα είναι διαφορετικό, μεταβείτε στην επόμενη ενότητα.
+
+Step el - et
+	Kuid uusi elemente on lihtsam mõista. Heracriti kaubamärki kontrollis aga valitsus. Kui tund on erinev, minge järgmisesse jaotisse.
+
+Step et - mt
+	Iżda l-elementi l-ġodda huma iktar faċli biex jinftiehmu. Madankollu, it-trademark ta 'Heracriti kienet ikkontrollata mill-gvern. Jekk is-siegħa hija differenti, mur fit-taqsima li jmiss.
+
+Step mt - it
+	Ma i nuovi elementi sono più facili da capire. Tuttavia, il marchio di fabbrica di Heracriti era controllato dal governo. Se l'ora è diverso, passare alla sezione successiva.
+
+Step it - cs
+	Nové prvky jsou ale snáze pochopitelné. Heracritiho ochranná známka však byla ovládána vládou. Pokud se čas liší, přejděte k další části.
+
+Step cs - es
+	Pero los nuevos elementos son más fáciles de entender. La marca registrada de Heracriti, sin embargo, fue controlada por el gobierno. Si el tiempo varía, vaya a la siguiente sección.
+
+Step es - sl
+	Toda nove elemente je lažje razumeti. Registrirana blagovna znamka Heracriti pa je bila pod nadzorom vlade. Če se čas razlikuje, pojdite na naslednji razdelek.
+
+Step sl - fr
+	Mais les nouveaux éléments sont plus faciles à comprendre. La marque déposée Heracriti, cependant, était contrôlée par le gouvernement. Si le temps varie, passez à la section suivante.
+
+Step fr - ko
+	그러나 새로운 요소는 이해하기 쉽습니다. 그러나 Heracriti 상표는 정부가 통제했습니다. 시간이 다를 경우 다음 섹션으로 이동하십시오.
+
+Step ko - he
+	אבל קל להבין את האלמנטים החדשים. עם זאת, הסימן המסחרי של הרקריטי נשלט על ידי הממשלה. אם הזמן שונה, עבור לסעיף הבא.
+
+Step he - lb
+	Awer déi nei Elementer sinn einfach ze verstoen. Wéi och ëmmer, d'Mark vum Harkriti ass Regierung kontrolléiert. Wann d'Zäit anescht ass, gitt op déi nächst Sektioun.
+
+Step lb - de
+	Die neuen Elemente sind jedoch leicht zu verstehen. Die Marke von Harkriti wird jedoch von der Regierung kontrolliert. Wenn die Uhrzeit anders ist, fahren Sie mit dem nächsten Abschnitt fort.
+
+Step de - ja
+	ただし、新しい要素は簡単に理解できます。ただし、Harkritiのブランドは政府によって管理されています。時間が異なる場合は、次のセクションに進みます。
+
+Step ja - de
+	Die neuen Elemente sind jedoch leicht zu verstehen. Die Marke Harkriti wird jedoch von der Regierung verwaltet. Wenn die Zeiten unterschiedlich sind, fahren Sie mit dem nächsten Abschnitt fort.
+
+Step de - nl
+	De nieuwe elementen zijn echter gemakkelijk te begrijpen. Het merk Harkriti wordt echter beheerd door de overheid. Als de tijden verschillen, gaat u verder met de volgende sectie.
+
+Step nl - mi
+	Engari, he maama tonu nga waahanga hou. Heoi, ko te waitohu Harkriti e whakahaerehia ana e te kawanatanga. Mena he rereke nga waa, haere tonu ki te waahanga o muri.
+
+Step mi - fi
+	Uudet vaihtoehdot ovat kuitenkin edelleen loistavia. Harkriti-tuotemerkkiä hallitsee kuitenkin hallitus. Jos ajat ovat erilaisia, jatka seuraavaan kohtaan.
+
+Step fi - en
+	However, the new options are still great. However, the Harkriti brand is dominated by the government. If times are different, continue to the next step.
+
+Step en - en
+	However, the new options are still great. However, the Harkriti brand is dominated by the government. If times are different, continue to the next step.
+
+Step en - en
+	However, the new options are still great. However, the Harkriti brand is dominated by the government. If times are different, continue to the next step.
+
+Step en - da
+	De nye indstillinger er dog stadig store. Imidlertid er Harkriti-mærket domineret af regeringen. Hvis tidene er forskellige, skal du fortsætte til næste trin.
+
+Step da - nl
+	De nieuwe instellingen zijn echter nog steeds geweldig. Het merk Harkriti wordt echter gedomineerd door de overheid. Als de tijden verschillen, gaat u verder met de volgende stap.
+
+Step nl - zh-TW
+	但是，新設置仍然很棒。然而，Harkriti品牌由政府主導。如果時間不同，請繼續執行下一步。
+
+Step zh-TW - sv
+	Men de nya inställningarna är fortfarande bra. Harkriti-varumärket domineras emellertid av regeringen. Om tiden är annorlunda, fortsätt till nästa steg.
+
+Step sv - zh-TW
+	但新設置仍然很好。然而，Harkriti品牌由政府主導。如果時間不同，請繼續執行下一步。
+
+Step zh-TW - is
+	En nýju stillingarnar eru samt mjög góðar. Ríkisstjórnin hefur þó stjórn á vörumerkinu Harkriti. Ef tíminn er annar, haltu áfram í næsta skref.
+
+Step is - de
+	Aber die neuen Einstellungen sind immer noch sehr gut. Die Regierung kontrolliert jedoch die Marke Harkrit. Wenn die Zeit abweicht, fahren Sie mit dem nächsten Schritt fort.
+
+Step de - ga
+	Ach tá na socruithe nua fós an-mhaith. Mar sin féin, rialaíonn an rialtas an marc Harkrit. Má chlaonann an t-am, lean ort leis an gcéad chéim eile.
+
+Step ga - en
+	But the new arrangements are still very good. However, the government controls the Harkrit mark. If the time deviates, follow the next step.
+
+Step en - it
+	Ma i nuovi accordi sono ancora molto buoni. Tuttavia, il governo controlla il marchio Harkrit. Se il tempo si discosta, seguire il passaggio successivo.
+
+Step it - no
+	Men de nye avtalene er fremdeles veldig gode. Regjeringen kontrollerer imidlertid Harkrit-merkevaren. Hvis tiden avviker, følg neste trinn.
+
+Step no - pt
+	Mas os novos acordos ainda são muito bons. No entanto, o governo controla a marca Harkrit. Se o tempo variar, siga o próximo passo.
+
+
+##### RESULTADO ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Mas os novos acordos ainda são muito bons. No entanto, o governo controla a marca Harkrit. Se o tempo variar, siga o próximo passo.
+

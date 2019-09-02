@@ -1,0 +1,214 @@
+Translation chain: tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação..
+
+Step pt - tl
+	Para sa kanya, ang bawat pagbabasa ng anumang teksto ay palaging magbibigay ng isang bagong pagbabago ng laki at pag-unawa sa teksto na iyon. Sa pagsasalita ng metaphorically, nakatayo siya sa mga teksto bilang Heraclitus River Bather, na imposible na makapasok nang dalawang beses sapagkat ang kurso nito ay patuloy na nagbabago.
+
+Step tl - zu
+	Ngaye, konke ukufundwa kwanoma yimuphi umbhalo kuyohlala kunikeza ukufana okusha nokuqonda kwalowo mbhalo. Ekhuluma ngokufanekisa, umi emibhalweni njenge-Heraclitus River Bather, okungenakwenzeka ukungena kabili ngoba inkambo yayo ihlala ishintsha.
+
+Step zu - ar
+	من خلاله ، ستوفر كل قراءة لأي نص موازٍ جديدة لفهم ذلك النص. يتحدث عن الرمزية ، فهو يقف في كتابات مثل Heraclitus River Bather ، وهو مستحيل التراجع المزدوج لأن مساره يتغير دائمًا.
+
+Step ar - id
+	Setiap pembacaan akan menyediakan teks paralel baru untuk memahami teks itu. Berbicara tentang simbolisme, ia berdiri dalam tulisan-tulisan seperti Heraclitus River Bather, yang tidak mungkin digandakan mundur karena jalannya selalu berubah.
+
+Step id - vi
+	Mỗi bài đọc sẽ cung cấp một văn bản song song mới để hiểu văn bản. Nói về biểu tượng, ông đứng trong các tác phẩm như Heraclitus River Bather, không thể được sao chép ngược vì con đường luôn thay đổi.
+
+Step vi - es
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, se encuentra en obras como Heraclitus River Bather, que no se puede reproducir porque el camino siempre está cambiando.
+
+Step es - ar
+	ستوفر كل قراءة نصًا موازًا جديدًا لفهم النص. عند الحديث عن الرموز ، يوجد في أعمال مثل Heraclitus River Bather ، والتي لا يمكن استنساخها لأن المسار يتغير دائمًا.
+
+Step ar - ar
+	ستوفر كل قراءة نصًا موازًا جديدًا لفهم النص. عند الحديث عن الرموز ، يوجد في أعمال مثل Heraclitus River Bather ، والتي لا يمكن استنساخها لأن المسار يتغير دائمًا.
+
+Step ar - es
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Cuando se habla de símbolos, existe en obras como Heraclitus River Bather, que no se puede reproducir porque el camino siempre cambia.
+
+Step es - ru
+	Каждое чтение предоставит новый параллельный текст для понимания текста. Говоря о символах, он существует в таких работах, как купальщик на реке Гераклит, который невозможно воспроизвести, потому что путь всегда меняется.
+
+Step ru - ar
+	ستوفر كل قراءة نصًا متوازيًا جديدًا لفهم النص. يتحدث عن الرموز ، وهو موجود في مثل هذه الأعمال مثل bather على نهر Heraclitus ، والتي لا يمكن استنساخها ، لأن المسار يتغير دائما.
+
+Step ar - es
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, existe en obras como el bañista en el río Heráclito, que no se puede reproducir, porque el camino siempre cambia.
+
+Step es - pt
+	Cada leitura fornecerá um novo texto paralelo para entender o texto. Por falar em símbolos, existe em obras como o banho no rio Heráclito, que não pode ser reproduzido, porque o caminho sempre muda.
+
+Step pt - en
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, it exists in works such as bathing in the Heraclitus River, which cannot be reproduced, because the path always changes.
+
+Step en - es
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, existe en obras como bañarse en el río Heráclito, que no se puede reproducir, porque el camino siempre cambia.
+
+Step es - en
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, there are works such as bathing in the Heráclito river, which cannot be reproduced, because the path always changes.
+
+Step en - hi
+	प्रत्येक रीडिंग पाठ को समझने के लिए एक नया समानांतर पाठ प्रदान करेगा। प्रतीकों की बात करें, तो हेर्क्लिटो नदी में स्नान करने जैसे काम हैं, जिन्हें फिर से शुरू नहीं किया जा सकता, क्योंकि मार्ग हमेशा बदलता रहता है।
+
+Step hi - pt
+	Cada leitura fornecerá um novo texto paralelo para entender o texto. Por falar em símbolos, há coisas como tomar banho no rio Herclito, que não podem ser retomadas, pois a rota sempre muda.
+
+Step pt - es
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, hay cosas como bañarse en el río Herclito que no se pueden reanudar porque la ruta siempre cambia.
+
+Step es - en
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, there are things like bathing in the Herclito River that cannot be resumed because the route always changes.
+
+Step en - bn
+	প্রতিটি পাঠ পাঠটি বুঝতে নতুন একটি সমান্তরাল পাঠ্য সরবরাহ করবে। প্রতীকগুলির কথা বললে, হারকিলিটো নদীতে স্নানের মতো জিনিস রয়েছে যা আবার শুরু করা যায় না কারণ রুটটি সর্বদা পরিবর্তিত হয়।
+
+Step bn - fr
+	Chaque leçon fournira un nouveau texte parallèle pour comprendre la leçon. En parlant de symboles, il est impossible de reprendre la baignade dans la rivière Herkilito car le parcours change constamment.
+
+Step fr - fr
+	Chaque leçon fournira un nouveau texte parallèle pour comprendre la leçon. En parlant de symboles, il est impossible de reprendre la baignade dans la rivière Herkilito car le parcours change constamment.
+
+Step fr - lo
+	ບົດຮຽນແຕ່ລະບົດຈະສະ ໜອງ ຂໍ້ຄວາມຂະ ໜານ ໃໝ່ ເພື່ອເຂົ້າໃຈບົດຮຽນ. ເວົ້າເຖິງສັນຍາລັກ, ມັນເປັນໄປບໍ່ໄດ້ທີ່ຈະສືບຕໍ່ລອຍນໍ້າໃນແມ່ນ້ ຳ Herkilito ຍ້ອນວ່າເສັ້ນທາງປ່ຽນແປງໄປເລື້ອຍໆ.
+
+Step lo - en
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River as the route changes.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito à medida que a rota muda.
+
+Step pt - en
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River as the route changes.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito à medida que a rota muda.
+
+Step pt - en
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River as the route changes.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito à medida que a rota muda.
+
+Step pt - my
+	တစ်ခုချင်းစီကိုသင်ခန်းစာသင်ခန်းစာနားလည်ရန်သစ်တစ်ခုအတိုင်းအတာပေးပါသည်။ အမှတ်လက္ခဏာတွေ၏စကားပြောသောကလမ်းကြောင်းအပြောင်းအလဲများအဖြစ်မြစ် Herkilito အတွက်ရေကူးသွားကြဖို့မဖြစ်နိုင်ဘူး။
+
+Step my - ne
+	प्रत्येक पाठ पाठ बुझ्न नयाँ आयाम दिन्छ। बोल्ने को प्रतीकात्मक रूप, बाटो Herkilito पौडी जान असम्भव नदी रूपमा परिवर्तन।
+
+Step ne - ur
+	ہر سبق سے متن کو سمجھنے میں ایک نئی جہت ملتی ہے۔ بولنے کی علامتی شکل ، ہرکلیٹو جس طرح بدلتا ہے ندی کے طور پر تیرنا ناممکن ہے۔
+
+Step ur - fr
+	Chaque leçon fournit une nouvelle dimension pour comprendre le texte. Il est impossible de nager comme une rivière, car la forme symbolique du discours change.
+
+Step fr - ur
+	متن کو سمجھنے کے لئے ہر سبق ایک نئی جہت فراہم کرتا ہے۔ ندی کی طرح تیرنا ناممکن ہے کیونکہ تقریر کی علامتی شکل بدل جاتی ہے۔
+
+Step ur - ne
+	प्रत्येक पाठ पाठ बुझ्नको लागि नयाँ आयाम प्रदान गर्दछ। नदी जस्तो पौडी खेल्न असम्भव छ किनकि लाक्षणिक रूप परिवर्तन हुन्छ।
+
+Step ne - my
+	တစ်ခုချင်းစီကိုသင်ခန်းစာစာသားကိုနားလည်အတွက်အသစ်တခုအတိုင်းအတာပေးပါသည်။ ဒါကြောင့်ပုံဆောငျများအတွက်အပြောင်းအလဲအဖြစ်မြစ်ကူးဖို့မဖြစ်နိုင်ဘူးအဖြစ်။
+
+Step my - pt
+	Cada lição dá uma nova dimensão à compreensão do texto. Então, como uma mudança simbólica para tão impossível atravessar o rio.
+
+Step pt - en
+	Each lesson gives a new dimension to understanding the text. So as a symbolic change to so impossible to cross the river.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para a compreensão do texto. Então, como uma mudança simbólica para tão impossível atravessar o rio.
+
+Step pt - en
+	Each lesson provides a new dimension for understanding the text. So as a symbolic change to so impossible to cross the river.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para a compreensão do texto. Então, como uma mudança simbólica para tão impossível atravessar o rio.
+
+Step pt - en
+	Each lesson provides a new dimension for understanding the text. So as a symbolic change to so impossible to cross the river.
+
+Step en - lo
+	ແຕ່ລະບົດຮຽນໄດ້ໃຫ້ມິຕິ ໃໝ່ ສຳ ລັບການເຂົ້າໃຈບົດເລື່ອງ. ສະນັ້ນເປັນການປ່ຽນສັນຍາລັກເພື່ອເປັນໄປບໍ່ໄດ້ທີ່ຈະຂ້າມແມ່ນໍ້າ.
+
+Step lo - fr
+	Chaque leçon fournit une nouvelle dimension pour comprendre le texte. Un changement symbolique a donc rendu impossible la traversée de la rivière.
+
+Step fr - fr
+	Chaque leçon fournit une nouvelle dimension pour comprendre le texte. Un changement symbolique a donc rendu impossible la traversée de la rivière.
+
+Step fr - bn
+	প্রতিটি পাঠ পাঠটি বোঝার জন্য একটি নতুন মাত্রা সরবরাহ করে। একটি প্রতীকী পরিবর্তন নদীর পার হওয়া অসম্ভব করে তুলেছে।
+
+Step bn - en
+	Each lesson provides a new dimension for understanding the lesson. A symbolic change made it impossible to cross the river.
+
+Step en - es
+	Cada lección proporciona una nueva dimensión para entender la lección. Un cambio simbólico hizo imposible cruzar el río.
+
+Step es - pt
+	Cada lição fornece uma nova dimensão para entender a lição. Uma mudança simbólica tornou impossível atravessar o rio.
+
+Step pt - hi
+	प्रत्येक पाठ पाठ को समझने के लिए एक नया आयाम प्रदान करता है। एक प्रतीकात्मक परिवर्तन ने नदी को पार करना असंभव बना दिया।
+
+Step hi - en
+	Each lesson provides a new dimension to understanding the text. A symbolic change made it impossible to cross the river.
+
+Step en - es
+	Cada lección proporciona una nueva dimensión para comprender el texto. Un cambio simbólico hizo imposible cruzar el río.
+
+Step es - en
+	Each lesson provides a new dimension to understand the text. A symbolic change made it impossible to cross the river.
+
+Step en - pt
+	Cada lição fornece uma nova dimensão para entender o texto. Uma mudança simbólica tornou impossível atravessar o rio.
+
+Step pt - es
+	Cada lección proporciona una nueva dimensión para comprender el texto. Un cambio simbólico hizo imposible cruzar el río.
+
+Step es - ar
+	يوفر كل درس بعدًا جديدًا لفهم النص. تغيير رمزي جعل من المستحيل عبور النهر.
+
+Step ar - ru
+	Каждый урок дает новое измерение для понимания текста. Символические изменения сделали невозможным пересечение реки.
+
+Step ru - es
+	Cada lección proporciona una nueva dimensión para comprender el texto. Los cambios simbólicos hicieron imposible cruzar el río.
+
+Step es - ar
+	يوفر كل درس بعدًا جديدًا لفهم النص. التغييرات الرمزية جعلت من المستحيل عبور النهر.
+
+Step ar - ar
+	يوفر كل درس بعدًا جديدًا لفهم النص. التغييرات الرمزية جعلت من المستحيل عبور النهر.
+
+Step ar - es
+	Cada lección proporciona una nueva dimensión para comprender el texto. Los cambios simbólicos hicieron imposible cruzar el río.
+
+Step es - vi
+	Mỗi bài học cung cấp một chiều hướng mới để hiểu văn bản. Những thay đổi mang tính biểu tượng khiến nó không thể qua sông.
+
+Step vi - id
+	Setiap pelajaran memberikan dimensi baru untuk memahami teks. Perubahan ikonik membuat tidak mungkin menyeberangi sungai.
+
+Step id - ar
+	يوفر كل درس بعدًا جديدًا لفهم النص. التغييرات الأيقونية تجعل من المستحيل عبور النهر.
+
+Step ar - zu
+	Isifundo ngasinye sinikeza isici esisha sokuqonda umbhalo. Izinguquko ze-Iconic zenza kube nzima ukuwela umfula.
+
+Step zu - tl
+	Ang bawat aralin ay nag-aalok ng isang bagong elemento ng pag-unawa sa teksto. Ang mga pagbabagong icon ay nagpapahirap sa pagtawid sa ilog.
+
+Step tl - pt
+	Cada lição oferece um novo elemento de entendimento textual. A mudança de ícones dificulta a travessia do rio.
+
+
+##### RESULTADO ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Cada lição oferece um novo elemento de entendimento textual. A mudança de ícones dificulta a travessia do rio.
+

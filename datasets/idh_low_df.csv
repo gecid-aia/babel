@@ -1,10 +1,10 @@
 Positon,Country,IDH,Language,Code
 152,Solomon Islands,0.546,English,en
 153,Papua New Guinea,0.544,English,en
-154,Tanzania,0.538,English,en
+154,Tanzania,0.538,Swahili,sw
 155,Syria,0.536,Arabic,ar
 156,Zimbabwe,0.535,Shona,sn
-157,Nigeria,0.532,English,en
+157,Nigeria,0.532,Hausa,ha
 158,Rwanda,0.524,Swahili,sw
 159,Lesotho,0.52,English,en
 159,Mauritania,0.52,Arabic,ar
@@ -23,7 +23,7 @@ Positon,Country,IDH,Language,Code
 173,Ethiopia,0.463,Amharic,am
 174,Gambia,0.46,English,en
 175,Guinea,0.459,French,fr
-176,Democratic Republic of the Congo,0.457,French,fr
+176,Democratic Republic of the Congo,0.457,Swahili,sw
 177,Guinea-Bissau,0.455,Portuguese,pt
 178,Yemen,0.452,Arabic,ar
 180,Mozambique,0.437,Portuguese,pt
@@ -31,8 +31,8 @@ Positon,Country,IDH,Language,Code
 182,Mali,0.427,French,fr
 183,Burkina Faso,0.423,French,fr
 184,Sierra Leone,0.419,English,en
-185,Burundi,0.417,French,fr
+185,Burundi,0.417,Swahili,sw
 186,Chad,0.404,Arabic,ar
-187,South Sudan,0.388,English,en
+187,South Sudan,0.388,Arabic,en
 188,Central African Republic,0.367,French,fr
-189,Niger,0.354,French,fr
+189,Niger,0.354,Hausa,ha
