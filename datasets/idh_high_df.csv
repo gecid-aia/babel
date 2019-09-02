@@ -1,60 +1,51 @@
-Position,Country,IDH,Language,Code
-1,Norway,0.953,Norwegian,no
-2,Switzerland,0.944,Italian,it
-3,Australia,0.939,English,en
-4,Ireland,0.938,Irish,ga
-5,Germany,0.936,German,de
-6,Iceland,0.935,Icelandic,is
-7,Hong Kong,0.933,Chinese (Traditional),zh-TW 
-8,Sweden,0.933,Swedish,sv
-9,Singapore,0.932,Chinese (Traditional),zh-TW 
-10,Netherlands,0.931,Dutch,nl
-11,Denmark,0.929,Danish,da
-12,Canada,0.926,English,em
-13,United States,0.924,English,en
-14,United Kingdom,0.922,English,en
-15,Finland,0.92,Finnish,fi
-16,New Zealand,0.917,Maori,mi
-17,Belgium,0.916,Dutch,nl
-18,Liechtenstein,0.916,German,de
-19,Japan,0.909,Japanese,já
-20,Austria,0.908,German,de
-21,Luxembourg,0.904,Luxembourgish,lb
-22,Israel,0.903,Hebrew,he
-23,South Korea,0.903,Korean,ko
-24,France,0.901,French,fr
-25,Slovenia,0.896,Slovenian,sl
-26,Spain,0.891,Spanish,es
-27,Czech Republic,0.888,Czech,cs
-28,Italy,0.88,Italian,it
-29,Malta,0.878,Maltese,mt
-30,Estonia,0.871,Estonian,et
-31,Greece,0.87,Greek,el
-32,Cyprus,0.869,Turkish,tr
-33,Poland,0.865,Polish,pl
-34,United Arab Emirates,0.863,Arabic,ar
-35,Andorra,0.858,Catalan,ca
-36,Lithuania,0.858,Lithuanian,lt
-37,Qatar,0.856,Arabic,ar
-38,Slovakia,0.855,Slovak,sk
-39,Brunei,0.853,Malay,ms
-40,Saudi Arabia,0.853,Arabic,ar
-41,Latvia,0.847,Latvian,lv
-42,Portugal,0.847,Portuguese,pt
-43,Bahrain,0.846,Arabic,ar
-44,Chile,0.843,Spanish,es
-45,Hungary,0.838,Hungarian,hu
-46,Croatia,0.831,Croatian,hr
-47,Argentina,0.825,Spanish,es
-48,Oman,0.821,Arabic,ar
-49,Russia,0.816,Russian,ru
-50,Montenegro,0.814,Albanian,sq
-51,Bulgaria,0.813,Bulgarian,bg
-52,Romania,0.811,Romanian,ro
-53,Belarus,0.808,Russian,ru
-54,Bahamas,0.807,English,en
-55,Uruguay,0.804,Spanish,es
-56,Kuwait,0.803,Arabic,ar
-57,Malaysia,0.802,Malay,ms
-58,Barbados,0.8,English,en
-59,Kazakhstan,0.8,Kazakh,kk
+,Positon,Country,IDH,Language,Code
+0,60,Iran,0.798,Persian,fa
+1,60,Palau,0.798,English,en
+2,62,Seychelles,0.797,French,fr
+3,63,Costa Rica,0.794,Spanish,es
+4,64,Turkey,0.791,Turkish,tr
+5,65,Mauritius,0.79,English,en
+6,66,Panama,0.789,Spanish,es
+7,67,Serbia,0.787,Serbian,sr
+8,68,Albania,0.785,Albanian,sq
+9,69,Trinidad and Tobago,0.784,English,en
+10,70,Antigua and Barbuda,0.78,English,en
+11,70,Georgia,0.78,Georgian,ka
+12,72,Saint Kitts and Nevis,0.778,English,en
+13,73,Cuba,0.777,Spanish,es
+14,74,Mexico,0.774,Spanish,es
+15,75,Grenada,0.772,English,en
+16,76,Sri Lanka,0.77,Sinhala,si
+17,77,Bosnia and Herzegovina,0.768,Bosnian,bs
+18,78,Venezuela,0.761,Spanish,es
+19,79,Brazil,0.759,Portuguese,pt
+20,80,Lebanon,0.757,Arabic,ar
+21,80,North Macedonia,0.757,Macedonian,mk
+22,83,Armenia,0.755,Armenian,hy
+23,83,Thailand,0.755,Thai,th
+24,85,Algeria,0.754,Arabic,ar
+25,86,China,0.752,Chinese (Simplified),zh
+26,86,Ecuador,0.752,Spanish,es
+27,88,Ukraine,0.751,Ukrainian,uk
+28,89,Peru,0.75,Spanish,es
+29,90,Colombia,0.747,Spanish,es
+30,90,Saint Lucia,0.747,English,en
+31,92,Fiji,0.741,English,en
+32,92,Mongolia,0.741,Mongolian,mn
+33,94,Dominican Republic,0.736,Spanish,es
+34,95,Jordan,0.735,Arabic,ar
+35,95,Tunisia,0.735,Kurdish,ku
+36,97,Jamaica,0.732,English,en
+37,98,Tonga,0.726,English,en
+38,99,Saint Vincent and the Grenadines,0.723,English,en
+39,100,Suriname,0.72,Dutch,nl
+40,101,Botswana,0.717,English,en
+41,103,Dominica,0.715,English,en
+42,104,Samoa,0.713,Samoan,sm
+43,105,Uzbekistan,0.71,Uzbek,uz
+44,106,Belize,0.708,English,en
+45,106,Marshall Islands,0.708,English,en
+46,108,Libya,0.706,Arabic,ar
+47,110,Gabon,0.702,French,fr
+48,110,Paraguay,0.702,Spanish,es
+49,112,Moldova,0.7,Romanian,ro
