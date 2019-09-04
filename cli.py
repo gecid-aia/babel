@@ -18,9 +18,9 @@ def from_idh_csv(filename):
 
     chain_str = ' - '.join(languages)
     cprint.ok(f"Translation chain: {chain_str}.")
-    cprint.ok(f"Input text: {TEXT}.\n")
+    cprint.ok(f"Input text: {TEXT}\n")
 
-    text, result = chain_translate_text(TEXT, 'pt', languages)
+    text, result = chain_translate_text(TEXT, 'pt', languages, monitoring = False)
 
     cprint.ok("\n##### RESULTADO ######\n")
     cprint.ok(text)
