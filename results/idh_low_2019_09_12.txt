@@ -1,0 +1,281 @@
+Translation chain: en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Step 1/68
+>> Portuguese - English
+	For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he stands before the texts as the Heraclitus River Bather, which it is impossible to enter twice because its course is constantly changing.
+
+Step 2/68
+>> English - Swahili
+	Kwa yeye, kila usomaji wa maandishi yoyote daima yatatoa majibu mpya na uelewa wa maandishi hayo. Akiongea kimafanikio, anasimama mbele ya maandiko kama Boti ya Mto Heraclitus, ambayo haiwezekani kuingia mara mbili kwa sababu kozi yake inabadilika kila wakati.
+
+Step 3/68
+>> Swahili - Arabic
+	بالنسبة له ، فإن كل قراءة لأي نص ستوفر دائمًا إجابات جديدة وفهمًا للنص. يتحدث بنجاح ، إنه يقف أمام علامات مثل Heraclitus River Boat ، وهو مستحيل التراجع المزدوج لأن مساره يتغير باستمرار.
+
+Step 4/68
+>> Arabic - Shona
+	Kwaari, kuverenga kwega kwega chero zvinyorwa kunogara kuchizopa mhinduro nyowani uye kunzwisisa kwechinyorwa. Achitaura akabudirira, iye anomira pamberi pezviratidzo zvakaita seHeraclitus river Boat, uye hazvigoneke kudzokorora kaviri nekuti nzira yake iri kuramba ichichinja.
+
+Step 5/68
+>> Shona - Hausa
+	A gare shi, kowane karatun kowane rubutu koyaushe yana ba da sababbin amsa da fa'ida cikin rubutun. Da yake magana game da nasara, yana tsaye a gaban gumaka kamar kogin Heraclitus, kuma ba shi yiwuwa a kwafa saboda hanyarsa tana canzawa koyaushe.
+
+Step 6/68
+>> Hausa - Swahili
+	Kwa yeye, kila usomaji wa maandishi kila wakati hutoa majibu mpya na faida katika maandishi. Akizungumzia mafanikio, yeye husimama mbele ya sanamu kama mto Heraclitus, na haiwezekani kuiga kwa sababu njia yake inabadilika kila wakati.
+
+Step 7/68
+>> Swahili - English
+	For him, every text reading always provides new answers and benefits in the text. Speaking of success, he stands in front of an image like the river Heraclitus, and it is impossible to imitate because his path is constantly changing.
+
+Step 8/68
+>> English - Arabic
+	بالنسبة له ، كل قراءة نصية توفر دائمًا إجابات وفوائد جديدة في النص. في معرض حديثه عن النجاح ، يقف أمام صورة مثل نهر هيراكليتس ، ومن المستحيل تقليده لأن طريقه يتغير باستمرار.
+
+Step 9/68
+>> Arabic - Malagasy
+	Ho azy, ny famakiana isaky ny andinin-teny dia manome valiny vaovao sy tombontsoa ao anaty lahatsoratra. Raha hiresaka fahombiazana dia mijoro eo anoloana sary sahala amin'ny reniranon'i Heraclitus, ary tsy azo atao ny maka tahaka an'io satria miova tsy tapaka ny lalany.
+
+Step 10/68
+>> Malagasy - Swahili
+	Kwa yeye, kusoma kila kifungu kunatoa majibu mapya na faida katika maandishi. Linapokufaulu, linasimama mbele ya picha kama mto Heraclitus, na haiwezekani kuiga kwa sababu njia yake inabadilika kila wakati.
+
+Step 11/68
+>> Swahili - French
+	Pour lui, la lecture de chaque paragraphe fournit de nouvelles réponses et de nouveaux avantages dans le texte. Quand il échoue, il se place devant une image comme la rivière Héraclite et il est impossible de l'imiter car son chemin change constamment.
+
+Step 12/68
+>> French - Arabic
+	بالنسبة له ، توفر قراءة كل فقرة إجابات جديدة وفوائد جديدة في النص. عندما يفشل ، يضع نفسه أمام صورة مثل نهر هيراكليتس ويستحيل تقليده لأن طريقه يتغير باستمرار.
+
+Step 13/68
+>> Arabic - French
+	Pour lui, la lecture de chaque paragraphe fournit de nouvelles réponses et de nouveaux avantages dans le texte. Lorsqu'il échoue, il se place devant une image comme le fleuve Héraclite et il est impossible de l'imiter car son chemin change constamment.
+
+Step 14/68
+>> French - Arabic
+	بالنسبة له ، توفر قراءة كل فقرة إجابات جديدة وفوائد جديدة في النص. عندما يفشل ، يضع نفسه أمام صورة مثل نهر هيراكليتس ويستحيل تقليده لأن طريقه يتغير باستمرار.
+
+Step 15/68
+>> Arabic - Haitian Creole
+	Pou li, li chak paragraf bay repons ak nouvo benefis nouvo nan tèks la. Lè li echwe, li mete tèt li nan devan yon foto tankou Heraclitus larivyè Lefrat ak se enposib imite paske chemen l 'yo toujou ap chanje.
+
+Step 16/68
+>> Haitian Creole - Pashto
+	د هغې لپاره ، د هرې پاراګراف لوستل نوي متن ته نوي ځوابونه او نوې ګټې ورکوي. کله چې هغه ناکام شي ، نو هغه ځان د هرکلیټس سیند په څیر د عکس مخې ته نیسي او د نقشه کول یې ناممکن دي ځکه چې د هغه لاره په دوامداره توګه بدلیږي.
+
+Step 17/68
+>> Pashto - French
+	Pour elle, la lecture de chaque paragraphe donne de nouvelles réponses et de nouveaux avantages au nouveau texte. Lorsqu'il échoue, il se place devant un miroir le long de la rivière Hercules et il est impossible de le cartographier car son chemin change constamment.
+
+Step 18/68
+>> French - Chichewa
+	Kwa iye, kuwerenga ndime iliyonse kumamupatsa mayankho atsopano komanso zabwino zatsopano. Akalephera, amadziyika patsogolo pagalasi pafupi ndi Mtsinje wa Hercules ndipo ndizosatheka kupanga mapu chifukwa njira yake imasintha nthawi zonse.
+
+Step 19/68
+>> Chichewa - Arabic
+	بالنسبة له ، فإن قراءة كل فقرة يعطيه إجابات جديدة وإمكانيات جديدة. عندما يفشل ، يضع نفسه أمام مرآة بالقرب من نهر هيركوليس ويستحيل رسم خريطة لأن طريقه يتغير باستمرار.
+
+Step 20/68
+>> Arabic - Amharic
+	ለእሱ እያንዳንዱን አንቀፅ ማንበብ አዳዲስ መልሶችን እና አዳዲስ አማራጮችን ይሰጠዋል ፡፡ ሲሳካለት በሄክኩለስ ወንዝ አጠገብ ባለው መስታወት ፊት ለፊት አቆመ እና መንገዱ ያለማቋረጥ እየተለወጠ ስለሆነ ካርታውን ለማሳየት የማይቻል ነው ፡፡
+
+Step 21/68
+>> Amharic - English
+	Reading each paragraph gives him new answers and new possibilities. When he failed, he parked in front of the glass near the Hercules River and the road was constantly changing so it was impossible to show the map.
+
+Step 22/68
+>> English - French
+	La lecture de chaque paragraphe lui donne de nouvelles réponses et de nouvelles possibilités. Lorsqu'il a échoué, il s'est garé devant la vitre près de la rivière Hercules et la route changeant constamment, il était donc impossible d'afficher la carte.
+
+Step 23/68
+>> French - Swahili
+	Kusoma kila aya kumpa majibu mapya na uwezekano mpya. Aliposhindwa, akapaki mbele ya dirisha karibu na Mto wa Hercules na barabara ilikuwa ikibadilika kila wakati, kwa hivyo haikuwezekana kuonyesha ramani.
+
+Step 24/68
+>> Swahili - Portuguese
+	A leitura de cada parágrafo fornece novas respostas e novas possibilidades. Quando ele falhou, ele estacionou em frente a uma janela perto do rio Hércules e a estrada estava constantemente mudando, por isso era impossível mostrar o mapa.
+
+Step 25/68
+>> Portuguese - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وإمكانيات جديدة. عندما فشل ، توقف أمام نافذة بالقرب من نهر هرقل وكان الطريق يتغير باستمرار ، لذلك كان من المستحيل إظهار الخريطة.
+
+Step 26/68
+>> Arabic - Portuguese
+	A leitura de cada parágrafo fornece novas respostas e novas possibilidades. Quando ele falhou, ele parou em frente a uma janela perto do rio Hércules e a estrada estava constantemente mudando, por isso era impossível mostrar o mapa.
+
+Step 27/68
+>> Portuguese - English
+	Reading each paragraph provides new answers and new possibilities. When he failed, he stopped in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 28/68
+>> English - French
+	La lecture de chaque paragraphe fournit de nouvelles réponses et de nouvelles possibilités. Quand il a échoué, il s’est arrêté devant une fenêtre près de la rivière Hercules et la route changeant constamment, il était donc impossible de montrer la carte.
+
+Step 29/68
+>> French - English
+	Reading each paragraph provides new answers and new possibilities. When he failed, he stopped in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 30/68
+>> English - Swahili
+	Kusoma kila aya hutoa majibu mapya na uwezekano mpya. Aliposhindwa, akasimama mbele ya dirisha karibu na Mto wa Hercules na barabara ilikuwa ikibadilika kila wakati, kwa hivyo haikuwezekana kuonyesha ramani.
+
+Step 31/68
+>> Swahili - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وإمكانيات جديدة. عندما فشل ، وقف أمام نافذة بالقرب من نهر هرقل وكان الطريق يتغير باستمرار ، لذلك كان من المستحيل إظهار الخريطة.
+
+Step 32/68
+>> Arabic - Arabic
+	Reading each paragraph provides new answers and new possibilities. When he failed, he stood in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 33/68
+>> Arabic - French
+	La lecture de chaque paragraphe fournit de nouvelles réponses et de nouvelles possibilités. Lorsqu'il a échoué, il s'est tenu devant une fenêtre près de la rivière Hercules et la route changeant constamment, il était donc impossible de montrer la carte.
+
+Step 34/68
+>> French - Hausa
+	Karatun kowane sakin layi yana ba da sababbin amsoshi da sababbin damar. Lokacin da ya kasa, ya tsaya gaban taga kusa da Kogin Hercules kuma hanyar tana canzawa koyaushe, saboda haka ba shi yiwuwa a nuna taswirar.
+
+Step 35/68
+>> Hausa - French
+	La lecture de chaque paragraphe offre de nouvelles réponses et de nouvelles opportunités. Lorsqu'il a échoué, il s'est tenu devant une fenêtre près de la rivière Hercules et la route changeant constamment, il était donc impossible de montrer la carte.
+
+Step 36/68
+>> French - Arabic
+	Reading each paragraph offers new answers and new opportunities. When he failed, he stood in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 37/68
+>> Arabic - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وفرصًا جديدة. عندما فشل ، وقف أمام نافذة بالقرب من نهر هرقل والطريق كان يتغير باستمرار ، لذلك كان من المستحيل أن تظهر الخريطة.
+
+Step 38/68
+>> Arabic - Swahili
+	Kusoma kila aya inatoa majibu mapya na fursa mpya. Aliposhindwa, alisimama mbele ya dirisha karibu na Mto wa Hercules na barabara ilikuwa ikibadilika kila wakati, kwa hivyo haikuwezekana kuonyesha ramani.
+
+Step 39/68
+>> Swahili - English
+	Reading each paragraph offers new answers and new opportunities. When he failed, he stopped in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 40/68
+>> English - French
+	La lecture de chaque paragraphe offre de nouvelles réponses et de nouvelles opportunités. Quand il a échoué, il s’est arrêté devant une fenêtre près de la rivière Hercules et la route changeant constamment, il était donc impossible de montrer la carte.
+
+Step 41/68
+>> French - English
+	Reading each paragraph offers new answers and new opportunities. When he failed, he stopped in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 42/68
+>> English - Portuguese
+	A leitura de cada parágrafo oferece novas respostas e novas oportunidades. Quando ele falhou, ele parou em frente a uma janela perto do rio Hércules e a estrada estava constantemente mudando, por isso era impossível mostrar o mapa.
+
+Step 43/68
+>> Portuguese - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وفرصًا جديدة. عندما فشل ، توقف أمام نافذة بالقرب من نهر هرقل وكان الطريق يتغير باستمرار ، لذلك كان من المستحيل إظهار الخريطة.
+
+Step 44/68
+>> Arabic - Portuguese
+	A leitura de cada parágrafo fornece novas respostas e novas oportunidades. Quando ele falhou, ele parou em frente a uma janela perto do rio Hércules e a estrada estava constantemente mudando, por isso era impossível mostrar o mapa.
+
+Step 45/68
+>> Portuguese - Swahili
+	Kusoma kila aya inatoa majibu mapya na fursa mpya. Aliposhindwa, akasimama mbele ya dirisha karibu na Mto wa Hercules na barabara ilikuwa ikibadilika kila wakati, kwa hivyo haikuwezekana kuonyesha ramani.
+
+Step 46/68
+>> Swahili - French
+	La lecture de chaque paragraphe offre de nouvelles réponses et de nouvelles opportunités. Lorsqu'il a échoué, il s'est tenu devant une fenêtre près de la rivière Hercules et la route changeant constamment, il était donc impossible de montrer la carte.
+
+Step 47/68
+>> French - English
+	Reading each paragraph offers new answers and new opportunities. When he failed, he stood in front of a window near the Hercules River and the road was constantly changing, so it was impossible to show the map.
+
+Step 48/68
+>> English - Amharic
+	እያንዳንዱን አንቀጽ ማንበብ አዳዲስ መልሶችን እና አዳዲስ ዕድሎችን ይሰጣል ፡፡ ሲሳካለት በሃርኩለስ ወንዝ አቅራቢያ ባለው መስኮት ፊት ቆሞ ቆሞ መንገዱ ያለማቋረጥ እየተቀየረ ስለነበረ ካርታውን ማሳየት አልተቻለም ፡፡
+
+Step 49/68
+>> Amharic - Arabic
+	قراءة كل فقرة تعطي إجابات جديدة وفرصًا جديدة. عندما نجح ، كان يقف أمام نافذة بالقرب من نهر هرقل وكان الطريق يتغير باستمرار ، لذلك لم يتمكن من إظهار الخريطة.
+
+Step 50/68
+>> Arabic - Chichewa
+	Kuwerenga ndime iliyonse kumapereka mayankho atsopano komanso mwayi watsopano. Atachita bwino, adayimirira kutsogolo pazenera pafupi ndi Mtsinje wa Hercules ndipo msewu unkasinthasintha, kotero sanathe kuwonetsa mapu.
+
+Step 51/68
+>> Chichewa - French
+	La lecture de chaque paragraphe fournit de nouvelles réponses et de nouvelles opportunités. Quand il eut fini, il se tenait devant une fenêtre près de la rivière Hercules et la route tournait pour ne pas pouvoir montrer la carte.
+
+Step 52/68
+>> French - Pashto
+	د هرې پاراګراف لوستل نوي ځوابونه او نوي فرصتونه چمتو کوي. کله چې هغه ترسره شو ، هغه د هرکولیس سیند ته نږدې د یوې کړکۍ مخې ته ولاړ و او لاره یې بدله وه نو نشی کولی نقشه وښیې.
+
+Step 53/68
+>> Pashto - Haitian Creole
+	Lekti chak paragraf bay nouvo repons ak nouvo opòtinite. Lè li te fè, li te kanpe devan yon fenèt tou pre Hercules larivyè Lefrat la ak chemen an te chanje pou li pa t 'kapab montre kat la.
+
+Step 54/68
+>> Haitian Creole - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وفرصًا جديدة. عندما فعل ذلك ، وقف أمام نافذة بالقرب من نهر هرقل وتم تغيير المسار حتى لا يتمكن من عرض الخريطة.
+
+Step 55/68
+>> Arabic - French
+	La lecture de chaque paragraphe fournit de nouvelles réponses et de nouvelles opportunités. Quand il l'a fait, il s'est tenu devant une fenêtre près de la rivière Hercules et le chemin a été modifié pour qu'il ne puisse pas voir la carte.
+
+Step 56/68
+>> French - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وفرصًا جديدة. عندما فعل ذلك ، وقف أمام نافذة بالقرب من نهر هرقل وتم تغيير المسار حتى لا يتمكن من رؤية الخريطة.
+
+Step 57/68
+>> Arabic - French
+	La lecture de chaque paragraphe fournit de nouvelles réponses et de nouvelles opportunités. Quand il l'a fait, il s'est tenu devant une fenêtre près de la rivière Hercules et le chemin a été modifié pour qu'il ne puisse pas voir la carte.
+
+Step 58/68
+>> French - Swahili
+	Kusoma kila aya inatoa majibu mapya na fursa mpya. Alipofanya hivyo, alisimama mbele ya dirisha karibu na Mto wa Hercules na njia ilibadilishwa ili asione ramani.
+
+Step 59/68
+>> Swahili - Malagasy
+	Ny famakiana fehintsoratra tsirairay dia manome valiny vaovao sy fotoana vaovao. Rehefa nanao izany izy dia nijanona teo anoloan'ny varavarankely teo akaikin'ny Reniranon'i Hercules ary niova ny lalana mba tsy ahitany ilay sarintany.
+
+Step 60/68
+>> Malagasy - Arabic
+	قراءة كل فقرة توفر إجابات جديدة وأوقات جديدة. كما فعل ذلك ، توقف عند نافذة بالقرب من نهر هيركوليس وغير اتجاهه حتى لا يتمكن من رؤية الخريطة.
+
+Step 61/68
+>> Arabic - English
+	Reading each paragraph provides new answers and new times. As he did, he stopped at a window near the Hercules River and changed direction so he could not see the map.
+
+Step 62/68
+>> English - Swahili
+	Kusoma kila aya hutoa majibu mapya na nyakati mpya. Alipofanya hivyo, akasimama kwenye dirisha karibu na Mto wa Hercules na akabadilisha mwelekeo ili asiweze kuona ramani.
+
+Step 63/68
+>> Swahili - Hausa
+	Karatun kowane sakin layi yana ba da sababbin amsoshi da sababbin lokuta. Da ya yi haka, sai ya tsaya a kan taga kusa da Kogin Hercules kuma ya canza alƙawarin don ya ga katun.
+
+Step 64/68
+>> Hausa - Shona
+	Kuverenga ndima yega yega kunopa mhinduro nyowani uye nguva nyowani. Paakadaro, akamira pahwindo pedyo neHercules River uye akachinja musangano wake kuti aone makadhi.
+
+Step 65/68
+>> Shona - Arabic
+	قراءة كل فقرة تمنحك إجابة أفضل ووقت أفضل. عندما فعل ذلك ، وقف عند نافذة بالقرب من نهر هرقل وتحول لقائه لرؤية البطاقات.
+
+Step 66/68
+>> Arabic - Swahili
+	Kusoma kila aya hukupa jibu bora na wakati mzuri. Alipofanya hivyo, alisimama kwenye dirisha karibu na Mto wa Hercules na kugeuka kukutana naye ili kuona kadi.
+
+Step 67/68
+>> Swahili - English
+	Reading each paragraph gives you the best answer and the best time. As he did so, he stood at a window near the Hercules River and turned to meet him to see the card.
+
+Step 68/68
+>> English - Portuguese
+	A leitura de cada parágrafo fornece a melhor resposta e o melhor horário. Ao fazê-lo, ele parou em uma janela perto do rio Hércules e virou-se para encontrá-lo para ver o cartão.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+A leitura de cada parágrafo fornece a melhor resposta e o melhor horário. Ao fazê-lo, ele parou em uma janela perto do rio Hércules e virou-se para encontrá-lo para ver o cartão.

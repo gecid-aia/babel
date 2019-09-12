@@ -1,0 +1,265 @@
+Translation chain: tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Step 1/64
+>> Portuguese - Filipino
+	Para sa kanya, ang bawat pagbabasa ng anumang teksto ay palaging magbibigay ng isang bagong pagbabago ng laki at pag-unawa sa teksto na iyon. Sa pagsasalita ng metaphorically, nakatayo siya sa mga teksto bilang Heraclitus River Bather, na imposible na makapasok nang dalawang beses sapagkat ang kurso nito ay patuloy na nagbabago.
+
+Step 2/64
+>> Filipino - Zulu
+	Ngaye, konke ukufundwa kwanoma yimuphi umbhalo kuyohlala kunikeza ukufana okusha nokuqonda kwalowo mbhalo. Ekhuluma ngokufanekisa, umi emibhalweni njenge-Heraclitus River Bather, okungenakwenzeka ukungena kabili ngoba inkambo yayo ihlala ishintsha.
+
+Step 3/64
+>> Zulu - Arabic
+	من خلاله ، ستوفر كل قراءة لأي نص موازٍ جديدة لفهم ذلك النص. يتحدث عن الرمزية ، فهو يقف في كتابات مثل Heraclitus River Bather ، وهو مستحيل التراجع المزدوج لأن مساره يتغير دائمًا.
+
+Step 4/64
+>> Arabic - Indonesian
+	Setiap pembacaan akan menyediakan teks paralel baru untuk memahami teks itu. Berbicara tentang simbolisme, ia berdiri dalam tulisan-tulisan seperti Heraclitus River Bather, yang tidak mungkin digandakan mundur karena jalannya selalu berubah.
+
+Step 5/64
+>> Indonesian - Vietnamese
+	Mỗi bài đọc sẽ cung cấp một văn bản song song mới để hiểu văn bản. Nói về biểu tượng, ông đứng trong các tác phẩm như Heraclitus River Bather, không thể được sao chép ngược vì con đường luôn thay đổi.
+
+Step 6/64
+>> Vietnamese - Spanish
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, se encuentra en obras como Heraclitus River Bather, que no se puede reproducir porque el camino siempre está cambiando.
+
+Step 7/64
+>> Spanish - Arabic
+	ستوفر كل قراءة نصًا موازًا جديدًا لفهم النص. عند الحديث عن الرموز ، يوجد في أعمال مثل Heraclitus River Bather ، والتي لا يمكن استنساخها لأن المسار يتغير دائمًا.
+
+Step 8/64
+>> Arabic - Spanish
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Cuando se habla de símbolos, existe en obras como Heraclitus River Bather, que no se puede reproducir porque el camino siempre cambia.
+
+Step 9/64
+>> Spanish - Russian
+	Каждое чтение предоставит новый параллельный текст для понимания текста. Говоря о символах, он существует в таких работах, как купальщик на реке Гераклит, который невозможно воспроизвести, потому что путь всегда меняется.
+
+Step 10/64
+>> Russian - Arabic
+	ستوفر كل قراءة نصًا متوازيًا جديدًا لفهم النص. يتحدث عن الرموز ، وهو موجود في مثل هذه الأعمال مثل bather على نهر Heraclitus ، والتي لا يمكن استنساخها ، لأن المسار يتغير دائما.
+
+Step 11/64
+>> Arabic - Spanish
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, existe en obras como el bañista en el río Heráclito, que no se puede reproducir, porque el camino siempre cambia.
+
+Step 12/64
+>> Spanish - Portuguese
+	Cada leitura fornecerá um novo texto paralelo para entender o texto. Por falar em símbolos, existe em obras como o banho no rio Heráclito, que não pode ser reproduzido, porque o caminho sempre muda.
+
+Step 13/64
+>> Portuguese - English
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, it exists in works such as bathing in the Heraclitus River, which cannot be reproduced, because the path always changes.
+
+Step 14/64
+>> English - Spanish
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, existe en obras como bañarse en el río Heráclito, que no se puede reproducir, porque el camino siempre cambia.
+
+Step 15/64
+>> Spanish - English
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, there are works such as bathing in the Heráclito river, which cannot be reproduced, because the path always changes.
+
+Step 16/64
+>> English - Hindi
+	प्रत्येक रीडिंग पाठ को समझने के लिए एक नया समानांतर पाठ प्रदान करेगा। प्रतीकों की बात करें, तो हेर्क्लिटो नदी में स्नान करने जैसे काम हैं, जिन्हें फिर से शुरू नहीं किया जा सकता, क्योंकि मार्ग हमेशा बदलता रहता है।
+
+Step 17/64
+>> Hindi - Portuguese
+	Cada leitura fornecerá um novo texto paralelo para entender o texto. Por falar em símbolos, há coisas como tomar banho no rio Herclito, que não podem ser retomadas, pois a rota sempre muda.
+
+Step 18/64
+>> Portuguese - Spanish
+	Cada lectura proporcionará un nuevo texto paralelo para comprender el texto. Hablando de símbolos, hay cosas como bañarse en el río Herclito que no se pueden reanudar, ya que la ruta siempre cambia.
+
+Step 19/64
+>> Spanish - English
+	Each reading will provide a new parallel text to understand the text. Speaking of symbols, there are things like bathing in the Herclito River that cannot be resumed, since the route always changes.
+
+Step 20/64
+>> English - Bengali
+	প্রতিটি পাঠ পাঠটি বুঝতে নতুন একটি সমান্তরাল পাঠ্য সরবরাহ করবে। প্রতীকগুলির কথা বললে, হারকিলিটো নদীতে স্নানের মতো জিনিস রয়েছে যা আবার চালু করা যায় না, যেহেতু রুটটি সর্বদা পরিবর্তিত হয়।
+
+Step 21/64
+>> Bengali - French
+	Chaque leçon fournira un nouveau texte parallèle pour comprendre la leçon. En parlant de symboles, il est impossible de reprendre la baignade dans la rivière Herkilito, car la route change constamment.
+
+Step 22/64
+>> French - lao
+	ບົດຮຽນແຕ່ລະບົດຈະສະ ໜອງ ຂໍ້ຄວາມຂະ ໜານ ໃໝ່ ເພື່ອເຂົ້າໃຈບົດຮຽນ. ເວົ້າກ່ຽວກັບສັນຍາລັກ, ມັນກໍ່ເປັນໄປບໍ່ໄດ້ທີ່ຈະສືບຕໍ່ລອຍນ້ ຳ ໃນແມ່ນ້ ຳ Herkilito, ຍ້ອນວ່າເສັ້ນທາງມີການປ່ຽນແປງເລື້ອຍໆ.
+
+Step 23/64
+>> lao - English
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River, as the road is constantly changing.
+
+Step 24/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito, pois a estrada está em constante mudança.
+
+Step 25/64
+>> Portuguese - English
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River, as the road is constantly changing.
+
+Step 26/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito, pois a estrada está em constante mudança.
+
+Step 27/64
+>> Portuguese - English
+	Each lesson provides a new dimension for understanding the lesson. Speaking of symbolism, it is impossible to continue swimming in the Herkilito River, as the road is constantly changing.
+
+Step 28/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para entender a lição. Falando em simbolismo, é impossível continuar nadando no rio Herkilito, pois a estrada está em constante mudança.
+
+Step 29/64
+>> Portuguese - Burmese
+	တစ်ခုချင်းစီကိုသင်ခန်းစာသင်ခန်းစာနားလည်ရန်သစ်တစ်ခုအတိုင်းအတာပေးပါသည်။ လမ်းအဆက်မပြတ်ပြောင်းလဲနေသောကြောင့်အမှတ်လက္ခဏာတွေ၏စကားပြောသောကြောင့်မြစ် Herkilito အတွက်ရေကူးသွားကြဖို့မဖြစ်နိုင်ဘူး။
+
+Step 30/64
+>> Burmese - Nepali
+	प्रत्येक पाठ पाठ बुझ्न नयाँ आयाम दिन्छ। नदी निरन्तर पौडी जान Herkilito असम्भव बोल्ने किनभने प्रतीकात्मक रूप को परिवर्तन गरिएको छ।
+
+Step 31/64
+>> Nepali - Urdu
+	ہر سبق سے متن کو سمجھنے میں ایک نئی جہت ملتی ہے۔ علامتی ظاہری شکل کی وجہ سے ہرکیلیٹو کا دریا میں مسلسل تیراکی کے لئے جانا ناممکن ہے۔
+
+Step 32/64
+>> Urdu - French
+	Chaque leçon fournit une nouvelle dimension pour comprendre le texte. En raison de son apparence symbolique, il est impossible pour Herculetto d'aller nager dans la rivière.
+
+Step 33/64
+>> French - Urdu
+	متن کو سمجھنے کے لئے ہر سبق ایک نئی جہت فراہم کرتا ہے۔ اس کی علامتی ظاہری شکل کی وجہ سے ، ہرکیلیٹو کے لئے دریا میں تیرنا ناممکن ہے۔
+
+Step 34/64
+>> Urdu - Nepali
+	प्रत्येक पाठ पाठ बुझ्नको लागि नयाँ आयाम प्रदान गर्दछ। यसको प्रतीकात्मक स्वरूपको कारण, हरक्युलिसका लागि नदीपारि पौडिन असम्भव छ।
+
+Step 35/64
+>> Nepali - Burmese
+	တစ်ခုချင်းစီကိုသင်ခန်းစာစာသားကိုနားလည်အတွက်အသစ်တခုအတိုင်းအတာပေးပါသည်။ သောကြောင့်ယင်း၏သင်္ကေတပုံစံများ, Hercules မြစ်အတွင်းရေကူးဖို့မဖြစ်နိုင်ဘူး။
+
+Step 36/64
+>> Burmese - Portuguese
+	Cada lição dá uma nova dimensão à compreensão do texto. Seu símbolo é impossível nadar formas, Hercules rio.
+
+Step 37/64
+>> Portuguese - English
+	Each lesson gives a new dimension to understanding the text. Its symbol is impossible to swim shapes, Hercules river.
+
+Step 38/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para a compreensão do texto. Seu símbolo é impossível nadar formas, rio Hércules.
+
+Step 39/64
+>> Portuguese - English
+	Each lesson provides a new dimension for understanding the text. Its symbol is impossible to swim shapes, Hercules river.
+
+Step 40/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para a compreensão do texto. Seu símbolo é impossível nadar formas, rio Hércules.
+
+Step 41/64
+>> Portuguese - English
+	Each lesson provides a new dimension for understanding the text. Its symbol is impossible to swim shapes, Hercules river.
+
+Step 42/64
+>> English - lao
+	ແຕ່ລະບົດຮຽນໄດ້ໃຫ້ມິຕິ ໃໝ່ ສຳ ລັບການເຂົ້າໃຈບົດເລື່ອງ. ສັນຍາລັກຂອງມັນແມ່ນເປັນໄປບໍ່ໄດ້ທີ່ຈະລອຍຮູບຊົງ, ແມ່ນ້ ຳ Hercules.
+
+Step 43/64
+>> lao - French
+	Chaque leçon fournit une nouvelle dimension pour comprendre le texte. Son symbole est impossible à nager dans la forme de la rivière, l'Hercule.
+
+Step 44/64
+>> French - Bengali
+	প্রতিটি পাঠ পাঠটি বোঝার জন্য একটি নতুন মাত্রা সরবরাহ করে। এর প্রতীকটি হারকিউলিস নদীর আকারে সাঁতার কাটা অসম্ভব।
+
+Step 45/64
+>> Bengali - English
+	Each lesson provides a new dimension for understanding the lesson. Its symbol is impossible to swim in the form of the Hercules River.
+
+Step 46/64
+>> English - Spanish
+	Cada lección proporciona una nueva dimensión para entender la lección. Su símbolo es imposible nadar en la forma del río Hércules.
+
+Step 47/64
+>> Spanish - Portuguese
+	Cada lição fornece uma nova dimensão para entender a lição. Seu símbolo é impossível nadar na forma do rio Hércules.
+
+Step 48/64
+>> Portuguese - Hindi
+	प्रत्येक पाठ पाठ को समझने के लिए एक नया आयाम प्रदान करता है। इसका प्रतीक हरक्यूलिस नदी के आकार में तैरना असंभव है।
+
+Step 49/64
+>> Hindi - English
+	Each lesson provides a new dimension to understanding the text. Its symbol is impossible to swim in the shape of the Hercules River.
+
+Step 50/64
+>> English - Spanish
+	Cada lección proporciona una nueva dimensión para comprender el texto. Su símbolo es imposible nadar en la forma del río Hércules.
+
+Step 51/64
+>> Spanish - English
+	Each lesson provides a new dimension to understand the text. Its symbol is impossible to swim in the form of the Hercules river.
+
+Step 52/64
+>> English - Portuguese
+	Cada lição fornece uma nova dimensão para entender o texto. Seu símbolo é impossível nadar na forma do rio Hércules.
+
+Step 53/64
+>> Portuguese - Spanish
+	Cada lección proporciona una nueva dimensión para comprender el texto. Su símbolo es imposible nadar en la forma del río Hércules.
+
+Step 54/64
+>> Spanish - Arabic
+	يوفر كل درس بعدًا جديدًا لفهم النص. من المستحيل السباحة في شكل نهر هرقل.
+
+Step 55/64
+>> Arabic - Russian
+	Каждый урок дает новое измерение для понимания текста. Нельзя купаться в форме реки Геркулес.
+
+Step 56/64
+>> Russian - Spanish
+	Cada lección proporciona una nueva dimensión para comprender el texto. No se puede nadar en la forma del río Hércules.
+
+Step 57/64
+>> Spanish - Arabic
+	يوفر كل درس بعدًا جديدًا لفهم النص. لا يمكنك السباحة على شكل نهر هرقل.
+
+Step 58/64
+>> Arabic - Spanish
+	Cada lección proporciona una nueva dimensión para comprender el texto. No se puede nadar en la forma del río Hércules.
+
+Step 59/64
+>> Spanish - Vietnamese
+	Mỗi bài học cung cấp một chiều hướng mới để hiểu văn bản. Bạn không thể bơi dưới dạng sông Hercules.
+
+Step 60/64
+>> Vietnamese - Indonesian
+	Setiap pelajaran memberikan dimensi baru untuk memahami teks. Anda tidak bisa berenang dalam bentuk sungai Hercules.
+
+Step 61/64
+>> Indonesian - Arabic
+	يوفر كل درس بعدًا جديدًا لفهم النص. لا يمكنك السباحة في شكل نهر هرقل.
+
+Step 62/64
+>> Arabic - Zulu
+	Isifundo ngasinye sinikeza isici esisha sokuqonda umbhalo. Awukwazi ukubhukuda njengoMfula iHercules.
+
+Step 63/64
+>> Zulu - Filipino
+	Ang bawat aralin ay nag-aalok ng isang bagong elemento ng pag-unawa sa teksto. Hindi ka maaaring lumangoy tulad ng Ilog Hercules.
+
+Step 64/64
+>> Filipino - Portuguese
+	Cada lição oferece um novo elemento de entendimento textual. Você não pode nadar como o rio Hércules.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Cada lição oferece um novo elemento de entendimento textual. Você não pode nadar como o rio Hércules.
