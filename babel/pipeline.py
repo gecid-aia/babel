@@ -2,8 +2,6 @@ from cprint import cprint
 
 from babel.translation import from_google
 
-import babel.codelanguage
-
 
 def translation_steps(start_codelang, codelang, two_way=True):
     pipeline = {}
