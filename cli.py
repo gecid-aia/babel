@@ -5,10 +5,6 @@ from cprint import cprint
 from babel.use_cases import chain_translate_text
 
 
-TEXT = """
-Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
-""".strip()
-
 
 @click.command()
 @click.argument('filename', type=click.Path(exists=True))
@@ -20,24 +16,28 @@ def from_idh_csv(filename):
     languages = [e.language.strip() for e in sorted(entries, key=lambda x: x.idh, reverse=True)]
 
     codelang = remove_consecutives({'codes': codes, 'languages': languages})
-
     chain_str = ' - '.join(codes)
-    cprint.ok(f"Translation chain: {chain_str}.")
-    cprint.ok(f"Input text: {TEXT}\n")
 
-    start_codelang = {'codes': 'pt', 'languages': 'Portuguese'}
-    text, result = chain_translate_text(TEXT, start_codelang, codelang, monitoring = False)
+    with open("datasets/1001_noites.txt", 'r') as fd:
+        phrases = [l.strip() for l in fd.readlines() if l.strip()]
 
-    cprint.ok("\n##### RESULTS ######\n")
-    cprint.ok(text)
-    print()
-    cprint.ok(result)
+        for text in phrases:
+            cprint.ok(f"Translation chain: {chain_str}.")
+            cprint.ok(f"Input text: {text}\n")
+
+            start_codelang = {'codes': 'pt', 'languages': 'Portuguese'}
+            text, result = chain_translate_text(text, start_codelang, codelang, monitoring = False)
+
+            cprint.ok("\n##### RESULTS ######\n")
+            cprint.ok(text)
+            print()
+            cprint.ok(result)
 
 def remove_consecutives(codelang):
     new_codelang = {'codes': [], 'languages': []}
     codes = codelang['codes']
     langs = codelang['languages']
-    
+
     last = 0
     new_codelang['codes'].append(codes[0])
     new_codelang['languages'].append(langs[0])
