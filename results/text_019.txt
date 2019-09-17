@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Det var derfor Djafar, Grand Vizier, som hadde banket på damenes dør i kalifens rekkefølge, som ikke ønsket å bli anerkjent. Safia åpnet den; og den vizier, som la merke til lyset fra et stearinlys hun hadde på seg, som var en dame med stor skjønnhet, spilte sin rolle perfekt. Jeg bøyde meg dypt, og sa respektfullt: “Frue, vi er tre kjøpmenn fra Mussul, ankom for ti dager siden, med rike varer vi deponerte i en Khan (10), der vi bor. Vi var i dag hjemme hos en kjøpmann fra denne byen som inviterte oss til å besøke ham. Han tilbød oss et godt måltid; og ettersom vinen hadde satt oss i godt humør, sendte han et band med dansere. Det var natt, musikerne spilte, danserne danset og gruppen kom med stor lyd, mens runden, der de passerte dit, beordret dem til å åpne. Noen ble arrestert. Når det gjelder oss, var vi veldig glade og reddet ved å hoppe over en vegg; men den vizier la til, ettersom vi er utlendinger, og litt overmannet av vin, er vi redd for å finne en annen patrulje, eller det samme, før vi kommer til Khan vår, langt herfra. Og vi ville komme til det ubrukelig, for døren er lukket, og den vil ikke bli åpnet før i morgen, uansett hva som måtte skje. Og så, dame, som, etter å ha hørt instrumenter og stemmer, tror vi at vi kan få lov til å slå, for å be deg om ly til dagens pause. Hvis vi virker verdige til å delta i din glede, vil vi forsøke å bidra så godt vi kan for å belønne avbruddet vi har forårsaket; hvis ikke, i det minste gi oss nåden til å tillate oss å overnatte i salen din.
+
+Step 2/330
+>> Norwegian - German
+	Es war also Djafar, Großwesir, der im Auftrag des Kalifen an die Damentür geklopft hatte und nicht erkannt werden wollte. Safia öffnete es; und der Wesir, der das Licht einer Kerze bemerkte, die sie trug, eine Dame von großer Schönheit, spielte ihre Rolle perfekt. Ich verbeugte mich tief und sagte respektvoll: „Frau, wir sind drei Kaufleute aus Mussul, die vor zehn Tagen mit reichen Gütern angekommen sind, die wir in einem Khan (10) deponiert haben, in dem wir leben. Heute waren wir bei einem Kaufmann aus dieser Stadt, der uns zu einem Besuch einlud. Er bot uns ein gutes Essen an; und da uns der wein gut gelaunt hatte, sandte er eine bande tänzer. Es war Nacht, die Musiker spielten, die Tänzer tanzten und die Gruppe gab ein großes Geräusch von sich, während die Runde, an der sie vorbeikamen, ihnen befahl, sich zu öffnen. Einige wurden festgenommen. Wir waren sehr glücklich und gerettet, als wir über eine Mauer sprangen. Aber der Wesir fügte hinzu, da wir Ausländer und ein bisschen vom Wein überwältigt sind, haben wir Angst, noch eine Patrouille zu finden, oder dasselbe, bevor wir unseren Khan erreichen, weit weg von hier. Und wir würden es nutzlos finden, weil die Tür geschlossen ist und erst morgen geöffnet wird, egal was passiert. Und dann, Frau, nachdem wir die Instrumente und Stimmen gehört haben, denken wir, dass wir zuschlagen dürfen, um Sie für die heutige Pause um Schutz zu bitten. Wenn wir würdig erscheinen, an Ihrer Freude teilzunehmen, werden wir uns bemühen, so gut wie möglich dazu beizutragen, um die von uns verursachte Störung zu belohnen. Wenn nicht, geben Sie uns wenigstens die Gnade, die Nacht in Ihrem Zimmer zu verbringen.
+
+Step 3/330
+>> German - English
+	So it was Djafar, Grand Vizier, who had knocked on the ladies door on behalf of the caliph and did not want to be recognized. Safia opened it; and the vizier, who noticed the light of a candle she wore, a lady of great beauty, played her role perfectly. I bowed deeply and said respectfully, "Madam, we are three merchants from Mussul, who arrived ten days ago with rich goods that we deposited in a Khan (10) in which we live. Today we were with a merchant from this city, who invited us to visit. He offered us a good meal; and since the wine had set us in a good mood, he sent a band dancer. It was night, the musicians were playing, the dancers danced and the group made a big sound as the round they passed ordered them to open. Some were arrested. We were very happy and saved when we jumped over a wall. But the vizier added, since we are foreigners and a bit overwhelmed by the wine, we are afraid to find another patrol, or the same, before we reach our Khan, far away from here. And we would find it useless because the door is closed and will open tomorrow, no matter what. And then, woman, after hearing the instruments and voices, we think we can strike to ask for your protection for today's break. If we appear worthy to participate in your enjoyment, we will endeavor to help as much as possible to reward the disruption we cause. If not, at least give us the grace to spend the night in your room.
+
+Step 4/330
+>> English - Irish
+	Mar sin, ba é Djafar, Grand Vizier, a leag ar dhoras na mban thar ceann an chailín agus nár theastaigh uaidh a aithint. D'oscail Safia é; agus an vizier, a thug faoi deara solas coinnle a chaith sí, bean a raibh an-áilleacht uirthi, d’imir sí a ról go foirfe. Chlaon mé go domhain agus dúirt mé go measúil, "Madam, táimid ag triúr ceannaithe ó Mussul, a tháinig le deich lá ó shin le hearraí saibhre a thaiscimid i Khan (10) ina mairimid. Inniu bhí muid le ceannaí ón gcathair seo, a Thug sé cuireadh dúinn cuairt a thabhairt air. Thug sé béile maith dúinn, agus ós rud é go raibh giúmar maith ag an bhfíon, sheol sé damhsóir bannaí, oíche, bhí na ceoltóirí ag seinm, damhsóirí ag damhsa agus rinne an grúpa fuaim mhór mar D'ordaigh siad go raibh siad an-sásta agus sábháilte nuair a léim muid thar bhalla, ach chuir an vizier leis, ós rud é gur eachtrannaigh muid agus go bhfuil an fíon faoi bhrú orainn, tá eagla orainn patról eile a fháil , nó mar an gcéanna, sula sroicheann muid ár Khan, i bhfad ar shiúl ó anseo. Agus dhéanfaimis é a úsáid mar a bheadh an doras dúnta agus osclóidh sé amárach, is cuma cad é. is féidir linn dul ar stailc chun do chosaint a lorg i gcomhair sos an lae inniu r taitneamh, déanfaimid ár ndícheall cabhrú le oiread agus is féidir chun luach saothair a chur ar an gcur isteach a chruthaímid. Mura bhfuil, ar a laghad tabhair dúinn an grásta chun an oíche a chaitheamh i do sheomra.
+
+Step 5/330
+>> Irish - German
+	Also klopfte Djafar, Großwesir, im Namen der Freundin an die Damentür und wollte sie nicht wiedererkennen. Safia öffnete es; und die Wesirin, die ein Kerzenlicht bemerkte, das sie trug, eine Frau von großer Schönheit, spielte ihre Rolle perfekt. Ich nickte tief und sagte respektvoll: "Frau, wir sind drei Kaufleute aus Mussul, die vor zehn Tagen mit reichen Gütern nach Khan (10) gekommen sind, in dem wir leben. Heute waren wir ein Kaufmann aus dieser Stadt, die Er gab uns ein gutes Essen und als der Wein gute Laune hatte, gründete er eine Band Tänzer, eine Nacht, die Musiker spielten, Tänzer tanzten und die Gruppe machte einen großartigen Klang Sie befahlen, dass sie sehr glücklich und sicher seien, als wir über eine Mauer sprangen, aber der Wesir fügte hinzu, da wir Außerirdische sind und der Wein unter Druck steht, haben wir Angst, eine weitere Patrouille zu bekommen, oder das gleiche, bevor wir unseren Khan erreichen, weit weg von hier, und wir würden es verwenden, als würde die Tür geschlossen und es wird sich morgen öffnen, was auch immer es ist, wir können zuschlagen, um euren Schutz zu suchen pause heute r ta Wir werden unser Bestes tun, um so viel wie möglich zu helfen, um die von uns verursachten Störungen zu belohnen. Wenn nicht, geben Sie uns wenigstens die Gnade, die Nacht in Ihrem Zimmer zu verbringen.
+
+Step 6/330
+>> German - Icelandic
+	Svo Djafar, Grand Vizier, bankaði á dyr kvenna fyrir hönd kærustunnar og vildi ekki kannast við hana. Safia opnaði það; og töframaðurinn, sem tók eftir kertaljósi sem hún klæddist, konu af mikilli fegurð, lék hlutverk sitt fullkomlega. Ég kinkaði kolli og sagði af virðingu, „Konan, við erum þrír kaupmenn frá Mussul sem komu til Khan (10), þar sem við búum, fyrir tíu dögum með auðugan varning.“ Í dag vorum við kaupmaður frá þessari borg, hann gaf okkur góð máltíð og þegar vínið var í góðu skapi byrjaði hann hljómsveit dansara, nótt, tónlistarmennirnir voru að spila, dansarar dönsuðu og hópurinn lagði frábært hljóð Þeir skipuðu að þeir væru mjög ánægðir og öruggir þegar við hoppuðum yfir vegg en vizier bætti við, þar sem við erum geimverur og vínið er undir þrýstingi, erum við hrædd við að fá aðra eftirlitsferð, eða það sama, áður en við komum til Khan okkar, langt í burtu héðan, og við myndum nota það sem hurðinni yrði lokað og hún mun opna á morgun, hvað sem það er, við getum slá til að leita verndarhlé þinnar í dag r ta Við munum gera okkar besta til að hjálpa eins mikið og við getum við truflanir sem við völdum að umbuna þeim. Ef ekki, gefðu okkur að minnsta kosti þá náð að gista nóttina í herberginu þínu.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	所以聾人Grand Vizier代表男友敲了敲女人的門，不想認出她。薩菲亞打開了它;魔術師注意到她穿的燭光，一個美麗的女人，完美地扮演了她的角色。我點點頭，恭敬地說，“女人，我們是三個穆蘇爾商人，他們來到我們居住的汗（10），十天前有豐富的商品。”今天我們是來自這個城市的商人，他給了我們美味的一餐，當葡萄酒精神振奮時，他開始了舞者的樂隊，晚上，音樂家們在演奏，舞者跳舞，樂隊發出了很好的聲音他們命令當我們跳過牆壁時他們非常高興和安全，但是vizier補充說，我們是外星人，葡萄酒面臨壓力，在我們來到遠離這裡的汗之前，我們害怕得到另一個巡邏隊，或者同樣的，我們會利用門關閉的任何東西，它將在明天開放，無論是什麼，我們都可以在今天尋求您的保護。我們將盡我們所能盡力幫助我們讓我們獎勵他們。如果沒有，至少給我們一個在你房間過夜的恩典。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Så munken Grand Vizier knackade på kvinnodörren på uppdrag av sin pojkvän och ville inte känna igen henne. Safia öppnade det; trollkarlen märkte ljuset hon hade på sig, en vacker kvinna som spelade sin roll perfekt. Jag nickade och sa respektfullt: "Kvinnor, vi är tre musulhandlare, de kom till den svett vi lever i (10), och det finns rika varor för tio dagar sedan." Idag är vi affärsmän från den här staden, Han gav oss en utsökt måltid. När vinets anda lyfts upp startade han dansarens band. På kvällen spelade musikerna, dansarna dansade, bandet gjorde en bra röst och de beordrade oss att hoppa över väggen. De är väldigt glada och säkra, men vizier tilllade att vi är utlänningar, vinet är under tryck, innan vi kommer att svettas bort härifrån, är vi rädda för att få en ny patrull, eller detsamma, vi kommer att använda dörren för att stänga någon Saker, det kommer att öppna imorgon, oavsett vad, vi kan söka ditt skydd idag. Vi kommer att göra vårt bästa för att hjälpa oss att belöna dem. Om inte, ge oss minst en nåd att spendera natten i ditt rum.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	因此，僧侶Grand Vizier代表男友敲了敲女人的門，並不想認出她。薩菲亞打開了它;魔術師注意到她穿著的光芒，一個美麗的女人完美地扮演了她的角色。我點點頭，恭敬地說道：“女人們，我們是三個穆斯林商人，他們來到我們生活的汗水中（10），十天前還有豐富的商品。”今天我們是來自這個城市的商人，他給了我們一頓美味的飯。當葡萄酒的精神被解除時，他開始了舞者的樂隊。在音樂家演奏的晚上，舞者們跳起舞，樂隊聲音很好，他們命令我們跳過牆。他們非常開心和安全，但是vizier補充道，我們是外國人，葡萄酒面臨壓力，在我們離開這里之前，我們害怕得到一個新的巡邏隊，或者同樣，我們會用門關閉某人事情，它將在明天開放，無論如何，我們今天可以尋求你的保護。我們會盡力幫助我們獎勵他們。如果沒有，請至少給我們一個恩典，在你的房間裡過夜。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Daarom klopte de monnik Grand Vizier namens haar vriend op de deur van de vrouw en wilde haar niet herkennen. Safia opende het, de tovenaar zag het licht dat ze droeg en een mooie vrouw speelde haar rol perfect. Ik knikte en zei respectvol: "Vrouwen, we zijn drie moslimzakenlieden, ze kwamen ons in het zweet (10), en er zijn rijke goederen tien dagen geleden." Vandaag zijn we zakenmensen uit deze stad. Hij gaf ons een heerlijke maaltijd. Toen de geest van de wijn werd opgeheven, begon hij de dansersband. Op de avond van het optreden van de muzikant dansten de dansers en de band klonk erg goed en ze gaven ons de opdracht om over de muur te springen. Ze zijn erg blij en veilig, maar vizier voegt eraan toe dat we buitenlanders zijn, wijn staat onder druk, we zijn bang om een nieuwe patrouille te krijgen voordat we vertrekken, of, op dezelfde manier zullen we de deur gebruiken om iemand te sluiten, het zal zijn Morgen toch open, we kunnen vandaag uw bescherming zoeken. We zullen ons best doen om ons te helpen hen te belonen. Zo niet, geef ons dan in ieder geval een genade om de nacht in uw kamer door te brengen.
+
+Step 11/330
+>> Dutch - Danish
+	Derfor bankede munken Grand Vizier på kvindens dør på vegne af sin ven og ønskede ikke at genkende hende. Safia åbnede den, guiden så lyset, hun havde på, og en smuk kvinde spillede sin rolle perfekt. Jeg nikkede med respekt og sagde, "Kvinder, vi er tre muslimske forretningsfolk, de fik en sved (10), og der er rige varer for ti dage siden." I dag er vi forretningsfolk fra denne by. Han gav os et vidunderligt måltid. Da ånden i vinen blev løftet, startede han dansebandet. Om aftenen med musikernes optræden dansede danserne, og bandet lød meget godt og instruerede os til at hoppe over væggen. De er meget glade og sikre, men visir tilføjer, at vi er udlændinge, vin er under pres, vi er bange for at få en ny patrulje, før vi rejser, eller på lignende måde bruger vi døren til at lukke nogen, det vil være åbent i morgen, vi kan se efter din beskyttelse i dag. Vi vil gøre vores bedste for at hjælpe os med at belønne dem. Hvis ikke, i det mindste give os en fordel at overnatte på dit værelse.
+
+Step 12/330
+>> Danish - English
+	Therefore, the monk Grand Vizier knocked on the woman's door on behalf of her friend and did not want to recognize her. Safia opened it, the guide saw the light she was wearing, and a beautiful woman played her role perfectly. I nodded respectfully and said, "Women, we are three Muslim business people, they got a sweat (10) and there are rich items ten days ago." Today we are business people from this city. He provided us with a wonderful meal. When the spirit of the wine was lifted, he started the dance band. In the evening with the musicians performing, the dancers danced and the band sounded very good and instructed us to jump over the wall. They are very happy and safe, but visor adds that we are foreigners, wine is under pressure, we are afraid to get a new patrol before we leave, or similarly we use the door to close someone, it will be open tomorrow, we can look for your protection today. We will do our best to help us reward them. If not, at least give us the advantage of staying in your room.
+
+Step 13/330
+>> English - Finnish
+	Siksi munkki Grand Vizier koputti naisen ovelle ystävänsä puolesta eikä halunnut tunnistaa häntä. Safia avasi sen, opas näki valon, jonka hänellä oli, ja kaunis nainen pelasi rooliaan täydellisesti. Nyökkäsin kunnioittavasti ja sanoin: "Naiset, olemme kolme muslimiliiketoiminnan ihmistä, he saivat hikiä (10) ja siellä on rikkaita esineitä kymmenen päivää sitten." Tänään olemme liikemiehiä tästä kaupungista. Hän tarjosi meille upean aterian. Kun viinin henki nousi, hän aloitti tanssibändin. Illalla muusikkojen esiintyessä, tanssijat tanssivat ja yhtye kuulostaa erittäin hyvältä ja neuvoi meitä hyppäämään seinän yli. He ovat erittäin iloisia ja turvallisia, mutta visiiri lisää, että olemme ulkomaalaisia, viini on paineessa, pelkäämme saada uuden partion ennen lähtöämme tai vastaavasti käytämme ovea sulkeaksesi jonkun, se on auki huomenna, voimme etsi suojaa tänään. Teemme parhaamme auttaaksemme meitä palkitsemaan heidät. Jos ei, anna ainakin meille etu pysyäksesi huoneessasi.
+
+Step 14/330
+>> Finnish - Maori
+	Koinei te take i patupatu ai te patai i a Grand Vizier i te tatau o te wahine mo tana hoa aroha kaore ia e hiahia kia mohio ki a ia. I whakatuwherahia e Safia, i kite te kaiarahi i tana maama, me te wahine ataahua i tarai i a ia tana mahi. I akiaki ahau ki te whakaute, ka mea atu, "E nga rangatira, tokotoru nga taangata i roto i nga umanga a Muslim, ka kukuti a raatau (10) me nga taonga taonga kotahi tekau nga ra i mua." I tenei ra he kaihokohoko tatou no tenei taone. I whakaekea e ia he kai nui mo matou. A, i te aranga ake o te wairua o te waina, ka tiimata tana ka kanikani kanikani. I te ahiahi, i nga mahi o nga kaiwaiata, ka kanikani nga kanikani ka pai te tangi o te roopu me te tohutohu ki a matou kia peke atu ki runga i te taiepa. He tino harikoa, he haumaru hoki, engari kei te taapiri te kaiwhakamaori he taangata taangata, he arai te waina, he mataku kei a tatou te roopu hou i mua o to mawehe atu ranei kei te whakamahi tatou i te tatau hei kati i tetahi, ka tuwhera mai apopo, ka taea e taatau te tiaki i enei ra. Ka whakapau kaha tatou ki te awhina kia whai hua ai taatau. Ki te kore, ma te iti rawa e homai he painga ki te noho ki to ruuma.
+
+Step 15/330
+>> Maori - Dutch
+	Daarom sloeg de vraag Grand Vizier uit de deur van een vrouw voor een vriendin die hij niet wilde kennen. Geopend door Safia, zag de gids haar stralen, en de mooie vrouw die haar tegenhield deed dat. Ik werd aangemoedigd om respectvol te zijn en te zeggen: "Dames en heren, er zijn drie jongens in moslimorganisaties, en zij (10) zijn tien dagen geleden vreemdgegaan (10) en grondstoffen." Vandaag zijn we handelaren van deze stad. Ze bood ons een geweldige maaltijd aan. En terwijl de geest van de wijn opsteeg, begon hij te dansen. 'S Avonds, terwijl de artiesten optraden, dansten de dansers en de band speelde goed en adviseerde ons om op de muur te springen. Het is erg leuk en veilig, maar de tolk voegt een instelling, een wijngordijn toe en vreest dat we een nieuwe band hebben voordat we vertrekken of we gebruiken de deur om er een te sluiten, morgen open, we kunnen het vandaag regelen. We zullen hard werken om het tot een succes te maken. Als dit niet het geval is, heeft u in ieder geval het voordeel dat u op uw kamer blijft.
+
+Step 16/330
+>> Dutch - German
+	Deshalb stellte Grand Vizier einer Frau die Frage nach einer Freundin, die er nicht wissen wollte. Von Safia eröffnet, sah der Führer, wie sie glänzte, und die schöne Frau, die sie aufhielt, tat es. Ich wurde ermutigt, respektvoll zu sein und zu sagen: "Meine Damen und Herren, es gibt drei Jungen in muslimischen Organisationen, und sie (10) haben sie vor zehn Tagen betrogen (10)." Heute sind wir Händler dieser Stadt. Sie boten uns ein tolles Essen. Und als der Geist des Weins aufstieg, begann er zu tanzen. Am Abend, während die Künstler auftraten, tanzten die Tänzer und die Band spielte gut und riet uns, an die Wand zu springen. Es ist sehr schön und sicher, aber der Dolmetscher fügt eine Institution, einen Weinvorhang und die Befürchtung hinzu, dass wir eine neue Band haben werden, bevor wir gehen, oder wir benutzen die Tür, um eine zu schließen, öffnen morgen, wir können es heute arrangieren. Wir werden hart daran arbeiten, dass es ein Erfolg wird. Ist dies nicht der Fall, haben Sie zumindest den Vorteil, in Ihrem Zimmer zu bleiben.
+
+Step 17/330
+>> German - Japanese
+	そのため、グランドビジエは女性に、知りたくない友人の質問をした。サフィアによって開かれたガイドは彼女が輝いているのを見て、彼女を止めた美しい女性はそうしました。敬意を表し、「紳士men女、イスラム教徒の組織には3人の少年がおり、10日前に彼らをだましました（10）」と言われることが奨励されました。今日、私たちはこの街のディーラーです。彼らは私たちに素晴らしい食事を提供してくれました。そして、ワインの精神が高まると、彼は踊り始めました。夕方、アーティストが演奏している間、ダンサーは踊り、バンドはうまく演奏し、壁にジャンプするようにアドバイスしました。それは非常に美しく安全ですが、通訳者は施設、ワインのカーテン、そして私たちが去る前に新しいバンドを持っているという恐怖を追加します。今日手配します。私たちはそれを成功させるために努力します。そうでない場合は、少なくともあなたの部屋に滞在する利点があります。
+
+Step 18/330
+>> Japanese - German
+	Infolgedessen stellte Grandvisier einer Frau eine Frage, die sie nicht wissen wollte. Der von Saffia eröffnete Führer sah sie leuchten, und die schöne Frau, die sie aufhielt, tat es. Zu Ehren wurde er ermutigt zu sagen: "Meine Herren, Frauen, muslimische Organisationen haben drei Jungen, die sie vor 10 Tagen betrogen haben (10)." Heute sind wir Händler in dieser Stadt. Sie boten uns ein wunderbares Essen. Und als der Geist des Weins wuchs, fing er an zu tanzen. Am Abend, während der Künstler spielte, tanzten die Tänzer und die Band spielte gut und riet ihnen, an die Wand zu springen. Es ist sehr schön und sicher, aber der Dolmetscher fügt die Angst hinzu, Einrichtungen, Weinvorhänge und eine neue Band zu haben, bevor wir abreisen. Vereinbaren Sie noch heute. Wir bemühen uns, es erfolgreich zu machen. Wenn nicht, hat der Aufenthalt in Ihrem Zimmer zumindest einen Vorteil.
+
+Step 19/330
+>> German - Luxembourgish
+	Als Resultat huet de Grandvisier eng Fra eng Fro gestallt déi si net wollt wëssen. De Guide, dee vu Saffia opgemaach gouf, huet hire Glanz gesinn, an déi schéi Fra, déi se opgehalen huet, huet dat gemaach. Zu senger Éier gouf hie encouragéiert ze soen, "Hären, Fraen, Moslem Organisatiounen hunn dräi Jongen déi virun 10 Deeg op hinnen gepëtzt hunn (10)." Haut si mir Händler an dëser Stad. Si hunn eis e wonnerschéint Iessen offréiert. A wéi de Geescht vum Wäin gewuess ass, huet hien ugefaang ze danzen. Owes, wärend de Kënschtler gespillt huet, hunn d'Dänzer gedanzt an d'Band huet gutt gespillt a berode si sech géint d'Mauer ze sprangen. Et ass ganz flott a sécher, awer den Dolmetscher füügt d'Angscht fir Ariichtungen ze hunn, Wäin Gardinen an eng nei Band ier mer fortgaange sinn. Arrangéiert et haut. Mir probéieren eis et erfollegräich ze maachen. Wann net, an Ärem Raum ze bleiwen huet op d'mannst ee Virdeel.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כתוצאה מכך שאל הגרנד-וויסור לאישה שאלה שלא רצתה לדעת. המדריך שנפתח על ידי סאפיה ראה את זרחה, והאישה היפה שעצרה אותה עשתה זאת. לכבודו עודד אותו לומר, "רבותיי, נשים, ארגונים מוסלמים יש שלושה נערים שטיפלו בהם לפני 10 ימים (10)." היום אנחנו סוחרים בעיר הזו. הם הציעו לנו ארוחה נהדרת. וככל שרוח היין גדלה, הוא החל לרקוד. בערב, בזמן שהאמן ניגן, הרקדנים רקדו והלהקה ניגנה טוב והייעצו להם לקפוץ על הקיר. זה מאוד נחמד ובטוח, אבל המתורגמן מוסיף לחשש שיש מתקנים, וילונות יין ולהקה חדשה לפני שאנחנו עוזבים. סדרו אותו היום. אנו מנסים להפוך אותו למוצלח. אם לא, לשהות בחדרכם יש יתרון אחד לפחות.
+
+Step 21/330
+>> Hebrew - Korean
+	결과적으로 그랜드 바이저는 그 여자에게 그녀가 알고 싶지 않은 질문을했습니다. 사 피아가 열었던 가이드는 그녀의 빛을 보았고, 그녀를 막 았던 아름다운 여인도 그렇게했습니다. 그의 영광으로 그는 "신사들, 여성들, 무슬림 조직들은 10 일 전에 그들을 돌보는 3 명의 소년들을 가졌다"고 말했다. 오늘날 우리는이 도시에서 거래합니다. 그들은 우리에게 훌륭한 식사를 제공했습니다. 그리고 와인의 정신이 자라면서 그는 춤을 추기 시작했습니다. 저녁에는 예술가가 연주하는 동안 무용수가 춤을 추고 밴드는 잘 연주하고 벽에 뛰어 들라 고 조언했습니다. 그것은 매우 좋고 안전하지만 통역사는 우리가 떠나기 전에 시설, 와인 커튼 및 새로운 밴드가 있다는 우려에 덧붙입니다. 오늘 준비하십시오. 우리는 그것을 성공 시키려고 노력합니다. 그렇지 않다면, 방에 머무는 것이 적어도 하나의 이점이 있습니다.
+
+Step 22/330
+>> Korean - French
+	En conséquence, la grande visière a posé à la femme une question qu’elle ne voulait pas connaître. Le guide que Safia a ouvert a vu sa lumière, de même que la belle femme qui l'a arrêtée. En son honneur, il a déclaré: "Les messieurs, les femmes et les organisations musulmanes avaient trois garçons qui s'en sont occupés il y a dix jours." Aujourd'hui, nous négocions dans cette ville. Ils nous ont servi un bon repas. Et à mesure que l'esprit du vin grandissait, il se mit à danser. Dans la soirée, les artistes dansaient pendant que les artistes jouaient, le groupe lui conseillant de bien jouer et de sauter sur les murs. C'est très agréable et sûr, mais l'interprète ajoute à la préoccupation qu'il y a des installations, des rideaux de vin et de nouveaux groupes avant notre départ. Préparez-vous aujourd'hui. Nous essayons de le faire réussir Sinon, rester dans la chambre a au moins un avantage.
+
+Step 23/330
+>> French - Slovenian
+	Zaradi tega je veliki vizir ženi postavil vprašanje, ki ga ne želi vedeti. Vodnik, ki ga je odprla Safia, je videl njeno svetlobo, prav tako lepa ženska, ki jo je ustavila. V njegovo čast je dejal: "Moški, ženske in muslimanske organizacije so imeli pred tremi dnevi tri fante, ki so skrbeli za njimi." Danes trgujemo v tem mestu. Postregli so nam dober obrok. In ko je duh vina rastel, je začel plesati. Zvečer so umetniki plesali, medtem ko so umetniki igrali, skupina mu je svetovala, naj se dobro igra in skače po stenah. Zelo lepo in varno, vendar tolmač zaskrbi, da obstajajo objekti, vinske zavese in nove skupine, preden odidemo. Pripravite se danes. Trudimo se, da nam bo uspelo V nasprotnem primeru bivanje v sobi ima vsaj eno prednost.
+
+Step 24/330
+>> Slovenian - Spanish
+	Debido a esto, el gran visor le hizo a su esposa una pregunta que no quería saber. La guía abierta por Safia vio su luz, al igual que la hermosa mujer que la detuvo. En su honor, dijo: "Hace tres días, hombres, mujeres y organizaciones musulmanas tenían tres niños que los cuidaban". Hoy comerciamos en esta ciudad. Nos sirvieron una buena comida. Y a medida que crecía el espíritu del vino, comenzó a bailar. Por la noche, los artistas bailaron mientras los artistas tocaban, y el grupo le aconsejó que jugara bien y saltara en las paredes. Muy agradable y seguro, pero al intérprete le preocupa que haya instalaciones, cortinas de vino y nuevos grupos antes de partir. Prepárate hoy. Intentamos tener éxito, de lo contrario permanecer en una habitación tiene al menos una ventaja.
+
+Step 25/330
+>> Spanish - Czech
+	Z tohoto důvodu se velký divák zeptal své ženy na otázku, kterou nechtěl vědět. Průvodce otevřený Safií viděl její světlo, stejně jako krásná žena, která ji zastavila. Na jeho počest řekl: „Před třemi dny měli muslimští muži, ženy a organizace tři děti, které se o ně postaraly.“ Dnes obchodujeme v tomto městě. Podávali nám dobré jídlo. A jak duch vína rostl, začal tančit. V noci umělci tančili, zatímco umělci hráli, a skupina mu poradila, aby dobře hrál a skočil na zdi. Velmi pěkné a bezpečné, ale tlumočník se obává, že před odjezdem jsou zařízení, vinné závěsy a nové skupiny. Připravte se ještě dnes. Snažíme se uspět, jinak pobyt v pokoji má alespoň jednu výhodu.
+
+Step 26/330
+>> Czech - Italian
+	Per questo motivo, il grande spettatore ha posto a sua moglie una domanda che non voleva conoscere. La guida aperta da Safia vide la sua luce, così come la bella donna che l'aveva fermata. In suo onore, ha detto: "Tre giorni fa, uomini, donne e organizzazioni musulmani avevano tre figli a prendersi cura di loro." Oggi facciamo affari in questa città. Ci hanno servito buon cibo. E mentre lo spirito del vino cresceva, iniziò a ballare. Di notte gli artisti hanno ballato mentre gli artisti suonavano e la band gli ha consigliato di suonare bene e di saltare sul muro. Molto simpatico e sicuro, ma l'interprete teme che prima della partenza ci siano strutture, cortine di vino e nuovi gruppi. Preparati oggi. Cerchiamo di avere successo, altrimenti stare in una stanza ha almeno un vantaggio.
+
+Step 27/330
+>> Italian - Maltese
+	Għal din ir-raġuni, l-ispettatur il-kbir staqsa lil martu mistoqsija li ma riedx ikun jaf. Il-gwida miftuħa minn Safia rat id-dawl tagħha, kif ukoll il-mara sabiħa li kienet waqfet magħha. Fl-unur tiegħu, huwa qal: "Tlett ijiem ilu, irġiel, nisa u organizzazzjonijiet Musulmani kellhom tlett itfal biex jieħdu ħsiebhom." Illum nagħmlu negozju f'din il-belt. Huma servew ikel tajjeb. U hekk kif l-ispirtu tal-inbid kiber, huwa beda jiżfen. Bil-lejl l-artisti żfin waqt li l-artisti jdoqqu u l-band tah parir biex jdoqq sew u jaqbeż fuq il-ħajt. Sbieħ ħafna u sigur, iżda l-interpretu jibża 'li jkun hemm faċilitajiet, purtieri ta' l-inbid u gruppi ġodda qabel it-tluq. Lesti illum. Nippruvaw nirnexxu, inkella li nibqgħu f’kamra għandha mill-inqas vantaġġ.
+
+Step 28/330
+>> Maltese - Estonian
+	Sel põhjusel vaataja suur naine küsis küsimus ta ei taha teada. Avatud juhiseid Safia nägi oma kerge ja ilus naine, kes oli peatunud teda. Tema au, ütles ta: "Kolm päeva tagasi, meeste, naiste ja moslemite organisatsioonide oli kolm last hoolitsema." Täna me teeme äri selles linnas. Nad pakkusid head toitu. Ja kui vaim veini kasvas, hakkas ta tantsu. Öö tantsukunstnike mängides kunstnike ja bändi muusikat hästi ja soovitas tal hüppas üle müüri. Väga kena ja ohutu, kuid tõlk kardab, et võimalusi, kardinad veini ja uute rühmade enne väljumist. Valmis täna. Püüame õnnestub või viibida toas on vähemalt ära.
+
+Step 29/330
+>> Estonian - Greek
+	Για το λόγο αυτό, η μεγάλη γυναίκα του θεατή έθεσε μια ερώτηση που δεν ήθελε να μάθει. Ανοιχτές οδηγίες Ο Safia είδε το φως και την όμορφη γυναίκα του που την είχε σταματήσει. Προς τιμή του, είπε: «Πριν από τρεις μέρες, άνδρες, γυναίκες και μουσουλμανικές οργανώσεις είχαν τρία παιδιά να φροντίζουν». Σήμερα κάνουμε επιχειρήσεις σε αυτή την πόλη. Παρείχαν καλό φαγητό. Και καθώς το πνεύμα μεγάλωσε στο κρασί, άρχισε να χορεύει. Νύχτες καλλιτέχνες χορού που παίζουν καλλιτέχνες και μουσική μπάντα καλά και τον συμβούλευσε να πηδήξει πάνω από τον τοίχο. Πολύ ωραία και ασφαλής, αλλά ο διερμηνέας φοβάται τις δυνατότητες, τις κουρτίνες του κρασιού και τις νέες ομάδες πριν φύγει. Έτοιμη σήμερα. Η προσπάθεια επιτυχίας ή διαμονής σε ένα δωμάτιο είναι τουλάχιστον ένα πλεονέκτημα.
+
+Step 30/330
+>> Greek - Turkish
+	Bu nedenle, büyük seyirci kadın bilmek istemediği bir soru sordu. Açık talimatlar Safia ışığı ve onu durduran güzel kadını gördü. Şerefine, “Üç gün önce erkeklerin, kadınların ve Müslüman örgütlerin bakacakları üç çocuğu vardı” dedi. Bugün bu şehirde iş yapıyoruz. İyi yemek verdiler. Ve ruh şarabın içinde büyüdükçe, dans etmeye başladı. Geceleri, iyi müzik yapan ve müzik grubunu çalan sanatçılar dans eder ve ona duvardan atlamasını tavsiye eder. Çok güzel ve güvenli, ancak tercüman ayrılmadan önce olasılıklardan, şarap perde ve yeni ekiplerden korkuyor. Bugün hazır. Bir odada başarılı olmayı veya kalmayı denemek en azından bir avantajdır.
+
+Step 31/330
+>> Turkish - Polish
+	Dlatego wielka publiczność zadała pytanie, którego nie chciała wiedzieć. Jasne instrukcje Safia zobaczyła światło i piękną kobietę, która ją zatrzymała. „Trzy dni temu mężczyźni, kobiety i muzułmańskie organizacje miały troje dzieci do opieki” - powiedział na jego cześć. Dziś prowadzimy interesy w tym mieście. Dali dobre jedzenie. A gdy duch wzrósł w winie, zaczął tańczyć. W nocy artyści, którzy grają dobrze i grają w zespole, tańczą i radzą mu zeskoczyć ze ściany. Bardzo miło i bezpiecznie, ale tłumacz obawia się możliwości, zasłon do wina i nowych załóg przed wyjazdem. Gotowy dzisiaj. Próba odniesienia sukcesu lub pozostania w pokoju jest przynajmniej zaletą.
+
+Step 32/330
+>> Polish - Arabic
+	لذلك ، طرح جمهور كبير سؤالاً لم يرغبوا في معرفته. تعليمات واضحة رأت صفية النور والمرأة الجميلة التي أوقفتها. وقال على شرفه: "قبل ثلاثة أيام ، كان للرجال والنساء والمنظمات الإسلامية ثلاثة أطفال للعناية بهم". اليوم نقوم بأعمال تجارية في هذه المدينة. أعطوا طعام جيد. وعندما ارتفع الشبح في الخمر ، بدأ يرقص. في الليل ، الفنانون الذين يلعبون بشكل جيد ويلعبون في رقصة الفرقة وينصحونه بالقفز من على الحائط لطيفة جدا وآمنة ، ولكن المترجم يخشى الاحتمالات والستائر للنبيذ وطواقم جديدة قبل المغادرة. جاهز اليوم محاولة النجاح أو البقاء في سلام هي ميزة على الأقل.
+
+Step 33/330
+>> Arabic - Catalan
+	Així, un gran públic va plantejar-se una pregunta que no volien conèixer. Instruccions clares Safia va veure la llum i la bella dona es va aturar. "Fa tres dies, homes, dones i organitzacions islàmiques van tenir tres fills per tenir cura", va dir en honor seu. Avui fem negocis a aquesta ciutat. Van donar un bon menjar. Quan el fantasma es va aixecar en vi, va començar a ballar. A la nit, els artistes que toquen bé i toquen en una banda ballen i li aconsellen saltar de la paret són molt agradables i segurs, però l'intèrpret tem les possibilitats i les cortines del vi i les noves tripulacions abans de la sortida. Llest avui per avui Intentar triomfar o mantenir-se en pau és almenys un avantatge.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Taigi didelė visuomenės dalis iškėlė klausimą, kurio nenorėjo žinoti. Aiškios instrukcijos Safija pamatė šviesą ir graži moteris sustojo. „Prieš tris dienas vyrai, moterys ir islamo organizacijos turėjo tris vaikus, kuriais turėjo pasirūpinti“, - sakė jis savo garbei. Šiandien šiame mieste mes užsiimame verslu. Jie valgė gerą maistą. Kai vaiduoklis atsikėlė vyno, jis pradėjo šokti. Naktį menininkai, kurie gerai groja ir groja grupiniuose šokiuose bei pataria šokti nuo sienos, yra labai gražūs ir saugūs, tačiau atlikėjas prieš išvykdamas bijo vyno ir naujojo įgulos galimybių bei užuolaidų. Šiandien pasiruošę šiandien. Bent vienas privalumų yra bandymas triumfuoti ar išlikti ramybėje.
+
+Step 35/330
+>> Lithuanian - Arabic
+	لذا أثار جزء كبير من المجتمع قضية لم يرغبوا في معرفتها. تعليمات واضحة رأت صفية النور وتوقفت المرأة الجميلة. وقال على شرفه "قبل ثلاثة أيام ، كان للرجل والمرأة والمنظمات الإسلامية ثلاثة أطفال لرعايتهم". اليوم نقوم بأعمال تجارية في هذه المدينة. أكلوا طعام جيد. عندما نهض الشبح الخمر ، بدأ الرقص. في الليل ، يكون الفنانون الذين يلعبون ويرقصون جيدًا في رقص جماعي وينصحون بالرقص من على الحائط لطيفين وآمنين للغاية ، لكن المؤدي يخاف من الخمر والطاقم الجديد والستائر قبل مغادرتهم. الاستعداد اليوم. واحد على الأقل من الفوائد هو محاولة الانتصار أو الهدوء.
+
+Step 36/330
+>> Arabic - Slovak
+	Toľko z komunity nastolilo problém, ktorý nechceli vedieť. Jasné pokyny Safia videla svetlo a zastavila krásnu ženu. „Pred tromi dňami mali muži, ženy a islamské organizácie starať sa o tri deti,“ uviedol na svoju česť. Dnes v tomto meste podnikáme. Jedli dobré jedlo. Keď duch vstal, začal tancovať. V noci sú umelci, ktorí dobre hrajú a tancujú v skupinovom tanci a odporúčajú tanec zo steny, veľmi milí a bezpeční, ale účinkujúci sa pred odchodom obávajú vína, novej posádky a záclon. Pripravte sa ešte dnes. Aspoň jedna z výhod sa snaží vyhrať alebo upokojiť.
+
+Step 37/330
+>> Slovak - Malay
+	Begitu banyak masyarakat menimbulkan masalah yang mereka tidak mahu tahu. Arahan yang jelas Safia melihat cahaya dan menghentikan wanita cantik itu. "Tiga hari yang lalu, lelaki, wanita dan organisasi Islam sepatutnya menjaga tiga orang anak," katanya. Hari ini kita menjalankan perniagaan di bandar ini. Mereka makan makanan yang baik. Apabila semangat itu meningkat, dia mula menari. Pada waktu malam, artis yang bermain dengan baik dan menari dalam tarian kumpulan dan mengesyorkan tarian dinding sangat bagus dan selamat, tetapi penghibur takut wain, kru baru dan langsir sebelum berangkat. Bersiaplah hari ini. Sekurang-kurangnya salah satu faedah cuba untuk menang atau bertenang.
+
+Step 38/330
+>> Malay - Arabic
+	الكثير من الناس يسببون مشاكل لا يريدون معرفتها. رأت تعليمات صفية الواضحة النور وأوقفت المرأة الجميلة. وقال "قبل ثلاثة أيام ، كان من المفترض أن يهتم المسلمون والنساء والمنظمات بثلاثة أطفال". اليوم نقوم بأعمال تجارية في هذه المدينة. يأكلون الطعام الجيد. مع نمو الروح ، بدأ الرقص. في الليل ، يؤدي الفنان أداءً جيدًا والرقص في رقصات جماعية ويوصي بالرقص على الجدران بشكل جيد جدًا وبأمان ، لكن الفنانين يخشون النبيذ والطاقم الجديد والستائر قبل المغادرة. الاستعداد اليوم. واحد على الأقل من الفوائد يحاول الفوز أو البقاء هادئًا.
+
+Step 39/330
+>> Arabic - Latvian
+	Daudzi cilvēki rada problēmas, kuras viņi nevēlas zināt. Safijas skaidrie norādījumi ieraudzīja gaismu un apturēja skaisto sievieti. "Pirms trim dienām musulmaņiem, sievietēm un organizācijām vajadzēja rūpēties par trim bērniem," viņš teica. Šodien mēs veicam uzņēmējdarbību šajā pilsētā. Viņi ēd labu ēdienu. Pieaugot dvēselei, viņš sāka dejot. Naktīs mākslinieks labi uzstājas un dejo grupas dejās un iesaka ļoti labi un droši dejot uz sienām, bet mākslinieki pirms aiziešanas baidās no vīna, jauna apkalpes un aizkariem. Gatavojieties jau šodien. Vismaz viens no ieguvumiem ir mēģinājums uzvarēt vai palikt mierīgs.
+
+Step 40/330
+>> Latvian - Portuguese
+	Muitas pessoas criam problemas que eles não querem saber. As instruções claras de Safia viram a luz e pararam a mulher bonita. "Três dias atrás, muçulmanos, mulheres e organizações tinham que cuidar de três filhos", disse ele. Hoje fazemos negócios nesta cidade. Eles comem boa comida. Enquanto sua alma crescia, ele começou a dançar. À noite, o artista se apresenta bem e dança no grupo, e recomenda dançar muito bem e com segurança nas paredes, mas os artistas têm medo de vinho, nova equipe e cortinas antes de sair. Prepare-se hoje. Pelo menos um dos benefícios é tentar ganhar ou manter a calma.
+
+Step 41/330
+>> Portuguese - Arabic
+	كثير من الناس يخلقون مشاكل لا يريدون معرفتها. رأت تعليمات صفية الواضحة النور وأوقفت المرأة الجميلة. وقال "قبل ثلاثة أيام ، كان على المسلمين والنساء والمنظمات رعاية ثلاثة أطفال". اليوم نقوم بأعمال تجارية في هذه المدينة. يأكلون الطعام الجيد. مع نمو روحه ، بدأ يرقص. في الليل ، يؤدي الفنان أداءً جيدًا ورقصًا في المجموعة ، ويوصي بالرقص بشكل جيد جدًا وبأمان على الجدران ، لكن الفنانين يخشون النبيذ والموظفين الجدد والستائر قبل المغادرة. الاستعداد اليوم. واحد على الأقل من الفوائد يحاول كسب أو التزام الهدوء.
+
+Step 42/330
+>> Arabic - Spanish
+	Muchas personas crean problemas que no quieren saber. Las claras instrucciones de Safia vieron la luz y detuvieron a la bella mujer. "Hace tres días, musulmanes, mujeres y organizaciones tenían que cuidar a tres niños", dijo. Hoy hacemos negocios en esta ciudad. Ellos comen buena comida. A medida que su alma crecía, comenzó a bailar. Por la noche, el artista se desempeña bien y baila en el grupo, y recomienda bailar muy bien y con seguridad en las paredes, pero los artistas temen al vino, al personal nuevo y a las cortinas antes de partir. Prepárate hoy. Al menos uno de los beneficios trata de ganar o mantener la calma.
+
+Step 43/330
+>> Spanish - Hungarian
+	Sokan olyan problémákat vetnek fel, amelyeket nem akarnak tudni. Safia világos utasításai látta a fényt, és megállították a gyönyörű nőt. "Három nappal ezelőtt a muszlimoknak, a nőknek és a szervezeteknek három gyermeket kellett gondozniuk" - mondta. Ma üzleti tevékenységet folytatunk ebben a városban. Jó ételt esznek. Ahogy a lelke nőtt, elkezdett táncolni. Éjszaka a művész jól teljesít és táncol a csoportban, és azt javasolja, hogy nagyon jól és biztonságosan táncoljanak a falakon, de a művészek félnek a bortól, az új alkalmazottaktól és a függönyöktől, mielőtt elmennek. Készüljön fel még ma. Az előnyök közül legalább az egyik megpróbálja megszerezni vagy nyugodt maradni.
+
+Step 44/330
+>> Hungarian - Croatian
+	Mnogi ljudi stvaraju probleme koje ne žele znati. Jasne upute Safije ugledale su svjetlo i zaustavile lijepu ženu. "Prije tri dana muslimani, žene i organizacije morali su se brinuti o troje djece", rekao je. Danas poslujemo u ovom gradu. Jedu dobru hranu. Kako mu je duša rasla, počeo je plesati. Noću, umjetnik dobro izvodi i pleše u grupi i predlaže da vrlo dobro i sigurno plešu po zidovima, ali umjetnici se boje vina, novih zaposlenika i zastora prije nego što odu. Pripremite se danas. Barem jednu od prednosti pokušava pridobiti ili ostati miran.
+
+Step 45/330
+>> Croatian - Spanish
+	Muchas personas crean problemas que no quieren saber. Las claras instrucciones de Safia vieron la luz y detuvieron a la bella mujer. "Hace tres días, musulmanes, mujeres y organizaciones tenían que cuidar a tres niños", dijo. Hacemos negocios en esta ciudad hoy. Ellos comen buena comida. A medida que su alma crecía, comenzó a bailar. Por la noche, el artista se desempeña bien y baila en grupo y sugiere que bailan muy bien y con seguridad en las paredes, pero los artistas temen al vino, a los nuevos empleados y a las cortinas antes de irse. Prepárate hoy. Al menos uno de los beneficios es tratar de ganar o mantener la calma.
+
+Step 46/330
+>> Spanish - Arabic
+	كثير من الناس يخلقون مشاكل لا يريدون معرفتها. رأت تعليمات صفية الواضحة النور وأوقفت المرأة الجميلة. وقال "قبل ثلاثة أيام ، كان على المسلمين والنساء والمنظمات رعاية ثلاثة أطفال". نعمل في هذه المدينة اليوم. يأكلون الطعام الجيد. مع نمو روحه ، بدأ يرقص. في الليل ، يؤدّي الفنان أداءً جيدًا ويرقص في مجموعات ويقترح أن يرقصوا جيدًا وأمانًا على الجدران ، لكن الفنانين يخشون النبيذ والموظفين الجدد والستائر قبل المغادرة. الاستعداد اليوم. واحد على الأقل من الفوائد يحاول كسب أو الحفاظ على الهدوء.
+
+Step 47/330
+>> Arabic - Russian
+	Многие люди создают проблемы, которые они не хотят знать. Четкие указания Сафии увидели свет и остановили красавицу. «Три дня назад мусульмане, женщины и организации должны были заботиться о трех детях», - сказал он. Мы работаем в этом городе сегодня. Они едят хорошую еду. Когда его душа выросла, он начал танцевать. Ночью артист хорошо выступает и танцует в группах и предлагает, чтобы они хорошо и безопасно танцевали на стенах, но артисты боятся вина, нового персонала и штор перед уходом. Будьте готовы сегодня. По крайней мере, одно из преимуществ пытается получить или молчать.
+
+Step 48/330
+>> Russian - Albanian
+	Shumë njerëz krijojnë probleme që nuk duan t’i dinë. Udhëzime të qarta Safia pa dritën dhe ndaloi bukurinë. "Tre ditë më parë, muslimanët, gratë dhe organizatat duhej të kujdeseshin për tre fëmijë," tha ai. Ne punojmë sot në këtë qytet. Ata hanë ushqim të mirë. Kur shpirti i tij u rrit, ai filloi të kërcejë. Natën, artisti performon mirë dhe vallëzon në grupe dhe sugjeron që ata të kërcejnë mirë dhe të sigurt në mure, por artistët kanë frikë nga vera, stafi i ri dhe perdet para se të largohen. Bëhuni gati sot. Të paktën një nga përfitimet e përpjekjes për të qetësuar ose heshtur.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Много хора създават проблеми, които не искат да знаят. Ясните инструкции на Сафиа видяха светлината и спряха красавицата. "Преди три дни мюсюлманите, жените и организациите трябваше да се грижат за три деца", каза той. Ние работим в този град днес. Те ядат добра храна. Когато душата му пораснала, той започнал да танцува. През нощта артистът се представя добре и танцува в групи и им предлага да танцуват добре и сигурно по стените, но артистите се страхуват от лято, нов персонал и завеси, преди да тръгнат. Пригответе се днес. Поне едно от предимствата да се опитате да се успокоите или да мълчите.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Mulți oameni creează probleme pe care nu vor să le cunoască. Instrucțiunile clare ale lui Safia au văzut lumina și au oprit frumusețea. „În urmă cu trei zile, musulmanii, femeile și organizațiile trebuiau să aibă grijă de trei copii”, a spus el. Lucrăm în acest oraș astăzi. Mănâncă mâncare bună. Când sufletul i-a crescut, a început să danseze. Noaptea, artistul cântă bine și dansează în grupuri și sugerează că dansează bine și în siguranță pe pereți, dar artiștii se tem de vară, de personalul nou și de perdele înainte de a pleca. Pregătește-te azi. Cel puțin unul dintre beneficiile încercării de a vă calma sau de a rămâne tăcut.
+
+Step 51/330
+>> Romanian - Russian
+	Многие люди создают проблемы, которые они не хотят знать. Четкие инструкции Сафии увидели свет и выключили красоту. «Три дня назад мусульмане, женщины и организации должны были заботиться о трех детях», - сказал он. Мы работаем в этом городе сегодня. Ешьте хорошую еду. Когда его душа выросла, он начал танцевать. Ночью артист хорошо поет и танцует в группах и предполагает, что они хорошо и безопасно танцуют на стенах, но артисты боятся лета, новых сотрудников и штор перед уходом. Будьте готовы сегодня. По крайней мере, одно из преимуществ - пытаться успокоиться или молчать.
+
+Step 52/330
+>> Russian - English
+	Many people create problems that they do not want to know. Safia's clear instructions saw the light and turned off the beauty. “Three days ago, Muslims, women and organizations had to take care of three children,” he said. We work in this city today. Eat good food. When his soul grew, he began to dance. At night, the artist sings and dances well in groups and assumes that they dance well and safely on the walls, but artists are afraid of the summer, new employees and curtains before leaving. Get ready today. At least one of the benefits is to try to calm down or be silent.
+
+Step 53/330
+>> English - Spanish
+	Muchas personas crean problemas que no quieren saber. Las claras instrucciones de Safia vieron la luz y apagaron la belleza. "Hace tres días, los musulmanes, las mujeres y las organizaciones tenían que cuidar a tres niños", dijo. Trabajamos en esta ciudad hoy. Comer buena comida. Cuando su alma creció, comenzó a bailar. Por la noche, el artista canta y baila bien en grupos y supone que bailan bien y con seguridad en las paredes, pero los artistas temen el verano, los nuevos empleados y las cortinas antes de irse. Prepárate hoy. Al menos uno de los beneficios es tratar de calmarse o guardar silencio.
+
+Step 54/330
+>> Spanish - Arabic
+	كثير من الناس يخلقون مشاكل لا يريدون معرفتها. شهدت تعليمات صفية الواضحة النور وأطفأت الجمال. وقال "قبل ثلاثة أيام ، كان على المسلمين والنساء والمنظمات رعاية ثلاثة أطفال". نحن نعمل في هذه المدينة اليوم. تناول طعام جيد. عندما نمت روحه ، بدأ الرقص. في الليل ، يغني الفنان ويرقص جيدًا في مجموعات ويفترض أن يرقصوا بشكل جيد وآمن على الجدران ، لكن الفنانين يخشون الصيف والموظفين الجدد والستائر قبل المغادرة. الاستعداد اليوم. واحد على الأقل من الفوائد يحاول التهدئة أو الصمت.
+
+Step 55/330
+>> Arabic - Malay
+	Ramai orang membuat masalah yang mereka tidak mahu tahu. Arahan jelas Safia menyaksikan keindahan cahaya dan pemadam. "Tiga hari yang lalu, umat Islam, wanita dan organisasi terpaksa menjaga tiga anak," katanya. Kami bekerja di bandar ini hari ini. Makan makanan yang baik. Apabila jiwanya bertambah, dia mula menari. Pada waktu malam, artis menyanyi dan menari dengan baik dalam kumpulan dan sepatutnya menari dengan baik dan selamat di dinding, tetapi artis takut musim panas, pekerja baru dan langsir sebelum berangkat. Bersiaplah hari ini. Sekurang-kurangnya salah satu faedah cuba menenangkan atau diam.
+
+Step 56/330
+>> Malay - English
+	Many people create problems that they do not want to know about. Safia's clear instructions see the beauty of the light and the extinguisher. "Three days ago, Muslims, women and organizations had to look after three children," he said. We're working in the city today. Eat good food. As his soul grew, he began to dance. At night, the artist sings and dances well in the group and is supposed to dance well and safely on the wall, but the artist fears the summer, new workers and curtains before leaving. Get ready today. At least one of the benefits is trying to calm down or be quiet.
+
+Step 57/330
+>> English - Kazakh
+	Көптеген адамдар өздері білгісі келмейтін мәселелерді жасайды. Сафияның анық нұсқаулары жарық пен сөндіргіштің сұлулығын көреді. «Үш күн бұрын мұсылмандар, әйелдер мен ұйымдар үш баланы күтуге мәжбүр болды», - деді ол. Біз бүгін қалада жұмыс істеп жатырмыз. Жақсы тамақтаныңыз. Жаны өскен сайын ол билей бастады. Түнде суретші топта жақсы ән айтады және билейді және қабырғаға жақсы және қауіпсіз билене алады, бірақ суретші жаздан, жаңа жұмысшылар мен перделерден қорқады. Бүгін дайындалыңыз. Кем дегенде бір пайдасы - тыныштандыруға немесе тыныш болуға тырысады.
+
+Step 58/330
+>> Kazakh - Persian
+	بسیاری از مردم اوضاع را بدتر می کنند. دستورالعمل های واضح صفی زیبایی نور و سوئیچ را مشاهده می کند. وی گفت: "سه روز پیش ، مسلمانان ، زنان و سازمان ها مجبور شدند منتظر سه فرزند باشند." ما امروز در شهر کار می کنیم. غذای خوب با بزرگ شدن ، شروع به رقصیدن. شبها این هنرمند در گروه آواز می خواند و آواز می خواند و دیوار را خوب و ایمن می شناسد ، اما این هنرمند از تابستان ، کارگران و پرده های جدید می ترسد. امروز آماده شوید حداقل یکی از مزایا آرام کردن یا آرام کردن است.
+
+Step 59/330
+>> Persian - English
+	Many people are making things worse. Clear queue instructions see the beauty of light and switch. "Three days ago, Muslims, women and organizations were forced to wait for three children," he said. We work in the city today. As you grow up, good food begins to dance. At night the artist sings and sings in the band and knows the wall well and securely, but the artist fears summer, new workers and curtains. Get ready today At least one of the benefits is calming down or calming down.
+
+Step 60/330
+>> English - French
+	Beaucoup de gens aggravent les choses. Des instructions claires pour voir la beauté de la lumière et de l’interrupteur. "Il y a trois jours, les musulmans, les femmes et les organisations ont été obligés d'attendre trois enfants", a-t-il déclaré. Nous travaillons dans la ville aujourd'hui. En grandissant, la bonne nourriture commence à danser. La nuit, l'artiste chante et chante dans le groupe et connaît bien le mur, mais l'artiste craint l'été, les nouveaux ouvriers et les rideaux. Préparez-vous aujourd'hui Au moins un des avantages est de calmer ou de calmer.
+
+Step 61/330
+>> French - Spanish
+	Muchas personas empeoran las cosas. Instrucciones claras para ver la belleza de la luz y el interruptor. "Hace tres días, musulmanes, mujeres y organizaciones se vieron obligados a esperar a tres niños", dijo. Trabajamos en la ciudad hoy. Al crecer, la buena comida comienza a bailar. Por la noche, el artista canta y canta en el grupo y conoce bien el muro, pero le teme al verano, a los nuevos trabajadores y a las cortinas. Prepárese hoy Al menos uno de los beneficios es calmarse o calmarse.
+
+Step 62/330
+>> Spanish - Turkish
+	Birçok insan işleri daha da kötüleştirir. Işığın ve anahtarın güzelliğini görmek için talimatları temizleyin. "Üç gün önce Müslümanlar, kadınlar ve örgütler üç çocuğu beklemeye zorlandı" dedi. Bugün şehirde çalışıyoruz. Büyüdükçe, iyi yemek dans etmeye başlar. Geceleri, sanatçı grupta şarkı söylüyor ve şarkı söylüyor ve duvarı iyi tanıyor, ancak yazdan, yeni işçilerden ve perdelerden korkuyor. Bugün hazırlayın Avantajlardan en az biri sakinleşmek veya sakinleşmektir.
+
+Step 63/330
+>> Turkish - English
+	A lot of people make things worse. Clear the instructions to see the beauty of the light and the switch. "Three days ago, Muslims, women and organizations were forced to wait for three children," he said. We work in the city today. As she grows up, good food starts to dance. At night, the artist sings and sings in the band and knows the wall well, but is afraid of summer, new workers and curtains. Get ready today At least one of the advantages is to calm down or calm down.
+
+Step 64/330
+>> English - Spanish
+	Mucha gente empeora las cosas. Borre las instrucciones para ver la belleza de la luz y el interruptor. "Hace tres días, musulmanes, mujeres y organizaciones se vieron obligados a esperar a tres niños", dijo. Trabajamos en la ciudad hoy. A medida que crece, la buena comida comienza a bailar. Por la noche, el artista canta y canta en la banda y conoce bien el muro, pero le tiene miedo al verano, a los nuevos trabajadores y a las cortinas. Prepárese hoy Al menos una de las ventajas es calmarse o calmarse.
+
+Step 65/330
+>> Spanish - Serbian
+	Многи људи погоршавају ствари. Обришите упутства да бисте видели лепоту светла и прекидача. "Пре три дана муслимани, жене и организације били су приморани да чекају троје деце", рекао је. Данас радимо у граду. Како расте, добра храна почиње да плеше. Ноћу, уметник пева и пева у бенду и добро познаје зид, али плаши се лета, нових радника и завеса. Припремите се данас Бар једна од предности је смиривање или смиривање.
+
+Step 66/330
+>> Serbian - Albanian
+	Shumë njerëz i keqësojnë gjërat. Rrokullisni nëpër udhëzime për të parë bukurinë e dritave dhe çelsave. "Tre ditë më parë, muslimanët, gratë dhe organizatat u detyruan të prisnin tre fëmijë," tha ai. Ne punojmë sot në qytet. Ndërsa rritet, ushqimi i mirë fillon të kërcejë. Natën, artisti këndon dhe këndon në një band dhe e njeh mirë murin, por ka frikë nga vera, punëtorët e rinj dhe perdet. Përgatituni sot Të paktën një nga përfitimet është qetësimi ose qetësimi.
+
+Step 67/330
+>> Albanian - English
+	Many people make things worse. Flip through the instructions to see the beauty of lights and switches. "Three days ago, Muslims, women and organizations were forced to expect three children," he said. We work in the city today. As it grows, good food begins to leap. At night, the artist sings and sings in a band and knows the wall well, but is afraid of summer, new workers and curtains. Prepare Today At least one of the benefits is sedation or sedation.
+
+Step 68/330
+>> English - Georgian
+	ბევრს რამე უარესდება. გაეცანით ინსტრუქციებს, რომ დაინახოთ განათება და კონცენტრატორები. ”სამი დღის წინ მუსლიმებმა, ქალებმა და ორგანიზაციებმა აიძულეს სამი შვილის მოლოდინი”, - თქვა მან. დღეს ქალაქში ვმუშაობთ. როგორც იზრდება, კარგი საკვები იწყებს ნახტომი. ღამით, მხატვარი მღერიან და მღერიან ჯგუფში და კარგად იცნობენ კედელს, მაგრამ ეშინია ზაფხულის, ახალი მუშების და ფარდების. დღეს მოამზადეთ მინიმუმ ერთ-ერთი სარგებელი არის სედაცია ან სედაცია.
+
+Step 69/330
+>> Georgian - English
+	Many things are getting worse. Follow the instructions to see the lights and switches. "Three days ago Muslims, women and organizations forced the expectation of three children," he said. We work in the city today. As it grows, good food begins to leap. At night, the artist sings and sings in a band and is familiar with the wall, but is afraid of summer, new workers and curtains. Prepare Today At least one of the benefits is sedation or sedation.
+
+Step 70/330
+>> English - Spanish
+	Muchas cosas están empeorando. Siga las instrucciones para ver las luces y los interruptores. "Hace tres días, musulmanes, mujeres y organizaciones forzaron la expectativa de tres niños", dijo. Trabajamos en la ciudad hoy. A medida que crece, la buena comida comienza a saltar. Por la noche, el artista canta y canta en una banda y está familiarizado con la pared, pero le tiene miedo al verano, a los nuevos trabajadores y a las cortinas. Prepárese hoy Al menos uno de los beneficios es la sedación o sedación.
+
+Step 71/330
+>> Spanish - English
+	Many things are getting worse. Follow the instructions to see the lights and switches. "Three days ago, Muslims, women and organizations forced the expectation of three children," he said. We work in the city today. As it grows, good food starts to jump. At night, the artist sings and sings in a band and is familiar with the wall, but he is afraid of summer, new workers and curtains. Prepare today At least one of the benefits is sedation or sedation.
+
+Step 72/330
+>> English - Sinhala
+	බොහෝ දේ නරක අතට හැරෙමින් තිබේ. විදුලි පහන් සහ ස්විචයන් බැලීමට උපදෙස් අනුගමනය කරන්න. "දින තුනකට පෙර මුස්ලිම්වරුන්, කාන්තාවන් සහ සංවිධාන දරුවන් තිදෙනෙකුගේ අපේක්ෂාවන්ට බල කළා" ඔහු පැවසීය. අපි අද නගරයේ වැඩ කරනවා. එය වැඩෙත්ම හොඳ ආහාර පනින්නට පටන් ගනී. රාත්රියේදී, චිත්ර ශිල්පියා සංගීත කණ්ඩායමක ගායනා කර ගායනා කරන අතර බිත්තියට හුරු පුරුදු නමුත් ඔහු ගිම්හානය, නව සේවකයින් සහ තිර රෙදි වලට බිය වේ. අදම සූදානම් වන්න අවම වශයෙන් එක් ප්‍රතිලාභයක් වන්නේ අවදි වීම හෝ නිදිමත වීමයි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Mnogo se stvari pogoršava. Slijedite upute za pregled svjetla i prekidača. "Prije tri dana muslimani, žene i organizacije natjerali su na troje djece", rekao je. Danas radimo u gradu. Kako raste, dobra hrana počinje skakati. Noću, umjetnik pjeva i pjeva u bendu i s zidom se poznaje, ali plaši se ljeta, novih zaposlenika i zavjesa. Pripremite se danas Najmanje jedna korist je buđenje ili spavanje.
+
+Step 74/330
+>> Bosnian - Spanish
+	Muchas cosas están empeorando. Siga las instrucciones para ver luces e interruptores. "Hace tres días, musulmanes, mujeres y organizaciones forzaron a tres niños", dijo. Trabajamos en la ciudad hoy. A medida que crece, la buena comida comienza a saltar. Por la noche, el artista canta y canta en una banda y está familiarizado con la pared, pero le tiene miedo al verano, a los nuevos empleados y a las cortinas. Prepárese hoy Al menos un beneficio es despertarse o dormir.
+
+Step 75/330
+>> Spanish - Portuguese
+	Muitas coisas estão piorando. Siga as instruções para ver luzes e interruptores. "Três dias atrás, muçulmanos, mulheres e organizações forçaram três filhos", disse ele. Hoje trabalhamos na cidade. À medida que cresce, a boa comida começa a pular. À noite, o artista canta e canta em uma banda e conhece a parede, mas tem medo do verão, de novos funcionários e cortinas. Prepare-se hoje Pelo menos um benefício é acordar ou dormir.
+
+Step 76/330
+>> Portuguese - Arabic
+	أشياء كثيرة تزداد سوءا. اتبع التعليمات لرؤية الأنوار والمفاتيح. وقال "قبل ثلاثة أيام أجبر المسلمون والنساء والمنظمات ثلاثة أطفال". اليوم نحن نعمل في المدينة. مع نموه ، يبدأ الطعام الجيد في القفز. في الليل ، يغني الفنان ويغني في فرقة ويلتقي بالحائط ، لكنه يخشى من الصيف ، موظفين جدد وستائر. الاستعداد اليوم على الأقل فائدة واحدة هي الاستيقاظ أو النوم.
+
+Step 77/330
+>> Arabic - Macedonian
+	Многу работи се влошуваат. Следете ги упатствата за да ги видите светлата и прекинувачите. „Пред три дена, муслимани, жени и организации принудија три деца“, рече тој. Денес работиме во градот. Како што расте, добра храна почнува да скока. Ноќе, уметникот пее и пее во бенд и го исполнува theидот, но се плаши од лето, нови вработени и завеси. Подгответе се денес Најмалку една придобивка е будењето или спиењето.
+
+Step 78/330
+>> Macedonian - Armenian
+	Շատ բաներ վատթարանում են: Լույսերը և անջատիչները տեսնելու համար հետևեք հրահանգներին: «Երեք օր առաջ մահմեդականները, կանայք և կազմակերպությունները ստիպեցին երեք երեխա», - ասաց նա: Մենք այսօր քաղաքում աշխատում ենք: Մեծանալուն պես, լավ սնունդը սկսում է ցատկել: Գիշերները նկարիչը երգում և երգում է մի խումբ և լցնում պատը, բայց վախենում է ամռանից, նոր աշխատակիցներից և վարագույրներից: Պատրաստվեք այսօր Գոնե մեկ օգուտ արթնանալը կամ քնելն է:
+
+Step 79/330
+>> Armenian - Thai
+	หลายสิ่งเลวร้ายลงเรื่อย ๆ ทำตามคำแนะนำเพื่อดูไฟและสวิตช์ "สามวันที่ผ่านมามุสลิมผู้หญิงและองค์กรต่างๆบังคับให้เด็กสามคน" เขากล่าว เราทำงานในเมืองวันนี้ ในขณะที่คุณอายุมากขึ้นสารอาหารที่ดีก็เริ่มกระโดด ในตอนกลางคืนศิลปินร้องและร้องเพลงวงดนตรีและเติมผนัง แต่กลัวฤดูร้อนพนักงานใหม่และผ้าม่าน เตรียมพร้อมวันนี้เป็นอย่างน้อยหนึ่งประโยชน์ของการตื่นนอนหรือนอนหลับ
+
+Step 80/330
+>> Thai - Arabic
+	الأمور تزداد سوءًا ، اتبع التعليمات لرؤية الأنوار والمفاتيح. وقال "قبل ثلاثة أيام ، أجبرت النساء المسلمات ومنظمات مختلفة ثلاثة أطفال" ، ونحن نعمل في المدينة اليوم. كلما تقدمت في العمر ، تبدأ العناصر الغذائية الجيدة في القفز. في الليل ، يغني الفنانون ويغنون الفرق ويملئون الجدران. لكن خائف من الموسم الحار ، الموظفين الجدد والستائر يعد الاستعداد اليوم أحد فوائد الاستيقاظ أو النوم على الأقل.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	事情变得更糟，按照说明看灯和开关。 “三天前，穆斯林妇女和不同的组织强迫三个孩子，”我们今天在这个城市工作。随着年龄的增长，良好的营养素开始跳跃。晚上，艺术家们唱歌，唱歌乐队并填满墙壁。但是，担心炎热的季节，新员工和窗帘准备就绪至少是醒来或睡觉的好处之一。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Las cosas empeoran, siga las instrucciones para ver las luces y los interruptores. "Hace tres días, mujeres musulmanas y diferentes organizaciones forzaron a tres niños", trabajamos hoy en esta ciudad. A medida que envejece, los buenos nutrientes comienzan a saltar. Por la noche, los artistas cantaron, cantaron la banda y llenaron las paredes. Sin embargo, preocupándose por la temporada de calor, los nuevos empleados y las cortinas están listos para ser al menos uno de los beneficios de despertarse o dormir.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Все погіршується, дотримуйтесь інструкцій, щоб побачити світло і вимикачі. "Три дні тому мусульманські жінки та різні організації примушували трьох дітей", - ми працюємо сьогодні в цьому місті. По мірі дорослішання хороші поживні речовини починають стрибати. Вночі артисти співали, співали гурт і заповнювали стіни. Однак, переживаючи гарячу пору року, нові співробітники та штори готові стати хоча б однією з переваг пробудження чи сну.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Todo está empeorando, siga las instrucciones para ver las luces y los interruptores. "Hace tres días, las mujeres musulmanas y varias organizaciones forzaron a tres niños", hoy trabajamos en esta ciudad. A medida que envejecen, los buenos nutrientes comienzan a saltar. Por la noche, los artistas cantaban, cantaban la banda y llenaban las paredes. Sin embargo, con la temporada de calor, los nuevos empleados y las cortinas están listos para convertirse en al menos uno de los beneficios de despertarse o dormir.
+
+Step 85/330
+>> Spanish - English
+	Everything is getting worse, follow the instructions to see the lights and switches. "Three days ago, Muslim women and several organizations forced three children," today we work in this city. As they age, good nutrients begin to jump. At night, the artists sang, sang the band and filled the walls. However, with the hot season, new employees and curtains are ready to become at least one of the benefits of waking up or sleeping.
+
+Step 86/330
+>> English - Mongolian
+	Бүх зүйл улам дордож байна. Гэрэл, унтраагчийг үзэх зааврыг дагана уу. "Гурван хоногийн өмнө мусульман эмэгтэйчүүд, хэд хэдэн байгууллага гурван хүүхдийг хүчээр шахав." Бид өнөөдөр энэ хотод ажиллаж байна. Нас ахих тусам сайн тэжээл шимжиж эхэлдэг. Орой нь уран бүтээлчид дуулж, хамтлаг дуулж, ханыг дүүргэв. Гэсэн хэдий ч халуун улирал эхэлж, шинэ ажилчид, хөшигнүүд нь сэрэх эсвэл унтахын аль нэг ашиг тус болоход бэлэн байна.
+
+Step 87/330
+>> Mongolian - Spanish
+	Todo se está poniendo peor. Siga las instrucciones para ver la luz y los extintores. "Hace tres días, las mujeres musulmanas y varias organizaciones obligaron a tres niños a la fuerza". Estamos trabajando en esta ciudad hoy. A medida que avanza la edad, se convierte en una buena fuente de nutrición. Por la noche, los cantantes cantaron, la banda cantó y llenó la pared. Sin embargo, comienza la temporada de calor y los nuevos trabajadores y las cortinas están listos para despertarse o dormir.
+
+Step 88/330
+>> Spanish - Arabic
+	كل شيء يزداد سوءا. اتبع التعليمات لرؤية الضوء وطفايات. "قبل ثلاثة أيام ، أجبرت النساء المسلمات وعدة منظمات ثلاثة أطفال بالقوة". نحن نعمل في هذه المدينة اليوم. مع تقدم العمر ، يصبح مصدرا جيدا للتغذية. في الليل ، غنى المغنون ، وغنت الفرقة وملأت الجدار. ومع ذلك ، يبدأ الموسم الحار والعمال والستائر الجديدة مستعدون للاستيقاظ أو النوم.
+
+Step 89/330
+>> Arabic - Kurdish
+	Her tişt xirabtir dibe. Rêbernameyên bişopînin da ku ronahî û şewitandinê bibînin. "Sê roj berê, jinên misilman û gelek sazî bi zorê sê zarok bi zorê danîn." Em îro li vî bajarî kar dikin. Bi temen re, ew dibe çavkaniyek baş a vexwarinê. Bi şev, stranbêjan govend gerand, govend gerand û dîwar tijî kir. Lêbelê, demsala germ dest pê dike û karkir û perdeyên nû amade ne ku hişyar bibin an xew bibin.
+
+Step 90/330
+>> Kurdish - English
+	Everything is getting worse. Follow the instructions to find the light and burn. "Three days ago, Muslim women and many institutions forcibly forced three children." We work in this city today. With age, it can be a good source of drinking. At night, the singers danced, danced and filled the wall. However, the warm season begins and new workers and curtains are ready to wake up or fall asleep.
+
+Step 91/330
+>> English - Dutch
+	Alles wordt erger. Volg de instructies om het licht te vinden en te branden. "Drie dagen geleden hebben moslimvrouwen en veel instellingen drie kinderen gedwongen gedwongen." We werken vandaag in deze stad. Met de leeftijd kan het een goede bron van drinken zijn. 'S Nachts dansten, dansten en vulden de muur. Het warme seizoen begint echter en nieuwe werkers en gordijnen zijn klaar om wakker te worden of in slaap te vallen.
+
+Step 92/330
+>> Dutch - English
+	Everything is getting worse. Follow the instructions to find and light the light. "Three days ago, Muslim women and many institutions forced three children." We work in this city today. With age it can be a good source of drinking. At night, the wall danced, danced and filled. However, the warm season is starting and new workers and curtains are ready to wake up or fall asleep.
+
+Step 93/330
+>> English - Samoan
+	O mea uma o le a sili atu ona leaga. Mulimuli i faatonuga e suʻe ma faʻamalamalama le malamalama. "I aso e tolu talu ai, o tamaitai Muslim ma le tele o faalapotopotoga na faamalosia ai tamaiti e toatolu." Matou te galulue i lenei aai i aso nei. Faatasi ai ma le matua e mafai ona avea ma se punavai lelei o le inu. I le po, na siva, siva ma faatumuina le puipui. Ae ui i lea, o le mafanafana o le vaitau ua amata ma ua sauni tagata fou ma pupuni e ala mai pe moe.
+
+Step 94/330
+>> Samoan - Uzbek
+	Hammasi yomonlashadi. Yorug'likni topish va tozalash uchun ko'rsatmalarga amal qiling. "So'nggi uch kun ichida musulmon ayollar va ko'plab tashkilotlar uchta bolani tarbiyalayapti". Biz bugun ushbu shaharda ishlaymiz. Yoshi bilan u yaxshi ichimlik manbai bo'lishi mumkin. Kechalari ular raqsga tushishdi, raqsga tushishdi va devorni to'ldirishdi. Biroq, issiq mavsum boshlandi va yangi kelganlar uyg'onishga yoki uxlashga tayyor.
+
+Step 95/330
+>> Uzbek - English
+	It gets worse. Follow the instructions to find and clear the light. "In the last three days, Muslim women and many organizations have been raising three children." We work in this city today. With age, it can be a good source of drinking. At night they danced, danced and filled the wall. However, the hot season has begun and newcomers are ready to wake up or sleep.
+
+Step 96/330
+>> English - Arabic
+	تزداد الأمور سوءا. اتبع التعليمات للعثور على الضوء ومسحه. "في الأيام الثلاثة الماضية ، قامت نساء مسلمات والعديد من المنظمات بتربية ثلاثة أطفال". نحن نعمل في هذه المدينة اليوم. مع تقدم العمر ، يمكن أن يكون مصدرا جيدا للشرب. في الليل رقصوا ورقصوا وملأوا الجدار. ومع ذلك ، فقد بدأ الموسم الحار والقادمين الجدد على استعداد للاستيقاظ أو النوم.
+
+Step 97/330
+>> Arabic - French
+	Les choses empirent. Suivez les instructions pour trouver et essuyer la lumière. "Ces trois derniers jours, des enfants musulmans et plusieurs organisations ont élevé trois enfants." Nous travaillons dans cette ville aujourd'hui. Avec l'âge, cela peut être une bonne source de boisson. La nuit, ils dansaient et dansaient et remplissaient le mur. Cependant, la saison chaude a commencé et les nouveaux arrivants sont prêts à se lever ou à dormir.
+
+Step 98/330
+>> French - Spanish
+	Las cosas están empeorando. Siga las instrucciones para encontrar y limpiar la luz. "En los últimos tres días, niños musulmanes y varias organizaciones han criado a tres niños". Trabajamos en esta ciudad hoy. Con la edad, esto puede ser una buena fuente de bebida. Por la noche, bailaban y bailaban y llenaban la pared. Sin embargo, la temporada de calor ha comenzado y los recién llegados están listos para levantarse o dormir.
+
+Step 99/330
+>> Spanish - Romanian
+	Lucrurile se agravează. Urmați instrucțiunile pentru a găsi și curăța lumina. "În ultimele trei zile, copiii musulmani și mai multe organizații au crescut trei copii." Lucrăm în acest oraș astăzi. Odată cu vârsta, aceasta poate fi o sursă bună de băutură. Noaptea, au dansat și au dansat și au umplut zidul. Cu toate acestea, sezonul cald a început și nou-veniții sunt gata să se trezească sau să doarmă.
+
+Step 100/330
+>> Romanian - Filipino
+	Ang mga bagay ay lumalala. Sundin ang mga tagubilin upang hanapin at linisin ang ilaw. "Sa huling tatlong araw, ang mga batang Muslim at maraming mga organisasyon ay nagpalaki ng tatlong anak." Nagtatrabaho kami sa lungsod ngayon. Sa edad, maaari itong maging isang mahusay na mapagkukunan ng inumin. Sa gabi, sumayaw sila at sumayaw at pinuno ang pader. Gayunpaman, ang mainit na panahon ay nagsimula at ang mga bagong dating ay handa na magising o matulog.
+
+Step 101/330
+>> Filipino - Zulu
+	Izinto ziya ziba zimbi kakhulu. Landela imiyalo ukuthola nokuhlanza isibani. "Ezinsukwini ezintathu ezedlule, izingane zamaSulumane nezinhlangano eziningi zikhulise izingane ezintathu." Sisebenza edolobheni njengamanje. Ngobudala, kungaba ngumthombo omuhle kakhulu wesiphuzo. Ebusuku, badansa futhi badansa futhi bagcwalisa udonga. Kodwa-ke, isimo sezulu esishisayo sesiqalile futhi abafikayo sebekulungele ukuvuka noma ukulala.
+
+Step 102/330
+>> Zulu - Arabic
+	الأمور تزداد سوءا. اتبع التعليمات للعثور على المصباح وتنظيفه. "في الأيام الثلاثة الماضية ، قام أطفال مسلمون والعديد من المنظمات بتربية ثلاثة أطفال". نحن نعمل في المدينة الآن. مع تقدم العمر ، يمكن أن يكون مصدرا ممتازا للمشروبات. في الليل ، رقصوا ورقصوا وملأوا الجدار. ومع ذلك ، فقد بدأ الطقس الحار والقادمين الجدد على استعداد للاستيقاظ أو النوم.
+
+Step 103/330
+>> Arabic - Indonesian
+	Hal-hal semakin buruk. Ikuti instruksi untuk menemukan dan membersihkan lampu. "Dalam tiga hari terakhir, tiga anak telah dibesarkan oleh anak-anak Muslim dan beberapa organisasi." Kami sedang bekerja di kota sekarang. Dengan bertambahnya usia, itu bisa menjadi sumber minuman yang sangat baik. Pada malam hari, mereka menari dan menari dan mengisi dinding. Namun, cuaca panas telah dimulai dan pendatang baru siap untuk bangun atau tidur.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Mọi thứ đang trở nên tồi tệ. Thực hiện theo các hướng dẫn để tìm và làm sạch đèn. "Trong ba ngày qua, ba đứa trẻ đã được nuôi dưỡng bởi trẻ em Hồi giáo và một số tổ chức." Chúng tôi đang làm việc trong thành phố bây giờ. Với tuổi ngày càng tăng, nó có thể là một nguồn đồ uống rất tốt. Vào ban đêm, họ nhảy và nhảy và lấp đầy các bức tường. Tuy nhiên, thời tiết nóng đã bắt đầu và những người mới đến đã sẵn sàng thức dậy hoặc ngủ.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Las cosas están empeorando. Siga las instrucciones para encontrar y limpiar las luces. "En los últimos tres días, tres niños han sido criados por niños musulmanes y varias organizaciones". Estamos trabajando en la ciudad ahora. Con el aumento de la edad, puede ser una muy buena fuente de bebidas. Por la noche, bailan y saltan y llenan las paredes. Sin embargo, el clima cálido ha comenzado y los recién llegados están listos para despertarse o dormir.
+
+Step 106/330
+>> Spanish - Arabic
+	الأمور تزداد سوءا. اتبع التعليمات للعثور على الأضواء وتنظيفها. "في الأيام الثلاثة الماضية ، قام أطفال مسلمون ومنظمات مختلفة بتربية ثلاثة أطفال." نحن نعمل في المدينة الآن. مع زيادة العمر ، يمكن أن يكون مصدرا جيدا للغاية من المشروبات. في الليل ، يرقصون ويقفزون ويملئون الجدران. ومع ذلك ، فقد بدأ الطقس الدافئ والقادمين الجدد على استعداد للاستيقاظ أو النوم.
+
+Step 107/330
+>> Arabic - Spanish
+	Las cosas están empeorando. Siga las instrucciones para encontrar y limpiar las luces. "En los últimos tres días, tres niños han sido criados por niños musulmanes y varias organizaciones". Estamos trabajando en la ciudad ahora. Con el aumento de la edad, puede ser una muy buena fuente de bebidas. Por la noche, bailan, saltan y llenan las paredes. Sin embargo, el clima cálido ha comenzado y los recién llegados están listos para despertarse o dormir.
+
+Step 108/330
+>> Spanish - Russian
+	Все ухудшается. Следуйте инструкциям, чтобы найти и очистить свет. «За последние три дня трое детей были воспитаны детьми-мусульманами и различными организациями». Мы сейчас работаем в городе. С возрастом это может стать очень хорошим источником напитков. Ночью они танцуют, прыгают и наполняют стены. Тем не менее, теплая погода началась, и новички готовы просыпаться или спать.
+
+Step 109/330
+>> Russian - Arabic
+	كل شيء يزداد سوءا. اتبع التعليمات للعثور على الضوء ومسحه. "خلال الأيام الثلاثة الماضية ، قام أطفال مسلمون ومنظمات مختلفة بتربية ثلاثة أطفال." نحن نعمل حاليا في المدينة. مع تقدم العمر ، يمكن أن يكون هذا مصدرًا جيدًا للمشروبات. في الليل يرقصون ويقفزون ويمتلئون الجدران. ومع ذلك ، فقد بدأ الطقس الدافئ ، والمبتدئين مستعدون للاستيقاظ أو النوم.
+
+Step 110/330
+>> Arabic - Spanish
+	Todo se está poniendo peor. Siga las instrucciones para encontrar y limpiar la luz. "En los últimos tres días, tres niños han sido criados por niños musulmanes y varias organizaciones". Actualmente estamos trabajando en la ciudad. A medida que envejece, esto puede ser una buena fuente de bebidas. Por la noche bailan, saltan y llenan las paredes. Sin embargo, el clima cálido ha comenzado y los principiantes están listos para despertarse o dormir.
+
+Step 111/330
+>> Spanish - Portuguese
+	Tudo está piorando. Siga as instruções para encontrar e limpar a luz. "Nos últimos três dias, três crianças foram criadas por crianças muçulmanas e várias organizações". Atualmente, estamos trabalhando na cidade. Conforme você envelhece, isso pode ser uma boa fonte de bebidas. À noite eles dançam, pulam e enchem as paredes. No entanto, o tempo quente começou e os iniciantes estão prontos para acordar ou dormir.
+
+Step 112/330
+>> Portuguese - English
+	Everything is getting worse. Follow the instructions to find and clean the light. "In the last three days, three children were raised by Muslim children and various organizations." We are currently working in the city. As you get older, this can be a good source of drinks. At night they dance, jump and fill the walls. However, warm weather has begun and beginners are ready to wake up or sleep.
+
+Step 113/330
+>> English - Spanish
+	Todo se está poniendo peor. Siga las instrucciones para encontrar y limpiar la luz. "En los últimos tres días, tres niños fueron criados por niños musulmanes y varias organizaciones". Actualmente estamos trabajando en la ciudad. A medida que envejece, esta puede ser una buena fuente de bebidas. Por la noche bailan, saltan y llenan las paredes. Sin embargo, el clima cálido ha comenzado y los principiantes están listos para despertarse o dormir.
+
+Step 114/330
+>> Spanish - English
+	Everything is getting worse. Follow the instructions to find and clean the light. "In the last three days, three children were raised by Muslim children and various organizations." We are currently working in the city. As you get older, this can be a good source of drinks. At night they dance, jump and fill the walls. However, the warm weather has begun and beginners are ready to wake up or sleep.
+
+Step 115/330
+>> English - Hindi
+	सब कुछ खराब हो रहा है। प्रकाश को खोजने और साफ करने के लिए निर्देशों का पालन करें। "पिछले तीन दिनों में, तीन बच्चों को मुस्लिम बच्चों और विभिन्न संगठनों द्वारा उठाया गया था।" हम वर्तमान में शहर में काम कर रहे हैं। जैसे-जैसे आप बूढ़े होते हैं, यह पेय का एक अच्छा स्रोत हो सकता है। रात में वे नृत्य करते हैं, कूदते हैं और दीवारों को भरते हैं। हालांकि, गर्म मौसम शुरू हो गया है और शुरुआती लोग जागने या सोने के लिए तैयार हैं।
+
+Step 116/330
+>> Hindi - Portuguese
+	Tudo está indo mal. Siga as instruções para encontrar e limpar a luz. "Nos últimos três dias, três crianças foram criadas por crianças muçulmanas e várias organizações". Atualmente, estamos trabalhando na cidade. Conforme você envelhece, pode ser uma boa fonte de bebidas. À noite eles dançam, pulam e enchem as paredes. No entanto, o tempo quente começou e os iniciantes estão prontos para acordar ou dormir.
+
+Step 117/330
+>> Portuguese - Spanish
+	Todo va mal Siga las instrucciones para encontrar y limpiar la luz. "En los últimos tres días, tres niños fueron criados por niños musulmanes y varias organizaciones". Actualmente estamos trabajando en la ciudad. A medida que envejece, puede ser una buena fuente de bebidas. Por la noche bailan, saltan y llenan las paredes. Sin embargo, el clima cálido ha comenzado y los principiantes están listos para despertarse o dormir.
+
+Step 118/330
+>> Spanish - English
+	Everything is going wrong Follow the instructions to find and clean the light. "In the last three days, three children were raised by Muslim children and various organizations." We are currently working in the city. As you get older, it can be a good source of drinks. At night they dance, jump and fill the walls. However, the warm weather has begun and beginners are ready to wake up or sleep.
+
+Step 119/330
+>> English - Bengali
+	সবকিছু ভুল হয়ে যাচ্ছে আলোটি সন্ধান এবং পরিষ্কার করার জন্য নির্দেশাবলী অনুসরণ করুন। "গত তিন দিনে তিনটি শিশুকে মুসলিম শিশু এবং বিভিন্ন সংগঠন গড়ে তুলেছিল।" আমরা বর্তমানে শহরে কাজ করছি। বয়স বাড়ার সাথে সাথে এটি পানীয়ের ভাল উত্স হতে পারে। রাতে তারা নাচে, লাফিয়ে দেয়ালগুলি পূরণ করে। যাইহোক, উষ্ণ আবহাওয়া শুরু হয়েছে এবং নতুনরা জেগে বা ঘুমোতে প্রস্তুত।
+
+Step 120/330
+>> Bengali - French
+	Tout va mal Suivez les instructions pour trouver et éclaircir la lumière. "Ces trois derniers jours, trois enfants ont été élevés par des enfants musulmans et diverses organisations." Nous travaillons actuellement dans la ville. Cela peut être une bonne source de consommation à mesure que vous vieillissez. La nuit, ils dansent, sautent et remplissent les murs. Cependant, le temps chaud a commencé et les nouveaux sont prêts à se réveiller ou à dormir.
+
+Step 121/330
+>> French - lao
+	ທຸກຢ່າງຜິດພາດປະຕິບັດຕາມ ຄຳ ແນະ ນຳ ໃນການຄົ້ນຫາແລະໃຫ້ແສງສະຫວ່າງ. "ໃນສາມມື້ທີ່ຜ່ານມາ, ເດັກນ້ອຍ 3 ຄົນໄດ້ຖືກລ້ຽງດູໂດຍເດັກນ້ອຍຊາວມຸດສະລິມແລະອົງການຈັດຕັ້ງຕ່າງໆ." ປະຈຸບັນພວກເຮົາ ກຳ ລັງເຮັດວຽກຢູ່ໃນເມືອງ. ນີ້ສາມາດເປັນແຫຼ່ງທີ່ດີຂອງການບໍລິໂພກໃນເວລາທີ່ທ່ານເຖົ້າແກ່. ໃນຕອນກາງຄືນ, ພວກເຂົາເຕັ້ນ, ໂດດແລະເຕັມຝາ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ອາກາດຮ້ອນໄດ້ເລີ່ມຕົ້ນແລະຄົນ ໃໝ່ ພ້ອມທີ່ຈະຕື່ນນອນຫລືນອນຫລັບ.
+
+Step 122/330
+>> lao - English
+	All errors follow the search instructions and turn on the light. "In the last three days, three children have been raised by Muslim children and organizations." We are currently working in the city. This can be a good source of consumption as you get older. At night, they dance, jump and fill the walls. However, the hot weather has begun and newbies are ready to wake up or fall asleep.
+
+Step 123/330
+>> English - Portuguese
+	Todos os erros seguem as instruções de pesquisa e acendem a luz. "Nos últimos três dias, três crianças foram criadas por crianças e organizações muçulmanas". Atualmente, estamos trabalhando na cidade. Essa pode ser uma boa fonte de consumo à medida que você envelhece. À noite, eles dançam, pulam e enchem as paredes. No entanto, o tempo quente começou e os novatos estão prontos para acordar ou adormecer.
+
+Step 124/330
+>> Portuguese - English
+	All errors follow the search instructions and turn on the light. "In the last three days, three children were raised by Muslim children and organizations." We are currently working in the city. This can be a good source of consumption as you get older. At night they dance, jump and fill the walls. However, the warm weather has begun and beginners are ready to wake up or fall asleep.
+
+Step 125/330
+>> English - Portuguese
+	Todos os erros seguem as instruções de pesquisa e acendem a luz. "Nos últimos três dias, três crianças foram criadas por crianças e organizações muçulmanas". Atualmente, estamos trabalhando na cidade. Essa pode ser uma boa fonte de consumo à medida que você envelhece. À noite eles dançam, pulam e enchem as paredes. No entanto, o tempo quente começou e os iniciantes estão prontos para acordar ou adormecer.
+
+Step 126/330
+>> Portuguese - English
+	All errors follow the search instructions and turn on the light. "In the last three days, three children were raised by Muslim children and organizations." We are currently working in the city. This can be a good source of consumption as you get older. At night they dance, jump and fill the walls. However, warm weather has begun and beginners are ready to wake up or fall asleep.
+
+Step 127/330
+>> English - Portuguese
+	Todos os erros seguem as instruções de pesquisa e acendem a luz. "Nos últimos três dias, três crianças foram criadas por crianças e organizações muçulmanas". Atualmente, estamos trabalhando na cidade. Essa pode ser uma boa fonte de consumo à medida que você envelhece. À noite eles dançam, pulam e enchem as paredes. No entanto, o tempo quente começou e os iniciantes estão prontos para acordar ou adormecer.
+
+Step 128/330
+>> Portuguese - Burmese
+	အားလုံးအမှားများကိုအလငျးအပေါ်သုတေသနနှင့်အလှည့်များ၏လမ်းညွန်လိုက်နာပါ။ "အတိတ်ကာလသုံးရက်ကျော်, ကလေးသုံးယောက်ကလေးများနှင့်မွတ်စ်လင်အဖွဲ့အစည်းများအသုံးပြုနေသူများကဖန်တီးခဲ့ကြသည်။ " ကျနော်တို့လက်ရှိမြို့တွင်အလုပ်လုပ်ကိုင်နေကြသည်။ သငျသညျအဟောင်းများကို get အတိုင်းဤစားသုံးမှုကောင်းတစ်ဦးအရင်းအမြစ်ဖြစ်နိုင်ပါတယ်။ ညဥ့်အချိန်၌သူတို့နံရံခုန်ခြင်းနှင့်ဖြည့်ပါ, ခုန်တတ်ကြ၏။ သို့သော်နွေးထွေးသောရာသီဥတုစတင်အရင်ကဆိုရင်နိုးထသို့မဟုတ်အိပ်ပျော်ဖို့အဆင်သင့်ရှိပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	सबै त्रुटिहरू र अनुसन्धान मा प्रकाश पारिएको र निर्देशन पालना गर्नुहोस्। हामी हाल शहर मा काम गर्दै छन् "विगत तीन दिन भन्दा, र तीन छोराछोरी र मुसलमान संगठनहरूका लागि सिर्जना गरेका थिए।"। तपाईं पुरानो प्राप्त, यो खपत को राम्रो स्रोत हुन सक्छ। रात आफ्नो पर्खाल एक जम्प भरिएको तिनीहरूले हाम फाल्न। तर, न्यानो मौसम सुरु शुरुआती सुत्न तयार छन् वा उठ।
+
+Step 130/330
+>> Nepali - Urdu
+	تمام غلطیوں اور تحقیقات کو اجاگر کیا گیا ہے اور ہدایات پر عمل کریں۔ ہم اس وقت "پچھلے تین دن کے دوران شہر میں کام کر رہے ہیں ، اور تین بچے اور مسلم تنظیموں کے لئے پیدا کیا ہے۔" اگر آپ کی عمر بڑھ جاتی ہے تو ، یہ کھپت کا ایک اچھا ذریعہ ہوسکتا ہے۔ رات کو ان کی دیواریں اچھل چھلانگ سے بھری ہوتی ہیں۔ تاہم ، گرم موسم کے شروع میں ، ابتدائی نیند یا اٹھنے کے لئے تیار ہوتے ہیں۔
+
+Step 131/330
+>> Urdu - French
+	Toutes les erreurs et les investigations sont mises en évidence et respectent les instructions. Nous travaillons actuellement dans la ville depuis trois jours et avons créé trois enfants et des organisations musulmanes. Si vous vieillissez, cela peut être une bonne source de consommation. La nuit, leurs murs sont pleins de bonds. Cependant, au début de la saison chaude, les débutants sont prêts à dormir ou à se réveiller.
+
+Step 132/330
+>> French - English
+	All errors and investigations are highlighted and follow the instructions. We have been working in the city for three days and have created three children and Muslim organizations. If you get older, this can be a good source of consumption. At night, their walls are full of bounds. However, at the beginning of the hot season, beginners are ready to sleep or wake up.
+
+Step 133/330
+>> English - Swahili
+	Makosa yote na uchunguzi umeonyeshwa na kufuata maagizo. Tumekuwa tukifanya kazi jijini kwa siku tatu na tumeunda watoto watatu na mashirika ya Waislamu. Ikiwa unazeeka, hii inaweza kuwa chanzo kizuri cha matumizi. Usiku, kuta zao zimejaa mipaka. Walakini, mwanzoni mwa msimu wa moto, waanziaji wako tayari kulala au kuamka.
+
+Step 134/330
+>> Swahili - Arabic
+	يشار إلى جميع الأخطاء والملاحظات واتبع التعليمات. نحن نعمل في المدينة لمدة ثلاثة أيام وأنشأنا ثلاثة أطفال ومنظمات إسلامية. إذا كنت تكبر ، فقد يكون هذا مصدرًا جيدًا للاستخدام. في الليل ، جدرانها مليئة بالحدود. ومع ذلك ، في بداية الموسم الحار ، يكون المبتدئين مستعدين للنوم أو الاستيقاظ.
+
+Step 135/330
+>> Arabic - Shona
+	Zvese zvikanganiso uye manotsi zvinoratidzwa uye tevera iwo mairairo. Isu tinoshanda muguta mazuva matatu uye takagadzira vana vatatu nemasangano eIslam. Kana iwe uri kukura, izvi zvinogona kuve sosi yakanaka yekushandisa. Husiku, madziro ayo akazara nemiganhu. Nekudaro, pakutanga kwemwaka unopisa, vatambi vakagadzirira kurara kana kumuka.
+
+Step 136/330
+>> Shona - Hausa
+	Dukkan kurakurai da bayanin kula ana nuna su kuma bi umarnin. Muna aiki a cikin gari tsawon kwana uku kuma mun kafa yara uku tare da ƙungiyoyin Islama. Idan kuna girma, wannan na iya zama babbar kayan aiki don amfani. Da dare, ganuwar ta cike da iyakoki. A zahiri, a farkon lokacin zafi, 'yan wasa suna shirye don barci ko farka.
+
+Step 137/330
+>> Hausa - Swahili
+	Makosa yote na noti zinaonyeshwa na kufuata maagizo. Tulifanya kazi katikati mwa siku tatu na kuanzisha watoto watatu na vikundi vya Kiisilamu. Ikiwa unakua, hii inaweza kuwa zana nzuri ya kutumia. Usiku, kuta zilikuwa zimejaa mipaka. Kwa kweli, katika msimu wa joto mapema, wachezaji wako tayari kulala au kuamka.
+
+Step 138/330
+>> Swahili - English
+	All errors and notes are displayed and follow instructions. We worked within three days and started three children with Islamic groups. If you grow up, this can be a great tool to use. By night, the walls were full of borders. In fact, in the early warm season, players are ready to sleep or wake up.
+
+Step 139/330
+>> English - Arabic
+	يتم عرض جميع الأخطاء والملاحظات واتبع التعليمات. لقد عملنا في غضون ثلاثة أيام وبدأنا ثلاثة أطفال مع الجماعات الإسلامية. إذا كبرت ، يمكن أن يكون هذا أداة رائعة للاستخدام. في الليل ، كانت الجدران مليئة بالحدود. في الواقع ، في بداية الموسم الدافئ ، يكون اللاعبون على استعداد للنوم أو الاستيقاظ.
+
+Step 140/330
+>> Arabic - Malagasy
+	Ireo hadisoana sy naoty rehetra dia aseho ary araho ny torolàlana. Niasa telo andro izahay ary nanomboka zaza telo niaraka tamin'ny vondrona Islamista. Raha lehibe ianao dia mety ho fitaovana tsara ampiasaina io. Amin’ny alina dia feno sisin-tany ny rindrina. Raha ny marina, amin'ny fiandohan'ny vanim-potoana mafana, ny mpilalao dia vonona matory na mifoha.
+
+Step 141/330
+>> Malagasy - Swahili
+	Makosa yote na noti zinaonyeshwa na kufuata maagizo. Tulifanya kazi siku tatu na kuanza watoto watatu na vikundi vya Waisilamu. Ikiwa wewe ni mzee basi hii inaweza kuwa zana nzuri ya kutumia. Usiku kuta zimejaa mipaka. Kwa kweli, mwanzoni mwa msimu wa msimu wa joto, wachezaji wako tayari kulala au kuamka.
+
+Step 142/330
+>> Swahili - French
+	Toutes les erreurs et les notes sont affichées et suivez les instructions. Nous avons travaillé trois jours et commencé trois enfants avec des groupes musulmans. Si vous êtes plus âgé, cela peut être un excellent outil à utiliser. La nuit, les murs sont pleins de frontières. En fait, au début de la saison chaude, les joueurs sont prêts à dormir ou à se réveiller.
+
+Step 143/330
+>> French - Arabic
+	يتم عرض جميع الأخطاء والملاحظات واتبع التعليمات. لقد عملنا ثلاثة أيام وبدأنا ثلاثة أطفال مع الجماعات الإسلامية. إذا كنت أكبر سناً ، فقد تكون هذه أداة رائعة للاستخدام. في الليل ، الجدران مليئة بالحدود. في الواقع ، في بداية الموسم الحار ، يكون اللاعبون مستعدين للنوم أو الاستيقاظ.
+
+Step 144/330
+>> Arabic - French
+	Toutes les erreurs et les notes sont affichées et suivez les instructions. Nous avons travaillé trois jours et commencé trois enfants avec des groupes islamiques. Si vous êtes plus âgé, cela pourrait être un excellent outil à utiliser. La nuit, les murs sont pleins de frontières. En fait, au début de la saison chaude, les joueurs sont prêts à dormir ou à se réveiller.
+
+Step 145/330
+>> French - Arabic
+	يتم عرض جميع الأخطاء والملاحظات واتبع التعليمات. لقد عملنا ثلاثة أيام وبدأنا ثلاثة أطفال مع الجماعات الإسلامية. إذا كنت أكبر سناً ، فقد تكون هذه أداة رائعة للاستخدام. في الليل ، الجدران مليئة بالحدود. في الواقع ، في بداية الموسم الحار ، يكون اللاعبون مستعدين للنوم أو الاستيقاظ.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Tout erè ak nòt yo ap parèt epi swiv enstriksyon yo. Nou te travay twa jou e te kòmanse twa timoun ki gen gwoup Islamik. Si w ap pi gran, sa a ta kapab yon gwo zouti yo itilize. Nan mitan lannwit, mi yo plen ak fwontyè. An reyalite, nan kòmansman sezon cho a, jwè yo pare pou yo dòmi oswa reveye.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	ټولې خطا او نوټونه به څرګند شي او لارښوونې تعقیب کړي. موږ درې ورځې کار وکړ او درې ماشومان مو له اسلامي ډلو سره پیل کړل. که تاسو عمر لرئ ، دا د کارولو لپاره عالي وسیله کیدی شي. د شپې پر مهال ، دېوالونه له سرحدونو ډکې دي. په حقیقت کې ، د ګرم فصل په پیل کې ، لوبغاړي خوب کولو یا ویښ کیدو ته چمتو دي.
+
+Step 148/330
+>> Pashto - French
+	Toutes les lettres et notes seront affichées et suivez les instructions. Nous avons travaillé pendant trois jours et commencé trois enfants avec des groupes islamiques. Si vous êtes plus âgé, cela peut être un excellent outil à utiliser. La nuit, les murs sont pleins de frontières. En fait, au début de la saison chaude, les joueurs sont prêts à s’endormir ou à se réveiller.
+
+Step 149/330
+>> French - Chichewa
+	Makalata onse ndi zolemba zidzawonetsedwa ndikutsatira malangizowo. Tinagwira ntchito kwa masiku atatu ndikuyambitsa ana atatu ndi magulu achisilamu. Ngati ndinu okalamba, ichi chitha kukhala chida chabwino kugwiritsa ntchito. Usiku, makomawo amadzaza malire. M'malo mwake, kumayambiriro kwa nyengo yotentha, osewera amakhala okonzeka kugona kapena kudzuka.
+
+Step 150/330
+>> Chichewa - Arabic
+	سيتم عرض جميع المراسلات والملاحظات واتبع التعليمات. لقد عملنا لمدة ثلاثة أيام وبدأنا ثلاثة أطفال مع الجماعات الإسلامية. إذا كنت أكبر سناً ، فقد تكون هذه أداة رائعة للاستخدام. في الليل ، تملأ الجدران الحدود. بدلاً من ذلك ، في بداية الصيف ، يكون اللاعبون إما مستعدين للنوم أو الاستيقاظ.
+
+Step 151/330
+>> Arabic - Amharic
+	ሁሉም ደብዳቤዎች እና ማስታወሻዎች ይታያሉ እና መመሪያዎችን ይከተላሉ ፡፡ ለሦስት ቀናት ያህል ሠርተን ሦስት ልጆችን በእስላማዊ ቡድኖች ጀመርን ፡፡ ዕድሜዎ ከደረሰ ይህ ለመጠቀም ጥሩ መሣሪያ ሊሆን ይችላል። ምሽት ላይ ግድግዳዎቹ ድንበሩን ይሞላሉ ፡፡ ይልቁንም ፣ በበጋ መጀመሪያ ላይ ፣ ተጫዋቾች ለመተኛት ወይም ለማንቃት ዝግጁ ናቸው ፡፡
+
+Step 152/330
+>> Amharic - English
+	All letters and notes will be displayed and follow instructions. We worked for three days and started with three children in Islamic groups. This can be a great tool to use if you are old enough. At night the walls fill the border. Instead, at the beginning of summer, players are ready to sleep or wake up.
+
+Step 153/330
+>> English - French
+	Toutes les lettres et notes seront affichées et suivront les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants dans des groupes islamiques. Cela peut être un excellent outil à utiliser si vous êtes assez vieux. La nuit, les murs remplissent la frontière. Au lieu de cela, au début de l'été, les joueurs sont prêts à dormir ou à se réveiller.
+
+Step 154/330
+>> French - Swahili
+	Barua na maelezo yote yataonyeshwa na kufuata maagizo. Tulifanya kazi kwa siku tatu na tulianza na watoto watatu katika vikundi vya Kiisilamu. Hii inaweza kuwa zana nzuri ya kutumia ikiwa umezeeka. Usiku, kuta zinajaza mpaka. Badala yake, mwanzoni mwa msimu wa joto, wachezaji wako tayari kulala au kuamka.
+
+Step 155/330
+>> Swahili - Portuguese
+	Todas as letras e informações serão exibidas e siga as instruções. Trabalhamos por três dias e começamos com três crianças em grupos muçulmanos. Essa pode ser uma ótima ferramenta para usar se você for mais velho. À noite, paredes enchem a fronteira. Em vez disso, no início da estação quente, os jogadores estão prontos para dormir ou acordar.
+
+Step 156/330
+>> Portuguese - Arabic
+	سيتم عرض جميع الحروف والمعلومات واتبع التعليمات. لقد عملنا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال في الجماعات الإسلامية. يمكن أن يكون هذا أداة رائعة لاستخدامها إذا كنت أكبر سناً. في الليل ، تملأ الجدران الحدود. بدلاً من ذلك ، في بداية الموسم الدافئ ، يكون اللاعبون مستعدين للنوم أو الاستيقاظ.
+
+Step 157/330
+>> Arabic - Portuguese
+	Todas as letras e informações serão exibidas e siga as instruções. Trabalhamos por três dias e começamos com três crianças em grupos islâmicos. Essa pode ser uma ótima ferramenta para usar se você for mais velho. À noite, as paredes enchem a fronteira. Em vez disso, no início da estação quente, os jogadores estão prontos para dormir ou acordar.
+
+Step 158/330
+>> Portuguese - English
+	All letters and information will be displayed and follow the instructions. We worked for three days and started with three children in Islamic groups. This can be a great tool to use if you are older. At night, the walls fill the border. Instead, early in the warm season, players are ready to sleep or wake up.
+
+Step 159/330
+>> English - French
+	Toutes les lettres et informations seront affichées et suivez les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants dans des groupes islamiques. Cela peut être un excellent outil à utiliser si vous êtes plus âgé. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les joueurs sont prêts à dormir ou à se réveiller.
+
+Step 160/330
+>> French - English
+	All letters and information will be displayed and follow the instructions. We worked for three days and started with three children in Islamic groups. This can be a great tool to use if you are older. At night, the walls fill the border. At the beginning of the hot season, players are ready to sleep or wake up.
+
+Step 161/330
+>> English - Swahili
+	Barua na habari zote zitaonyeshwa na kufuata maagizo. Tulifanya kazi kwa siku tatu na tulianza na watoto watatu katika vikundi vya Kiisilamu. Hii inaweza kuwa zana nzuri ya kutumia ikiwa wewe ni mzee. Usiku, kuta zinajaza mpaka. Mwanzoni mwa msimu wa moto, wachezaji wako tayari kulala au kuamka.
+
+Step 162/330
+>> Swahili - Arabic
+	سيتم عرض جميع الحروف والمعلومات واتبع التعليمات. لقد عملنا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال في الجماعات الإسلامية. يمكن أن يكون هذا أداة رائعة لاستخدامها إذا كنت أكبر سناً. في الليل ، تملأ الجدران الحدود. في بداية الموسم الحار ، يكون اللاعبون مستعدين للنوم أو الاستيقاظ.
+
+Step 163/330
+>> Arabic - Arabic
+	All letters and information will be displayed and follow the instructions. We worked for three days and started with three children in Islamic groups. This can be a great tool to use if you are older. At night, the walls fill the border. At the beginning of the hot season, players are ready to sleep or wake up.
+
+Step 164/330
+>> Arabic - French
+	Toutes les lettres et informations seront affichées et suivez les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants dans des groupes islamiques. Cela peut être un excellent outil à utiliser si vous êtes plus âgé. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les joueurs sont prêts à dormir ou à se réveiller.
+
+Step 165/330
+>> French - Hausa
+	Duk haruffa da bayanai za a nuna su kuma bi umarnin. Mun yi aiki tsawon kwana uku tare da farawa tare da yara uku a cikin kungiyoyin addinin Islama. Wannan na iya zama babbar kayan aiki don amfani idan kun tsufa. Da dare, ganuwar ta cika iyaka. A farkon lokacin zafi, 'yan wasa a shirye suke su yi bacci ko su farka.
+
+Step 166/330
+>> Hausa - French
+	Toutes les lettres et les données seront affichées et suivez les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants appartenant à des groupes religieux islamiques. Cela peut être un excellent outil à utiliser lorsque vous êtes plus âgé. La nuit, les murs remplissent la frontière. Au début de l'été, les athlètes sont prêts à se coucher ou à se réveiller.
+
+Step 167/330
+>> French - Arabic
+	All letters and data will be displayed and follow the instructions. We worked for three days and started with three children belonging to Islamic religious groups. This can be a great tool to use when you are older. At night, the walls fill the border. At the beginning of the summer, athletes are ready to go to bed or wake up.
+
+Step 168/330
+>> Arabic - Arabic
+	سيتم عرض جميع الحروف والبيانات واتبع التعليمات. عملنا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال ينتمون إلى جماعات دينية إسلامية. يمكن أن يكون هذا أداة رائعة لاستخدامها عندما تكون أكبر سنًا. في الليل ، تملأ الجدران الحدود. في بداية الصيف ، يكون الرياضيون مستعدين للذهاب إلى السرير أو الاستيقاظ.
+
+Step 169/330
+>> Arabic - Swahili
+	Barua na data zote zitaonyeshwa na kufuata maagizo. Tulifanya kazi kwa siku tatu na tulianza na watoto watatu wa kikundi cha dini cha Kiisilamu. Hii inaweza kuwa zana nzuri ya kutumia ukiwa mzee. Usiku, kuta zinajaza mpaka. Mwanzoni mwa msimu wa joto, wanariadha wako tayari kwenda kulala au kuamka.
+
+Step 170/330
+>> Swahili - English
+	All mail and data will be displayed and follow instructions. We worked for three days and started with three children of an Islamic religious group. This can be a great tool to use when you're older. At night, walls fill the border. At the beginning of the warm season, athletes are ready to go to sleep or wake up.
+
+Step 171/330
+>> English - French
+	Tout le courrier et les données seront affichés et suivront les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants d'un groupe religieux islamique. Cela peut être un excellent outil à utiliser lorsque vous êtes plus âgé. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les athlètes sont prêts à s'endormir ou à se réveiller.
+
+Step 172/330
+>> French - English
+	All mail and data will be displayed and follow instructions. We worked for three days and started with three children from an Islamic religious group. This can be a great tool to use when you are older. At night, the walls fill the border. At the beginning of the hot season, athletes are ready to fall asleep or wake up.
+
+Step 173/330
+>> English - Portuguese
+	Todos os e-mails e dados serão exibidos e siga as instruções. Trabalhamos por três dias e começamos com três filhos de um grupo religioso islâmico. Essa pode ser uma ótima ferramenta para usar quando você for mais velho. À noite, as paredes enchem a fronteira. No início da estação quente, os atletas estão prontos para adormecer ou acordar.
+
+Step 174/330
+>> Portuguese - Arabic
+	سيتم عرض جميع رسائل البريد الإلكتروني والبيانات واتبع التعليمات. عملنا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال من جماعة دينية إسلامية. يمكن أن يكون هذا أداة رائعة لاستخدامها عندما تكون أكبر سنًا. في الليل ، تملأ الجدران الحدود. في بداية الموسم الدافئ ، يكون الرياضيون مستعدين للنوم أو الاستيقاظ.
+
+Step 175/330
+>> Arabic - Portuguese
+	Todos os e-mails e dados serão exibidos e siga as instruções. Trabalhamos por três dias e começamos com três filhos de um grupo religioso islâmico. Essa pode ser uma ótima ferramenta para usar quando você for mais velho. À noite, as paredes enchem a fronteira. No início da estação quente, os atletas estão prontos para dormir ou acordar.
+
+Step 176/330
+>> Portuguese - Swahili
+	Barua pepe zote na data itaonyeshwa na kufuata maagizo. Tulifanya kazi kwa siku tatu na tulianza na watoto watatu kutoka kwa kikundi cha kidini cha Kiisilamu. Hii inaweza kuwa zana nzuri ya kutumia ukiwa mzee. Usiku, kuta zinajaza mpaka. Mwanzoni mwa msimu wa joto, wanariadha wako tayari kulala au kuamka.
+
+Step 177/330
+>> Swahili - French
+	Tous les courriels et les données seront affichés et suivront les instructions. Nous avons travaillé pendant trois jours et avons commencé avec trois enfants d'un groupe religieux islamique. Cela peut être un excellent outil à utiliser lorsque vous êtes plus âgé. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les athlètes sont prêts à dormir ou à se réveiller.
+
+Step 178/330
+>> French - English
+	All emails and data will be displayed and follow instructions. We worked for three days and started with three children from an Islamic religious group. This can be a great tool to use when you are older. At night, the walls fill the border. At the beginning of the hot season, athletes are ready to sleep or wake up.
+
+Step 179/330
+>> English - Amharic
+	ሁሉም ኢሜይሎች እና መረጃዎች ይታያሉ እና መመሪያዎችን ይከተላሉ ፡፡ ለሦስት ቀናት ያህል ተቀጠርን እና ከእስላማዊ የሃይማኖት ቡድን ሦስት ልጆች ጀመርን ፡፡ እርጅናዎ ሲጠቀሙ ይህ ጥሩ መሣሪያ ሊሆን ይችላል ፡፡ ምሽት ላይ ግድግዳዎቹ ድንበሩን ይሞላሉ ፡፡ በሞቃት ወቅት መጀመሪያ ላይ አትሌቶች ለመተኛት ወይም ለማንቃት ዝግጁ ናቸው ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	سيتم عرض جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. تم تعييننا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال من الجماعة الدينية الإسلامية. يمكن أن يكون هذا أداة جيدة عندما تكون قديمًا. في الليل الجدران تملأ الحدود. في بداية الموسم الحار ، يكون الرياضيون مستعدين للنوم أو الاستيقاظ.
+
+Step 181/330
+>> Arabic - Chichewa
+	Maimelo onse ndi zambiri zidzawonetsedwa ndikutsatira malangizowo. Tidasankhidwa kwa masiku atatu ndikuyamba ndi ana atatu ochokera m'chipembedzo chachiSilamu. Izi zitha kukhala chida chabwino mukakalamba. Usiku makoma amadzaza malire. Kumayambiriro kwa nyengo yotentha, othamanga amakhala okonzeka kugona kapena kudzuka.
+
+Step 182/330
+>> Chichewa - French
+	Tous les courriels et informations seront affichés et suivront les instructions. Nous avons été élus pour trois jours et avons commencé avec trois enfants de religion islamique. Cela peut être un excellent outil dans votre vieil âge. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les coureurs sont prêts à dormir ou à se lever.
+
+Step 183/330
+>> French - Pashto
+	ټول بریښنالیکونه او معلومات به پوسټ شي او لارښوونې تعقیب کړي. موږ د دریو ورځو لپاره وټاکل شو او د اسلامي مذهب له دریو ماشومانو سره مو پیل وکړ. دا ستاسو په زوړ عمر کې عالي وسیله کیدی شي. د شپې ، دیوالونه سرحد ډکوي. د ګرم فصل په پیل کې ، منډې وهونکي خوب ته چمتو یا پورته کیدو لپاره چمتو دي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Tout imèl ak enfòmasyon yo pral afiche epi swiv enstriksyon yo. Nou te chwazi pou twa jou e te kòmanse avèk twa timoun nan relijyon Islamik. Li kapab yon gwo zouti nan vyeyès ou. Nan mitan lannwit, mi yo ranpli fwontyè a. Nan kòmansman sezon cho a, kourè yo pare pou yo dòmi oswa pou yo leve.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	سيتم نشر جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. اخترنا لمدة ثلاثة أيام وبدأنا بثلاثة أطفال في الدين الإسلامي. يمكن أن يكون أداة رائعة في العمر. في الليل ، تملأ الجدران الحدود. في بداية الموسم الحار ، يكون المتسابقون مستعدين للنوم أو الاستيقاظ.
+
+Step 186/330
+>> Arabic - French
+	Tous les courriels et informations seront postés et suivront les instructions. Nous avons choisi trois jours et avons commencé avec trois enfants de religion islamique. Ce peut être un outil merveilleux dans une vie. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les candidats sont prêts à dormir ou à se réveiller.
+
+Step 187/330
+>> French - Arabic
+	سيتم نشر جميع رسائل البريد الإلكتروني والمعلومات واتباع التعليمات. اخترنا ثلاثة أيام وبدأنا بثلاثة أبناء من الديانة الإسلامية. يمكن أن يكون أداة رائعة في الحياة. في الليل ، تملأ الجدران الحدود. في بداية الموسم الحار ، يكون المرشحون مستعدين للنوم أو الاستيقاظ.
+
+Step 188/330
+>> Arabic - French
+	Tous les courriels et informations seront postés et suivront les instructions. Nous avons choisi trois jours et avons commencé avec trois fils de la religion islamique. Ce peut être un outil formidable dans la vie. La nuit, les murs remplissent la frontière. Au début de la saison chaude, les candidats sont prêts à dormir ou à se réveiller.
+
+Step 189/330
+>> French - Swahili
+	Barua pepe zote na habari zitatumwa na kufuata maagizo. Tulichagua siku tatu na kuanza na watoto watatu wa dini la Kiisilamu. Inaweza kuwa zana kubwa maishani. Usiku, kuta zinajaza mpaka. Mwanzoni mwa msimu wa moto, wagombea wako tayari kulala au kuamka.
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny mailaka sy ny mombamomba rehetra dia halefa sy manaraka ny torolàlana. Nifidy telo andro izahay ary nanomboka tamin'ny zaza telo amin'ny fivavahana islamika. Mety ho fitaovana tsara eo amin'ny fiainana izany. Amin'ny alina dia feno rindrina ny rindrina. Amin'ny fiandohan'ny vanim-potoana mafana, vonona ny hatory na hofohazina ny kandidà.
+
+Step 191/330
+>> Malagasy - Arabic
+	سيتم إرسال جميع رسائل البريد الإلكتروني والمعلومات وتليها التعليمات. اخترنا ثلاثة أيام وبدأنا بثلاثة أطفال في الإسلام. يمكن أن يكون أداة رائعة في الحياة. في الليل الجدران مليئة الجدران. في بداية موسم الصيف ، يكون المرشحون مستعدين للنوم أو الاستيقاظ.
+
+Step 192/330
+>> Arabic - English
+	All emails and information will be sent and followed by instructions. We chose three days and started with three children in Islam. It can be a wonderful tool in life. At night the walls are full of walls. At the beginning of the summer season, candidates are ready to sleep or wake up.
+
+Step 193/330
+>> English - Swahili
+	Barua pepe zote na habari zitatumwa na kufuatiwa na maagizo. Tulichagua siku tatu na kuanza na watoto watatu katika Uislamu. Inaweza kuwa zana nzuri maishani. Usiku kuta zimejaa kuta. Mwanzoni mwa msimu wa msimu wa joto, wagombea wako tayari kulala au kuamka.
+
+Step 194/330
+>> Swahili - Hausa
+	Duk imel da bayanai za a aika kuma bin umarni. Mun zabi kwana uku mun fara da yara uku a Musulunci. Zai iya zama ingantaccen kayan aiki a rayuwa. Da daddare ganuwar cike take da bango. A farkon lokacin dumi, 'yan takarar sun shirya don barci ko farkawa.
+
+Step 195/330
+>> Hausa - Shona
+	Ese maimeri neruzivo zvinotumirwa uye kutevera mirayiridzo. Takasarudza mazuva matatu ndokutanga nevana vatatu muIslam. Inogona kuve chishandiso chinoshanda muhupenyu. Husiku madziro aive akazara nemadziro. Pakutanga kwemwaka wekudziya, ivo vanenge vagadzirira kugona kana kumuka.
+
+Step 196/330
+>> Shona - Arabic
+	يتم إرسال جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. اخترنا ثلاثة أيام وبدأنا بثلاثة أطفال في الإسلام. يمكن أن يكون أداة فعالة في الحياة. في الليل كانت الجدران مليئة بالجدران. في بداية الموسم الدافئ ، سيكونون جاهزين للنوم أو الاستيقاظ.
+
+Step 197/330
+>> Arabic - Swahili
+	Barua pepe zote na habari zinatumwa na kufuata maagizo. Tulichagua siku tatu na kuanza na watoto watatu katika Uislamu. Inaweza kuwa zana nzuri maishani. Usiku kuta zilikuwa zimejaa kuta. Mwanzoni mwa msimu wa joto, watakuwa tayari kulala au kuamka.
+
+Step 198/330
+>> Swahili - English
+	All emails and information are sent and follow instructions. We chose three days and started with three children in Islam. It can be a good tool in life. At night the walls were full of walls. At the beginning of the warm season, they will be ready to sleep or wake up.
+
+Step 199/330
+>> English - French
+	Tous les courriels et informations sont envoyés et suivez les instructions. Nous avons choisi trois jours et avons commencé avec trois enfants en Islam. Cela peut être un bon outil dans la vie. La nuit, les murs étaient pleins de murs. Au début de la saison chaude, ils seront prêts à dormir ou à se lever.
+
+Step 200/330
+>> French - Urdu
+	تمام ای میلز اور معلومات بھیج دی جاتی ہیں اور ہدایات پر عمل کرتے ہیں۔ ہم نے تین دن کا انتخاب کیا اور اسلام میں تین بچوں کے ساتھ آغاز کیا۔ یہ زندگی کا ایک اچھا ذریعہ ثابت ہوسکتا ہے۔ رات کے وقت دیواریں بھری ہوئی تھیں۔ گرم موسم کے آغاز پر ، وہ سونے یا اٹھنے کے لئے تیار ہوں گے۔
+
+Step 201/330
+>> Urdu - Nepali
+	सबै ईमेल र जानकारी पठाइन्छ र निर्देशनहरूको पालना गर्दछ। हामीले तीन दिन रोज्यौं र तीन बच्चाहरू इस्लाममा शुरू गर्यौं। यो जीवनको एक राम्रो स्रोत हुन सक्छ। राति पर्खालहरू पूर्ण थिए। तातो मौसमको सुरूमा, तिनीहरू सुत्न वा उठ्न तयार हुनेछन्।
+
+Step 202/330
+>> Nepali - Burmese
+	အားလုံးအီးမေးလ်နှင့်သတင်းအချက်အလက်နှင့်ထံသို့စေလွှတ်ညွှန်ကြားချက်များကိုလိုက်နာပါ။ ကျနော်တို့ကသုံးရက်ကြာအားနည်းချက်စတင်ခဲ့ပြီးနှင့်အစ္စလာမ်ဘာသာမှကလေးသုံးယောက်ပါတယ်။ ယခုဘဝကောင်းတစ်ခုအရင်းအမြစ်ဖြစ်နိုင်ပါတယ်။ ညအချိန်တွင်နံရံပြီးစီးခဲ့ကြသည်။ အစအဦးမှာပူသောရာသီဥတု, သူတို့အိပ်သို့မဟုတ်တက်ရဖို့အဆင်သင့်ဖြစ်လိမ့်မည်။
+
+Step 203/330
+>> Burmese - Portuguese
+	Todos os e-mails e as informações enviadas para e siga as instruções. Começamos uma vulnerabilidade de três dias e três filhos ao Islã. Esta pode ser uma boa fonte de vida. As paredes foram concluídas durante a noite. No início do tempo quente, eles estarão prontos para levantar-se ou deitar-se.
+
+Step 204/330
+>> Portuguese - English
+	All emails and information sent to and follow the instructions. We started a three-day vulnerability and three children to Islam. This can be a good source of life. The walls were completed at night. At the beginning of warm weather, they will be ready to get up or lie down.
+
+Step 205/330
+>> English - Portuguese
+	Todos os emails e informações enviados para e siga as instruções. Começamos uma vulnerabilidade de três dias e três filhos ao Islã. Esta pode ser uma boa fonte de vida. As paredes foram concluídas à noite. No início do tempo quente, eles estarão prontos para se levantar ou deitar.
+
+Step 206/330
+>> Portuguese - English
+	All emails and information sent to and follow the instructions. We started a three-day vulnerability and three children to Islam. This can be a good source of life. The walls were completed at night. At the beginning of warm weather, they will be ready to get up or lie down.
+
+Step 207/330
+>> English - Portuguese
+	Todos os emails e informações enviados para e siga as instruções. Começamos uma vulnerabilidade de três dias e três filhos ao Islã. Esta pode ser uma boa fonte de vida. As paredes foram concluídas à noite. No início do tempo quente, eles estarão prontos para se levantar ou deitar.
+
+Step 208/330
+>> Portuguese - English
+	All emails and information sent to and follow the instructions. We started a three-day vulnerability and three children to Islam. This can be a good source of life. The walls were completed at night. At the beginning of warm weather, they will be ready to get up or lie down.
+
+Step 209/330
+>> English - lao
+	ອີເມວແລະຂໍ້ມູນທັງ ໝົດ ທີ່ຖືກສົ່ງໄປແລະເຮັດຕາມ ຄຳ ແນະ ນຳ. ພວກເຮົາໄດ້ເລີ່ມມີຄວາມສ່ຽງເປັນເວລາສາມວັນແລະເດັກນ້ອຍສາມຄົນກັບສາສະ ໜາ ອິດສະລາມ. ນີ້ສາມາດເປັນແຫຼ່ງຊີວິດທີ່ດີ. ກຳ ແພງກໍ່ສ້າງ ສຳ ເລັດໃນຕອນກາງຄືນ. ໃນຊ່ວງຕົ້ນຂອງອາກາດອົບອຸ່ນ, ພວກເຂົາພ້ອມທີ່ຈະລຸກຂື້ນຫລືນອນ.
+
+Step 210/330
+>> lao - French
+	Tous les courriels et informations envoyés et suivez les instructions. Nous avons commencé à prendre des risques pendant trois jours et trois enfants atteints d’islam. Cela peut être une bonne source de vie. Le mur était terminé la nuit. Au début du temps chaud, ils sont prêts à se lever ou à se coucher.
+
+Step 211/330
+>> French - Bengali
+	সমস্ত ইমেল এবং তথ্য প্রেরণ এবং নির্দেশাবলী অনুসরণ করুন। আমরা তিন দিন এবং তিনটি শিশু ইসলাম নিয়ে ঝুঁকি নেওয়া শুরু করি। এটি জীবনের একটি ভাল উত্স হতে পারে। রাতে প্রাচীর শেষ হয়েছিল। উষ্ণ আবহাওয়ার শুরুতে, তারা উঠতে বা বিছানায় যাওয়ার জন্য প্রস্তুত।
+
+Step 212/330
+>> Bengali - English
+	Send all emails and information and follow the instructions. We started taking risks for three days and three children Islam. It can be a good source of life. The wall was finished at night. With the onset of warm weather, they are ready to get up or go to bed.
+
+Step 213/330
+>> English - Spanish
+	Envíe todos los correos electrónicos e información y siga las instrucciones. Comenzamos a tomar riesgos durante tres días y tres niños Islam. Puede ser una buena fuente de vida. El muro estaba terminado por la noche. Con el inicio del clima cálido, están listos para levantarse o acostarse.
+
+Step 214/330
+>> Spanish - Portuguese
+	Envie todos os e-mails e informações e siga as instruções. Começamos a correr riscos por três dias e três filhos do Islã. Pode ser uma boa fonte de vida. A parede estava acabada à noite. Com o início do tempo quente, eles estão prontos para se levantar ou ir para a cama.
+
+Step 215/330
+>> Portuguese - Hindi
+	सभी ईमेल और जानकारी भेजें और निर्देशों का पालन करें। हमने तीन दिन और इस्लाम के तीन बच्चों के लिए जोखिम लेना शुरू किया। यह जीवन का एक अच्छा स्रोत हो सकता है। रात को दीवार टूट गई थी। गर्म मौसम की शुरुआत के साथ, वे उठने या बिस्तर पर जाने के लिए तैयार हैं।
+
+Step 216/330
+>> Hindi - English
+	Send all emails and information and follow the instructions. We started taking risks for three days and three children of Islam. It can be a good source of life. The wall was broken at night. With the onset of warm weather, they are ready to get up or go to bed.
+
+Step 217/330
+>> English - Spanish
+	Envíe todos los correos electrónicos e información y siga las instrucciones. Comenzamos a tomar riesgos durante tres días y tres hijos del Islam. Puede ser una buena fuente de vida. El muro estaba roto por la noche. Con el inicio del clima cálido, están listos para levantarse o acostarse.
+
+Step 218/330
+>> Spanish - English
+	Send all emails and information and follow the instructions. We started taking risks for three days and three children of Islam. It can be a good source of life. The wall was broken at night. With the onset of warm weather, they are ready to get up or go to bed.
+
+Step 219/330
+>> English - Portuguese
+	Envie todos os e-mails e informações e siga as instruções. Começamos a correr riscos por três dias e três filhos do Islã. Pode ser uma boa fonte de vida. O muro estava quebrado à noite. Com o início do tempo quente, eles estão prontos para se levantar ou ir para a cama.
+
+Step 220/330
+>> Portuguese - Spanish
+	Envíe todos los correos electrónicos e información y siga las instrucciones. Comenzamos a correr riesgos por tres días y tres hijos del Islam. Puede ser una buena fuente de vida. El muro estaba roto por la noche. Con el inicio del clima cálido, están listos para levantarse o acostarse.
+
+Step 221/330
+>> Spanish - Arabic
+	إرسال جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. بدأنا في المخاطرة لمدة ثلاثة أيام وثلاثة أطفال من الإسلام. يمكن أن يكون مصدرا جيدا للحياة. تم كسر الجدار ليلا. مع بداية الطقس الدافئ ، يكونون مستعدين للنهوض أو النوم.
+
+Step 222/330
+>> Arabic - Russian
+	Отправьте все электронные письма и информацию и следуйте инструкциям. Мы начали рисковать в течение трех дней и трое детей ислама. Это может быть хорошим источником жизни. Стена была сломана ночью. С наступлением теплой погоды они готовы вставать или спать.
+
+Step 223/330
+>> Russian - Spanish
+	Envíe todos los correos electrónicos e información y siga las instrucciones. Comenzamos a arriesgarnos por tres días y los tres hijos del Islam. Puede ser una buena fuente de vida. El muro estaba roto por la noche. Con el inicio del clima cálido, están listos para levantarse o dormir.
+
+Step 224/330
+>> Spanish - Arabic
+	إرسال جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. بدأنا المخاطرة لمدة ثلاثة أيام وأطفال الإسلام الثلاثة. يمكن أن يكون مصدرا جيدا للحياة. تم كسر الجدار ليلا. مع بداية الطقس الدافئ ، يكونون مستعدين للنهوض أو النوم.
+
+Step 225/330
+>> Arabic - Spanish
+	Envíe todos los correos electrónicos e información y siga las instrucciones. Comenzamos a arriesgarnos durante tres días y los tres hijos del Islam. Puede ser una buena fuente de vida. El muro estaba roto por la noche. Con el inicio del clima cálido, están listos para levantarse o dormir.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Gửi tất cả các email và thông tin và làm theo hướng dẫn. Chúng tôi bắt đầu chấp nhận rủi ro trong ba ngày và ba đứa trẻ của đạo Hồi. Nó có thể là một nguồn sống tốt. Bức tường bị phá vỡ vào ban đêm. Với sự khởi đầu của thời tiết ấm áp, họ sẵn sàng thức dậy hoặc ngủ.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Kirim semua email dan informasi dan ikuti instruksi. Kami mulai mengambil risiko selama tiga hari dan tiga anak Islam. Itu bisa menjadi sumber kehidupan yang baik. Dindingnya rusak di malam hari. Dengan timbulnya cuaca hangat, mereka siap untuk bangun atau tidur.
+
+Step 228/330
+>> Indonesian - Arabic
+	إرسال جميع رسائل البريد الإلكتروني والمعلومات واتبع التعليمات. بدأنا في المخاطرة لمدة ثلاثة أيام وثلاثة أطفال مسلمين. يمكن أن يكون مصدرا جيدا للحياة. الجدران مكسورة في الليل. مع بداية الطقس الدافئ ، يكونون جاهزين للاستيقاظ أو النوم.
+
+Step 229/330
+>> Arabic - Zulu
+	Thumela wonke ama-imeyili nemininingwane bese ulandela imiyalo. Saqala ukuthatha ubungozi izinsuku ezintathu nezingane ezintathu zamaSulumane. Kungaba ngumthombo omuhle wempilo. Izindonga ziphukile ebusuku. Ngokuqala kwesimo sezulu esifudumele, bakulungele ukuvuka noma ukulala.
+
+Step 230/330
+>> Zulu - Filipino
+	Ipadala ang lahat ng mga email at mga detalye at sundin ang mga tagubilin. Nagsimula kaming kumuha ng mga panganib sa loob ng tatlong araw kasama ang tatlong mga batang Muslim. Maaari itong maging isang mahusay na mapagkukunan ng buhay. Ang mga pader ay nasira sa gabi. Sa simula ng mainit-init na panahon, handa silang magising o matulog.
+
+Step 231/330
+>> Filipino - Romanian
+	Trimiteți toate e-mailurile și detaliile și urmați instrucțiunile. Am început să ne asumăm riscuri în trei zile cu trei copii musulmani. Poate fi o mare sursă de viață. Zidurile erau rupte noaptea. La începutul sezonului cald, sunt gata să se trezească sau să doarmă.
+
+Step 232/330
+>> Romanian - Spanish
+	Envíe todos los correos electrónicos y detalles y siga las instrucciones. Comenzamos a correr riesgos en tres días con tres niños musulmanes. Puede ser una gran fuente de vida. Las paredes estaban rotas por la noche. Al comienzo de la estación cálida, estoy listo para despertarme o dormir.
+
+Step 233/330
+>> Spanish - French
+	Envoyez tous les courriels et les détails et suivez les instructions. Nous avons commencé à prendre des risques en trois jours avec trois enfants musulmans. Cela peut être une grande source de vie. Les murs étaient cassés la nuit. Au début de la saison chaude, je suis prêt à me lever ou à dormir.
+
+Step 234/330
+>> French - Arabic
+	إرسال جميع رسائل البريد الإلكتروني والتفاصيل واتبع التعليمات. بدأنا في المخاطرة في ثلاثة أيام مع ثلاثة أطفال مسلمين. يمكن أن يكون مصدرا كبيرا للحياة. الجدران كسرت في الليل. في بداية الموسم الحار ، أنا مستعد للنهوض أو النوم.
+
+Step 235/330
+>> Arabic - English
+	Send all emails and details and follow the instructions. We started taking risks in three days with three Muslim children. It can be a great source of life. The walls broke at night. At the beginning of the hot season, I'm ready to get up or sleep.
+
+Step 236/330
+>> English - Uzbek
+	Barcha elektron pochta xabarlari va tafsilotlarni yuboring va ko'rsatmalarga rioya qiling. Uch kun ichida uchta musulmon bolasi bilan tavakkal qilishni boshladik. Bu hayotning ajoyib manbai bo'lishi mumkin. Kechasi devorlar yorilib ketdi. Issiq mavsum boshida men turishga yoki uxlashga tayyorman.
+
+Step 237/330
+>> Uzbek - Samoan
+	Auina atu imeli uma ma auiliiliga ma mulimuli i faatonuga. I totonu o le tolu aso, na amata ai ona matou lamatia ma le tolu tamaititi musulmi. E mafai ona avea ma puna sili o le olaga. I le po, o le puipui o le puipui. I le amataga o le taimi mafanafana, ua ou sauni e ala i luga pe alu e moe.
+
+Step 238/330
+>> Samoan - English
+	Send all emails and details and follow the instructions. Within three days, we started to get in danger with three Muslim children. It can be a great source of life. At night, it was a wall hanger. At the start of summer, I'm ready to get up or go to bed.
+
+Step 239/330
+>> English - Dutch
+	Stuur alle e-mails en details en volg de instructies. Binnen drie dagen begonnen we in gevaar te komen met drie moslimkinderen. Het kan een geweldige bron van leven zijn. 'S Nachts was het een muurhanger. Aan het begin van de zomer ben ik klaar om op te staan of naar bed te gaan.
+
+Step 240/330
+>> Dutch - English
+	Send all e-mails and details and follow the instructions. Within three days we started to be in danger with three Muslim children. It can be a great source of life. At night it was a wall hanger. At the beginning of the summer I am ready to get up or go to bed.
+
+Step 241/330
+>> English - Kurdish
+	Hemî e-name û hûrguliyan bişînin û rêwerzan bişopînin. Di nav sê rojan de me dest bi metirsiya sê zarokên misilman kir. Ew dikare çavkaniyek mezin a jiyanê be. Di şevê de ew dîwarek dîwêr bû. Di destpêka havînê de ez amade me ku ez rabim an herim xewê.
+
+Step 242/330
+>> Kurdish - Arabic
+	إرسال جميع رسائل البريد الإلكتروني والتفاصيل واتبع التعليمات. في غضون ثلاثة أيام بدأنا في تهديد ثلاثة أطفال مسلمين. يمكن أن يكون مصدرا كبيرا للحياة. في الليل كان الجدار إلى الجدار. في بداية الصيف ، أنا مستعد للاستيقاظ أو النوم.
+
+Step 243/330
+>> Arabic - Spanish
+	Envíe todos los correos electrónicos y detalles y siga las instrucciones. En tres días comenzamos a amenazar a tres niños musulmanes. Puede ser una gran fuente de vida. Por la noche era de pared a pared. Al comienzo del verano, estoy listo para despertarme o dormir.
+
+Step 244/330
+>> Spanish - Mongolian
+	Бүх имэйл болон дэлгэрэнгүй мэдээллийг илгээгээд зааврыг дагана уу. Гурван хоногийн дараа бид гурван мусульман хүүхдийг заналхийлж эхлэв. Энэ нь амьдралын агуу эх үүсвэр болж чадна. Шөнө нь хананд наалддаг байв. Зуны эхэн үед би сэрэх эсвэл унтахад бэлэн байна.
+
+Step 245/330
+>> Mongolian - English
+	Email all details and follow the instructions. Three days later we began to threaten three Muslim children. It can be a great source of life. The night was stuck in the wall. In the early summer, I'm awake or sleep.
+
+Step 246/330
+>> English - Spanish
+	Envíe todos los detalles por correo electrónico y siga las instrucciones. Tres días después comenzamos a amenazar a tres niños musulmanes. Puede ser una gran fuente de vida. La noche estaba atrapada en la pared. A principios del verano, estoy despierto o duermo.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Надішліть усі деталі електронною поштою та дотримуйтесь інструкцій. Через три дні ми почали погрожувати трьом дітям-мусульманам. Це може бути чудовим джерелом життя. Ніч була захоплена в стіну. На початку літа я прокинувся або сплю.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Envíe todos los detalles por correo electrónico y siga las instrucciones. Tres días después, comenzamos a amenazar a tres niños musulmanes. Puede ser una gran fuente de vida. La noche fue capturada en la pared. A principios del verano, me desperté o dormí.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	通过电子邮件发送所有详细信息并按照说明操作。三天后，我们开始威胁三名穆斯林儿童。它可以成为生活的重要来源。夜晚被捕获在墙上。初夏，我醒来或睡觉。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	البريد الإلكتروني جميع التفاصيل واتبع التعليمات. بعد ثلاثة أيام ، بدأنا في تهديد ثلاثة أطفال مسلمين. يمكن أن يكون مصدرا هاما للحياة. تم التقاط الليل على الحائط. في أوائل الصيف ، استيقظت أو نمت.
+
+Step 251/330
+>> Arabic - Thai
+	ส่งอีเมลรายละเอียดทั้งหมดและทำตามคำแนะนำ สามวันต่อมาเราเริ่มคุกคามเด็กมุสลิมสามคน มันสามารถเป็นแหล่งสำคัญของชีวิต คืนนั้นถูกหยิบขึ้นมาบนกำแพง ในช่วงต้นฤดูร้อนฉันตื่นขึ้นมาหรือเติบโต
+
+Step 252/330
+>> Thai - Armenian
+	Ուղարկեք էլ-նամակ բոլոր մանրամասներով և հետևեք հրահանգներին: Երեք օր անց մենք սկսեցինք ահաբեկել մահմեդական երեք երեխաների: Դա կարող է լինել կյանքի կարևոր աղբյուր: Այդ գիշեր պատին էին հավաքվում Ամռան սկզբին ես արթնացա կամ մեծացա:
+
+Step 253/330
+>> Armenian - Macedonian
+	Испратете е-пошта со сите детали и следете ги упатствата. Три дена подоцна, започнавме да тероризираме на три муслимански деца. Може да биде важен извор на живот. Таа ноќ се собираа на wallидот.На почетокот на летото се разбудив или пораснав.
+
+Step 254/330
+>> Macedonian - Arabic
+	مراسلتنا عبر البريد الإلكتروني مع كل التفاصيل واتبع التعليمات. بعد ثلاثة أيام ، بدأنا في ترويع ثلاثة أطفال مسلمين. يمكن أن يكون مصدرا هاما للحياة. في تلك الليلة كانوا يجتمعون على الحائط ، وفي بداية الصيف استيقظت أو كبرت.
+
+Step 255/330
+>> Arabic - Portuguese
+	Envie-nos um email com todos os detalhes e siga as instruções. Três dias depois, começamos a aterrorizar três crianças muçulmanas. Pode ser uma fonte importante de vida. Naquela noite, eles se encontravam na parede e, no começo do verão, acordei ou cresci.
+
+Step 256/330
+>> Portuguese - Spanish
+	Envíenos un correo electrónico con todos los detalles y siga las instrucciones. Tres días después, comenzamos a aterrorizar a tres niños musulmanes. Puede ser una fuente importante de vida. Esa noche estaban en la pared, y a principios del verano me desperté o crecí.
+
+Step 257/330
+>> Spanish - Bosnian
+	Pošaljite nam e-poštu sa svim detaljima i slijedite upute. Tri dana kasnije počeli smo terorizirati troje muslimanske djece. To može biti važan izvor života. Te noći su bili na zidu, a početkom ljeta sam se probudio ili odrastao.
+
+Step 258/330
+>> Bosnian - Sinhala
+	සියලු විස්තර සමඟ අපට විද්‍යුත් තැපැල් කර උපදෙස් අනුගමනය කරන්න. දවස් තුනකට පසු අපි මුස්ලිම් දරුවන් තිදෙනෙකු බිය ගැන්වීමට පටන් ගත්තෙමු. එය ජීවිතයේ වැදගත් ප්‍රභවයක් විය හැකිය. එදින රාත්‍රියේ ඔවුන් බිත්තියේ සිටි අතර ගිම්හානයේ මුල් භාගයේදී මම අවදි වී හෝ හැදී වැඩුනෙමි.
+
+Step 259/330
+>> Sinhala - English
+	Email us with all the details and follow the instructions. Three days later, we began to intimidate three Muslim children. It can be an important source of life. They were on the wall that night, and in the early summer I woke up or grew up.
+
+Step 260/330
+>> English - Spanish
+	Envíenos un correo electrónico con todos los detalles y siga las instrucciones. Tres días después, comenzamos a intimidar a tres niños musulmanes. Puede ser una fuente importante de vida. Estaban en la pared esa noche, y a principios del verano me desperté o crecí.
+
+Step 261/330
+>> Spanish - English
+	Send us an email with all the details and follow the instructions. Three days later, we began to intimidate three Muslim children. It can be an important source of life. They were on the wall that night, and in the early summer I woke up or grew up.
+
+Step 262/330
+>> English - Georgian
+	გამოგვიგზავნეთ ელექტრონული ფოსტა ყველა დეტალით და მიყევით ინსტრუქციას. სამი დღის შემდეგ, ჩვენ დავიწყეთ სამი მუსულმანი ბავშვის დაშინება. ეს შეიძლება იყოს ცხოვრების მნიშვნელოვანი წყარო. ისინი იმ ღამეს კედელზე იყვნენ, ზაფხულის დასაწყისში მე გამეღვიძა ან გავიზარდე.
+
+Step 263/330
+>> Georgian - English
+	Send us an email with all the details and follow the instructions. Three days later, we began to intimidate three Muslim children. It can be an important source of life. They were on the wall that night, I woke up or grew up in the early summer.
+
+Step 264/330
+>> English - Albanian
+	Na dërgoni një email me të gjitha detajet dhe ndiqni udhëzimet. Tri ditë më vonë, filluam të trembim tre fëmijë myslimanë. Mund të jetë një burim i rëndësishëm i jetës. Ata ishin në mur atë natë, u zgjova ose u rrita në fillim të verës.
+
+Step 265/330
+>> Albanian - Serbian
+	Пошаљите нам е-пошту са свим детаљима и следите упутства. Три дана касније почели смо да се плашимо троје муслиманске деце. То може бити важан извор живота. Били су на зиду те ноћи, пробудио сам се или одрастао у рано лето.
+
+Step 266/330
+>> Serbian - Spanish
+	Envíenos un correo electrónico con todos los detalles y siga las instrucciones. Tres días después, comenzamos a temer a los tres niños musulmanes. Puede ser una fuente importante de vida. Estaban en la pared esa noche, me desperté o crecí a principios del verano.
+
+Step 267/330
+>> Spanish - English
+	Send us an email with all the details and follow the instructions. Three days later, we began to fear the three Muslim children. It can be an important source of life. They were on the wall that night, I woke up or grew up in early summer.
+
+Step 268/330
+>> English - Turkish
+	Bize tüm detayları içeren bir e-posta gönderin ve talimatları izleyin. Üç gün sonra, üç Müslüman çocuktan korkmaya başladık. Önemli bir yaşam kaynağı olabilir. O gece duvardaydılar, yaz başında uyandım ya da büyüdüm.
+
+Step 269/330
+>> Turkish - Spanish
+	Envíenos un correo electrónico con todos los detalles y siga las instrucciones. Tres días después, comenzamos a temer a tres niños musulmanes. Puede ser una fuente importante de vida. Estaban en la pared esa noche, se levantaron temprano en el verano o crecieron.
+
+Step 270/330
+>> Spanish - French
+	Envoyez-nous un email avec tous les détails et suivez les instructions. Trois jours plus tard, nous avons commencé à craindre trois enfants musulmans. Cela peut être une source de vie importante. Ils étaient sur le mur cette nuit-là, ils se sont levés tôt en été ou ont grandi.
+
+Step 271/330
+>> French - English
+	Send us an email with all the details and follow the instructions. Three days later, we began to fear three Muslim children. This can be a source of important life. They were on the wall that night, they got up early in the summer or grew up.
+
+Step 272/330
+>> English - Persian
+	با تمام جزئیات یک ایمیل برای ما ارسال کنید و دستورالعمل ها را دنبال کنید. سه روز بعد ، ما شروع به ترس از سه کودک مسلمان کردیم. این می تواند منبع زندگی مهمی باشد. آن شب آنها روی دیوار بودند ، اوایل تابستان از خواب بلند شدند یا بزرگ شدند.
+
+Step 273/330
+>> Persian - Kazakh
+	Бізге барлық мәліметтері бар электрондық хат жіберіңіз және нұсқауларды орындаңыз. Үш күннен кейін біз үш мұсылман баладан қорқуды бастадық. Бұл өмірдің маңызды көзі бола алады. Сол түні олар қабырғада, жаздың басында оянып немесе өсті.
+
+Step 274/330
+>> Kazakh - English
+	Send us email with all the information and follow the instructions. Three days later, we started to be afraid of three Muslim children. This can be an important source of life. That night they woke up or grew up in the wall.
+
+Step 275/330
+>> English - Malay
+	Hantar kami e-mel dengan semua maklumat dan ikut arahan. Tiga hari kemudian, kami mula takut kepada tiga orang anak perempuan Islam. Ini boleh menjadi sumber kehidupan yang penting. Malam itu mereka bangun atau dibesarkan di dinding.
+
+Step 276/330
+>> Malay - Arabic
+	أرسل لنا رسالة بالبريد الإلكتروني مع جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأنا نخشى ثلاث فتيات مسلمات. هذا يمكن أن يكون مصدرا هاما للحياة. في تلك الليلة قاموا أو نشأوا على الحائط.
+
+Step 277/330
+>> Arabic - Spanish
+	Envíenos un correo electrónico con toda la información y siga las instrucciones. Tres días después, comenzamos a temer a tres muchachas musulmanas. Esto puede ser una fuente importante de vida. Esa noche se levantaron o crecieron en la pared.
+
+Step 278/330
+>> Spanish - English
+	Email us with all the information and follow the instructions. Three days later, we began to fear three Muslim girls. This can be an important source of life. That night they got up or grew up on the wall.
+
+Step 279/330
+>> English - Russian
+	Напишите нам всю информацию и следуйте инструкциям. Три дня спустя мы начали бояться трех мусульманских девушек. Это может быть важным источником жизни. Той ночью они встали или выросли на стене.
+
+Step 280/330
+>> Russian - Romanian
+	Scrieți-ne toate informațiile și urmați instrucțiunile. Trei zile mai târziu, am început să ne temem de trei fete musulmane. Aceasta poate fi o sursă importantă de viață. În acea noapte au stat sau au crescut pe perete.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Напишете ни цялата информация и следвайте инструкциите. Три дни по-късно започнахме да се страхуваме от три момичета мюсюлмани. Това може да бъде важен източник на живот. Тази нощ те останаха или израснаха на стената.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Na shkruani të gjitha informacionet dhe ndiqni udhëzimet. Tri ditë më vonë, filluam të trembeshim nga tre vajza myslimane. Ky mund të jetë një burim i rëndësishëm i jetës. Ata qëndruan ose u rritën në mur atë natë.
+
+Step 283/330
+>> Albanian - Russian
+	Напишите нам всю информацию и следуйте инструкциям. Три дня спустя нас стали запугивать три мусульманские девушки. Это может быть важным источником жизни. Они стояли или встали на стене в ту ночь.
+
+Step 284/330
+>> Russian - Arabic
+	اكتب لنا جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأت ثلاث فتيات مسلمات في تخويفنا. هذا يمكن أن يكون مصدرا هاما للحياة. لقد وقفوا أو وقفوا على الحائط في تلك الليلة.
+
+Step 285/330
+>> Arabic - Spanish
+	Escríbanos toda la información y siga las instrucciones. Tres días después, tres chicas musulmanas comenzaron a intimidarnos. Esto puede ser una fuente importante de vida. Se pararon o se pararon en la pared esa noche.
+
+Step 286/330
+>> Spanish - Croatian
+	Napišite nam sve podatke i slijedite upute. Tri dana kasnije, tri muslimanske djevojke počele su nas zastrašivati. Ovo može biti važan izvor života. Te su se noći zaustavili ili stali na zid.
+
+Step 287/330
+>> Croatian - Hungarian
+	Írjon nekünk minden információt és kövesse az utasításokat. Három nappal később három muszlim lány kezdte megfélemlíteni minket. Ez fontos életforrás lehet. Megálltak, vagy ott álltak a falon azon az éjszakán.
+
+Step 288/330
+>> Hungarian - Spanish
+	Escríbanos toda la información y siga las instrucciones. Tres días después, tres chicas musulmanas comenzaron a intimidarnos. Esto puede ser una fuente importante de vida. Se detuvieron o se pararon en la pared esa noche.
+
+Step 289/330
+>> Spanish - Arabic
+	اكتب لنا جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأت ثلاث فتيات مسلمات في تخويفنا. هذا يمكن أن يكون مصدرا هاما للحياة. توقفوا أو وقفوا على الحائط في تلك الليلة.
+
+Step 290/330
+>> Arabic - Portuguese
+	Escreva-nos todas as informações e siga as instruções. Três dias depois, três meninas muçulmanas começaram a nos intimidar. Esta pode ser uma fonte importante de vida. Eles pararam ou ficaram na parede naquela noite.
+
+Step 291/330
+>> Portuguese - Latvian
+	Uzrakstiet mums visu informāciju un izpildiet instrukcijas. Pēc trim dienām trīs musulmaņu meitenes sāka mūs iebiedēt. Tas var būt nozīmīgs dzīves avots. Viņi tajā naktī apstājās vai stāvēja pie sienas.
+
+Step 292/330
+>> Latvian - Arabic
+	اكتب لنا جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأت ثلاث فتيات مسلمات في تخويفنا. يمكن أن يكون مصدرا هاما للحياة. توقفوا أو وقفوا بجانب الحائط في تلك الليلة.
+
+Step 293/330
+>> Arabic - Malay
+	Tuliskan semua maklumat dan ikut arahan. Tiga hari kemudian, tiga gadis Islam mula menakutkan kita. Ia boleh menjadi sumber kehidupan yang penting. Mereka berhenti atau berdiri di dinding pada malam itu.
+
+Step 294/330
+>> Malay - Slovak
+	Zapíšte si všetky informácie a postupujte podľa pokynov. O tri dni neskôr nás tri strašidelné moslimské dievčatá začali strašiť. Môže byť dôležitým zdrojom života. V noci sa zastavili alebo stáli na stene.
+
+Step 295/330
+>> Slovak - Arabic
+	اكتب جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأت ثلاث فتيات مسلمات عصبي تطاردنا. يمكن أن يكون مصدرا هاما للحياة. في الليل توقفوا أو وقفوا على الحائط.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Užrašykite visą informaciją ir vykdykite instrukcijas. Po trijų dienų trys nervingos musulmonų merginos pradėjo mus persekioti. Tai gali būti svarbus gyvybės šaltinis. Naktį jie sustojo arba stovėjo prie sienos.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Anoteu tota la informació i seguiu les instruccions. Tres dies després, tres noies musulmanes nervioses van començar a perseguir-nos. Pot ser una font important de vida. A la nit s’aturaven o s’aturaven a la paret.
+
+Step 298/330
+>> Catalan - Arabic
+	اكتب جميع المعلومات واتبع التعليمات. بعد ثلاثة أيام ، بدأت ثلاث فتيات مسلمات متوترات في مطاردتنا. يمكن أن يكون مصدرا هاما للحياة. في الليل توقفوا أو توقفوا على الحائط.
+
+Step 299/330
+>> Arabic - Polish
+	Zapisz wszystkie informacje i postępuj zgodnie z instrukcjami. Trzy dni później trzy nerwowe muzułmańskie dziewczyny zaczęły nas gonić. Może być ważnym źródłem życia. W nocy zatrzymali się lub zatrzymali na ścianie.
+
+Step 300/330
+>> Polish - Turkish
+	Tüm bilgileri kaydedin ve talimatları izleyin. Üç gün sonra, üç gergin Müslüman kız bizi kovaladı. Önemli bir yaşam kaynağı olabilir. Geceleri durdular ya da duvarda durdular.
+
+Step 301/330
+>> Turkish - Greek
+	Καταγράψτε όλες τις πληροφορίες και ακολουθήστε τις οδηγίες. Τρεις ημέρες αργότερα, μας τράβηξαν τρία έντονα μουσουλμανικά κορίτσια. Μπορεί να είναι μια σημαντική πηγή ζωής. Σταμάτησαν τη νύχτα ή στέκονταν στον τοίχο.
+
+Step 302/330
+>> Greek - Estonian
+	Salvestage kogu teave ja järgige juhiseid. Kolm päeva hiljem röövisid meid kolm intensiivset moslemitüdrukut. See võib olla oluline eluallikas. Nad peatusid öösel või seisid seina ääres.
+
+Step 303/330
+>> Estonian - Maltese
+	Issejvja l-informazzjoni kollha u segwi l-istruzzjonijiet. Tlett ijiem wara, konna maħtufa minn tliet tfajliet Musulmani intensi. Jista 'jkun sors ta' ħajja importanti. Huma waqfu bil-lejl jew qagħdu mal-ħajt.
+
+Step 304/330
+>> Maltese - Italian
+	Salvare tutte le informazioni e seguire le istruzioni. Tre giorni dopo, ci sono stati rapiti da tre intense ragazze musulmane. Può essere una fonte importante di vita. Si fermarono di notte o seduti sul muro.
+
+Step 305/330
+>> Italian - Czech
+	Uložte všechny informace a postupujte podle pokynů. O tři dny později nás unesli tři intenzivní muslimské dívky. Může to být důležitý zdroj života. Zastavili se v noci nebo seděli na zdi.
+
+Step 306/330
+>> Czech - Spanish
+	Guarde toda la información y siga las instrucciones. Tres días después, tres muchachas musulmanas intensas nos secuestraron. Puede ser una fuente importante de vida. Se detuvieron por la noche o se sentaron en la pared.
+
+Step 307/330
+>> Spanish - Slovenian
+	Shranite vse podatke in sledite navodilom. Tri dni pozneje so nas ugrabile tri intenzivne muslimanske punce. Lahko je pomemben vir življenja. Ustavljali so se ponoči ali sedeli na steni.
+
+Step 308/330
+>> Slovenian - French
+	Enregistrez toutes les informations et suivez les instructions. Trois jours plus tard, trois filles musulmanes intenses nous ont enlevés. Cela peut être une source de vie importante. Ils se sont arrêtés la nuit ou assis sur le mur.
+
+Step 309/330
+>> French - Korean
+	모든 정보를 기록하고 지침을 따르십시오. 3 일 후, 강렬한 무슬림 소녀 3 명이 우리를 납치했습니다. 이것은 중요한 삶의 원천이 될 수 있습니다. 그들은 밤에 멈추거나 벽에 앉았습니다.
+
+Step 310/330
+>> Korean - Hebrew
+	רשום את כל המידע ופעל לפי ההוראות. שלושה ימים אחר כך חטפו אותנו שלוש בנות מוסלמיות עזות. זה יכול להיות מקור חשוב לחיים. הם נעצרו בלילה או ישבו על הקיר.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Schreift all d'Informatiounen a befollegt d'Instruktioune. Dräi Deeg méi spéit goufen dräi staark muslimesch Meedercher entfouert. Et kann eng wichteg Liewensquell sinn. Si sinn an der Nuecht gestoppt oder souz op der Mauer.
+
+Step 312/330
+>> Luxembourgish - German
+	Notieren Sie alle Informationen und befolgen Sie die Anweisungen. Drei Tage später wurden drei starke muslimische Mädchen entführt. Es kann eine wichtige Quelle des Lebens sein. Sie hielten nachts an oder setzten sich an die Wand.
+
+Step 313/330
+>> German - Japanese
+	すべての情報を書き留めて、指示に従ってください。 3日後、3人の強いイスラム教徒の少女が誘nされた。それは生命の重要な源となり得る。彼らは夜に止まったか、壁に座った。
+
+Step 314/330
+>> Japanese - German
+	Notieren Sie alle Informationen und befolgen Sie die Anweisungen. Drei Tage später wurden drei starke muslimische Mädchen eingeladen. Es kann eine wichtige Quelle des Lebens sein. Sie hielten entweder nachts an oder setzten sich an die Wand.
+
+Step 315/330
+>> German - Dutch
+	Schrijf alle informatie op en volg de instructies. Drie dagen later werden drie sterke moslimmeisjes uitgenodigd. Het kan een belangrijke bron van leven zijn. Ze stopten ofwel 's nachts of gingen tegen de muur zitten.
+
+Step 316/330
+>> Dutch - Maori
+	Tuhia nga korero katoa ka whai i nga tohutohu. E toru nga ra i muri mai, e toru nga kotiro Muslim nui i karangahia. Ka taea e te mea nui tetahi puna koiora. Ka tu raua i te po, ka noho ranei ki te pakitara.
+
+Step 317/330
+>> Maori - Finnish
+	Kirjoita kaikki yksityiskohdat muistiin ja noudata ohjeita. Kolme päivää myöhemmin kolme näkyvää muslimityttöä soitettiin. Se voi olla loistava elämän lähde. He seisovat yöllä tai istuvat seinällä.
+
+Step 318/330
+>> Finnish - English
+	Write down all the details and follow the instructions. Three days later, three prominent Muslim girls were called. It can be a great source of life. They stand at night or sit on a wall.
+
+Step 319/330
+>> English - Danish
+	Skriv alle detaljerne, og følg instruktionerne. Tre dage senere blev tre fremtrædende muslimske piger kaldet. Det kan være en stor kilde til liv. De står om natten eller sidder på en væg.
+
+Step 320/330
+>> Danish - Dutch
+	Schrijf alle details op en volg de instructies. Drie dagen later werden drie prominente moslimmeisjes gebeld. Het kan een geweldige bron van leven zijn. Ze staan 's nachts of zitten op een muur.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	記下所有細節並按照說明操作。三天后，三名著名的穆斯林女孩被召喚。它可以成為生活的重要來源。他們站在晚上或坐在牆上。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Skriv ner alla detaljer och följ instruktionerna. Tre dagar senare kallades tre berömda muslimska flickor. Det kan vara en viktig livskälla. De står på natten eller sitter på väggen.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	記下所有細節並按照說明操作。三天后，三名著名的穆斯林女孩被召喚。它可能是生命的重要來源。他們站在晚上或坐在牆上。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Skrifaðu allar upplýsingar og fylgdu leiðbeiningunum. Þremur dögum síðar voru þrjár frægar múslimastúlkur kallaðar saman. Það getur verið mikilvæg uppspretta lífsins. Þeir standa á nóttunni eða sitja á veggnum.
+
+Step 325/330
+>> Icelandic - German
+	Schreiben Sie alle Informationen und folgen Sie den Anweisungen. Drei Tage später wurden drei berühmte muslimische Mädchen zusammengerufen. Es kann eine wichtige Quelle des Lebens sein. Sie stehen nachts oder sitzen an der Wand.
+
+Step 326/330
+>> German - Irish
+	Scríobh an fhaisnéis go léir agus lean na treoracha. Trí lá ina dhiaidh sin, glaodh le chéile trí chailíní Moslamacha cáiliúla. Féadann sé a bheith ina fhoinse thábhachtach bheatha. Seasann siad san oíche nó suíonn siad ar an mballa.
+
+Step 327/330
+>> Irish - English
+	Write all the information and follow the instructions. Three days later, three famous Muslim girls were called together. It can be an important source of life. They stand at night or sit on the wall.
+
+Step 328/330
+>> English - German
+	Schreiben Sie alle Informationen und folgen Sie den Anweisungen. Drei Tage später wurden drei berühmte muslimische Mädchen zusammengerufen. Es kann eine wichtige Quelle des Lebens sein. Sie stehen nachts oder sitzen an der Wand.
+
+Step 329/330
+>> German - Norwegian
+	Skriv all informasjon og følg instruksjonene. Tre dager senere ble tre kjente muslimske jenter kalt sammen. Det kan være en viktig kilde til liv. De står om natten eller sitter på veggen.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Escreva todas as informações e siga as instruções. Três dias depois, três meninas muçulmanas famosas foram convocadas. Pode ser uma fonte importante de vida. Eles ficam à noite ou sentam-se na parede.
+
+
+##### RESULTS ######
+
+Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+Escreva todas as informações e siga as instruções. Três dias depois, três meninas muçulmanas famosas foram convocadas. Pode ser uma fonte importante de vida. Eles ficam à noite ou sentam-se na parede.

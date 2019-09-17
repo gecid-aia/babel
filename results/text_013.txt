@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Cheherazade terminou, assim, a história do pescador e do gênio. Dinarzade garantiu-lhe que sentira enorme prazer em ouvi-la. E Chahriar manifestou-lhe o mesmo. Cheherazade disse-lhes, então, que sabia outra mais linda e que, se o sultão lhe permitisse viver, a narraria no dia seguinte. Chahriar, lembrando-se do adiamento de um mês que lhe havia concedido, e curioso também por saber se a nova história seria tão interessante, levantou-se com a intenção de a ouvir na noite seguinte.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Cheherazade avsluttet dermed historien om fiskeren og genialiteten. Dinarzade forsikret henne om at han hadde gledet seg over å høre henne. Og Chahriar uttrykte det samme for ham. Cheherazade fortalte dem at han kjente en annen vakrere, og at hvis sultanen tillot ham å leve, ville han fortelle det dagen etter. Chahriar husket sin utsettelse av en måned, og var også nysgjerrig på om den nye historien ville være så interessant, reiste seg med den hensikt å høre den neste kveld.
+
+Step 2/330
+>> Norwegian - German
+	Cheherazade beendete damit die Geschichte des Fischers und des Genies. Dinarzade versicherte ihr, dass er es genossen hatte, sie zu hören. Und Chahriar drückte ihm dasselbe aus. Cheherazade sagte ihnen, dass er einen anderen Schöneren kenne und dass er es am nächsten Tag erzählen würde, wenn der Sultan ihm das Leben erlaubte. Chahriar erinnerte sich an seine Verschiebung um einen Monat und war auch neugierig, ob die neue Geschichte so interessant sein würde. Er stand auf, um sie am nächsten Abend zu hören.
+
+Step 3/330
+>> German - English
+	Cheherazade thus ended the story of the fisherman and genius. Dinarzade assured her that he had enjoyed hearing her. And Chahriar expressed the same thing to him. Cheherazade told them that he knew another, and that he would tell it the next day, if the sultan allowed him to die. Chahriar remembered his shift for a month and was also curious if the new story would be so interesting. He got up to hear her the next evening.
+
+Step 4/330
+>> English - Irish
+	Dá bhrí sin, chuir Cheherazade deireadh le scéal an iascaire agus an iomaitheora. Dhearbhaigh Dinarzade gur bhain sé taitneamh as éisteacht léi. Agus chuir Chahriar an rud céanna in iúl dó. Dúirt Cheherazade leo go raibh aithne aige ar dhuine eile, agus go n-inseodh sé dó an lá dár gcionn, dá mbeadh an sultan in ann bás a fháil. Chuimhnigh Chahriar ar a athrú ar feadh míosa agus bhí sé aisteach freisin dá mbeadh an scéal nua chomh suimiúil sin. D'éirigh leis a chloisteáil an tráthnóna seo chugainn.
+
+Step 5/330
+>> Irish - German
+	Deshalb setzte Cheherazade der Geschichte des Fischers und des Konkurrenten ein Ende. Dinarzade bestätigte, dass er es genoss, ihr zuzuhören. Und Chahriar erzählte ihm dasselbe. Cheherazade sagte ihnen, dass er einen anderen kenne und dass er es ihm am nächsten Tag sagen würde, wenn der Thron sterben könnte. Chariiar erinnerte sich daran, es für einen Monat zu ändern, und es war auch seltsam, ob die neue Geschichte so interessant war. Er schaffte es, am nächsten Abend zu hören.
+
+Step 6/330
+>> German - Icelandic
+	Þess vegna lauk Cheherazade enda á sögu sjómannsins og keppandans. Dinarzade staðfesti að hann naut þess að hlusta á hana. Og Chahriar sagði honum það sama. Cheherazade sagði þeim að hann þekkti annan og að hann myndi segja honum daginn eftir ef hásætið gæti dáið. Chariiar mundi eftir að hafa breytt henni í mánuð og það var undarlegt að nýja sagan var svo áhugaverð. Hann náði að heyra næsta kvöld.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	這就是為什麼Cheherazade結束了水手和參賽者的故事。 Dinarzade證實他喜歡聽她說話。 Chahriar告訴他同樣的事情。 Cheherazade告訴他們他認識別人並且第二天會告訴他寶座是否會死。 Chariiar記得已經改變了一個月，這個新故事非常有趣，這很奇怪。第二天晚上他設法聽到了。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Det är därför Cheherazade slutade historien om seglare och tävlande. Dinarzade bekräftade att han gillar att lyssna på henne. Chahriar berättade för honom samma sak. Cheherazade berättade för dem att han kände någon och skulle säga honom nästa dag om han skulle dö. Chariiar kommer ihåg att det har förändrats i en månad.Denna nya historien är mycket intressant, vilket är väldigt konstigt. Han lyckades höra nästa natt.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	這就是為什麼Cheherazade結束了水手和競爭對手的歷史。 Dinarzade證實他喜歡聽她的話。 Chahriar告訴了他同樣的事情。 Cheherazade告訴他們他認識某人，並會在第二天告訴他是否他去世了。 Chariiar記得它在一個月內發生了變化。這個新故事非常有趣，非常奇怪。第二天晚上他設法聽到了。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Dit is de reden waarom Cheherazade een einde maakte aan de geschiedenis van zeilers en concurrenten. Dinarzade bevestigde dat hij graag naar haar woorden luistert. Chahriar vertelde hem hetzelfde. Cheherazade vertelde hen dat hij iemand kende en hem de volgende dag zou vertellen als hij stierf. Chariiar herinnert zich dat het in een maand is veranderd. Dit nieuwe verhaal is erg interessant en heel vreemd. Hij slaagde erin om de volgende nacht te horen.
+
+Step 11/330
+>> Dutch - Danish
+	Derfor sluttede Cheherazade en stopper for sejlere og konkurrenter. Dinarzade bekræftede, at han kunne lide at lytte til hendes ord. Chahriar fortalte ham den samme ting. Cheherazade fortalte dem, at han kendte nogen, og ville fortælle ham næste dag, hvis han døde. Chariiar husker, at det har ændret sig om en måned. Denne nye historie er meget interessant og meget mærkelig. Han formåede at høre den følgende nat.
+
+Step 12/330
+>> Danish - English
+	That is why Cheherazade put an end to sailors and competitors. Dinarzade confirmed that he liked listening to her words. Chahriar told him the same thing. Cheherazade told them he knew someone, and would tell him the next day if he died. Chariiar remembers that that has changed in a month. This new story is very interesting and very strange. He managed to hear the following night.
+
+Step 13/330
+>> English - Finnish
+	Siksi Cheherazade lopetti purjehtijat ja kilpailijat. Dinarzade vahvisti, että hän halunnut kuunnella hänen sanojaan. Chahriar kertoi hänelle saman asian. Cheherazade kertoi heille, että hän tunsi jonkun, ja kertoisi hänelle seuraavana päivänä, jos hän kuoli. Chariiar muistaa, että se on muuttunut kuukaudessa. Tämä uusi tarina on erittäin mielenkiintoinen ja hyvin omituinen. Hän onnistui kuulemaan seuraavana yönä.
+
+Step 14/330
+>> Finnish - Maori
+	Koinei te take i aukati ai a Cheherazade i nga kaihoe me nga whakataetae. I whakapumautia e Dinarzade te hiahia ki te whakarongo ki ana korero. Na ano te korero a Chahriar ki a ia. I korero a Cheherazade ki a raatau kua mohio ia ki tetahi tangata ka korero atu ki a ia i te ra e whai ake nei kua mate ia. Ka mahara a Chariiar kua hurihia i te marama kotahi. He tino whakamere, he rereke hoki tenei korero hou. I rongo ia i te po e whai ake nei.
+
+Step 15/330
+>> Maori - Dutch
+	Dit is de reden waarom Cheherazade ruiters en toernooien voorkomt. Dinarzade benadrukte de noodzaak om zijn opmerkingen te horen. Dus vertelde Chahriar het hem opnieuw. Cheherazade vertelde hen dat hij iemand kende en vertelde hen de volgende dag dat hij dood was. Chariiar herinnert zich dat het in een maand was veranderd. Dit nieuws is erg interessant en ongewoon. Hij hoorde de volgende nacht.
+
+Step 16/330
+>> Dutch - German
+	Aus diesem Grund verhindert Cheherazade Fahrer und Turniere. Dinarzade betonte die Notwendigkeit, seine Kommentare zu hören. Also sagte Chahriar es ihm noch einmal. Cheherazade sagte ihnen, er kenne jemanden und sagte ihnen am nächsten Tag, dass er tot sei. Chariiar erinnert sich, dass es sich in einem Monat geändert hatte. Diese Nachricht ist sehr interessant und ungewöhnlich. Er hörte in der nächsten Nacht.
+
+Step 17/330
+>> German - Japanese
+	このため、チェヘラザードはドライバーとトーナメントを防ぎます。 Dinarzadeは彼のコメントを聞く必要性を強調した。シャリアーは再び彼に言った。チェヘラザードは、誰かを知っていて、翌日、彼が死んだと彼らに話しました。 Chariiarは、1か月で変更されたことを覚えています。このメッセージは非常に興味深く、珍しいものです。彼は翌夜聞いた。
+
+Step 18/330
+>> Japanese - German
+	Aus diesem Grund verhindert Cheherazade Fahrer und Turniere. Dinarzade betonte die Notwendigkeit, seine Kommentare zu hören. Scharia sagte es ihm noch einmal. Cheherazade kannte jemanden und teilte ihm am nächsten Tag mit, dass er gestorben sei. Chariiar erinnert sich, dass es sich in einem Monat geändert hat. Diese Nachricht ist sehr interessant und ungewöhnlich. Er hörte in der nächsten Nacht.
+
+Step 19/330
+>> German - Luxembourgish
+	Aus dësem Grond verhënnert d'Chherazade Chauffeuren an Turnéier. Den Dinarzade huet betount de Besoin fir seng Kommentarer ze héieren. D'Sharia huet him nach eng Kéier gesot. Cheherazade wousst een an huet him den nächsten Dag gesot datt hie gestuerwen ass. Chariiar erënnert datt et an engem Mount geännert huet. Dëse Message ass ganz interessant an ongewéinlech. Hien huet déi nächst Nuecht héieren.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	מסיבה זו Chherazade מונע מהנהגים להפוך טורנירים. דינרזאדה הדגיש את הצורך לשמוע את דבריו. שרה אמר לו שוב. צ'הראזדה הכיר זאת ואמר לו למחרת שהוא נפטר. שריאר נזכר שזה השתנה בעוד חודש. הודעה זו מעניינת מאוד ויוצאת דופן. הוא שמע את זה למחרת בלילה.
+
+Step 21/330
+>> Hebrew - Korean
+	이러한 이유로 Chherazade는 운전자가 토너먼트를 돌리지 못하게합니다. 디나르자는 그의 말을들을 필요성을 강조했다. 사라가 다시 그에게 말했다. 체라 자다는 이것을 인정하고 다음날 그가 세상을 떠났다고 말했다. Shriir는 한 달 만에이 변화가 일어났다 고 회상합니다. 이 게시물은 매우 흥미롭고 특이합니다. 그는 다음날 밤에 들었습니다.
+
+Step 22/330
+>> Korean - French
+	Pour cette raison, Chherazade empêche le pilote de tourner le tournoi. Dinarza a insisté sur la nécessité de l'écouter. Sarah lui dit encore. Cherajada a admis cela et a déclaré qu'il était décédé le lendemain. Shriir rappelle que ce changement a eu lieu dans un mois. Cet article est très intéressant et inhabituel. Il a entendu la nuit prochaine.
+
+Step 23/330
+>> French - Slovenian
+	Zaradi tega Chherazade vozniku prepreči, da bi turnir obrnil. Dinarza je vztrajal, da ga je treba poslušati. Sarah mu spet pove. Cherajada je to priznal in rekel, da je naslednji dan umrl. Shriir spominja, da se je ta sprememba zgodila čez en mesec. Ta članek je zelo zanimiv in nenavaden. Slišal je naslednjo noč.
+
+Step 24/330
+>> Slovenian - Spanish
+	Esto evita que el piloto de Chherazade gire el torneo. Dinarza insistió en que debería ser escuchado. Sarah le dice de nuevo. Cherajada lo reconoció y dijo que murió al día siguiente. Shriir recuerda que este cambio ocurrió en un mes. Este artículo es muy interesante e inusual. Escuchó la noche siguiente.
+
+Step 25/330
+>> Spanish - Czech
+	To brání řidiči Chherazade v otáčení turnaje. Dinarza trvala na tom, aby to bylo slyšet. Sarah mu to znovu řekne. Cherajada ho poznala a řekla, že další den zemřel. Shriir si pamatuje, že k této změně došlo za měsíc. Tento článek je velmi zajímavý a neobvyklý. Příští noc poslouchal.
+
+Step 26/330
+>> Czech - Italian
+	Questo impedisce al pilota di Chherazade di girare il torneo. Dinarza ha insistito per essere ascoltato. Sarah glielo dice ancora. Cherajada lo riconobbe e disse che morì il giorno successivo. Shriir ricorda che questo cambiamento si è verificato in un mese. Questo articolo è molto interessante e insolito. Ha ascoltato la notte successiva.
+
+Step 27/330
+>> Italian - Maltese
+	Dan jimpedixxi lill-pilota Chherazade milli jispara l-kampjonat. Dinarza insista li jinstema '. Sarah tgħidha mill-ġdid. Cherajada għarfuh u qal li miet l-għada. Shriir ifakkar li din il-bidla seħħet fix-xahar. Dan l-artikolu huwa interessanti ħafna u mhux tas-soltu. Huwa sema 'l-lejl li jmiss.
+
+Step 28/330
+>> Maltese - Estonian
+	See takistab piloot liuglema Chherazade turniiri. Dinarza nõudis kuuldav. Sarah öelda seda uuesti. Cherajada tunnustatud teda ja ütles, et ta suri järgmisel päeval. Shriir tuletab meelde, et see muutus toimus kuus. See artikkel on väga huvitav ja ebatavaline. Ta kuulis järgmisel õhtul.
+
+Step 29/330
+>> Estonian - Greek
+	Αυτό εμποδίζει τον πιλότο να γλιστρήσει στο τουρνουά της Chherazade. Ο Dinarza ζήτησε ακουστικό. Η Σάρα λέει πάλι. Η Cherajada την αναγνώρισε και είπε ότι πέθανε την επόμενη μέρα. Ο Shriir υπενθυμίζει ότι αυτή η αλλαγή χρειάστηκε έξι μήνες. Αυτό το άρθρο είναι πολύ ενδιαφέρον και ασυνήθιστο. Ακούστηκε το επόμενο βράδυ.
+
+Step 30/330
+>> Greek - Turkish
+	Bu, pilotun Chherazade turnuvasına kaymasını önler. Dinarza kulaklık istedi. Sarah yine dedi. Cherajada onu tanıdı ve ertesi gün öldüğünü söyledi. Shriir, bu değişikliğin altı ay sürdüğünü hatırlatıyor. Bu makale çok ilginç ve sıradışı. Ertesi gece duyuldu.
+
+Step 31/330
+>> Turkish - Polish
+	Zapobiega to włączeniu się kierowcy do turnieju Chherazade. Dinarza poprosiła o słuchawki. Sarah powtórzyła. Cherajada rozpoznał go i powiedział, że zmarł następnego dnia. Shriir przypomina mi, że ta zmiana trwała sześć miesięcy. Ten artykuł jest bardzo interesujący i niezwykły. Następna noc została usłyszana.
+
+Step 32/330
+>> Polish - Arabic
+	هذا يمنع السائق من الانضمام إلى بطولة Chherazade. طلب Dinarza لسماعات الرأس. سارة كررت. تعرف عليه شيراجادا وقال إنه توفي في اليوم التالي. يذكرني شرير أن هذا التغيير استمر ستة أشهر. هذه المقالة مثيرة جدا للاهتمام وغير عادية. سمعت الليلة التالية.
+
+Step 33/330
+>> Arabic - Catalan
+	D’aquesta manera s’evita que el pilot s’incorpori al Campionat de Chherazade. Compra auriculars Dinarza a través de línia! Va repetir Sarah. Shirajada el va reconèixer i va dir que va morir l'endemà. Shirir em recorda que aquest canvi va durar sis mesos. Aquest article és molt interessant i insòlit. Vaig sentir-ho la nit següent.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Tai neleidžia pilotui stoti į Chherazade čempionatą. Pirkite „Dinarza“ ausines internetu! - pakartojo Sara. Širadža jį atpažino ir pasakė, kad jis mirė kitą dieną. Shirir man primena, kad šis pokytis truko šešis mėnesius. Šis straipsnis yra labai įdomus ir neįprastas. Aš tai išgirdau kitą naktį.
+
+Step 35/330
+>> Lithuanian - Arabic
+	هذا يمنع الطيار من دخول بطولة شهرزاد. اشتر سماعات دينارارزا على الإنترنت! سارة كررت. تعرف عليه شيراجا وقال إنه توفي في اليوم التالي. يذكرني شيرير أن هذا التغيير استغرق ستة أشهر. هذه المقالة مثيرة جدا للاهتمام وغير عادية. سمعت ذلك في الليلة الأخرى.
+
+Step 36/330
+>> Arabic - Slovak
+	Toto bráni pilotovi vstúpiť na šampionát Shahrazad. Kúpte si slúchadlá Dinarza online! Sarah zopakovala. Šíraja ho spoznal a povedal, že zomrel nasledujúci deň. Shearer mi pripomína, že táto zmena trvala šesť mesiacov. Tento článok je veľmi zaujímavý a nezvyčajný. Počul som to včera.
+
+Step 37/330
+>> Slovak - Malay
+	Ini menghalang juruterbang daripada memasuki Kejohanan Shahrazad. Beli fon kepala Dinarza dalam talian! Sarah berulang kali. Shirah mengenali dia dan berkata dia meninggal pada keesokan harinya. Shearer mengingatkan saya bahawa perubahan ini mengambil masa enam bulan. Artikel ini sangat menarik dan luar biasa. Saya mendengarnya semalam.
+
+Step 38/330
+>> Malay - Arabic
+	هذا يمنع الطيارين من دخول بطولة شهرزاد. اشتر سماعات Dinarza عبر الإنترنت! سارة مرارا وتكرارا. تعرفت عليه شيرا وقال إنه توفي في اليوم التالي. ذكرني شيرر أن هذا التغيير استغرق ستة أشهر. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. سمعت ذلك الليلة الماضية.
+
+Step 39/330
+>> Arabic - Latvian
+	Tas liedz pilotiem iekļūt Šahrazādes čempionātā. Pērciet Dinarza austiņas tiešsaistē! Sāra atkal un atkal. Šira viņu atpazina un teica, ka nomira nākamajā dienā. Shearer man atgādināja, ka šīs izmaiņas prasīja sešus mēnešus. Šis raksts ir ļoti interesants un interesants. Es to dzirdēju pagājušajā naktī.
+
+Step 40/330
+>> Latvian - Portuguese
+	Isso impede que os pilotos se qualifiquem para o campeonato de xadrez. Compre fones de ouvido Dinarza online! Sarah novamente e novamente. Shira o reconheceu e disse que ele morreu no dia seguinte. Shearer me lembrou que essa mudança levou seis meses. Este artigo é muito interessante e interessante. Eu ouvi ontem à noite.
+
+Step 41/330
+>> Portuguese - Arabic
+	هذا يمنع الطيارين من التأهل لبطولة الشطرنج. اشتر سماعات Dinarza عبر الإنترنت! سارة مرارا وتكرارا. تعرف عليه شيرا وقال إنه توفي في اليوم التالي. ذكرني شيرر أن هذا التغيير استغرق ستة أشهر. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. لقد استمعت الليلة الماضية.
+
+Step 42/330
+>> Arabic - Spanish
+	Esto evita que los pilotos se clasifiquen para el torneo de ajedrez. ¡Compre auriculares Dinarza en línea! Sara una y otra vez. Shira lo reconoció y dijo que murió al día siguiente. Shearer me recordó que este cambio tomó seis meses. Este artículo es muy interesante e interesante. Escuché anoche.
+
+Step 43/330
+>> Spanish - Hungarian
+	Ez megakadályozza, hogy a pilóták kvalifikálódjanak a sakk versenyre. Vásároljon Dinarza fejhallgatót online! Sára újra és újra. Shira felismerte és azt mondta, hogy másnap meghalt. Shearer emlékeztetett arra, hogy ez a változás hat hónapot vett igénybe. Ez a cikk nagyon érdekes és érdekes. Tegnap este hallottam.
+
+Step 44/330
+>> Hungarian - Croatian
+	To sprečava pilote da se kvalificiraju za šah. Kupite Dinarza slušalice na mreži! Sarah iznova i iznova. Shira je to prepoznala i rekla da je sutradan umrla. Shearer me podsjetio da je za ovu promjenu potrebno šest mjeseci. Ovaj je članak vrlo zanimljiv i zanimljiv. Čuo sam ga sinoć.
+
+Step 45/330
+>> Croatian - Spanish
+	Esto evita que los pilotos califiquen para el ajedrez. ¡Compre auriculares Dinarza en línea! Sarah una y otra vez. Shira lo reconoció y dijo que murió al día siguiente. Shearer me recordó que este cambio lleva seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 46/330
+>> Spanish - Arabic
+	هذا يمنع الطيارين من التأهل للشطرنج. اشتر سماعات Dinarza عبر الإنترنت! سارة مرارا وتكرارا. تعرف عليه شيرا وقال إنه توفي في اليوم التالي. ذكرني شيرر أن هذا التغيير يستغرق ستة أشهر. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. سمعت ذلك الليلة الماضية.
+
+Step 47/330
+>> Arabic - Russian
+	Это мешает пилотам претендовать на шахматы. Купить наушники Dinarza онлайн! Сара снова и снова. Шира узнала его и сказала, что он умер на следующий день. Ширер напомнил мне, что это изменение занимает шесть месяцев. Эта статья очень интересная и интересная. Я слышал это прошлой ночью.
+
+Step 48/330
+>> Russian - Albanian
+	Kjo parandalon që pilotët të pretendojnë shah. Bleni kufje Dinarza në internet! Sarah pa pushim. Shira e njohu dhe tha që vdiq të nesërmen. Shearer më kujtoi që ky ndryshim zgjat gjashtë muaj. Ky artikull është shumë interesant dhe interesant. E kam dëgjuar mbrëmë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Това не позволява на пилотите да искат шах. Купете онлайн слушалки Dinarza! Сара отново и отново. Шира го позна и каза, че е починал на следващия ден. Шиърър ми напомни, че тази промяна отнема шест месеца. Тази статия е много интересна и интересна. Чух го снощи.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Acest lucru nu permite piloților să solicite șah. Cumpărați căști Dinarza online! Sarah iar și iar. Shira l-a recunoscut și a spus că a murit a doua zi. Shearer mi-a reamintit că această schimbare durează șase luni. Acest articol este foarte interesant și interesant. Am auzit-o aseară.
+
+Step 51/330
+>> Romanian - Russian
+	Это не позволяет пилотам запрашивать шахматы. Купить наушники Dinarza онлайн! Сара снова и снова. Шира узнала его и сказала, что он умер на следующий день. Ширер напомнил мне, что это изменение длится шесть месяцев. Эта статья очень интересная и интересная. Я слышал это прошлой ночью.
+
+Step 52/330
+>> Russian - English
+	This does not allow pilots to request chess. Buy Dinarza Headphones Online! Sarah over and over again. Shira recognized him and said that he died the next day. Shearer reminded me that this change lasts six months. This article is very interesting and interesting. I heard it last night.
+
+Step 53/330
+>> English - Spanish
+	Esto no permite que los pilotos soliciten ajedrez. ¡Compre auriculares Dinarza en línea! Sarah una y otra vez. Shira lo reconoció y dijo que murió al día siguiente. Shearer me recordó que este cambio dura seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 54/330
+>> Spanish - Arabic
+	هذا لا يسمح للطيارين بطلب لعبة الشطرنج. اشتر سماعات Dinarza عبر الإنترنت! سارة مرارا وتكرارا. تعرف عليه شيرا وقال إنه توفي في اليوم التالي. ذكرني شيرر أن هذا التغيير يستمر ستة أشهر. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. سمعت ذلك الليلة الماضية.
+
+Step 55/330
+>> Arabic - Malay
+	Ini tidak membenarkan juruterbang memerintahkan catur. Beli Headphone Dinarza Online! Sara lagi dan lagi. Shira mengenali dia dan berkata dia meninggal pada keesokan harinya. Shearer mengingatkan saya bahawa perubahan ini berlangsung selama enam bulan. Artikel ini sangat menarik dan menarik. Saya dengar malam tadi.
+
+Step 56/330
+>> Malay - English
+	This does not allow pilots to order chess. Buy Dinarza Headphones Online! Sara again and again. Shira recognized him and said he died the next day. Shearer reminded me that this change took six months. This article is very interesting and interesting. I heard last night.
+
+Step 57/330
+>> English - Kazakh
+	Бұл ұшқыштарға шахматқа тапсырыс беруге мүмкіндік бермейді. Dinarza гарнитурасын Интернет арқылы сатып алыңыз! Сара қайта-қайта. Шира оны танып, келесі күні қайтыс болды деді. Шерер бұл өзгеріс алты айға созылғанын еске салды. Бұл мақала өте қызықты және қызықты. Кеше түнде естідім.
+
+Step 58/330
+>> Kazakh - Persian
+	به خلبانان اجازه نمی دهد شطرنج سفارش دهند. هدفون دینارزا را از طریق اینترنت خریداری کنید! بارها و بارها سارا. Shea او را شناخت و روز بعد درگذشت. شیر یادآوری کرد که این تغییر شش ماه به طول انجامید. این مقاله بسیار جالب و جالب است. دیروز شب شنیدم.
+
+Step 59/330
+>> Persian - English
+	It does not allow pilots to order chess. Buy dinarza headphones online! Over and over again Sarah. Shea recognized him and died the next day. Lion recalled that the change took six months. This article is very interesting and interesting. I heard yesterday night.
+
+Step 60/330
+>> English - French
+	Il ne permet pas aux pilotes de commander des échecs. Acheter des écouteurs dinarza en ligne! Encore et encore Sarah. Shea l'a reconnu et est mort le lendemain. Lion a rappelé que le changement a pris six mois. Cet article est très intéressant et intéressant. J'ai entendu hier soir.
+
+Step 61/330
+>> French - Spanish
+	No permite a los pilotos controlar las fallas. ¡Compre auriculares dinarza en línea! Una y otra vez Sarah. Shea lo reconoció y murió al día siguiente. Lion recordó que el cambio tomó seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 62/330
+>> Spanish - Turkish
+	Pilotların hataları kontrol etmesine izin vermez. İnternet üzerinden dinarza kulaklık satın alın! Tekrar ve tekrar Sarah. Shea onu tanıdı ve ertesi gün öldü. Lion, değişimin altı ay sürdüğünü hatırladı. Bu makale çok ilginç ve ilginç. Dün gece duydum.
+
+Step 63/330
+>> Turkish - English
+	It does not allow pilots to check for errors. Buy dinarza headphones over the internet! Again and again, Sarah. Shea recognized her and died the next day. Lion remembered that the change took six months. This article is very interesting and interesting. I heard it last night.
+
+Step 64/330
+>> English - Spanish
+	No permite que los pilotos verifiquen si hay errores. ¡Compre auriculares dinarza por internet! Una y otra vez, Sarah. Shea la reconoció y murió al día siguiente. Lion recordó que el cambio tomó seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 65/330
+>> Spanish - Serbian
+	Не дозвољава пилотима да провере грешке. Купите динарза слушалице на мрежи! Поново и поново, Сарах. Схеа ју је препознала и сутрадан је умрла. Лав је подсетио да су промени требало шест месеци. Овај чланак је врло занимљив и занимљив. Чуо сам га синоћ.
+
+Step 66/330
+>> Serbian - Albanian
+	Nuk lejon që pilotët të kontrollojnë gabimet. Bleni kufje dinarza në internet! Pandërprerë, Sara. Shea e njohu atë dhe ajo vdiq të nesërmen. Luani kujtoi se ndryshimet morën gjashtë muaj. Ky artikull është shumë interesant dhe interesant. E dëgjova mbrëmë.
+
+Step 67/330
+>> Albanian - English
+	It does not allow pilots to check for errors. Buy dinar headphones online! Uninterrupted, Sarah. Shea recognized her and she died the next day. The lion recalled that the changes took six months. This article is very interesting and interesting. I heard it last night.
+
+Step 68/330
+>> English - Georgian
+	ეს არ აძლევს მფრინავებს შეცდომების შემოწმების საშუალებას. შეიძინეთ დინარის ყურსასმენები ინტერნეტით! დაუსრულებლად, სარა. შეა მას აღიარა და ის მეორე დღეს გარდაიცვალა. ლომმა გაიხსენა, რომ ცვლილებებს ექვსი თვე დასჭირდა. ეს სტატია ძალიან საინტერესო და საინტერესოა. ეს წუხელ გავიგე.
+
+Step 69/330
+>> Georgian - English
+	This does not allow pilots to check for errors. Buy dinar headphones online! Over and over again, Sarah. Shea recognized him, and he died the next day. Lowe recalled that the changes took six months. This article is very interesting and interesting. I heard this last night.
+
+Step 70/330
+>> English - Spanish
+	Esto no permite que los pilotos verifiquen si hay errores. ¡Compre auriculares dinar en línea! Una y otra vez, Sarah. Shea lo reconoció y murió al día siguiente. Lowe recordó que los cambios tomaron seis meses. Este artículo es muy interesante e interesante. Escuché esto anoche.
+
+Step 71/330
+>> Spanish - English
+	This does not allow pilots to check for errors. Buy dinar headphones online! Again and again, Sarah. Shea recognized him and died the next day. Lowe recalled that the changes took six months. This article is very interesting and interesting. I heard this last night.
+
+Step 72/330
+>> English - Sinhala
+	මෙය ගුවන් නියමුවන්ට දෝෂ පරීක්ෂා කිරීමට ඉඩ නොදේ. ඩිනාර් හෙඩ්ෆෝන් අන්තර්ජාලය හරහා මිලදී ගන්න! නැවත නැවතත්, සාරා. ෂියා ඔහුව හඳුනාගෙන පසුදා මිය ගියේය. වෙනස්කම් සඳහා මාස හයක් ගත වූ බව ලෝව් සිහිපත් කළේය. මෙම ලිපිය ඉතා රසවත් හා රසවත් ය. මට මෙය ඊයේ රාත්‍රියේ ඇසුණි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	To ne dopušta pilotima da provjere bugove. Kupite Dinar slušalice na mreži! Ponovo i opet, Sarah. Shia ga je prepoznao i sutradan je umro. Za promjene je trebalo šest mjeseci, podsjetio je Lowe. Ovaj je članak vrlo zanimljiv i zanimljiv. Čuo sam to sinoć.
+
+Step 74/330
+>> Bosnian - Spanish
+	Esto no permite a los pilotos verificar si hay errores. ¡Compre auriculares Dinar en línea! Una y otra vez, Sarah. Shia lo reconoció y murió al día siguiente. Los cambios tomaron seis meses, recordó Lowe. Este artículo es muy interesante e interesante. Escuché eso anoche.
+
+Step 75/330
+>> Spanish - Portuguese
+	Isso não permite que os pilotos verifiquem erros. Compre fones de ouvido Dinar online! De novo e de novo, Sarah. Shia o reconheceu e morreu no dia seguinte. As mudanças levaram seis meses, lembrou Lowe. Este artigo é muito interessante e interessante. Eu ouvi isso ontem à noite.
+
+Step 76/330
+>> Portuguese - Arabic
+	هذا لا يسمح للطيارين بالتحقق من الأخطاء. اشتر سماعات دينار على الانترنت! مرارا وتكرارا ، سارة. تعرفه الشيعة وتوفي في اليوم التالي. التغييرات استغرق ستة أشهر ، وأشار لوي. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. سمعت تلك الليلة الماضية.
+
+Step 77/330
+>> Arabic - Macedonian
+	Ова не дозволува пилотите да проверат за грешки. Купете JD слушалки на Интернет! Повторно, Сара. Вие ги познавате шиитите и умрев следниот ден. Промените траеја шест месеци, истакна Лоу. Оваа статија е многу интересна и интересна. Го слушнав тоа синоќа.
+
+Step 78/330
+>> Macedonian - Armenian
+	Սա թույլ չի տալիս օդաչուներին ստուգել սխալները: Գնեք JD ականջակալներ առցանց: Կրկին, Սառա: Դուք գիտեք շիաների մասին, և ես մահացա հաջորդ օրը: Փոփոխությունները տևեցին վեց ամիս, ասաց Լոուն: Այս հոդվածը շատ հետաքրքիր և հետաքրքիր է: Ես դա լսել եմ անցած գիշեր:
+
+Step 79/330
+>> Armenian - Thai
+	สิ่งนี้ไม่อนุญาตให้นักบินตรวจสอบข้อผิดพลาด ซื้อหูฟัง JD ออนไลน์ ซาร่าห์อีกครั้ง คุณรู้เรื่องชาวชีอะและฉันก็ตายในวันรุ่งขึ้น การเปลี่ยนแปลงใช้เวลาหกเดือนโลว์กล่าว บทความนี้น่าสนใจและน่าสนใจมาก เมื่อคืนนี้ฉันได้ยิน
+
+Step 80/330
+>> Thai - Arabic
+	هذا لا يسمح للطيار بالتحقق من الأخطاء ، اشتري سماعات JD على الإنترنت مرة أخرى ، سارة. تعرفون عن الشيعة وأنا أموت في اليوم التالي. وقال لوي إن التغيير استغرق ستة أشهر. هذه المقالة مثيرة للاهتمام ومثيرة للاهتمام للغاية. الليلة الماضية سمعت
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	这不允许飞行员检查错误，再次在线购买JD耳机，Sarah。你知道什叶派，我第二天就死了。罗威表示，这一变化需要六个月。这篇文章非常有趣和有趣。昨晚我听到了
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Esto no permite que el piloto compruebe si hay errores y vuelva a comprar los auriculares JD en línea, Sarah. Ya sabes los chiítas, morí al día siguiente. Luo Wei dijo que este cambio llevará seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Це не дозволяє пілоту перевіряти помилки та купувати навушники JD знову в Інтернеті, Сара. Ви знаєте шиїтів, я помер наступного дня. Лу Вей сказав, що ця зміна триватиме півроку. Ця стаття дуже цікава та цікава. Я чув це минулої ночі.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Esto no permite que el piloto compruebe si hay errores y vuelva a comprar auriculares JD en línea, Sarah. Ya sabes chiítas, morí al día siguiente. Lou Wei dijo que el cambio duraría seis meses. Este artículo es muy interesante e interesante. Escuché esto anoche.
+
+Step 85/330
+>> Spanish - English
+	This does not allow the pilot to check for errors and buy JD headphones online again, Sarah. You know Shiites, I died the next day. Lou Wei said the change would last six months. This article is very interesting and interesting. I heard this last night.
+
+Step 86/330
+>> English - Mongolian
+	Энэ нь нисгэгчийн алдааг шалгаж, JD чихэвчийг онлайнаар дахин худалдаж авах боломжийг олгохгүй байна, Сара. Шиитүүдийг та нар мэднэ дээ, би маргааш нь үхсэн. Лу Вэй хэлэхдээ, өөрчлөлт зургаан сар үргэлжилнэ. Энэ нийтлэл нь маш сонирхолтой бөгөөд сонирхолтой юм. Үүнийг би өнгөрсөн шөнө сонссон.
+
+Step 87/330
+>> Mongolian - Spanish
+	Comprueba el error del piloto y no permite que JD compre los auriculares en línea, Sarah. Ya sabes los chiítas, mañana estoy muerto. Lu Wei dijo que el cambio duró seis meses. Este artículo es muy interesante e interesante. Lo escuché anoche.
+
+Step 88/330
+>> Spanish - Arabic
+	تحقق من خطأ الطيار ولا تدع JD تشتري سماعات الرأس عبر الإنترنت ، سارة. أنت تعرف الشيعة ، غدا أنا ميت. وقال لو وي التغيير استمر ستة أشهر. هذه المقالة مثيرة جدا للاهتمام ومثيرة للاهتمام. سمعت ذلك الليلة الماضية.
+
+Step 89/330
+>> Arabic - Kurdish
+	Errorewtiya xeletiyê binihêrin û nehêlin JD ακουστικά bihêle, Sarah. Hûn itesii dizanin, sibê ez mirim. Lu Wei got guhertin şeş mehan dom kir. Ev gotar pir hêja û balkêş e. Wê şevê min bihîst.
+
+Step 90/330
+>> Kurdish - English
+	Check the error message and don't let JD headphones, Sarah. You know itesii, I'm dead tomorrow. Lu Wei said the change lasted six months. This article is very valuable and interesting. That night I heard.
+
+Step 91/330
+>> English - Dutch
+	Controleer het foutbericht en laat JD-koptelefoons niet los, Sarah. Weet je itesii, ik ben morgen dood. Lu Wei zei dat de verandering zes maanden duurde. Dit artikel is zeer waardevol en interessant. Die nacht hoorde ik het.
+
+Step 92/330
+>> Dutch - English
+	Check the error message and don't let go of JD headphones, Sarah. You know itesii, I'll die tomorrow. Lu Wei said the change lasted six months. This article is very valuable and interesting. I heard it that night.
+
+Step 93/330
+>> English - Samoan
+	Siaki le faʻamatalaga sese ma aua neʻi tuʻuina atu le lipine o le JD, Sarah. E te iloa oiiii, o le a ou oti a taeao. Na taʻua e Lu Wei o le suiga na tumau i le ono masina. O lenei tusiga e taua tele ma manaia. Na ou faalogoina i lena po.
+
+Step 94/330
+>> Samoan - Uzbek
+	Shafqatsiz gaplarni ko'rib chiqing va JD-ga lentani bermang, Sara. Bilasizmi, men ertaga o'laman. Lu Veyning aytishicha, o'zgarish taxminan olti oy davom etdi. Ushbu maqola juda muhim va qiziqarli. O'sha kechani eshitdim.
+
+Step 95/330
+>> Uzbek - English
+	Check out the brutal remarks and don't give JD the ribbon, Sarah. You know, I'm gonna die tomorrow. The change took about six months, according to Lu Wei. This article is very important and interesting. I heard that night.
+
+Step 96/330
+>> English - Arabic
+	تحقق من التصريحات الوحشية ولا تعطي دينارا الشريط ، سارة. أنت تعرف ، أنا سأموت غدا. استغرق التغيير حوالي ستة أشهر ، حسب لو وي. هذا المقال مهم جدا ومثير للاهتمام. سمعت تلك الليلة.
+
+Step 97/330
+>> Arabic - French
+	Vérifiez les déclarations brutales et ne donnez pas la bande dt, Sara. Tu sais, je mourrai demain. Le changement a pris environ six mois, selon Lu Wei. Cet article est très important et intéressant. J'ai entendu cette nuit.
+
+Step 98/330
+>> French - Spanish
+	Comprueba las brutales declaraciones y no le des la cinta dt, Sara. Sabes, moriré mañana. El cambio tomó alrededor de seis meses, según Lu Wei. Este artículo es muy importante e interesante. Escuché esa noche.
+
+Step 99/330
+>> Spanish - Romanian
+	Verificați declarațiile brutale și nu dați caseta dt, Sara. Știi, voi muri mâine. Schimbarea a durat aproximativ șase luni, potrivit lui Lu Wei. Acest articol este foarte important și interesant. Am auzit în noaptea aceea.
+
+Step 100/330
+>> Romanian - Filipino
+	Suriin ang mga brutal na pahayag at huwag ibigay ang kahon dt, Sara. Alam mo, mamamatay ako bukas. Ang pagbabago ay tumagal ng mga anim na buwan, ayon kay Lu Wei. Napakahalaga at kawili-wiling artikulong ito. Narinig ko nang gabing iyon.
+
+Step 101/330
+>> Filipino - Zulu
+	Bheka izitatimende ezinesihluku futhi unganikeli ibhokisi le-dt, uSara. Uyazi, ngizokufa kusasa. Lolu shintsho lwathatha izinyanga eziyisithupha, ngokusho kukaLu Wei. Le ndatshana ibaluleke kakhulu futhi iyathakazelisa. Ngezwa ngalobo busuku.
+
+Step 102/330
+>> Zulu - Arabic
+	إلقاء نظرة على البيانات الوحشية ولا تعطي مربعًا ، يا سارة. أنت تعرف ، سأموت غدا. استغرق التغيير ستة أشهر ، وفقا لو لو. هذا المقال مهم جدا ومثير للاهتمام. سمعت تلك الليلة.
+
+Step 103/330
+>> Arabic - Indonesian
+	Lihatlah data brutal dan jangan berikan kotak, Sarah. Anda tahu, saya akan mati besok. Perubahan itu memakan waktu enam bulan, menurut Lu Lu. Artikel ini sangat penting dan menarik. Saya mendengar malam itu.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Nhìn vào dữ liệu tàn bạo và đừng đưa ra cái hộp, Sarah. Bạn biết đấy, tôi sẽ chết vào ngày mai. Sự thay đổi mất sáu tháng, theo Lu Lu. Bài viết này rất quan trọng và thú vị. Tôi nghe thấy đêm đó.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Mira los datos brutales y no muestres la caja, Sarah. Sabes, moriré mañana. El cambio tomó seis meses, según Lu Lu. Este artículo es muy importante e interesante. Escuché esa noche.
+
+Step 106/330
+>> Spanish - Arabic
+	إلقاء نظرة على البيانات الوحشية ولا تظهر المربع ، سارة. أنت تعرف ، سوف أموت غدا. استغرق التغيير ستة أشهر ، وفقا لو لو. هذا المقال مهم جدا ومثير للاهتمام. سمعت تلك الليلة.
+
+Step 107/330
+>> Arabic - Spanish
+	Mira los datos brutales y no muestres la caja, Sarah. Sabes, moriré mañana. El cambio tomó seis meses, según Lu Lu. Este artículo es muy importante e interesante. Escuché esa noche.
+
+Step 108/330
+>> Spanish - Russian
+	Посмотри на зверские данные и не показывай коробку, Сара. Знаешь, я умру завтра. По словам Лу Лу, изменение заняло шесть месяцев. Эта статья очень важна и интересна. Я слышал эту ночь.
+
+Step 109/330
+>> Russian - Arabic
+	انظر إلى البيانات الوحشية ولا تعرض المربع ، سارة. أنت تعرف ، سأموت غدا. وفقا لو لو ، استغرق التغيير ستة أشهر. هذا المقال مهم جدا ومثير للاهتمام. سمعت هذه الليلة.
+
+Step 110/330
+>> Arabic - Spanish
+	Mira los datos brutales y no muestres la caja, Sarah. Sabes, moriré mañana. Según Lu Lu, el cambio tomó seis meses. Este artículo es muy importante e interesante. Lo escuché esta noche.
+
+Step 111/330
+>> Spanish - Portuguese
+	Veja os dados brutais e não mostre a caixa, Sarah. Você sabe, eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Este artigo é muito importante e interessante. Eu ouvi essa noite.
+
+Step 112/330
+>> Portuguese - English
+	Look at the brutal data and don't show the box, Sarah. You know, I'm going to die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard tonight.
+
+Step 113/330
+>> English - Spanish
+	Mira los datos brutales y no muestres la caja, Sarah. Sabes, me voy a morir mañana. Según Lu Lu, el cambio tomó seis meses. Este artículo es muy importante e interesante. Escuché esta noche
+
+Step 114/330
+>> Spanish - English
+	Look at the brutal data and don't show the box, Sarah. You know, I'm going to die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard tonight
+
+Step 115/330
+>> English - Hindi
+	क्रूर डेटा को देखें और बॉक्स को न दिखाएं, सारा। तुम्हें पता है, मैं कल मरने वाला हूं। लु लू के अनुसार, परिवर्तन में छह महीने लगे। यह लेख बहुत महत्वपूर्ण और दिलचस्प है। मैंने आज रात को सुना
+
+Step 116/330
+>> Hindi - Portuguese
+	Olhe para os dados brutais e não mostre a caixa, Sara. Você sabe, eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Este artigo é muito importante e interessante. Eu ouvi esta noite
+
+Step 117/330
+>> Portuguese - Spanish
+	Mira los datos brutales y no muestres la caja, Sara. Sabes, me voy a morir mañana. Según Lu Lu, el cambio tomó seis meses. Este artículo es muy importante e interesante. Escuché esta noche
+
+Step 118/330
+>> Spanish - English
+	Look at the brutal data and don't show the box, Sara. You know, I'm going to die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard tonight
+
+Step 119/330
+>> English - Bengali
+	নৃশংস ডেটা দেখুন এবং বাক্সটি প্রদর্শন করবেন না, সারা। আপনি জানেন, আমি আগামীকাল মরতে যাচ্ছি। লু লু অনুসারে, এই পরিবর্তনটি ছয় মাস লেগেছিল। এই নিবন্ধটি খুব গুরুত্বপূর্ণ এবং আকর্ষণীয়। আজ রাতে শুনলাম
+
+Step 120/330
+>> Bengali - French
+	Regardez les données brutales et ne pas afficher la boîte, Sara. Tu sais, je vais mourir demain. Selon Lu Lu, le changement a pris six mois. Cet article est très important et intéressant. J'ai entendu ce soir
+
+Step 121/330
+>> French - lao
+	ເບິ່ງຂໍ້ມູນທີ່ໂຫດຮ້າຍແລະບໍ່ສະແດງກ່ອງ, Sara. ເຈົ້າຮູ້ບໍ່, ຂ້ອຍຈະຕາຍໃນມື້ອື່ນ. ອີງຕາມການ Lu Lu, ການປ່ຽນແປງໄດ້ໃຊ້ເວລາຫົກເດືອນ. ບົດຂຽນນີ້ມີຄວາມ ສຳ ຄັນແລະ ໜ້າ ສົນໃຈຫຼາຍ. ຂ້ອຍໄດ້ຍິນໃນຄືນນີ້
+
+Step 122/330
+>> lao - English
+	Viewing vicious information and not showing the box, Sara. You know, I'll die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard it tonight
+
+Step 123/330
+>> English - Portuguese
+	Visualizando informações cruéis e não mostrando a caixa, Sara. Você sabe, eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Este artigo é muito importante e interessante. Eu ouvi essa noite
+
+Step 124/330
+>> Portuguese - English
+	Viewing cruel information and not showing the box, Sara. You know, I'm going to die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard tonight
+
+Step 125/330
+>> English - Portuguese
+	Vendo informações cruéis e não mostrando a caixa, Sara. Você sabe, eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Este artigo é muito importante e interessante. Ouvi esta noite
+
+Step 126/330
+>> Portuguese - English
+	Seeing cruel information and not showing the box, Sara. You know, I'm going to die tomorrow. According to Lu Lu, the change took six months. This article is very important and interesting. I heard tonight
+
+Step 127/330
+>> English - Portuguese
+	Vendo informações cruéis e não mostrando a caixa, Sara. Você sabe, eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Este artigo é muito importante e interessante. Ouvi esta noite
+
+Step 128/330
+>> Portuguese - Burmese
+	ရက်စက်ကြမ်းကြုတ်သတင်းအချက်အလက်ကိုမြင်လျှင်နှင့် box ကိုက Sara ဖေါ်ပြခြင်းမဟုတ်။ သင်သိငါမနက်ဖြန်သေဆုံးသွားတယ်။ Lu Lu အဆိုအရအပြောင်းအလဲကိုခြောက်လယူခဲ့ပါတယ်။ ဤဆောင်းပါးသည်အလွန်အရေးကြီးပါသည်နှင့်စိတ်ဝင်စားဖွယ်ဖြစ်ပါတယ်။ ငါဒီညကိုကြား
+
+Step 129/330
+>> Burmese - Nepali
+	क्रूर जानकारी देखेर र बक्स देखाउन छैन सारा। तपाईं म भोलि मृत्यु थाहा छ। लु लु अनुसार परिवर्तन, छ महिना लाग्यो। यो धेरै महत्त्वपूर्ण र रोचक लेख छ। म आज राती सुने
+
+Step 130/330
+>> Nepali - Urdu
+	سارہ ظالمانہ معلومات نہیں دیکھ رہی اور باکس دکھا رہی ہے۔ تم جانتے ہو میں کل مرجاؤں گا۔ لو لو کے مطابق ، اس تبدیلی کو چھ ماہ ہوئے۔ یہ ایک بہت ہی اہم اور دلچسپ مضمون ہے۔ آج کی رات میں نے اسے سنا ہے۔
+
+Step 131/330
+>> Urdu - French
+	Sarah ne cherche pas d'informations cruelles et ne montre pas la boîte. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris six mois. C'est un article très important et intéressant. Je l'ai entendu ce soir.
+
+Step 132/330
+>> French - English
+	Sarah does not look for cruel information and does not show the box. You know I'm going to die tomorrow. According to Lu Lu, the change took six months. This is a very important and interesting article. I heard it tonight.
+
+Step 133/330
+>> English - Swahili
+	Sara haangalii habari ya ukatili na haonyeshi sanduku. Unajua nitakufa kesho. Kulingana na Lu Lu, mabadiliko hayo yalichukua miezi sita. Hii ni makala muhimu na ya kuvutia. Nimesikia usiku wa kuamkia leo.
+
+Step 134/330
+>> Swahili - Arabic
+	سارة لا تولي اهتماما لأخبار العنف ولا تظهر العلبة. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير ستة أشهر. هذا هو مقال مهم ومثير للاهتمام. سمعت الليلة الماضية الليلة.
+
+Step 135/330
+>> Arabic - Shona
+	Sara haana hanya nenhau dzemhirizhonga uye haaratidzi anogona. Iwe unoziva ndichafa mangwana. Sekureva kwaLu Lu, shanduko iyi yakatora mwedzi mitanhatu. Ichi chinyorwa chakakosha uye chinonakidza. Ndazvinzwa nezuro husiku.
+
+Step 136/330
+>> Shona - Hausa
+	Sara ba ta damu da tashin hankali ba kuma ba ta iyawa. Kun san zan mutu gobe. A cewar Lu Lu, wannan canjin ya ɗauki watanni shida. Wannan labarin yana da mahimmanci kuma mai ban sha'awa. Na ji shi daren jiya.
+
+Step 137/330
+>> Hausa - Swahili
+	Sara hakufadhaishwa na jeuri wala yeye hakuweza. Unajua nitakufa kesho. Kulingana na Lu Lu, mabadiliko haya yalichukua miezi sita. Nakala hii ni muhimu na ya kuvutia. Nilisikia jana usiku.
+
+Step 138/330
+>> Swahili - English
+	Sarah was not disturbed by the violence nor was she able to. You know I'll die tomorrow. According to Lu Lu, this change took six months. This text is important and interesting. I heard it last night.
+
+Step 139/330
+>> English - Arabic
+	لم تكن سارة منزعجة من العنف ولم تكن قادرة على ذلك. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق هذا التغيير ستة أشهر. هذا النص مهم ومثير للاهتمام. سمعت ذلك الليلة الماضية.
+
+Step 140/330
+>> Arabic - Malagasy
+	Tsy nanelingelina ny herisetra i Sarah ary tsy nahavita izany. Fantatrao fa ho faty aho rahampitso. Raha ny filazan'i Lu Lu dia naharitra enim-bolana ity fanovana ity. Zava-dehibe sy mahaliana ity lahatsoratra ity. Reko omaly.
+
+Step 141/330
+>> Malagasy - Swahili
+	Sara hakuingilia vurugu na akashindwa kufanya hivyo. Unajua nitakufa kesho. Kulingana na Lu Lu mabadiliko haya yalichukua karibu miezi sita. Nakala hii ni muhimu na ya kuvutia. Nilisikia jana.
+
+Step 142/330
+>> Swahili - French
+	Sara ne s'est pas interposée et a échoué. Tu sais que je vais mourir demain. Selon Lu Lu, ce changement a pris environ six mois. Ce texte est important et intéressant. Je l'ai entendu hier.
+
+Step 143/330
+>> French - Arabic
+	لم تتدخل سارة وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق هذا التغيير حوالي ستة أشهر. هذا النص مهم ومثير للاهتمام. سمعت ذلك بالأمس.
+
+Step 144/330
+>> Arabic - French
+	Sarah ne s'est pas interposée et a échoué. Tu sais que je vais mourir demain. Selon Lu Lu, ce changement a pris environ six mois. Ce texte est important et intéressant. J'ai entendu ça hier.
+
+Step 145/330
+>> French - Arabic
+	لم تتدخل سارة وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق هذا التغيير حوالي ستة أشهر. هذا النص مهم ومثير للاهتمام. سمعت ذلك بالأمس.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Sara pa te entèfere ak echwe. Ou konnen mwen pral mouri demen. Dapre Lu Lu, chanjman sa a te pran apeprè sis mwa. Tèks sa a enpòtan e enteresan. Mwen tande ke yè.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	سارا مداخله ونه کړه او ناکامه شوه. تاسو پوهیږئ چې زه به سبا مړ شم. د لو لو په وینا ، دې بدلون شاوخوا شپږ میاشتې وخت نیولی. دا متن مهم او په زړه پوری دی. پرون مې واوریدل.
+
+Step 148/330
+>> Pashto - French
+	Sarah ne s'est pas interposée et a échoué. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris environ six mois. Ce texte est important et intéressant. Je l'ai entendu hier.
+
+Step 149/330
+>> French - Chichewa
+	Sara sanalowererepo ndipo alephera. Mukudziwa kuti mawa ndifa. Malinga ndi Lu Lu, kusinthaku kudatenga pafupifupi miyezi isanu ndi umodzi. Lembali ndilofunika komanso losangalatsa. Ndidamva dzulo.
+
+Step 150/330
+>> Chichewa - Arabic
+	لم تتدخل سارة وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير حوالي ستة أشهر. النص مهم ومثير للاهتمام. سمعت أمس.
+
+Step 151/330
+>> Arabic - Amharic
+	ሣራ ጣልቃ አልገባችም አልተሳካላትም ፡፡ ነገ እንደምሞት ታውቃለህ ፡፡ እንደ ሉ ሉ ገለፃ ለውጡ ስድስት ወር ያህል ፈጅቷል ፡፡ ጽሑፉ አስፈላጊ እና አስደሳች ነው ፡፡ ትናንት ሰማሁ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Sarah did not intervene and was unsuccessful. You know I will die tomorrow. According to Lou Lou, the change took about six months. The writing is important and interesting. I heard yesterday.
+
+Step 153/330
+>> English - French
+	Sarah n'est pas intervenue et n'a pas réussi. Tu sais que je mourrai demain. Selon Lou Lou, le changement a pris environ six mois. L'écriture est importante et intéressante. J'ai entendu hier.
+
+Step 154/330
+>> French - Swahili
+	Sara hakuingilia kati na hakufanikiwa. Unajua nitakufa kesho. Kulingana na Lou Lou, mabadiliko yalichukua karibu miezi sita. Uandishi ni muhimu na ya kuvutia. Nilisikia jana.
+
+Step 155/330
+>> Swahili - Portuguese
+	Sara não interveio e não teve sucesso. Você sabe que eu vou morrer amanhã. Segundo Lou Lou, a mudança levou cerca de seis meses. A escrita é importante e interessante. Eu ouvi ontem.
+
+Step 156/330
+>> Portuguese - Arabic
+	لم تتدخل سارة ولم تنجح. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير حوالي ستة أشهر. الكتابة مهمة ومثيرة للاهتمام. سمعت أمس.
+
+Step 157/330
+>> Arabic - Portuguese
+	Sarah não interferiu e não teve sucesso. Você sabe que eu vou morrer amanhã. Segundo Lu Lu, a mudança levou cerca de seis meses. Escrever é importante e interessante. Eu ouvi ontem.
+
+Step 158/330
+>> Portuguese - English
+	Sarah did not interfere and was unsuccessful. You know I'm going to die tomorrow. According to Lu Lu, the change took about six months. Writing is important and interesting. I heard yesterday.
+
+Step 159/330
+>> English - French
+	Sarah ne s'est pas interposée et a échoué. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris environ six mois. L'écriture est importante et intéressante. J'ai entendu hier.
+
+Step 160/330
+>> French - English
+	Sarah did not intervene and failed. You know I'm going to die tomorrow. According to Lu Lu, the change took about six months. Writing is important and interesting. I heard yesterday.
+
+Step 161/330
+>> English - Swahili
+	Sara hakuingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu Lu, mabadiliko yalichukua karibu miezi sita. Uandishi ni muhimu na ya kuvutia. Nilisikia jana.
+
+Step 162/330
+>> Swahili - Arabic
+	لم تتدخل سارة وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير حوالي ستة أشهر. الكتابة مهمة ومثيرة للاهتمام. سمعت ذلك بالأمس.
+
+Step 163/330
+>> Arabic - Arabic
+	Sarah did not interfere and failed. You know I'll die tomorrow. According to Lu Lu, the change took about six months. Writing is important and interesting. I heard that yesterday.
+
+Step 164/330
+>> Arabic - French
+	Sarah ne s'est pas interposée et a échoué. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris environ six mois. L'écriture est importante et intéressante. J'ai entendu ça hier.
+
+Step 165/330
+>> French - Hausa
+	Saratu bata shiga tsakani ba ta kasa. Ka san zan mutu gobe. A cewar Lu Lu, canjin ya ɗauki watanni shida. Rubutu yana da mahimmanci kuma mai ban sha'awa. Na ji hakan ne jiya.
+
+Step 166/330
+>> Hausa - French
+	Sarah intervient et échoue. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris six mois. Le texte est important et intéressant. J'ai entendu ça hier.
+
+Step 167/330
+>> French - Arabic
+	Sarah intervenes and fails. You know I'm going to die tomorrow. According to Lu Lu, the change took six months. The text is important and interesting. I heard that yesterday.
+
+Step 168/330
+>> Arabic - Arabic
+	تتدخل سارة وتفشل. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير ستة أشهر. النص مهم ومثير للاهتمام. سمعت ذلك بالأمس.
+
+Step 169/330
+>> Arabic - Swahili
+	Sarah anaingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu Lu, mabadiliko hayo yalichukua miezi sita. Maandishi ni muhimu na ya kuvutia. Nilisikia jana.
+
+Step 170/330
+>> Swahili - English
+	Sarah intervenes and fails. You know I'll die tomorrow. According to Lu Lu, the change took six months. The writing is important and interesting. I heard it yesterday.
+
+Step 171/330
+>> English - French
+	Sarah intervient et échoue. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris six mois. L'écriture est importante et intéressante. Je l'ai entendu hier.
+
+Step 172/330
+>> French - English
+	Sarah intervenes and fails. You know I'm going to die tomorrow. According to Lu Lu, the change took six months. Writing is important and interesting. I heard it yesterday.
+
+Step 173/330
+>> English - Portuguese
+	Sarah intervém e falha. Você sabe que eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Escrever é importante e interessante. Eu ouvi ontem.
+
+Step 174/330
+>> Portuguese - Arabic
+	تتدخل سارة وتفشل. أنت تعرف أنني سأموت غدا. وفقا لو لو ، استغرق التغيير ستة أشهر. الكتابة مهمة ومثيرة للاهتمام. سمعت أمس.
+
+Step 175/330
+>> Arabic - Portuguese
+	Sarah interfere e falha. Você sabe que eu vou morrer amanhã. Segundo Lu Lu, a mudança levou seis meses. Escrever é importante e interessante. Eu ouvi ontem.
+
+Step 176/330
+>> Portuguese - Swahili
+	Sarah anaingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu Lu, mabadiliko hayo yalichukua miezi sita. Uandishi ni muhimu na ya kuvutia. Nilisikia jana.
+
+Step 177/330
+>> Swahili - French
+	Sarah intervient et échoue. Tu sais que je vais mourir demain. Selon Lu Lu, le changement a pris six mois. L'écriture est importante et intéressante. Je l'ai entendu hier.
+
+Step 178/330
+>> French - English
+	Sarah intervenes and fails. You know I'm going to die tomorrow. According to Lu Lu, the change took six months. Writing is important and interesting. I heard it yesterday.
+
+Step 179/330
+>> English - Amharic
+	ሣራ ጣልቃ ገባች እና አልተሳካም ፡፡ ነገ እንደምሞት ታውቃለህ ፡፡ እንደ ሉ ሉ ገለፃ ለውጡ ስድስት ወር ፈጅቷል ፡፡ መጻፍ አስፈላጊ እና አስደሳች ነው ፡፡ ትናንት ሰማሁ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	سارة تدخلت وفشلت. أنت تعرف أنني سوف أموت غدا. وفقا لو ، استغرق التغيير ستة أشهر. الكتابة مهمة وممتعة. سمعت أمس.
+
+Step 181/330
+>> Arabic - Chichewa
+	Sara analowa mkati ndipo adalephera. Mukudziwa kuti ndifa mawa. Malinga ndi Lu, kusinthaku kudatenga miyezi isanu ndi umodzi. Kulemba ndikofunikira komanso kosangalatsa. Ndamva dzulo.
+
+Step 182/330
+>> Chichewa - French
+	Sara est intervenue et a échoué. Tu sais que je vais mourir demain. Selon Lu, le changement a pris six mois. L'écriture est importante et amusante. J'ai entendu hier.
+
+Step 183/330
+>> French - Pashto
+	سارا مداخله وکړه او ناکام شو. تاسو پوهیږئ چې زه به سبا مړ شم. د لو په وینا ، بدلون شپږ میاشتې وخت نیولی. لیکنه مهمه او ساتیري ده. ما پرون واورید
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Sara te entèveni e te echwe. Ou konnen mwen pral mouri demen. Dapre Lou, chanjman an te pran sis mwa. Ekri enpòtan e san danje. Mwen tande li yè
+
+Step 185/330
+>> Haitian Creole - Arabic
+	سارة تدخلت وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو ، استغرق التغيير ستة أشهر. الكتابة مهمة وآمنة. سمعت ذلك بالأمس
+
+Step 186/330
+>> Arabic - French
+	Sarah est intervenue et a échoué. Tu sais que je vais mourir demain. Selon Lu, le changement a pris six mois. L'écriture est importante et sûre. J'ai entendu ça hier
+
+Step 187/330
+>> French - Arabic
+	سارة تدخلت وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو ، استغرق التغيير ستة أشهر. الكتابة مهمة وآمنة. سمعت ذلك بالأمس
+
+Step 188/330
+>> Arabic - French
+	Sarah est intervenue et a échoué. Tu sais que je vais mourir demain. Selon Lu, le changement a pris six mois. L'écriture est importante et sûre. J'ai entendu ça hier
+
+Step 189/330
+>> French - Swahili
+	Sara aliingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu, mabadiliko hayo yalichukua miezi sita. Kuandika ni muhimu na salama. Nilisikia jana
+
+Step 190/330
+>> Swahili - Malagasy
+	Niditra an-tsehatra ary tsy nahomby i Sara. Fantatrao fa ho faty aho rahampitso. Raha ny filazan'i Lu dia naharitra enim-bolana ilay fanovana. Ny fanoratana dia zava-dehibe sy azo antoka. Reko omaly
+
+Step 191/330
+>> Malagasy - Arabic
+	تدخلت سارة وفشلت. أنت تعرف أنني سأموت غدا. وفقا لو ، استغرق التغيير ستة أشهر. الكتابة مهمة وآمنة. سمعت أمس
+
+Step 192/330
+>> Arabic - English
+	Sarah intervened and failed. You know I'll die tomorrow. According to Lu, the change took six months. Writing is important and safe. I heard yesterday
+
+Step 193/330
+>> English - Swahili
+	Sara aliingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu, mabadiliko hayo yalichukua miezi sita. Kuandika ni muhimu na salama. Nilisikia jana
+
+Step 194/330
+>> Swahili - Hausa
+	Sara ta shiga tsakani kuma ta kasa. Kun san zan mutu gobe. A cewar Lu, canjin ya ɗauki watanni shida. Rubutu yana da mahimmanci kuma mai lafiya. Na ji shi jiya
+
+Step 195/330
+>> Hausa - Shona
+	Sara anopindira uye anotadza. Iwe unoziva ndichafa mangwana. Sekureva kwaLu, shanduko iyi yakatora mwedzi mitanhatu. Kunyora kwakakosha uye kwakachengeteka. Ndazvinzwa nezuro
+
+Step 196/330
+>> Shona - Arabic
+	تتدخل سارة وتفشل. أنت تعرف أنني سأموت غدا. وفقا لو ، استغرق هذا التغيير ستة أشهر. الكتابة مهمة وآمنة. شعرت بالأمس
+
+Step 197/330
+>> Arabic - Swahili
+	Sarah anaingilia kati na akashindwa. Unajua nitakufa kesho. Kulingana na Lu, mabadiliko haya yalichukua miezi sita. Kuandika ni muhimu na salama. Nilihisi jana
+
+Step 198/330
+>> Swahili - English
+	Sarah intervenes and fails. You know I'll die tomorrow. According to Lu, this change took six months. Writing is important and safe. I felt yesterday
+
+Step 199/330
+>> English - French
+	Sarah intervient et échoue. Tu sais que je vais mourir demain. Selon Lu, ce changement a pris six mois. L'écriture est importante et sûre. J'ai ressenti hier
+
+Step 200/330
+>> French - Urdu
+	سارہ مداخلت کرتی ہے اور ناکام ہو جاتی ہے۔ تم جانتے ہو کہ میں کل مرنے والا ہوں۔ لو کے مطابق ، اس تبدیلی کو چھ ماہ ہوئے۔ تحریری اہم اور محفوظ ہے۔ مجھے کل محسوس ہوا۔
+
+Step 201/330
+>> Urdu - Nepali
+	सारा हस्तक्षेप गर्दछ र असफल। तिमीलाई थाहा छ म भोली मर्दैछु। लुका अनुसार परिवर्तनले six महिना लिए। लेखन महत्त्वपूर्ण र सुरक्षित छ। मैले हिजो महसुस गरें।
+
+Step 202/330
+>> Nepali - Burmese
+	အားလုံးဝင်ရောက်စွက်ဖက်ရေးနှင့်မအောင်မြင်ပါ။ သငျသညျငါမနက်ဖြန်သေဆုံးတယ်, ငါသိ၏။ ခြောက်လအဘို့, Lucas ပြောင်းလဲမှုအရသိရသည်။ အရေးအသားအရေးကြီးသောနှင့်ဘေးကင်းလုံခြုံတစ်ဦးဖြစ်ပါတယ်။ မနေ့ကငါခံစားရတယ်။
+
+Step 203/330
+>> Burmese - Portuguese
+	Todas as intervenções e falhou. Eu morresse amanhã, eu sei disso. Durante seis meses, de acordo com a mudança, Lucas. A escrita é um importante e segura. Eu me senti ontem.
+
+Step 204/330
+>> Portuguese - English
+	All interventions and failed. If I died tomorrow, I know that. For six months, according to the change, Lucas. Writing is an important and safe. I felt yesterday.
+
+Step 205/330
+>> English - Portuguese
+	Todas as intervenções falharam. Se eu morresse amanhã, eu sei disso. Por seis meses, de acordo com a mudança, Lucas. Escrever é um documento importante e seguro. Eu senti ontem.
+
+Step 206/330
+>> Portuguese - English
+	All interventions failed. If I died tomorrow, I know that. For six months, according to the change, Lucas. Writing is an important and safe document. I felt yesterday.
+
+Step 207/330
+>> English - Portuguese
+	Todas as intervenções falharam. Se eu morresse amanhã, eu sei disso. Por seis meses, de acordo com a mudança, Lucas. Escrever é um documento importante e seguro. Eu senti ontem.
+
+Step 208/330
+>> Portuguese - English
+	All interventions failed. If I died tomorrow, I know that. For six months, according to the change, Lucas. Writing is an important and safe document. I felt yesterday.
+
+Step 209/330
+>> English - lao
+	ການແຊກແຊງທັງ ໝົດ ລົ້ມເຫລວ. ຖ້າຂ້ອຍເສຍຊີວິດໃນມື້ອື່ນ, ຂ້ອຍຮູ້ເລື່ອງນັ້ນ. ເປັນເວລາຫົກເດືອນ, ອີງຕາມການປ່ຽນແປງ, Lucas. ການຂຽນແມ່ນເອກະສານທີ່ ສຳ ຄັນແລະປອດໄພ. ຂ້ອຍຮູ້ສຶກມື້ວານນີ້.
+
+Step 210/330
+>> lao - French
+	Toutes les interventions ont échoué. Si je meurs demain, je le sais. Six mois, selon le changement, Lucas. L'écriture est un document important et sûr. Je me suis senti hier.
+
+Step 211/330
+>> French - Bengali
+	সমস্ত হস্তক্ষেপ ব্যর্থ হয়েছে। কাল যদি আমি মারা যাই, আমি জানি। ছয় মাস, পরিবর্তনের উপর নির্ভর করে, লুকাস। লেখা একটি গুরুত্বপূর্ণ এবং নিরাপদ নথি। আমি গতকাল অনুভূত।
+
+Step 212/330
+>> Bengali - English
+	All interventions failed. If I die tomorrow, I know. Six months, depending on the change, Lucas. Writing is an important and safe document. I felt yesterday.
+
+Step 213/330
+>> English - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo del cambio, Lucas. Escribir es un documento importante y seguro. Me sentí ayer.
+
+Step 214/330
+>> Spanish - Portuguese
+	Todas as intervenções falharam. Se eu morrer amanhã, eu sei. Seis meses, dependendo da mudança, Lucas. Escrever é um documento importante e seguro. Eu senti ontem.
+
+Step 215/330
+>> Portuguese - Hindi
+	सभी हस्तक्षेप विफल रहे। अगर मैं कल मर जाऊं, मुझे पता है। छह महीने, परिवर्तन के आधार पर, लुकास। लेखन एक महत्वपूर्ण और सुरक्षित दस्तावेज है। मुझे कल लगा।
+
+Step 216/330
+>> Hindi - English
+	All interventions failed. If I die tomorrow, I know. Six months, depending on the change, Lucas. Writing is an important and secure document. I thought yesterday.
+
+Step 217/330
+>> English - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo del cambio, Lucas. La escritura es un documento importante y seguro. Pensé ayer.
+
+Step 218/330
+>> Spanish - English
+	All interventions failed. If I die tomorrow, I know. Six months, depending on the change, Lucas. Writing is an important and safe document. I thought yesterday.
+
+Step 219/330
+>> English - Portuguese
+	Todas as intervenções falharam. Se eu morrer amanhã, eu sei. Seis meses, dependendo da mudança, Lucas. Escrever é um documento importante e seguro. Eu pensei ontem.
+
+Step 220/330
+>> Portuguese - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo del cambio, Lucas. Escribir es un documento importante y seguro. Pensé ayer.
+
+Step 221/330
+>> Spanish - Arabic
+	كل التدخلات فشلت. إذا أموت غدا ، وأنا أعلم. ستة أشهر ، اعتمادا على التغيير ، لوكاس. الكتابة هي وثيقة مهمة وآمنة. فكرت بالأمس.
+
+Step 222/330
+>> Arabic - Russian
+	Все вмешательства провалились. Если я умру завтра, я знаю. Шесть месяцев, в зависимости от смены, Лукас. Письмо является важным и безопасным документом. Я думал вчера.
+
+Step 223/330
+>> Russian - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo del turno, Lucas. La escritura es un documento importante y seguro. Pensé ayer.
+
+Step 224/330
+>> Spanish - Arabic
+	كل التدخلات فشلت. إذا أموت غدا ، وأنا أعلم. ستة أشهر ، اعتمادا على بدوره ، لوكاس. الكتابة هي وثيقة مهمة وآمنة. فكرت بالأمس.
+
+Step 225/330
+>> Arabic - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo del turno, Lucas. Escribir es un documento importante y seguro. Pensé ayer.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Mọi sự can thiệp đều thất bại. Nếu tôi chết vào ngày mai, tôi biết. Sáu tháng, tùy theo lượt, Lucas. Viết là một tài liệu quan trọng và an toàn. Tôi nghĩ hôm qua.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Semua intervensi gagal. Jika saya mati besok, saya tahu. Enam bulan, tergantung pada giliran, Lucas. Menulis adalah dokumen yang penting dan aman. Saya pikir kemarin.
+
+Step 228/330
+>> Indonesian - Arabic
+	كل التدخلات فشلت. إذا أموت غدا ، وأنا أعلم. ستة أشهر ، اعتمادا على بدوره ، لوكاس. الكتابة هي وثيقة مهمة وآمنة. فكرت بالأمس.
+
+Step 229/330
+>> Arabic - Zulu
+	Konke ukungenelela kwehlulekile. Uma ngifa kusasa, ngiyazi. Izinyanga eziyisithupha, kuya ngokujika, uLucas. Ukubhala kungumbhalo obalulekile futhi ophephile. Ngicabange izolo.
+
+Step 230/330
+>> Zulu - Filipino
+	Nabigo ang lahat ng interbensyon. Kung mamamatay ako bukas, alam ko. Anim na buwan, depende sa pagliko, si Lucas. Ang pagsulat ay isang mahalagang at ligtas na teksto. Naisip ko kahapon.
+
+Step 231/330
+>> Filipino - Romanian
+	Toate intervențiile au eșuat. Dacă mor mâine, știu. Șase luni, în funcție de rând, Luke. Scrierea este un text important și sigur. Am crezut ieri.
+
+Step 232/330
+>> Romanian - Spanish
+	Todas las intervenciones fallaron. Si muero mañana, lo sé. Seis meses, dependiendo de la línea, Luke. Escribir es un texto importante y seguro. Pensé ayer.
+
+Step 233/330
+>> Spanish - French
+	Toutes les interventions ont échoué. Si je meurs demain, je sais. Six mois, selon la ligne, Luke. L'écriture est un texte important et sûr. J'ai pensé hier.
+
+Step 234/330
+>> French - Arabic
+	كل التدخلات فشلت. إذا أموت غدا ، وأنا أعلم. ستة أشهر ، وفقا للسطر ، لوقا. الكتابة هي نص مهم وآمن. فكرت بالأمس.
+
+Step 235/330
+>> Arabic - English
+	All interventions failed. If I die tomorrow, I know. Six months, according to the line, Luke. Writing is important and safe text. I thought yesterday.
+
+Step 236/330
+>> English - Uzbek
+	Barcha aralashuvlar muvaffaqiyatsiz tugadi. Agar ertaga o'lsam, bilaman. Olti oy, chiziq bo'yicha, Luqo. Yozish muhim va xavfsiz matndir. Kecha o'yladim.
+
+Step 237/330
+>> Uzbek - Samoan
+	Faʻasalaga uma. Afai ou te oti taeao, ou te iloa. E ono masina i le laina, Luka. Tusitusi o se mea taua ma saogalemu. Na ou manatu ananafi.
+
+Step 238/330
+>> Samoan - English
+	All of it is off. If I die tomorrow, I know. Six months in a row, Luke. Writing is an important and safe thing. I thought yesterday.
+
+Step 239/330
+>> English - Dutch
+	Alles is uitgeschakeld. Als ik morgen sterf, weet ik het. Zes maanden op rij, Luke. Schrijven is belangrijk en veilig. Dacht ik gisteren.
+
+Step 240/330
+>> Dutch - English
+	Everything is disabled. If I die tomorrow, I know. Six months in a row, Luke. Writing is important and safe. I thought yesterday.
+
+Step 241/330
+>> English - Kurdish
+	Her tişt seqet e. Ger ez sibê bimirim, ez dizanim. Ixeş meh bi hevûdu, Luke. Nivîsandin girîng û ewleh e. Ez duh difikirîm.
+
+Step 242/330
+>> Kurdish - Arabic
+	كل شيء معطل. إذا أموت غدا ، وأنا أعلم. ستة أشهر مع بعضهم البعض ، لوك. الكتابة مهمة وآمنة. كنت أفكر بالأمس.
+
+Step 243/330
+>> Arabic - Spanish
+	Todo está deshabilitado. Si muero mañana, lo sé. Seis meses juntos, Locke. Escribir es importante y seguro. Estaba pensando ayer.
+
+Step 244/330
+>> Spanish - Mongolian
+	Бүх зүйл идэвхгүй болсон. Хэрвээ би маргааш үхвэл би мэдэж байна. Зургаан сар хамт байна, Локк. Бичих нь чухал бөгөөд аюулгүй юм. Би өчигдөр бодож байлаа.
+
+Step 245/330
+>> Mongolian - English
+	Everything is inactive. If I die tomorrow, I know. Six months together, Lok. Writing is important and safe. I was thinking yesterday.
+
+Step 246/330
+>> English - Spanish
+	Todo esta inactivo. Si muero mañana, lo sé. Seis meses juntos, Lok. Escribir es importante y seguro. Estaba pensando ayer.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Все неактивно. Якщо я помру завтра, я знаю. Півроку разом, Лок. Писати важливо і безпечно. Я вчора думав.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Todo esta inactivo. Si muero mañana, lo sé. Seis meses juntos, Locke. Escribir es importante y seguro. Estaba pensando ayer.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	一切都不活跃。如果我明天去世，我知道。洛克六个月在一起。写作很重要，也很安全。我昨天在想。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	كل شيء غير نشط. إذا أموت غدا ، وأنا أعلم. لوك معًا لمدة ستة أشهر. الكتابة مهمة وآمنة. كنت أفكر بالأمس.
+
+Step 251/330
+>> Arabic - Thai
+	ทุกอย่างไม่ทำงาน ถ้าฉันตายพรุ่งนี้ฉันรู้ ล็อคเข้าด้วยกันเป็นเวลาหกเดือน การเขียนมีความสำคัญและปลอดภัย ฉันคิดเมื่อวานนี้
+
+Step 252/330
+>> Thai - Armenian
+	Ամեն ինչ չի ստացվում Եթե ես վաղը մեռնեմ, ես գիտեմ Միասին կողպված էին վեց ամիս Գրելը կարևոր է և անվտանգ: Կարծում եմ ՝ երեկ
+
+Step 253/330
+>> Armenian - Macedonian
+	Не се работи сè, ако умрам утре, знам дека тие се заклучени заедно шест месеци Пишувањето е важно и безбедно. Мислам вчера
+
+Step 254/330
+>> Macedonian - Arabic
+	لا يعمل كل شيء ، إذا أموت غدًا ، فأنا أعلم أنهم مقفلون لمدة ستة أشهر. الكتابة مهمة وآمنة. أقصد أمس
+
+Step 255/330
+>> Arabic - Portuguese
+	Nem tudo funciona. Se eu morrer amanhã, sei que estão trancados por seis meses. Escrever é importante e seguro. Eu quero dizer ontem
+
+Step 256/330
+>> Portuguese - Spanish
+	No todo funciona. Si muero mañana, sé que están encerrados durante seis meses. Escribir es importante y seguro. Quiero decir ayer
+
+Step 257/330
+>> Spanish - Bosnian
+	Ne radi sve. Ako sutra umrem, znam da su zatvoreni šest mjeseci. Pisanje je važno i sigurno. Mislim jučer
+
+Step 258/330
+>> Bosnian - Sinhala
+	එය සෑම දෙයක්ම නොකරයි. මම හෙට මැරුණොත්, මම දන්නවා ඔවුන් මාස හයක් සිරගත කර ඇති බව. ලිවීම වැදගත් සහ ආරක්ෂිතයි. මම හිතන්නේ ඊයේ
+
+Step 259/330
+>> Sinhala - English
+	It doesn't do everything. If I die tomorrow, I know they've been jailed for six months. Writing is important and safe. I think it was yesterday
+
+Step 260/330
+>> English - Spanish
+	No hace todo. Si muero mañana, sé que llevan seis meses encarcelados. Escribir es importante y seguro. Creo que fue ayer
+
+Step 261/330
+>> Spanish - English
+	It does not do everything. If I die tomorrow, I know they have been imprisoned for six months. Writing is important and safe. I think it was yesterday
+
+Step 262/330
+>> English - Georgian
+	ყველაფერს არ აკეთებს. ხვალ რომ მოვკვდე, ვიცი, რომ ისინი ექვსი თვის განმავლობაში არიან ციხეში. წერა მნიშვნელოვანი და უსაფრთხოა. მგონი, გუშინ იყო
+
+Step 263/330
+>> Georgian - English
+	Not everything. When I die tomorrow, I know they are in prison for six months. Writing is important and safe. I think it was yesterday
+
+Step 264/330
+>> English - Albanian
+	Jo gjithcka. Kur vdes nesër, e di se ata janë në burg për gjashtë muaj. Shkrimi është i rëndësishëm dhe i sigurt. Unë mendoj se ishte dje
+
+Step 265/330
+>> Albanian - Serbian
+	Није све. Кад сутра умрем, знам да су у затвору шест месеци. Писање је важно и сигурно. Мислим да је било јуче
+
+Step 266/330
+>> Serbian - Spanish
+	No todo Cuando muera mañana, sé que llevan seis meses en prisión. Escribir es importante y seguro. Creo que fue ayer
+
+Step 267/330
+>> Spanish - English
+	Not all When I die tomorrow, I know they have been in prison for six months. Writing is important and safe. I think it was yesterday
+
+Step 268/330
+>> English - Turkish
+	Hepsi değil Yarın öldüğümde, altı aydır hapiste kaldıklarını biliyorum. Yazma önemli ve güvenlidir. Sanırım dündü
+
+Step 269/330
+>> Turkish - Spanish
+	Sé que llevan seis meses en prisión cuando muera mañana. Escribir es importante y seguro. Creo que fue ayer
+
+Step 270/330
+>> Spanish - French
+	Je sais qu'ils sont en prison depuis six mois quand je meurs demain. L'écriture est importante et sûre. Je pense que c'était hier
+
+Step 271/330
+>> French - English
+	I know they have been in prison for six months when I die tomorrow. Writing is important and safe. I think it was yesterday
+
+Step 272/330
+>> English - Persian
+	می دانم وقتی فردا می میرم شش ماه در زندان بوده اند. نوشتن مهم و ایمن است. فکر کنم دیروز بود
+
+Step 273/330
+>> Persian - Kazakh
+	Мен алты ай түрмеде отырмын, ертең қайтыс болғанда білемін. Жазу маңызды және қауіпсіз. Менің ойымша, бұл кеше болды
+
+Step 274/330
+>> Kazakh - English
+	I am in prison for six months, and I know when I die tomorrow. Writing is important and safe. I think it happened yesterday
+
+Step 275/330
+>> English - Malay
+	Saya dalam penjara selama enam bulan, dan saya tahu bila saya mati esok. Penulisan adalah penting dan selamat. Saya fikir ia berlaku semalam
+
+Step 276/330
+>> Malay - Arabic
+	لقد أمضيت ستة أشهر في السجن ، وأعرف متى أموت غدًا. الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 277/330
+>> Arabic - Spanish
+	Pasé seis meses en prisión y sé cuándo moriré mañana. Escribir es importante y seguro. Creo que esto paso ayer
+
+Step 278/330
+>> Spanish - English
+	I spent six months in prison and I know when I will die tomorrow. Writing is important and safe. I think this happened yesterday
+
+Step 279/330
+>> English - Russian
+	Я провел шесть месяцев в тюрьме, и я знаю, когда я умру завтра. Письмо важно и безопасно. Я думаю, что это произошло вчера
+
+Step 280/330
+>> Russian - Romanian
+	Am petrecut șase luni în închisoare și știu când voi muri mâine. Scrierea este importantă și sigură. Cred că s-a întâmplat ieri
+
+Step 281/330
+>> Romanian - Bulgarian
+	Прекарах шест месеца в затвора и знам кога ще умра утре. Писането е важно и безопасно. Мисля, че се случи вчера
+
+Step 282/330
+>> Bulgarian - Albanian
+	Kam kaluar gjashtë muaj në burg dhe e di kur vdes nesër. Shkrimi është i rëndësishëm dhe i sigurt. Unë mendoj se ka ndodhur dje
+
+Step 283/330
+>> Albanian - Russian
+	Я провел шесть месяцев в тюрьме и знаю, когда умру завтра. Письмо важно и безопасно. Я думаю, что это случилось вчера
+
+Step 284/330
+>> Russian - Arabic
+	أمضيت ستة أشهر في السجن وأعرف متى أموت غدًا. الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 285/330
+>> Arabic - Spanish
+	Pasé seis meses en prisión y sé cuándo moriré mañana. Escribir es importante y seguro. Creo que esto paso ayer
+
+Step 286/330
+>> Spanish - Croatian
+	U zatvoru sam proveo šest mjeseci i znam kada ću sutra umrijeti. Pisanje je važno i sigurno. Mislim da se to dogodilo jučer
+
+Step 287/330
+>> Croatian - Hungarian
+	Hat hónapot töltöttem börtönben, és tudom, holnap meghalok. Az írás fontos és biztonságos. Azt hiszem, tegnap történt
+
+Step 288/330
+>> Hungarian - Spanish
+	He pasado seis meses en la cárcel y sé que voy a morir mañana. Escribir es importante y seguro. Creo que sucedió ayer
+
+Step 289/330
+>> Spanish - Arabic
+	قضيت ستة أشهر في السجن وأنا أعلم أنني سأموت غداً. الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 290/330
+>> Arabic - Portuguese
+	Passei seis meses na prisão e sei que morrerei amanhã. Escrever é importante e seguro. Eu acho que isso aconteceu ontem
+
+Step 291/330
+>> Portuguese - Latvian
+	Es pavadīju sešus mēnešus cietumā, un es zinu, ka miršu rīt. Rakstīšana ir svarīga un droša. Es domāju, ka tas notika vakar
+
+Step 292/330
+>> Latvian - Arabic
+	قضيت ستة أشهر في السجن ، وأنا أعلم أنني سأموت غداً. الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 293/330
+>> Arabic - Malay
+	Saya menghabiskan enam bulan penjara, dan saya tahu saya akan mati esok. Penulisan adalah penting dan selamat. Saya fikir ini berlaku semalam
+
+Step 294/330
+>> Malay - Slovak
+	Strávil som šesť mesiacov vo väzení a vedel som, že zajtra zomriem. Písanie je dôležité a bezpečné. Myslím, že sa to stalo včera
+
+Step 295/330
+>> Slovak - Arabic
+	قضيت ستة أشهر في السجن وعلمت أنني سأموت غداً. الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 296/330
+>> Arabic - Lithuanian
+	Aš praleidau šešis mėnesius kalėjime ir žinojau, kad rytoj mirsiu. Rašymas yra svarbus ir saugus. Manau, kad tai atsitiko vakar
+
+Step 297/330
+>> Lithuanian - Catalan
+	Vaig passar sis mesos a la presó i sabia que moriria demà. Escriure és important i segur. Crec que va passar ahir
+
+Step 298/330
+>> Catalan - Arabic
+	قضيت ستة أشهر في السجن وعرفت أنني سأموت غدًا الكتابة مهمة وآمنة. أعتقد أن هذا قد حدث بالأمس
+
+Step 299/330
+>> Arabic - Polish
+	Spędziłem sześć miesięcy w więzieniu i wiedziałem, że jutro umrę, pisanie jest ważne i bezpieczne. Myślę, że stało się to wczoraj
+
+Step 300/330
+>> Polish - Turkish
+	Altı ay hapis yattım ve yarın öleceğimi biliyordum, yazı yazmak önemli ve güvenli. Sanırım dün oldu
+
+Step 301/330
+>> Turkish - Greek
+	Πέρασα έξι μήνες στη φυλακή, και ήξερα ότι θα πεθάνω αύριο, το γράψιμο είναι σημαντικό και ασφαλές. Νομίζω ότι συνέβη χθες
+
+Step 302/330
+>> Greek - Estonian
+	Veetsin kuus kuud vanglas ja teadsin, et suren homme, kirjutamine on oluline ja turvaline. Ma arvan, et see juhtus eile
+
+Step 303/330
+>> Estonian - Maltese
+	Qattajt sitt xhur il-ħabs u kont naf li se mmut għada, il-kitba kienet importanti u sikura. Naħseb li ġara lbieraħ
+
+Step 304/330
+>> Maltese - Italian
+	Trascorso sei mesi di carcere e sapevo che sarebbe morire domani, la scrittura era importante e sicuro. Credo che quello che è successo ieri
+
+Step 305/330
+>> Italian - Czech
+	Po šesti měsících vězení jsem věděl, že zítra zemře, psaní bylo důležité a bezpečné. Myslím, že to, co se stalo včera
+
+Step 306/330
+>> Czech - Spanish
+	Después de seis meses en prisión, sabía que moriría mañana, escribir era importante y seguro. Creo que paso ayer
+
+Step 307/330
+>> Spanish - Slovenian
+	Po pol leta zapora sem vedel, da bom umrl jutri, pisanje je bilo pomembno in varno. Mislim, da se je zgodilo včeraj
+
+Step 308/330
+>> Slovenian - French
+	Après un an et demi de prison, je savais que j'allais mourir demain, écrire était important et sans danger. Je pense que c'est arrivé hier
+
+Step 309/330
+>> French - Korean
+	1 년 반 동안 감옥에 갇힌 후, 나는 내일 죽을 것이라는 것을 알았습니다. 글은 중요하고 안전했습니다. 어제 일어난 것 같아
+
+Step 310/330
+>> Korean - Hebrew
+	אחרי שהייתי בכלא שנה וחצי, ידעתי שאמות מחר. המאמר היה חשוב ובטוח. אני חושב שזה קרה אתמול
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Nodeems ech annerhallef Joer am Prisong war, wousst ech, datt ech muer stierwen. Den Artikel war wichteg a sécher. Ech mengen et ass gëschter geschitt
+
+Step 312/330
+>> Luxembourgish - German
+	Nachdem ich anderthalb Jahre im Gefängnis war, wusste ich, dass ich morgen sterben würde. Der Artikel war wichtig und sicher. Ich denke es ist gestern passiert
+
+Step 313/330
+>> German - Japanese
+	1年半刑務所で過ごした後、私は明日死ぬことを知っていました。この記事は重要かつ安全でした。昨日起きたと思う
+
+Step 314/330
+>> Japanese - German
+	Nachdem ich anderthalb Jahre im Gefängnis verbracht hatte, wusste ich, dass ich morgen sterben würde. Dieser Artikel war wichtig und sicher. Ich glaube ich bin gestern aufgestanden
+
+Step 315/330
+>> German - Dutch
+	Na anderhalf jaar in de gevangenis te hebben doorgebracht, wist ik dat ik morgen zou sterven. Dit artikel was belangrijk en veilig. Ik denk dat ik gisteren ben opgestaan
+
+Step 316/330
+>> Dutch - Maori
+	I muri i te haea ki te kotahi tau me te hawhe i roto i te whare herehere, ka mohio au ka mate apopo. He mea nui, he haumaru hoki tenei tuhinga. Te mana'o nei au i tu ake inanahi
+
+Step 317/330
+>> Maori - Finnish
+	Sen jälkeen kun hänet on revitty puolitoista vuotta vankilaan, tiedän, että hän kuolee huomenna. Tämä artikkeli on tärkeä ja turvallinen. Mielestäni se nousi eilen
+
+Step 318/330
+>> Finnish - English
+	After being ripped to prison for a year and a half, I know he will die tomorrow. This article is important and safe. I think it went up yesterday
+
+Step 319/330
+>> English - Danish
+	Efter at have været dræbt i fængsel i halvandet år ved jeg, at han dør i morgen. Denne artikel er vigtig og sikker. Jeg tror, det gik op i går
+
+Step 320/330
+>> Danish - Dutch
+	Na anderhalf jaar gedood te zijn, weet ik dat hij morgen sterft. Dit artikel is belangrijk en veilig. Ik denk dat het gisteren is gestegen
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	被殺了一年半後，我知道他明天會死。這篇文章很重要且安全。我認為它昨天上漲了
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Efter att ha dödats i ett och ett halvt år, vet jag att han kommer att dö i morgon. Den här artikeln är mycket viktig och säker. Jag tror att det steg i går.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	被殺了一年半後，我知道他明天會死。這篇文章非常重要和安全。我認為它昨天上漲了。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Eftir að hafa verið drepinn í eitt og hálft ár veit ég að hann deyr á morgun. Þessi grein er mjög mikilvæg og örugg. Ég held að það hafi hækkað í gær.
+
+Step 325/330
+>> Icelandic - German
+	Nach eineinhalb Jahren Tod weiß ich, dass er morgen sterben wird. Dieser Artikel ist sehr wichtig und sicher. Ich denke, es ist gestern gestiegen.
+
+Step 326/330
+>> German - Irish
+	Tar éis bliana go leith a bháis, tá a fhios agam go bhfaighidh sé bás amárach. Tá an t-alt seo an-tábhachtach agus sábháilte. Sílim go ndeachaigh sé suas inné.
+
+Step 327/330
+>> Irish - English
+	After a year and a half of his death, I know that he will die tomorrow. This section is very important and safe. I think he went up yesterday.
+
+Step 328/330
+>> English - German
+	Nach anderthalb Jahren seines Todes weiß ich, dass er morgen sterben wird. Dieser Abschnitt ist sehr wichtig und sicher. Ich glaube, er ist gestern hochgegangen.
+
+Step 329/330
+>> German - Norwegian
+	Etter halvannet år av hans død, vet jeg at han vil dø i morgen. Denne delen er veldig viktig og trygg. Jeg tror han gikk opp i går.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Depois de um ano e meio de sua morte, eu sei que ele morrerá amanhã. Esta parte é muito importante e segura. Eu acho que ele intensificou ontem.
+
+
+##### RESULTS ######
+
+Cheherazade terminou, assim, a história do pescador e do gênio. Dinarzade garantiu-lhe que sentira enorme prazer em ouvi-la. E Chahriar manifestou-lhe o mesmo. Cheherazade disse-lhes, então, que sabia outra mais linda e que, se o sultão lhe permitisse viver, a narraria no dia seguinte. Chahriar, lembrando-se do adiamento de um mês que lhe havia concedido, e curioso também por saber se a nova história seria tão interessante, levantou-se com a intenção de a ouvir na noite seguinte.
+
+Depois de um ano e meio de sua morte, eu sei que ele morrerá amanhã. Esta parte é muito importante e segura. Eu acho que ele intensificou ontem.

@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Mal havia o rei tornado a entrar em Samarcanda, viu o vizir chegar prodigiosa quantidade de todas as espécies de provisões, acompanhadas de presentes e delícias de elevadíssimo preço.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Ikke før hadde kongen reist inn i Samarkand enn den vizier så den fantastiske ankomsten av alle slags proviant, ledsaget av gaver og herligheter til en god pris.
+
+Step 2/330
+>> Norwegian - German
+	Kaum hatte der König Samarkand betreten, sah der Wesir die prächtige Ankunft aller Arten von Lebensmitteln, begleitet von Geschenken und Ruhm zu einem guten Preis.
+
+Step 3/330
+>> German - English
+	As soon as King Samarkand entered, the vizier saw the splendid arrival of all kinds of food, accompanied by gifts and fame, at a good price.
+
+Step 4/330
+>> English - Irish
+	Chomh luath agus a tháinig an Rí Samarkand isteach, chonaic an vizier teacht iontach gach cineál bia, le bronntanais agus clú, ar phraghas maith.
+
+Step 5/330
+>> Irish - German
+	Sobald König Samarkand hereinkam, sah der Wesir die perfekte Ankunft aller Arten von Lebensmitteln mit Geschenken und Ansehen zu einem guten Preis.
+
+Step 6/330
+>> German - Icelandic
+	Um leið og Samarkand konungur kom inn sá vizierinn fullkomna komu alls konar matar með gjöfum og álit á góðu verði.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	撒馬爾罕王一進來，這位大臣就看到各種食物的完美抵達，帶著禮物和聲望。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	När kungen i Samarkand kom in såg ministeren den perfekta ankomsten av alla slags mat, med gåvor och prestige.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	當撒馬爾罕王進來時，牧師看到各種食物的完美到來，帶著禮物和聲望。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Toen koning Samarkand binnenkwam, zag de pastoor de perfecte aankomst van allerlei soorten voedsel, met geschenken en prestige.
+
+Step 11/330
+>> Dutch - Danish
+	Da kong Samarkand kom ind, så præsten den perfekte ankomst af alle slags mad med gaver og prestige.
+
+Step 12/330
+>> Danish - English
+	When King Samarkand came in, the priest saw the perfect arrival of all kinds of food with gifts and prestige.
+
+Step 13/330
+>> English - Finnish
+	Kun kuningas Samarkand tuli sisään, pappi näki kaikenlaisten ruokien täydellisen saapumisen lahjoilla ja arvovallalla.
+
+Step 14/330
+>> Finnish - Maori
+	I te taenga mai o Kingi Samarkand, ka kite te tohunga i te taenga mai o nga kai katoa me nga taonga me nga mana.
+
+Step 15/330
+>> Maori - Dutch
+	Toen koning Samarkand arriveerde, zag de priester de aankomst van alle voedsel en voorraden en autoriteit.
+
+Step 16/330
+>> Dutch - German
+	Als König Samarkand ankam, sah der Priester die Ankunft aller Lebensmittel, Vorräte und Befugnisse.
+
+Step 17/330
+>> German - Japanese
+	サマルカンド王が到着すると、司祭はすべての食料、物資、権威の到着を見ました。
+
+Step 18/330
+>> Japanese - German
+	Als König Samarkand ankam, sah der Priester die Ankunft aller Lebensmittel, Vorräte und Befugnisse.
+
+Step 19/330
+>> German - Luxembourgish
+	Wéi de King Samarkand ukomm ass, huet de Priester d'Arrivée vun all Iessen, Ëmgeréits an Autoritéit gesinn.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כאשר הגיע המלך סמארקנד, הכומר ראה את בואם של כל המזון, האספקה והסמכות.
+
+Step 21/330
+>> Hebrew - Korean
+	스 마르 칸트 왕이 도착했을 때, 사제는 모든 음식, 공급품 및 권위의 도착을 보았습니다.
+
+Step 22/330
+>> Korean - French
+	Lorsque le roi Smarkant arriva, le prêtre vit l'arrivée de tous les vivres, fournitures et autorité.
+
+Step 23/330
+>> French - Slovenian
+	Ko je prišel kralj Smarkant, je duhovnik videl prihod vse hrane, zalog in oblasti.
+
+Step 24/330
+>> Slovenian - Spanish
+	Cuando llegó el rey Smarkant, el sacerdote vio la llegada de todos los alimentos, suministros y autoridad.
+
+Step 25/330
+>> Spanish - Czech
+	Když dorazil král Smarkant, viděl kněz příchod veškerého jídla, zásob a autority.
+
+Step 26/330
+>> Czech - Italian
+	Quando arrivò il re Smarkant, il sacerdote vide l'arrivo di tutto il cibo, le provviste e l'autorità.
+
+Step 27/330
+>> Italian - Maltese
+	Meta r-Re Smarkant wasal, il-qassis ra l-wasla tal-ikel, provvedimenti u awtorità kollha.
+
+Step 28/330
+>> Maltese - Estonian
+	Kui kuningas tuli Smarkant, preester kerkis toidu sätteid ja kõiki asutus.
+
+Step 29/330
+>> Estonian - Greek
+	Όταν ο βασιλιάς ήρθε στο Smarkant, ο ιερέας ανέβηκε στις διατάξεις του φαγητού και της εξουσίας.
+
+Step 30/330
+>> Greek - Turkish
+	Kral Smarkant'a geldiğinde rahip yemek ve otorite hükümlerine yükseldi.
+
+Step 31/330
+>> Turkish - Polish
+	Kiedy przybył król Smarkant, kapłan podniósł się do jedzenia i władzy.
+
+Step 32/330
+>> Polish - Arabic
+	عندما وصل الملك سماركانت ، ارتفع الكاهن إلى الطعام والقوة.
+
+Step 33/330
+>> Arabic - Catalan
+	Quan el rei Smarkant va arribar, el sacerdot es va alçar al menjar i al poder.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Kai atvyko karalius Smarkantas, kunigas pakilo į maistą ir valdžią.
+
+Step 35/330
+>> Lithuanian - Arabic
+	عندما وصل الملك سماركانت ، ارتفع الكاهن إلى الطعام والسلطة.
+
+Step 36/330
+>> Arabic - Slovak
+	Keď prišiel kráľ Smarkant, kňaz vstal na jedlo a moc.
+
+Step 37/330
+>> Slovak - Malay
+	Apabila Raja Smarkan datang, imam itu berdiri untuk makanan dan kuasa.
+
+Step 38/330
+>> Malay - Arabic
+	عندما جاء الملك سمرقان ، وقف الكاهن على الطعام والقوة.
+
+Step 39/330
+>> Arabic - Latvian
+	Kad ieradās karalis Samarkāns, priesteris aizstāvēja ēdienu un varu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Quando o rei Samarkan chegou, o padre defendeu comida e poder.
+
+Step 41/330
+>> Portuguese - Arabic
+	عندما وصل الملك سمرقان ، دافع الكاهن عن الطعام والقوة.
+
+Step 42/330
+>> Arabic - Spanish
+	Cuando llegó el rey Samarkan, el sacerdote defendió la comida y el poder.
+
+Step 43/330
+>> Spanish - Hungarian
+	Amikor Samarkan király megérkezett, a pap megvédte az ételt és a hatalmat.
+
+Step 44/330
+>> Hungarian - Croatian
+	Kad je stigao kralj Samarkan, svećenik je štitio hranu i snagu.
+
+Step 45/330
+>> Croatian - Spanish
+	Cuando llegó el rey Samarkan, el sacerdote protegió la comida y la fuerza.
+
+Step 46/330
+>> Spanish - Arabic
+	عندما وصل الملك سمرقان ، كان الكاهن يحمي الطعام والقوة.
+
+Step 47/330
+>> Arabic - Russian
+	Когда прибыл король Самаркан, священник охранял пищу и власть.
+
+Step 48/330
+>> Russian - Albanian
+	Kur mbërriti mbreti Samarkan, prifti ruajti ushqimin dhe fuqinë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Когато цар Самаркан пристигнал, свещеникът запазил храна и сила.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Când a ajuns regele Samarkan, preotul a păstrat mâncarea și puterea.
+
+Step 51/330
+>> Romanian - Russian
+	Когда прибыл король Самаркан, священник сохранил пищу и власть.
+
+Step 52/330
+>> Russian - English
+	When the king of Samarkan arrived, the priest retained food and power.
+
+Step 53/330
+>> English - Spanish
+	Cuando llegó el rey de Samarkan, el sacerdote retuvo la comida y el poder.
+
+Step 54/330
+>> Spanish - Arabic
+	عندما وصل ملك سمرقان ، احتفظ الكاهن بالطعام والقوة.
+
+Step 55/330
+>> Arabic - Malay
+	Apabila raja Samarkan tiba, imam itu menyimpan makanan dan kuasa.
+
+Step 56/330
+>> Malay - English
+	When the Samaritan king arrived, the priest stored food and power.
+
+Step 57/330
+>> English - Kazakh
+	Самария патшасы келгенде, діни қызметкер тамақ пен күш-қуат жинады.
+
+Step 58/330
+>> Kazakh - Persian
+	وقتی پادشاه ساماریا آمد ، کاهن غذا و انرژی گرفت.
+
+Step 59/330
+>> Persian - English
+	When the king of Samaria came, the priest took food and energy.
+
+Step 60/330
+>> English - French
+	Quand le roi de Samarie est venu, le prêtre a pris de la nourriture et de l'énergie.
+
+Step 61/330
+>> French - Spanish
+	Cuando vino el rey de Samaria, el sacerdote tomó comida y energía.
+
+Step 62/330
+>> Spanish - Turkish
+	Samiriye kralı geldiğinde rahip yiyecek ve enerji aldı.
+
+Step 63/330
+>> Turkish - English
+	When the king of Samaria came, the priest took food and energy.
+
+Step 64/330
+>> English - Spanish
+	Cuando vino el rey de Samaria, el sacerdote tomó comida y energía.
+
+Step 65/330
+>> Spanish - Serbian
+	Када је дошао краљ Самарије, свештеник је узимао храну и енергију.
+
+Step 66/330
+>> Serbian - Albanian
+	Kur erdhi mbreti i Samarisë, prifti mori ushqim dhe energji.
+
+Step 67/330
+>> Albanian - English
+	When the king of Samaria arrived, the priest received food and energy.
+
+Step 68/330
+>> English - Georgian
+	როდესაც სამარიას მეფე ჩამოვიდა, მღვდელმა მიიღო საკვები და ენერგია.
+
+Step 69/330
+>> Georgian - English
+	When the king of Samaria arrived, the priest received food and energy.
+
+Step 70/330
+>> English - Spanish
+	Cuando llegó el rey de Samaria, el sacerdote recibió comida y energía.
+
+Step 71/330
+>> Spanish - English
+	When the king of Samaria arrived, the priest received food and energy.
+
+Step 72/330
+>> English - Sinhala
+	සමාරියේ රජු පැමිණි විට පූජකයාට ආහාර හා ශක්තිය ලැබුණි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Kad je stigao kralj Samarija, sveštenik je dobio hranu i energiju.
+
+Step 74/330
+>> Bosnian - Spanish
+	Cuando llegó el rey de Samaria, el sacerdote recibió comida y energía.
+
+Step 75/330
+>> Spanish - Portuguese
+	Quando o rei de Samaria chegou, o padre recebeu comida e energia.
+
+Step 76/330
+>> Portuguese - Arabic
+	عندما وصل ملك السامرة ، تلقى الكاهن الطعام والطاقة.
+
+Step 77/330
+>> Arabic - Macedonian
+	Кога пристигна кралот на Самарија, свештеникот доби храна и енергија.
+
+Step 78/330
+>> Macedonian - Armenian
+	Երբ Սամարիայի թագավորը հասավ, քահանան սնունդ և էներգիա ստացավ:
+
+Step 79/330
+>> Armenian - Thai
+	เมื่อกษัตริย์แห่งสะมาเรียมาถึงนักบวชจะได้รับอาหารและพลังงาน
+
+Step 80/330
+>> Thai - Arabic
+	عندما وصل ملك السامرة ، كان الرهبان يتلقون الطعام والطاقة.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	当撒玛利亚国王到达时，僧侣们正在接受食物和能量。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Cuando llegó el rey de Samaria, los monjes estaban recibiendo comida y energía.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Коли приїхав цар Самарії, ченці отримували їжу та енергію.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Cuando llegó el rey de Samaria, los monjes recibieron comida y energía.
+
+Step 85/330
+>> Spanish - English
+	When the king of Samaria arrived, the monks received food and energy.
+
+Step 86/330
+>> English - Mongolian
+	Самарийн хаан ирэхэд лам нар хоол, энерги авч байв.
+
+Step 87/330
+>> Mongolian - Spanish
+	Cuando vino el rey de Samaria, los lamas comieron comida y energía.
+
+Step 88/330
+>> Spanish - Arabic
+	عندما جاء ملك السامرة ، أكلت اللامات الطعام والطاقة.
+
+Step 89/330
+>> Arabic - Kurdish
+	Gava ku padîşah Sameryayê hat, lamayê xwarin û enerjiyê xwarin.
+
+Step 90/330
+>> Kurdish - English
+	When the king came to Samaria, he ate food and energy.
+
+Step 91/330
+>> English - Dutch
+	Toen de koning naar Samaria kwam, at hij voedsel en energie.
+
+Step 92/330
+>> Dutch - English
+	When the king came to Samaria, he ate food and energy.
+
+Step 93/330
+>> English - Samoan
+	Ina ua sau le tupu i Samaria, na ia 'ai meaai ma le malosi.
+
+Step 94/330
+>> Samoan - Uzbek
+	Shoh Samariyaga kelganida, u oziq-ovqat va kuch-quvvat iste'mol qildi.
+
+Step 95/330
+>> Uzbek - English
+	When the king came to Samaria, he ate food and strength.
+
+Step 96/330
+>> English - Arabic
+	عندما جاء الملك إلى السامرة ، أكل الطعام والقوة.
+
+Step 97/330
+>> Arabic - French
+	Quand le roi est arrivé à Samarie, il a mangé de la nourriture et du pouvoir.
+
+Step 98/330
+>> French - Spanish
+	Cuando el rey llegó a Samaria, comió comida y poder.
+
+Step 99/330
+>> Spanish - Romanian
+	Când regele a ajuns în Samaria, a mâncat mâncare și putere.
+
+Step 100/330
+>> Romanian - Filipino
+	Pagdating ng hari sa Samaria, kumain siya ng pagkain at kapangyarihan.
+
+Step 101/330
+>> Filipino - Zulu
+	Lapho inkosi ifika eSamariya, yadla ukudla namandla.
+
+Step 102/330
+>> Zulu - Arabic
+	عندما جاء الملك إلى السامرة ، أكل بعض الطعام وبعض القوة.
+
+Step 103/330
+>> Arabic - Indonesian
+	Ketika raja datang ke Samaria, dia makan makanan dan sedikit kekuatan.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Khi nhà vua đến Samaria, anh ta ăn thức ăn và một chút sức lực.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Cuando el rey llegó a Samaria, comió comida y algo de energía.
+
+Step 106/330
+>> Spanish - Arabic
+	عندما وصل الملك إلى السامرة ، أكل الطعام وبعض الطاقة.
+
+Step 107/330
+>> Arabic - Spanish
+	Cuando el rey llegó a Samaria, comió comida y algo de energía.
+
+Step 108/330
+>> Spanish - Russian
+	Когда царь прибыл в Самарию, он ел пищу и немного энергии.
+
+Step 109/330
+>> Russian - Arabic
+	عندما وصل الملك إلى السامرة ، كان يأكل الطعام وبعض الطاقة.
+
+Step 110/330
+>> Arabic - Spanish
+	Cuando el rey llegó a Samaria, comió comida y algo de energía.
+
+Step 111/330
+>> Spanish - Portuguese
+	Quando o rei chegou a Samaria, ele comeu comida e um pouco de energia.
+
+Step 112/330
+>> Portuguese - English
+	When the king arrived in Samaria, he ate food and some energy.
+
+Step 113/330
+>> English - Spanish
+	Cuando el rey llegó a Samaria, comió comida y algo de energía.
+
+Step 114/330
+>> Spanish - English
+	When the king arrived in Samaria, he ate food and some energy.
+
+Step 115/330
+>> English - Hindi
+	जब राजा सामरिया पहुंचे, तो उन्होंने भोजन और कुछ ऊर्जा खाई।
+
+Step 116/330
+>> Hindi - Portuguese
+	Quando o rei chegou a Samaria, ele comeu comida e um pouco de energia.
+
+Step 117/330
+>> Portuguese - Spanish
+	Cuando el rey llegó a Samaria, comió comida y algo de energía.
+
+Step 118/330
+>> Spanish - English
+	When the king arrived in Samaria, he ate food and some energy.
+
+Step 119/330
+>> English - Bengali
+	রাজা যখন শমরিয়াতে এলেন, তখন তিনি খাবার এবং কিছু শক্তি খেয়েছিলেন।
+
+Step 120/330
+>> Bengali - French
+	Quand le roi est arrivé en Samarie, il a mangé de la nourriture et de l'énergie.
+
+Step 121/330
+>> French - lao
+	ເມື່ອກະສັດມາຮອດຊາມາເຣຍ, ລາວໄດ້ກິນອາຫານແລະພະລັງງານ.
+
+Step 122/330
+>> lao - English
+	When the king arrived in Samaria, he ate food and energy.
+
+Step 123/330
+>> English - Portuguese
+	Quando o rei chegou a Samaria, ele comeu comida e energia.
+
+Step 124/330
+>> Portuguese - English
+	When the king arrived in Samaria, he ate food and energy.
+
+Step 125/330
+>> English - Portuguese
+	Quando o rei chegou a Samaria, ele comeu comida e energia.
+
+Step 126/330
+>> Portuguese - English
+	When the king arrived in Samaria, he ate food and energy.
+
+Step 127/330
+>> English - Portuguese
+	Quando o rei chegou a Samaria, ele comeu comida e energia.
+
+Step 128/330
+>> Portuguese - Burmese
+	ရှင်ဘုရင်သည်ရှမာရိမြို့သို့ရောက်လာသောအခါ, သူစားနပ်ရိက္ခာနှင့်စွမ်းအင်ကိုစားကြ၏။
+
+Step 129/330
+>> Burmese - Nepali
+	राजा, उहाँले सामरिया आए, र तिनीहरूले खाना र ऊर्जा खान्छन्।
+
+Step 130/330
+>> Nepali - Urdu
+	بادشاہ ، وہ سامریہ آیا ، اور وہ کھانا اور توانائی کھاتے ہیں۔
+
+Step 131/330
+>> Urdu - French
+	Roi, il vient en Samarie et ils mangent de la nourriture et de l’énergie.
+
+Step 132/330
+>> French - English
+	King, he comes to Samaria and they eat food and energy.
+
+Step 133/330
+>> English - Swahili
+	Mfalme, anakuja Samaria na wanakula chakula na nguvu.
+
+Step 134/330
+>> Swahili - Arabic
+	يأتي الملك إلى السامرة ويأكلون الطعام والقوة.
+
+Step 135/330
+>> Arabic - Shona
+	Mambo anouya kuSamaria adye chikafu nemasimba.
+
+Step 136/330
+>> Shona - Hausa
+	Sarki ya isa Samariya don ya ci abinci, ya sha ruwa.
+
+Step 137/330
+>> Hausa - Swahili
+	Mfalme akafika Samaria, kula mkate na kunywa maji.
+
+Step 138/330
+>> Swahili - English
+	And the king came to Samaria, to eat bread and to drink water.
+
+Step 139/330
+>> English - Arabic
+	وجاء الملك إلى السامرة ليأكل الخبز ويشرب الماء.
+
+Step 140/330
+>> Arabic - Malagasy
+	Tonga tany Samaria ny mpanjaka hihinana mofo sy hisotro rano.
+
+Step 141/330
+>> Malagasy - Swahili
+	Mfalme alifika Samaria kula mkate na kunywa maji.
+
+Step 142/330
+>> Swahili - French
+	Le roi vint à Samarie pour manger du pain et boire de l'eau.
+
+Step 143/330
+>> French - Arabic
+	أتى الملك إلى السامرة لأكل الخبز وشرب الماء.
+
+Step 144/330
+>> Arabic - French
+	Le roi vint à Samarie pour manger du pain et boire de l'eau.
+
+Step 145/330
+>> French - Arabic
+	أتى الملك إلى السامرة لأكل الخبز وشرب الماء.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Wa a te vin lavil Samari pou manje, pou li bwè dlo.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	پاچا سامریه ته د خوړلو او اوبو څښلو لپاره راغی.
+
+Step 148/330
+>> Pashto - French
+	Le roi vient à Samarie pour manger et boire de l'eau.
+
+Step 149/330
+>> French - Chichewa
+	Mfumu ibwera ku Samariya kudya ndi kumwa madzi.
+
+Step 150/330
+>> Chichewa - Arabic
+	يأتي الملك إلى السامرة لتناول الطعام والشراب.
+
+Step 151/330
+>> Arabic - Amharic
+	ንጉ eat ሊበላና ሊጠጣ ወደ ሰማርያ መጣ።
+
+Step 152/330
+>> Amharic - English
+	And the king came to Samaria to eat and to drink.
+
+Step 153/330
+>> English - French
+	Et le roi vint à Samarie pour manger et pour boire.
+
+Step 154/330
+>> French - Swahili
+	Mfalme akafika Samaria kula na kunywa.
+
+Step 155/330
+>> Swahili - Portuguese
+	E o rei veio a Samaria para comer e beber.
+
+Step 156/330
+>> Portuguese - Arabic
+	وجاء الملك إلى السامرة ليأكل ويشرب.
+
+Step 157/330
+>> Arabic - Portuguese
+	O rei veio a Samaria para comer e beber.
+
+Step 158/330
+>> Portuguese - English
+	The king came to Samaria to eat and drink.
+
+Step 159/330
+>> English - French
+	Le roi vint à Samarie pour manger et boire.
+
+Step 160/330
+>> French - English
+	The king came to Samaria to eat and drink.
+
+Step 161/330
+>> English - Swahili
+	Mfalme alifika Samaria kula na kunywa.
+
+Step 162/330
+>> Swahili - Arabic
+	جاء الملك إلى السامرة لتناول الطعام والشراب.
+
+Step 163/330
+>> Arabic - Arabic
+	The king came to Samaria to eat and drink.
+
+Step 164/330
+>> Arabic - French
+	Le roi vint à Samarie pour manger et boire.
+
+Step 165/330
+>> French - Hausa
+	Sarki ya haura zuwa Samariya cin abinci ya sha.
+
+Step 166/330
+>> Hausa - French
+	Le roi monta à Samarie pour manger et boire.
+
+Step 167/330
+>> French - Arabic
+	The king went up to Samaria to eat and drink.
+
+Step 168/330
+>> Arabic - Arabic
+	صعد الملك إلى السامرة لتناول الطعام والشراب.
+
+Step 169/330
+>> Arabic - Swahili
+	Mfalme akapanda kwenda Samaria kula na kunywa.
+
+Step 170/330
+>> Swahili - English
+	And the king went up to Samaria to eat and to drink.
+
+Step 171/330
+>> English - French
+	Et le roi monta à Samarie pour manger et pour boire.
+
+Step 172/330
+>> French - English
+	And the king went up to Samaria to eat and to drink.
+
+Step 173/330
+>> English - Portuguese
+	E o rei subiu a Samaria para comer e beber.
+
+Step 174/330
+>> Portuguese - Arabic
+	وصعد الملك إلى السامرة ليأكل ويشرب.
+
+Step 175/330
+>> Arabic - Portuguese
+	E o rei subiu a Samaria para comer e beber.
+
+Step 176/330
+>> Portuguese - Swahili
+	Mfalme akapanda kwenda Samaria kula na kunywa.
+
+Step 177/330
+>> Swahili - French
+	Et le roi monta à Samarie pour manger et pour boire.
+
+Step 178/330
+>> French - English
+	And the king went up to Samaria to eat and to drink.
+
+Step 179/330
+>> English - Amharic
+	ንጉ eatም ሊበላና ሊጠጣ ወደ ሰማርያ ወጣ።
+
+Step 180/330
+>> Amharic - Arabic
+	وصعد الملك إلى السامرة ليأكل ويشرب.
+
+Step 181/330
+>> Arabic - Chichewa
+	Ndipo mfumu idapita ku Samariya kukadya ndi kumwa.
+
+Step 182/330
+>> Chichewa - French
+	Et le roi s'en alla manger et boire à Samarie.
+
+Step 183/330
+>> French - Pashto
+	او پاچا سامريه کې د څښلو او څښلو لپاره لاړ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Wa a ale lavil Samari pou l 'te bwè, epi li bwè.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	ذهب الملك إلى السامرة ليشرب ، وشرب.
+
+Step 186/330
+>> Arabic - French
+	Le roi se rendit à Samarie pour boire et pour boire.
+
+Step 187/330
+>> French - Arabic
+	ذهب الملك إلى السامرة للشرب والشرب.
+
+Step 188/330
+>> Arabic - French
+	Le roi est allé boire et boire à Samarie.
+
+Step 189/330
+>> French - Swahili
+	Mfalme akaenda kunywa na kunywa huko Samaria.
+
+Step 190/330
+>> Swahili - Malagasy
+	Dia nankany Samaria ny mpanjaka hisotro sy hisotro.
+
+Step 191/330
+>> Malagasy - Arabic
+	فذهب الملك إلى السامرة ليشرب ويشرب.
+
+Step 192/330
+>> Arabic - English
+	So the king went to Samaria to drink and drink.
+
+Step 193/330
+>> English - Swahili
+	Basi mfalme akaenda Samaria ili kunywa na kunywa.
+
+Step 194/330
+>> Swahili - Hausa
+	Sarki kuwa ya tafi Samariyawa ya sha, ya sha, ya tafi.
+
+Step 195/330
+>> Hausa - Shona
+	Ipapo mambo akaenda kuna mambo weSamaria, kundonwa nokumwa, akaenda.
+
+Step 196/330
+>> Shona - Arabic
+	وذهب الملك إلى ملك السامرة ، وتناول مشروبًا ومشروبًا.
+
+Step 197/330
+>> Arabic - Swahili
+	Mfalme alikwenda kwa mfalme wa Samaria akanywa na kinywaji.
+
+Step 198/330
+>> Swahili - English
+	The king went to the king of Samaria and had a drink.
+
+Step 199/330
+>> English - French
+	Le roi se rendit chez le roi de Samarie et prit un verre.
+
+Step 200/330
+>> French - Urdu
+	بادشاہ سامریہ کے بادشاہ کے پاس گیا اور اس نے شراب پی۔
+
+Step 201/330
+>> Urdu - Nepali
+	तब राजा सामरियाका राजा कहाँ गए अनि दाखरस पिए।
+
+Step 202/330
+>> Nepali - Burmese
+	အဘယ်မှာရှိရှင်ဘုရင်နှင့်စပျစ်ရည်ကိုရှမာရိမြို့ရှင်ဘုရင်၏။
+
+Step 203/330
+>> Burmese - Portuguese
+	Onde está o rei eo vinho do rei de Samaria.
+
+Step 204/330
+>> Portuguese - English
+	Where is the king and the wine of the king of Samaria.
+
+Step 205/330
+>> English - Portuguese
+	Onde está o rei e o vinho do rei de Samaria.
+
+Step 206/330
+>> Portuguese - English
+	Where is the king and the wine of the king of Samaria.
+
+Step 207/330
+>> English - Portuguese
+	Onde está o rei e o vinho do rei de Samaria.
+
+Step 208/330
+>> Portuguese - English
+	Where is the king and the wine of the king of Samaria.
+
+Step 209/330
+>> English - lao
+	ກະສັດແລະເຫລົ້າແວງຂອງກະສັດຊາມາເຣຍຢູ່ໃສ.
+
+Step 210/330
+>> lao - French
+	Où est le roi et le vin du roi de Samarie?
+
+Step 211/330
+>> French - Bengali
+	শমরিয়ার রাজার রাজা এবং দ্রাক্ষারস কোথায়?
+
+Step 212/330
+>> Bengali - English
+	Where is the king of Samaria and the wine?
+
+Step 213/330
+>> English - Spanish
+	¿Dónde está el rey de Samaria y el vino?
+
+Step 214/330
+>> Spanish - Portuguese
+	Onde está o rei de Samaria e o vinho?
+
+Step 215/330
+>> Portuguese - Hindi
+	सामरिया और शराब का राजा कहाँ है?
+
+Step 216/330
+>> Hindi - English
+	Where is the king of Samaria and wine?
+
+Step 217/330
+>> English - Spanish
+	¿Dónde está el rey de Samaria y el vino?
+
+Step 218/330
+>> Spanish - English
+	Where is the king of Samaria and wine?
+
+Step 219/330
+>> English - Portuguese
+	Onde está o rei de Samaria e o vinho?
+
+Step 220/330
+>> Portuguese - Spanish
+	¿Dónde está el rey de Samaria y el vino?
+
+Step 221/330
+>> Spanish - Arabic
+	أين هو ملك السامرة والنبيذ؟
+
+Step 222/330
+>> Arabic - Russian
+	Где царь самарийский и вино?
+
+Step 223/330
+>> Russian - Spanish
+	¿Dónde está el rey de Samaria y el vino?
+
+Step 224/330
+>> Spanish - Arabic
+	أين هو ملك السامرة والنبيذ؟
+
+Step 225/330
+>> Arabic - Spanish
+	¿Dónde está el rey de Samaria y el vino?
+
+Step 226/330
+>> Spanish - Vietnamese
+	Vua Samaria và rượu vang ở đâu?
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Di mana Samaria dan anggur?
+
+Step 228/330
+>> Indonesian - Arabic
+	أين السامرة والنبيذ؟
+
+Step 229/330
+>> Arabic - Zulu
+	Likuphi iSamariya newayini?
+
+Step 230/330
+>> Zulu - Filipino
+	Nasaan ang Samaria at alak?
+
+Step 231/330
+>> Filipino - Romanian
+	Unde este Samaria și vinul?
+
+Step 232/330
+>> Romanian - Spanish
+	¿Dónde está Samaria y el vino?
+
+Step 233/330
+>> Spanish - French
+	Où est la Samarie et le vin?
+
+Step 234/330
+>> French - Arabic
+	أين السامرة والنبيذ؟
+
+Step 235/330
+>> Arabic - English
+	Where is Samaria and wine?
+
+Step 236/330
+>> English - Uzbek
+	Samariya va sharob qani?
+
+Step 237/330
+>> Uzbek - Samoan
+	O fea oi ai Samaria ma le uaina?
+
+Step 238/330
+>> Samoan - English
+	Where is Samaria and wine?
+
+Step 239/330
+>> English - Dutch
+	Waar zijn Samaria en wijn?
+
+Step 240/330
+>> Dutch - English
+	Where are Samaria and wine?
+
+Step 241/330
+>> English - Kurdish
+	Samerî û şerab li kû ne?
+
+Step 242/330
+>> Kurdish - Arabic
+	أين السامري والنبيذ؟
+
+Step 243/330
+>> Arabic - Spanish
+	¿Dónde está el samaritano y el vino?
+
+Step 244/330
+>> Spanish - Mongolian
+	Самари хүн ба дарс хаана байна?
+
+Step 245/330
+>> Mongolian - English
+	Where is the Samaritan and the wine?
+
+Step 246/330
+>> English - Spanish
+	¿Dónde está el samaritano y el vino?
+
+Step 247/330
+>> Spanish - Ukrainian
+	Де самарянин і вино?
+
+Step 248/330
+>> Ukrainian - Spanish
+	¿Dónde está el samaritano y el vino?
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	撒玛利亚人和葡萄酒在哪里？
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	أين هم السامريون والنبيذ؟
+
+Step 251/330
+>> Arabic - Thai
+	ชาวสะมาเรียและไวน์อยู่ที่ไหน
+
+Step 252/330
+>> Thai - Armenian
+	Որտե՞ղ են սամարացիները և գինին:
+
+Step 253/330
+>> Armenian - Macedonian
+	Каде се Самарјаните и виното?
+
+Step 254/330
+>> Macedonian - Arabic
+	أين السامريون والنبيذ؟
+
+Step 255/330
+>> Arabic - Portuguese
+	Onde estão os samaritanos e o vinho?
+
+Step 256/330
+>> Portuguese - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 257/330
+>> Spanish - Bosnian
+	Gdje su Samarićani i vino?
+
+Step 258/330
+>> Bosnian - Sinhala
+	සමාරියයන් සහ වයින් කොහෙද?
+
+Step 259/330
+>> Sinhala - English
+	Where are the Samaritans and the wine?
+
+Step 260/330
+>> English - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 261/330
+>> Spanish - English
+	Where are the Samaritans and wine?
+
+Step 262/330
+>> English - Georgian
+	სად არის სამარიტელები და ღვინო?
+
+Step 263/330
+>> Georgian - English
+	Where are the Samaritans and the wine?
+
+Step 264/330
+>> English - Albanian
+	Ku janë Samaritanët dhe vera?
+
+Step 265/330
+>> Albanian - Serbian
+	Где су Самарићани и вино?
+
+Step 266/330
+>> Serbian - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 267/330
+>> Spanish - English
+	Where are the Samaritans and wine?
+
+Step 268/330
+>> English - Turkish
+	Samiriyeliler ve şaraplar nerede?
+
+Step 269/330
+>> Turkish - Spanish
+	¿Dónde están los samaritanos y los vinos?
+
+Step 270/330
+>> Spanish - French
+	Où sont les Samaritains et les vins?
+
+Step 271/330
+>> French - English
+	Where are the Samaritans and the wines?
+
+Step 272/330
+>> English - Persian
+	ساماریان و شراب کجا هستند؟
+
+Step 273/330
+>> Persian - Kazakh
+	Самариялықтар мен шарап қайда?
+
+Step 274/330
+>> Kazakh - English
+	Where are the Samaritans and the wine?
+
+Step 275/330
+>> English - Malay
+	Di manakah orang Samaria dan wain?
+
+Step 276/330
+>> Malay - Arabic
+	أين السامريون والنبيذ؟
+
+Step 277/330
+>> Arabic - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 278/330
+>> Spanish - English
+	Where are the Samaritans and wine?
+
+Step 279/330
+>> English - Russian
+	Где самаритяне и вино?
+
+Step 280/330
+>> Russian - Romanian
+	Unde sunt samaritenii și vinul?
+
+Step 281/330
+>> Romanian - Bulgarian
+	Къде са самаряните и виното?
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ku janë Samaritanët dhe vera?
+
+Step 283/330
+>> Albanian - Russian
+	Где самаритяне и вино?
+
+Step 284/330
+>> Russian - Arabic
+	أين السامريون والنبيذ؟
+
+Step 285/330
+>> Arabic - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 286/330
+>> Spanish - Croatian
+	Gdje su Samarićani i vino?
+
+Step 287/330
+>> Croatian - Hungarian
+	Hol vannak a szamaritánusok és a bor?
+
+Step 288/330
+>> Hungarian - Spanish
+	¿Dónde están los samaritanos y el vino?
+
+Step 289/330
+>> Spanish - Arabic
+	أين السامريون والنبيذ؟
+
+Step 290/330
+>> Arabic - Portuguese
+	Onde estão os samaritanos e o vinho?
+
+Step 291/330
+>> Portuguese - Latvian
+	Kur ir samarieši un vīns?
+
+Step 292/330
+>> Latvian - Arabic
+	أين السامريون والنبيذ؟
+
+Step 293/330
+>> Arabic - Malay
+	Di manakah orang Samaria dan wain?
+
+Step 294/330
+>> Malay - Slovak
+	Kde sú Samaritáni a víno?
+
+Step 295/330
+>> Slovak - Arabic
+	أين السامريون والنبيذ؟
+
+Step 296/330
+>> Arabic - Lithuanian
+	Kur yra samariečiai ir vynas?
+
+Step 297/330
+>> Lithuanian - Catalan
+	On són els samaritans i el vi?
+
+Step 298/330
+>> Catalan - Arabic
+	أين السامريون والنبيذ؟
+
+Step 299/330
+>> Arabic - Polish
+	Gdzie są Samarytanie i wino?
+
+Step 300/330
+>> Polish - Turkish
+	Samiriyeliler ve şaraplar nerede?
+
+Step 301/330
+>> Turkish - Greek
+	Πού είναι οι Σαμαρείτες και τα κρασιά;
+
+Step 302/330
+>> Greek - Estonian
+	Kus on samaarlased ja veinid?
+
+Step 303/330
+>> Estonian - Maltese
+	Fejn huma s-Samaritani u l-Inbejjed?
+
+Step 304/330
+>> Maltese - Italian
+	Dove sono i Samaritani ei vini?
+
+Step 305/330
+>> Italian - Czech
+	Kde jsou Samaritané a vína?
+
+Step 306/330
+>> Czech - Spanish
+	¿Dónde están los samaritanos y los vinos?
+
+Step 307/330
+>> Spanish - Slovenian
+	Kje so Samarijci in vina?
+
+Step 308/330
+>> Slovenian - French
+	Où sont les Samaritains et les vins?
+
+Step 309/330
+>> French - Korean
+	사마리아인과 와인은 어디에 있습니까?
+
+Step 310/330
+>> Korean - Hebrew
+	איפה השומרונים והיינות?
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Wou sinn d'Samaritanen an d'Wäiner?
+
+Step 312/330
+>> Luxembourgish - German
+	Wo sind die Samariter und die Weine?
+
+Step 313/330
+>> German - Japanese
+	サマリア人とワインはどこにありますか？
+
+Step 314/330
+>> Japanese - German
+	Wo sind die Samariter und Weine?
+
+Step 315/330
+>> German - Dutch
+	Waar zijn de Samaritanen en wijnen?
+
+Step 316/330
+>> Dutch - Maori
+	Kei hea nga Samaria me nga waina?
+
+Step 317/330
+>> Maori - Finnish
+	Missä ovat samarialaiset ja viinit?
+
+Step 318/330
+>> Finnish - English
+	Where are the Samaritans and the wines?
+
+Step 319/330
+>> English - Danish
+	Hvor er samaritanerne og vinene?
+
+Step 320/330
+>> Danish - Dutch
+	Waar zijn de Samaritanen en de wijnen?
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	撒瑪利亞人和葡萄酒在哪裡？
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Var är samariterna och vinerna?
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	撒瑪利亞人和葡萄酒在哪裡？
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Hvar eru Samverjar og vín?
+
+Step 325/330
+>> Icelandic - German
+	Wo sind Samariter und Weine?
+
+Step 326/330
+>> German - Irish
+	Cá bhfuil na Samáraigh agus fíonta?
+
+Step 327/330
+>> Irish - English
+	Where are the Samaritans and wines?
+
+Step 328/330
+>> English - German
+	Wo sind die Samariter und Weine?
+
+Step 329/330
+>> German - Norwegian
+	Hvor er samaritanerne og vinene?
+
+Step 330/330
+>> Norwegian - Portuguese
+	Onde estão os samaritanos e os vinhos?
+
+
+##### RESULTS ######
+
+Mal havia o rei tornado a entrar em Samarcanda, viu o vizir chegar prodigiosa quantidade de todas as espécies de provisões, acompanhadas de presentes e delícias de elevadíssimo preço.
+
+Onde estão os samaritanos e os vinhos?

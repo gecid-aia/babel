@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O carregador, apesar da sua retórica, teria sido talvez obrigado a retirar-se confuso, se Amina, tomando com empenho a sua defesa, não tivesse dito a Zobeida e Safia: “Minhas queridas irmãs, suplico-vos permitais que este homem fique conosco. Não é preciso dizer-vos que saberá divertir-nos, porque estais vendo que é capaz. Asseguro-vos que sem a sua boa vontade, a sua ligeireza e a sua coragem em me seguir, eu não teria logrado fazer tantas compras em tão pouco tempo. Além disso, se vos repetisse todas as graças que me disse pelo caminho, vos surpreenderíeis bem pouco com a proteção que lhe concedo”.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Til tross for hans retorikk, kunne portieren ha blitt tvunget til å trekke seg i forvirring hvis Amina, som tok sitt forsvar flittig, ikke hadde sagt til Zobeida og Safia: “Mine kjære søstre, jeg ber deg om å la denne mannen bli hos oss. . Unødvendig å si at vi vil kunne ha det moro, fordi du ser at du kan. Jeg forsikrer deg om at uten din velvilje, din letthet og ditt mot til å følge meg, ville jeg ikke ha klart å gjøre så mange kjøp på så kort tid. Dessuten, hvis jeg gjentok til deg alle de nådene han sa til meg underveis, ville du bli lite overrasket over beskyttelsen jeg gir ham. ”
+
+Step 2/330
+>> Norwegian - German
+	Trotz seiner Rhetorik wäre der Türsteher möglicherweise in Verwirrung geraten, wenn Amina, die sich fleißig verteidigte, Zobeida und Safia nicht gesagt hätte: "Meine lieben Schwestern, ich bitte Sie, diesen Mann bei uns zu lassen . . Natürlich können wir Spaß haben, denn Sie sehen, dass Sie es können. Ich versichere Ihnen, dass ich ohne Ihren guten Willen, Ihre Leichtigkeit und Ihren Mut, mir zu folgen, nicht in der Lage gewesen wäre, in so kurzer Zeit so viele Einkäufe zu tätigen. Außerdem, wenn ich Ihnen all die Gnaden wiederholen würde, die er mir auf dem Weg gesagt hat, wären Sie wenig überrascht über den Schutz, den ich ihm gebe. "
+
+Step 3/330
+>> German - English
+	Despite his rhetoric, the doorman might have been confused if Amina, who diligently defended herself, had not said to Zobeida and Safia, "My dear sisters, I ask you to leave this man with us." Of course we can have fun, because I can assure you that without your good will, your ease and your courage to follow me, I would not have been able to make so many purchases in such a short time To repeat to you all the graces he has told me along the way, you would be little surprised by the protection I give him. "
+
+Step 4/330
+>> English - Irish
+	In ainneoin a reitric, d’fhéadfadh sé go raibh mearbhall ar an dornálaí mura ndúirt Amina, a chosain í féin go dícheallach, le Zobeida agus Safia, "Mo dheirfiúracha daor, iarraim ort an fear seo a fhágáil linn." Ar ndóigh, is féidir linn spraoi a bheith agat, mar is féidir liom a chinntiú go bhfuil tú in ann an oiread ceannachán a dhéanamh in am chomh gearr sin gan do thoil mhaith, do mhaolú agus do mhisneach chun mé a leanúint Tá sé curtha in iúl dom feadh na slí, ní bheadh ionadh ort ach an chosaint a thugaim dó. "
+
+Step 5/330
+>> Irish - German
+	Trotz seiner Rhetorik könnte der Boxer verwirrt gewesen sein, wenn Amina, die sich fleißig verteidigte, Zobeida und Safia sagte: "Meine lieben Schwestern, ich bitte Sie, diesen Mann bei uns zu lassen." Natürlich können wir Spaß haben, denn ich kann dafür sorgen, dass Sie in so kurzer Zeit so viel einkaufen können, ohne guten Willen, ohne sich zu entspannen und ohne den Mut, mir zu folgen. Lass es mich auf dem Weg wissen, du wärst nicht überrascht, aber die Verteidigung gebe ich ihm. "
+
+Step 6/330
+>> German - Icelandic
+	Þrátt fyrir orðræðu sína gæti hnefaleikarinn verið ruglaður ef Amina, sem varði sig af kostgæfni, Zobeida og Safia sögðu: "Kæru systur mínar, ég bið þig að skilja þennan mann eftir með okkur." Auðvitað getum við skemmt okkur því ég get séð til þess að þú getir verslað svo mikið á svo stuttum tíma, án velvilja, án þess að slaka á og án þess að hafa kjark til að fylgja mér. Láttu mig vita á leiðinni, þú myndir ekki koma á óvart en ég gef honum vörnina. "
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	儘管有她的謠言，如果阿米娜努力為自己辯護，佐貝達和薩菲亞說：“親愛的姐妹們，我請求你把這個男人和我們一起離開。”當然，我們可以玩得開心，因為我可以看到你可以在如此短的時間內購物，沒有善意，沒有放鬆，沒有勇氣跟隨我。讓我知道一路上，你不會感到驚訝，但我會給他保護。 “
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Trots sina rykten, om Amina försökte försvara sig, sa Zobeda och Safia: "Kära systrar, jag ber er att lämna den här mannen med oss." Naturligtvis kan vi ha kul, Eftersom jag kan se att du kan handla på så kort tid, utan välvilja, utan avkoppling, utan modet att följa mig. Låt mig veta att du inte blir förvånad under vägen, men jag kommer att skydda honom. "
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	儘管有傳言，如果阿米娜試圖為自己辯護，佐貝達和薩菲亞說：“親愛的姐妹們，我求求你把這個男人留給我們。”當然，我們可以玩得開心，因為我可以看到你可以在如此短的時間內行動，沒有善意，沒有放鬆，沒有勇氣跟隨我。讓我知道你一路上不會感到驚訝，但我會保護他。 “
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Ondanks geruchten, als Amina zichzelf probeert te verdedigen, zeggen Zobeda en Safia: "Beste zusters, ik smeek je om deze man aan ons over te laten." Natuurlijk kunnen we plezier hebben omdat ik Je kunt zien dat je in zo'n korte periode kunt handelen, zonder goede bedoelingen, zonder ontspanning, zonder de moed om me te volgen. Laat me weten dat je onderweg niet verrast zult worden, maar ik zal hem beschermen. "
+
+Step 11/330
+>> Dutch - Danish
+	På trods af rygter, når Amina forsøger at forsvare sig, siger Zobeda og Safia: "Kære søstre, jeg beder Dem om at overlade denne mand til os." Selvfølgelig kan vi have det sjovt, fordi jeg kan se, at du kan handle i så kort periode, uden gode intentioner, uden afslapning, uden modet til at følge mig. Lad mig vide, at du ikke bliver overrasket undervejs, men jeg beskytter ham. "
+
+Step 12/330
+>> Danish - English
+	Despite rumors as Amina tries to defend herself, Zobeda and Safia say, "Dear sisters, I ask you to leave this man to us." Of course we can have fun because I can see that you can act for such a short period of time, without good intentions, without relaxation, without the courage to follow me. Let me know you won't be surprised along the way, but I'll protect him. "
+
+Step 13/330
+>> English - Finnish
+	Huhuista huolimatta, kun Amina yrittää puolustaa itseään, Zobeda ja Safia sanovat: "Rakkaat sisaret, pyydän teitä jättämään tämän miehen meidän luokse." Tietenkin voimme pitää hauskaa, koska näen, että voit toimia niin lyhyen ajan, ilman hyviä aikomuksia, ilman rentoutumista, ilman rohkeutta seurata minua. Kerro minulle, ettet ylläty matkalla, mutta suojelen häntä. "
+
+Step 14/330
+>> Finnish - Maori
+	Ahakoa nga korero, i te wa e ngana ana a Amina ki te tiaki i a ia ano, ka kii a Zobeda raua ko Safia, "E aku tuahine, ko taku kupu tenei kia waiho ma korua tenei tangata." Ma te tika, ka taea e tatou te ngahau na te mea e kite ana au ka taea e koe te mahi mo taua wa poto, kaore he wawata pai, kaore he whakangahau, kaore he maia ki te whai mai i ahau. Korero ki ahau kaore koe i te miharo i te huarahi, engari ko taku tiaki i a ia. "
+
+Step 15/330
+>> Maori - Dutch
+	Ondanks de geruchten, terwijl Amina zichzelf probeerde te verdedigen, zeiden Zobeda en Safia: "Mijn zusters, ik stel voor dat je deze persoon met rust laat." Oké, we kunnen plezier hebben, omdat ik zie dat je het voor een korte tijd kunt doen, zonder goede ambities, geen entertainment, geen moed om me te volgen. Zeg me dat je trouwens niet verrast bent, maar ik zorg wel voor haar. "
+
+Step 16/330
+>> Dutch - German
+	Während Amina versuchte, sich zu verteidigen, sagten Zobeda und Safia trotz der Gerüchte: "Meine Schwestern, ich schlage vor, Sie lassen diese Person in Ruhe." Okay, wir können Spaß haben, weil ich sehe, dass Sie es für eine kurze Zeit tun können, ohne gute Ambitionen, ohne Unterhaltung, ohne Mut, mir zu folgen. Sag mir, du bist übrigens nicht überrascht, aber ich kümmere mich um sie. "
+
+Step 17/330
+>> German - Japanese
+	アミナは自分を弁護しようとしたが、ゾベダとサフィアは、「私の姉妹、あなたはこの人を放っておくことをお勧めします」とうわさにもかかわらず言った。いいね、野心もなく、エンターテイメントもなく、私をフォローする勇気もなく、短時間でそれができると思うので、楽しんでください。ちなみに、あなたは驚くことはありませんが、私は彼女の世話をします。 "
+
+Step 18/330
+>> Japanese - German
+	Amina versuchte sich zu verteidigen, aber Zobeda und Safia sagten: "Meine Schwester, es wird empfohlen, diese Person in Ruhe zu lassen", trotz des Gerüchts. Gut, kein Ehrgeiz, keine Unterhaltung, kein Mut, mir zu folgen, ich denke, das kann in kurzer Zeit erledigt werden, also viel Spaß. Übrigens, Sie werden nicht überrascht sein, aber ich werde auf sie aufpassen. "
+
+Step 19/330
+>> German - Luxembourgish
+	D'Amina huet probéiert sech ze verteidegen, awer d'Zobeda a Safia soten: "Meng Schwëster, et ass recommandéiert dës Persoun eleng ze loossen", trotz der Rumeur. Gutt, keng Ambitioun, keng Ënnerhalung, kee Courage fir mech ze verfollegen, ech denken dat ka a kuerzer Zäit gemaach ginn, also hutt Spaass. By the way, Dir wäert net iwwerrascht sinn, awer ech këmmere mech ëm hatt. "
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	אמינה ניסתה להגן על עצמה, אך זובדה וספיה אמרו, "אחותי, מומלץ להשאיר אדם זה לבד", למרות השמועות. טוב, אין שאיפה, אין בידור, אין אומץ לעקוב אחריי, אני חושב שאפשר לעשות זאת בפרק זמן קצר, אז תהנו. אגב, אתה לא תופתע, אבל אני דואג לה. "
+
+Step 21/330
+>> Hebrew - Korean
+	Amina는 자신을 보호하려고 노력했지만 Zobda와 Safia는 소문에도 불구하고 "내 동생이 사람을 내버려 두는 것이 가장 좋습니다"라고 말했습니다. 글쎄요, 야심도없고, 오락도없고, 용기도 없습니다. 짧은 시간 안에 할 수 있다고 생각합니다. 그건 그렇고, 당신은 놀라지 않을 것이지만 나는 그녀에 대해 걱정합니다. "
+
+Step 22/330
+>> Korean - French
+	Amina a essayé de se protéger, mais Zobda et Safia ont déclaré, malgré les rumeurs, "il est préférable que mon frère laisse quelqu'un tranquille." Eh bien, pas d'ambition, pas de divertissement, pas de courage. Je pense que je peux le faire en peu de temps. Au fait, vous ne serez pas surpris, mais je m'inquiète pour elle. "
+
+Step 23/330
+>> French - Slovenian
+	Amina se je skušala zaščititi, vendar sta Zobda in Safia kljub govoricam dejala, "da je bolje, da moj brat nekoga pusti pri miru." No, brez ambicij, brez zabave, brez poguma. Mislim, da lahko to storim v trenutku. Mimogrede, ne boste presenečeni, ampak skrbim zanjo. "
+
+Step 24/330
+>> Slovenian - Spanish
+	Amina intentó protegerse, pero a pesar de los rumores, Zobda y Safia dijeron "es mejor que mi hermano deje a alguien solo". Bueno, sin ambición, sin diversión, sin coraje. Creo que puedo hacerlo en un instante. Por cierto, no te sorprenderás, pero me preocupo por ella. "
+
+Step 25/330
+>> Spanish - Czech
+	Amina se snažila chránit, ale přes zvěsti Zobda a Safia řekly: „Je lepší, aby můj bratr nechal někoho na pokoji.“ No, žádné ambice, žádná zábava, žádná odvaha. Myslím, že to dokážu okamžitě. Mimochodem, nebudete překvapeni, ale já se o ni starám. "
+
+Step 26/330
+>> Czech - Italian
+	Amina ha cercato di proteggersi, ma nonostante le voci, Zobda e Safia hanno detto: "È meglio che mio fratello lasci qualcuno da solo." Beh, nessuna ambizione, niente divertimento, nessun coraggio. Penso di poterlo fare immediatamente. A proposito, non sarai sorpreso, ma mi prendo cura di lei. "
+
+Step 27/330
+>> Italian - Maltese
+	Amina ppruvat tipproteġi lilha nfisha, iżda minkejja l-għajdut, Zobda u Safia qalu: "Huwa aħjar għal ħija li jħalli lil xi ħadd waħdu." Ukoll, l-ebda ambizzjoni, l-ebda gost, l-ebda kuraġġ. Naħseb li nista 'nagħmilha immedjatament. Mill-mod, int m'intix se tkun sorpriż, imma jien nieħu ħsiebha. "
+
+Step 28/330
+>> Maltese - Estonian
+	Amina püüdis kaitsta ennast, kuid vaatamata kuulujutud, Zobda ja Safia ütles: "See on parem minu vend lahkuda keegi üksi." Noh, ei ambitsioone, no fun, ei julgust. Ma arvan, et ma ei saa seda teha kohe. Muide, sa ei kavatse olla üllatunud, kuid ma kavatsen võtta. "
+
+Step 29/330
+>> Estonian - Greek
+	Η Αμίνα προσπάθησε να υπερασπιστεί τον εαυτό της, αλλά παρά τις φήμες, ο Zobda και ο Safia δήλωσαν: «Είναι καλύτερα για τον αδερφό μου να αφήσει κάποιον μόνο του». Λοιπόν, καμία φιλοδοξία, καμία διασκέδαση, κανένα θάρρος. Δεν νομίζω ότι μπορώ να το κάνω τώρα. Με την ευκαιρία, δεν πρόκειται να εκπλαγείτε, αλλά θα πάρω. "
+
+Step 30/330
+>> Greek - Turkish
+	Amina kendini savunmaya çalıştı, ama söylentilere rağmen, Zobda ve Safia: “Kardeşimin birilerini yalnız bırakması daha iyi” dedi. Hırs yok, eğlence yok, cesaret yok. Şimdi yapabileceğimi sanmıyorum. Bu arada, hiç şaşırmayacaksın, ama yapacağım. "
+
+Step 31/330
+>> Turkish - Polish
+	Amina próbowała się bronić, ale pomimo plotek Zobda i Safia powiedziała: „Lepiej, żeby mój brat zostawił kogoś w spokoju”. Bez ambicji, bez zabawy, bez odwagi. Nie sądzę, żebym mógł to teraz zrobić. Nawiasem mówiąc, nie będziesz zaskoczony, ale ja to zrobię. "
+
+Step 32/330
+>> Polish - Arabic
+	حاولت أمينة الدفاع عن نفسها ، لكن على الرغم من شائعات زبدة وصافية ، قالت: "من الأفضل لأخي أن يترك شخصًا بمفرده". لا طموح ولا مرح ولا شجاعة. لا أعتقد أنني أستطيع أن أفعل ذلك الآن. بالمناسبة ، لن تفاجأ ، لكنني سوف. "
+
+Step 33/330
+>> Arabic - Catalan
+	Amina va intentar defensar-se, però malgrat els rumors de mantega i xarxa, va dir: "És millor que el meu germà deixi algú en pau". Ni ambiciós ni divertit ni valent. No crec que pugui fer-ho ara. Per cert, no us sorprendrà, però sí. "
+
+Step 34/330
+>> Catalan - Lithuanian
+	Amina bandė apsiginti, tačiau nepaisydama gandų apie sviestą ir tinklą, ji pasakė: „Geriau, jei mano brolis ką nors palieka ramybėje“. Nei ambicingas, nei juokingas, nei drąsus. Nemanau, kad dabar galiu tai padaryti. Beje, nenustebinsi, bet taip. "
+
+Step 35/330
+>> Lithuanian - Arabic
+	حاولت أمينة الدفاع عن نفسها ، لكن على الرغم من شائعات الزبد والشبكة ، قالت: "من الأفضل لأخي أن يترك شيئًا بمفرده". لا طموح ولا مضحك ولا جرأة. لا أعتقد أنني أستطيع فعل ذلك الآن. لن تفاجأ بالمناسبة ، لكن نعم. "
+
+Step 36/330
+>> Arabic - Slovak
+	Amina sa snažila brániť, ale napriek povestiam o masle a sieti povedala: „Je lepšie, aby môj brat niečo nechal na pokoji.“ Ani ambiciózne, ani vtipné ani odvážne. Nemyslím si, že to dokážem teraz. Mimochodom vás neprekvapí, ale áno. "
+
+Step 37/330
+>> Slovak - Malay
+	Amina cuba mempertahankan dirinya, tetapi walaupun ada khabar angin tentang mentega dan jaring, dia berkata, "Lebih baik untuk abang saya meninggalkan sesuatu yang semata-mata." Tidak bercita-cita, tidak lucu atau tidak berani. Saya tidak fikir saya boleh buat sekarang. Anda tidak akan terkejut, dengan cara ini, tetapi ya. "
+
+Step 38/330
+>> Malay - Arabic
+	تحاول أمينة الدفاع عن نفسها ، لكن على الرغم من شائعات الزبدة والشباك ، تقول: "من الأفضل لأخي أن يترك شيئًا بمفرده". غير متوقع ، ليس مضحكا أو جريئا. لا أعتقد أنني أستطيع أن أفعل ذلك الآن. لن تفاجأ ، بهذه الطريقة ، لكن نعم. "
+
+Step 39/330
+>> Arabic - Latvian
+	Amina cenšas sevi aizstāvēt, taču, neskatoties uz baumām par sviestu un tīkliem, viņa saka: "Man labāk, ja brālis kaut ko atstāj vienu." Negaidīts, nav smieklīgs vai drosmīgs. Es nedomāju, ka tagad to varu izdarīt. Nebūsiet pārsteigti, šādā veidā, bet jā. "
+
+Step 40/330
+>> Latvian - Portuguese
+	Amina tenta se defender, mas apesar dos rumores de manteiga e redes, ela diz: "É melhor que meu irmão deixe alguma coisa em paz". Inesperado, não engraçado ou corajoso. Eu não acho que posso fazer isso agora. Você não ficará surpreso assim, mas sim. "
+
+Step 41/330
+>> Portuguese - Arabic
+	تحاول أمينة الدفاع عن نفسها ، لكن على الرغم من شائعات الزبدة والشباك ، تقول: "من الأفضل أن يترك أخي شيئًا بمفرده". غير متوقع ، ليس مضحكا أو شجاعا. لا أعتقد أنني أستطيع أن أفعل ذلك الآن. لن تفاجأ من هذا القبيل ، ولكن نعم. "
+
+Step 42/330
+>> Arabic - Spanish
+	Amina intenta defenderse, pero a pesar de los rumores de mantequilla y redes, dice: "Es mejor que mi hermano deje algo solo". Inesperado, no divertido o valiente. No creo que pueda hacer eso ahora. No te sorprenderías así, pero sí. "
+
+Step 43/330
+>> Spanish - Hungarian
+	Amina megpróbálja megvédeni magát, de a vaj és a háló híresztelése ellenére azt mondja: "Jobb, ha a testvérem hagy valamit egyedül." Váratlan, nem vicces vagy bátor. Nem hiszem, hogy most meg tudom csinálni. Nem lepné meg így, de igen. "
+
+Step 44/330
+>> Hungarian - Croatian
+	Amina se pokušava zaštititi, ali unatoč glasinama o maslacu i mreži, kaže: "Bolje je da moj brat nešto ostavi na miru." Neočekivano, nije smiješno ili hrabro. Mislim da to sada ne mogu. Ne biste se iznenadili, ali da. "
+
+Step 45/330
+>> Croatian - Spanish
+	Amina intenta protegerse, pero a pesar de los rumores sobre la mantequilla y la red, dice: "Es mejor que mi hermano deje algo solo". Inesperado, no divertido o valiente. No creo que pueda hacer eso ahora. No te sorprenderías, pero sí. "
+
+Step 46/330
+>> Spanish - Arabic
+	تحاول أمينة حماية نفسها ، لكن على الرغم من الشائعات حول الزبد والشبكة ، تقول: "من الأفضل لأخي أن يترك شيئًا بمفرده". غير متوقع ، ليس مضحكا أو شجاعا. لا أعتقد أنني أستطيع فعل ذلك الآن. لن تفاجأ ، ولكن نعم. "
+
+Step 47/330
+>> Arabic - Russian
+	Амина пытается защитить себя, но, несмотря на слухи о масле и сети, она говорит: «Моему брату лучше оставить что-нибудь в покое». Неожиданно, не смешно и не смело. Я не думаю, что смогу сделать это сейчас. Вы не будете удивлены, но да. "
+
+Step 48/330
+>> Russian - Albanian
+	Amina po përpiqet të mbrohet, por përkundër thashethemeve për vaj dhe rrjetë, ajo thotë: "Vëllai im është më mirë të lërë diçka vetëm". Papritur, jo qesharake dhe jo e guximshme. Unë nuk mendoj se mund ta bëj tani. Ju nuk do të habiteni, por po. "
+
+Step 49/330
+>> Albanian - Bulgarian
+	Амина се опитва да се защити, но въпреки слуховете за масло и окото, тя казва: „Брат ми е по-добре да остави нещо на мира“. Изведнъж, не смешно и не смело. Не мисля, че мога да го направя сега. Няма да се изненадате, но да. "
+
+Step 50/330
+>> Bulgarian - Romanian
+	Amina încearcă să se protejeze, dar, în ciuda zvonurilor despre petrol și ochi, spune: „Fratele meu este mai bine să lase ceva în pace”. Deodată, nu amuzant sau îndrăzneț. Nu cred că o pot face acum. Nu vei fi surprins, dar da. "
+
+Step 51/330
+>> Romanian - Russian
+	Амина пытается защитить себя, но, несмотря на слухи о масле и глазах, говорит: «Моему брату лучше оставить что-то в покое». Вдруг не смешно и не смело. Я не думаю, что смогу сделать это сейчас. Вы не будете удивлены, но да. "
+
+Step 52/330
+>> Russian - English
+	Amina is trying to protect herself, but despite rumors of oil and eyes, she says: “It’s better for my brother to leave something alone.” Suddenly not funny and not bold. I don’t think I can do it now. You will not be surprised, but yes. "
+
+Step 53/330
+>> English - Spanish
+	Amina está tratando de protegerse, pero a pesar de los rumores de aceite y ojos, dice: "Es mejor que mi hermano deje algo solo". De repente, no es gracioso ni audaz. No creo que pueda hacerlo ahora. No te sorprenderá, pero sí. "
+
+Step 54/330
+>> Spanish - Arabic
+	تحاول أمينة حماية نفسها ، لكن على الرغم من شائعات النفط والعينين ، تقول: "من الأفضل لأخي أن يترك شيئًا بمفرده". فجأة ، هذا ليس مضحكا أو جريئا. لا أعتقد أنني أستطيع أن أفعل ذلك الآن. لن يفاجئك ، لكنه يفعل. "
+
+Step 55/330
+>> Arabic - Malay
+	Amina cuba melindungi dirinya, tetapi walaupun ada khabar angin minyak dan mata, dia berkata: "Adalah lebih baik untuk abang saya meninggalkan sesuatu sahaja." Tiba-tiba, ini tidak lucu atau berani. Saya tidak fikir saya dapat melakukannya sekarang. Ia tidak akan mengejutkan anda, tetapi ia tidak. "
+
+Step 56/330
+>> Malay - English
+	Amina tries to protect herself, but despite the rumors of oil and eyes, she says: "It's best for my brother to leave something alone." All of a sudden, it's not funny or daring. I don't think I can do it now. It won't surprise you, but it doesn't. "
+
+Step 57/330
+>> English - Kazakh
+	Амина өзін қорғауға тырысады, бірақ майлы және көзге көрінетін қауесеттерге қарамастан, ол: «Ағам үшін бір нәрсені жалғыз қалдырғаны жақсы», - дейді. Кенеттен, бұл күлкілі немесе батыл емес. Қазір жасай алмаймын деп ойлаймын. Бұл сізді таң қалдырмайды, бірақ олай емес. «
+
+Step 58/330
+>> Kazakh - Persian
+	امینا سعی کرد از او دفاع کند ، اما با وجود شایعات مبهم و مضحک ، او گفت: "خوب است که برادرم چیزی را تنها بگذارد." ناگهان ، خنده دار یا جسورانه نیست. فکر می کنم الان نمی توانم این کار را انجام دهم. شما را غافلگیر نمی کند ، اما اینطور نیست. «
+
+Step 59/330
+>> Persian - English
+	Amina tried to defend him, but despite the vague rumors, she said, "It's good for my brother to leave something alone." Suddenly, it's not funny or bold. I think I can't do that right now. It doesn't surprise you, but it doesn't. «
+
+Step 60/330
+>> English - French
+	Amina a essayé de le défendre, mais malgré les vagues rumeurs, elle a déclaré: "C'est bien que mon frère laisse quelque chose en paix." Du coup, ce n'est ni drôle ni audacieux. Je pense que je ne peux pas faire ça maintenant. Cela ne vous surprend pas, mais ce n'est pas le cas. «
+
+Step 61/330
+>> French - Spanish
+	Amina trató de defenderlo, pero a pesar de los vagos rumores, dijo: "Es bueno que mi hermano esté dejando algo en paz". Entonces, no es ni divertido ni atrevido. Creo que no puedo hacer eso ahora. Esto no te sorprende, pero no lo es. "
+
+Step 62/330
+>> Spanish - Turkish
+	Amina onu savunmaya çalıştı, ancak belirsiz söylentilere rağmen, “Kardeşimin yalnız bir şey bırakması iyi” dedi. Yani, ne eğlenceli ne de cüretkar. Sanırım bunu şimdi yapamam. Bu sizi şaşırtmaz, ama değil. "
+
+Step 63/330
+>> Turkish - English
+	Amina tried to defend her, but despite vague rumors, iyi It's good that my brother left something alone.. I mean, neither fun nor daring. I guess I can't do that now. That doesn't surprise you, but it doesn't. "
+
+Step 64/330
+>> English - Spanish
+	Amina trató de defenderla, pero a pesar de los vagos rumores, es bueno que mi hermano haya dejado algo solo ... Quiero decir, ni divertido ni atrevido. Supongo que no puedo hacer eso ahora. Eso no te sorprende, pero no lo hace. "
+
+Step 65/330
+>> Spanish - Serbian
+	Амина је покушала да се одбрани, али упркос нејасним гласинама, добро је да је мој брат нешто оставио на миру ... Мислим, ни смешно ни смело. Ваљда то не могу сада. То вас не изненађује, али не. "
+
+Step 66/330
+>> Serbian - Albanian
+	Amina u përpoq të mbrohej, por megjithë thashethemet e paqarta, është mirë që vëllai im la diçka të vetëm ... E kam fjalën, as qesharake, as e guximshme. Unë mendoj se nuk mund ta bëj këtë tani. Kjo nuk ju befason, por nuk ndodh. "
+
+Step 67/330
+>> Albanian - English
+	Amina tried to defend herself, but despite the vague rumors, it's good that my brother left something alone ... I mean, neither funny nor bold. I guess I can't do that right now. That doesn't surprise you, but it doesn't. "
+
+Step 68/330
+>> English - Georgian
+	ამინა ცდილობდა დაიცვას თავი, მაგრამ ბუნდოვანი ჭორების მიუხედავად, კარგია, რომ ჩემმა ძმამ რაღაც დატოვა მარტო ... ვგულისხმობ, არც სასაცილო და არც თამამი. ვფიქრობ, ახლა ვერ გავაკეთებ. ეს არ გაგიკვირდებათ, მაგრამ ასე არ არის. ”
+
+Step 69/330
+>> Georgian - English
+	Amina tried to defend herself, but despite the vague rumors, it's good that my brother left something alone ... I mean, neither funny nor bold. I guess I can't do it now. It may not surprise you, but it is not. ”
+
+Step 70/330
+>> English - Spanish
+	Amina trató de defenderse, pero a pesar de los vagos rumores, es bueno que mi hermano haya dejado algo solo ... quiero decir, ni divertido ni audaz. Supongo que no puedo hacerlo ahora. Puede que no te sorprenda, pero no lo es. "
+
+Step 71/330
+>> Spanish - English
+	Amina tried to defend herself, but despite the vague rumors, it is good that my brother left something alone ... I mean, neither funny nor bold. I guess I can't do it now. It may not surprise you, but it is not. "
+
+Step 72/330
+>> English - Sinhala
+	අමීනා තමාවම ආරක්ෂා කර ගැනීමට උත්සාහ කළ නමුත් නොපැහැදිලි කටකතා තිබියදීත්, මගේ සහෝදරයා යමක් තනි කර තිබීම සතුටක් ... මම අදහස් කළේ විහිළුවක් හෝ නිර්භීතකමක් නොවේ. මම හිතන්නේ මට දැන් ඒක කරන්න බැහැ. එය ඔබ පුදුමයට පත් නොවිය හැකි නමුත් එය එසේ නොවේ. "
+
+Step 73/330
+>> Sinhala - Bosnian
+	Amina se pokušala obraniti, ali uprkos nejasnim glasinama, bilo je lijepo što je moj brat pjevao zbog nečega ... Mislim, nema šale ili hrabrosti. Mislim da to trenutno ne mogu. Možda vas neće iznenaditi, ali jeste. "
+
+Step 74/330
+>> Bosnian - Spanish
+	Amina trató de defenderse, pero a pesar de los vagos rumores, fue agradable que mi hermano cantara sobre algo ... quiero decir, sin broma ni valentía. No creo que pueda hacer eso ahora. Puede que no te sorprenda, pero lo es. "
+
+Step 75/330
+>> Spanish - Portuguese
+	Amina tentou se defender, mas, apesar dos vagos rumores, foi bom que meu irmão tenha cantado sobre algo ... quero dizer, sem brincadeira ou bravura. Eu não acho que posso fazer isso agora. Pode não surpreendê-lo, mas é. "
+
+Step 76/330
+>> Portuguese - Arabic
+	حاولت أمينة الدفاع عن نفسها ، لكن على الرغم من الشائعات الغامضة ، كان من الجيد أن أخي غنى عن شيء ... أقصد ، لا مزاح أو شجاعة. لا أعتقد أنني أستطيع أن أفعل ذلك الآن. قد لا يفاجئك ، لكنه كذلك. "
+
+Step 77/330
+>> Arabic - Macedonian
+	Амина се обиде да се одбрани, но и покрај мистериозните гласини, добро беше што брат ми пееше нешто ... мислам, нема шега или храброст. Мислам дека не можам да го сторам тоа сега. Можеби не ве изненадува, но така. "
+
+Step 78/330
+>> Macedonian - Armenian
+	Ամինան փորձեց պաշտպանել իրեն, բայց չնայած խորհրդավոր լուրերին, լավ էր, որ եղբայրս ինչ-որ բան էր երգում ... նկատի ունեմ ՝ ոչ մի կատակ կամ խիզախություն: Կարծում եմ, որ հիմա դա չեմ կարող անել: Դա կարող է ձեզ զարմացնել, բայց դա այդպես է: »
+
+Step 79/330
+>> Armenian - Thai
+	Amina พยายามปกป้องตัวเอง แต่ถึงแม้จะมีข่าวลึกลับมันก็ดีที่พี่ชายของฉันกำลังร้องเพลงอะไรบางอย่าง ... ฉันหมายถึงไม่ตลกหรือกล้าหาญ ฉันคิดว่าตอนนี้ฉันไม่สามารถทำได้ มันอาจทำให้คุณประหลาดใจ แต่มันก็เป็น "
+
+Step 80/330
+>> Thai - Arabic
+	تحاول أمينة حماية نفسها. لكن على الرغم من الأخبار الغامضة ، من الجيد أن أخي يغني شيئًا ... أقصد ، ليس مضحكا أو شجاعًا. أعتقد الآن أنني لا أستطيع أن أفعل قد يفاجئك لكنه "
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	阿米娜试图保护自己。但是，尽管有神秘的消息，我哥哥唱的东西真好......我的意思是，不好笑或者勇敢。我想现在我不能这样做可能会让你感到惊讶，但它是“
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Amina trató de protegerse. Sin embargo, a pesar de las misteriosas noticias, mi hermano cantó algo realmente bueno ... Quiero decir, no es gracioso ni valiente. Creo que ahora no puedo hacer esto, puede sorprenderte, pero es "
+
+Step 83/330
+>> Spanish - Ukrainian
+	Аміна намагалася захистити себе. Однак, незважаючи на таємничі новини, мій брат заспівав щось дійсно добре ... Я маю на увазі, він не смішний чи сміливий. Я думаю, я не можу цього зробити зараз, це може вас здивувати, але це "
+
+Step 84/330
+>> Ukrainian - Spanish
+	Amin trató de protegerse. Sin embargo, a pesar de las misteriosas noticias, mi hermano cantó algo realmente bueno ... Quiero decir, no es divertido ni audaz. Supongo que no puedo hacerlo ahora, podría sorprenderte, pero es "
+
+Step 85/330
+>> Spanish - English
+	Amin tried to protect himself. However, despite the mysterious news, my brother sang something really good ... I mean, it's not funny or bold. I guess I can't do it now, I might surprise you, but it's "
+
+Step 86/330
+>> English - Mongolian
+	Амин өөрийгөө хамгаалах гэж хичээв. Гэсэн хэдий ч нууцлаг мэдээ сонсогдож байгаа ч миний дүү үнэхээр сайхан дуулсан ... Энэ нь инээдтэй, зоримог биш юм. Би одоо үүнийг хийж чадахгүй байх аа, та нарыг гайхуулах байх, гэвч "
+
+Step 87/330
+>> Mongolian - Spanish
+	Intentó protegerse a sí mismo. Sin embargo, un mensaje misterioso parece que mi hermana es realmente hermosa ... No es divertido ni audaz. No puedo hacerlo ahora, pero te sorprenderás, pero "
+
+Step 88/330
+>> Spanish - Arabic
+	حاول حماية نفسه. ومع ذلك ، فإن رسالة غامضة يبدو أن أختي جميلة حقا ... أنها ليست متعة أو جريئة. لا أستطيع فعل ذلك الآن ، لكنك ستندهش ، لكن "
+
+Step 89/330
+>> Arabic - Kurdish
+	Hewl da ku xwe biparêze. Lêbelê, peyamek xwerû dixuye ku xwişka min bi rastî xweş e ... ne xweş e û ne bêzar e. Ez niha nikarim bikim, lê hûn ê şaş bimînin, lê "
+
+Step 90/330
+>> Kurdish - English
+	He tried to protect himself. However, the obvious message seems to be that my sister is really pretty ... not pretty and not bored. I can't do it right now, but you'll be surprised, but "
+
+Step 91/330
+>> English - Dutch
+	Hij probeerde zichzelf te beschermen. De voor de hand liggende boodschap lijkt echter te zijn dat mijn zus echt mooi is ... niet mooi en niet verveeld. Ik kan het nu niet doen, maar je zult verrast zijn, maar "
+
+Step 92/330
+>> Dutch - English
+	He tried to protect himself. However, the obvious message seems to be that my sister is really beautiful ... not beautiful and not bored. I can't do it now, but you'll be surprised, but "
+
+Step 93/330
+>> English - Samoan
+	Na ia taumafai e puipuia o ia lava. Ae ui i lea, o le savali manino e foliga mai o loʻu tuafafine e matua matagofie ... e le matagofie ma e le faʻavaivai. E le mafai ona ou faia i le taimi nei, ae o le ae ofo, ae "
+
+Step 94/330
+>> Samoan - Uzbek
+	U o'zini himoya qilishga urindi. Biroq, aniq xabar, mening singlim juda chiroyli ekanligi ko'rinadi ... chiroyli emas va hech qachon taslim bo'lmaydi. Men buni hozir qila olmayman, lekin siz hayron qolasiz, lekin "
+
+Step 95/330
+>> Uzbek - English
+	He tried to defend himself. However, the clear message is that my sister seems to be very beautiful ... not beautiful and never surrendered. I can't do it right now, but you may be surprised, "
+
+Step 96/330
+>> English - Arabic
+	حاول الدفاع عن نفسه. ومع ذلك ، فإن الرسالة الواضحة هي أن أختي تبدو جميلة جداً ... ليست جميلة ولا تستسلم أبدًا. لا أستطيع فعل ذلك الآن ، لكن قد تفاجأ "
+
+Step 97/330
+>> Arabic - French
+	Il a essayé de se défendre. Cependant, le message clair est que ma soeur a l'air si belle… pas belle et ne jamais abandonner. Je ne peux pas le faire maintenant, mais vous pourriez être surpris.
+
+Step 98/330
+>> French - Spanish
+	Intentó defenderse. Sin embargo, el mensaje claro es que mi hermana se ve tan hermosa ... no hermosa y nunca te rindes. No puedo hacerlo ahora, pero te sorprenderás.
+
+Step 99/330
+>> Spanish - Romanian
+	A încercat să se apere. Cu toate acestea, mesajul clar este că sora mea pare atât de frumoasă ... nu frumoasă și nu renunți niciodată. Nu o pot face acum, dar vei fi surprins.
+
+Step 100/330
+>> Romanian - Filipino
+	Sinubukan niyang ipagtanggol ang kanyang sarili. Gayunpaman, ang malinaw na mensahe ay ang aking kapatid na babae ay mukhang napakaganda ... hindi maganda at hindi ka sumuko. Hindi ko magagawa ngayon, ngunit magugulat ka.
+
+Step 101/330
+>> Filipino - Zulu
+	Wazama ukuzivikela. Kodwa-ke, umyalezo osobala ngukuthi udadewethu ubukeka muhle kakhulu ... awumuhle futhi awuphoxi. Angikwazi ukukwenza manje, kepha uzomangala.
+
+Step 102/330
+>> Zulu - Arabic
+	حاول الدفاع عن نفسه. ومع ذلك ، فإن الرسالة الواضحة هي أن أختي تبدو جميلة ... قبيحة ومهينة للغاية. لا أستطيع فعل ذلك الآن ، لكنك ستندهش.
+
+Step 103/330
+>> Arabic - Indonesian
+	Dia mencoba membela diri. Namun, pesan yang jelas adalah bahwa saudara perempuan saya terlihat cantik ... jelek dan sangat memalukan. Saya tidak bisa melakukannya sekarang, tetapi Anda akan terkejut.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Anh cố gắng tự vệ. Tuy nhiên, thông điệp rõ ràng là em gái tôi trông rất ... xấu xí và rất xấu hổ. Tôi không thể làm điều đó ngay bây giờ, nhưng bạn sẽ ngạc nhiên.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Intentó defenderse. Sin embargo, el mensaje claro es que mi hermana se veía muy ... fea y muy avergonzada. No puedo hacerlo ahora, pero te sorprenderás.
+
+Step 106/330
+>> Spanish - Arabic
+	حاول الدفاع عن نفسه. ومع ذلك ، فإن الرسالة الواضحة هي أن أختي بدت ... قبيحة ومحرجة للغاية. لا أستطيع فعل ذلك الآن ، لكنك ستندهش.
+
+Step 107/330
+>> Arabic - Spanish
+	Intentó defenderse. Sin embargo, el mensaje claro es que mi hermana se veía ... fea y muy vergonzosa. No puedo hacerlo ahora, pero te sorprenderás.
+
+Step 108/330
+>> Spanish - Russian
+	Он пытался защитить себя. Однако ясно, что моя сестра выглядела ... некрасивой и очень смущающей. Я не могу сделать это сейчас, но вы будете удивлены.
+
+Step 109/330
+>> Russian - Arabic
+	حاول حماية نفسه. ومع ذلك ، فمن الواضح أن أختي بدت ... قبيحة ومحرجة للغاية. لا أستطيع فعل ذلك الآن ، لكنك ستندهش.
+
+Step 110/330
+>> Arabic - Spanish
+	Intentó protegerse. Sin embargo, está claro que mi hermana se veía ... fea y muy vergonzosa. No puedo hacerlo ahora, pero te sorprenderás.
+
+Step 111/330
+>> Spanish - Portuguese
+	Ele tentou se proteger. No entanto, é claro que minha irmã parecia ... feia e muito embaraçosa. Não posso fazer isso agora, mas você ficará surpreso.
+
+Step 112/330
+>> Portuguese - English
+	He tried to protect himself. However, of course my sister looked ... ugly and very embarrassing. I can't do it now, but you will be surprised.
+
+Step 113/330
+>> English - Spanish
+	Intentó protegerse a sí mismo. Sin embargo, por supuesto, mi hermana se veía ... fea y muy vergonzosa. No puedo hacerlo ahora, pero te sorprenderás.
+
+Step 114/330
+>> Spanish - English
+	He tried to protect himself. However, of course, my sister looked ... ugly and very embarrassing. I can't do it now, but you'll be surprised.
+
+Step 115/330
+>> English - Hindi
+	उसने खुद को बचाने की कोशिश की। हालांकि, ज़ाहिर है, मेरी बहन ने देखा ... बदसूरत और बहुत शर्मनाक। मैं अब ऐसा नहीं कर सकता, लेकिन आपको आश्चर्य होगा।
+
+Step 116/330
+>> Hindi - Portuguese
+	Ele tentou se proteger. No entanto, é claro, minha irmã percebeu ... feia e muito embaraçosa. Não posso fazer isso agora, mas você ficaria surpreso.
+
+Step 117/330
+>> Portuguese - Spanish
+	Intentó protegerse a sí mismo. Sin embargo, por supuesto, mi hermana se dio cuenta ... fea y muy vergonzosa. No puedo hacer eso ahora, pero te sorprenderías.
+
+Step 118/330
+>> Spanish - English
+	He tried to protect himself. However, of course, my sister realized ... ugly and very embarrassing. I can't do that now, but you would be surprised.
+
+Step 119/330
+>> English - Bengali
+	সে নিজেকে রক্ষার চেষ্টা করেছিল। তবে অবশ্যই আমার বোন বুঝতে পেরেছিল ... কুৎসিত এবং খুব বিব্রতকর। আমি এখন এটি করতে পারি না, তবে আপনি অবাক হবেন।
+
+Step 120/330
+>> Bengali - French
+	Elle a essayé de se défendre. Cependant, bien sûr, ma sœur a réalisé… très laid et très embarrassant. Je ne peux pas le faire maintenant, mais vous serez surpris.
+
+Step 121/330
+>> French - lao
+	ນາງໄດ້ພະຍາຍາມປ້ອງກັນຕົວເອງ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ແນ່ນອນ, ເອື້ອຍຂອງຂ້ອຍຮູ້ວ່າ ... ຂີ້ຮ້າຍແລະ ໜ້າ ອາຍຫຼາຍ. ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ດຽວນີ້, ແຕ່ເຈົ້າຈະປະຫລາດໃຈ.
+
+Step 122/330
+>> lao - English
+	She was trying to defend herself. However, of course, my sister knows that ... terrible and embarrassing. I can't do this now, but you will be surprised.
+
+Step 123/330
+>> English - Portuguese
+	Ela estava tentando se defender. No entanto, é claro, minha irmã sabe disso ... terrível e embaraçoso. Não posso fazer isso agora, mas você ficará surpreso.
+
+Step 124/330
+>> Portuguese - English
+	She was trying to defend herself. However, of course, my sister knows this ... terrible and embarrassing. I can't do it now, but you will be surprised.
+
+Step 125/330
+>> English - Portuguese
+	Ela estava tentando se defender. No entanto, é claro, minha irmã sabe disso ... terrível e embaraçoso. Não posso fazer isso agora, mas você ficará surpreso.
+
+Step 126/330
+>> Portuguese - English
+	She was trying to defend herself. However, of course, my sister knows this ... terrible and embarrassing. I can't do it now, but you will be surprised.
+
+Step 127/330
+>> English - Portuguese
+	Ela estava tentando se defender. No entanto, é claro, minha irmã sabe disso ... terrível e embaraçoso. Não posso fazer isso agora, mas você ficará surpreso.
+
+Step 128/330
+>> Portuguese - Burmese
+	သူမသည်သူ့ကိုယ်သူခုခံကာကွယ်ဖို့ကြိုးစားနေခဲ့သည်။ သို့သော်သင်တန်း၏, ငါ့နှမ ... ကြောက်မက်ဘွယ်သောနှင့်ရှက်စရာကြောင်းကိုငါသိ၏။ ယခုတွင်ငါသည်ကြောင်းမပွုနိုငျသျောလညျးသငျအံ့သြသွားရလိမ့်မည်။
+
+Step 129/330
+>> Burmese - Nepali
+	त्यो आफूलाई रक्षा गर्ने प्रयास भएको थियो। तर को पाठ्यक्रम, मेरी बहिनी ... भयानक लाज र म यो छ थाहा छ। म अब त्यसो गर्न सक्नुहुन्छ, तर तपाईँले छक्क हुनेछ।
+
+Step 130/330
+>> Nepali - Urdu
+	یہ اپنے دفاع کی کوشش تھی۔ لیکن یقینا ، میری بہن ... خوفناک شرم کی بات ہے اور میں جانتا ہوں کہ یہ ہے۔ میں اب یہ کرسکتا ہوں ، لیکن آپ حیران ہوں گے۔
+
+Step 131/330
+>> Urdu - French
+	C'était une tentative de se défendre. Mais bien sûr, ma soeur ... est une honte terrible et je le sais. Je peux le faire maintenant, mais vous serez surpris.
+
+Step 132/330
+>> French - English
+	It was an attempt to defend himself. But of course, my sister ... is a terrible shame and I know it. I can do it now, but you will be surprised.
+
+Step 133/330
+>> English - Swahili
+	Ilikuwa jaribio la kujitetea. Lakini kwa kweli, dada yangu ... ni aibu mbaya na ninajua. Naweza kuifanya sasa, lakini utashangaa.
+
+Step 134/330
+>> Swahili - Arabic
+	كانت محاولة للدفاع عن النفس. لكن في الحقيقة ، أختي ... إنه لأمر مخزٍ وأعلم ذلك. يمكنني أن أفعل ذلك الآن ، لكنك ستندهش.
+
+Step 135/330
+>> Arabic - Shona
+	Kwakanga kuri kuyedza kuzvidzivirira. Asi chaizvo, hanzvadzi yangu ... Zvinonyadzisa uye ini ndozviziva izvozvo. Ini ndinogona kuzviita izvozvi, asi iwe uchashamisika.
+
+Step 136/330
+>> Shona - Hausa
+	Yunkuri ne na kare kansa. Amma da gaske 'yar uwata ... Abin kunya ne kuma na san hakan. Zan iya aikata shi yanzu, amma zaku sha mamaki.
+
+Step 137/330
+>> Hausa - Swahili
+	Ilikuwa jaribio la kujiua. Lakini kwa kweli dada yangu ... Ni aibu na ninajua hilo. Naweza kuifanya sasa, lakini utashangaa.
+
+Step 138/330
+>> Swahili - English
+	It was a suicide attempt. But really my sister ... It's a shame and I know that. I can do it now, but you'll be surprised.
+
+Step 139/330
+>> English - Arabic
+	لقد كانت محاولة انتحار. ولكن حقا أختي ... إنه عار وأنا أعلم ذلك. يمكنني أن أفعل ذلك الآن ، لكنك ستندهش.
+
+Step 140/330
+>> Arabic - Malagasy
+	Andrana famonoan-tena izany. Fa tena za-drahavavy, Tena mahamenatra izany fantatro io. Azoko atao izao, fa ho gaga ianao.
+
+Step 141/330
+>> Malagasy - Swahili
+	Ilikuwa jaribio la kujiua. Lakini kweli dada, hii ni aibu ninayoijua. Naweza kuifanya sasa, lakini utashangaa.
+
+Step 142/330
+>> Swahili - French
+	C'était une tentative de suicide. Mais vraiment soeur, c'est dommage je sais. Je peux le faire maintenant, mais vous serez surpris.
+
+Step 143/330
+>> French - Arabic
+	لقد كانت محاولة انتحار. لكن أختها حقًا ، إنه لأمر عار. يمكنني أن أفعل ذلك الآن ، لكنك ستندهش.
+
+Step 144/330
+>> Arabic - French
+	C'était une tentative de suicide. Mais sa soeur est vraiment dommage. Je peux le faire maintenant, mais vous serez surpris.
+
+Step 145/330
+>> French - Arabic
+	لقد كانت محاولة انتحار. لكن أخته أمر مؤسف حقًا. يمكنني أن أفعل ذلك الآن ، لكنك ستندهش.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Se te yon tantativ swisid. Men, sè l 'se reyèlman malere. Mwen ka fè li kounye a, men ou pral sezi.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	دا د ځان وژنې هڅه وه. مګر د هغې خور واقعیا بدبخته ده. زه اوس کولی شم ، مګر تاسو به حیران شئ.
+
+Step 148/330
+>> Pashto - French
+	C'était une tentative de suicide. Mais sa soeur est vraiment misérable. Je peux le faire maintenant, mais vous serez surpris.
+
+Step 149/330
+>> French - Chichewa
+	Kunali kuyesa kudzipha. Koma mlongo wake ndiwachisoni. Nditha kuzichita pano, koma mudzadabwa.
+
+Step 150/330
+>> Chichewa - Arabic
+	لقد كانت محاولة انتحار. لكن أخته حزينة. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 151/330
+>> Arabic - Amharic
+	ይህ የራስን ሕይወት የማጥፋት ሙከራ ነበር። እህቱ ግን አዝናለች ፡፡ እዚህ ማድረግ እችላለሁ ፣ ግን ትገረማለህ።
+
+Step 152/330
+>> Amharic - English
+	This was a suicide attempt. But his sister is sorry. I can do it here, but you'll be surprised.
+
+Step 153/330
+>> English - French
+	C'était une tentative de suicide. Mais sa soeur est désolée. Je peux le faire ici, mais vous serez surpris.
+
+Step 154/330
+>> French - Swahili
+	Ilikuwa jaribio la kujiua. Lakini dada yake samahani. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 155/330
+>> Swahili - Portuguese
+	Foi uma tentativa de suicídio. Mas a irmã dele está arrependida. Eu posso fazer isso aqui, mas você ficará surpreso.
+
+Step 156/330
+>> Portuguese - Arabic
+	كانت محاولة للانتحار. لكن شقيقته آسف. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 157/330
+>> Arabic - Portuguese
+	Ela estava tentando se suicidar. Mas desculpe irmã. Eu posso fazer isso aqui, mas você ficará surpreso.
+
+Step 158/330
+>> Portuguese - English
+	She was trying to commit suicide. But sorry sister. I can do it here, but you will be surprised.
+
+Step 159/330
+>> English - French
+	Elle essayait de se suicider. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 160/330
+>> French - English
+	She was trying to commit suicide. But sorry my sister. I can do it here, but you will be surprised.
+
+Step 161/330
+>> English - Swahili
+	Alikuwa akijaribu kujiua. Lakini samahani dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 162/330
+>> Swahili - Arabic
+	كان يحاول قتل نفسه. ولكن آسف أختي. يمكنني أن أجعلها هنا ، لكنك ستندهش.
+
+Step 163/330
+>> Arabic - Arabic
+	He was trying to kill himself. But sorry my sister. I can make it here, but you'll be surprised.
+
+Step 164/330
+>> Arabic - French
+	Il essayait de se tuer. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 165/330
+>> French - Hausa
+	Yana ta ƙoƙarin kashe kansa. Amma yi hakuri 'yar uwata. Zan iya yi a nan, amma za ku yi mamaki.
+
+Step 166/330
+>> Hausa - French
+	Il essayait de se suicider. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 167/330
+>> French - Arabic
+	He was trying to commit suicide. But sorry my sister. I can do it here, but you will be surprised.
+
+Step 168/330
+>> Arabic - Arabic
+	كان يحاول الانتحار. ولكن آسف أختي. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 169/330
+>> Arabic - Swahili
+	Alikuwa akijaribu kujiua. Lakini samahani dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 170/330
+>> Swahili - English
+	He was trying to kill himself. But sorry my sister. I can make it here, but you'll be surprised.
+
+Step 171/330
+>> English - French
+	Il essayait de se tuer. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 172/330
+>> French - English
+	He was trying to kill himself. But sorry my sister. I can do it here, but you will be surprised.
+
+Step 173/330
+>> English - Portuguese
+	Ele estava tentando se matar. Mas desculpe minha irmã. Eu posso fazer isso aqui, mas você ficará surpreso.
+
+Step 174/330
+>> Portuguese - Arabic
+	كان يحاول قتل نفسه. ولكن آسف أختي. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 175/330
+>> Arabic - Portuguese
+	Ele estava tentando se matar. Mas desculpe minha irmã. Eu posso fazer isso aqui, mas você ficará surpreso.
+
+Step 176/330
+>> Portuguese - Swahili
+	Alikuwa akijaribu kujiua. Lakini samahani dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 177/330
+>> Swahili - French
+	Il essayait de se tuer. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 178/330
+>> French - English
+	He was trying to kill himself. But sorry my sister. I can do it here, but you will be surprised.
+
+Step 179/330
+>> English - Amharic
+	ራሱን ለመግደል እየሞከረ ነበር ፡፡ ግን ይቅርታ እህቴ ፡፡ እዚህ ማድረግ እችላለሁ ፣ ግን ትገረማለህ።
+
+Step 180/330
+>> Amharic - Arabic
+	كان يحاول قتل نفسه. لكن أنا آسف أختي. يمكنني أن أفعل ذلك هنا ، لكنك ستندهش.
+
+Step 181/330
+>> Arabic - Chichewa
+	Iye anali kuyesera kuti adziphe. Koma pepani mlongo wanga. Nditha kuzichita pano, koma mudzadabwa.
+
+Step 182/330
+>> Chichewa - French
+	Il essayait de se suicider. Mais désolé ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 183/330
+>> French - Pashto
+	هغه د ځان وژنې هڅه کوله. خو افسوس زما خور. زه یې دلته کولی شم ، مګر تاسو به حیران شئ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Li te eseye komèt swisid. Men, malè, sè mwen. Mwen ka fè li isit la, men ou pral sezi.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	حاول الانتحار. لكن للأسف أختي. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 186/330
+>> Arabic - French
+	Il a essayé de se suicider. Mais malheureusement ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 187/330
+>> French - Arabic
+	حاول الانتحار. لكن لسوء الحظ أختي. يمكنني أن أفعل ذلك هنا ، ولكن سوف يفاجأ.
+
+Step 188/330
+>> Arabic - French
+	Il a essayé de se suicider. Mais malheureusement ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 189/330
+>> French - Swahili
+	Alijaribu kujiua. Lakini kwa bahati mbaya dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 190/330
+>> Swahili - Malagasy
+	Nanandrana namono tena izy. Saingy indrisy anabaviko. Azoko atao eto, fa ho gaga ianao gaga.
+
+Step 191/330
+>> Malagasy - Arabic
+	حاول الانتحار. لكن لسوء الحظ أختي. يمكنني أن أفعل ذلك هنا ، لكنك ستندهش.
+
+Step 192/330
+>> Arabic - English
+	He tried to commit suicide. But unfortunately my sister. I can do it here, but you will be surprised.
+
+Step 193/330
+>> English - Swahili
+	Alijaribu kujiua. Lakini kwa bahati mbaya dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 194/330
+>> Swahili - Hausa
+	Ya yi ƙoƙarin kashe kansa. Amma da rashin alheri 'yar uwata. Zan iya yin shi anan, amma zaku sha mamaki.
+
+Step 195/330
+>> Hausa - Shona
+	Akaedza kuzviuraya. Asi zvakashata hanzvadzi yangu. Ini ndinogona kuzviita pano, asi iwe uchashamisika.
+
+Step 196/330
+>> Shona - Arabic
+	حاولت الانتحار. لكنها سيئة لأختي. يمكنني أن أفعل ذلك هنا ، لكنك ستندهش.
+
+Step 197/330
+>> Arabic - Swahili
+	Nilijaribu kujiua. Lakini yeye ni mbaya kwa dada yangu. Naweza kuifanya hapa, lakini utashangaa.
+
+Step 198/330
+>> Swahili - English
+	I tried to kill myself. But she is bad for my sister. I can make it here, but you'll be surprised.
+
+Step 199/330
+>> English - French
+	J'ai essayé de me tuer. Mais elle est mauvaise pour ma soeur. Je peux le faire ici, mais vous serez surpris.
+
+Step 200/330
+>> French - Urdu
+	میں نے خود کو مارنے کی کوشش کی۔ لیکن وہ میری بہن کے لئے برا ہے۔ میں یہاں یہ کرسکتا ہوں ، لیکن آپ حیران ہوں گے۔
+
+Step 201/330
+>> Urdu - Nepali
+	मैले आफूलाई मार्न खोजें। तर त्यो मेरो बहिनी को लागि खराब छ। म यो यहाँ गर्न सक्छु, तर तपाईं आश्चर्यचकित हुनुहुनेछ।
+
+Step 202/330
+>> Nepali - Burmese
+	ငါအသေသတ်ခြင်းကိုကိုယ့်ကိုယ်ကိုရှာပါ။ ဒါပေမယ့်ငါ့နှမများအတွက်မကောင်းတဲ့ဖြစ်ပါတယ်။ ငါဒီမှာလုပျနိုငျသျောလညျးသငျသူ့ကိုအံ့အားသင့်နေကြသည်။
+
+Step 203/330
+>> Burmese - Portuguese
+	I Encontrar-se à morte. Mas é ruim para a minha irmã. Eu não posso trabalhar aqui, mas é você surpreendeu.
+
+Step 204/330
+>> Portuguese - English
+	I find yourself to death. But it's bad for my sister. I can not work here, but it is you surprised.
+
+Step 205/330
+>> English - Portuguese
+	Eu me encontro à morte. Mas é ruim para minha irmã. Eu não posso trabalhar aqui, mas você está surpreso.
+
+Step 206/330
+>> Portuguese - English
+	I find myself in death. But it's bad for my sister. I can't work here, but you are surprised.
+
+Step 207/330
+>> English - Portuguese
+	Eu me encontro na morte. Mas é ruim para minha irmã. Não posso trabalhar aqui, mas você está surpreso.
+
+Step 208/330
+>> Portuguese - English
+	I find myself in death. But it's bad for my sister. I can't work here, but you are surprised.
+
+Step 209/330
+>> English - lao
+	ຂ້ອຍພົບຕົວເອງໃນຄວາມຕາຍ. ແຕ່ມັນບໍ່ດີ ສຳ ລັບເອື້ອຍຂ້ອຍ. ຂ້ອຍບໍ່ສາມາດເຮັດວຽກໄດ້ທີ່ນີ້, ແຕ່ເຈົ້າແປກໃຈ.
+
+Step 210/330
+>> lao - French
+	Je me trouve dans la mort. Mais ce n'est pas bon pour ma soeur. Je ne peux pas travailler ici, mais tu es surpris.
+
+Step 211/330
+>> French - Bengali
+	আমি নিজেকে মৃত্যুর সন্ধান করি। তবে এটি আমার বোনের পক্ষে ভাল নয়। আমি এখানে কাজ করতে পারি না, তবে আপনি অবাক হন।
+
+Step 212/330
+>> Bengali - English
+	I find myself dying. However this is not good for my sister. I can't work here, but you're surprised.
+
+Step 213/330
+>> English - Spanish
+	Me encuentro muriendo. Sin embargo, esto no es bueno para mi hermana. No puedo trabajar aquí, pero estás sorprendido.
+
+Step 214/330
+>> Spanish - Portuguese
+	Eu me encontro morrendo. No entanto, isso não é bom para minha irmã. Não posso trabalhar aqui, mas você está surpreso.
+
+Step 215/330
+>> Portuguese - Hindi
+	मैं खुद को मरता हुआ पाता हूं। हालांकि, यह मेरी बहन के लिए अच्छा नहीं है। मैं यहां काम नहीं कर सकता, लेकिन आप हैरान हैं।
+
+Step 216/330
+>> Hindi - English
+	I find myself dying. However, this is not good for my sister. I can't work here, but you are surprised.
+
+Step 217/330
+>> English - Spanish
+	Me encuentro muriendo. Sin embargo, esto no es bueno para mi hermana. No puedo trabajar aquí, pero estás sorprendido.
+
+Step 218/330
+>> Spanish - English
+	I find myself dying. However, this is not good for my sister. I can't work here, but you are surprised.
+
+Step 219/330
+>> English - Portuguese
+	Eu me encontro morrendo. No entanto, isso não é bom para minha irmã. Não posso trabalhar aqui, mas você está surpreso.
+
+Step 220/330
+>> Portuguese - Spanish
+	Me encuentro muriendo. Sin embargo, esto no es bueno para mi hermana. No puedo trabajar aquí, pero estás sorprendido.
+
+Step 221/330
+>> Spanish - Arabic
+	أجد نفسي يموت. ومع ذلك ، هذا ليس جيدا لأختي. لا أستطيع العمل هنا ، لكنك مندهش.
+
+Step 222/330
+>> Arabic - Russian
+	Я умираю. Тем не менее, это не хорошо для моей сестры. Я не могу здесь работать, но ты удивлен.
+
+Step 223/330
+>> Russian - Spanish
+	Me estoy muriendo Sin embargo, esto no es bueno para mi hermana. No puedo trabajar aquí, pero estás sorprendido.
+
+Step 224/330
+>> Spanish - Arabic
+	أنا أموت ولكن هذا ليس جيدًا لأختي. لا أستطيع العمل هنا ، لكنك مندهش.
+
+Step 225/330
+>> Arabic - Spanish
+	Me estoy muriendo, pero eso no es bueno para mi hermana. No puedo trabajar aquí, pero estás sorprendido.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Tôi sắp chết, nhưng điều đó không tốt cho em gái tôi. Tôi không thể làm việc ở đây, nhưng bạn ngạc nhiên.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Saya akan mati, tetapi itu tidak baik untuk saudara perempuan saya. Saya tidak bisa bekerja di sini, tetapi Anda terkejut.
+
+Step 228/330
+>> Indonesian - Arabic
+	سأموت ، لكن هذا ليس جيدًا لأختي. لا أستطيع العمل هنا ، لكنك مصدوم.
+
+Step 229/330
+>> Arabic - Zulu
+	Ngizokufa, kepha akukubi lokho dadewethu. Angikwazi ukusebenza lapha, kepha uthukile.
+
+Step 230/330
+>> Zulu - Filipino
+	Mamamatay ako, ngunit hindi iyon masamang kapatid. Hindi ako makatrabaho dito, ngunit kinakabahan siya.
+
+Step 231/330
+>> Filipino - Romanian
+	O să mor, dar nu este un frate rău. Nu pot lucra aici, dar este nervoasă.
+
+Step 232/330
+>> Romanian - Spanish
+	Voy a morir, pero no es un mal hermano. No puedo trabajar aquí, pero está nerviosa.
+
+Step 233/330
+>> Spanish - French
+	Je vais mourir, mais ce n'est pas un mauvais frère. Je ne peux pas travailler ici, mais elle est nerveuse.
+
+Step 234/330
+>> French - Arabic
+	سأموت ، لكنه ليس أخًا سيئًا. لا أستطيع العمل هنا ، لكنها عصبية.
+
+Step 235/330
+>> Arabic - English
+	I'm going to die, but he's not a bad brother. I can't work here, but she's nervous.
+
+Step 236/330
+>> English - Uzbek
+	Men o'laman, lekin u yomon aka emas. Men bu erda ishlay olmayman, lekin u asabiylashdi.
+
+Step 237/330
+>> Uzbek - Samoan
+	O le a ou oti, ae e le o ia o se uso leaga. E le mafai ona ou galue iinei, ae o se mea faigata.
+
+Step 238/330
+>> Samoan - English
+	I'm going to die, but he's not a bad brother. I can't work here, but it's a tough one.
+
+Step 239/330
+>> English - Dutch
+	Ik ga dood, maar hij is geen slechte broer. Ik kan hier niet werken, maar het is een zware dobber.
+
+Step 240/330
+>> Dutch - English
+	I'm dying, but he's not a bad brother. I can't work here, but it's a tough one.
+
+Step 241/330
+>> English - Kurdish
+	Ez dimirim, lê ew ne birayek xirab e. Ez nikarim li vir bixebitim, lê ew dijwar e.
+
+Step 242/330
+>> Kurdish - Arabic
+	أنا أموت ، لكنه ليس أخًا سيئًا. لا أستطيع العمل هنا ، لكن الأمر صعب.
+
+Step 243/330
+>> Arabic - Spanish
+	Me muero, pero no es un mal hermano. No puedo trabajar aquí, pero es difícil.
+
+Step 244/330
+>> Spanish - Mongolian
+	Би үхэж байна, гэхдээ тэр муу дүү биш. Би энд ажиллах боломжгүй, гэхдээ хэцүү.
+
+Step 245/330
+>> Mongolian - English
+	I'm dying, but he's not a bad sister. I can not work here, but it's hard.
+
+Step 246/330
+>> English - Spanish
+	Me muero, pero no es una mala hermana. No puedo trabajar aquí, pero es difícil.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Я вмираю, але це не погана сестра. Я не можу тут працювати, але важко.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Me estoy muriendo, pero no es una mala hermana. No puedo trabajar aquí, pero es difícil.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	我快死了，但这不是一个坏姐妹。我不能在这里工作，但这很难。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	أنا أموت ، لكن هذه ليست أخت سيئة. لا أستطيع العمل هنا ، لكن الأمر صعب.
+
+Step 251/330
+>> Arabic - Thai
+	ฉันกำลังจะตาย แต่นี่ไม่ใช่น้องสาวที่ไม่ดี ฉันทำงานที่นี่ไม่ได้ แต่มันยาก
+
+Step 252/330
+>> Thai - Armenian
+	Ես մեռնում եմ Բայց սա վատ քույր չէ Ես այստեղ չեմ կարող աշխատել, բայց դժվար է:
+
+Step 253/330
+>> Armenian - Macedonian
+	Умирам, но не е лоша сестра не можам да работам овде, но тешко е.
+
+Step 254/330
+>> Macedonian - Arabic
+	أنا أموت لكنها ليست شقيقة سيئة لا أستطيع العمل هنا ولكنها صعبة.
+
+Step 255/330
+>> Arabic - Portuguese
+	Estou morrendo, mas ela não é uma irmã má. Não posso trabalhar aqui, mas ela é forte.
+
+Step 256/330
+>> Portuguese - Spanish
+	Me estoy muriendo, pero ella no es una mala hermana. No puedo trabajar aquí, pero ella es fuerte.
+
+Step 257/330
+>> Spanish - Bosnian
+	Umirem, ali nije loša sestra. Ne mogu raditi ovdje, ali snažna je.
+
+Step 258/330
+>> Bosnian - Sinhala
+	මම මැරෙනවා, නමුත් ඇය නරක සහෝදරියක් නොවේ. මට මෙහි වැඩ කළ නොහැක, නමුත් එය ශක්තිමත් ය.
+
+Step 259/330
+>> Sinhala - English
+	I'm dying, but she's not a bad sister. I can’t work here, but it’s strong.
+
+Step 260/330
+>> English - Spanish
+	Me estoy muriendo, pero ella no es una mala hermana. No puedo trabajar aquí, pero es fuerte.
+
+Step 261/330
+>> Spanish - English
+	I am dying, but she is not a bad sister. I can't work here, but it's strong.
+
+Step 262/330
+>> English - Georgian
+	მე ვკვდები, მაგრამ ის არ არის ცუდი დას. მე აქ ვერ ვიმუშავებ, მაგრამ ძლიერია.
+
+Step 263/330
+>> Georgian - English
+	I'm dying, but she's not a bad sister. I can't work here, but it's strong.
+
+Step 264/330
+>> English - Albanian
+	Po vdes, por ajo nuk është motër e keqe. Nuk mund të punoj këtu, por është e fortë.
+
+Step 265/330
+>> Albanian - Serbian
+	Умире, али није лоша сестра. Не могу радити овде, али је солидно.
+
+Step 266/330
+>> Serbian - Spanish
+	Se está muriendo, pero no es una mala hermana. No puedo trabajar aquí, pero es sólido.
+
+Step 267/330
+>> Spanish - English
+	She is dying, but she is not a bad sister. I can't work here, but it's solid.
+
+Step 268/330
+>> English - Turkish
+	O ölüyor, ama o kötü bir kız kardeş değil. Burada çalışamam, ama sağlam.
+
+Step 269/330
+>> Turkish - Spanish
+	Se está muriendo, pero no es una mala hermana. No puedo trabajar aquí, pero es sólido.
+
+Step 270/330
+>> Spanish - French
+	Elle est en train de mourir, mais ce n'est pas une mauvaise soeur. Je ne peux pas travailler ici, mais c'est solide.
+
+Step 271/330
+>> French - English
+	She is dying, but she is not a bad sister. I can not work here, but it's solid.
+
+Step 272/330
+>> English - Persian
+	او در حال مرگ است ، اما او یک خواهر بد نیست. من در اینجا نمی توانم کار کنم ، اما جامد است.
+
+Step 273/330
+>> Persian - Kazakh
+	Ол өліп жатыр, бірақ ол жаман қарындас емес. Мен мұнда жұмыс істей алмаймын, бірақ бұл өте жақсы.
+
+Step 274/330
+>> Kazakh - English
+	She is dying, but she is not a bad sister. I can not work here, but it's fine.
+
+Step 275/330
+>> English - Malay
+	Dia sedang mati, tetapi dia bukan kakak jahat. Saya tidak boleh bekerja di sini, tetapi tidak mengapa.
+
+Step 276/330
+>> Malay - Arabic
+	لقد مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن هذا جيد.
+
+Step 277/330
+>> Arabic - Spanish
+	Murió, pero no es un mal hermano. No puedo trabajar aquí, pero eso es bueno.
+
+Step 278/330
+>> Spanish - English
+	He died, but he is not a bad brother. I can't work here, but that's good.
+
+Step 279/330
+>> English - Russian
+	Он умер, но он не плохой брат. Я не могу здесь работать, но это хорошо.
+
+Step 280/330
+>> Russian - Romanian
+	A murit, dar nu este un frate rău. Nu pot lucra aici, dar este bine.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Той е мъртъв, но не е лош брат. Не мога да работя тук, но е добре.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ai ka vdekur, por nuk është një vëlla i keq. Nuk mund të punoj këtu, por është mirë.
+
+Step 283/330
+>> Albanian - Russian
+	Он мертв, но он не плохой брат. Я не могу работать здесь, но это нормально.
+
+Step 284/330
+>> Russian - Arabic
+	لقد مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن هذا جيد.
+
+Step 285/330
+>> Arabic - Spanish
+	Murió, pero no es un mal hermano. No puedo trabajar aquí, pero eso es bueno.
+
+Step 286/330
+>> Spanish - Croatian
+	Umro je, ali nije loš brat. Ne mogu raditi ovdje, ali to je dobro.
+
+Step 287/330
+>> Croatian - Hungarian
+	Meghalt, de nem rossz testvér. Nem tudok itt dolgozni, de jó.
+
+Step 288/330
+>> Hungarian - Spanish
+	Está muerto, pero no es un mal hermano. No puedo trabajar aquí, pero está bien.
+
+Step 289/330
+>> Spanish - Arabic
+	لقد مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن هذا جيد.
+
+Step 290/330
+>> Arabic - Portuguese
+	Ele morreu, mas ele não é um irmão ruim. Não posso trabalhar aqui, mas isso é bom.
+
+Step 291/330
+>> Portuguese - Latvian
+	Viņš nomira, bet viņš nav slikts brālis. Es šeit nevaru strādāt, bet tas ir labi.
+
+Step 292/330
+>> Latvian - Arabic
+	مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن هذا جيد.
+
+Step 293/330
+>> Arabic - Malay
+	Dia mati, tetapi dia bukan abang yang jahat. Saya tidak boleh bekerja di sini, tapi itu baik.
+
+Step 294/330
+>> Malay - Slovak
+	Je mŕtvy, ale nie je zlým bratom. Nemôžem tu pracovať, ale je to v poriadku.
+
+Step 295/330
+>> Slovak - Arabic
+	لقد مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن لا بأس.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Jis mirė, bet jis nėra blogas brolis. Aš negaliu čia dirbti, bet viskas gerai.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Ha mort, però no és un mal germà. No puc treballar aquí, però està bé.
+
+Step 298/330
+>> Catalan - Arabic
+	لقد مات ، لكنه ليس أخاً سيئاً. لا أستطيع العمل هنا ، لكن لا بأس.
+
+Step 299/330
+>> Arabic - Polish
+	Umarł, ale nie jest złym bratem. Nie mogę tutaj pracować, ale jest w porządku.
+
+Step 300/330
+>> Polish - Turkish
+	Öldü ama o kötü bir kardeş değil. Burada çalışamam ama sorun değil.
+
+Step 301/330
+>> Turkish - Greek
+	Είναι νεκρός, αλλά δεν είναι κακός αδερφός. Δεν μπορώ να δουλέψω εδώ, αλλά είναι εντάξει.
+
+Step 302/330
+>> Greek - Estonian
+	Ta on surnud, kuid ta pole halb vend. Ma ei saa siin töötada, aga see on okei.
+
+Step 303/330
+>> Estonian - Maltese
+	Hu mejjet, imma hu mhux ħu ħażin. Ma nistax naħdem hawn, imma kollox sew.
+
+Step 304/330
+>> Maltese - Italian
+	È morto, ma non è una cattiva introito. Non posso lavorare qui, ma tutto bene.
+
+Step 305/330
+>> Italian - Czech
+	Je mrtvý, ale není to špatné. Nemohu tady pracovat, ale jsem v pořádku.
+
+Step 306/330
+>> Czech - Spanish
+	Está muerto, pero no está mal. No puedo trabajar aquí, pero estoy bien.
+
+Step 307/330
+>> Spanish - Slovenian
+	Mrtev je, a ni slab. Tu ne morem delati, ampak v redu sem.
+
+Step 308/330
+>> Slovenian - French
+	Il est mort, mais pas mal. Je ne peux pas travailler ici, mais ça va.
+
+Step 309/330
+>> French - Korean
+	그는 죽었지 만 나쁘지 않습니다. 나는 여기서 일할 수 없지만 괜찮습니다.
+
+Step 310/330
+>> Korean - Hebrew
+	הוא מת אבל לא רע. אני לא יכול לעבוד כאן אבל זה בסדר.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Hien ass gestuerwen awer net schlecht. Ech kann net hei schaffen, awer et ass gutt.
+
+Step 312/330
+>> Luxembourgish - German
+	Er ist gestorben, aber nicht böse. Ich kann hier nicht arbeiten, aber es ist in Ordnung.
+
+Step 313/330
+>> German - Japanese
+	彼は亡くなりましたが、怒っていませんでした。私はここで働くことはできませんが、大丈夫です。
+
+Step 314/330
+>> Japanese - German
+	Er starb, war aber nicht böse. Ich kann hier nicht arbeiten, aber es ist okay.
+
+Step 315/330
+>> German - Dutch
+	Hij stierf maar was niet boos. Ik kan hier niet werken, maar het is oké.
+
+Step 316/330
+>> Dutch - Maori
+	Ka mate ia kaore ia e riri. Kaore e taea e au te mahi i konei, engari he pai.
+
+Step 317/330
+>> Maori - Finnish
+	Kuollessaan hän ei ole vihainen. En voi tehdä sitä täällä, mutta se on hieno.
+
+Step 318/330
+>> Finnish - English
+	He is not angry when he dies. I can't do it here, but it's great.
+
+Step 319/330
+>> English - Danish
+	Han er ikke vred, når han dør. Jeg kan ikke gøre det her, men det er fantastisk.
+
+Step 320/330
+>> Danish - Dutch
+	Hij is niet boos als hij sterft. Ik kan dit niet, maar het is geweldig.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	他去世時並不生氣。我不能這樣做，但它很棒。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Han var inte arg när han dog. Jag kan inte göra det här, men det är fantastiskt.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	他去世時沒有生氣。我不能這樣做，但它太棒了。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Hann var ekki reiður þegar hann dó. Ég get ekki gert þetta, en það er frábært.
+
+Step 325/330
+>> Icelandic - German
+	Er war nicht böse, als er starb. Ich kann das nicht, aber es ist großartig.
+
+Step 326/330
+>> German - Irish
+	Ní raibh sé feargach nuair a fuair sé bás. Ní féidir liom é sin a dhéanamh, ach tá sé iontach.
+
+Step 327/330
+>> Irish - English
+	He wasn't angry when he died. I don't do that, but it's amazing.
+
+Step 328/330
+>> English - German
+	Er war nicht böse, als er starb. Das mache ich nicht, aber es ist erstaunlich.
+
+Step 329/330
+>> German - Norwegian
+	Han var ikke sint da han døde. Det gjør jeg ikke, men det er utrolig.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Ele não estava com raiva quando morreu. Eu não, mas é incrível.
+
+
+##### RESULTS ######
+
+O carregador, apesar da sua retórica, teria sido talvez obrigado a retirar-se confuso, se Amina, tomando com empenho a sua defesa, não tivesse dito a Zobeida e Safia: “Minhas queridas irmãs, suplico-vos permitais que este homem fique conosco. Não é preciso dizer-vos que saberá divertir-nos, porque estais vendo que é capaz. Asseguro-vos que sem a sua boa vontade, a sua ligeireza e a sua coragem em me seguir, eu não teria logrado fazer tantas compras em tão pouco tempo. Além disso, se vos repetisse todas as graças que me disse pelo caminho, vos surpreenderíeis bem pouco com a proteção que lhe concedo”.
+
+Ele não estava com raiva quando morreu. Eu não, mas é incrível.

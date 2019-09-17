@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Primeira viagem de Sindbá, o Marinheiro.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Første tur av Sindbah the Sailor.
+
+Step 2/330
+>> Norwegian - German
+	Erste Tour durch Sindbah the Sailor.
+
+Step 3/330
+>> German - English
+	First tour of Sindbah the Sailor.
+
+Step 4/330
+>> English - Irish
+	An chéad turas ar Sindbah an Sailor.
+
+Step 5/330
+>> Irish - German
+	Die erste Reise nach Sindbah the Sailor.
+
+Step 6/330
+>> German - Icelandic
+	Fyrsta ferðin til Sindbah sjómannsins.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Sindbah水手的第一次旅行。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Sindbah sjömans första resa.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Sindbah水手的第一次旅行。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Sindbah matroos eerste reis.
+
+Step 11/330
+>> Dutch - Danish
+	Sindbah matros første tur.
+
+Step 12/330
+>> Danish - English
+	Sindbah sailor's first trip.
+
+Step 13/330
+>> English - Finnish
+	Sindbah-merimiehen ensimmäinen matka.
+
+Step 14/330
+>> Finnish - Maori
+	Te haerenga tuatahi o Sindbah.
+
+Step 15/330
+>> Maori - Dutch
+	Eerste Sindbah-reis.
+
+Step 16/330
+>> Dutch - German
+	Erste Sindbah-Reise.
+
+Step 17/330
+>> German - Japanese
+	最初のシンドバ旅行。
+
+Step 18/330
+>> Japanese - German
+	Erste Sindova Reise.
+
+Step 19/330
+>> German - Luxembourgish
+	Éischt Sindova Rees.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	טיול Sindova הראשון.
+
+Step 21/330
+>> Hebrew - Korean
+	Sindova 첫 여행.
+
+Step 22/330
+>> Korean - French
+	Sindova premier voyage.
+
+Step 23/330
+>> French - Slovenian
+	Prvo potovanje Sindova.
+
+Step 24/330
+>> Slovenian - Spanish
+	El primer viaje de los Sinds.
+
+Step 25/330
+>> Spanish - Czech
+	První výlet po Sinds.
+
+Step 26/330
+>> Czech - Italian
+	Primo viaggio a Sinds.
+
+Step 27/330
+>> Italian - Maltese
+	L-ewwel vjaġġ lejn Sinds.
+
+Step 28/330
+>> Maltese - Estonian
+	Esimene reis sind.
+
+Step 29/330
+>> Estonian - Greek
+	Το πρώτο ταξίδι σας.
+
+Step 30/330
+>> Greek - Turkish
+	İlk seyahatin.
+
+Step 31/330
+>> Turkish - Polish
+	Twoja pierwsza podróż.
+
+Step 32/330
+>> Polish - Arabic
+	رحلتك الأولى.
+
+Step 33/330
+>> Arabic - Catalan
+	El teu primer viatge.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Jūsų pirmoji kelionė.
+
+Step 35/330
+>> Lithuanian - Arabic
+	رحلتك الأولى.
+
+Step 36/330
+>> Arabic - Slovak
+	Vaša prvá cesta.
+
+Step 37/330
+>> Slovak - Malay
+	Perjalanan pertama anda.
+
+Step 38/330
+>> Malay - Arabic
+	رحلتك الأولى.
+
+Step 39/330
+>> Arabic - Latvian
+	Jūsu pirmais ceļojums.
+
+Step 40/330
+>> Latvian - Portuguese
+	Sua primeira viagem
+
+Step 41/330
+>> Portuguese - Arabic
+	رحلتك الأولى
+
+Step 42/330
+>> Arabic - Spanish
+	Tu primer viaje
+
+Step 43/330
+>> Spanish - Hungarian
+	Az első utazás
+
+Step 44/330
+>> Hungarian - Croatian
+	Prvo putovanje
+
+Step 45/330
+>> Croatian - Spanish
+	Primer viaje
+
+Step 46/330
+>> Spanish - Arabic
+	الرحلة الأولى
+
+Step 47/330
+>> Arabic - Russian
+	Первый полет
+
+Step 48/330
+>> Russian - Albanian
+	Fluturimi i parë
+
+Step 49/330
+>> Albanian - Bulgarian
+	Първият полет
+
+Step 50/330
+>> Bulgarian - Romanian
+	Primul zbor
+
+Step 51/330
+>> Romanian - Russian
+	Первый полет
+
+Step 52/330
+>> Russian - English
+	The first flight
+
+Step 53/330
+>> English - Spanish
+	El primer vuelo
+
+Step 54/330
+>> Spanish - Arabic
+	الرحلة الأولى
+
+Step 55/330
+>> Arabic - Malay
+	Penerbangan pertama
+
+Step 56/330
+>> Malay - English
+	First flight
+
+Step 57/330
+>> English - Kazakh
+	Бірінші рейс
+
+Step 58/330
+>> Kazakh - Persian
+	اولین پرواز
+
+Step 59/330
+>> Persian - English
+	First flight
+
+Step 60/330
+>> English - French
+	Premier vol
+
+Step 61/330
+>> French - Spanish
+	Primer vuelo
+
+Step 62/330
+>> Spanish - Turkish
+	İlk uçuş
+
+Step 63/330
+>> Turkish - English
+	First flight
+
+Step 64/330
+>> English - Spanish
+	Primer vuelo
+
+Step 65/330
+>> Spanish - Serbian
+	Први лет
+
+Step 66/330
+>> Serbian - Albanian
+	Fluturimi i parë
+
+Step 67/330
+>> Albanian - English
+	The first flight
+
+Step 68/330
+>> English - Georgian
+	პირველი რეისი
+
+Step 69/330
+>> Georgian - English
+	First flight
+
+Step 70/330
+>> English - Spanish
+	Primer vuelo
+
+Step 71/330
+>> Spanish - English
+	First flight
+
+Step 72/330
+>> English - Sinhala
+	පළමු ගුවන් ගමන
+
+Step 73/330
+>> Sinhala - Bosnian
+	Prvi let
+
+Step 74/330
+>> Bosnian - Spanish
+	Primer vuelo
+
+Step 75/330
+>> Spanish - Portuguese
+	Primeiro vôo
+
+Step 76/330
+>> Portuguese - Arabic
+	الرحلة الأولى
+
+Step 77/330
+>> Arabic - Macedonian
+	Прв лет
+
+Step 78/330
+>> Macedonian - Armenian
+	Առաջին թռիչքը
+
+Step 79/330
+>> Armenian - Thai
+	เที่ยวบินแรก
+
+Step 80/330
+>> Thai - Arabic
+	الرحلة الأولى
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	第一次飞行
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Primer vuelo
+
+Step 83/330
+>> Spanish - Ukrainian
+	Перший політ
+
+Step 84/330
+>> Ukrainian - Spanish
+	El primer vuelo
+
+Step 85/330
+>> Spanish - English
+	The first flight
+
+Step 86/330
+>> English - Mongolian
+	Эхний нислэг
+
+Step 87/330
+>> Mongolian - Spanish
+	Primer vuelo
+
+Step 88/330
+>> Spanish - Arabic
+	الرحلة الأولى
+
+Step 89/330
+>> Arabic - Kurdish
+	Firîna yekem
+
+Step 90/330
+>> Kurdish - English
+	First flight
+
+Step 91/330
+>> English - Dutch
+	Eerste vlucht
+
+Step 92/330
+>> Dutch - English
+	First flight
+
+Step 93/330
+>> English - Samoan
+	Faiga muamua
+
+Step 94/330
+>> Samoan - Uzbek
+	Birinchi yondashuv
+
+Step 95/330
+>> Uzbek - English
+	The first approach
+
+Step 96/330
+>> English - Arabic
+	النهج الأول
+
+Step 97/330
+>> Arabic - French
+	La première approche
+
+Step 98/330
+>> French - Spanish
+	El primer acercamiento
+
+Step 99/330
+>> Spanish - Romanian
+	Prima abordare
+
+Step 100/330
+>> Romanian - Filipino
+	Ang unang diskarte
+
+Step 101/330
+>> Filipino - Zulu
+	Indlela yokuqala
+
+Step 102/330
+>> Zulu - Arabic
+	الطريقة الأولى
+
+Step 103/330
+>> Arabic - Indonesian
+	Cara pertama
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Cách thứ nhất
+
+Step 105/330
+>> Vietnamese - Spanish
+	La primera forma
+
+Step 106/330
+>> Spanish - Arabic
+	الطريقة الأولى
+
+Step 107/330
+>> Arabic - Spanish
+	La primera forma
+
+Step 108/330
+>> Spanish - Russian
+	Первый способ
+
+Step 109/330
+>> Russian - Arabic
+	الطريقة الأولى
+
+Step 110/330
+>> Arabic - Spanish
+	La primera forma
+
+Step 111/330
+>> Spanish - Portuguese
+	A primeira maneira
+
+Step 112/330
+>> Portuguese - English
+	The first way
+
+Step 113/330
+>> English - Spanish
+	La primera forma
+
+Step 114/330
+>> Spanish - English
+	The first way
+
+Step 115/330
+>> English - Hindi
+	पहला तरीका
+
+Step 116/330
+>> Hindi - Portuguese
+	Primeira maneira
+
+Step 117/330
+>> Portuguese - Spanish
+	Primera forma
+
+Step 118/330
+>> Spanish - English
+	First form
+
+Step 119/330
+>> English - Bengali
+	প্রথম ফর্ম
+
+Step 120/330
+>> Bengali - French
+	La première forme
+
+Step 121/330
+>> French - lao
+	ແບບຟອມ ທຳ ອິດ
+
+Step 122/330
+>> lao - English
+	The first form
+
+Step 123/330
+>> English - Portuguese
+	A primeira forma
+
+Step 124/330
+>> Portuguese - English
+	The first form
+
+Step 125/330
+>> English - Portuguese
+	A primeira forma
+
+Step 126/330
+>> Portuguese - English
+	The first form
+
+Step 127/330
+>> English - Portuguese
+	A primeira forma
+
+Step 128/330
+>> Portuguese - Burmese
+	ပထမဦးဆုံးပုံစံ
+
+Step 129/330
+>> Burmese - Nepali
+	पहिलो शैली
+
+Step 130/330
+>> Nepali - Urdu
+	پہلا انداز۔
+
+Step 131/330
+>> Urdu - French
+	Le premier style.
+
+Step 132/330
+>> French - English
+	The first style.
+
+Step 133/330
+>> English - Swahili
+	Mtindo wa kwanza.
+
+Step 134/330
+>> Swahili - Arabic
+	النمط الأول.
+
+Step 135/330
+>> Arabic - Shona
+	Maitiro ekutanga.
+
+Step 136/330
+>> Shona - Hausa
+	Na farko dauki.
+
+Step 137/330
+>> Hausa - Swahili
+	Mmenyuko wa kwanza.
+
+Step 138/330
+>> Swahili - English
+	The first reaction.
+
+Step 139/330
+>> English - Arabic
+	رد الفعل الأول.
+
+Step 140/330
+>> Arabic - Malagasy
+	Fihetsika voalohany.
+
+Step 141/330
+>> Malagasy - Swahili
+	Harakati ya kwanza.
+
+Step 142/330
+>> Swahili - French
+	Le premier mouvement
+
+Step 143/330
+>> French - Arabic
+	الحركة الأولى
+
+Step 144/330
+>> Arabic - French
+	Le premier mouvement
+
+Step 145/330
+>> French - Arabic
+	الحركة الأولى
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Premye mouvman an
+
+Step 147/330
+>> Haitian Creole - Pashto
+	لومړی حرکت
+
+Step 148/330
+>> Pashto - French
+	Le premier mouvement
+
+Step 149/330
+>> French - Chichewa
+	Kuyamba koyamba
+
+Step 150/330
+>> Chichewa - Arabic
+	الانطباع الأول
+
+Step 151/330
+>> Arabic - Amharic
+	የመጀመሪያ እይታ።
+
+Step 152/330
+>> Amharic - English
+	First look.
+
+Step 153/330
+>> English - French
+	Premier coup d'oeil.
+
+Step 154/330
+>> French - Swahili
+	Kwanza angalia.
+
+Step 155/330
+>> Swahili - Portuguese
+	Primeiro olhar.
+
+Step 156/330
+>> Portuguese - Arabic
+	النظرة الأولى
+
+Step 157/330
+>> Arabic - Portuguese
+	Primeiro olhar
+
+Step 158/330
+>> Portuguese - English
+	First look
+
+Step 159/330
+>> English - French
+	Premier coup d'oeil
+
+Step 160/330
+>> French - English
+	First look
+
+Step 161/330
+>> English - Swahili
+	Kwanza angalia
+
+Step 162/330
+>> Swahili - Arabic
+	النظرة الأولى
+
+Step 163/330
+>> Arabic - Arabic
+	The first sight
+
+Step 164/330
+>> Arabic - French
+	La première vue
+
+Step 165/330
+>> French - Hausa
+	Na farko gani
+
+Step 166/330
+>> Hausa - French
+	Voir d'abord
+
+Step 167/330
+>> French - Arabic
+	See first
+
+Step 168/330
+>> Arabic - Arabic
+	نرى أولا
+
+Step 169/330
+>> Arabic - Swahili
+	Angalia kwanza
+
+Step 170/330
+>> Swahili - English
+	Look first
+
+Step 171/330
+>> English - French
+	Regarde d'abord
+
+Step 172/330
+>> French - English
+	Look first
+
+Step 173/330
+>> English - Portuguese
+	Olhe primeiro
+
+Step 174/330
+>> Portuguese - Arabic
+	انظر أولا
+
+Step 175/330
+>> Arabic - Portuguese
+	Ver primeiro
+
+Step 176/330
+>> Portuguese - Swahili
+	Angalia kwanza
+
+Step 177/330
+>> Swahili - French
+	Regarde d'abord
+
+Step 178/330
+>> French - English
+	Look first
+
+Step 179/330
+>> English - Amharic
+	መጀመሪያ ይመልከቱ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	انظر أولا.
+
+Step 181/330
+>> Arabic - Chichewa
+	Onani choyamba.
+
+Step 182/330
+>> Chichewa - French
+	Regarde d'abord.
+
+Step 183/330
+>> French - Pashto
+	لومړی وګوره.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Premye gade.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	النظرة الأولى
+
+Step 186/330
+>> Arabic - French
+	le premier regard
+
+Step 187/330
+>> French - Arabic
+	النظرة الأولى
+
+Step 188/330
+>> Arabic - French
+	le premier regard
+
+Step 189/330
+>> French - Swahili
+	kuangalia kwanza
+
+Step 190/330
+>> Swahili - Malagasy
+	fijery voalohany
+
+Step 191/330
+>> Malagasy - Arabic
+	النظرة الأولى
+
+Step 192/330
+>> Arabic - English
+	The first sight
+
+Step 193/330
+>> English - Swahili
+	Mbele ya kwanza
+
+Step 194/330
+>> Swahili - Hausa
+	Gani na farko
+
+Step 195/330
+>> Hausa - Shona
+	Mufungo wekutanga
+
+Step 196/330
+>> Shona - Arabic
+	الفكر الأول
+
+Step 197/330
+>> Arabic - Swahili
+	Mawazo ya kwanza
+
+Step 198/330
+>> Swahili - English
+	First thoughts
+
+Step 199/330
+>> English - French
+	Premières pensées
+
+Step 200/330
+>> French - Urdu
+	پہلے خیالات۔
+
+Step 201/330
+>> Urdu - Nepali
+	पहिलो विचारहरु।
+
+Step 202/330
+>> Nepali - Burmese
+	ပထမဦးဆုံးအစိတ်ကူးများ။
+
+Step 203/330
+>> Burmese - Portuguese
+	As primeiras idéias.
+
+Step 204/330
+>> Portuguese - English
+	The first ideas.
+
+Step 205/330
+>> English - Portuguese
+	As primeiras idéias.
+
+Step 206/330
+>> Portuguese - English
+	The first ideas.
+
+Step 207/330
+>> English - Portuguese
+	As primeiras idéias.
+
+Step 208/330
+>> Portuguese - English
+	The first ideas.
+
+Step 209/330
+>> English - lao
+	ແນວຄວາມຄິດ ທຳ ອິດ.
+
+Step 210/330
+>> lao - French
+	Le premier concept.
+
+Step 211/330
+>> French - Bengali
+	প্রথম ধারণা।
+
+Step 212/330
+>> Bengali - English
+	The first idea.
+
+Step 213/330
+>> English - Spanish
+	La primera idea
+
+Step 214/330
+>> Spanish - Portuguese
+	A primeira ideia
+
+Step 215/330
+>> Portuguese - Hindi
+	पहला विचार
+
+Step 216/330
+>> Hindi - English
+	first thought
+
+Step 217/330
+>> English - Spanish
+	primer pensamiento
+
+Step 218/330
+>> Spanish - English
+	first thought
+
+Step 219/330
+>> English - Portuguese
+	primeiro pensamento
+
+Step 220/330
+>> Portuguese - Spanish
+	primer pensamiento
+
+Step 221/330
+>> Spanish - Arabic
+	الفكر الأول
+
+Step 222/330
+>> Arabic - Russian
+	Первая мысль
+
+Step 223/330
+>> Russian - Spanish
+	Primer pensamiento
+
+Step 224/330
+>> Spanish - Arabic
+	الفكر الأول
+
+Step 225/330
+>> Arabic - Spanish
+	El primer pensamiento
+
+Step 226/330
+>> Spanish - Vietnamese
+	Ý nghĩ đầu tiên
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Pikiran pertama
+
+Step 228/330
+>> Indonesian - Arabic
+	الفكر الأول
+
+Step 229/330
+>> Arabic - Zulu
+	Umcabango wokuqala
+
+Step 230/330
+>> Zulu - Filipino
+	Unang naisip
+
+Step 231/330
+>> Filipino - Romanian
+	Primul gând
+
+Step 232/330
+>> Romanian - Spanish
+	El primer pensamiento
+
+Step 233/330
+>> Spanish - French
+	La première pensée
+
+Step 234/330
+>> French - Arabic
+	الفكر الأول
+
+Step 235/330
+>> Arabic - English
+	The first thought
+
+Step 236/330
+>> English - Uzbek
+	Birinchi fikr
+
+Step 237/330
+>> Uzbek - Samoan
+	Muamua manatu
+
+Step 238/330
+>> Samoan - English
+	First thought
+
+Step 239/330
+>> English - Dutch
+	Eerste gedachte
+
+Step 240/330
+>> Dutch - English
+	First thought
+
+Step 241/330
+>> English - Kurdish
+	Yekem fikirîn
+
+Step 242/330
+>> Kurdish - Arabic
+	الفكر الأول
+
+Step 243/330
+>> Arabic - Spanish
+	El primer pensamiento
+
+Step 244/330
+>> Spanish - Mongolian
+	Эхний бодол
+
+Step 245/330
+>> Mongolian - English
+	The first thought
+
+Step 246/330
+>> English - Spanish
+	El primer pensamiento
+
+Step 247/330
+>> Spanish - Ukrainian
+	Перша думка
+
+Step 248/330
+>> Ukrainian - Spanish
+	Primer pensamiento
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	首先想到的
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	الفكر الأول
+
+Step 251/330
+>> Arabic - Thai
+	ความคิดแรก
+
+Step 252/330
+>> Thai - Armenian
+	Առաջին միտքը
+
+Step 253/330
+>> Armenian - Macedonian
+	Прва мисла:
+
+Step 254/330
+>> Macedonian - Arabic
+	الفكر الأول:
+
+Step 255/330
+>> Arabic - Portuguese
+	O primeiro pensamento:
+
+Step 256/330
+>> Portuguese - Spanish
+	El primer pensamiento:
+
+Step 257/330
+>> Spanish - Bosnian
+	Prva misao:
+
+Step 258/330
+>> Bosnian - Sinhala
+	පළමු සිතුවිල්ල:
+
+Step 259/330
+>> Sinhala - English
+	First thought:
+
+Step 260/330
+>> English - Spanish
+	Primer pensamiento:
+
+Step 261/330
+>> Spanish - English
+	First thought:
+
+Step 262/330
+>> English - Georgian
+	პირველი აზრი:
+
+Step 263/330
+>> Georgian - English
+	First thought:
+
+Step 264/330
+>> English - Albanian
+	Mendimi i parë:
+
+Step 265/330
+>> Albanian - Serbian
+	Прва мисао:
+
+Step 266/330
+>> Serbian - Spanish
+	Primer pensamiento:
+
+Step 267/330
+>> Spanish - English
+	First thought:
+
+Step 268/330
+>> English - Turkish
+	İlk düşünce:
+
+Step 269/330
+>> Turkish - Spanish
+	Primer pensamiento:
+
+Step 270/330
+>> Spanish - French
+	Première pensée:
+
+Step 271/330
+>> French - English
+	First thought:
+
+Step 272/330
+>> English - Persian
+	فکر اول:
+
+Step 273/330
+>> Persian - Kazakh
+	Бірінші ой:
+
+Step 274/330
+>> Kazakh - English
+	First thought:
+
+Step 275/330
+>> English - Malay
+	Pemikiran pertama:
+
+Step 276/330
+>> Malay - Arabic
+	الفكر الأول:
+
+Step 277/330
+>> Arabic - Spanish
+	El primer pensamiento:
+
+Step 278/330
+>> Spanish - English
+	The first thought:
+
+Step 279/330
+>> English - Russian
+	Первая мысль:
+
+Step 280/330
+>> Russian - Romanian
+	Primul gând:
+
+Step 281/330
+>> Romanian - Bulgarian
+	Първата мисъл:
+
+Step 282/330
+>> Bulgarian - Albanian
+	Mendimi i parë:
+
+Step 283/330
+>> Albanian - Russian
+	Первая мысль:
+
+Step 284/330
+>> Russian - Arabic
+	الفكر الأول:
+
+Step 285/330
+>> Arabic - Spanish
+	El primer pensamiento:
+
+Step 286/330
+>> Spanish - Croatian
+	Prva misao:
+
+Step 287/330
+>> Croatian - Hungarian
+	Első gondolat:
+
+Step 288/330
+>> Hungarian - Spanish
+	Primer pensamiento:
+
+Step 289/330
+>> Spanish - Arabic
+	الفكر الأول:
+
+Step 290/330
+>> Arabic - Portuguese
+	O primeiro pensamento:
+
+Step 291/330
+>> Portuguese - Latvian
+	Pirmā doma:
+
+Step 292/330
+>> Latvian - Arabic
+	الفكر الأول:
+
+Step 293/330
+>> Arabic - Malay
+	Pemikiran pertama:
+
+Step 294/330
+>> Malay - Slovak
+	Prvá myšlienka:
+
+Step 295/330
+>> Slovak - Arabic
+	الفكرة الأولى:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Pirma mintis:
+
+Step 297/330
+>> Lithuanian - Catalan
+	Primer pensament:
+
+Step 298/330
+>> Catalan - Arabic
+	الفكر الأول:
+
+Step 299/330
+>> Arabic - Polish
+	Pierwsza myśl:
+
+Step 300/330
+>> Polish - Turkish
+	İlk düşünce:
+
+Step 301/330
+>> Turkish - Greek
+	Πρώτη σκέψη:
+
+Step 302/330
+>> Greek - Estonian
+	Esimene mõte:
+
+Step 303/330
+>> Estonian - Maltese
+	L-ewwel ħsieb:
+
+Step 304/330
+>> Maltese - Italian
+	Primo pensiero:
+
+Step 305/330
+>> Italian - Czech
+	První myšlenka:
+
+Step 306/330
+>> Czech - Spanish
+	Primer pensamiento:
+
+Step 307/330
+>> Spanish - Slovenian
+	Prva misel:
+
+Step 308/330
+>> Slovenian - French
+	Première pensée:
+
+Step 309/330
+>> French - Korean
+	첫 생각 :
+
+Step 310/330
+>> Korean - Hebrew
+	מחשבה ראשונה:
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Éischt Gedanken:
+
+Step 312/330
+>> Luxembourgish - German
+	Erster Gedanke:
+
+Step 313/330
+>> German - Japanese
+	最初の考え：
+
+Step 314/330
+>> Japanese - German
+	Erster Gedanke:
+
+Step 315/330
+>> German - Dutch
+	Eerste gedachte:
+
+Step 316/330
+>> Dutch - Maori
+	Whakaaro Tuatahi:
+
+Step 317/330
+>> Maori - Finnish
+	Ensimmäinen ajatus:
+
+Step 318/330
+>> Finnish - English
+	First thought:
+
+Step 319/330
+>> English - Danish
+	Første tanke:
+
+Step 320/330
+>> Danish - Dutch
+	Eerste gedachte:
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	首先想到：
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Tänk först på:
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	首先，考慮：
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Í fyrsta lagi skaltu íhuga:
+
+Step 325/330
+>> Icelandic - German
+	Betrachten Sie zunächst:
+
+Step 326/330
+>> German - Irish
+	Ar dtús, déan machnamh ar:
+
+Step 327/330
+>> Irish - English
+	First consider:
+
+Step 328/330
+>> English - German
+	Zuerst überlegen Sie:
+
+Step 329/330
+>> German - Norwegian
+	Vurder først:
+
+Step 330/330
+>> Norwegian - Portuguese
+	Primeiro considere:
+
+
+##### RESULTS ######
+
+Primeira viagem de Sindbá, o Marinheiro.
+
+Primeiro considere:

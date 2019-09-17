@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: — Sire, os três calandares, o califa, o grão-vizir Djafar, o eunuco Mesrur e o carregador estavam todos no meio da sala, sentados sobre o tapete, na presença das três damas, que se encontravam no sofá, e dos escravos prontos a executar as ordens.
+
+Step 1/330
+>> Portuguese - Norwegian
+	- Herre, de tre kalandrene, kalifen, Grand Vizier Djafar, evden Mesrur og portieren var alle midt i rommet, og satt på teppet i nærvær av de tre damene i sofaen og de klare slavene. utføre ordrene.
+
+Step 2/330
+>> Norwegian - German
+	- Herr, die drei Kalender, der Kalif, der Großwesir Djafar, der Evangelist Mesrur und der Pförtner standen alle in der Mitte des Raumes und saßen auf der Decke in Gegenwart der drei Damen auf der Couch und der klaren Sklaven. führen Sie die Aufträge aus.
+
+Step 3/330
+>> German - English
+	Lord, the three calendars, the Caliph, the Grand Vizier Djafar, the Evangelist Mesrur and the porter all stood in the middle of the room and sat on the blanket in the presence of the three ladies on the couch and the clear slaves. execute the orders.
+
+Step 4/330
+>> English - Irish
+	Bhí an Tiarna, na trí fhéilire, an Caliph, an Grand Vizier Djafar, an Soiscéalaí Mesrur agus an taisce go léir i lár an tseomra agus shuigh siad ar an mblaincéad i láthair na mban a bhí ar an tolg agus na sclábhaithe soiléire. na horduithe a fhorghníomhú.
+
+Step 5/330
+>> Irish - German
+	Der Herr, der Dreikalender, der Kalif, der Großwesir Djafar, der Evangelist Mesrur und der Schatz standen alle in der Mitte des Raumes und saßen auf der Decke in Gegenwart von Frauen, die auf der Couch und den klaren Sklaven saßen. führen Sie die Aufträge aus.
+
+Step 6/330
+>> German - Icelandic
+	Drottinn, Þriggja kaliberinn, Kalífinn, Grand Vizier Djafar, Evangelistinn Mesrur og fjársjóðurinn stóðu allir í miðju herberginu og sátu á teppinu í návist kvenna sem sátu í sófanum og hreinsuðu þræla. framkvæma pantanir.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	主，三口徑，哈里發，大維齊爾聾人，福音傳教士Mesrur和寶藏都站在房間的中間，坐在毯子上，女人坐在沙發上，清潔奴隸。下訂單。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Herren, den tre kaliber, kalifen, den stora vizieren, evangelisten Mesrur och skatten står mitt i rummet, sitter på filten, kvinnan sitter på soffan och städar slaven. Lägg en beställning.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	主，三個哈里發，哈里發，偉大的大臣，福音傳教士Mesrur，以及寶藏站在房間中間，坐在毯子上，女人坐在沙發上，清潔奴隸。下訂單。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Heer, drie kaliefen, kaliefen, grote dienaren, evangelist Mesrur en schatten die in het midden van de kamer staan, op de deken zitten, vrouwen op de bank zitten, de slaven schoonmaken. Plaats een bestelling.
+
+Step 11/330
+>> Dutch - Danish
+	Lord, tre kalifer, kalifer, store tjenere, evangelist Mesrur og skatte, der står i midten af rummet, siddende på tæppet, kvinder sidder i sofaen og rengør slaverne. Bestil.
+
+Step 12/330
+>> Danish - English
+	Lord, three caliphs, caliphs, great servants, evangelist Mesrur and treasures standing in the middle of the room, sitting on the blanket, women sitting on the couch cleaning the slaves. Book.
+
+Step 13/330
+>> English - Finnish
+	Herra, kolme kalifia, kalifia, suuria palvelijoita, evankelista Mesrur ja aarteet seisovat huoneen keskellä, istuvat viltissä, naiset istuvat sohvalla puhdistamassa orjia. Kirja.
+
+Step 14/330
+>> Finnish - Maori
+	Ko te Ariki, e toru nga Califs, nga Califs, nga pononga nui, te kaikauwhau Mesrur me nga taonga e tu ana i waenganui o te ruma, e noho ana i runga i te paraikete, ko nga wahine e noho ana i runga i te moenga hei horoi i nga pononga. Book.
+
+Step 15/330
+>> Maori - Dutch
+	Heer, drie Califs, Califs, slaven, prediker Mesrur en meubels staan in het midden van de kamer, zittend op een deken, vrouwen zittend op de bed om slaven te wassen. Book.
+
+Step 16/330
+>> Dutch - German
+	Herr, drei Kalifen, Kalifen, Sklaven, Prediger Mesrur und Möbel stehen in der Mitte des Raumes, sitzen auf einer Decke, Frauen sitzen auf dem Bett, um Sklaven zu waschen. Buch.
+
+Step 17/330
+>> German - Japanese
+	主よ、3人のカリフ、カリフ、奴隷、説教者のメスールと家具が部屋の真ん中に立ち、毛布の上に座って、女性が奴隷を洗うためにベッドに座っています。予約します。
+
+Step 18/330
+>> Japanese - German
+	Herr, drei Kalifen, Kalifen, Sklaven, Prediger Messur und Möbel stehen in der Mitte des Raumes, sitzen auf einer Decke und eine Frau sitzt auf dem Bett, um die Sklaven zu waschen. Machen Sie eine Reservierung.
+
+Step 19/330
+>> German - Luxembourgish
+	Lord, dräi Kalifen, Kalifen, Sklaven, Priedeger Messur a Miwwele stinn an der Mëtt vum Raum, souz op enger Decken an eng Fra, déi am Bett sëtzt, fir d'Sklaven ze wäschen. Maacht eng Reservéierung.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	לורד, שלוש ח'ליפות, ח'ליפות, עבדים, שליחי מטיפים ורהיטים עמדו במרכז החדר, ישבו על שמיכה ואישה שישבה במיטה לשטוף את העבדים. ביצוע הזמנה.
+
+Step 21/330
+>> Hebrew - Korean
+	주님, 세 개의 칼리프, 칼리프, 노예, 설교자, 가구가 방 중앙에 서서 담요에 앉아 여자는 노예를 씻고 침대에 앉아있었습니다. 주문하십시오.
+
+Step 22/330
+>> Korean - French
+	Seigneur, trois califes, des califes, des esclaves, des prédicateurs, des meubles se dressaient au milieu de la pièce, assis sur une couverture, la femme lavait les esclaves et s'assit dans son lit. S'il vous plaît commander.
+
+Step 23/330
+>> French - Slovenian
+	Gospod, trije kalifi, kalifi, sužnji, pridigarji, pohištvo so stali sredi sobe, sedeli so na odeji, ženska je umila sužnje in se usedla v svojo posteljo. Prosim naroči.
+
+Step 24/330
+>> Slovenian - Spanish
+	Señor, tres califas, califas, esclavos, predicadores, los muebles estaban en el centro de la habitación, se sentaron en una manta, la mujer lavó a los esclavos y se sentó en su cama. Por favor ordene.
+
+Step 25/330
+>> Spanish - Czech
+	Pane, tři kalifové, kalifové, otroci, kazatelé, nábytek byl uprostřed místnosti, seděli na přikrývce, žena umyla otroky a seděla na posteli. Prosím objednejte.
+
+Step 26/330
+>> Czech - Italian
+	Signore, tre califfi, califfi, schiavi, predicatori, i mobili erano al centro della stanza, seduti su una coperta, la donna che lavava gli schiavi e sedeva sul letto. Si prega di ordinare
+
+Step 27/330
+>> Italian - Maltese
+	Sinjuri, tliet kalifi, kalifi, skjavi, predikaturi, l-għamara kienet fiċ-ċentru tal-kamra, bilqiegħda fuq kutra, il-mara taħsel l-iskjavi u qiegħda fuq is-sodda. Jekk jogħġbok tordna
+
+Step 28/330
+>> Maltese - Estonian
+	Daamid ja härrad, kolm Kalif, Kalif, orjad, Preachers, mööbel oli keskmes toas, istub tekk, naine pesema orjad ja voodi. Palun tellida
+
+Step 29/330
+>> Estonian - Greek
+	Κυρίες και κύριοι, τρεις χαλίφηδες, χαλίφηδες, σκλάβοι, ιεροκήρυκες, τα έπιπλα βρισκόταν στο κέντρο του δωματίου, κάθονταν σε μια κουβέρτα, μια γυναίκα πλύνονταν σκλάβοι και ένα κρεβάτι. Παρακαλώ παραγγείλετε
+
+Step 30/330
+>> Greek - Turkish
+	Bayanlar ve baylar, üç halife, halifeler, köleler, vaizler, mobilyalar odanın ortasındaydı, bir battaniyenin üzerinde otururken, bir kadını köle yıkayan ve bir yatak vardı. Lütfen sipariş
+
+Step 31/330
+>> Turkish - Polish
+	Panie i panowie, trzej kalifowie, kalifowie, niewolnicy, kaznodzieje, meble znajdowali się na środku pokoju, siedzieli na kocu, myli niewolnicę i łóżko kobiety. Proszę złożyć zamówienie
+
+Step 32/330
+>> Polish - Arabic
+	سيداتي وسادتي وثلاثة الخلفاء والخلفاء والعبيد والدعاة والأثاث كانوا في منتصف الغرفة جالسين على بطانية ويخلطون بين العبد وسرير المرأة. يرجى وضع النظام
+
+Step 33/330
+>> Arabic - Catalan
+	Dames i senyors, tres califes, califes, esclaus, predicadors i mobles estaven al mig de l’habitació asseguts en una manta i barrejaven l’esclau amb el llit de la dona. Feu la comanda
+
+Step 34/330
+>> Catalan - Lithuanian
+	Ponios ir ponai, trys kalifai, kalifai, vergai, pamokslininkai ir baldai buvo kambario viduryje, sėdintys antklodė ir maišantys vergą su moters lova. Pateikite užsakymą
+
+Step 35/330
+>> Lithuanian - Arabic
+	السيدات والسادة ، وثلاثة من الخلفاء والخلفاء والعبيد والدعاة والأثاث كانوا في منتصف الغرفة ، وكانوا يجلسون في بطانية ويخلطون العبد بسرير المرأة. ضع طلبك
+
+Step 36/330
+>> Arabic - Slovak
+	Dámy a páni, tri kalify, kalify, otroci, kazatelia a nábytok boli v strede miestnosti, sedeli v prikrývke a miešali otroka s ženskou posteľou. Zadajte objednávku
+
+Step 37/330
+>> Slovak - Malay
+	Tuan-tuan dan puan-puan, tiga khalifah, khalifah, budak, pengkhotbah, dan perabot berada di tengah-tengah bilik, duduk dalam selimut, mencampurkan hamba dengan katil wanita. Letakkan pesanan anda
+
+Step 38/330
+>> Malay - Arabic
+	سيداتي وسادتي وثلاثة من الخلفاء والخلفاء والعبيد والدعاة والأثاث كانوا في منتصف الغرفة ، وكانوا يجلسون في البطانيات ويخلطون العبيد بأسرة النساء. ضع طلبك
+
+Step 39/330
+>> Arabic - Latvian
+	Dāmas un kungi, trīs kalifi, kalifi, vergi, sludinātāji un mēbeles atradās istabas vidū. Veiciet pasūtījumu
+
+Step 40/330
+>> Latvian - Portuguese
+	Senhoras e senhores, três compassos de calibre, compassos de calibre, escravos, pregadores e móveis estavam no meio da sala. Faça seu pedido
+
+Step 41/330
+>> Portuguese - Arabic
+	سيداتي وسادتي وثلاثة من الفرجار والفرجار والعبيد والدعاة والأثاث كانوا في منتصف الغرفة. ضع طلبك
+
+Step 42/330
+>> Arabic - Spanish
+	Damas y caballeros, tres pinzas, pinzas, esclavos, predicadores y muebles estaban en el medio de la habitación. Haz tu pedido
+
+Step 43/330
+>> Spanish - Hungarian
+	Hölgyeim és uraim, három kapocs, kapocs, rabszolga, prédikátor és bútor volt a szoba közepén. Adja meg a megrendelését
+
+Step 44/330
+>> Hungarian - Croatian
+	Dame i gospodo, u sredini su bile tri spajalice, spajalice, rob, propovjednik i namještaj. Unesite svoju narudžbu
+
+Step 45/330
+>> Croatian - Spanish
+	Damas y caballeros, en el medio había tres grapas, grapas, esclavos, predicadores y muebles. Ingrese su orden
+
+Step 46/330
+>> Spanish - Arabic
+	سيداتي سادتي ، في الوسط ، كانت ثلاثة دبابيس ، دبابيس ، عبيد ، خطباء وأثاث. أدخل طلبك
+
+Step 47/330
+>> Arabic - Russian
+	Дамы и господа, в середине были три булавки, булавки, рабы, ораторы и мебель. Введите ваш заказ
+
+Step 48/330
+>> Russian - Albanian
+	Zonja dhe zotërinj, në mes ishin tre kunjat, kunjat, skllevërit, folësit dhe mobiljet. Vendosni porosinë tuaj
+
+Step 49/330
+>> Albanian - Bulgarian
+	Дами и господа, в средата бяха три пина, щифтове, роби, високоговорители и мебели. Направете поръчката си
+
+Step 50/330
+>> Bulgarian - Romanian
+	Doamnelor și domnilor, la mijloc erau trei pini, ace, sclavi, boxe și mobilier. Plasați comanda
+
+Step 51/330
+>> Romanian - Russian
+	Дамы и господа, в середине были три булавки, иголки, рабы, колонки и мебель. Разместить заказ
+
+Step 52/330
+>> Russian - English
+	Ladies and gentlemen, in the middle were three pins, needles, slaves, columns and furniture. Place an order
+
+Step 53/330
+>> English - Spanish
+	Damas y caballeros, en el medio había tres alfileres, agujas, esclavos, columnas y muebles. Hacer un pedido
+
+Step 54/330
+>> Spanish - Arabic
+	سيداتي وسادتي ، في المنتصف كان هناك ثلاثة دبابيس وإبر وعبيد وأعمدة وأثاث. تضع طلبية
+
+Step 55/330
+>> Arabic - Malay
+	Tuan-tuan dan puan-puan, di tengah-tengah terdapat tiga pin, jarum, budak, tiang dan perabot. Letakkan pesanan
+
+Step 56/330
+>> Malay - English
+	Ladies and gentlemen, in the middle are three pins, needles, slaves, poles and furniture. Place an order
+
+Step 57/330
+>> English - Kazakh
+	Ханымдар мен мырзалар, ортасында үш түйреуіш, инелер, құлдар, тіректер мен жиһаздар бар. Тапсырыс беріңіз
+
+Step 58/330
+>> Kazakh - Persian
+	خانمها و آقایان ، سه جیب ، سوزن ، برده ، ستون و مبلمان در وسط قرار دارد. سفارش دهید
+
+Step 59/330
+>> Persian - English
+	Ladies and gentlemen, there are three pockets, a needle, a slave, a pillar and furniture in the middle. order
+
+Step 60/330
+>> English - French
+	Mesdames et Messieurs, il y a trois poches, une aiguille, un esclave, un pilier et des meubles au milieu. ordre
+
+Step 61/330
+>> French - Spanish
+	Damas y caballeros, hay tres bolsillos, una aguja, un esclavo, un pilar y algunos muebles en el medio. orden
+
+Step 62/330
+>> Spanish - Turkish
+	Bayanlar baylar, ortada üç cep, bir iğne, bir köle, bir sütun ve bazı mobilyalar var. sipariş
+
+Step 63/330
+>> Turkish - English
+	Ladies and gentlemen, there are three pockets, a needle, a slave, a column and some furniture. order
+
+Step 64/330
+>> English - Spanish
+	Damas y caballeros, hay tres bolsillos, una aguja, un esclavo, una columna y algunos muebles. orden
+
+Step 65/330
+>> Spanish - Serbian
+	Даме и господо, постоје три џепа, игла, роб, стуб и нешто намештаја. наредити
+
+Step 66/330
+>> Serbian - Albanian
+	Zonja dhe zotërinj, janë tre xhepa, një gjilpërë, një skllav, një shufër dhe disa mobilje. për të bërë
+
+Step 67/330
+>> Albanian - English
+	Ladies and gentlemen, there are three pockets, a needle, a slave, a rod and some furniture. to do
+
+Step 68/330
+>> English - Georgian
+	ქალბატონებო და ბატონებო, სულ სამი ჯიბეა, ნემსი, მონა, როდ და რამდენიმე ავეჯი. კეთება
+
+Step 69/330
+>> Georgian - English
+	Ladies and gentlemen, there are three pockets, a needle, a slave, a rod and some furniture. To do
+
+Step 70/330
+>> English - Spanish
+	Damas y caballeros, hay tres bolsillos, una aguja, un esclavo, una vara y algunos muebles. Que hacer
+
+Step 71/330
+>> Spanish - English
+	Ladies and gentlemen, there are three pockets, a needle, a slave, a stick and some furniture. What to do
+
+Step 72/330
+>> English - Sinhala
+	නෝනාවරුනි, මහත්වරුනි, සාක්කු තුනක්, ඉඳිකටුවක්, දාසයෙක්, සැරයටියක් සහ ගෘහ භාණ්ඩ කිහිපයක් තිබේ. කුමක් කරන්න ද
+
+Step 73/330
+>> Sinhala - Bosnian
+	Dame i gospodo, tu su tri džepa, igla, rob, štap i nešto namještaja. Šta da radim
+
+Step 74/330
+>> Bosnian - Spanish
+	Damas y caballeros, hay tres bolsillos, una aguja, un esclavo, un palo y algunos muebles. Que debo hacer
+
+Step 75/330
+>> Spanish - Portuguese
+	Senhoras e senhores, há três bolsos, uma agulha, uma escrava, um graveto e alguns móveis. O que devo fazer
+
+Step 76/330
+>> Portuguese - Arabic
+	سيداتي وسادتي ، هناك ثلاثة جيوب وإبرة وعبد وغصين وبعض الأثاث. ماذا علي أن أفعل؟
+
+Step 77/330
+>> Arabic - Macedonian
+	Дами и господа, има три џебови, игла, роб, гранче и некои мебел. Што да правам?
+
+Step 78/330
+>> Macedonian - Armenian
+	Տիկնայք և պարոնայք, այն ունի երեք գրպան ՝ ասեղ, ստրուկ, ճյուղ և մի քանի կահույք: Ինչ անել:
+
+Step 79/330
+>> Armenian - Thai
+	ท่านสุภาพบุรุษและสุภาพสตรีมีสามกระเป๋า: เข็มทาสสาขาและเฟอร์นิเจอร์บางส่วน จะทำอย่างไร?
+
+Step 80/330
+>> Thai - Arabic
+	أيها السيدات والسادة ، هناك ثلاث حقائب: الإبر والعبيد والفروع وبعض الأثاث ، ماذا تفعل؟
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	女士们，先生们，有三个包包：针，奴隶，树枝和一些家具，该怎么办？
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Damas y caballeros, hay tres bolsas: agujas, esclavos, ramas y algunos muebles, ¿qué debo hacer?
+
+Step 83/330
+>> Spanish - Ukrainian
+	Пані, панове, є три сумки: голки, раби, гілки та деякі меблі, що мені робити?
+
+Step 84/330
+>> Ukrainian - Spanish
+	Damas, caballeros, hay tres bolsas: agujas, esclavos, ramitas y algunos muebles, ¿qué debo hacer?
+
+Step 85/330
+>> Spanish - English
+	Ladies, gentlemen, there are three bags: needles, slaves, twigs and some furniture, what should I do?
+
+Step 86/330
+>> English - Mongolian
+	Ноёд хатагтай нар аа, гурван уут байдаг: зүү, боол, алчуур, зарим тавилга, би юу хийх хэрэгтэй вэ?
+
+Step 87/330
+>> Mongolian - Spanish
+	Señoras y señores, hay tres bolsas: agujas, esclavos, toallas, algunos muebles y ¿qué debo hacer?
+
+Step 88/330
+>> Spanish - Arabic
+	أيها السيدات والسادة ، هناك ثلاث حقائب: الإبر والعبيد والمناشف وبعض الأثاث وماذا أفعل؟
+
+Step 89/330
+>> Arabic - Kurdish
+	Xanim û birêz, sê heb kinc hene: hewcedarî, xulam, hogiran, hin destmal û çi dikin?
+
+Step 90/330
+>> Kurdish - English
+	Ladies and gentlemen, there are three kinds of clothes: needy, slave, hired, some handkerchiefs and what?
+
+Step 91/330
+>> English - Dutch
+	Dames en heren, er zijn drie soorten kleding: behoeftig, slaaf, ingehuurd, sommige zakdoeken en wat?
+
+Step 92/330
+>> Dutch - English
+	Ladies and gentlemen, there are three types of clothing: needy, slave, hired, some handkerchiefs and what?
+
+Step 93/330
+>> English - Samoan
+	Tina ma alii, e tolu ituaiga o lavalava: le tagolima, pologa, totogi, nisi o solosolo ma o le a?
+
+Step 94/330
+>> Samoan - Uzbek
+	Xonimlar va janoblar, kiyimning uch turi mavjud: muhtojlar, qullar, maoshlar, ba'zi ro'mollar va nima?
+
+Step 95/330
+>> Uzbek - English
+	Ladies and gentlemen, there are three types of clothing: the needy, the slaves, the salaries, some handkerchiefs, and what?
+
+Step 96/330
+>> English - Arabic
+	أيها السيدات والسادة ، هناك ثلاثة أنواع من الملابس: المحتاجون ، العبيد ، المرتبات ، بعض المناديل ، وماذا؟
+
+Step 97/330
+>> Arabic - French
+	Mesdames et Messieurs, il existe trois types de vêtements: les nécessiteux, les esclaves, le salaire, des serviettes de table et quoi?
+
+Step 98/330
+>> French - Spanish
+	Damas y caballeros, hay tres tipos de ropa: los necesitados, los esclavos, los salarios, las servilletas y ¿qué?
+
+Step 99/330
+>> Spanish - Romanian
+	Doamnelor și domnilor, există trei tipuri de îmbrăcăminte: nevoiașii, sclavii, salariile, șervețele și ce?
+
+Step 100/330
+>> Romanian - Filipino
+	Mga ginoo at mga ginoo, mayroong tatlong uri ng damit: ang nangangailangan, alipin, suweldo, napkin at ano?
+
+Step 101/330
+>> Filipino - Zulu
+	Madoda kanye namanenekazi, kunezinhlobo ezintathu zokugqoka: abaswele, isigqila, umholo, umphetho bese kuthiwani?
+
+Step 102/330
+>> Zulu - Arabic
+	سيداتي سادتي ، هناك ثلاثة أنواع من الملابس: المحتاج ، العبد ، الأجرة ، الهامش ، ثم ماذا؟
+
+Step 103/330
+>> Arabic - Indonesian
+	Hadirin sekalian, ada tiga jenis pakaian: yang membutuhkan, budak, ongkos, margin, lalu apa?
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Thưa quý vị, có ba loại quần áo: túng thiếu, nô lệ, lệ phí, lề, thì sao?
+
+Step 105/330
+>> Vietnamese - Spanish
+	Damas y caballeros, hay tres tipos de ropa: necesitados, esclavos, honorarios, márgenes, ¿y qué?
+
+Step 106/330
+>> Spanish - Arabic
+	أيها السيدات والسادة ، هناك ثلاثة أنواع من الملابس: المحتاجون ، العبيد ، الرسوم ، الهوامش ، وماذا؟
+
+Step 107/330
+>> Arabic - Spanish
+	Damas y caballeros, hay tres tipos de ropa: los necesitados, los esclavos, los dibujos animados, los márgenes y ¿qué?
+
+Step 108/330
+>> Spanish - Russian
+	Дамы и господа, есть три вида одежды: нуждающиеся, рабы, мультфильмы, поля и что?
+
+Step 109/330
+>> Russian - Arabic
+	سيداتي سادتي ، هناك ثلاثة أنواع من الملابس: المحتاجون ، العبيد ، الكارتون ، الحقول ، وماذا؟
+
+Step 110/330
+>> Arabic - Spanish
+	Damas y caballeros, hay tres tipos de ropa: los necesitados, los esclavos, los dibujos animados, los campos y ¿qué?
+
+Step 111/330
+>> Spanish - Portuguese
+	Senhoras e Senhores Deputados, existem três tipos de roupas: os necessitados, os escravos, os desenhos animados, os campos e o quê?
+
+Step 112/330
+>> Portuguese - English
+	Ladies and gentlemen, there are three types of clothing: the needy, the slaves, the cartoons, the fields, and what?
+
+Step 113/330
+>> English - Spanish
+	Damas y caballeros, hay tres tipos de ropa: los necesitados, los esclavos, los dibujos animados, los campos y ¿qué?
+
+Step 114/330
+>> Spanish - English
+	Ladies and gentlemen, there are three types of clothing: the needy, the slaves, the cartoons, the fields and what?
+
+Step 115/330
+>> English - Hindi
+	देवियों और सज्जनों, कपड़े तीन प्रकार के होते हैं: जरूरतमंद, गुलाम, कार्टून, खेत और क्या?
+
+Step 116/330
+>> Hindi - Portuguese
+	Senhoras e Senhores Deputados, existem três tipos de roupas: os necessitados, os escravos, os desenhos animados, a fazenda e o quê?
+
+Step 117/330
+>> Portuguese - Spanish
+	Damas y caballeros, hay tres tipos de ropa: los necesitados, los esclavos, los dibujos animados, la granja y ¿qué?
+
+Step 118/330
+>> Spanish - English
+	Ladies and gentlemen, there are three types of clothing: the needy, the slaves, the cartoons, the farm and what?
+
+Step 119/330
+>> English - Bengali
+	মহিলা ও ভদ্রলোক, তিন ধরণের পোশাক রয়েছে: অভাবী, দাস, কার্টুন, খামার এবং কী?
+
+Step 120/330
+>> Bengali - French
+	Mesdames et Messieurs, il existe trois types de vêtements: nécessiteux, esclave, dessin animé, ferme et quoi?
+
+Step 121/330
+>> French - lao
+	ບັນດາທ່ານຍິງ, ເຄື່ອງນຸ່ງມີສາມປະເພດຄື: ຄົນຂັດສົນ, ຂ້າໃຊ້, ກາຕູນ, ຟາມແລະຫຍັງ?
+
+Step 122/330
+>> lao - English
+	Ladies, there are three types of clothes: the needy, the slave, the cartoon, the farm and what?
+
+Step 123/330
+>> English - Portuguese
+	Senhoras, existem três tipos de roupas: os necessitados, os escravos, os desenhos animados, a fazenda e o quê?
+
+Step 124/330
+>> Portuguese - English
+	Ladies, there are three types of clothes: the needy, the slaves, the cartoons, the farm, and what?
+
+Step 125/330
+>> English - Portuguese
+	Senhoras, existem três tipos de roupas: os necessitados, os escravos, os desenhos animados, a fazenda e o quê?
+
+Step 126/330
+>> Portuguese - English
+	Ladies, there are three types of clothes: the needy, the slaves, the cartoons, the farm, and what?
+
+Step 127/330
+>> English - Portuguese
+	Senhoras, existem três tipos de roupas: os necessitados, os escravos, os desenhos animados, a fazenda e o quê?
+
+Step 128/330
+>> Portuguese - Burmese
+	ဆင်းရဲသောသူ, ကျွန်, ကာတွန်း, လယ်ယာနှင့်အဘယ်သို့ဆိုင်: Ladies, အဝတ်သုံးမျိုးရှိသနညျး
+
+Step 129/330
+>> Burmese - Nepali
+	गरिब, खेती, कार्टून, र के को सेवक छ: तीन महिलाहरु, लुगा
+
+Step 130/330
+>> Nepali - Urdu
+	غریب ، کھیت ، کارٹون ، اور تینوں کا نوکر: تین عورتیں ، کپڑے۔
+
+Step 131/330
+>> Urdu - French
+	Pauvre, ferme, dessin animé et servante des trois: trois femmes, des vêtements.
+
+Step 132/330
+>> French - English
+	Poor, firm, cartoon and servant of the three: three women, clothes.
+
+Step 133/330
+>> English - Swahili
+	Maskini, hodari, katuni na mtumwa wa hao watatu: wanawake watatu, nguo.
+
+Step 134/330
+>> Swahili - Arabic
+	الفقراء ، الأقوياء ، والكرتون والعبد من الثلاثة: ثلاث نساء ، والملابس.
+
+Step 135/330
+>> Arabic - Shona
+	Varombo, vane simba, katuni uye muranda wevatatu: vakadzi vatatu, nguo.
+
+Step 136/330
+>> Shona - Hausa
+	Talauci, mai iko, zane mai ban dariya da bawan mutane uku: mata uku, tufafi.
+
+Step 137/330
+>> Hausa - Swahili
+	Mtumwa masikini, hodari, katuni na mtu wa tatu: wanawake watatu, nguo.
+
+Step 138/330
+>> Swahili - English
+	Poor slave, mighty, cartoonist and third person: three women, clothes.
+
+Step 139/330
+>> English - Arabic
+	الفقراء الرقيق ، الأقوياء ، رسام الكاريكاتير والشخص الثالث: ثلاث نساء ، والملابس.
+
+Step 140/330
+>> Arabic - Malagasy
+	Andevo ambany, mahery, mpanao sary miaina ary olona fahatelo: vehivavy telo, akanjo.
+
+Step 141/330
+>> Malagasy - Swahili
+	Mtumwa, mwenye nguvu, mwenye nguvu na mtu wa tatu: wanawake watatu, nguo.
+
+Step 142/330
+>> Swahili - French
+	Esclave, puissant, puissant et troisième personne: trois femmes, des vêtements.
+
+Step 143/330
+>> French - Arabic
+	عبد ، قوي ، قوي ، شخص ثالث: ثلاث نساء ، ملابس.
+
+Step 144/330
+>> Arabic - French
+	Abd, fort, fort, troisième personne: trois femmes, des vêtements.
+
+Step 145/330
+>> French - Arabic
+	عبد ، قوي ، قوي ، شخص ثالث: ثلاث نساء ، ملابس.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Abd, fò, fò, twazyèm moun: twa fanm, rad.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	عبد ، غښتلی ، غښتلی ، دریم کس: درې میرمنې ، کالي.
+
+Step 148/330
+>> Pashto - French
+	Abd, fort, fort, troisième personne: trois femmes, Kali.
+
+Step 149/330
+>> French - Chichewa
+	Abd, wamphamvu, wamphamvu, munthu wachitatu: azimayi atatu, Kali.
+
+Step 150/330
+>> Chichewa - Arabic
+	عبد ، قوي ، قوي ، شخص ثالث: ثلاث نساء ، كالي.
+
+Step 151/330
+>> Arabic - Amharic
+	ባርያ ፣ ጠንካራ ፣ ጠንካራ ፣ ሶስተኛ ሰው-ሶስት ሴቶች ፣ ካሊ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Slave, strong, strong, third man-three women, Cal.
+
+Step 153/330
+>> English - French
+	Esclave, fort, fort, troisième homme - trois femmes, Cal.
+
+Step 154/330
+>> French - Swahili
+	Mtumwa, hodari, hodari, mwanaume wa tatu - wanawake watatu, Kal.
+
+Step 155/330
+>> Swahili - Portuguese
+	Escravo, poderoso, poderoso, terceiro homem - três mulheres, Cal.
+
+Step 156/330
+>> Portuguese - Arabic
+	عبد ، عظيم ، عظيم ، رجل ثالث - ثلاث نساء ، كال.
+
+Step 157/330
+>> Arabic - Portuguese
+	Escravo, ótimo, ótimo, terceiro homem - três mulheres, Cal.
+
+Step 158/330
+>> Portuguese - English
+	Slave, great, great, third man - three women, Cal.
+
+Step 159/330
+>> English - French
+	Esclave, grand, grand, troisième homme - trois femmes, Cal.
+
+Step 160/330
+>> French - English
+	Slave, tall, tall, third man - three women, Cal.
+
+Step 161/330
+>> English - Swahili
+	Mtumwa, mrefu, mrefu, mwanaume wa tatu - wanawake watatu, Kal.
+
+Step 162/330
+>> Swahili - Arabic
+	العبد ، طويل القامة ، رجل ثالث - ثلاث نساء ، كال.
+
+Step 163/330
+>> Arabic - Arabic
+	Slave, tall, third man - three women, cal.
+
+Step 164/330
+>> Arabic - French
+	Esclave, grand, troisième homme - trois femmes, cal.
+
+Step 165/330
+>> French - Hausa
+	Bawa, tsayi, mutum na uku - mata uku, cal.
+
+Step 166/330
+>> Hausa - French
+	Esclave, grand, troisième homme - trois femmes, cal.
+
+Step 167/330
+>> French - Arabic
+	Slave, tall, third man - three women, cal.
+
+Step 168/330
+>> Arabic - Arabic
+	العبد ، طويل القامة ، رجل ثالث - ثلاث نساء ، كال.
+
+Step 169/330
+>> Arabic - Swahili
+	Mtumwa, mrefu, mwanaume wa tatu - wanawake watatu, cal.
+
+Step 170/330
+>> Swahili - English
+	Slave, tall, third man - three women, cal.
+
+Step 171/330
+>> English - French
+	Esclave, grand, troisième homme - trois femmes, cal.
+
+Step 172/330
+>> French - English
+	Slave, tall, third man - three women, cal.
+
+Step 173/330
+>> English - Portuguese
+	Escravo, alto, terceiro homem - três mulheres, cal.
+
+Step 174/330
+>> Portuguese - Arabic
+	العبد ، طويل القامة ، رجل ثالث - ثلاث نساء ، كال.
+
+Step 175/330
+>> Arabic - Portuguese
+	Escravo, alto, terceiro homem - três mulheres, cal.
+
+Step 176/330
+>> Portuguese - Swahili
+	Mtumwa, mrefu, mwanaume wa tatu - wanawake watatu, cal.
+
+Step 177/330
+>> Swahili - French
+	Esclave, grand, troisième homme - trois femmes, cal.
+
+Step 178/330
+>> French - English
+	Slave, tall, third man - three women, cal.
+
+Step 179/330
+>> English - Amharic
+	ባርያ ፣ ረዥም ፣ ሦስተኛ ሰው - ሶስት ሴቶች ፣ ካሊ
+
+Step 180/330
+>> Amharic - Arabic
+	العبد ، طويل القامة ، رجل ثالث - ثلاث نساء ، كال
+
+Step 181/330
+>> Arabic - Chichewa
+	Kapolo, wamtali, bambo wachitatu - azimayi atatu, cal
+
+Step 182/330
+>> Chichewa - French
+	Esclave, grand, troisième père - trois femmes, cal
+
+Step 183/330
+>> French - Pashto
+	غلام ، لوی ، دریم پلار - درې میرمنې ، کال
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Esklav, pi gran, twazyèm papa - twa fanm, ane
+
+Step 185/330
+>> Haitian Creole - Arabic
+	الرقيق ، الأكبر ، الأب الثالث - ثلاث نساء ، سنوات
+
+Step 186/330
+>> Arabic - French
+	Esclave, aîné, troisième père - trois femmes, ans
+
+Step 187/330
+>> French - Arabic
+	الرقيق ، الأكبر ، الأب الثالث - ثلاث نساء ، سنوات
+
+Step 188/330
+>> Arabic - French
+	Esclave, aîné, troisième père - trois femmes, ans
+
+Step 189/330
+>> French - Swahili
+	Mtumwa, mzee, baba wa tatu - wanawake watatu, miaka
+
+Step 190/330
+>> Swahili - Malagasy
+	Andevo, antitra, rain'ny telo - vehivavy telo, taona
+
+Step 191/330
+>> Malagasy - Arabic
+	عبيد ، رجال عجوز ، آباء لثلاث نساء - ثلاث سنوات
+
+Step 192/330
+>> Arabic - English
+	Slaves, old men, fathers of three women - three years
+
+Step 193/330
+>> English - Swahili
+	Watumwa, wanaume wazee, baba za wanawake watatu - miaka mitatu
+
+Step 194/330
+>> Swahili - Hausa
+	Barori, tsofaffin maza, iyayen mata mata uku - shekaru uku
+
+Step 195/330
+>> Hausa - Shona
+	Varanda, vatana, hanzvadzi nhatu - makore matatu
+
+Step 196/330
+>> Shona - Arabic
+	الخدم ، رجال كبار السن ، ثلاث أخوات - ثلاث سنوات
+
+Step 197/330
+>> Arabic - Swahili
+	Mchinjaji, wanaume wazee, dada watatu - miaka mitatu
+
+Step 198/330
+>> Swahili - English
+	Butcher, old men, three sisters - three years
+
+Step 199/330
+>> English - French
+	Boucher, vieillards, trois soeurs - trois ans
+
+Step 200/330
+>> French - Urdu
+	کسائ ، بوڑھے آدمی ، تین بہنیں - تین سال کی۔
+
+Step 201/330
+>> Urdu - Nepali
+	कसाई, बुढा मान्छे, तीन बहिनीहरू - तीन वर्षको।
+
+Step 202/330
+>> Nepali - Burmese
+	အမဲသတ်သမားဟောင်းနွမ်းလူများ, နှမသုံးယောက် - သုံးနှစ်က။
+
+Step 203/330
+>> Burmese - Portuguese
+	Butcher, idosos, e três irmãs - três anos.
+
+Step 204/330
+>> Portuguese - English
+	Butcher, seniors, and three sisters - three years.
+
+Step 205/330
+>> English - Portuguese
+	Açougueiro, idosos e três irmãs - três anos.
+
+Step 206/330
+>> Portuguese - English
+	Butcher, seniors and three sisters - three years.
+
+Step 207/330
+>> English - Portuguese
+	Açougueiro, idosos e três irmãs - três anos.
+
+Step 208/330
+>> Portuguese - English
+	Butcher, seniors and three sisters - three years.
+
+Step 209/330
+>> English - lao
+	Butcher, ຜູ້ສູງອາຍຸແລະສາມເອື້ອຍນ້ອງ - ສາມປີ.
+
+Step 210/330
+>> lao - French
+	Boucher, un aîné et trois soeurs - trois ans.
+
+Step 211/330
+>> French - Bengali
+	বাউচার, একজন প্রবীণ এবং তিন বোন - তিন বছর বয়সী।
+
+Step 212/330
+>> Bengali - English
+	Boucher, a veteran and three sisters - three years old.
+
+Step 213/330
+>> English - Spanish
+	Boucher, una veterana y tres hermanas, de tres años.
+
+Step 214/330
+>> Spanish - Portuguese
+	Boucher, veterana e três irmãs, de três anos.
+
+Step 215/330
+>> Portuguese - Hindi
+	बाउचर, अनुभवी और तीन बहनें, तीन साल की।
+
+Step 216/330
+>> Hindi - English
+	Boucher, veteran and three sisters, aged three.
+
+Step 217/330
+>> English - Spanish
+	Boucher, veterano y tres hermanas, de tres años.
+
+Step 218/330
+>> Spanish - English
+	Boucher, veteran and three sisters, three years old.
+
+Step 219/330
+>> English - Portuguese
+	Boucher, veterana e três irmãs, de três anos.
+
+Step 220/330
+>> Portuguese - Spanish
+	Boucher, veterano y tres hermanas, de tres años.
+
+Step 221/330
+>> Spanish - Arabic
+	باوتشر ، محارب قديم وثلاث أخوات ، ثلاث سنوات.
+
+Step 222/330
+>> Arabic - Russian
+	Баучер, ветеран и три сестры, три года.
+
+Step 223/330
+>> Russian - Spanish
+	Boucher, veterano y tres hermanas, tres años.
+
+Step 224/330
+>> Spanish - Arabic
+	باوتشر ، المخضرم وثلاث أخوات ، ثلاث سنوات.
+
+Step 225/330
+>> Arabic - Spanish
+	Boucher, una veterana y tres hermanas, tres años.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Boucher, một cựu chiến binh và ba chị em gái, ba năm.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Boucher, seorang veteran dan tiga saudara perempuan, tiga tahun.
+
+Step 228/330
+>> Indonesian - Arabic
+	باوتشر ، محارب قديم وثلاث شقيقات ، ثلاث سنوات.
+
+Step 229/330
+>> Arabic - Zulu
+	UBoucher, ongumakadebona nodadewabo abathathu, uneminyaka emithathu ubudala.
+
+Step 230/330
+>> Zulu - Filipino
+	Si Boucher, isang bihasang beterano at tatlong kapatid, ay tatlong taong gulang.
+
+Step 231/330
+>> Filipino - Romanian
+	Boucher, un veteran veteran și trei frați, are trei ani.
+
+Step 232/330
+>> Romanian - Spanish
+	Boucher, un veterano veterano y tres hermanos, tiene tres años.
+
+Step 233/330
+>> Spanish - French
+	Boucher, un ancien combattant et trois frères, a trois ans.
+
+Step 234/330
+>> French - Arabic
+	يبلغ عمر باوتشر ، وهو محارب قديم وثلاثة أشقاء ، ثلاث سنوات.
+
+Step 235/330
+>> Arabic - English
+	Boucher, a veteran and three brothers, is three years old.
+
+Step 236/330
+>> English - Uzbek
+	Veteran va uchta aka-uka Boucher uch yoshda.
+
+Step 237/330
+>> Uzbek - Samoan
+	O se tagata vaʻaia ma le toatolu o Boucher e tolu ona tausaga.
+
+Step 238/330
+>> Samoan - English
+	A veteran with three-year-old Boucher.
+
+Step 239/330
+>> English - Dutch
+	Een veteraan met een driejarige Boucher.
+
+Step 240/330
+>> Dutch - English
+	A veteran with a three-year Boucher.
+
+Step 241/330
+>> English - Kurdish
+	Vînderek ku xwediyê sê-salî Boucher e.
+
+Step 242/330
+>> Kurdish - Arabic
+	الفائز هو صاحب Boucher البالغ من العمر ثلاث سنوات.
+
+Step 243/330
+>> Arabic - Spanish
+	El ganador es su Boucher de tres años.
+
+Step 244/330
+>> Spanish - Mongolian
+	Ялагч бол түүний гурван настай Баучер юм.
+
+Step 245/330
+>> Mongolian - English
+	The winner is his three-year-old Bauer.
+
+Step 246/330
+>> English - Spanish
+	El ganador es su Bauer de tres años.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Переможець - його трирічний Бауер.
+
+Step 248/330
+>> Ukrainian - Spanish
+	El ganador es su Bauer de tres años.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	获胜者是他三岁的鲍尔。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	وكان الفائز باور البالغ من العمر ثلاث سنوات.
+
+Step 251/330
+>> Arabic - Thai
+	ผู้ชนะคือบาวเออร์อายุสามปี
+
+Step 252/330
+>> Thai - Armenian
+	Հաղթողը երեք տարեկան է ՝ Բաուերը:
+
+Step 253/330
+>> Armenian - Macedonian
+	Победникот има три години - Бауер.
+
+Step 254/330
+>> Macedonian - Arabic
+	الفائز من العمر ثلاث سنوات - باور.
+
+Step 255/330
+>> Arabic - Portuguese
+	Vencedor de três anos - Bauer.
+
+Step 256/330
+>> Portuguese - Spanish
+	Ganador de tres años - Bauer.
+
+Step 257/330
+>> Spanish - Bosnian
+	Trogodišnji dobitnik - Bauer.
+
+Step 258/330
+>> Bosnian - Sinhala
+	තුන් අවුරුදු ජයග්රාහකයා - බවර්.
+
+Step 259/330
+>> Sinhala - English
+	Three-year winner - Bauer.
+
+Step 260/330
+>> English - Spanish
+	Ganador de tres años - Bauer.
+
+Step 261/330
+>> Spanish - English
+	Three year winner - Bauer.
+
+Step 262/330
+>> English - Georgian
+	სამი წლის გამარჯვებული - ბაუერი.
+
+Step 263/330
+>> Georgian - English
+	Three-year winner - Bauer.
+
+Step 264/330
+>> English - Albanian
+	Fituesi tre-vjeçar - Bauer.
+
+Step 265/330
+>> Albanian - Serbian
+	Троструки победник - Бауер.
+
+Step 266/330
+>> Serbian - Spanish
+	Triple ganador - Bauer.
+
+Step 267/330
+>> Spanish - English
+	Triple winner - Bauer.
+
+Step 268/330
+>> English - Turkish
+	Üçlü kazanan - Bauer.
+
+Step 269/330
+>> Turkish - Spanish
+	Triple ganador - Bauer.
+
+Step 270/330
+>> Spanish - French
+	Triple gagnant - Bauer.
+
+Step 271/330
+>> French - English
+	Triple winner - Bauer.
+
+Step 272/330
+>> English - Persian
+	برنده سه گانه - Bauer.
+
+Step 273/330
+>> Persian - Kazakh
+	Үш дүркін жеңімпаз - Бауэр.
+
+Step 274/330
+>> Kazakh - English
+	Three-time winner - Bauer.
+
+Step 275/330
+>> English - Malay
+	Pemenang tiga kali - Bauer.
+
+Step 276/330
+>> Malay - Arabic
+	الفائز ثلاث مرات - باور.
+
+Step 277/330
+>> Arabic - Spanish
+	Tres veces ganador - Bauer.
+
+Step 278/330
+>> Spanish - English
+	Three times winner - Bauer.
+
+Step 279/330
+>> English - Russian
+	Трижды победитель - Бауэр.
+
+Step 280/330
+>> Russian - Romanian
+	De trei ori câștigătorul este Bauer.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Три пъти победител е Бауер.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Tre herë fituesi është Bauer.
+
+Step 283/330
+>> Albanian - Russian
+	Трехкратный победитель - Бауэр.
+
+Step 284/330
+>> Russian - Arabic
+	الفائز ثلاث مرات هو باور.
+
+Step 285/330
+>> Arabic - Spanish
+	El tres veces ganador es Bauer.
+
+Step 286/330
+>> Spanish - Croatian
+	Trostruki pobjednik je Bauer.
+
+Step 287/330
+>> Croatian - Hungarian
+	A háromszoros nyertes Bauer.
+
+Step 288/330
+>> Hungarian - Spanish
+	El tres veces ganador Bauer.
+
+Step 289/330
+>> Spanish - Arabic
+	الفائز ثلاث مرات باور.
+
+Step 290/330
+>> Arabic - Portuguese
+	Vencedor três vezes do PowerPC.
+
+Step 291/330
+>> Portuguese - Latvian
+	PowerPC uzvarētājs trīs reizes.
+
+Step 292/330
+>> Latvian - Arabic
+	الفائز PowerPC ثلاث مرات.
+
+Step 293/330
+>> Arabic - Malay
+	Pemenang PowerPC tiga kali.
+
+Step 294/330
+>> Malay - Slovak
+	Víťaz trojnásobného ocenenia PowerPC.
+
+Step 295/330
+>> Slovak - Arabic
+	الفائز بجائزة PowerPC ثلاثية.
+
+Step 296/330
+>> Arabic - Lithuanian
+	„PowerPC“ trigubas nugalėtojas.
+
+Step 297/330
+>> Lithuanian - Catalan
+	PowerPC Triple Winner.
+
+Step 298/330
+>> Catalan - Arabic
+	الفائز PowerPC الثلاثي.
+
+Step 299/330
+>> Arabic - Polish
+	Potrójny zwycięzca PowerPC.
+
+Step 300/330
+>> Polish - Turkish
+	Üçlü PowerPC kazanan.
+
+Step 301/330
+>> Turkish - Greek
+	Τριπλός νικητής του PowerPC.
+
+Step 302/330
+>> Greek - Estonian
+	PowerPC kolmikvõitja.
+
+Step 303/330
+>> Estonian - Maltese
+	PowerPC Triple Rebbieħ.
+
+Step 304/330
+>> Maltese - Italian
+	Vincitore PowerPC Triple.
+
+Step 305/330
+>> Italian - Czech
+	Vítěz trojice PowerPC.
+
+Step 306/330
+>> Czech - Spanish
+	Ganador del trío PowerPC.
+
+Step 307/330
+>> Spanish - Slovenian
+	Zmagovalec PowerPC tria.
+
+Step 308/330
+>> Slovenian - French
+	Vainqueur du trio PowerPC.
+
+Step 309/330
+>> French - Korean
+	PowerPC 트리오의 승자.
+
+Step 310/330
+>> Korean - Hebrew
+	הזוכה בשלישיית ה- PowerPC.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	De Gewënner vum PowerPC Trio.
+
+Step 312/330
+>> Luxembourgish - German
+	Der Gewinner des PowerPC Trios.
+
+Step 313/330
+>> German - Japanese
+	PowerPC Trioの勝者。
+
+Step 314/330
+>> Japanese - German
+	PowerPC Trio Gewinner.
+
+Step 315/330
+>> German - Dutch
+	Winnaar PowerPC Trio.
+
+Step 316/330
+>> Dutch - Maori
+	Winner PowerPC Trio.
+
+Step 317/330
+>> Maori - Finnish
+	Voittaja PowerPC Trio.
+
+Step 318/330
+>> Finnish - English
+	Winner of the PowerPC Trio.
+
+Step 319/330
+>> English - Danish
+	Vinder af PowerPC-trioen.
+
+Step 320/330
+>> Danish - Dutch
+	Winnaar van het PowerPC-trio.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	PowerPC三重奏的獲勝者。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Vinnaren av PowerPC Trio.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	PowerPC Trio的獲勝者。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Sigurvegarinn í PowerPC tríóinu.
+
+Step 325/330
+>> Icelandic - German
+	Der Gewinner des PowerPC-Trios.
+
+Step 326/330
+>> German - Irish
+	Buaiteoir na trialach PowerPC.
+
+Step 327/330
+>> Irish - English
+	Winner of the PowerPC trial.
+
+Step 328/330
+>> English - German
+	Gewinner der PowerPC-Testversion.
+
+Step 329/330
+>> German - Norwegian
+	Vinner av PowerPC-prøveversjonen.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Vencedor da avaliação do PowerPC.
+
+
+##### RESULTS ######
+
+— Sire, os três calandares, o califa, o grão-vizir Djafar, o eunuco Mesrur e o carregador estavam todos no meio da sala, sentados sobre o tapete, na presença das três damas, que se encontravam no sofá, e dos escravos prontos a executar as ordens.
+
+Vencedor da avaliação do PowerPC.

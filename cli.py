@@ -20,7 +20,6 @@ def from_idh_csv(filename):
 
     with open("datasets/1001_noites.txt", 'r') as fd:
         phrases = [l.strip() for l in fd.readlines() if l.strip()]
-
         for text in phrases:
             cprint.ok(f"Translation chain: {chain_str}.")
             cprint.ok(f"Input text: {text}\n")

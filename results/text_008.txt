@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: História do Rei Grego e do Médico Dubã.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Historien om den greske kongen og doktoren Dubã.
+
+Step 2/330
+>> Norwegian - German
+	Die Geschichte des griechischen Königs und Doktors Dubã.
+
+Step 3/330
+>> German - English
+	The story of the Greek King and Doctor Dubã.
+
+Step 4/330
+>> English - Irish
+	Scéal Rí na Gréige agus an Dochtúir Dubã.
+
+Step 5/330
+>> Irish - German
+	Die Geschichte von König von Griechenland und Doktor Dubã.
+
+Step 6/330
+>> German - Icelandic
+	Sagan af konungi Grikklands og læknirinn Dubã.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	希臘國王和杜巴博士的故事。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Historien om den grekiska kungen och Dr. Durbar.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	希臘國王和博士的故事杜巴。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Het verhaal van de Griekse koning en Dr. Duba.
+
+Step 11/330
+>> Dutch - Danish
+	Historien om den græske konge og Dr. Duba.
+
+Step 12/330
+>> Danish - English
+	The story of the Greek king and Dr. Duba.
+
+Step 13/330
+>> English - Finnish
+	Kreikan kuninkaan ja tohtori Duban tarina.
+
+Step 14/330
+>> Finnish - Maori
+	Ko te korero mo te Kingi o Kariki me Dr. Dubai.
+
+Step 15/330
+>> Maori - Dutch
+	Het verhaal van de koning van Griekenland en Dr. Dubai.
+
+Step 16/330
+>> Dutch - German
+	Die Geschichte des Königs von Griechenland und Dr. Dubai.
+
+Step 17/330
+>> German - Japanese
+	ギリシャ王と博士の物語ドバイ。
+
+Step 18/330
+>> Japanese - German
+	Die Geschichte des griechischen Königs und Doktors Dubai.
+
+Step 19/330
+>> German - Luxembourgish
+	D'Geschicht vum griichesche Kinnek an Dokter Dubai.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	סיפור המלך היווני והדוקטור דובאי.
+
+Step 21/330
+>> Hebrew - Korean
+	그리스 왕과 두바이 박사의 이야기.
+
+Step 22/330
+>> Korean - French
+	L'histoire du roi grec et du docteur Dubaï.
+
+Step 23/330
+>> French - Slovenian
+	Zgodba o grškem kralju in zdravniku Dubaju.
+
+Step 24/330
+>> Slovenian - Spanish
+	La historia del rey griego y el doctor Dubai.
+
+Step 25/330
+>> Spanish - Czech
+	Příběh řeckého krále a Dr. Dubaje.
+
+Step 26/330
+>> Czech - Italian
+	Storia del re e del dottore greci Dubai.
+
+Step 27/330
+>> Italian - Maltese
+	Storja tar-re Grieg u tabib ta ’Dubaj.
+
+Step 28/330
+>> Maltese - Estonian
+	Ajalugu Kreeka kuningas ja arsti Dubai.
+
+Step 29/330
+>> Estonian - Greek
+	Ιστορία του Έλληνα βασιλιά και γιατρό του Ντουμπάι.
+
+Step 30/330
+>> Greek - Turkish
+	Yunan Kralı ve Dubai Doktoru Tarihi.
+
+Step 31/330
+>> Turkish - Polish
+	Historia greckiego króla i doktora Dubaju.
+
+Step 32/330
+>> Polish - Arabic
+	قصة الملك اليوناني وطبيب دبي.
+
+Step 33/330
+>> Arabic - Catalan
+	La història del rei grec i el metge de Dubai.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Graikijos karaliaus ir Dubajaus gydytojo istorija.
+
+Step 35/330
+>> Lithuanian - Arabic
+	تاريخ ملك اليونان ودكتور دبي.
+
+Step 36/330
+>> Arabic - Slovak
+	História gréckeho kráľa a Dr. Dubaja.
+
+Step 37/330
+>> Slovak - Malay
+	Sejarah Raja Yunani dan Dr. Dubai.
+
+Step 38/330
+>> Malay - Arabic
+	تاريخ الملك اليوناني والدكتور دبي.
+
+Step 39/330
+>> Arabic - Latvian
+	Grieķijas karaļa un Dr. Dubaijas vēsture.
+
+Step 40/330
+>> Latvian - Portuguese
+	Rei da Grécia e Dr. História do Dubai.
+
+Step 41/330
+>> Portuguese - Arabic
+	ملك اليونان والدكتور تاريخ دبي.
+
+Step 42/330
+>> Arabic - Spanish
+	El Rey de Grecia y el Dr. Historia de Dubai.
+
+Step 43/330
+>> Spanish - Hungarian
+	A görög király és a Dubai története.
+
+Step 44/330
+>> Hungarian - Croatian
+	Povijest grčkog kralja i Dubaija.
+
+Step 45/330
+>> Croatian - Spanish
+	Historia del rey griego y Dubai.
+
+Step 46/330
+>> Spanish - Arabic
+	تاريخ الملك اليوناني ودبي.
+
+Step 47/330
+>> Arabic - Russian
+	История греческого короля и Дубая.
+
+Step 48/330
+>> Russian - Albanian
+	Historia e mbretit Grek dhe Dubai.
+
+Step 49/330
+>> Albanian - Bulgarian
+	История на гръцкия крал и Дубай.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Istoria regelui grec și Dubai.
+
+Step 51/330
+>> Romanian - Russian
+	История греческого короля и Дубая.
+
+Step 52/330
+>> Russian - English
+	History of the Greek king and Dubai.
+
+Step 53/330
+>> English - Spanish
+	Historia del rey griego y Dubai.
+
+Step 54/330
+>> Spanish - Arabic
+	تاريخ الملك اليوناني ودبي.
+
+Step 55/330
+>> Arabic - Malay
+	Sejarah Raja Yunani dan Dubai.
+
+Step 56/330
+>> Malay - English
+	History of the King of Greece and Dubai.
+
+Step 57/330
+>> English - Kazakh
+	Греция және Дубай королінің тарихы.
+
+Step 58/330
+>> Kazakh - Persian
+	تاریخ یونان و پادشاه دبی.
+
+Step 59/330
+>> Persian - English
+	History of Greece and the King of Dubai.
+
+Step 60/330
+>> English - French
+	Histoire de la Grèce et du roi de Dubaï.
+
+Step 61/330
+>> French - Spanish
+	Historia de Grecia y el rey de Dubai.
+
+Step 62/330
+>> Spanish - Turkish
+	Yunanistan tarihi ve Dubai kralı.
+
+Step 63/330
+>> Turkish - English
+	History of Greece and King of Dubai.
+
+Step 64/330
+>> English - Spanish
+	Historia de Grecia y rey de Dubai.
+
+Step 65/330
+>> Spanish - Serbian
+	Историја Грчке и краљ Дубаија.
+
+Step 66/330
+>> Serbian - Albanian
+	Historia e Greqisë dhe Mbreti i Dubait.
+
+Step 67/330
+>> Albanian - English
+	History of Greece and King of Dubai.
+
+Step 68/330
+>> English - Georgian
+	საბერძნეთის ისტორია და დუბაის მეფე.
+
+Step 69/330
+>> Georgian - English
+	History of Greece and King of Dubai.
+
+Step 70/330
+>> English - Spanish
+	Historia de Grecia y rey de Dubai.
+
+Step 71/330
+>> Spanish - English
+	History of Greece and king of Dubai.
+
+Step 72/330
+>> English - Sinhala
+	ග්‍රීසියේ ඉතිහාසය සහ ඩුබායි රජු.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Istorija Grčke i kralj Dubaija.
+
+Step 74/330
+>> Bosnian - Spanish
+	Historia de Grecia y rey de Dubai.
+
+Step 75/330
+>> Spanish - Portuguese
+	História da Grécia e rei de Dubai.
+
+Step 76/330
+>> Portuguese - Arabic
+	تاريخ اليونان وملك دبي.
+
+Step 77/330
+>> Arabic - Macedonian
+	Историја на Грција и кралот на Дубаи.
+
+Step 78/330
+>> Macedonian - Armenian
+	Հունաստանի պատմություն և Դուբայի թագավոր:
+
+Step 79/330
+>> Armenian - Thai
+	ประวัติศาสตร์กรีซและราชาแห่งดูไบ
+
+Step 80/330
+>> Thai - Arabic
+	تاريخ اليونان وملك دبي
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	希腊历史和迪拜国王
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Historia griega y rey de Dubai
+
+Step 83/330
+>> Spanish - Ukrainian
+	Грецька історія та король Дубая
+
+Step 84/330
+>> Ukrainian - Spanish
+	Historia griega y rey de Dubai
+
+Step 85/330
+>> Spanish - English
+	Greek history and king of Dubai
+
+Step 86/330
+>> English - Mongolian
+	Грекийн түүх ба Дубайн хаан
+
+Step 87/330
+>> Mongolian - Spanish
+	Historia de Grecia y rey de Dubai
+
+Step 88/330
+>> Spanish - Arabic
+	تاريخ اليونان وملك دبي
+
+Step 89/330
+>> Arabic - Kurdish
+	Dîroka Yewnanîstan û padîşahê Dubai
+
+Step 90/330
+>> Kurdish - English
+	History of the Greeks and the king of Dubai
+
+Step 91/330
+>> English - Dutch
+	Geschiedenis van de Grieken en de koning van Dubai
+
+Step 92/330
+>> Dutch - English
+	History of the Greeks and the King of Dubai
+
+Step 93/330
+>> English - Samoan
+	Talafaasolopito o Eleni ma le Tupu o Dubai
+
+Step 94/330
+>> Samoan - Uzbek
+	Yunon tarixi va Dubay qiroli
+
+Step 95/330
+>> Uzbek - English
+	Greek History and King of Dubai
+
+Step 96/330
+>> English - Arabic
+	التاريخ اليوناني وملك دبي
+
+Step 97/330
+>> Arabic - French
+	Histoire grecque et le roi de Dubaï
+
+Step 98/330
+>> French - Spanish
+	Historia griega y el rey de Dubai
+
+Step 99/330
+>> Spanish - Romanian
+	Istoria greacă și regele Dubaiului
+
+Step 100/330
+>> Romanian - Filipino
+	Kasaysayan ng Greek at Hari ng Dubai
+
+Step 101/330
+>> Filipino - Zulu
+	Umlando WamaGrikhi neNkosi yaseDubai
+
+Step 102/330
+>> Zulu - Arabic
+	التاريخ اليوناني وملك دبي
+
+Step 103/330
+>> Arabic - Indonesian
+	Sejarah Yunani dan Raja Dubai
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Lịch sử Hy Lạp và Quốc vương Dubai
+
+Step 105/330
+>> Vietnamese - Spanish
+	Historia griega y rey Dubai
+
+Step 106/330
+>> Spanish - Arabic
+	التاريخ اليوناني والملك دبي
+
+Step 107/330
+>> Arabic - Spanish
+	Historia griega y el rey de Dubai
+
+Step 108/330
+>> Spanish - Russian
+	Греческая история и король Дубая
+
+Step 109/330
+>> Russian - Arabic
+	التاريخ اليوناني وملك دبي
+
+Step 110/330
+>> Arabic - Spanish
+	Historia griega y el rey de Dubai
+
+Step 111/330
+>> Spanish - Portuguese
+	História da Grécia e o rei do Dubai
+
+Step 112/330
+>> Portuguese - English
+	Greek History and the King of Dubai
+
+Step 113/330
+>> English - Spanish
+	Historia griega y el rey de Dubai
+
+Step 114/330
+>> Spanish - English
+	Greek history and the king of Dubai
+
+Step 115/330
+>> English - Hindi
+	ग्रीक इतिहास और दुबई का राजा
+
+Step 116/330
+>> Hindi - Portuguese
+	História da Grécia e Rei do Dubai
+
+Step 117/330
+>> Portuguese - Spanish
+	Historia griega y rey de Dubai
+
+Step 118/330
+>> Spanish - English
+	Greek history and king of Dubai
+
+Step 119/330
+>> English - Bengali
+	গ্রীক ইতিহাস এবং দুবাইয়ের রাজা
+
+Step 120/330
+>> Bengali - French
+	Histoire grecque et roi de Dubaï
+
+Step 121/330
+>> French - lao
+	ປະຫວັດສາດກະເຣັກແລະກະສັດຂອງດູໄບ
+
+Step 122/330
+>> lao - English
+	The Greek and King's History of Dubai
+
+Step 123/330
+>> English - Portuguese
+	A história grega e do rei de Dubai
+
+Step 124/330
+>> Portuguese - English
+	The Greek History and the King of Dubai
+
+Step 125/330
+>> English - Portuguese
+	A história da Grécia e o rei do Dubai
+
+Step 126/330
+>> Portuguese - English
+	The history of Greece and the king of Dubai
+
+Step 127/330
+>> English - Portuguese
+	A história da Grécia e o rei de Dubai
+
+Step 128/330
+>> Portuguese - Burmese
+	ဂရိနိုင်ငံရဲ့သမိုင်းနှင့်ဒူဘိုင်းရှင်ဘုရင်၏
+
+Step 129/330
+>> Burmese - Nepali
+	ग्रीस इतिहास र दुबई को राजा को
+
+Step 130/330
+>> Nepali - Urdu
+	یونان کی تاریخ اور دبئی کا بادشاہ۔
+
+Step 131/330
+>> Urdu - French
+	Histoire de la Grèce et roi de Dubaï
+
+Step 132/330
+>> French - English
+	History of Greece and King of Dubai
+
+Step 133/330
+>> English - Swahili
+	Historia ya Ugiriki na Mfalme wa Dubai
+
+Step 134/330
+>> Swahili - Arabic
+	تاريخ اليونان وملك دبي
+
+Step 135/330
+>> Arabic - Shona
+	Nhoroondo yeGreece uye Mambo weDubai
+
+Step 136/330
+>> Shona - Hausa
+	Tarihin Girka da Sarkin Dubai
+
+Step 137/330
+>> Hausa - Swahili
+	Historia ya Ugiriki na Mfalme wa Dubai
+
+Step 138/330
+>> Swahili - English
+	History of Greece and the King of Dubai
+
+Step 139/330
+>> English - Arabic
+	تاريخ اليونان وملك دبي
+
+Step 140/330
+>> Arabic - Malagasy
+	Tantaran'i Gresy sy ny Tompon'ny Dubai
+
+Step 141/330
+>> Malagasy - Swahili
+	Historia ya Ugiriki na Bwana wa Dubai
+
+Step 142/330
+>> Swahili - French
+	Histoire de la Grèce et seigneur de Dubaï
+
+Step 143/330
+>> French - Arabic
+	تاريخ اليونان ورب دبي
+
+Step 144/330
+>> Arabic - French
+	Histoire de la Grèce et du seigneur de Dubaï
+
+Step 145/330
+>> French - Arabic
+	تاريخ اليونان ورب دبي
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Istwa nan Lagrès ak Seyè a nan Emira Arab Ini
+
+Step 147/330
+>> Haitian Creole - Pashto
+	د یونان تاریخ او د دوبۍ لارډ
+
+Step 148/330
+>> Pashto - French
+	Histoire de la Grèce et du Seigneur des anneaux
+
+Step 149/330
+>> French - Chichewa
+	Mbiri ya Greece ndi Lord of the Rings
+
+Step 150/330
+>> Chichewa - Arabic
+	تاريخ اليونان وسيد الخواتم
+
+Step 151/330
+>> Arabic - Amharic
+	ታሪክ የግሪክ እና የወርቅ ጌታ።
+
+Step 152/330
+>> Amharic - English
+	HISTORY OF GREEK AND GOLD.
+
+Step 153/330
+>> English - French
+	HISTOIRE DU GREC ET DE L'OR.
+
+Step 154/330
+>> French - Swahili
+	HABARI YA GREEK NA GOLD.
+
+Step 155/330
+>> Swahili - Portuguese
+	HISTÓRIA GREGA E OURO.
+
+Step 156/330
+>> Portuguese - Arabic
+	اليونانية والذهبية قصة.
+
+Step 157/330
+>> Arabic - Portuguese
+	História grega e dourada.
+
+Step 158/330
+>> Portuguese - English
+	Greek and golden history.
+
+Step 159/330
+>> English - French
+	Histoire grecque et dorée.
+
+Step 160/330
+>> French - English
+	Greek and golden history.
+
+Step 161/330
+>> English - Swahili
+	Historia ya Uigiriki na dhahabu.
+
+Step 162/330
+>> Swahili - Arabic
+	تاريخ اليونان والذهب.
+
+Step 163/330
+>> Arabic - Arabic
+	History of Greece and gold.
+
+Step 164/330
+>> Arabic - French
+	Histoire de la Grèce et de l'or.
+
+Step 165/330
+>> French - Hausa
+	Tarihin Girka da zinari.
+
+Step 166/330
+>> Hausa - French
+	Histoire grecque et or.
+
+Step 167/330
+>> French - Arabic
+	Greek history and gold.
+
+Step 168/330
+>> Arabic - Arabic
+	التاريخ اليوناني والذهب.
+
+Step 169/330
+>> Arabic - Swahili
+	Historia ya Uigiriki na dhahabu.
+
+Step 170/330
+>> Swahili - English
+	History of Greece and gold.
+
+Step 171/330
+>> English - French
+	Histoire de la Grèce et de l'or.
+
+Step 172/330
+>> French - English
+	History of Greece and gold.
+
+Step 173/330
+>> English - Portuguese
+	História da Grécia e ouro.
+
+Step 174/330
+>> Portuguese - Arabic
+	التاريخ اليوناني والذهب.
+
+Step 175/330
+>> Arabic - Portuguese
+	História grega e ouro.
+
+Step 176/330
+>> Portuguese - Swahili
+	Historia ya Uigiriki na dhahabu.
+
+Step 177/330
+>> Swahili - French
+	Histoire de la Grèce et de l'or.
+
+Step 178/330
+>> French - English
+	History of Greece and gold.
+
+Step 179/330
+>> English - Amharic
+	የግሪክ እና የወርቅ ታሪክ።
+
+Step 180/330
+>> Amharic - Arabic
+	التاريخ اليوناني والذهبي.
+
+Step 181/330
+>> Arabic - Chichewa
+	Mbiri yachi Greek ndi golide.
+
+Step 182/330
+>> Chichewa - French
+	L'histoire grecque est d'or.
+
+Step 183/330
+>> French - Pashto
+	د یونان تاریخ طلایی دی.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Istwa grèk se an lò.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	التاريخ اليوناني ذهبي.
+
+Step 186/330
+>> Arabic - French
+	L'histoire grecque est d'or.
+
+Step 187/330
+>> French - Arabic
+	التاريخ اليوناني ذهبي.
+
+Step 188/330
+>> Arabic - French
+	L'histoire grecque est d'or.
+
+Step 189/330
+>> French - Swahili
+	Historia ya Uigiriki ni ya dhahabu.
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny tantaran'ny Grika dia volamena.
+
+Step 191/330
+>> Malagasy - Arabic
+	التاريخ اليوناني هو الذهب.
+
+Step 192/330
+>> Arabic - English
+	Greek history is gold.
+
+Step 193/330
+>> English - Swahili
+	Historia ya Uigiriki ni dhahabu.
+
+Step 194/330
+>> Swahili - Hausa
+	Tarihin Girka shine zinare.
+
+Step 195/330
+>> Hausa - Shona
+	Nhoroondo yechiGiriki ndarama.
+
+Step 196/330
+>> Shona - Arabic
+	التاريخ اليوناني هو الذهب.
+
+Step 197/330
+>> Arabic - Swahili
+	Historia ya Uigiriki ni dhahabu.
+
+Step 198/330
+>> Swahili - English
+	The history of Greece is gold.
+
+Step 199/330
+>> English - French
+	L'histoire de la Grèce est d'or.
+
+Step 200/330
+>> French - Urdu
+	یونان کی تاریخ سنہری ہے۔
+
+Step 201/330
+>> Urdu - Nepali
+	ग्रीसको इतिहास सुनौलो छ।
+
+Step 202/330
+>> Nepali - Burmese
+	ဂရိနိုင်ငံရဲ့သမိုင်းရွှေဖြစ်ပါတယ်။
+
+Step 203/330
+>> Burmese - Portuguese
+	A história da Grécia.
+
+Step 204/330
+>> Portuguese - English
+	The history of Greece.
+
+Step 205/330
+>> English - Portuguese
+	A história da Grécia.
+
+Step 206/330
+>> Portuguese - English
+	The history of Greece.
+
+Step 207/330
+>> English - Portuguese
+	A história da Grécia.
+
+Step 208/330
+>> Portuguese - English
+	The history of Greece.
+
+Step 209/330
+>> English - lao
+	ປະຫວັດສາດຂອງປະເທດເກຣັກ.
+
+Step 210/330
+>> lao - French
+	Histoire de la Grèce
+
+Step 211/330
+>> French - Bengali
+	গ্রীসের ইতিহাস
+
+Step 212/330
+>> Bengali - English
+	History of Greece
+
+Step 213/330
+>> English - Spanish
+	Historia de grecia
+
+Step 214/330
+>> Spanish - Portuguese
+	História da Grécia
+
+Step 215/330
+>> Portuguese - Hindi
+	ग्रीक इतिहास
+
+Step 216/330
+>> Hindi - English
+	Greek history
+
+Step 217/330
+>> English - Spanish
+	Historia griega
+
+Step 218/330
+>> Spanish - English
+	Greek history
+
+Step 219/330
+>> English - Portuguese
+	História grega
+
+Step 220/330
+>> Portuguese - Spanish
+	Historia griega
+
+Step 221/330
+>> Spanish - Arabic
+	التاريخ اليوناني
+
+Step 222/330
+>> Arabic - Russian
+	Греческая история
+
+Step 223/330
+>> Russian - Spanish
+	Historia griega
+
+Step 224/330
+>> Spanish - Arabic
+	التاريخ اليوناني
+
+Step 225/330
+>> Arabic - Spanish
+	Historia griega
+
+Step 226/330
+>> Spanish - Vietnamese
+	Lịch sử Hy Lạp
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Sejarah yunani
+
+Step 228/330
+>> Indonesian - Arabic
+	التاريخ اليوناني
+
+Step 229/330
+>> Arabic - Zulu
+	Umlando wamaGrikhi
+
+Step 230/330
+>> Zulu - Filipino
+	Kasaysayan ng Greek
+
+Step 231/330
+>> Filipino - Romanian
+	Istoria greacă
+
+Step 232/330
+>> Romanian - Spanish
+	Historia griega
+
+Step 233/330
+>> Spanish - French
+	Histoire grecque
+
+Step 234/330
+>> French - Arabic
+	التاريخ اليوناني
+
+Step 235/330
+>> Arabic - English
+	Greek history
+
+Step 236/330
+>> English - Uzbek
+	Yunon tarixi
+
+Step 237/330
+>> Uzbek - Samoan
+	Gagana Eleni
+
+Step 238/330
+>> Samoan - English
+	Greek
+
+Step 239/330
+>> English - Dutch
+	Grieks
+
+Step 240/330
+>> Dutch - English
+	Greek
+
+Step 241/330
+>> English - Kurdish
+	Yewnanî
+
+Step 242/330
+>> Kurdish - Arabic
+	الإغريق
+
+Step 243/330
+>> Arabic - Spanish
+	Los griegos
+
+Step 244/330
+>> Spanish - Mongolian
+	Грекчүүд
+
+Step 245/330
+>> Mongolian - English
+	Greeks
+
+Step 246/330
+>> English - Spanish
+	Griegos
+
+Step 247/330
+>> Spanish - Ukrainian
+	Грецька
+
+Step 248/330
+>> Ukrainian - Spanish
+	Griego
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	希腊语
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	اللغة اليونانية
+
+Step 251/330
+>> Arabic - Thai
+	ภาษากรีก
+
+Step 252/330
+>> Thai - Armenian
+	Հունական
+
+Step 253/330
+>> Armenian - Macedonian
+	Грчки:
+
+Step 254/330
+>> Macedonian - Arabic
+	اليونانية:
+
+Step 255/330
+>> Arabic - Portuguese
+	Grego:
+
+Step 256/330
+>> Portuguese - Spanish
+	Griego:
+
+Step 257/330
+>> Spanish - Bosnian
+	Grčki:
+
+Step 258/330
+>> Bosnian - Sinhala
+	ග්‍රීක:
+
+Step 259/330
+>> Sinhala - English
+	Greek:
+
+Step 260/330
+>> English - Spanish
+	Griego:
+
+Step 261/330
+>> Spanish - English
+	Greek:
+
+Step 262/330
+>> English - Georgian
+	ბერძნული:
+
+Step 263/330
+>> Georgian - English
+	Greek:
+
+Step 264/330
+>> English - Albanian
+	greek:
+
+Step 265/330
+>> Albanian - Serbian
+	Греек:
+
+Step 266/330
+>> Serbian - Spanish
+	Griego:
+
+Step 267/330
+>> Spanish - English
+	Greek:
+
+Step 268/330
+>> English - Turkish
+	Yunan:
+
+Step 269/330
+>> Turkish - Spanish
+	griego:
+
+Step 270/330
+>> Spanish - French
+	Grec:
+
+Step 271/330
+>> French - English
+	Greek:
+
+Step 272/330
+>> English - Persian
+	یونانی:
+
+Step 273/330
+>> Persian - Kazakh
+	Грек:
+
+Step 274/330
+>> Kazakh - English
+	Greek:
+
+Step 275/330
+>> English - Malay
+	Greek:
+
+Step 276/330
+>> Malay - Arabic
+	اليونانية:
+
+Step 277/330
+>> Arabic - Spanish
+	Griego:
+
+Step 278/330
+>> Spanish - English
+	Greek:
+
+Step 279/330
+>> English - Russian
+	Греческий:
+
+Step 280/330
+>> Russian - Romanian
+	greacă:
+
+Step 281/330
+>> Romanian - Bulgarian
+	гръцки:
+
+Step 282/330
+>> Bulgarian - Albanian
+	greek:
+
+Step 283/330
+>> Albanian - Russian
+	греческий:
+
+Step 284/330
+>> Russian - Arabic
+	اليونانية:
+
+Step 285/330
+>> Arabic - Spanish
+	Griego:
+
+Step 286/330
+>> Spanish - Croatian
+	grčka:
+
+Step 287/330
+>> Croatian - Hungarian
+	Görögország:
+
+Step 288/330
+>> Hungarian - Spanish
+	Grecia:
+
+Step 289/330
+>> Spanish - Arabic
+	اليونان:
+
+Step 290/330
+>> Arabic - Portuguese
+	Grécia:
+
+Step 291/330
+>> Portuguese - Latvian
+	Grieķija:
+
+Step 292/330
+>> Latvian - Arabic
+	اليونان:
+
+Step 293/330
+>> Arabic - Malay
+	Greece:
+
+Step 294/330
+>> Malay - Slovak
+	Grécko:
+
+Step 295/330
+>> Slovak - Arabic
+	اليونان:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Graikija:
+
+Step 297/330
+>> Lithuanian - Catalan
+	Grècia:
+
+Step 298/330
+>> Catalan - Arabic
+	اليونان:
+
+Step 299/330
+>> Arabic - Polish
+	Grecja:
+
+Step 300/330
+>> Polish - Turkish
+	Yunanistan:
+
+Step 301/330
+>> Turkish - Greek
+	Ελλάδα:
+
+Step 302/330
+>> Greek - Estonian
+	Kreeka:
+
+Step 303/330
+>> Estonian - Maltese
+	Il-Greċja:
+
+Step 304/330
+>> Maltese - Italian
+	Grecia:
+
+Step 305/330
+>> Italian - Czech
+	Řecko:
+
+Step 306/330
+>> Czech - Spanish
+	Grecia
+
+Step 307/330
+>> Spanish - Slovenian
+	Grčija
+
+Step 308/330
+>> Slovenian - French
+	Grèce
+
+Step 309/330
+>> French - Korean
+	그리스
+
+Step 310/330
+>> Korean - Hebrew
+	יוון
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Griicheland
+
+Step 312/330
+>> Luxembourgish - German
+	Griechenland
+
+Step 313/330
+>> German - Japanese
+	ギリシャ
+
+Step 314/330
+>> Japanese - German
+	Griechenland
+
+Step 315/330
+>> German - Dutch
+	Griekenland
+
+Step 316/330
+>> Dutch - Maori
+	Kariki
+
+Step 317/330
+>> Maori - Finnish
+	Kreikka
+
+Step 318/330
+>> Finnish - English
+	Greece
+
+Step 319/330
+>> English - Danish
+	Grækenland
+
+Step 320/330
+>> Danish - Dutch
+	Griekenland
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	希臘
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Grekland
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	希臘
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Grikkland
+
+Step 325/330
+>> Icelandic - German
+	Griechenland
+
+Step 326/330
+>> German - Irish
+	An Ghréig
+
+Step 327/330
+>> Irish - English
+	Greece
+
+Step 328/330
+>> English - German
+	Griechenland
+
+Step 329/330
+>> German - Norwegian
+	Hellas
+
+Step 330/330
+>> Norwegian - Portuguese
+	Grécia
+
+
+##### RESULTS ######
+
+História do Rei Grego e do Médico Dubã.
+
+Grécia

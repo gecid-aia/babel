@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Existe nos domínios do rei Mihrage uma ilha chamada Cassel. Tinham-me assegurado que nela, todas as noites, se ouvia o som de timbales, o que deu origem à opinião dos marinheiros de haver Djal ali estabelecido a sua morada (20). Senti o desejo de testemunhar aquela maravilha, e vi na minha viagem peixes com cento e doze côvados de comprimento, os quais pouco mal fazem e muito assustam. São tão tímidos que é fácil afugentá-los batendo em pedaços de madeira. Notei outros peixes com um só côvado e que, na cabeça, se assemelham a mochos.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Det er i King Mihraces domene en øy som heter Cassel. Jeg hadde blitt forsikret om at det var lyden av timpani der hver natt, noe som ga opphav til sjømennens mening om at Djal hadde bosatt seg der (20). Jeg kjente lysten til å være vitne til det rart, og jeg så på min tur fisk hundre og tolv alen lang, som gjør liten skade og mye skremmende. De er så sky at det er lett å jage dem bort ved å treffe trebiter. Jeg la merke til andre fisker med en alen som ligner ugler i hodet.
+
+Step 2/330
+>> Norwegian - German
+	In der Domäne von König Mihrace befindet sich eine Insel namens Cassel. Mir war versichert worden, dass jede Nacht Pauken ertönen würden, was die Meinung des Seemanns hervorrief, dass Djal sich dort niedergelassen hatte (20). Ich verspürte den Drang, das Fremde zu bezeugen, und als ich an der Reihe war, sah ich einhundertzwölf Ellen langen Fisch, der wenig Schaden anrichtete und viel Erschreckendes anrichtete. Sie sind so schüchtern, dass es leicht ist, sie durch Schlagen auf Holzstücke zu vertreiben. Ich bemerkte andere Fische mit einem Jungen, der wie Eulen in meinem Kopf aussieht.
+
+Step 3/330
+>> German - English
+	In the domain of King Mihrace is an island called Cassel. I had been assured that drums would sound every night, evoking the sailor's opinion that Djal had settled there (20). I felt the urge to testify to the stranger, and when it was my turn I saw one hundred and twelve cubits of long fish doing little harm and doing much frightening things. They are so shy that it is easy to drive them out by hitting pieces of wood. I noticed other fish with a boy who looks like owls in my head.
+
+Step 4/330
+>> English - Irish
+	Tá an t-oileán darbh ainm Cassel i bhfearann Rí Mihrace. Bhí mé cinnte go mbeadh na drumaí ag éisteacht gach oíche, ag féachaint ar thuairim na mairnéalach go raibh Djal socraithe ansin (20). Bhraith mé go raibh fonn orm fianaise a thabhairt don strainséir, agus nuair a bhí mé ar mo sheal chonaic mé beagáinín dhá chéad déag d'iasc fada ag déanamh mórán dochar agus ag déanamh rudaí a bhí scanrúil. Tá siad chomh cúthaileach go bhfuil sé éasca iad a thiomáint amach trí phíosaí adhmaid a bhualadh. Thug mé faoi deara iasc eile le buachaill atá cosúil le ulchabháin i mo cheann.
+
+Step 5/330
+>> Irish - German
+	Die Insel namens Cassel befindet sich im Land von König Mihrace. Ich war mir sicher, dass die Trommeln jede Nacht zuhören würden, und schaute auf die Meinung der Seeleute, dass Djal dann besiedelt war (20). Ich hatte das Gefühl, ich wollte dem Fremden Zeugnis geben, und als ich auf dem Weg war, sah ich zweihundertzehn kleine Fische, die viel Schaden anrichteten und Dinge taten, die erschreckend waren. Sie sind so schüchtern, dass es leicht ist, sie durch Schlagen auf Holzstücke zu vertreiben. Ich bemerkte einen anderen Fisch mit einem Jungen wie einer Eule im Kopf.
+
+Step 6/330
+>> German - Icelandic
+	Eyjan sem heitir Cassel er staðsett í landi Mihrace konungs. Ég var viss um að trommurnar myndu hlusta á hverju kvöldi og skoðaði þá skoðun sjómanna að Djal væri þá byggður (20). Mér fannst ég vilja bera ókunnugan vitni og þegar ég var á leið sá ég tvö hundruð og tíu litla fiska gera mikið tjón og gera hluti sem voru ógnvekjandi. Þeir eru svo feimnir að auðvelt er að reka þá út með því að slá tréstykki. Ég tók eftir öðrum fiski með strák eins og uglu í höfðinu.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	這座名為Cassel的島嶼位於King Mihrace的土地上。我確信鼓每晚都會聽，並看到水手認為Djal的建造（20）。我覺得我想作證，當我在路上的時候，我看到了二百一十隻小魚做了很大的傷害並做了令人恐懼的事情。它們非常害羞，以至於可以通過敲擊木塊輕鬆地將它們驅趕出去。我注意到其他的魚和一個像腦袋裡的貓頭鷹一樣的男人。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Ön som heter Cassel ligger på King Mihrace. Jag är säker på att trummorna lyssnar varje kväll och ser sjömänna tänka på byggandet av Djal (20). Jag tror att jag vill vittna om att när jag var på väg såg jag att 210 fiskar hade gjort mycket skada och gjort fruktansvärda saker. De är så blyg att de lätt kan drivas ut genom att knacka på träblock. Jag märkte andra fiskar och en man som en uggla i huvudet.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	名為Cassel的島嶼位於King Mihrace。我確信鼓每晚都會聽，並看到水手們正在考慮建造Djal（20）。我想我要證明，當我在路上時，我看到210條魚造成了很多傷害並做了可怕的事情。它們非常害羞，以至於可以通過敲擊木塊輕鬆地將它們推出。我注意到其他的魚和一個像腦袋裡的貓頭鷹一樣的男人。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Het eiland met de naam Cassel ligt in King Mihrace. Ik weet zeker dat de drums elke avond zullen luisteren en zien dat de zeilers overwegen om Djal te bouwen (20). Ik denk dat ik moet bewijzen dat ik 210 vissen zag die veel schade aanrichtten en vreselijke dingen deden toen ik onderweg was. Ze zijn zo verlegen dat ze gemakkelijk kunnen worden uitgeduwd door op houten blokken te tikken. Ik zag andere vissen en een man als een uil in mijn hoofd.
+
+Step 11/330
+>> Dutch - Danish
+	Øen ved navn Cassel ligger i King Mihrace. Jeg er sikker på, at trommerne vil lytte hver aften og se, at sejlerne overvejer at bygge Djal (20). Jeg tror, jeg må bevise, at jeg så 210 fisk, der gjorde meget skade og gjorde forfærdelige ting, da jeg var på vej. De er så genert, at de let kan skubbes ud ved at tappe på træblokke. Jeg så andre fisk og en mand som en ugle i hovedet.
+
+Step 12/330
+>> Danish - English
+	The island named Cassel is located in King Mihrace. I'm sure the drums will listen every night and see that the sailors are considering building Djal (20). I think I have to prove that I saw 210 fish that did a lot of damage and did horrible things when I was on the road. They are so shy that they can easily be pushed out by tapping on wooden blocks. I saw other fish and a man like an owl in the head.
+
+Step 13/330
+>> English - Finnish
+	Cassel-niminen saari sijaitsee kuningas Mihracessa. Olen varma, että rummut kuuntelevat joka ilta ja näkevät, että merimiehet harkitsevat Djalin (20) rakentamista. Luulen, että minun on todistettava, että näin tien päällä 210 kalaa, jotka tekivät paljon vahinkoa ja tekivät kauheita asioita. Ne ovat niin ujoja, että ne voidaan helposti työntää ulos napauttamalla puupalkoja. Näin päässä muita kaloja ja miehen kuin pöllön miehen.
+
+Step 14/330
+>> Finnish - Maori
+	Kei te taha o King Michael te Motu o Cassel. Ko ahau mohio e whakarongo i te pahu nga po, me te kite e whakaaro i te heramana Djalin (20) hanga. Ki taku whakaaro me whakamatau ahau i kite ahau i te 210 ika i runga i te huarahi e mahi kino ana, e mahi ana i nga mahi nanakia. He mauruuru noa ratou ka taea te peera i te poro rakau. I kite au i etahi atu ika me tetahi taangata i tua atu o te hiwi.
+
+Step 15/330
+>> Maori - Dutch
+	Cassel Island ligt in de buurt van koning Michael. Ik ben er zeker van dat ik elke avond naar de drums luister en zie dat de zeeman Djalin (20) denkt. Ik denk dat ik moet bewijzen dat ik 210 vissen op de weg heb gezien die grof en wreed zijn. Ze zijn gewoon dankbaar dat ze als een stuk hout kunnen zijn. Ik zag meer vis en een kreek achter de rug.
+
+Step 16/330
+>> Dutch - German
+	Cassel Island liegt in der Nähe von King Michael. Ich bin sicher, dass ich jeden Abend dem Schlagzeug zuhöre und sehe, dass der Seemann Djalin (20) denkt. Ich denke, ich muss beweisen, dass ich 210 Fische auf der Straße gesehen habe, die grob und grausam sind. Sie sind einfach dankbar, dass sie wie ein Stück Holz sein können. Ich sah mehr Fische und einen Bach hinter mir.
+
+Step 17/330
+>> German - Japanese
+	カッセル島は、マイケル王の近くにあります。私は毎晩ドラムを聞いて、船乗りがジャリンを考えているのを見ると確信しています（20）。私は、道路上で粗野で残酷な210匹の魚を見たことを証明する必要があると思います。彼らは木片のようになれることに感謝しています。後ろにもっと魚と小川が見えました。
+
+Step 18/330
+>> Japanese - German
+	Die Insel Kassel liegt in der Nähe von König Michael. Ich bin zuversichtlich, dass ich jeden Abend dem Schlagzeug zuhöre und sehe, wie die Seeleute über Jarin nachdenken (20). Ich denke, ich muss beweisen, dass ich 210 grausame Fische in der Wildnis auf der Straße gesehen habe. Sie sind dankbar, wie ein Stück Holz zu sein. Ich konnte mehr Fische und Bäche hinter mir sehen.
+
+Step 19/330
+>> German - Luxembourgish
+	D'Insel Kassel läit bei King Michael. Ech sinn zouversiichtlech datt ech all Nuecht op d'Drums lauschteren a gesinn wéi d'Seeler un de Jarin denken (20). Ech mengen ech muss beweisen, datt ech 210 grausame Fësch an der Wild op der Strooss gesinn hunn. Si sinn dankbar wéi e Stéck Holz ze sinn. Ech konnt méi Fësch a Baachen hannert mech gesinn.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	אי קסל ממוקם בסמוך למלך מיכאל. אני בטוח שאקשיב לתופים בכל לילה ואראה איך החבלים חושבים על ג'רין (20). אני חושב שעלי להוכיח שראיתי 210 דגים מזוויעים בטבע על הכביש. הם אסירי תודה להיות חתיכת עץ. יכולתי לראות מאחוריי דגים ונחלים נוספים.
+
+Step 21/330
+>> Hebrew - Korean
+	캐슬 섬은 킹 마이클 근처에 있습니다. 나는 매일 밤 드럼을 듣고 로프가 Jarin에 대해 어떻게 생각하는지 확신합니다 (20). 나는 길에서 야생에서 210 마리의 무서운 물고기를 보았다는 것을 증명해야한다고 생각합니다. 그들은 나무 조각에 감사합니다. 나는 뒤에 더 많은 물고기와 개울을 볼 수 있었다.
+
+Step 22/330
+>> Korean - French
+	Castle Island est proche du roi Michael. J'écoute les percussions tous les soirs et je suis sûr de ce que la corde pense de Jarin (20). Je pense que je dois prouver que j'ai vu 210 poissons effrayants à l'état sauvage sur la route. Ils apprécient le morceau de bois. Je pouvais voir plus de poissons et de ruisseaux derrière.
+
+Step 23/330
+>> French - Slovenian
+	Grajski otok je blizu kralja Mihaela. Vsak večer poslušam bobne in prepričan sem, kaj si o vrvi misli Jarin (20). Mislim, da moram dokazati, da sem na cesti videl 210 strašnih rib. Cenijo kos lesa. Zadaj sem lahko videl več rib in potokov.
+
+Step 24/330
+>> Slovenian - Spanish
+	La isla del castillo está cerca del rey Miguel. Escucho tambores todas las noches y estoy seguro de lo que Jarin piensa acerca de la cuerda (20). Creo que tengo que demostrar que vi 210 peces de miedo en el camino. Aprecian un trozo de madera. Pude ver más peces y arroyos detrás.
+
+Step 25/330
+>> Spanish - Czech
+	Hradní hrad se nachází nedaleko krále Michaela. Poslouchám bicí každou noc a jsem si jistý, co si Jarin myslí o provázku (20). Myslím, že musím dokázat, že jsem viděl po cestě 210 děsivých ryb. Oceňují kus dřeva. Viděl jsem za sebou více ryb a potoků.
+
+Step 26/330
+>> Czech - Italian
+	Il castello si trova vicino a re Michele. Ascolto la batteria ogni sera e sono sicuro di ciò che Jarin pensa della corda (20). Penso di dover dimostrare di aver visto 210 pesci spaventosi lungo la strada. Apprezzano un pezzo di legno. Ho visto più pesci e corsi d'acqua dietro di me.
+
+Step 27/330
+>> Italian - Maltese
+	Il-kastell jinsab ħdejn ir-Re Mikiel. Nisma 't-tnabar ta' kull lejl u ninsab ċert x'jaħseb Jarin dwar il-korda (20). Naħseb li rrid nuri li rajt 210 ħut tal-biża 'tul it-triq. Huma japprezzaw biċċa injam. Rajt iktar ħut u nixxigħat warajja.
+
+Step 28/330
+>> Maltese - Estonian
+	Linnus asub Michael King. Ma kuulen trumme igal õhtul ja ma olen kindel, et Jarin mulje juhe (20). Ma arvan, et ma olen näinud näitavad, et 210 vinge kala mööda teed. Nad hindavad puutükk. Nägin rohkem kala ja mulle ojad.
+
+Step 29/330
+>> Estonian - Greek
+	Το κάστρο βρίσκεται ο Michael King. Ακούω τύμπανα κάθε βράδυ και είμαι βέβαιος ότι ο Jarin έχει την αίσθηση του μολύβδου (20). Νομίζω ότι έχω δει την παράσταση ότι 210 θαυμάσια ψάρια κατά μήκος του δρόμου. Εκτιμούν ένα κομμάτι ξύλου. Είδα περισσότερα ψάρια και μου ροές.
+
+Step 30/330
+>> Greek - Turkish
+	Kale Michael King. Her gece davul dinlerim ve eminim Jarin'in liderlik duygusu vardır (20). Sanırım yol boyunca 210 harika balığın gösterisini gördüm. Bir tahta parçasını takdir ediyorlar. Daha çok balık ve akarsular gördüm.
+
+Step 31/330
+>> Turkish - Polish
+	Fort Michael King. Każdej nocy słucham perkusji i jestem pewien, że Jarin ma poczucie przywództwa (20). Myślę, że po drodze widziałem 210 wspaniałych pokazów ryb. Doceniają kawałek drewna. Widziałem więcej ryb i strumieni.
+
+Step 32/330
+>> Polish - Arabic
+	حصن مايكل كينج. أستمع إلى الطبول كل ليلة وأنا متأكد من أن جارين لديه شعور بالقيادة (20). أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق وهم يقدرون قطعة من الخشب. رأيت المزيد من الأسماك والجداول.
+
+Step 33/330
+>> Arabic - Catalan
+	Fort Michael King. Escolto la bateria cada nit i estic segur que la Jaren té una sensació de conduir (20). Crec que he vist 210 espectacles de peixos fantàstics al llarg del camí i que aprecien un tros de fusta. Vaig veure més peixos i taules.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Michaelio karaliaus fortas. Kas vakarą girdžiu akumuliatorių ir esu tikras, kad „Jaren“ jaučia vairavimo jausmą (20). Manau, pakeliui mačiau 210 fantastiškų žuvų parodų ir įvertinau medžio gabalą. Mačiau daugiau žuvies ir stalų.
+
+Step 35/330
+>> Lithuanian - Arabic
+	قلعة الملك مايكل. كل ليلة أسمع البطارية وأنا متأكد من أن يارين لديه شعور بالقيادة (20). أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق وأقدر قطعة من الخشب. رأيت المزيد من الأسماك والجداول.
+
+Step 36/330
+>> Arabic - Slovak
+	Hrad kráľa Michala. Každú noc som počul batériu a som si istý, že Yarin má pocit šoférovania (20). Myslím, že som videl po ceste 210 fantastických ukážok rýb a vážim si kus dreva. Videl som viac rýb a stolov.
+
+Step 37/330
+>> Slovak - Malay
+	King Michael Castle. Setiap malam saya mendengar bateri dan saya yakin Yarin berasa seperti memandu (20). Saya fikir saya melihat 210 pertunjukan ikan hebat di sepanjang jalan dan saya menghargai sekeping kayu. Saya nampak lebih banyak ikan dan meja.
+
+Step 38/330
+>> Malay - Arabic
+	قلعة الملك مايكل. كل ليلة أسمع البطارية وأنا متأكد من شعور يارين مثل القيادة (20). أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق وأنا أقدر قطعة من الخشب. رأيت المزيد من الأسماك وطاولة.
+
+Step 39/330
+>> Arabic - Latvian
+	Karaļa Miķeļa pils. Katru vakaru dzirdu akumulatoru un esmu pārliecināts, ka Yarin jūtas kā braucošs (20). Es domāju, ka pa ceļam esmu redzējis 210 fantastiskas zivju izstādes, un es novērtēju koka gabalu. Es redzēju vairāk zivju un galdu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Palácio Real de Michael. Ouço a bateria todas as noites e tenho certeza de que Yarin está com vontade de dirigir (20). Acho que vi 210 espetáculos fantásticos de peixes ao longo do caminho e aprecio o pedaço de madeira. Eu vi mais peixes e mesas.
+
+Step 41/330
+>> Portuguese - Arabic
+	مايكل القصر الملكي. أستمع إلى الطبول كل ليلة وأنا متأكد من أن يارين في مزاج لقيادة السيارة (20). أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق وأنا أقدر قطعة الخشب. رأيت المزيد من الأسماك والجداول.
+
+Step 42/330
+>> Arabic - Spanish
+	Michael Royal Palace. Escucho la batería todas las noches y estoy seguro de que Yarin está de humor para conducir un automóvil (20). Creo que he visto 210 fantásticos espectáculos de peces en el camino y aprecio la pieza de madera. Vi más peces y mesas.
+
+Step 43/330
+>> Spanish - Hungarian
+	Michael királyi palota Minden este hallgatok a dobokat, és biztos vagyok benne, hogy Yarin abban a hangulatban van, hogy autót vezessen (20). Azt hiszem, láttam már 210 fantasztikus halkiállítást az út mentén, és nagyra értékelem a fadarabot. Láttam még halakat és asztalokat.
+
+Step 44/330
+>> Hungarian - Croatian
+	Michael's Palace Ja svake večeri slušam bubnjeve i siguran sam da je Yarin raspoložen za vožnju automobila. Mislim da sam vidio usput 210 fantastičnih ribljih emisija i cijenim komad drveta. Vidio sam ribu i stolove.
+
+Step 45/330
+>> Croatian - Spanish
+	Michael's Palace Escucho la batería todas las noches y estoy seguro de que Yarin está de humor para conducir un automóvil. Creo que vi 210 fantásticos espectáculos de peces en el camino y aprecio el pedazo de madera. Vi peces y mesas.
+
+Step 46/330
+>> Spanish - Arabic
+	قصر مايكل استمع إلى الطبول كل ليلة وأنا متأكد من أن يارين في مزاج يقود سيارة. أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق وأنا أقدر قطعة الخشب. رأيت السمك والجداول.
+
+Step 47/330
+>> Arabic - Russian
+	Дворец Михаила каждую ночь слушал барабаны, и я уверен, что Ярин был в настроении за рулем автомобиля. Я думаю, что я видел 210 фантастических шоу рыбы по пути, и я ценю кусок дерева. Я видел рыбу и столы.
+
+Step 48/330
+>> Russian - Albanian
+	Mikhail Palace dëgjonte bateritë çdo natë, dhe unë jam i sigurt se Yarin ishte në gjendje të drejtonte një makinë. Unë mendoj se pashë 210 shfaqje fantastike të peshkut gjatë rrugës, dhe vlerësoj një copë druri. Pashë peshq dhe tavolina.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Михаил Палас слушаше батериите всяка вечер и съм сигурен, че Ярин е успял да управлява кола. Мисля, че видях 210 фантастични рибни шоута по пътя и ценя парче дърво. Видях риба и маси.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Palatul Mikhail asculta bateriile în fiecare seară și sunt sigur că Yarin a reușit să conducă o mașină. Cred că am văzut 210 spectacole de pește fantastic pe parcurs și apreciez o bucată de lemn. Am văzut pește și mese.
+
+Step 51/330
+>> Romanian - Russian
+	Михаил Палас слушает батареи каждую ночь, и я уверен, что Ярину удалось водить машину. Я думаю, что я видел 210 фантастических выставок рыбы по пути, и я ценю кусок дерева. Я видел рыбу и столы.
+
+Step 52/330
+>> Russian - English
+	Mikhail Palace listens to batteries every night, and I'm sure that Yarin managed to drive a car. I think I saw 210 fantastic fish shows along the way, and I appreciate a piece of wood. I saw fish and tables.
+
+Step 53/330
+>> English - Spanish
+	Mikhail Palace escucha las baterías todas las noches, y estoy seguro de que Yarin logró conducir un automóvil. Creo que vi 210 fantásticos espectáculos de peces en el camino, y aprecio un trozo de madera. Vi peces y mesas.
+
+Step 54/330
+>> Spanish - Arabic
+	يستمع ميخائيل بالاس إلى البطاريات كل ليلة ، وأنا متأكد من أن يارين تمكن من قيادة سيارة. أعتقد أنني رأيت 210 عروض أسماك رائعة على طول الطريق ، وأنا أقدر قطعة من الخشب. رأيت السمك والجداول.
+
+Step 55/330
+>> Arabic - Malay
+	Mikhail Palas mendengar bateri setiap malam, dan saya pasti Yarin berjaya memandu kereta. Saya fikir saya telah melihat 210 pertunjukan ikan hebat di sepanjang jalan dan saya menghargai sekeping kayu. Saya melihat ikan dan meja.
+
+Step 56/330
+>> Malay - English
+	Mikhail Palas hears batteries every night, and I'm sure Yarin managed to drive the car. I think I've seen 210 great fish shows along the way and I appreciate a piece of wood. I saw the fish and the table.
+
+Step 57/330
+>> English - Kazakh
+	Михаил Палас әр кеш сайын аккумуляторларды естиді, мен Ярин көлікті басқара алғанына сенімдімін. Мен жол бойында 210 керемет балық шоуын көрдім деп ойлаймын және ағаштың бір бөлігін бағалаймын. Мен балық пен үстелді көрдім.
+
+Step 58/330
+>> Kazakh - Persian
+	هر شب میخاییل پالاس باتری ها را می شنود و من مطمئن هستم که یاریان می تواند ماشین را هدایت کند. فکر می کنم در طول مسیر 210 نمایش شگفت انگیز ماهی دیده ام و قدردانی برخی از درخت را انجام می دهم. یک ماهی و یک سفره دیدم.
+
+Step 59/330
+>> Persian - English
+	Every night Mikhail Palas hears the batteries and I'm sure Yarian can drive the car. Along the way I think I've seen 210 amazing fish shows and appreciate some of the trees. I saw a fish and a table.
+
+Step 60/330
+>> English - French
+	Chaque nuit, Mikhail Palas entend les batteries et je suis sûr que Yarian peut conduire la voiture. En chemin, je pense avoir déjà vu 210 expositions de poissons étonnantes et apprécier quelques-uns des arbres. J'ai vu un poisson et une table.
+
+Step 61/330
+>> French - Spanish
+	Todas las noches, Mikhail Palas escucha la batería y estoy seguro de que Yarian puede conducir el automóvil. En el camino, creo que ya he visto 210 increíbles espectáculos de peces y disfruto de algunos de los árboles. Vi un pez y una mesa.
+
+Step 62/330
+>> Spanish - Turkish
+	Her gece Mikhail Palas davulları dinliyor ve Yarian'ın arabayı kullanabileceğinden eminim. Yol boyunca 210 harika balık şovu gördüm ve bazı ağaçların tadını çıkarıyorum. Bir balık ve bir masa gördüm.
+
+Step 63/330
+>> Turkish - English
+	Every night Mikhail Palas listens to drums and I'm sure Yarian can drive. I saw 210 wonderful fish shows along the way and I am enjoying some trees. I saw a fish and a table.
+
+Step 64/330
+>> English - Spanish
+	Todas las noches, Mikhail Palas escucha la batería y estoy seguro de que Yarian puede conducir. Vi 210 espectáculos maravillosos de peces en el camino y estoy disfrutando de algunos árboles. Vi un pez y una mesa.
+
+Step 65/330
+>> Spanish - Serbian
+	Сваке ноћи, Михаил Палас слуша бубњеве и сигуран сам да Иариан може да вози. Уз пут сам видео 210 дивних риба и уживам у неким дрвећем. Видео сам рибу и сто.
+
+Step 66/330
+>> Serbian - Albanian
+	Nightdo natë, Mihail Palas dëgjon bateri dhe jam i sigurt se Iarian mund të vozisë. Gjatë rrugës, pashë 210 peshq të mrekullueshëm dhe shijova disa pemë. Pashë një peshk dhe një tryezë.
+
+Step 67/330
+>> Albanian - English
+	Night and night, Mihail Palas listens to the drums and I'm sure Iarian can drive. On the way, I saw 210 wonderful fish and enjoyed some trees. I saw a fish and a table.
+
+Step 68/330
+>> English - Georgian
+	ღამით და ღამით, მიჰილ პალასი უსმენს დასარტყამებს და დარწმუნებული ვარ, რომ იარიანს შეუძლია მართოს. გზად, 210 მშვენიერი თევზი ვნახე და რამდენიმე ხე დავტკბე. თევზი და მაგიდა დავინახე.
+
+Step 69/330
+>> Georgian - English
+	Night and night, Mihail Palace listens to the drums and I'm sure Yaryani can drive. On the way, I saw 210 beautiful fish and enjoyed some trees. I saw fish and a table.
+
+Step 70/330
+>> English - Spanish
+	Noche y noche, Mihail Palace escucha la batería y estoy seguro de que Yaryani puede conducir. En el camino, vi 210 hermosos peces y disfruté de algunos árboles. Vi peces y una mesa.
+
+Step 71/330
+>> Spanish - English
+	Night and night, Mihail Palace listens to the drums and I am sure that Yaryani can drive. Along the way, I saw 210 beautiful fish and enjoyed some trees. I saw fish and a table.
+
+Step 72/330
+>> English - Sinhala
+	රාත්‍රී සහ රාත්‍රියේදී මිහයිල් මාළිගාව බෙරයට සවන් දෙන අතර යාරියානිට රිය පැදවිය හැකි බව මට විශ්වාසයි. ඒ අතරේ මම ලස්සන මාළු 210 ක් දැකලා ගස් ටිකක් රස වින්දා. මාළු සහ මේසයක් දුටුවෙමි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Siguran sam da Yaryani može voziti dok noću i noću sluša bubnjeve mihailove palače. Između sam vidio 210 prekrasnih riba i okusio neko drveće. Ugledao sam ribu i stol.
+
+Step 74/330
+>> Bosnian - Spanish
+	Estoy seguro de que Yaryani puede conducir mientras escucha la batería del Palacio Mihail de noche y de noche. En el medio vi 210 hermosos peces y probé algunos árboles. Vi el pescado y la mesa.
+
+Step 75/330
+>> Spanish - Portuguese
+	Estou certo de que Yaryani pode dirigir enquanto ouve a bateria do Mihail Palace noite e noite. No meio, vi 210 peixes bonitos e experimentei algumas árvores. Eu vi o peixe e a mesa.
+
+Step 76/330
+>> Portuguese - Arabic
+	أنا متأكد من أن Yaryani يمكنه القيادة أثناء الاستماع إلى براميل Mihail Palace ليلا ونهارا. في الوسط ، رأيت 210 سمكة جميلة وجربت بعض الأشجار. رأيت السمك والجدول.
+
+Step 77/330
+>> Arabic - Macedonian
+	Сигурен сум дека Јаријани може да вози додека ги слуша бурињата Михаил Палас дење и ноќе. Во средина, видов 210 убави риби и испробав неколку дрвја. Ги видов рибите и масата.
+
+Step 78/330
+>> Macedonian - Armenian
+	Համոզված եմ, որ Հարիանին կարող է լողալ, իսկ Միքայելյան պալատի հարվածային գործիքները լսելիս օր ու գիշեր: Մեջտեղում ես տեսա 210 գեղեցիկ ձուկ և փորձեցի մի քանի ծառ: Ես տեսա ձուկն ու սեղանը:
+
+Step 79/330
+>> Armenian - Thai
+	ฉันเชื่อว่า Haryana สามารถว่ายน้ำได้ในขณะที่ฟังกลองของไมเคิลทั้งกลางวันและกลางคืน ตอนกลางฉันเห็นปลาสวยงาม 210 ตัวและลองต้นไม้บางต้น ฉันเห็นปลาและโต๊ะ
+
+Step 80/330
+>> Thai - Arabic
+	أعتقد أن هاريانا يمكنها السباحة أثناء الاستماع إلى براميل مايكل ليلا ونهارا. في الوسط رأيت 210 سمكة جميلة وجربت بعض الأشجار. رأيت السمك والجدول
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	我认为哈里亚娜可以在日夜聆听迈克尔的桶时游泳。在中间，我看到了210条美丽的鱼，尝试了一些树木。我看到了鱼和桌子
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Creo que Haryana puede nadar mientras escucha el balde de Michael día y noche. En el medio, vi 210 hermosos peces y probé algunos árboles. Vi el pescado y la mesa
+
+Step 83/330
+>> Spanish - Ukrainian
+	Я думаю, що Хар'яна може плавати, слухаючи відро Майкла вдень і вночі. Посередині я побачив 210 гарних риб і спробував кілька дерев. Я побачив рибу і стіл
+
+Step 84/330
+>> Ukrainian - Spanish
+	Creo que Haryana puede nadar escuchando el balde de Michael día y noche. En el medio vi 210 hermosos peces y probé algunos árboles. Vi el pescado y la mesa
+
+Step 85/330
+>> Spanish - English
+	I think Haryana can swim listening to Michael's bucket day and night. In the middle I saw 210 beautiful fish and tried some trees. I saw the fish and the table
+
+Step 86/330
+>> English - Mongolian
+	Харьяна өдөр шөнөгүй Майклын хувиныг сонсоод сэлж чадна гэж би бодож байна. Дунд нь би 210 үзэсгэлэнт загасыг хараад хэдэн модыг туршиж үзсэн. Би загас, ширээг харсан
+
+Step 87/330
+>> Mongolian - Spanish
+	Creo que Harya puede nadar mientras escucha el balde de Michael día y noche. En el medio, he visto una cantidad de 210 árboles mirando a los hermosos peces. Vi pescado y mesa
+
+Step 88/330
+>> Spanish - Arabic
+	أعتقد أن هاريا يمكنها السباحة أثناء الاستماع إلى دلو مايكل ليلا ونهارا. في الوسط ، رأيت 210 شجرة تبحث عن الأسماك الجميلة. رأيت السمك والجدول
+
+Step 89/330
+>> Arabic - Kurdish
+	Ez difikirim ku Haria dikare şev û şev guhê xwe bide binika Michael. Di navîn de, min dît 210 darên ku masiyên bedew digerin. Min masî û maseyê dît
+
+Step 90/330
+>> Kurdish - English
+	I think Haria can listen to Michael's neck day and night. In the middle, I saw 210 trees looking for beautiful fish. I found the fish and the table
+
+Step 91/330
+>> English - Dutch
+	Ik denk dat Haria dag en nacht naar Michael's nek kan luisteren. In het midden zag ik 210 bomen op zoek naar mooie vissen. Ik vond de vis en de tafel
+
+Step 92/330
+>> Dutch - English
+	I think Haria can listen to Michael's neck day and night. In the middle I saw 210 trees looking for beautiful fish. I liked the fish and the table
+
+Step 93/330
+>> English - Samoan
+	Ou te manatu o Haria e mafai ona faʻalogo i le ua o Michael i le ao ma le po. I le ogatotonu sa ou vaai i laau e 210 e saili ni iʻa matagofie. Ou te fiafia i le iʻa ma le laulau
+
+Step 94/330
+>> Samoan - Uzbek
+	Menimcha, Xaria Mayklning bo'ynini kechayu kunduz eshita oladi. Men o'rtada chiroyli baliq qidirayotgan 210 daraxtni ko'rdim. Menga baliq va stol yoqadi
+
+Step 95/330
+>> Uzbek - English
+	I think Hariah can hear Michael's neck at night. I saw 210 trees looking for beautiful fish in the middle. I like fish and tables
+
+Step 96/330
+>> English - Arabic
+	أعتقد أن Hariah يمكن أن يسمع عنق مايكل في الليل. رأيت 210 شجرة تبحث عن الأسماك الجميلة في الوسط. أنا أحب الأسماك والجداول
+
+Step 97/330
+>> Arabic - French
+	Je pense que Hariah peut entendre le cou de Michael la nuit. J'ai vu 210 arbres à la recherche de beaux poissons au milieu. J'adore le poisson et les tables
+
+Step 98/330
+>> French - Spanish
+	Creo que Hariah puede escuchar el cuello de Michael por la noche. Vi 210 árboles buscando hermosos peces en el medio. Me encanta el pescado y las mesas
+
+Step 99/330
+>> Spanish - Romanian
+	Cred că Hariah poate auzi gâtul lui Michael noaptea. Am văzut 210 copaci în căutare de pești frumoși la mijloc. Ador peștele și mesele
+
+Step 100/330
+>> Romanian - Filipino
+	Sa tingin ko naririnig ni Hariah ang lalamunan ni Michael sa gabi. Nakita ko ang 210 puno na naghahanap ng magagandang isda sa gitna. Mahilig ako sa mga isda at pagkain
+
+Step 101/330
+>> Filipino - Zulu
+	Ngicabanga ukuthi uHariah uyakwazi ukuzwa umphimbo kaMichael ebusuku. Ngabona izihlahla ezingama-210 ngifuna izinhlanzi ezinhle phakathi. Ngiyazithanda izinhlanzi nokudla
+
+Step 102/330
+>> Zulu - Arabic
+	أعتقد أن Hariah يمكن أن يسمع الحلق مايكل في الليل. رأيت 210 شجرة تبحث عن الأسماك الجيدة في الوسط. أنا أحب السمك والطعام
+
+Step 103/330
+>> Arabic - Indonesian
+	Saya pikir Hariah bisa mendengar tenggorokan Michael di malam hari. Saya melihat 210 pohon mencari ikan yang bagus di tengah. Saya suka ikan dan makanan
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Tôi nghĩ Hariah có thể nghe thấy cổ họng của Michael vào ban đêm. Tôi thấy 210 cây đang tìm cá tốt ở giữa. Tôi yêu cá và thức ăn
+
+Step 105/330
+>> Vietnamese - Spanish
+	Creo que Hariah puede escuchar la garganta de Michael por la noche. Vi 210 árboles buscando buenos peces en el medio. Me encanta el pescado y la comida
+
+Step 106/330
+>> Spanish - Arabic
+	أعتقد أن Hariah يمكن أن يسمع الحلق مايكل في الليل. رأيت 210 شجرة تبحث عن الأسماك الجيدة في الوسط. أنا أحب السمك والطعام
+
+Step 107/330
+>> Arabic - Spanish
+	Creo que Hariah puede escuchar la garganta de Michael por la noche. Vi 210 árboles buscando buenos peces en el medio. Me encanta el pescado y la comida
+
+Step 108/330
+>> Spanish - Russian
+	Я думаю, что Хария может слышать горло Майкла ночью. Я видел 210 деревьев, ищущих хорошую рыбу в середине. Я люблю рыбу и еду
+
+Step 109/330
+>> Russian - Arabic
+	أعتقد أن Haria يمكنه سماع حلق مايكل في الليل. رأيت 210 شجرة تبحث عن الأسماك الجيدة في الوسط. أنا أحب السمك والطعام
+
+Step 110/330
+>> Arabic - Spanish
+	Creo que Haria puede escuchar la garganta de Michael por la noche. Vi 210 árboles buscando buenos peces en el medio. Me encanta el pescado y la comida
+
+Step 111/330
+>> Spanish - Portuguese
+	Eu acho que Haria pode ouvir a garganta de Michael à noite. Vi 210 árvores procurando bons peixes no meio. Eu amo peixe e comida
+
+Step 112/330
+>> Portuguese - English
+	I think Haria can hear Michael's throat at night. I saw 210 trees looking for good fish in the middle. I love fish and food
+
+Step 113/330
+>> English - Spanish
+	Creo que Haria puede escuchar la garganta de Michael por la noche. Vi 210 árboles buscando buenos peces en el medio. Me encanta el pescado y la comida
+
+Step 114/330
+>> Spanish - English
+	I think Haria can hear Michael's throat at night. I saw 210 trees looking for good fish in the middle. I love fish and food
+
+Step 115/330
+>> English - Hindi
+	मुझे लगता है कि हरिया रात में माइकल का गला सुन सकता है। मैंने 210 पेड़ों को बीच में अच्छी मछलियों की तलाश करते देखा। मुझे मछली और खाना बहुत पसंद है
+
+Step 116/330
+>> Hindi - Portuguese
+	Acho que Hariya pode ouvir a garganta de Michael à noite. Vi 210 árvores procurando bons peixes no meio. Eu amo peixe e comida
+
+Step 117/330
+>> Portuguese - Spanish
+	Creo que Hariya puede escuchar la garganta de Michael por la noche. Vi 210 árboles buscando buenos peces en el medio. Me encanta el pescado y la comida
+
+Step 118/330
+>> Spanish - English
+	I think Hariya can hear Michael's throat at night. I saw 210 trees looking for good fish in the middle. I love fish and food
+
+Step 119/330
+>> English - Bengali
+	আমার ধারণা হরিয়া রাতে মাইকের গলা শুনতে পাচ্ছে। আমি 210 গাছ মাঝখানে ভাল মাছ খুঁজছেন দেখেছি। আমি মাছ এবং খাবার পছন্দ করি
+
+Step 120/330
+>> Bengali - French
+	Mon idée est d'entendre la gorge de Mike tous les soirs. J'ai vu 210 arbres à la recherche de bons poissons au milieu. J'aime le poisson et la nourriture
+
+Step 121/330
+>> French - lao
+	ຄວາມຄິດຂອງຂ້ອຍຄືການໄດ້ຍິນສຽງຄໍຂອງ Mike ທຸກໆຄືນ. ຂ້ອຍໄດ້ເຫັນຕົ້ນໄມ້ 210 ຕົ້ນ ກຳ ລັງຊອກຫາປາທີ່ດີຢູ່ທາງກາງ. ຂ້ອຍມັກປາແລະອາຫານ
+
+Step 122/330
+>> lao - English
+	My thought was to hear Mike's throat ring every night. I saw 210 trees looking for good fish in the middle. I like fish and food
+
+Step 123/330
+>> English - Portuguese
+	Meu pensamento era ouvir a garganta de Mike toda noite. Vi 210 árvores procurando bons peixes no meio. Eu gosto de peixe e comida
+
+Step 124/330
+>> Portuguese - English
+	My thought was to hear Mike's throat every night. I saw 210 trees looking for good fish in the middle. I like fish and food
+
+Step 125/330
+>> English - Portuguese
+	Meu pensamento era ouvir a garganta de Mike todas as noites. Vi 210 árvores procurando bons peixes no meio. Eu gosto de peixe e comida
+
+Step 126/330
+>> Portuguese - English
+	My thought was to hear Mike's throat every night. I saw 210 trees looking for good fish in the middle. I like fish and food
+
+Step 127/330
+>> English - Portuguese
+	Meu pensamento era ouvir a garganta de Mike todas as noites. Vi 210 árvores procurando bons peixes no meio. Eu gosto de peixe e comida
+
+Step 128/330
+>> Portuguese - Burmese
+	အကြှနျုပျ၏အတွေးညစဉ်ညတိုင်းသူ Mike ရဲ့လည်ချောင်းကိုနားထောငျဖို့ပဲ။ ငါအလယ်၌ကောင်းသောငါးရှာနေ 210 သစ်ပင်များကိုမြင်တော်မူ၏။ ငါငါးနှင့်အစားအစာလို
+
+Step 129/330
+>> Burmese - Nepali
+	मेरो विचार रात माइक गरेको घाँटी सुन्न। म 210 रूखहरू हेर्न को बीचमा राम्रो माछा खोज्दैछु। म माछा र खाना रुचि
+
+Step 130/330
+>> Nepali - Urdu
+	میرے خیالات رات کو مائیک کا گلا سننے کے ہیں۔ میں 210 درختوں کو دیکھنے کے وسط میں اچھی مچھلی کی تلاش کر رہا ہوں۔ مجھے مچھلی اور کھانا پسند ہے۔
+
+Step 131/330
+>> Urdu - French
+	Mes pensées sont d'entendre la gorge de Mike la nuit. Je cherche un bon poisson en train de voir 210 arbres. J'aime le poisson et la nourriture
+
+Step 132/330
+>> French - English
+	My thoughts are to hear Mike's throat at night. I'm looking for a good fish watching 210 trees. I like fish and food
+
+Step 133/330
+>> English - Swahili
+	Mawazo yangu ni kusikia koo la Mike usiku. Natafuta samaki mzuri anayetazama miti 210. Ninapenda samaki na chakula
+
+Step 134/330
+>> Swahili - Arabic
+	أفكاري هي أن نسمع مايك في الحلق في الليل. أبحث عن سمكة جيدة تبحث عن 210 شجرة ، أحب السمك والطعام
+
+Step 135/330
+>> Arabic - Shona
+	Pfungwa dzangu ndedzekunzwa Mike muhuro usiku. Ndiri kutsvaga hove yakanaka inotsvaga miti mazana mazana maviri nemasere, ndinoda hove uye chikafu
+
+Step 136/330
+>> Shona - Hausa
+	Tunanina shine in ji Mike cikin makogwaron dare. Ina neman kifi mai kyau wanda ke bincika nau'ikan bishiyoyi 200, Ina son kifi da abinci
+
+Step 137/330
+>> Hausa - Swahili
+	Wazo langu lilikuwa kusikia Mike akipitia usiku kucha. Natafuta samaki mzuri anayechunguza spishi 200 za miti, napenda samaki na chakula
+
+Step 138/330
+>> Swahili - English
+	My idea was to hear Mike go through the night. I'm looking for a good fish that explores 200 species of trees, I love fish and food
+
+Step 139/330
+>> English - Arabic
+	كانت فكرتي هي سماع مايك خلال الليل. أبحث عن سمكة جيدة تستكشف 200 نوع من الأشجار ، أحب الأسماك والطعام
+
+Step 140/330
+>> Arabic - Malagasy
+	Ny hevitro dia ny handre an'i Mike nandritra ny alina. Mitady trondro tsara aho hitrandraka karazana hazo 200, tiako ny trondro sy ny sakafo
+
+Step 141/330
+>> Malagasy - Swahili
+	Wazo langu lilikuwa kumsikia Mike usiku kucha. Natafuta samaki mzuri kupanda miti aina 200, napenda samaki na chakula
+
+Step 142/330
+>> Swahili - French
+	Mon idée était d'entendre Mike toute la nuit. Je cherche du bon poisson pour planter 200 espèces, j'adore le poisson et la nourriture
+
+Step 143/330
+>> French - Arabic
+	كانت فكرتي هي سماع مايك طوال الليل. أنا أبحث عن أسماك جيدة لزرع 200 نوع ، وأنا أحب الأسماك والطعام
+
+Step 144/330
+>> Arabic - French
+	Mon idée était d'entendre Mike toute la nuit. Je cherche du bon poisson pour planter 200 espèces, et j'adore le poisson et la nourriture
+
+Step 145/330
+>> French - Arabic
+	كانت فكرتي هي سماع مايك طوال الليل. أنا أبحث عن أسماك جيدة لزراعة 200 نوع ، وأنا أحب الأسماك والطعام
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Lide m 'te tande Mike tout nwit lan. Mwen kap chèche bon pwason pou grandi 200 espès, mwen renmen pwason ak manje
+
+Step 147/330
+>> Haitian Creole - Pashto
+	زما ذهن ټوله شپه مایک ته غوږ و. زه د 200 ډولونو ودې لپاره د ښه کب په لټه کې یم ، زه کب او خواړه خوښوم
+
+Step 148/330
+>> Pashto - French
+	Mon esprit écoutait Mike toute la nuit. Je cherche un bon poisson pour faire pousser 200 espèces, j'aime le poisson et la nourriture
+
+Step 149/330
+>> French - Chichewa
+	Malingaliro anga anamvera Mike usiku wonse. Ndikuyang'ana nsomba zabwino kuti ndikwaniritse mitundu 200, ndimakonda nsomba ndi chakudya
+
+Step 150/330
+>> Chichewa - Arabic
+	عقلي استمع إلى مايك طوال الليل. أبحث عن أفضل الأسماك لتحقيق 200 نوع ، وأنا أحب الأسماك والطعام
+
+Step 151/330
+>> Arabic - Amharic
+	አእምሮዬ ሌሊቱን በሙሉ ማይክን አዳመጠ። 200 ዝርያዎችን ለማግኘት የተሻለውን ዓሳ በመፈለግ ፣ ዓሳ እና ምግብ እወዳለሁ ፡፡
+
+Step 152/330
+>> Amharic - English
+	My mind listened to Mike all night long. Looking for the best fish for 200 species, I love fish and food.
+
+Step 153/330
+>> English - French
+	Mon esprit a écouté Mike toute la nuit. À la recherche du meilleur poisson pour 200 espèces, j'aime le poisson et la nourriture.
+
+Step 154/330
+>> French - Swahili
+	Akili yangu ilimsikiliza Mike usiku kucha. Katika kutafuta samaki bora kwa spishi 200, napenda samaki na chakula.
+
+Step 155/330
+>> Swahili - Portuguese
+	Minha mente ouviu Mike a noite toda. Em busca do melhor peixe para 200 espécies, adoro peixe e comida.
+
+Step 156/330
+>> Portuguese - Arabic
+	عقلي استمع إلى مايك طوال الليل. بحثًا عن أفضل أنواع الأسماك لـ 200 نوع ، أحب السمك والطعام.
+
+Step 157/330
+>> Arabic - Portuguese
+	Minha mente ouviu Mike a noite toda. Em busca do melhor peixe para 200 espécies, adoro peixe e comida.
+
+Step 158/330
+>> Portuguese - English
+	My mind listened to Mike all night. In search of the best fish for 200 species, I love fish and food.
+
+Step 159/330
+>> English - French
+	Mon esprit a écouté Mike toute la nuit. À la recherche du meilleur poisson pour 200 espèces, j'aime le poisson et la nourriture.
+
+Step 160/330
+>> French - English
+	My mind listened to Mike all night. In search of the best fish for 200 species, I like fish and food.
+
+Step 161/330
+>> English - Swahili
+	Akili yangu ilimsikiliza Mike usiku kucha. Katika kutafuta samaki bora kwa spishi 200, napenda samaki na chakula.
+
+Step 162/330
+>> Swahili - Arabic
+	عقلي استمع إلى مايك طوال الليل. بحثًا عن أفضل الأسماك لـ 200 نوع ، أحب السمك والطعام.
+
+Step 163/330
+>> Arabic - Arabic
+	My mind listened to Mike all night. In search of the best fish for 200 species, I love fish and food.
+
+Step 164/330
+>> Arabic - French
+	Mon esprit a écouté Mike toute la nuit. À la recherche du meilleur poisson pour 200 espèces, j'aime le poisson et la nourriture.
+
+Step 165/330
+>> French - Hausa
+	Hankalina ya saurari Mike duk daren. Binciko mafi kyawun kifi don nau'in 200, Ina son kifi da abinci.
+
+Step 166/330
+>> Hausa - French
+	Mon esprit a écouté Mike toute la nuit. Trouver le meilleur poisson pour 200 espèces, j'aime le poisson et la nourriture.
+
+Step 167/330
+>> French - Arabic
+	My mind listened to Mike all night. Find the best fish for 200 species, I like fish and food.
+
+Step 168/330
+>> Arabic - Arabic
+	عقلي استمع إلى مايك طوال الليل. العثور على أفضل الأسماك لمدة 200 نوعا ، وأنا أحب الأسماك والمواد الغذائية.
+
+Step 169/330
+>> Arabic - Swahili
+	Akili yangu ilimsikiliza Mike usiku kucha. Pata samaki bora zaidi ya spishi 200, napenda samaki na chakula.
+
+Step 170/330
+>> Swahili - English
+	My mind listened to Mike all night. Find the best fish of 200 species, I love fish and food.
+
+Step 171/330
+>> English - French
+	Mon esprit a écouté Mike toute la nuit. Trouver le meilleur poisson de 200 espèces, j'adore le poisson et la nourriture.
+
+Step 172/330
+>> French - English
+	My mind listened to Mike all night. Find the best fish of 200 species, I love fish and food.
+
+Step 173/330
+>> English - Portuguese
+	Minha mente ouviu Mike a noite toda. Encontre o melhor peixe de 200 espécies, adoro peixe e comida.
+
+Step 174/330
+>> Portuguese - Arabic
+	عقلي استمع إلى مايك طوال الليل. العثور على أفضل الأسماك من 200 نوع ، وأنا أحب الأسماك والطعام.
+
+Step 175/330
+>> Arabic - Portuguese
+	Minha mente ouviu Mike a noite toda. Encontre o melhor peixe de 200 espécies, adoro peixe e comida.
+
+Step 176/330
+>> Portuguese - Swahili
+	Akili yangu ilimsikiliza Mike usiku kucha. Pata samaki bora wa aina 200, napenda samaki na chakula.
+
+Step 177/330
+>> Swahili - French
+	Mon esprit a écouté Mike toute la nuit. Trouvez les 200 meilleurs types de poisson, j'aime le poisson et la nourriture.
+
+Step 178/330
+>> French - English
+	My mind listened to Mike all night. Find the 200 best types of fish, I like fish and food.
+
+Step 179/330
+>> English - Amharic
+	አእምሮዬ ሌሊቱን በሙሉ ማይክን አዳመጠ። 200 ምርጥ የዓሳ ዓይነቶችን ያግኙ ፣ ዓሳ እና ምግብ እወዳለሁ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	عقلي استمع إلى مايك طوال الليل. اكتشف 200 نوع كبير من الأسماك ، أحب السمك والطعام.
+
+Step 181/330
+>> Arabic - Chichewa
+	Malingaliro anga anamvera Mike usiku wonse. Dziwani mitundu yayikulu 200 ya nsomba, kukonda nsomba ndi chakudya.
+
+Step 182/330
+>> Chichewa - French
+	Mon esprit a écouté Mike toute la nuit. Découvrez 200 principaux types de poissons, poissons et aliments.
+
+Step 183/330
+>> French - Pashto
+	زما ذهن ټوله شپه مایک ته غوږ شو. د کب ، کب او خواړو 200 اصلي ډولونه ومومئ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Lide m 'te koute Mike tout nwit lan la. Jwenn plis pase 200 kalite pwason pwason, ak manje.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	كان رأيي الاستماع إلى مايك طوال الليل. الحصول على أكثر من 200 نوع من الأسماك والأسماك والمواد الغذائية.
+
+Step 186/330
+>> Arabic - French
+	Mon esprit écoutait Mike toute la nuit. Obtenez plus de 200 sortes de poissons, poissons et aliments.
+
+Step 187/330
+>> French - Arabic
+	عقلي استمع إلى مايك طوال الليل. الحصول على أكثر من 200 نوع من الأسماك والأسماك والمواد الغذائية.
+
+Step 188/330
+>> Arabic - French
+	Mon esprit a écouté Mike toute la nuit. Obtenez plus de 200 sortes de poissons, poissons et aliments.
+
+Step 189/330
+>> French - Swahili
+	Akili yangu ilimsikiliza Mike usiku kucha. Pata aina zaidi ya 200 ya samaki, samaki na chakula.
+
+Step 190/330
+>> Swahili - Malagasy
+	Nihaino an'i Mike nandritra ny alina aho. Mitadiava karazana trondro, hazandrano ary sakafo 200 mahery.
+
+Step 191/330
+>> Malagasy - Arabic
+	لقد استمعت إلى مايك طوال الليل. ابحث عن أكثر من 200 نوع من الأسماك والأسماك والأطعمة.
+
+Step 192/330
+>> Arabic - English
+	I listened to Mike all night. Search for more than 200 species of fish, fish and foods.
+
+Step 193/330
+>> English - Swahili
+	Nilimsikiliza Mike usiku kucha. Tafuta aina zaidi ya 200 za samaki, samaki na vyakula.
+
+Step 194/330
+>> Swahili - Hausa
+	Na saurari Mike duk daren. Nemi nau'ikan kifi sama da 200, kifaye da abinci.
+
+Step 195/330
+>> Hausa - Shona
+	Ndakateerera Mike husiku hwese. Tsvaga anopfuura mazana maviri emhando dzakasiyana dzehove, hove uye chikafu.
+
+Step 196/330
+>> Shona - Arabic
+	لقد استمعت إلى مايك طوال الليل. العثور على أكثر من 200 أنواع مختلفة من الأسماك والأسماك والمواد الغذائية.
+
+Step 197/330
+>> Arabic - Swahili
+	Nilimsikiliza Mike usiku kucha. Pata aina zaidi ya 200 za samaki, samaki na chakula.
+
+Step 198/330
+>> Swahili - English
+	I listened to Mike all night. Find over 200 species of fish, fish and food.
+
+Step 199/330
+>> English - French
+	J'ai écouté Mike toute la nuit. Trouvez plus de 200 espèces de poisson, de poisson et de nourriture.
+
+Step 200/330
+>> French - Urdu
+	میں نے ساری رات مائیک سن لیا۔ مچھلی ، مچھلی اور کھانے کی 200 سے زیادہ اقسام تلاش کریں۔
+
+Step 201/330
+>> Urdu - Nepali
+	मैले रातभर माइकको कुरा सुने। माछा, माछा र खानाका 200 भन्दा बढी प्रकारका फेला पार्नुहोस्।
+
+Step 202/330
+>> Nepali - Burmese
+	ငါက Mike ညဥ့်ကြား၏။ ငါး, ငါးနှင့်မုန့်ပေါင်း 200 ကျော်မျိုး: ကိုရှာပါ။
+
+Step 203/330
+>> Burmese - Portuguese
+	Mike noite. Peixe, peixe e mais de 200 tipos: pão.
+
+Step 204/330
+>> Portuguese - English
+	Mike night. Fish, fish and more than 200 types: bread.
+
+Step 205/330
+>> English - Portuguese
+	Mike noite. Peixe, peixe e mais de 200 tipos: pão.
+
+Step 206/330
+>> Portuguese - English
+	Mike night. Fish, fish and more than 200 types: bread.
+
+Step 207/330
+>> English - Portuguese
+	Mike noite. Peixe, peixe e mais de 200 tipos: pão.
+
+Step 208/330
+>> Portuguese - English
+	Mike night. Fish, fish and more than 200 types: bread.
+
+Step 209/330
+>> English - lao
+	ຄືນ Mike. ປາ, ປາແລະຫຼາຍກ່ວາ 200 ຊະນິດ: ເຂົ້າຈີ່.
+
+Step 210/330
+>> lao - French
+	Ce soir Mike. Poisson, poisson et plus de 200 espèces: pain.
+
+Step 211/330
+>> French - Bengali
+	আজ রাতে মাইক। মাছ, মাছ এবং 200 টিরও বেশি প্রজাতি: রুটি।
+
+Step 212/330
+>> Bengali - English
+	Tonight Mike. Fish, fish and over 200 species: bread.
+
+Step 213/330
+>> English - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 214/330
+>> Spanish - Portuguese
+	Hoje à noite Mike. Peixe, peixe e mais de 200 espécies: pão.
+
+Step 215/330
+>> Portuguese - Hindi
+	आज रात माइक। मछली, मछली और 200 से अधिक प्रजातियां: रोटी।
+
+Step 216/330
+>> Hindi - English
+	Tonight Mike. Fish, fish and more than 200 species: bread.
+
+Step 217/330
+>> English - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 218/330
+>> Spanish - English
+	Tonight Mike. Fish, fish and more than 200 species: bread.
+
+Step 219/330
+>> English - Portuguese
+	Hoje à noite Mike. Peixe, peixe e mais de 200 espécies: pão.
+
+Step 220/330
+>> Portuguese - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 221/330
+>> Spanish - Arabic
+	الليلة مايك. الأسماك والأسماك وأكثر من 200 نوع: الخبز.
+
+Step 222/330
+>> Arabic - Russian
+	Сегодня вечером Майк. Рыба, рыба и более 200 видов: хлеб.
+
+Step 223/330
+>> Russian - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 224/330
+>> Spanish - Arabic
+	الليلة مايك. الأسماك والأسماك وأكثر من 200 نوع: الخبز.
+
+Step 225/330
+>> Arabic - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Tối nay Mike. Cá, cá và hơn 200 loài: bánh mì.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Malam ini Mike. Ikan, ikan, dan lebih dari 200 spesies: roti.
+
+Step 228/330
+>> Indonesian - Arabic
+	الليلة مايك. الأسماك والأسماك وأكثر من 200 نوع: الخبز.
+
+Step 229/330
+>> Arabic - Zulu
+	Namuhla ebusuku uMike. Izinhlanzi, inhlanzi nezinhlobo ezingaphezu kuka-200: isinkwa.
+
+Step 230/330
+>> Zulu - Filipino
+	Ngayong gabi Mike. Isda, isda at higit sa 200 species: tinapay.
+
+Step 231/330
+>> Filipino - Romanian
+	În seara asta, Mike. Pește, pește și peste 200 de specii: pâine.
+
+Step 232/330
+>> Romanian - Spanish
+	Esta noche, Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 233/330
+>> Spanish - French
+	Ce soir, Mike. Poisson, poisson et plus de 200 espèces: pain.
+
+Step 234/330
+>> French - Arabic
+	الليلة ، مايك. الأسماك والأسماك وأكثر من 200 نوع: الخبز.
+
+Step 235/330
+>> Arabic - English
+	Tonight, Mike. Fish, fish and more than 200 species: bread.
+
+Step 236/330
+>> English - Uzbek
+	Bugun kechqurun Mayk. Baliq, baliq va 200 dan ortiq turlar: non.
+
+Step 237/330
+>> Uzbek - Samoan
+	Mike i lenei afiafi. Aʻa, iʻa ma sili atu i le 200 ituaiga: falaoa.
+
+Step 238/330
+>> Samoan - English
+	Mike this evening. Fish, fish and over 200 species: bread.
+
+Step 239/330
+>> English - Dutch
+	Mike vanavond. Vis, vis en meer dan 200 soorten: brood.
+
+Step 240/330
+>> Dutch - English
+	Mike tonight. Fish, fish and more than 200 varieties: bread.
+
+Step 241/330
+>> English - Kurdish
+	Mike îşev. Masî, masî û ji 200 zêdetir celeb hene: nan.
+
+Step 242/330
+>> Kurdish - Arabic
+	مايك الليلة. هناك الأسماك والأسماك وأكثر من 200 نوع: الخبز.
+
+Step 243/330
+>> Arabic - Spanish
+	Mike esta noche. Hay peces, peces y más de 200 especies: pan.
+
+Step 244/330
+>> Spanish - Mongolian
+	Өнөө орой Майк. Загас, загас, 200 гаруй зүйл байдаг: талх.
+
+Step 245/330
+>> Mongolian - English
+	Tonight Mike. Fish, fish, and more than 200 species: bread.
+
+Step 246/330
+>> English - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Сьогодні вночі Майк. Риба, риба та понад 200 видів: хліб.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Esta noche Mike. Pescado, pescado y más de 200 especies: pan.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	今晚迈克。鱼类，鱼类和200多种：面包。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	مايك الليلة. السمك والسمك وأكثر من 200 نوع: الخبز.
+
+Step 251/330
+>> Arabic - Thai
+	ไมค์คืนนี้ ปลาปลาและอื่น ๆ กว่า 200 สายพันธุ์: ขนมปัง
+
+Step 252/330
+>> Thai - Armenian
+	Այսօր երեկոյան Մայք, ձուկ, ձուկ և ավելի քան 200 տեսակ ՝ հաց
+
+Step 253/330
+>> Armenian - Macedonian
+	Вечерва Мајк, риба, риба и повеќе од 200 видови леб
+
+Step 254/330
+>> Macedonian - Arabic
+	الليلة مايك والسمك والأسماك وأكثر من 200 نوع من الخبز
+
+Step 255/330
+>> Arabic - Portuguese
+	Hoje à noite Mike, peixe, peixe e mais de 200 salsichas
+
+Step 256/330
+>> Portuguese - Spanish
+	Esta noche Mike, pescado, pescado y más de 200 salchichas
+
+Step 257/330
+>> Spanish - Bosnian
+	Večeras Mike, riba, riba i više od 200 kobasica
+
+Step 258/330
+>> Bosnian - Sinhala
+	අද රෑ මයික්, මාළු, මාළු සහ සොසේජස් 200 කට වැඩි ප්‍රමාණයක්
+
+Step 259/330
+>> Sinhala - English
+	More than 200 mic, fish, fish and sausages tonight
+
+Step 260/330
+>> English - Spanish
+	Más de 200 mic, pescado, pescado y salchichas esta noche
+
+Step 261/330
+>> Spanish - English
+	More than 200 mic, fish, fish and sausages tonight
+
+Step 262/330
+>> English - Georgian
+	ამაღამ 200 მილიზე მეტი, თევზი, თევზი და ძეხვეული
+
+Step 263/330
+>> Georgian - English
+	More than 200 miles tonight, fish, fish and sausages
+
+Step 264/330
+>> English - Albanian
+	Më shumë se 200 milje sonte, peshk, peshk dhe salcice
+
+Step 265/330
+>> Albanian - Serbian
+	Вечерас више од 200 миља, риба, риба и кобасице
+
+Step 266/330
+>> Serbian - Spanish
+	Más de 200 millas esta noche, pescado, pescado y salchichas
+
+Step 267/330
+>> Spanish - English
+	More than 200 miles tonight, fish, fish and sausages
+
+Step 268/330
+>> English - Turkish
+	Bu akşam 200 milden fazla balık, balık ve sosis
+
+Step 269/330
+>> Turkish - Spanish
+	Más de 200 millas de pescado, pescado y salchichas esta noche.
+
+Step 270/330
+>> Spanish - French
+	Plus de 200 milles de poisson, poisson et saucisses ce soir.
+
+Step 271/330
+>> French - English
+	More than 200 miles of fish, fish and sausages tonight.
+
+Step 272/330
+>> English - Persian
+	امشب بیش از 200 مایل ماهی ، ماهی و کالباس.
+
+Step 273/330
+>> Persian - Kazakh
+	Бүгін түнде 200 шақырымнан астам балық, балық және шұжық.
+
+Step 274/330
+>> Kazakh - English
+	Today, over 200 kilometers of fish, fish and sausage at night.
+
+Step 275/330
+>> English - Malay
+	Hari ini, lebih daripada 200 kilometer ikan, ikan dan sosej pada waktu malam.
+
+Step 276/330
+>> Malay - Arabic
+	اليوم ، أكثر من 200 كيلومتر من الأسماك والسمك والنقانق في الليل.
+
+Step 277/330
+>> Arabic - Spanish
+	Hoy, más de 200 millas de pescado, pescado y salchichas en la noche.
+
+Step 278/330
+>> Spanish - English
+	Today, more than 200 miles of fish, fish and sausages at night.
+
+Step 279/330
+>> English - Russian
+	Сегодня более 200 миль рыбы, рыбы и колбас на ночь.
+
+Step 280/330
+>> Russian - Romanian
+	Astăzi, peste 200 de mile de pește, pește și cârnați noaptea.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Днес над 200 мили риба, риба и колбаси през нощта.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Sot mbi 200 milje peshk, peshk dhe salcice gjatë natës.
+
+Step 283/330
+>> Albanian - Russian
+	Сегодня более 200 миль рыбы, рыбы и колбас на ночь.
+
+Step 284/330
+>> Russian - Arabic
+	اليوم ، أكثر من 200 ميل من الأسماك والسمك والنقانق في الليل.
+
+Step 285/330
+>> Arabic - Spanish
+	Hoy, más de 200 millas de pescado, pescado y salchichas en la noche.
+
+Step 286/330
+>> Spanish - Croatian
+	Danas više od 200 kilometara ribe, ribe i kobasica noću.
+
+Step 287/330
+>> Croatian - Hungarian
+	Ma éjjel több mint 200 kilométeres hal, hal és kolbász található.
+
+Step 288/330
+>> Hungarian - Spanish
+	Esta noche hay más de 200 kilómetros de pescado, pescado y salchichas.
+
+Step 289/330
+>> Spanish - Arabic
+	الليلة هناك أكثر من 200 كيلومتر من الأسماك والسمك والنقانق.
+
+Step 290/330
+>> Arabic - Portuguese
+	Hoje à noite existem mais de 200 quilômetros de peixes, peixes e salsichas.
+
+Step 291/330
+>> Portuguese - Latvian
+	Šovakar ir vairāk nekā 200 kilometru garas zivis, zivis un desas.
+
+Step 292/330
+>> Latvian - Arabic
+	الليلة هناك أكثر من 200 كيلومتر من الأسماك والسمك والنقانق.
+
+Step 293/330
+>> Arabic - Malay
+	Malam ini terdapat lebih daripada 200 batu ikan, ikan dan sosej.
+
+Step 294/330
+>> Malay - Slovak
+	Dnes je tu viac ako 200 míľ rýb, rýb a párkov.
+
+Step 295/330
+>> Slovak - Arabic
+	اليوم ، هناك أكثر من 200 ميل من الأسماك والسمك والنقانق.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Šiandien yra daugiau nei 200 mylių žuvies, žuvies ir dešrų.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Actualment hi ha més de 200 quilòmetres de peixos, peixos i embotits.
+
+Step 298/330
+>> Catalan - Arabic
+	يوجد حاليا أكثر من 200 كيلومتر من الأسماك والسمك والنقانق.
+
+Step 299/330
+>> Arabic - Polish
+	Obecnie jest ponad 200 kilometrów ryb, ryb i kiełbas.
+
+Step 300/330
+>> Polish - Turkish
+	Şu anda 200 kilometreden fazla balık, balık ve sosis var.
+
+Step 301/330
+>> Turkish - Greek
+	Αυτή τη στιγμή υπάρχουν περισσότερα από 200 χιλιόμετρα ψαριών, ψαριών και λουκάνικων.
+
+Step 302/330
+>> Greek - Estonian
+	Praegu on kala, kalu ja vorsti rohkem kui 200 kilomeetrit.
+
+Step 303/330
+>> Estonian - Maltese
+	Illum, hemm aktar minn 200 kilometru ta 'ħut, ħut u zalzett.
+
+Step 304/330
+>> Maltese - Italian
+	Oggi, ci sono oltre 200 chilometri di pesce, pesce e salsicce.
+
+Step 305/330
+>> Italian - Czech
+	Dnes je zde přes 200 kilometrů ryb, ryb a uzenin.
+
+Step 306/330
+>> Czech - Spanish
+	Hoy en día, hay más de 200 kilómetros de pescado, pescado y salchichas.
+
+Step 307/330
+>> Spanish - Slovenian
+	Danes je več kot 200 kilometrov ribe, rib in klobas.
+
+Step 308/330
+>> Slovenian - French
+	Aujourd'hui, il y a plus de 200 kilomètres de poisson, de poisson et de saucisses.
+
+Step 309/330
+>> French - Korean
+	오늘날 200km가 넘는 생선, 생선 및 소시지가 있습니다.
+
+Step 310/330
+>> Korean - Hebrew
+	כיום ישנם מעל 200 ק"מ של דגים, דגים ונקניקיות.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Haut ginn et iwwer 200 km Fësch, Fësch a Hot Dogs.
+
+Step 312/330
+>> Luxembourgish - German
+	Heute gibt es über 200 km Fisch, Fisch und Hot Dogs.
+
+Step 313/330
+>> German - Japanese
+	今日、200 km以上の魚、魚、ホットドッグがあります。
+
+Step 314/330
+>> Japanese - German
+	Heute gibt es über 200 km Fisch, Fisch und Hot Dogs.
+
+Step 315/330
+>> German - Dutch
+	Vandaag zijn er meer dan 200 km vis, vis en hotdogs.
+
+Step 316/330
+>> Dutch - Maori
+	I tenei ra ka nui atu i te 200 km nga ika, nga ika me nga kuri wera.
+
+Step 317/330
+>> Maori - Finnish
+	Nykyään kalaa, kalaa ja hot dogia on yli 200 km.
+
+Step 318/330
+>> Finnish - English
+	Today, there are over 200 km of fish, fish and hot dogs.
+
+Step 319/330
+>> English - Danish
+	I dag er der over 200 km fisk, fisk og hotdogs.
+
+Step 320/330
+>> Danish - Dutch
+	Vandaag zijn er meer dan 200 km vis, vis en hotdogs.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	今天有超過200公里的魚，魚和熱狗。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Idag finns det mer än 200 kilometer fisk, fisk och korv.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	今天有超過200公里的魚，魚和香腸。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Í dag eru meira en 200 km af fiski, fiski og pylsum.
+
+Step 325/330
+>> Icelandic - German
+	Heute gibt es mehr als 200 km Fisch, Fisch und Wurst.
+
+Step 326/330
+>> German - Irish
+	Sa lá atá inniu ann tá níos mó ná 200 km d'éisc, iasc agus ispíní.
+
+Step 327/330
+>> Irish - English
+	Today there are more than 200 km of fish, fish and sausages.
+
+Step 328/330
+>> English - German
+	Heute gibt es mehr als 200 km Fisch, Fisch und Wurst.
+
+Step 329/330
+>> German - Norwegian
+	I dag er det mer enn 200 km med fisk, fisk og pølse.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Hoje existem mais de 200 km de peixe, peixe e salsicha.
+
+
+##### RESULTS ######
+
+Existe nos domínios do rei Mihrage uma ilha chamada Cassel. Tinham-me assegurado que nela, todas as noites, se ouvia o som de timbales, o que deu origem à opinião dos marinheiros de haver Djal ali estabelecido a sua morada (20). Senti o desejo de testemunhar aquela maravilha, e vi na minha viagem peixes com cento e doze côvados de comprimento, os quais pouco mal fazem e muito assustam. São tão tímidos que é fácil afugentá-los batendo em pedaços de madeira. Notei outros peixes com um só côvado e que, na cabeça, se assemelham a mochos.
+
+Hoje existem mais de 200 km de peixe, peixe e salsicha.

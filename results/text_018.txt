@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: “Para te mostrar, continuou Zobeida muito gravemente, que o que de ti exigimos não foi estabelecido recentemente por nós, levanta-te e vai ler o que está escrito por cima da nossa porta, do lado de dentro.”
+
+Step 1/330
+>> Portuguese - Norwegian
+	"For å vise deg fortsatte Zobeida veldig alvorlig, at det vi krever av deg ikke har blitt opprettet av oss nylig, stå opp og les det som står skrevet over døren vår inni."
+
+Step 2/330
+>> Norwegian - German
+	"Um dir zu zeigen, dass Zobeida es sehr ernst meinte, dass das, was wir von dir verlangen, nicht kürzlich von uns erschaffen wurde, steh auf und lies, was drinnen über unserer Tür steht."
+
+Step 3/330
+>> German - English
+	"To show you that Zobeida meant it very seriously, that what we ask of you was not created by us recently, get up and read what's inside our door."
+
+Step 4/330
+>> English - Irish
+	"Chun a thaispeáint duit gur chiallaigh Zobeida go dáiríre é, nár chruthaigh muid le déanaí na rudaí a iarraimid ort, nach bhfaigheann tú suas agus léigh cad atá taobh istigh dár ndoras."
+
+Step 5/330
+>> Irish - German
+	"Um dir zu zeigen, dass Zobeida es wirklich so gemeint hat, haben wir die Dinge, die wir dich fragen, nicht neu erfunden. Steh nicht auf und lies, was in unserer Tür ist."
+
+Step 6/330
+>> German - Icelandic
+	„Til að sýna þér að Zobeida þýddi það í raun og veru, þá fundum við ekki upp aftur það sem við biðjum þig að gera, stígðu ekki upp og lestu hvað er fyrir dyrum okkar.“
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	“為了向你展示Zobeida真正的意義，我們並沒有重新發明我們要求你做的事情，沒有站出來閱讀我們門口的東西。”
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	"För att visa dig den verkliga betydelsen av Zobeida, har vi inte uppfunnit det vi bad dig att göra, och stod inte upp och läste vad vi har vid vår dörr."
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	“為了向您展示Zobeida的真正含義，我們沒有發明我們要求您做的事情，也沒有站起來閱讀我們門口的內容。”
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	“Om je de ware betekenis van Zobeida te laten zien, hebben we niet uitgevonden wat we je hebben gevraagd, noch zijn we opgestaan en hebben we de inhoud van onze deur gelezen.”
+
+Step 11/330
+>> Dutch - Danish
+	"For at vise dig den sande betydning af Zobeida, har vi ikke opfundet det, vi har bedt dig om, og vi har heller ikke stået op og læst indholdet af vores dør."
+
+Step 12/330
+>> Danish - English
+	"To show you the true meaning of Zobeida, we have not invented what we have asked you, nor have we stood up and read the contents of our door."
+
+Step 13/330
+>> English - Finnish
+	"Osoittaaksemme sinulle Zobeidan todellista merkitystä, emme ole keksineet sitä, mitä olemme kysyneet sinulta, emmekä ole nousseet seisomaan ja lukemaan ovemme sisältöä."
+
+Step 14/330
+>> Finnish - Maori
+	"Hei whakaatu ki a koe te tikanga o Zobeida, kaore ano kia tae atu ki nga mea i tonoa e maatau ki a koe, kaore ano kia tu atu ki runga ki te panui o nga tatau o to maatau tatau."
+
+Step 15/330
+>> Maori - Dutch
+	"Om u de betekenis van Zobeida te laten zien, moeten we nog in het reine komen met wat we u hebben gevraagd, en we hebben de aankondiging van onze deuren niet kunnen doorstaan."
+
+Step 16/330
+>> Dutch - German
+	"Um Ihnen die Bedeutung von Zobeida zu zeigen, müssen wir uns mit dem abfinden, was wir Sie gebeten haben, und wir konnten die Ankündigung unserer Türen nicht ertragen."
+
+Step 17/330
+>> German - Japanese
+	「ゾベイダの重要性を示すために、私たちはあなたにお願いしたことに同意する必要があり、私たちはドアの発表に我慢できませんでした。」
+
+Step 18/330
+>> Japanese - German
+	"Um die Wichtigkeit von Zoweida zu demonstrieren, mussten wir uns mit dem einverstanden erklären, wonach Sie gefragt haben, und wir konnten die Türansage nicht ertragen."
+
+Step 19/330
+>> German - Luxembourgish
+	"Fir d'Wichtegkeet vun Zoweida ze demonstréieren, musse mir d'accord sinn mat deem wat Dir gefrot hutt, a mir konnten d'Dierannonce net aushalen."
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	"כדי להדגים את חשיבותה של זווידה, עלינו להסכים עם מה שביקשת ולא יכולנו לעמוד במודעת החיות."
+
+Step 21/330
+>> Hebrew - Korean
+	"Zvida의 중요성을 입증하기 위해 우리는 당신이 요구 한 것에 동의해야하며 동물 인식을 충족시킬 수 없었습니다."
+
+Step 22/330
+>> Korean - French
+	"Pour démontrer l'importance de Zvida, nous devons accepter ce que vous avez demandé et ne pas répondre aux attentes des animaux."
+
+Step 23/330
+>> French - Slovenian
+	"Da bi dokazali pomen Zvida, moramo sprejeti, kar ste vprašali, in ne izpolniti pričakovanj živali."
+
+Step 24/330
+>> Slovenian - Spanish
+	"Para demostrar la importancia de Wall, debemos aceptar lo que ha pedido y no estar a la altura de las expectativas de los animales".
+
+Step 25/330
+>> Spanish - Czech
+	"Abychom demonstrovali důležitost zdi, musíme přijmout to, co požadoval, a neuspokojit se s očekáváním zvířat."
+
+Step 26/330
+>> Czech - Italian
+	"Per dimostrare l'importanza del muro, dobbiamo accettare ciò che ha richiesto e non accontentarci delle aspettative degli animali".
+
+Step 27/330
+>> Italian - Maltese
+	"Biex turi l-importanza tal-ħajt, irridu naċċettaw dak li talab u ma nkunux sodisfatti bl-aspettattivi ta 'l-annimali".
+
+Step 28/330
+>> Maltese - Estonian
+	"Et näidata, kui tähtis on seina, peame aktsepteerima, et me kutsusime ja kohtus loomade ootustele.
+
+Step 29/330
+>> Estonian - Greek
+	"Για να δείξουμε τη σημασία του τείχους, πρέπει να δεχτούμε ότι κάναμε προσκλήσεις και ανταποκρινόταν στις προσδοκίες των ζώων.
+
+Step 30/330
+>> Greek - Turkish
+	“Duvarın önemini göstermek için, davet aldığımızı ve hayvanların beklentilerini karşıladığımızı itiraf etmeliyiz.
+
+Step 31/330
+>> Turkish - Polish
+	Göstermek Aby pokazać znaczenie ściany, musimy przyznać, że otrzymaliśmy zaproszenie i spełniliśmy oczekiwania zwierząt.
+
+Step 32/330
+>> Polish - Arabic
+	Göstermek لإظهار أهمية الجدار ، يجب أن نعترف بأننا تلقينا دعوة وتلبية توقعات الحيوانات.
+
+Step 33/330
+>> Arabic - Catalan
+	Göstermek Per mostrar la importància de la paret, hem de reconèixer que hem rebut una invitació i complir les expectatives dels animals.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Norėdami parodyti sienos svarbą, turime pripažinti, kad gavome kvietimą ir patenkinti gyvūno lūkesčius.
+
+Step 35/330
+>> Lithuanian - Arabic
+	لإظهار أهمية الحدود ، يجب أن نعترف بأننا تلقينا الدعوة وتلبية توقعات الحيوان.
+
+Step 36/330
+>> Arabic - Slovak
+	Na preukázanie dôležitosti hraníc musíme uznať, že sme dostali pozvanie a splnili očakávania zvieraťa.
+
+Step 37/330
+>> Slovak - Malay
+	Untuk menunjukkan kepentingan sempadan, kita harus mengakui bahawa kita telah dijemput untuk memenuhi jangkaan haiwan itu.
+
+Step 38/330
+>> Malay - Arabic
+	لإظهار أهمية الحدود ، يجب أن نعترف بأننا قد دعيت لتلبية توقعات الحيوان.
+
+Step 39/330
+>> Arabic - Latvian
+	Lai parādītu robežu nozīmi, mums jāatzīst, ka esam uzaicināti izpildīt dzīvnieka cerības.
+
+Step 40/330
+>> Latvian - Portuguese
+	Para demonstrar a importância das fronteiras, devemos reconhecer que somos chamados a corresponder às expectativas do animal.
+
+Step 41/330
+>> Portuguese - Arabic
+	لإظهار أهمية الحدود ، يجب علينا أن ندرك أننا مدعوون للارتقاء إلى مستوى توقعات الحيوان.
+
+Step 42/330
+>> Arabic - Spanish
+	Para demostrar la importancia de los límites, debemos darnos cuenta de que estamos invitados a cumplir con las expectativas del animal.
+
+Step 43/330
+>> Spanish - Hungarian
+	A korlátok fontosságának bizonyítására fel kell ismernünk, hogy felkérést kapunk, hogy teljesítsük az állat elvárásait.
+
+Step 44/330
+>> Hungarian - Croatian
+	Da bismo dokazali važnost prepreka, moramo prepoznati da se od nas traži da ispunimo očekivanja životinje.
+
+Step 45/330
+>> Croatian - Spanish
+	Para demostrar la importancia de los obstáculos, debemos reconocer que estamos obligados a cumplir con las expectativas del animal.
+
+Step 46/330
+>> Spanish - Arabic
+	لإظهار أهمية العقبات ، يجب أن ندرك أننا ملزمون بتلبية توقعات الحيوان.
+
+Step 47/330
+>> Arabic - Russian
+	Чтобы продемонстрировать важность препятствий, мы должны понимать, что мы обязаны соответствовать ожиданиям животного.
+
+Step 48/330
+>> Russian - Albanian
+	Për të demonstruar rëndësinë e pengesave, duhet të kuptojmë se duhet të plotësojmë pritjet e kafshës.
+
+Step 49/330
+>> Albanian - Bulgarian
+	За да демонстрираме важността на препятствията, трябва да разберем, че трябва да отговорим на очакванията на животното.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Pentru a demonstra importanța obstacolelor, trebuie să înțelegem că trebuie să îndeplinim așteptările animalului.
+
+Step 51/330
+>> Romanian - Russian
+	Чтобы продемонстрировать важность препятствий, мы должны понимать, что мы должны соответствовать ожиданиям животного.
+
+Step 52/330
+>> Russian - English
+	To demonstrate the importance of obstacles, we must understand that we must meet the expectations of the animal.
+
+Step 53/330
+>> English - Spanish
+	Para demostrar la importancia de los obstáculos, debemos entender que debemos cumplir con las expectativas del animal.
+
+Step 54/330
+>> Spanish - Arabic
+	لإظهار أهمية العقبات ، يجب أن نفهم أنه يجب علينا تلبية توقعات الحيوان.
+
+Step 55/330
+>> Arabic - Malay
+	Untuk menunjukkan pentingnya halangan, kita mesti faham bahawa kita mesti memenuhi jangkaan haiwan itu.
+
+Step 56/330
+>> Malay - English
+	To show the importance of obstacles, we must understand that we must meet the expectations of the animal.
+
+Step 57/330
+>> English - Kazakh
+	Кедергілердің маңыздылығын көрсету үшін біз жануардың үмітіне жауап беруіміз керек екенін түсінуіміз керек.
+
+Step 58/330
+>> Kazakh - Persian
+	برای نشان دادن اهمیت موانع ، باید درک کنیم که باید امید یک حیوان را برآورده کنیم.
+
+Step 59/330
+>> Persian - English
+	To illustrate the importance of obstacles, we must understand that we must meet the hope of an animal.
+
+Step 60/330
+>> English - French
+	Pour illustrer l’importance des obstacles, nous devons comprendre que nous devons répondre à l’espoir d’un animal.
+
+Step 61/330
+>> French - Spanish
+	Para ilustrar la importancia de los obstáculos, debemos entender que debemos responder a la esperanza de un animal.
+
+Step 62/330
+>> Spanish - Turkish
+	Engellerin önemini göstermek için, bir hayvanın umuduna cevap vermemiz gerektiğini anlamalıyız.
+
+Step 63/330
+>> Turkish - English
+	To demonstrate the importance of obstacles, we must understand that we must respond to the hope of an animal.
+
+Step 64/330
+>> English - Spanish
+	Para demostrar la importancia de los obstáculos, debemos entender que debemos responder a la esperanza de un animal.
+
+Step 65/330
+>> Spanish - Serbian
+	Да бисмо показали значај препрека, морамо схватити да морамо одговорити нади животиње.
+
+Step 66/330
+>> Serbian - Albanian
+	Për të treguar rëndësinë e pengesave, duhet të kuptojmë se duhet t'i përgjigjemi shpresës së kafshëve.
+
+Step 67/330
+>> Albanian - English
+	To show the importance of obstacles, we must understand that we must respond to the hope of animals.
+
+Step 68/330
+>> English - Georgian
+	იმისათვის, რომ ვაჩვენოთ დაბრკოლებების მნიშვნელობა, უნდა გვესმოდეს, რომ ცხოველების იმედზე უნდა ვუპასუხოთ.
+
+Step 69/330
+>> Georgian - English
+	To show the importance of obstacles, we need to understand that we must respond to the hope of animals.
+
+Step 70/330
+>> English - Spanish
+	Para mostrar la importancia de los obstáculos, debemos entender que debemos responder a la esperanza de los animales.
+
+Step 71/330
+>> Spanish - English
+	To show the importance of obstacles, we must understand that we must respond to the hope of animals.
+
+Step 72/330
+>> English - Sinhala
+	බාධකවල වැදගත්කම පෙන්වීමට, සතුන්ගේ බලාපොරොත්තුවට අප ප්‍රතිචාර දැක්විය යුතු බව අප තේරුම් ගත යුතුය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Da bismo pokazali važnost prepreka, moramo razumjeti da moramo odgovoriti nadi životinjama.
+
+Step 74/330
+>> Bosnian - Spanish
+	Para mostrar la importancia de los obstáculos, debemos entender que debemos responder a la esperanza de los animales.
+
+Step 75/330
+>> Spanish - Portuguese
+	Para mostrar a importância dos obstáculos, devemos entender que devemos responder à esperança dos animais.
+
+Step 76/330
+>> Portuguese - Arabic
+	لإظهار أهمية العقبات ، يجب أن نفهم أنه يجب علينا الاستجابة لآمال الحيوانات.
+
+Step 77/330
+>> Arabic - Macedonian
+	За да ја покажеме важноста на пречките, мора да разбереме дека мора да одговориме на надежите на животните.
+
+Step 78/330
+>> Macedonian - Armenian
+	Խոչընդոտների կարևորությունը ցույց տալու համար մենք պետք է հասկանանք, որ մենք պետք է արձագանքենք կենդանիների հույսերին:
+
+Step 79/330
+>> Armenian - Thai
+	เพื่อแสดงความสำคัญของอุปสรรคเราต้องเข้าใจว่าเราต้องตอบสนองต่อความหวังของสัตว์
+
+Step 80/330
+>> Thai - Arabic
+	لإظهار أهمية العقبات ، يجب أن نفهم أنه يجب علينا الاستجابة لآمال الحيوانات.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	为了表明障碍的重要性，我们必须明白，我们必须回应动物的希望。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Para mostrar la importancia del obstáculo, debemos entender que debemos responder a las esperanzas del animal.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Щоб показати важливість перешкоди, ми повинні зрозуміти, що ми повинні реагувати на сподівання тварини.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Para mostrar la importancia del obstáculo, debemos entender que debemos responder a las expectativas del animal.
+
+Step 85/330
+>> Spanish - English
+	To show the importance of the obstacle, we must understand that we must respond to the animal's expectations.
+
+Step 86/330
+>> English - Mongolian
+	Саад бэрхшээлийн ач холбогдлыг харуулахын тулд амьтны хүлээлтэд хариу өгөх ёстой гэдгийг ойлгох ёстой.
+
+Step 87/330
+>> Mongolian - Spanish
+	Debemos entender que la importancia de la barrera debe responderse en respuesta a las expectativas del animal.
+
+Step 88/330
+>> Spanish - Arabic
+	يجب أن نفهم أن أهمية الحاجز يجب الرد عليها استجابة لتوقعات الحيوان.
+
+Step 89/330
+>> Arabic - Kurdish
+	Pêdivî ye ku hûn fam bikin ku giringiya baranê divê di bersivê de li bendewariya heywanan be.
+
+Step 90/330
+>> Kurdish - English
+	You need to understand that the importance of rain must be in response to animal waiting.
+
+Step 91/330
+>> English - Dutch
+	Je moet begrijpen dat het belang van regen moet zijn als reactie op het wachten op dieren.
+
+Step 92/330
+>> Dutch - English
+	You must understand that the importance of rain must be in response to waiting for animals.
+
+Step 93/330
+>> English - Samoan
+	E tatau ona e malamalama o le taua o le timu e tatau ona i ai i le tali i le faatalitali mo manu.
+
+Step 94/330
+>> Samoan - Uzbek
+	Yomg'irning ahamiyati hayvonlarni kutishga javoban bo'lishi kerakligini tushunishingiz kerak.
+
+Step 95/330
+>> Uzbek - English
+	You need to understand the importance of rain in response to animal care.
+
+Step 96/330
+>> English - Arabic
+	تحتاج إلى فهم أهمية المطر استجابة لرعاية الحيوان.
+
+Step 97/330
+>> Arabic - French
+	Vous devez comprendre l'importance de la pluie en réponse au soin des animaux.
+
+Step 98/330
+>> French - Spanish
+	Debe comprender la importancia de la lluvia en respuesta al cuidado de los animales.
+
+Step 99/330
+>> Spanish - Romanian
+	Trebuie să înțelegeți importanța ploii ca răspuns la îngrijirea animalelor.
+
+Step 100/330
+>> Romanian - Filipino
+	Kailangan mong maunawaan ang kahalagahan ng ulan bilang tugon sa pangangalaga sa hayop.
+
+Step 101/330
+>> Filipino - Zulu
+	Udinga ukuqonda ukubaluleka kwemvula ngokuphendula ukunakekelwa kwezilwane.
+
+Step 102/330
+>> Zulu - Arabic
+	تحتاج إلى فهم أهمية هطول الأمطار استجابة لرعاية الحيوان.
+
+Step 103/330
+>> Arabic - Indonesian
+	Anda perlu memahami pentingnya curah hujan dalam menanggapi perawatan hewan.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Bạn cần hiểu tầm quan trọng của lượng mưa trong việc đáp ứng chăm sóc động vật.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Debe comprender la importancia de la precipitación para cumplir con el cuidado de los animales.
+
+Step 106/330
+>> Spanish - Arabic
+	يجب أن تفهم أهمية هطول الأمطار لتتوافق مع رعاية الحيوان.
+
+Step 107/330
+>> Arabic - Spanish
+	Debe comprender la importancia de la precipitación para corresponder al cuidado de los animales.
+
+Step 108/330
+>> Spanish - Russian
+	Вы должны понимать важность осадков, чтобы соответствовать уходу за животными.
+
+Step 109/330
+>> Russian - Arabic
+	يجب أن تفهم أهمية هطول الأمطار من أجل مطابقة رعاية الحيوان.
+
+Step 110/330
+>> Arabic - Spanish
+	Debe comprender la importancia de la precipitación para que coincida con el cuidado de los animales.
+
+Step 111/330
+>> Spanish - Portuguese
+	Você deve entender a importância da precipitação para combinar com o cuidado dos animais.
+
+Step 112/330
+>> Portuguese - English
+	You must understand the importance of precipitation to match animal care.
+
+Step 113/330
+>> English - Spanish
+	Debe comprender la importancia de la precipitación para que coincida con el cuidado de los animales.
+
+Step 114/330
+>> Spanish - English
+	You must understand the importance of precipitation to match the care of the animals.
+
+Step 115/330
+>> English - Hindi
+	जानवरों की देखभाल से मेल खाने के लिए आपको वर्षा के महत्व को समझना चाहिए।
+
+Step 116/330
+>> Hindi - Portuguese
+	Você deve entender a importância das chuvas para combinar com os cuidados com os animais.
+
+Step 117/330
+>> Portuguese - Spanish
+	Debe comprender la importancia de la lluvia para que coincida con el cuidado de los animales.
+
+Step 118/330
+>> Spanish - English
+	You must understand the importance of rain to match the care of animals.
+
+Step 119/330
+>> English - Bengali
+	পশুর যত্নের সাথে মেলে তুলতে আপনার অবশ্যই বৃষ্টিপাতের গুরুত্ব বুঝতে হবে।
+
+Step 120/330
+>> Bengali - French
+	Vous devez comprendre l'importance des précipitations pour correspondre aux soins des animaux.
+
+Step 121/330
+>> French - lao
+	ທ່ານຕ້ອງເຂົ້າໃຈຄວາມ ສຳ ຄັນຂອງລະດູຝົນເພື່ອໃຫ້ກົງກັບການດູແລສັດ.
+
+Step 122/330
+>> lao - English
+	You have to understand the importance of the rain to match the care of the animals.
+
+Step 123/330
+>> English - Portuguese
+	Você tem que entender a importância da chuva para combinar com o cuidado dos animais.
+
+Step 124/330
+>> Portuguese - English
+	You have to understand the importance of rain to match animal care.
+
+Step 125/330
+>> English - Portuguese
+	Você precisa entender a importância da chuva para combinar com os cuidados com os animais.
+
+Step 126/330
+>> Portuguese - English
+	You need to understand the importance of rain to match animal care.
+
+Step 127/330
+>> English - Portuguese
+	Você precisa entender a importância da chuva para combinar com os cuidados com os animais.
+
+Step 128/330
+>> Portuguese - Burmese
+	သင်ကတိရိစ္ဆာန်စောင့်ရှောက်မှုကိုက်ညီမိုဃ်းကိုရွာစေ၏အရေးပါမှုကိုနားလည်သဘောပေါက်ဖို့လိုအပ်ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	पशु हेरविचार र वर्षा सूट को महत्त्व बुझ्न आवश्यक छ।
+
+Step 130/330
+>> Nepali - Urdu
+	جانوروں کی دیکھ بھال اور بارش کے سوٹ کی اہمیت کو سمجھنا ضروری ہے۔
+
+Step 131/330
+>> Urdu - French
+	Il est important de comprendre l'importance du soin des animaux et des vêtements de pluie.
+
+Step 132/330
+>> French - English
+	It is important to understand the importance of animal care and rain gear.
+
+Step 133/330
+>> English - Swahili
+	Ni muhimu kuelewa umuhimu wa utunzaji wa wanyama na gia za mvua.
+
+Step 134/330
+>> Swahili - Arabic
+	من المهم أن نفهم أهمية التعامل مع الحيوانات ومعدات المطر.
+
+Step 135/330
+>> Arabic - Shona
+	Izvo zvakakosha kuti unzwisise kukosha kwekubata mhuka uye nemidziyo yemvura.
+
+Step 136/330
+>> Shona - Hausa
+	Yana da mahimmanci a fahimci mahimmancin kulawa da dabbobi da tasoshin ruwa.
+
+Step 137/330
+>> Hausa - Swahili
+	Ni muhimu kuelewa umuhimu wa kutunza wanyama na vyombo.
+
+Step 138/330
+>> Swahili - English
+	It is important to understand the importance of caring for animals and animals.
+
+Step 139/330
+>> English - Arabic
+	من المهم أن نفهم أهمية رعاية الحيوانات والحيوانات.
+
+Step 140/330
+>> Arabic - Malagasy
+	Zava-dehibe ny mahatakatra ny maha zava-dehibe ny fikarakarana ny biby sy ny biby.
+
+Step 141/330
+>> Malagasy - Swahili
+	Ni muhimu kuelewa umuhimu wa kutunza wanyama na wanyama.
+
+Step 142/330
+>> Swahili - French
+	Il est important de comprendre l'importance de prendre soin des animaux et des animaux.
+
+Step 143/330
+>> French - Arabic
+	من المهم أن نفهم أهمية رعاية الحيوانات والحيوانات.
+
+Step 144/330
+>> Arabic - French
+	Il est important de comprendre l'importance de prendre soin des animaux et des animaux.
+
+Step 145/330
+>> French - Arabic
+	من المهم أن نفهم أهمية رعاية الحيوانات والحيوانات.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Li enpòtan pou w konprann enpòtans pran swen bèt ak bèt yo.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	د څارویو او څارویو پاملرنې اهمیت باندې پوهیدل مهم دي.
+
+Step 148/330
+>> Pashto - French
+	Il est important de comprendre l'importance de prendre soin des animaux et des animaux.
+
+Step 149/330
+>> French - Chichewa
+	Ndikofunikira kumvetsetsa kufunikira kosamalira nyama ndi nyama.
+
+Step 150/330
+>> Chichewa - Arabic
+	من المهم أن نفهم أهمية رعاية الحيوانات والحيوانات.
+
+Step 151/330
+>> Arabic - Amharic
+	እንስሳትን እና እንስሳትን መንከባከብ አስፈላጊ መሆኑን መገንዘብ አስፈላጊ ነው ፡፡
+
+Step 152/330
+>> Amharic - English
+	It is important to realize the importance of taking care of animals and animals.
+
+Step 153/330
+>> English - French
+	Il est important de réaliser l'importance de prendre soin des animaux et des animaux.
+
+Step 154/330
+>> French - Swahili
+	Ni muhimu kutambua umuhimu wa kutunza wanyama na wanyama.
+
+Step 155/330
+>> Swahili - Portuguese
+	É importante reconhecer a importância de cuidar de animais e animais.
+
+Step 156/330
+>> Portuguese - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوانات والحيوانات.
+
+Step 157/330
+>> Arabic - Portuguese
+	É importante reconhecer a importância de cuidar de animais e animais.
+
+Step 158/330
+>> Portuguese - English
+	It is important to recognize the importance of caring for animals and animals.
+
+Step 159/330
+>> English - French
+	Il est important de reconnaître l'importance de prendre soin des animaux et des animaux.
+
+Step 160/330
+>> French - English
+	It is important to recognize the importance of caring for animals and animals.
+
+Step 161/330
+>> English - Swahili
+	Ni muhimu kutambua umuhimu wa kutunza wanyama na wanyama.
+
+Step 162/330
+>> Swahili - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوانات والحيوانات.
+
+Step 163/330
+>> Arabic - Arabic
+	It is important to recognize the importance of caring for animals and animals.
+
+Step 164/330
+>> Arabic - French
+	Il est important de reconnaître l'importance de prendre soin des animaux et des animaux.
+
+Step 165/330
+>> French - Hausa
+	Yana da mahimmanci a gane mahimmancin kulawa da dabbobi.
+
+Step 166/330
+>> Hausa - French
+	Il est important de reconnaître l'importance de prendre soin des animaux.
+
+Step 167/330
+>> French - Arabic
+	It is important to recognize the importance of caring for animals.
+
+Step 168/330
+>> Arabic - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوانات.
+
+Step 169/330
+>> Arabic - Swahili
+	Ni muhimu kutambua umuhimu wa kutunza wanyama.
+
+Step 170/330
+>> Swahili - English
+	It is important to recognize the importance of caring for animals.
+
+Step 171/330
+>> English - French
+	Il est important de reconnaître l'importance de prendre soin des animaux.
+
+Step 172/330
+>> French - English
+	It is important to recognize the importance of caring for animals.
+
+Step 173/330
+>> English - Portuguese
+	É importante reconhecer a importância de cuidar dos animais.
+
+Step 174/330
+>> Portuguese - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوانات.
+
+Step 175/330
+>> Arabic - Portuguese
+	É importante reconhecer a importância de cuidar dos animais.
+
+Step 176/330
+>> Portuguese - Swahili
+	Ni muhimu kutambua umuhimu wa kutunza wanyama.
+
+Step 177/330
+>> Swahili - French
+	Il est important de reconnaître l'importance de prendre soin des animaux.
+
+Step 178/330
+>> French - English
+	It is important to recognize the importance of caring for animals.
+
+Step 179/330
+>> English - Amharic
+	እንስሳትን መንከባከብ አስፈላጊ መሆኑን መገንዘብ አስፈላጊ ነው ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	من المهم أن نفهم أن رعاية الحيوانات أمر مهم.
+
+Step 181/330
+>> Arabic - Chichewa
+	Ndikofunika kumvetsetsa kuti kusamalira nyama ndikofunikira.
+
+Step 182/330
+>> Chichewa - French
+	Il est important de comprendre que prendre soin des animaux est important.
+
+Step 183/330
+>> French - Pashto
+	دا پوهیدل مهم دي چې د څارویو پاملرنه اړینه ده.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Li enpòtan pou konprann ke swen pou bèt yo esansyèl.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	من المهم أن نفهم أن رعاية الحيوانات ضرورية.
+
+Step 186/330
+>> Arabic - French
+	Il est important de comprendre que prendre soin des animaux est essentiel.
+
+Step 187/330
+>> French - Arabic
+	من المهم أن نفهم أن رعاية الحيوانات أمر ضروري.
+
+Step 188/330
+>> Arabic - French
+	Il est important de comprendre que prendre soin des animaux est essentiel.
+
+Step 189/330
+>> French - Swahili
+	Ni muhimu kuelewa kwamba utunzaji wa wanyama ni muhimu.
+
+Step 190/330
+>> Swahili - Malagasy
+	Zava-dehibe ny mahatakatra fa ny fikolokoloana biby dia zava-dehibe.
+
+Step 191/330
+>> Malagasy - Arabic
+	من المهم أن نفهم أن تربية الحيوانات أمر مهم.
+
+Step 192/330
+>> Arabic - English
+	It is important to understand that animal husbandry is important.
+
+Step 193/330
+>> English - Swahili
+	Ni muhimu kuelewa kuwa utunzaji wa wanyama ni muhimu.
+
+Step 194/330
+>> Swahili - Hausa
+	Yana da mahimmanci a fahimci cewa kula da dabbobi yana da mahimmanci.
+
+Step 195/330
+>> Hausa - Shona
+	Izvo zvakakosha kuti unzwisise kuti kutarisira mhuka kwakakosha.
+
+Step 196/330
+>> Shona - Arabic
+	من المهم أن نفهم أن رعاية الحيوانات أمر مهم.
+
+Step 197/330
+>> Arabic - Swahili
+	Ni muhimu kuelewa kwamba utunzaji wa wanyama ni muhimu.
+
+Step 198/330
+>> Swahili - English
+	It is important to understand that animal care is important.
+
+Step 199/330
+>> English - French
+	Il est important de comprendre que le soin des animaux est important.
+
+Step 200/330
+>> French - Urdu
+	یہ سمجھنا ضروری ہے کہ جانوروں کی دیکھ بھال ضروری ہے۔
+
+Step 201/330
+>> Urdu - Nepali
+	यो जान्नु महत्त्वपूर्ण छ कि जनावरहरूको हेरचाह महत्त्वपूर्ण छ।
+
+Step 202/330
+>> Nepali - Burmese
+	၎င်းသည်တိရစ္ဆာန်များအဘို့ဂရုစိုက်ရန်အရေးကြီးပါသည်ကြောင်းသိရန်အရေးကြီးပါသည်။
+
+Step 203/330
+>> Burmese - Portuguese
+	É importante saber que é importante cuidar dos animais.
+
+Step 204/330
+>> Portuguese - English
+	It is important to know that it is important to take care of animals.
+
+Step 205/330
+>> English - Portuguese
+	É importante saber que é importante cuidar de animais.
+
+Step 206/330
+>> Portuguese - English
+	It is important to know that it is important to take care of animals.
+
+Step 207/330
+>> English - Portuguese
+	É importante saber que é importante cuidar de animais.
+
+Step 208/330
+>> Portuguese - English
+	It is important to know that it is important to take care of animals.
+
+Step 209/330
+>> English - lao
+	ມັນເປັນສິ່ງສໍາຄັນທີ່ຈະຮູ້ວ່າມັນເປັນສິ່ງສໍາຄັນທີ່ຈະຕ້ອງເບິ່ງແຍງສັດ.
+
+Step 210/330
+>> lao - French
+	Il est important de savoir qu'il est important de s'occuper des animaux.
+
+Step 211/330
+>> French - Bengali
+	এটি জেনে রাখা গুরুত্বপূর্ণ যে এটি পশুর যত্ন নেওয়া গুরুত্বপূর্ণ।
+
+Step 212/330
+>> Bengali - English
+	It is important to know that it is important to take care of the animal.
+
+Step 213/330
+>> English - Spanish
+	Es importante saber que es importante cuidar al animal.
+
+Step 214/330
+>> Spanish - Portuguese
+	É importante saber que é importante cuidar do animal.
+
+Step 215/330
+>> Portuguese - Hindi
+	यह जानना महत्वपूर्ण है कि पशु की देखभाल करना महत्वपूर्ण है।
+
+Step 216/330
+>> Hindi - English
+	It is important to know that taking care of the animal is important.
+
+Step 217/330
+>> English - Spanish
+	Es importante saber que cuidar al animal es importante.
+
+Step 218/330
+>> Spanish - English
+	It is important to know that caring for the animal is important.
+
+Step 219/330
+>> English - Portuguese
+	É importante saber que cuidar do animal é importante.
+
+Step 220/330
+>> Portuguese - Spanish
+	Es importante saber que cuidar al animal es importante.
+
+Step 221/330
+>> Spanish - Arabic
+	من المهم أن تعرف أن رعاية الحيوان أمر مهم.
+
+Step 222/330
+>> Arabic - Russian
+	Важно знать, что уход за животными важен.
+
+Step 223/330
+>> Russian - Spanish
+	Es importante saber que cuidar a los animales es importante.
+
+Step 224/330
+>> Spanish - Arabic
+	من المهم أن تعرف أن رعاية الحيوانات أمر مهم.
+
+Step 225/330
+>> Arabic - Spanish
+	Es importante saber que cuidar a los animales es importante.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Điều quan trọng là phải biết rằng chăm sóc động vật là quan trọng.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Penting untuk diketahui bahwa merawat hewan itu penting.
+
+Step 228/330
+>> Indonesian - Arabic
+	من المهم أن تعرف أن رعاية الحيوانات أمر مهم.
+
+Step 229/330
+>> Arabic - Zulu
+	Kubalulekile ukwazi ukuthi ukunakekela izilwane kubalulekile.
+
+Step 230/330
+>> Zulu - Filipino
+	Mahalagang malaman na mahalaga ang pag-aalaga sa mga hayop.
+
+Step 231/330
+>> Filipino - Romanian
+	Este important să știți că grija pentru animale este importantă.
+
+Step 232/330
+>> Romanian - Spanish
+	Es importante saber que el cuidado de los animales es importante.
+
+Step 233/330
+>> Spanish - French
+	Il est important de savoir qu'il est important de prendre soin des animaux.
+
+Step 234/330
+>> French - Arabic
+	من المهم أن تعرف أنه من المهم رعاية الحيوانات.
+
+Step 235/330
+>> Arabic - English
+	It is important to know that it is important to care for animals.
+
+Step 236/330
+>> English - Uzbek
+	Hayvonlarga g'amxo'rlik qilish muhimligini bilish muhimdir.
+
+Step 237/330
+>> Uzbek - Samoan
+	E taua le iloa o le taua o le tausiga o manu.
+
+Step 238/330
+>> Samoan - English
+	It is important to recognize the importance of caring for animals.
+
+Step 239/330
+>> English - Dutch
+	Het is belangrijk om het belang van de zorg voor dieren te erkennen.
+
+Step 240/330
+>> Dutch - English
+	It is important to recognize the importance of animal care.
+
+Step 241/330
+>> English - Kurdish
+	Girîng e ku girîngiya lênihêrîna heywanan were nas kirin.
+
+Step 242/330
+>> Kurdish - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوان.
+
+Step 243/330
+>> Arabic - Spanish
+	Es importante reconocer la importancia del bienestar animal.
+
+Step 244/330
+>> Spanish - Mongolian
+	Амьтны халамжийн ач холбогдлыг хүлээн зөвшөөрөх нь чухал юм.
+
+Step 245/330
+>> Mongolian - English
+	It is important to recognize the importance of animal welfare.
+
+Step 246/330
+>> English - Spanish
+	Es importante reconocer la importancia del bienestar animal.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Важливо визнати важливість добробуту тварин.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Es importante reconocer la importancia del bienestar animal.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	重要的是要认识到动物福利的重要性。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	من المهم أن ندرك أهمية رعاية الحيوانات.
+
+Step 251/330
+>> Arabic - Thai
+	การตระหนักถึงความสำคัญของการดูแลสัตว์เป็นสิ่งสำคัญ
+
+Step 252/330
+>> Thai - Armenian
+	Կարևոր է կենդանիներին խնամելու կարևորությունը տեղյակ լինելը:
+
+Step 253/330
+>> Armenian - Macedonian
+	Важно е да се знае важноста на грижата за животните.
+
+Step 254/330
+>> Macedonian - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات.
+
+Step 255/330
+>> Arabic - Portuguese
+	É importante saber a importância de cuidar dos animais.
+
+Step 256/330
+>> Portuguese - Spanish
+	Es importante saber la importancia de cuidar a los animales.
+
+Step 257/330
+>> Spanish - Bosnian
+	Važno je znati važnost brige o životinjama.
+
+Step 258/330
+>> Bosnian - Sinhala
+	සතුන් රැකබලා ගැනීමේ වැදගත්කම දැන ගැනීම වැදගත්ය.
+
+Step 259/330
+>> Sinhala - English
+	Knowing the importance of caring for animals is important.
+
+Step 260/330
+>> English - Spanish
+	Conocer la importancia del cuidado de los animales es importante.
+
+Step 261/330
+>> Spanish - English
+	Knowing the importance of caring for animals is important.
+
+Step 262/330
+>> English - Georgian
+	მნიშვნელოვანია იცოდეს ცხოველებზე ზრუნვის მნიშვნელობა.
+
+Step 263/330
+>> Georgian - English
+	It is important to know the importance of caring for animals.
+
+Step 264/330
+>> English - Albanian
+	Shtë e rëndësishme të dini rëndësinë e kujdesit për kafshët.
+
+Step 265/330
+>> Albanian - Serbian
+	Важно је знати важност неге животиња.
+
+Step 266/330
+>> Serbian - Spanish
+	Es importante saber la importancia del cuidado de los animales.
+
+Step 267/330
+>> Spanish - English
+	It is important to know the importance of caring for animals.
+
+Step 268/330
+>> English - Turkish
+	Hayvanlara özen göstermenin önemini bilmek önemlidir.
+
+Step 269/330
+>> Turkish - Spanish
+	Es importante saber la importancia del cuidado de los animales.
+
+Step 270/330
+>> Spanish - French
+	Il est important de connaître l'importance de prendre soin des animaux.
+
+Step 271/330
+>> French - English
+	It is important to know the importance of caring for animals.
+
+Step 272/330
+>> English - Persian
+	دانستن اهمیت مراقبت از حیوانات مهم است.
+
+Step 273/330
+>> Persian - Kazakh
+	Жануарларға күтім жасаудың маңыздылығын білу керек.
+
+Step 274/330
+>> Kazakh - English
+	It is important to know the importance of animal care.
+
+Step 275/330
+>> English - Malay
+	Adalah penting untuk mengetahui kepentingan penjagaan haiwan.
+
+Step 276/330
+>> Malay - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات الأليفة.
+
+Step 277/330
+>> Arabic - Spanish
+	Es importante saber la importancia del cuidado de las mascotas.
+
+Step 278/330
+>> Spanish - English
+	It is important to know the importance of pet care.
+
+Step 279/330
+>> English - Russian
+	Важно знать важность ухода за питомцами.
+
+Step 280/330
+>> Russian - Romanian
+	Este important să cunoaștem importanța îngrijirii animalelor de companie.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Важно е да знаете значението на грижите за домашните любимци.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Shtë e rëndësishme të dini rëndësinë e kujdesit për kafshët shtëpiake.
+
+Step 283/330
+>> Albanian - Russian
+	Важно знать важность ухода за домашними животными.
+
+Step 284/330
+>> Russian - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات الأليفة.
+
+Step 285/330
+>> Arabic - Spanish
+	Es importante saber la importancia del cuidado de las mascotas.
+
+Step 286/330
+>> Spanish - Croatian
+	Važno je znati važnost njege kućnih ljubimaca.
+
+Step 287/330
+>> Croatian - Hungarian
+	Fontos tudni a kedvtelésből tartott állatok gondozásának fontosságát.
+
+Step 288/330
+>> Hungarian - Spanish
+	Es importante saber la importancia de cuidar a las mascotas.
+
+Step 289/330
+>> Spanish - Arabic
+	من المهم أن تعرف أهمية رعاية الحيوانات الأليفة.
+
+Step 290/330
+>> Arabic - Portuguese
+	É importante conhecer a importância dos cuidados com os animais.
+
+Step 291/330
+>> Portuguese - Latvian
+	Ir svarīgi zināt dzīvnieku aprūpes nozīmi.
+
+Step 292/330
+>> Latvian - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات.
+
+Step 293/330
+>> Arabic - Malay
+	Adalah penting untuk mengetahui kepentingan menjaga haiwan.
+
+Step 294/330
+>> Malay - Slovak
+	Je dôležité poznať dôležitosť starostlivosti o zvieratá.
+
+Step 295/330
+>> Slovak - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Svarbu žinoti, kaip svarbu rūpintis gyvūnais.
+
+Step 297/330
+>> Lithuanian - Catalan
+	És important conèixer la importància de tenir cura dels animals.
+
+Step 298/330
+>> Catalan - Arabic
+	من المهم معرفة أهمية رعاية الحيوانات.
+
+Step 299/330
+>> Arabic - Polish
+	Ważne jest, aby znać znaczenie opieki nad zwierzętami.
+
+Step 300/330
+>> Polish - Turkish
+	Hayvan bakımının önemini bilmek önemlidir.
+
+Step 301/330
+>> Turkish - Greek
+	Είναι σημαντικό να γνωρίζουμε τη σημασία της φροντίδας των ζώων.
+
+Step 302/330
+>> Greek - Estonian
+	Oluline on teada loomahoolduse tähtsust.
+
+Step 303/330
+>> Estonian - Maltese
+	Huwa importanti li tkun taf l-importanza tal-kura tal-annimali.
+
+Step 304/330
+>> Maltese - Italian
+	E 'importante conoscere l'importanza della cura degli animali.
+
+Step 305/330
+>> Italian - Czech
+	Je důležité znát důležitost péče o zvířata.
+
+Step 306/330
+>> Czech - Spanish
+	Es importante saber la importancia del bienestar animal.
+
+Step 307/330
+>> Spanish - Slovenian
+	Pomembno je poznati pomen dobrega počutja živali.
+
+Step 308/330
+>> Slovenian - French
+	Il est important de connaître l'importance du bien-être animal.
+
+Step 309/330
+>> French - Korean
+	동물 복지의 중요성을 아는 것이 중요합니다.
+
+Step 310/330
+>> Korean - Hebrew
+	חשוב לדעת את חשיבות רווחת בעלי החיים.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Et ass wichteg d'Wichtegkeet vum Déiereschutz ze wëssen.
+
+Step 312/330
+>> Luxembourgish - German
+	Es ist wichtig, die Bedeutung des Tierschutzes zu kennen.
+
+Step 313/330
+>> German - Japanese
+	動物福祉の重要性を知ることは重要です。
+
+Step 314/330
+>> Japanese - German
+	Es ist wichtig, die Bedeutung des Tierschutzes zu kennen.
+
+Step 315/330
+>> German - Dutch
+	Het is belangrijk om het belang van dierenwelzijn te kennen.
+
+Step 316/330
+>> Dutch - Maori
+	He mea nui kia mohiohia te hiranga o te oranga kararehe.
+
+Step 317/330
+>> Maori - Finnish
+	On tärkeää ymmärtää eläinten hyvinvoinnin merkitys.
+
+Step 318/330
+>> Finnish - English
+	It is important to understand the importance of animal welfare.
+
+Step 319/330
+>> English - Danish
+	Det er vigtigt at forstå vigtigheden af dyrevelfærd.
+
+Step 320/330
+>> Danish - Dutch
+	Het is belangrijk om het belang van dierenwelzijn te begrijpen.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	了解動物福利的重要性非常重要。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Det är viktigt att förstå djurens välfärd.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	了解動物的福利很重要。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Það er mikilvægt að skilja velferð dýra.
+
+Step 325/330
+>> Icelandic - German
+	Es ist wichtig, das Wohlergehen der Tiere zu verstehen.
+
+Step 326/330
+>> German - Irish
+	Tá sé tábhachtach leas na n-ainmhithe a thuiscint.
+
+Step 327/330
+>> Irish - English
+	It is important to understand the welfare of animals.
+
+Step 328/330
+>> English - German
+	Es ist wichtig, das Wohlergehen der Tiere zu verstehen.
+
+Step 329/330
+>> German - Norwegian
+	Det er viktig å forstå dyrenes velferd.
+
+Step 330/330
+>> Norwegian - Portuguese
+	É importante entender o bem-estar dos animais.
+
+
+##### RESULTS ######
+
+“Para te mostrar, continuou Zobeida muito gravemente, que o que de ti exigimos não foi estabelecido recentemente por nós, levanta-te e vai ler o que está escrito por cima da nossa porta, do lado de dentro.”
+
+É importante entender o bem-estar dos animais.

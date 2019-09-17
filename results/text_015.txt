@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Zobeida, aproximando-se das duas damas, disse-lhes: “Minhas irmãs, não estais vendo que este bom homem sucumbe ao peso que carrega? Que esperais para dele o livrar?” Amina e Safia, então, pegaram o cesto, uma pela frente, outra por trás. Zobeida ajudou-as, e as três o pousaram sobre o chão. Em seguida, começaram a esvaziá-lo; e quando acabaram, a agradável Amina pagou generosamente o carregador...
+
+Step 1/330
+>> Portuguese - Norwegian
+	Zobeida nærmet seg de to kvinnene og sa til dem: “Mine søstre, ser du ikke at denne gode mannen går under for vekten han bærer? Hva forventer du å bli kvitt ham? ”Amina og Safia tok deretter kurven, en foran, en bakfra. Zobeida hjalp dem, og de tre landet ham på gulvet. Så begynte de å tømme den; og da de var ferdige, betalte den hyggelige Amina sjenerøst portieren ...
+
+Step 2/330
+>> Norwegian - German
+	Zobeida näherte sich den beiden Frauen und sagte zu ihnen: „Meine Schwestern, sehen Sie nicht, dass dieser gute Mann Gewicht verliert? Was erwartest du, um ihn loszuwerden? „Amina und Safia haben dann den Korb genommen, einen vorne, einen hinten. Zobeida half ihnen und die drei landeten ihn auf dem Boden. Dann fingen sie an, es zu leeren; und als sie fertig waren, bezahlte die nette Amina den Portier großzügig ...
+
+Step 3/330
+>> German - English
+	Zobeida approached the two women and said to them: "My sisters, do not you see that this good man loses weight? What do you expect to get rid of him? "Amina and Safia then took the basket, one in front, one in the back. Zobeida helped them and the three landed him on the ground. Then they started to empty it; and when they were done, the nice Amina paid the porter generously ...
+
+Step 4/330
+>> English - Irish
+	Chuaigh Zobeida i dteagmháil leis an mbeirt bhan agus dúirt sé leo: "Mo dheirfiúracha, ná feiceann tú go gcailleann an fear maith seo meáchan? Cad a bhí tú ag súil le fáil réidh leis?" an chúl. Chabhraigh Zobeida leo agus thuirling na trí cinn é ar an talamh. Ansin thosaigh siad á fholmhú; agus nuair a rinneadh iad, d'íoc an deas Amina an tairge go fial ...
+
+Step 5/330
+>> Irish - German
+	Zobeida kontaktierte die beiden Frauen und sagte ihnen: "Meine Schwestern, siehst du nicht, dass dieser gute Mann an Gewicht verliert? Was hast du erwartet loszuwerden?" die Rückseite. Zobeida half ihnen und die drei landeten auf dem Boden. Dann fingen sie an, es zu leeren; und als sie gemacht wurden, zahlte Amina das Angebot großzügig.
+
+Step 6/330
+>> German - Icelandic
+	Zobeida hafði samband við konurnar tvær og sagði við þær: „Systur mínar, sérðu ekki að þessi góði maður léttist? Hvað bjóstu við að losna við?“ bakinu. Zobeida hjálpaði þeim og þeir þrír lentu á jörðu niðri. Síðan fóru þeir að tæma það; og þegar þær voru gerðar greiddi Amina ríkulega tilboðið.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	佐貝達聯繫了這兩個女人並對他們說：“我姐姐，你看不出這個好男人減肥嗎？你期望擺脫什麼？“ Zobeida幫助了他們，他們三人降落在地面上。然後他們開始清空它;當他們完成時，Amina慷慨地支付了報價。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Zobeda kontaktade de två kvinnorna och sa till dem: "Min syster, kan du inte se den här goda mannen gå ner i vikt? Vad förväntar du dig att bli av med?" Zobeida hjälpte dem, och de tre landade på marken. Sedan började de tömma det; när de var klar betalade Amina generöst erbjudandet.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	佐貝達聯繫了這兩個女人，並對他們說：“我姐姐，難道你不能看到這個好男人減肥嗎？你期望擺脫什麼？” Zobeida幫助他們，三人降落在地面上。然後他們開始清空它;當他們完成時，Amina慷慨地支付了報價。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Zobeda nam contact op met de twee vrouwen en zei tegen hen: "Mijn zuster, zie je deze goede man niet afvallen? Wat verwacht je kwijt te raken?" Zobeida hielp hen en de drie landden op de grond. Toen begonnen ze het te legen; toen ze klaar waren, betaalde Amina het aanbod royaal.
+
+Step 11/330
+>> Dutch - Danish
+	Zobeda kontaktede de to kvinder og sagde til dem: "Min søster, kan du ikke se denne gode mand tabe sig? Hvad forventer du at miste?" Zobeida hjalp dem, og de tre landede på jorden. Så begyndte de at tømme det; da de var færdige, betalte Amina generøst for tilbuddet.
+
+Step 12/330
+>> Danish - English
+	Zobeda contacted the two women and said to them, "My sister, don't you see this good man losing weight? What do you expect to lose?" Zobeida helped them and the three landed on the ground. Then they began to empty it; when they were done, Amina generously paid for the offer.
+
+Step 13/330
+>> English - Finnish
+	Zobeda otti yhteyttä kahteen naiseen ja sanoi heille: "Sisareni, etkö näe tätä hyvää miestä laihduttamassa? Mitä odotat menettää?" Zobeida auttoi heitä ja kolme laskeutuivat maahan. Sitten he alkoivat tyhjentää sitä; kun ne tehtiin, Amina maksoi anteliaasti tarjouksesta.
+
+Step 14/330
+>> Finnish - Maori
+	Ka korero a Zobeda ki nga wahine e rua, ka mea ki a raua, "E taaku, kaore koe e kite i tenei taangata pai e ngaro ana te taumaha? He aha kei te tatari koe kia ngaro?" I awhina a Zobeida ia ratou e toru kei runga i te whenua. Katahi ka anga ratou ka whakakahoretia. i te wa i mahia ai, ka utua e Amina te utu.
+
+Step 15/330
+>> Maori - Dutch
+	Zobeda sprak tot de twee vrouwen en zei tegen hen: "Meneer, vindt u deze aardige vent niet afvallen? Waar wacht u op te verliezen?" Zobeida hielp drie van hen op de grond. En ze begonnen er niets mee te maken te hebben. toen dat klaar was, betaalde Amina de prijs.
+
+Step 16/330
+>> Dutch - German
+	Zobeda sprach mit den beiden Frauen und sagte zu ihnen: "Sir, glauben Sie nicht, dass dieser nette Kerl abnehmen wird? Worauf warten Sie noch?" Zobeida half drei von ihnen vor Ort. Und sie fingen an, nichts damit zu tun zu haben. als das erledigt war, bezahlte Amina den Preis.
+
+Step 17/330
+>> German - Japanese
+	ゾーベダは二人の女性に話しかけ、彼らに言った。ゾベイダは地上で3人を助けました。そして、彼らはそれとは何の関係もないようになりました。それが行われたとき、アミナは代価を支払った。
+
+Step 18/330
+>> Japanese - German
+	Sobeda sprach mit den beiden Frauen und sagte es ihnen. Zovaida half drei Menschen vor Ort. Und sie haben nichts damit zu tun. Als es fertig war, bezahlte Amina den Preis.
+
+Step 19/330
+>> German - Luxembourgish
+	De Sobeda huet mat den zwou Fraen geschwat an hinne gesot. Zovaida huet dräi lokal Leit gehollef. A si hunn näischt domadder ze dinn. Wann et fäerdeg war, huet d'Amina de Präis bezuelt.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	סובדה דיבר עם שתי הנשים וסיפר להן. זוביידה עזר לשלושה תושבים מקומיים. והם לא קשורים לזה. בסיום שילמה אמינה את המחיר.
+
+Step 21/330
+>> Hebrew - Korean
+	Sobda는 두 여자와 이야기를 나 told습니다. Zubeida는 3 명의 지역 주민을 도왔습니다. 그리고 그들은 관련이 없습니다. 결국 Amina는 가격을 지불했습니다.
+
+Step 22/330
+>> Korean - French
+	Sobda a parlé à deux femmes. Zubeida a aidé trois habitants. Et ils ne sont pas liés. En fin de compte, Amina a payé le prix.
+
+Step 23/330
+>> French - Slovenian
+	Sobda je govorila z dvema ženskama. Zubeida je pomagala trem prebivalcem. In nista v sorodu. Amina je na koncu plačala ceno.
+
+Step 24/330
+>> Slovenian - Spanish
+	Sobda habló con dos mujeres. Zubeida ayudó a tres residentes. Y no están relacionados. Amina finalmente pagó el precio.
+
+Step 25/330
+>> Spanish - Czech
+	Sobda mluvil se dvěma ženami. Zubeida pomohl třem obyvatelům. A nejsou ve spojení. Amina nakonec zaplatila cenu.
+
+Step 26/330
+>> Czech - Italian
+	Sobda ha parlato con due donne. Zubeida ha aiutato tre residenti. E non sono collegati. Alla fine Amin ha pagato il prezzo.
+
+Step 27/330
+>> Italian - Maltese
+	Sobda tkellmet ma 'żewġ nisa. Zubeida għen tliet residenti. U mhumiex konnessi. Fl-aħħar Amin ħallset il-prezz.
+
+Step 28/330
+>> Maltese - Estonian
+	Sobda rääkis kaks naist. Zubeida aitas kolm elanikud. Ja ei ole ühendatud. Lõpuks Amin makstud hind.
+
+Step 29/330
+>> Estonian - Greek
+	Η Sobda μίλησε σε δύο γυναίκες. Η Zubeida επικουρείται από τρεις κατοίκους. Και δεν είναι συνδεδεμένο. Τέλος, η Amin κατέβαλε την τιμή.
+
+Step 30/330
+>> Greek - Turkish
+	Sobda iki kadınla konuştu. Zubeida üç sakin tarafından desteklenir. Ve bağlı değil. Sonunda, Amin bedelini ödedi.
+
+Step 31/330
+>> Turkish - Polish
+	Rozmawiał z dwiema kobietami przy kuchence. Zubeida jest obsługiwana przez trzech mieszkańców. I nie podłączony. W końcu Amin zapłacił cenę.
+
+Step 32/330
+>> Polish - Arabic
+	تحدث إلى امرأتين في الموقد. يخدم زبيدة ثلاثة من السكان. وليس متصلا. في النهاية دفع أمين الثمن.
+
+Step 33/330
+>> Arabic - Catalan
+	Parla amb dues dones de la cuina. Zubaydah atén tres residents. I no està connectat. Al final, el secretari va pagar el preu.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Kalbėkitės su dviem moterimis virtuvėje. Zubaydah lanko tris gyventojus. Ir tai nėra sujungta. Galų gale sekretorė sumokėjo kainą.
+
+Step 35/330
+>> Lithuanian - Arabic
+	تحدث إلى امرأتين في المطبخ. زبيدة تزور ثلاثة من سكانها. إنه غير متصل. في النهاية ، دفع الوزير الثمن.
+
+Step 36/330
+>> Arabic - Slovak
+	Porozprávajte sa s dvoma ženami v kuchyni. Zubaida navštevuje troch svojich obyvateľov. Je offline. Nakoniec minister zaplatil cenu.
+
+Step 37/330
+>> Slovak - Malay
+	Bercakap dengan dua wanita di dapur. Zubaida melawat tiga penduduknya. Ia di luar talian. Akhirnya, Menteri membayar harga.
+
+Step 38/330
+>> Malay - Arabic
+	تحدث إلى امرأتين في المطبخ. زبيدة زار سكانه الثلاثة. إنه غير متصل. وأخيرا ، دفع الوزير الثمن.
+
+Step 39/330
+>> Arabic - Latvian
+	Sarunājieties ar divām sievietēm virtuvē. Zubaydah apmeklēja savus trīs iedzīvotājus. Tas ir bezsaistē. Visbeidzot ministrs samaksāja cenu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Converse com duas mulheres na cozinha. Zubaydah visitou seus três habitantes. Está offline. Finalmente, o ministro pagou o preço.
+
+Step 41/330
+>> Portuguese - Arabic
+	تحدث إلى امرأتين في المطبخ. زبيدة زار سكانها الثلاثة. إنه غير متصل. وأخيرا ، دفع الوزير الثمن.
+
+Step 42/330
+>> Arabic - Spanish
+	Habla con dos mujeres en la cocina. Zubaydah visitó a sus tres habitantes. Esta fuera de linea Finalmente, el ministro pagó el precio.
+
+Step 43/330
+>> Spanish - Hungarian
+	Beszélj két nővel a konyhában. Zubaydah meglátogatta három lakosát. Ez offline állapotban van. Végül a miniszter megfizette az árat.
+
+Step 44/330
+>> Hungarian - Croatian
+	Razgovarajte s dvije žene u kuhinji. Zubejda je posjetio svoja tri stanovnika. Ovo je offline. Na kraju je ministar platio cijenu.
+
+Step 45/330
+>> Croatian - Spanish
+	Habla con dos mujeres en la cocina. Zubejda visitó a sus tres residentes. Esto está fuera de línea. Al final, el ministro pagó el precio.
+
+Step 46/330
+>> Spanish - Arabic
+	تحدث إلى امرأتين في المطبخ. زار زبيدة سكانه الثلاثة. هذا غير متصل. في النهاية ، دفع الوزير الثمن.
+
+Step 47/330
+>> Arabic - Russian
+	Поговорите с двумя женщинами на кухне. Зубайда посетил своих трех жителей. Это в автономном режиме. В итоге министр заплатил цену.
+
+Step 48/330
+>> Russian - Albanian
+	Bisedoni me dy gra në kuzhinë. Zubaida vizitoi tre banorët e tij. Isshtë jashtë linje. Si rezultat, ministri pagoi çmimin.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Говорете с две жени в кухнята. Зубайда посети тримата си жители. Това е офлайн. В резултат на това министърът плати цената.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Vorbeste cu doua femei din bucatarie. Zubaida și-a vizitat cei trei rezidenți. Aceasta este offline. Drept urmare, ministrul a plătit prețul.
+
+Step 51/330
+>> Romanian - Russian
+	Поговорите с двумя женщинами на кухне. Зубайда посетила своих трех жителей. Это в автономном режиме. В результате министр заплатил цену.
+
+Step 52/330
+>> Russian - English
+	Talk to two women in the kitchen. Zubaida visited her three inhabitants. It is offline. As a result, the minister paid the price.
+
+Step 53/330
+>> English - Spanish
+	Habla con dos mujeres en la cocina. Zubaida visitó a sus tres habitantes. Esta fuera de linea Como resultado, el ministro pagó el precio.
+
+Step 54/330
+>> Spanish - Arabic
+	تحدث إلى امرأتين في المطبخ. زبيدة زار سكانها الثلاثة. غير متصل ونتيجة لذلك ، دفع الوزير الثمن.
+
+Step 55/330
+>> Arabic - Malay
+	Bercakap dengan dua wanita di dapur. Zubaydah melawat tiga penduduknya. Akibatnya, menteri membayar harga.
+
+Step 56/330
+>> Malay - English
+	Talk to two women in the kitchen. Zubaydah visited his three residents. As a result, the minister paid the price.
+
+Step 57/330
+>> English - Kazakh
+	Ас үйдегі екі әйелмен сөйлесіңіз. Зубайда үш тұрғынына қонаққа келді. Нәтижесінде министр бағаны төледі.
+
+Step 58/330
+>> Kazakh - Persian
+	با دو زن در آشپزخانه صحبت کنید. آروبا به دیدار سه نفر از ساکنان آمد. در نتیجه وزیر قیمت آن را پرداخت کرد.
+
+Step 59/330
+>> Persian - English
+	Talk to two women in the kitchen. Aruba met with three residents. As a result, the minister paid the price.
+
+Step 60/330
+>> English - French
+	Parlez à deux femmes dans la cuisine. Aruba a rencontré trois résidents. En conséquence, le ministre a payé le prix.
+
+Step 61/330
+>> French - Spanish
+	Habla con dos mujeres en la cocina. Aruba se reunió con tres residentes. Como resultado, el ministro pagó el precio.
+
+Step 62/330
+>> Spanish - Turkish
+	Mutfakta iki kadınla konuş. Aruba üç sakinle bir araya geldi. Sonuç olarak, bakan bedelini ödedi.
+
+Step 63/330
+>> Turkish - English
+	Talk to two women in the kitchen. Aruba met with three residents. As a result, the minister paid the price.
+
+Step 64/330
+>> English - Spanish
+	Habla con dos mujeres en la cocina. Aruba se reunió con tres residentes. Como resultado, el ministro pagó el precio.
+
+Step 65/330
+>> Spanish - Serbian
+	Разговарајте са двема женама у кухињи. Аруба се састала са три становника. Као резултат тога, министар је платио цену.
+
+Step 66/330
+>> Serbian - Albanian
+	Bisedoni me dy gra në kuzhinë. Aruba u takua me tre banorë. Si rezultat, ministri pagoi çmimin.
+
+Step 67/330
+>> Albanian - English
+	Talk to two women in the kitchen. Aruba met with three residents. As a result, the minister paid the price.
+
+Step 68/330
+>> English - Georgian
+	სამზარეულოში ორ ქალს ესაუბრეთ. არუბა სამ მოსახლეობას შეხვდა. შედეგად, მინისტრმა გადაიხადა ფასი.
+
+Step 69/330
+>> Georgian - English
+	Talk to two women in the kitchen. Aruba met with three residents. As a result, the minister paid the price.
+
+Step 70/330
+>> English - Spanish
+	Habla con dos mujeres en la cocina. Aruba se reunió con tres residentes. Como resultado, el ministro pagó el precio.
+
+Step 71/330
+>> Spanish - English
+	Talk to two women in the kitchen. Aruba met with three residents. As a result, the minister paid the price.
+
+Step 72/330
+>> English - Sinhala
+	කුස්සියේ සිටින කාන්තාවන් දෙදෙනෙකු සමඟ කතා කරන්න. අරුබා නිවැසියන් තිදෙනෙකු හමුවිය. එහි ප්‍රති the ලයක් ලෙස ඇමතිවරයා එහි මිල ගෙවීය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Razgovarajte sa dvema ženama u kuhinji. Upoznala su se tri stanovnika Arube. Zauzvrat je ministar platio cijenu.
+
+Step 74/330
+>> Bosnian - Spanish
+	Habla con dos mujeres en la cocina. Tres residentes de Aruba se reunieron. A cambio, el ministro pagó el precio.
+
+Step 75/330
+>> Spanish - Portuguese
+	Converse com duas mulheres na cozinha. Três residentes de Aruba se conheceram. Em troca, o ministro pagou o preço.
+
+Step 76/330
+>> Portuguese - Arabic
+	تحدث إلى امرأتين في المطبخ. التقى ثلاثة من سكان أروبا. في المقابل ، دفع الوزير الثمن.
+
+Step 77/330
+>> Arabic - Macedonian
+	Разговарајте со две жени во кујната. Тој се сретна со тројца жители на Аруба. За возврат, министерот ја плати цената.
+
+Step 78/330
+>> Macedonian - Armenian
+	Խոսեք խոհանոցում գտնվող երկու կանանց հետ: Նա հանդիպել է Արուբայի երեք բնակիչների հետ: Դրա դիմաց նախարարը վճարեց գինը:
+
+Step 79/330
+>> Armenian - Thai
+	คุยกับผู้หญิงสองคนในครัว เขาพบชาวอารูบาสามคน รัฐมนตรีจ่ายราคาให้มัน
+
+Step 80/330
+>> Thai - Arabic
+	تحدث إلى امرأتين في المطبخ التقى ثلاثة أروبا الناس. دفع الوزير ثمنها.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	三个阿鲁巴人在厨房里对两个女人说话。部长支付了费用。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Tres personas de Aruba hablaron con dos mujeres en la cocina. El ministro pagó la tarifa.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Три людини з Аруби розмовляли з двома жінками на кухні. Міністр сплатив гонорар.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Tres personas de Aruba estaban hablando con dos mujeres en la cocina. El ministro pagó la tarifa.
+
+Step 85/330
+>> Spanish - English
+	Three people from Aruba were talking with two women in the kitchen. The minister paid the fee.
+
+Step 86/330
+>> English - Mongolian
+	Арубагийн гурван хүн гал тогооны өрөөнд хоёр эмэгтэйтэй ярилцаж байв. Сайд төлбөрөө төлсөн.
+
+Step 87/330
+>> Mongolian - Spanish
+	Tres hombres en Aruba estaban hablando con dos mujeres en la cocina. El ministro pagó su factura.
+
+Step 88/330
+>> Spanish - Arabic
+	ثلاثة رجال في أروبا كانوا يتحدثون مع امرأتين في المطبخ. دفع الوزير فاتوره.
+
+Step 89/330
+>> Arabic - Kurdish
+	Li Aruba sê zilam bi du jinan re di mitbaxê de axivîn. Wezîr baca xwe da.
+
+Step 90/330
+>> Kurdish - English
+	In Aruba, three men spoke with two women in the car. The Minister paid his tax.
+
+Step 91/330
+>> English - Dutch
+	Op Aruba spraken drie mannen met twee vrouwen in de auto. De minister heeft zijn belasting betaald.
+
+Step 92/330
+>> Dutch - English
+	In Aruba, three men spoke with two women in the car. The minister has paid his tax.
+
+Step 93/330
+>> English - Samoan
+	I Aruba, e toatolu alii na talanoa ma tamaitai e toalua i totonu o le taavale. Ua totogi e le faifeau lana lafoga.
+
+Step 94/330
+>> Samoan - Uzbek
+	Arubada uch erkak mashinada ikki ayol bilan gaplashdi. Pastor soliqlarini to'laydi.
+
+Step 95/330
+>> Uzbek - English
+	In Aruba, three men spoke with two women in a car. The pastor pays taxes.
+
+Step 96/330
+>> English - Arabic
+	في أروبا ، تحدث ثلاثة رجال مع امرأتين في سيارة. القس يدفع الضرائب.
+
+Step 97/330
+>> Arabic - French
+	À Aruba, trois hommes ont parlé avec deux femmes dans une voiture. Le pasteur paie des taxes.
+
+Step 98/330
+>> French - Spanish
+	En Aruba, tres hombres hablaron con dos mujeres en un automóvil. El pastor paga impuestos.
+
+Step 99/330
+>> Spanish - Romanian
+	În Aruba, trei bărbați au discutat cu două femei într-o mașină. Pastorul plătește impozite.
+
+Step 100/330
+>> Romanian - Filipino
+	Sa Aruba, tatlong lalaki ang nakipag-usap sa dalawang babae sa isang kotse. Nagbabayad ang pastor ng buwis.
+
+Step 101/330
+>> Filipino - Zulu
+	E-Aruba, amadoda amathathu akhulume nabesifazane ababili emotweni. Umfundisi ukhokha intela.
+
+Step 102/330
+>> Zulu - Arabic
+	في أروبا ، تحدث ثلاثة رجال إلى امرأتين في سيارة. المحاضر يدفع الضرائب.
+
+Step 103/330
+>> Arabic - Indonesian
+	Di Aruba, tiga pria berbicara kepada dua wanita di mobil. Perekam membayar pajak.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Ở Aruba, ba người đàn ông nói chuyện với hai người phụ nữ trong một chiếc ô tô. Máy ghi âm nộp thuế.
+
+Step 105/330
+>> Vietnamese - Spanish
+	En Aruba, tres hombres hablan con dos mujeres en un automóvil. Registrador pagar impuestos.
+
+Step 106/330
+>> Spanish - Arabic
+	في أروبا ، يتحدث ثلاثة رجال مع امرأتين في سيارة. المسجل دفع الضرائب.
+
+Step 107/330
+>> Arabic - Spanish
+	En Aruba, tres hombres hablan con dos mujeres en un automóvil. Registrar pagar impuestos.
+
+Step 108/330
+>> Spanish - Russian
+	На Арубе трое мужчин разговаривают с двумя женщинами в машине. Регистр плати налоги.
+
+Step 109/330
+>> Russian - Arabic
+	في أروبا ، يتحدث ثلاثة رجال مع امرأتين في سيارة. سجل دفع الضرائب.
+
+Step 110/330
+>> Arabic - Spanish
+	En Aruba, tres hombres hablan con dos mujeres en un automóvil. Registro de pago de impuestos.
+
+Step 111/330
+>> Spanish - Portuguese
+	Em Aruba, três homens conversam com duas mulheres em um carro. Registro de pagamento de impostos.
+
+Step 112/330
+>> Portuguese - English
+	In Aruba, three men talk to two women in a car. Tax payment record.
+
+Step 113/330
+>> English - Spanish
+	En Aruba, tres hombres hablan con dos mujeres en un automóvil. Registro de pago de impuestos.
+
+Step 114/330
+>> Spanish - English
+	In Aruba, three men talk to two women in a car. Tax payment record.
+
+Step 115/330
+>> English - Hindi
+	अरूबा में, तीन पुरुष एक कार में दो महिलाओं से बात करते हैं। कर भुगतान रिकॉर्ड।
+
+Step 116/330
+>> Hindi - Portuguese
+	Em Aruba, três homens conversam com duas mulheres em um carro. Registro de pagamento de impostos.
+
+Step 117/330
+>> Portuguese - Spanish
+	En Aruba, tres hombres hablan con dos mujeres en un automóvil. Registro de pago de impuestos.
+
+Step 118/330
+>> Spanish - English
+	In Aruba, three men talk to two women in a car. Tax payment record.
+
+Step 119/330
+>> English - Bengali
+	আরুবায় তিনজন পুরুষ গাড়িতে করে দু'জন মহিলার সাথে কথা বলছেন। কর প্রদানের রেকর্ড।
+
+Step 120/330
+>> Bengali - French
+	À Aruba, trois hommes parlent à deux femmes dans une voiture. Registre de paiement des taxes.
+
+Step 121/330
+>> French - lao
+	ໃນ Aruba, ຜູ້ຊາຍສາມຄົນເວົ້າລົມກັບແມ່ຍິງສອງຄົນໃນລົດ. ລົງທະບຽນການຈ່າຍອາກອນ.
+
+Step 122/330
+>> lao - English
+	In Aruba, three men talked to two women in a car. Register tax payment.
+
+Step 123/330
+>> English - Portuguese
+	Em Aruba, três homens conversaram com duas mulheres em um carro. Registre o pagamento de impostos.
+
+Step 124/330
+>> Portuguese - English
+	In Aruba, three men talked to two women in a car. Record the tax payment.
+
+Step 125/330
+>> English - Portuguese
+	Em Aruba, três homens conversaram com duas mulheres em um carro. Registre o pagamento do imposto.
+
+Step 126/330
+>> Portuguese - English
+	In Aruba, three men talked to two women in a car. Record the tax payment.
+
+Step 127/330
+>> English - Portuguese
+	Em Aruba, três homens conversaram com duas mulheres em um carro. Registre o pagamento do imposto.
+
+Step 128/330
+>> Portuguese - Burmese
+	အယူးဘားများတွင်လူသုံးယောက်တစ်ဦးကားထဲတွင်အမျိုးသမီးနှစ်ဦးနှင့်ပြောဆိုသော။ အခွန်များ၏ငွေပေးချေမှုကိုအသံဖမ်း။
+
+Step 129/330
+>> Burmese - Nepali
+	आरूबा तीन मान्छे एक कार मा दुई महिला संग कुरा। कर भुक्तानी रेकर्ड।
+
+Step 130/330
+>> Nepali - Urdu
+	اروبا تین لڑکوں نے دو خواتین سے ایک کار میں بات کی۔ ٹیکس ادائیگی کے ریکارڈ
+
+Step 131/330
+>> Urdu - French
+	Aruba Trois garçons parlent à deux femmes dans une voiture. Registres de paiement des taxes
+
+Step 132/330
+>> French - English
+	Aruba Three boys talk to two women in a car. Tax Payment Registers
+
+Step 133/330
+>> English - Swahili
+	Wavulana watatu wanazungumza na wanawake wawili kwenye gari. Usajili wa Malipo ya Ushuru
+
+Step 134/330
+>> Swahili - Arabic
+	ثلاثة أولاد يتحدثون إلى امرأتين في سيارة. تسجيل المدفوعات الضريبية
+
+Step 135/330
+>> Arabic - Shona
+	Vakomana vatatu vanotaura nevakadzi vaviri mumota. Rekodha kubhadhara mutero
+
+Step 136/330
+>> Shona - Hausa
+	Yaran uku suna magana da mata biyu a cikin mota. Yi rikodin biyan haraji
+
+Step 137/330
+>> Hausa - Swahili
+	Watoto hao watatu walikuwa wanaongea na wanawake wawili kwenye gari. Rekodi malipo ya ushuru
+
+Step 138/330
+>> Swahili - English
+	The three children were talking to two women in the car. Record the tax payment
+
+Step 139/330
+>> English - Arabic
+	كان الأطفال الثلاثة يتحدثون إلى امرأتين في السيارة. سجل دفع الضريبة
+
+Step 140/330
+>> Arabic - Malagasy
+	Izy telo mianadahy dia niresaka tamina vehivavy roa tao anaty fiara. Soraty ny fandoavan-ketra
+
+Step 141/330
+>> Malagasy - Swahili
+	Watoto hao watatu walizungumza na wanawake wawili kwenye gari. Andika malipo ya ushuru
+
+Step 142/330
+>> Swahili - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Ecrire un paiement de taxe
+
+Step 143/330
+>> French - Arabic
+	تحدث الأطفال الثلاثة إلى امرأتين في السيارة. اكتب دفعة ضريبية
+
+Step 144/330
+>> Arabic - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Tapez un paiement de taxe
+
+Step 145/330
+>> French - Arabic
+	تحدث الأطفال الثلاثة إلى امرأتين في السيارة. أدخل دفعة الضرائب
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Twa timoun yo te pale ak de fanm nan machin nan. Antre peman taks ou
+
+Step 147/330
+>> Haitian Creole - Pashto
+	درې ماشومانو په موټر کې دوو میرمنو سره خبرې وکړې. خپل مالیه تادیه کړئ
+
+Step 148/330
+>> Pashto - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Payer vos impôts
+
+Step 149/330
+>> French - Chichewa
+	Ana atatuwo analankhula ndi azimayi awiri mgalimoto. Pereka misonkho
+
+Step 150/330
+>> Chichewa - Arabic
+	تحدث الأطفال الثلاثة إلى امرأتين في السيارة. دفع الضرائب الخاصة بك
+
+Step 151/330
+>> Arabic - Amharic
+	ሦስቱ ልጆች በመኪናው ውስጥ ለሁለት ሴቶች አነጋግራቸው ፡፡ ግብሮችዎን ይክፈሉ።
+
+Step 152/330
+>> Amharic - English
+	The three children spoke to two women in the car. Pay your taxes.
+
+Step 153/330
+>> English - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 154/330
+>> French - Swahili
+	Watoto hao watatu walizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 155/330
+>> Swahili - Portuguese
+	Os três filhos conversaram com duas mulheres no carro. Pague seus impostos.
+
+Step 156/330
+>> Portuguese - Arabic
+	تحدث الأطفال الثلاثة إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 157/330
+>> Arabic - Portuguese
+	Os três filhos conversaram com duas mulheres no carro. Pague seus impostos.
+
+Step 158/330
+>> Portuguese - English
+	The three children talked to two women in the car. Pay your taxes.
+
+Step 159/330
+>> English - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 160/330
+>> French - English
+	The three children talked to two women in the car. Pay your taxes.
+
+Step 161/330
+>> English - Swahili
+	Watoto hao watatu walizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 162/330
+>> Swahili - Arabic
+	تحدث الأطفال الثلاثة إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 163/330
+>> Arabic - Arabic
+	The three children spoke to two women in the car. Pay your taxes.
+
+Step 164/330
+>> Arabic - French
+	Les trois enfants ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 165/330
+>> French - Hausa
+	Yaran sun yi magana da mata biyu a cikin motar. Biyan harajin ku.
+
+Step 166/330
+>> Hausa - French
+	Les garçons ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 167/330
+>> French - Arabic
+	The boys spoke to two women in the car. Pay your taxes.
+
+Step 168/330
+>> Arabic - Arabic
+	تحدث الأولاد إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 169/330
+>> Arabic - Swahili
+	Wavulana walizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 170/330
+>> Swahili - English
+	The boys talked to two women in the car. Pay your taxes.
+
+Step 171/330
+>> English - French
+	Les garçons ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 172/330
+>> French - English
+	The boys spoke to two women in the car. Pay your taxes.
+
+Step 173/330
+>> English - Portuguese
+	Os meninos conversaram com duas mulheres no carro. Pague seus impostos.
+
+Step 174/330
+>> Portuguese - Arabic
+	تحدث الأولاد إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 175/330
+>> Arabic - Portuguese
+	Os meninos conversaram com duas mulheres no carro. Pague seus impostos.
+
+Step 176/330
+>> Portuguese - Swahili
+	Wavulana walizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 177/330
+>> Swahili - French
+	Les garçons ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 178/330
+>> French - English
+	The boys spoke to two women in the car. Pay your taxes.
+
+Step 179/330
+>> English - Amharic
+	ወንዶቹ መኪና ውስጥ ሁለት ሴቶችን አነጋገሯቸው ፡፡ ግብሮችዎን ይክፈሉ።
+
+Step 180/330
+>> Amharic - Arabic
+	تحدث الرجال إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 181/330
+>> Arabic - Chichewa
+	Amunawa adalankhula ndi azimayi awiri mgalimoto. Pereka misonkho.
+
+Step 182/330
+>> Chichewa - French
+	Les hommes ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 183/330
+>> French - Pashto
+	سړو په موټر کې له دوو میرمنو سره خبرې وکړې. خپل مالیات ورکړئ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Gason yo te pale ak de fanm nan machin nan. Peye taks ou.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	تحدث الرجال إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 186/330
+>> Arabic - French
+	Les hommes ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 187/330
+>> French - Arabic
+	تحدث الرجال إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 188/330
+>> Arabic - French
+	Les hommes ont parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 189/330
+>> French - Swahili
+	Wanaume hao walizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 190/330
+>> Swahili - Malagasy
+	Niresaka vehivavy roa tao anaty fiara ny lehilahy. Aloavy ny hetrao.
+
+Step 191/330
+>> Malagasy - Arabic
+	تحدث الرجل إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 192/330
+>> Arabic - English
+	The man spoke to two women in the car. Pay your taxes.
+
+Step 193/330
+>> English - Swahili
+	Mtu huyo alizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 194/330
+>> Swahili - Hausa
+	Mutumin ya yi magana da mata biyu a cikin motar. Biyan harajin ku.
+
+Step 195/330
+>> Hausa - Shona
+	Iye murume akataura nevakadzi vaviri mumotokari. Bhadhara mitero yako.
+
+Step 196/330
+>> Shona - Arabic
+	تحدث الرجل إلى امرأتين في السيارة. دفع الضرائب الخاصة بك.
+
+Step 197/330
+>> Arabic - Swahili
+	Mtu huyo alizungumza na wanawake wawili kwenye gari. Lipa ushuru wako.
+
+Step 198/330
+>> Swahili - English
+	The man spoke to two women in the car. Pay your taxes.
+
+Step 199/330
+>> English - French
+	L'homme a parlé à deux femmes dans la voiture. Payer vos impôts.
+
+Step 200/330
+>> French - Urdu
+	اس شخص نے کار میں دو خواتین سے بات کی۔ اپنے ٹیکس ادا کریں۔
+
+Step 201/330
+>> Urdu - Nepali
+	ती मानिसले कारमा दुईजना महिलालाई कुरा गरे। तपाईंको करहरू तिर्नुहोस्।
+
+Step 202/330
+>> Nepali - Burmese
+	အဆိုပါအမျိုးသမီးနှစ်ဦးကိုထိုသူရဲ့ကားမိန့်မြွက်တော်မူ၏။ သင့်ရဲ့အခွန်ပေးဆောင်။
+
+Step 203/330
+>> Burmese - Portuguese
+	As duas mulheres que ele falou com ele. Pague seus impostos.
+
+Step 204/330
+>> Portuguese - English
+	The two women he talked to him about. Pay your taxes.
+
+Step 205/330
+>> English - Portuguese
+	As duas mulheres que ele falou com ele. Pague seus impostos.
+
+Step 206/330
+>> Portuguese - English
+	The two women he talked to him about. Pay your taxes.
+
+Step 207/330
+>> English - Portuguese
+	As duas mulheres que ele falou com ele. Pague seus impostos.
+
+Step 208/330
+>> Portuguese - English
+	The two women he talked to him about. Pay your taxes.
+
+Step 209/330
+>> English - lao
+	ຜູ້ຍິງສອງຄົນທີ່ລາວເວົ້າກັບລາວ. ຈ່າຍພາສີອາກອນຂອງທ່ານ.
+
+Step 210/330
+>> lao - French
+	Les deux femmes à qui il a parlé. Payer vos impôts.
+
+Step 211/330
+>> French - Bengali
+	তিনি যে দুটি মহিলার সাথে কথা বলেছেন। আপনার কর পরিশোধ করুন।
+
+Step 212/330
+>> Bengali - English
+	The two women he spoke to. Pay your taxes.
+
+Step 213/330
+>> English - Spanish
+	Las dos mujeres con las que habló. Paga tus impuestos.
+
+Step 214/330
+>> Spanish - Portuguese
+	As duas mulheres com quem ele falou. Pague seus impostos.
+
+Step 215/330
+>> Portuguese - Hindi
+	उन्होंने जिन दो महिलाओं से बात की। अपने करों का भुगतान करें।
+
+Step 216/330
+>> Hindi - English
+	The two women he talked to. Pay your taxes.
+
+Step 217/330
+>> English - Spanish
+	Las dos mujeres con las que habló. Paga tus impuestos.
+
+Step 218/330
+>> Spanish - English
+	The two women he talked to. Pay your taxes.
+
+Step 219/330
+>> English - Portuguese
+	As duas mulheres com quem ele falou. Pague seus impostos.
+
+Step 220/330
+>> Portuguese - Spanish
+	Las dos mujeres con las que habló. Paga tus impuestos.
+
+Step 221/330
+>> Spanish - Arabic
+	المرأتين اللتين تحدثا إليهما. دفع الضرائب الخاصة بك.
+
+Step 222/330
+>> Arabic - Russian
+	Две женщины, которые говорили с ними. Плати налоги.
+
+Step 223/330
+>> Russian - Spanish
+	Dos mujeres que les hablaron. Pagar impuestos
+
+Step 224/330
+>> Spanish - Arabic
+	امرأتان تحدثتا إليهما. دفع الضرائب
+
+Step 225/330
+>> Arabic - Spanish
+	Dos mujeres les hablaron. Pagar impuestos
+
+Step 226/330
+>> Spanish - Vietnamese
+	Hai người phụ nữ nói chuyện với họ. Nộp thuế
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Dua wanita berbicara dengan mereka. Membayar pajak
+
+Step 228/330
+>> Indonesian - Arabic
+	امرأتان تتحدث إليهم. دفع الضرائب
+
+Step 229/330
+>> Arabic - Zulu
+	Abesifazane ababili bakhuluma nabo. Khokha izintela
+
+Step 230/330
+>> Zulu - Filipino
+	Kinausap sila ng dalawang babae. Bayaran ang iyong mga buwis
+
+Step 231/330
+>> Filipino - Romanian
+	Cele două femei le-au vorbit. Plătește-ți taxele
+
+Step 232/330
+>> Romanian - Spanish
+	Las dos mujeres les hablaron. Paga tus impuestos
+
+Step 233/330
+>> Spanish - French
+	Les deux femmes leur ont parlé. Payer vos impôts
+
+Step 234/330
+>> French - Arabic
+	تحدثت المرأتان. دفع الضرائب الخاصة بك
+
+Step 235/330
+>> Arabic - English
+	The two women talked. Pay your taxes
+
+Step 236/330
+>> English - Uzbek
+	Ikki ayol gaplashishdi. Soliqlaringizni to'lang
+
+Step 237/330
+>> Uzbek - Samoan
+	Sa talanoa ia tamaitai e toalua. Totogi au lafoga
+
+Step 238/330
+>> Samoan - English
+	The two women talked. Pay your taxes
+
+Step 239/330
+>> English - Dutch
+	De twee vrouwen praatten. Betaal uw belastingen
+
+Step 240/330
+>> Dutch - English
+	The two women talked. Pay your taxes
+
+Step 241/330
+>> English - Kurdish
+	Du jin axivîn. Bacên xwe bidin
+
+Step 242/330
+>> Kurdish - Arabic
+	تحدثت امرأتان. دفع الضرائب الخاصة بك
+
+Step 243/330
+>> Arabic - Spanish
+	Dos mujeres hablaron. Paga tus impuestos
+
+Step 244/330
+>> Spanish - Mongolian
+	Хоёр эмэгтэй ярилцав. Татвараа төл
+
+Step 245/330
+>> Mongolian - English
+	The two women talked. Pay taxes
+
+Step 246/330
+>> English - Spanish
+	Las dos mujeres hablaron. Pagar impuestos
+
+Step 247/330
+>> Spanish - Ukrainian
+	Дві жінки розмовляли. Сплачуйте податки
+
+Step 248/330
+>> Ukrainian - Spanish
+	Dos mujeres estaban hablando. Pagar impuestos
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	两个女人在说话。纳税
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	امرأتان تتحدثان. دفع الضرائب
+
+Step 251/330
+>> Arabic - Thai
+	ผู้หญิงสองคนกำลังพูด จ่ายภาษี
+
+Step 252/330
+>> Thai - Armenian
+	Երկու կին ասում են, որ հարկեր են վճարում
+
+Step 253/330
+>> Armenian - Macedonian
+	Две жени велат дека плаќаат даноци
+
+Step 254/330
+>> Macedonian - Arabic
+	تقول امرأتان إنهما يدفعان الضرائب
+
+Step 255/330
+>> Arabic - Portuguese
+	Duas mulheres dizem que pagam impostos
+
+Step 256/330
+>> Portuguese - Spanish
+	Dos mujeres dicen que pagan impuestos
+
+Step 257/330
+>> Spanish - Bosnian
+	Dvije žene kažu da plaćaju porez
+
+Step 258/330
+>> Bosnian - Sinhala
+	කාන්තාවන් දෙදෙනෙක් පවසන්නේ ඔවුන් බදු ගෙවන බවයි
+
+Step 259/330
+>> Sinhala - English
+	Two women say they pay taxes
+
+Step 260/330
+>> English - Spanish
+	Dos mujeres dicen que pagan impuestos
+
+Step 261/330
+>> Spanish - English
+	Two women say they pay taxes
+
+Step 262/330
+>> English - Georgian
+	ორი ქალი ამბობს, რომ იხდიან გადასახადს
+
+Step 263/330
+>> Georgian - English
+	Two women say they pay the tax
+
+Step 264/330
+>> English - Albanian
+	Dy gra thonë se paguajnë taksën
+
+Step 265/330
+>> Albanian - Serbian
+	Две жене кажу да плаћају порез
+
+Step 266/330
+>> Serbian - Spanish
+	Dos mujeres dicen que pagan impuestos
+
+Step 267/330
+>> Spanish - English
+	Two women say they pay taxes
+
+Step 268/330
+>> English - Turkish
+	İki kadın vergi ödediklerini söylüyor
+
+Step 269/330
+>> Turkish - Spanish
+	Dos mujeres dicen que pagan impuestos
+
+Step 270/330
+>> Spanish - French
+	Deux femmes disent qu'elles paient des impôts
+
+Step 271/330
+>> French - English
+	Two women say they pay taxes
+
+Step 272/330
+>> English - Persian
+	دو زن می گویند مالیات می پردازند
+
+Step 273/330
+>> Persian - Kazakh
+	Екі әйел салық төлейді дейді
+
+Step 274/330
+>> Kazakh - English
+	Two women are paying taxes
+
+Step 275/330
+>> English - Malay
+	Dua wanita membayar cukai
+
+Step 276/330
+>> Malay - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 277/330
+>> Arabic - Spanish
+	Dos mujeres pagan impuestos
+
+Step 278/330
+>> Spanish - English
+	Two women pay taxes
+
+Step 279/330
+>> English - Russian
+	Две женщины платят налоги
+
+Step 280/330
+>> Russian - Romanian
+	Două femei plătesc impozite
+
+Step 281/330
+>> Romanian - Bulgarian
+	Две жени плащат данъци
+
+Step 282/330
+>> Bulgarian - Albanian
+	Dy gra paguajnë taksa
+
+Step 283/330
+>> Albanian - Russian
+	Две женщины платят налоги
+
+Step 284/330
+>> Russian - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 285/330
+>> Arabic - Spanish
+	Dos mujeres pagan impuestos
+
+Step 286/330
+>> Spanish - Croatian
+	Dvije žene plaćaju porez
+
+Step 287/330
+>> Croatian - Hungarian
+	Két nő adót fizet
+
+Step 288/330
+>> Hungarian - Spanish
+	Dos mujeres pagan impuestos
+
+Step 289/330
+>> Spanish - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 290/330
+>> Arabic - Portuguese
+	Duas mulheres pagam impostos
+
+Step 291/330
+>> Portuguese - Latvian
+	Divas sievietes maksā nodokļus
+
+Step 292/330
+>> Latvian - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 293/330
+>> Arabic - Malay
+	Dua wanita membayar cukai
+
+Step 294/330
+>> Malay - Slovak
+	Dve ženy platia dane
+
+Step 295/330
+>> Slovak - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 296/330
+>> Arabic - Lithuanian
+	Dvi moterys moka mokesčius
+
+Step 297/330
+>> Lithuanian - Catalan
+	Dues dones paguen impostos
+
+Step 298/330
+>> Catalan - Arabic
+	امرأتان تدفعان الضرائب
+
+Step 299/330
+>> Arabic - Polish
+	Dwie kobiety płacą podatki
+
+Step 300/330
+>> Polish - Turkish
+	İki kadın vergi öder
+
+Step 301/330
+>> Turkish - Greek
+	Δύο γυναίκες πληρώνουν φόρους
+
+Step 302/330
+>> Greek - Estonian
+	Kaks naist maksavad makse
+
+Step 303/330
+>> Estonian - Maltese
+	Żewġ nisa jħallsu t-taxxi
+
+Step 304/330
+>> Maltese - Italian
+	Due donne che pagano le tasse
+
+Step 305/330
+>> Italian - Czech
+	Dvě ženy platící daně
+
+Step 306/330
+>> Czech - Spanish
+	Dos mujeres pagando impuestos
+
+Step 307/330
+>> Spanish - Slovenian
+	Dve ženski plačujeta davek
+
+Step 308/330
+>> Slovenian - French
+	Deux femmes paient des impôts
+
+Step 309/330
+>> French - Korean
+	두 여자는 세금을 지불
+
+Step 310/330
+>> Korean - Hebrew
+	שתי נשים משלמות מיסים
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Zwou Frae bezuele Steieren
+
+Step 312/330
+>> Luxembourgish - German
+	Zwei Frauen zahlen Steuern
+
+Step 313/330
+>> German - Japanese
+	2人の女性が税金を支払う
+
+Step 314/330
+>> Japanese - German
+	Zwei Frauen zahlen Steuern
+
+Step 315/330
+>> German - Dutch
+	Twee vrouwen betalen belasting
+
+Step 316/330
+>> Dutch - Maori
+	E rua nga wahine ka utu takoha
+
+Step 317/330
+>> Maori - Finnish
+	Kaksi naista maksaa veroja
+
+Step 318/330
+>> Finnish - English
+	Two women pay taxes
+
+Step 319/330
+>> English - Danish
+	To kvinder betaler skat
+
+Step 320/330
+>> Danish - Dutch
+	Twee vrouwen betalen belasting
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	兩個女人納稅
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Två kvinnor betalar skatt
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	兩個女人納稅
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Tvær konur sem greiða skatta
+
+Step 325/330
+>> Icelandic - German
+	Zwei Frauen, die Steuern zahlen
+
+Step 326/330
+>> German - Irish
+	Dhá bhean ag íoc cánacha
+
+Step 327/330
+>> Irish - English
+	Two women paying taxes
+
+Step 328/330
+>> English - German
+	Zwei Frauen, die Steuern zahlen
+
+Step 329/330
+>> German - Norwegian
+	To kvinner som betaler skatt
+
+Step 330/330
+>> Norwegian - Portuguese
+	Duas mulheres pagando impostos
+
+
+##### RESULTS ######
+
+Zobeida, aproximando-se das duas damas, disse-lhes: “Minhas irmãs, não estais vendo que este bom homem sucumbe ao peso que carrega? Que esperais para dele o livrar?” Amina e Safia, então, pegaram o cesto, uma pela frente, outra por trás. Zobeida ajudou-as, e as três o pousaram sobre o chão. Em seguida, começaram a esvaziá-lo; e quando acabaram, a agradável Amina pagou generosamente o carregador...
+
+Duas mulheres pagando impostos

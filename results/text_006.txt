@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Apenas Dinarzade notou que estava na hora de acordar a sultana, suplicou-lhe, enquanto aguardavam o dia, que lhe contasse uma história bonita.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Bare Dinarzade la merke til at det var på tide å vekke sultanaen og ba henne, mens de ventet på dagen, for å fortelle henne en vakker historie.
+
+Step 2/330
+>> Norwegian - German
+	Nur Dinarzade bemerkte, dass es Zeit war, die Sultanine aufzuwecken und sie zu bitten, während sie auf den Tag warteten, ihr eine schöne Geschichte zu erzählen.
+
+Step 3/330
+>> German - English
+	Only Dinarzade noticed that it was time to wake the Sultana and ask her, as they waited for the day to tell her a beautiful story.
+
+Step 4/330
+>> English - Irish
+	Níor thug ach Dinarzade faoi deara go raibh sé in am an Sultana a mhúscailt agus a iarraidh uirthi, agus iad ag fanacht leis an lá chun scéal álainn a insint di.
+
+Step 5/330
+>> Irish - German
+	Nur Dinarzade bemerkte, dass die Sultana aufwachen und sie bitten musste, auf den Tag zu warten, um ihr eine schöne Geschichte zu erzählen.
+
+Step 6/330
+>> German - Icelandic
+	Aðeins Dinarzade tók eftir því að Sultana þurfti að vakna og biðja hana að bíða eftir deginum til að segja henni fallega sögu.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	只有Dinarzade注意到蘇丹娜不得不醒來並請她等一天告訴她一個美麗的故事。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Endast Dinarzade märkte att Sultana var tvungen att vakna och bad henne vänta på sin dag för att berätta en vacker historia.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	只有Dinarzade注意到Sultana不得不醒來並讓她等她的一天講述一個美麗的故事。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Alleen Dinarzade merkte dat Sultana wakker moest worden en haar op haar dag moest laten wachten om een mooi verhaal te vertellen.
+
+Step 11/330
+>> Dutch - Danish
+	Kun Dinarzade bemærkede, at Sultana måtte vågne op og lade hende vente på sin dag for at fortælle en dejlig historie.
+
+Step 12/330
+>> Danish - English
+	Only Dinarzade noticed that Sultana had to wake up and let her wait for her day to tell a nice story.
+
+Step 13/330
+>> English - Finnish
+	Vain Dinarzade huomasi, että Sultanan piti herätä ja antaa hänen odottaa päiväänsä kertoakseen mukavan tarinan.
+
+Step 14/330
+>> Finnish - Maori
+	Ko Dinarzade anake te maarama i ara ake a Sultana me waiho kia tatari tana ra ki te whakaatu i tetahi korero pai.
+
+Step 15/330
+>> Maori - Dutch
+	Dinarzade was de enige die zich realiseerde dat Sultana net wakker was geworden en op zijn dag moest wachten om een goed verhaal te vertellen.
+
+Step 16/330
+>> Dutch - German
+	Dinarzade war der einzige, der bemerkte, dass Sultana gerade aufgewacht war und auf seinen Tag warten musste, um eine gute Geschichte zu erzählen.
+
+Step 17/330
+>> German - Japanese
+	スルナタが目を覚まし、彼の日が良い物語を語るのを待たなければならなかったことに気づいたのは、ディナルザデだけでした。
+
+Step 18/330
+>> Japanese - German
+	Nur Dinalzade musste aufwachen und auf seinen Tag warten, um eine gute Geschichte zu erzählen.
+
+Step 19/330
+>> German - Luxembourgish
+	Nëmme Dinalzade huet sech erwächen a waart op säin Dag fir eng gutt Geschicht ze erzielen.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	רק דינלזדה התעורר וחיכה ליומו שיספר סיפור טוב.
+
+Step 21/330
+>> Hebrew - Korean
+	Dinelzee만이 좋은 이야기를하기 위해 하루를 기다리며 일어났습니다.
+
+Step 22/330
+>> Korean - French
+	Seul Dinelzee s'est réveillé dans l'attente d'une journée pour raconter une bonne histoire.
+
+Step 23/330
+>> French - Slovenian
+	Samo Dinelzee se je zbudil in čakal na dan, da bo povedal dobro zgodbo.
+
+Step 24/330
+>> Slovenian - Spanish
+	Solo Dinelzee se despertó y esperó el día para contar una buena historia.
+
+Step 25/330
+>> Spanish - Czech
+	Pouze Dinelzee se probudila a čekala, až celý den vypráví dobrý příběh.
+
+Step 26/330
+>> Czech - Italian
+	Solo Dinelzee si svegliò e aspettò che lei raccontasse una bella storia tutto il giorno.
+
+Step 27/330
+>> Italian - Maltese
+	Dinelzee biss qajmet u stennietha biex tgħid storja tajba l-ġurnata kollha.
+
+Step 28/330
+>> Maltese - Estonian
+	Dinelzee ainult taastunud ja stennietha öelda hea lugu kogu päeva.
+
+Step 29/330
+>> Estonian - Greek
+	Το Dinelzee ανακτάται μόνο και η stennietha λέει μια καλή ιστορία όλη την ημέρα.
+
+Step 30/330
+>> Greek - Turkish
+	Dinelzee sadece kurtarıldı ve stennietha gün boyu güzel bir hikaye anlatıyor.
+
+Step 31/330
+>> Turkish - Polish
+	Dinelzee właśnie wyzdrowiał, a stennietha opowiada piękną historię przez cały dzień.
+
+Step 32/330
+>> Polish - Arabic
+	لقد تعافى دينيلزي للتو ، وتروي قصة ستينيتا قصة جميلة طوال اليوم.
+
+Step 33/330
+>> Arabic - Catalan
+	Denilzi acaba de recuperar-se, i la història de Stenetta explica una bella història durant tot el dia.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Denilzi ką tik pasveikė, o Stenetta istorija visą dieną paaiškina gražią istoriją.
+
+Step 35/330
+>> Lithuanian - Arabic
+	تم استقبال دينيلزي للتو ، وتشرح قصة ستينيتا طوال اليوم القصة الجميلة.
+
+Step 36/330
+>> Arabic - Slovak
+	Denilzi bola práve prijatá a príbeh Stenetty po celý deň vysvetľuje tento krásny príbeh.
+
+Step 37/330
+>> Slovak - Malay
+	Denilzi baru sahaja diterima dan cerita Stenetta sepanjang hari menerangkan kisah yang indah ini.
+
+Step 38/330
+>> Malay - Arabic
+	وصل Denilzi للتو وقصة Stenetta طوال اليوم تحكي هذه القصة الرائعة.
+
+Step 39/330
+>> Arabic - Latvian
+	Denilzi tikko ieradās, un Stenetta visu dienu stāsta šo brīnišķīgo stāstu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Denilzi acaba de chegar e Stenetta conta essa história maravilhosa o dia todo.
+
+Step 41/330
+>> Portuguese - Arabic
+	وصل دينيلزي لتوه وتروي ستينيتا هذه القصة الرائعة طوال اليوم.
+
+Step 42/330
+>> Arabic - Spanish
+	Denilzi acaba de llegar y Stenetta cuenta esta maravillosa historia todo el día.
+
+Step 43/330
+>> Spanish - Hungarian
+	Denilzi éppen megérkezett, Stenetta egész nap elmeséli ezt a csodálatos történetet.
+
+Step 44/330
+>> Hungarian - Croatian
+	Denilzi je tek stigao, Stenetta će cijeli dan pričati ovu divnu priču.
+
+Step 45/330
+>> Croatian - Spanish
+	Denilzi acaba de llegar, Stenetta contará esta maravillosa historia todo el día.
+
+Step 46/330
+>> Spanish - Arabic
+	وصل دنيلزي لتوه ، ستقوم ستينيتا برواية هذه القصة الرائعة طوال اليوم.
+
+Step 47/330
+>> Arabic - Russian
+	Денилци только что прибыл, Стенетта будет рассказывать эту замечательную историю весь день.
+
+Step 48/330
+>> Russian - Albanian
+	Denilzi sapo ka mbërritur, Stenetta do ta tregojë këtë histori të mrekullueshme tërë ditën.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Денилц току-що пристигна, Стенета ще разказва тази прекрасна история през целия ден.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Denilz tocmai a sosit, Steneta va spune această poveste minunată pe tot parcursul zilei.
+
+Step 51/330
+>> Romanian - Russian
+	Денил только что прибыл, Стенета расскажет эту замечательную историю в течение дня.
+
+Step 52/330
+>> Russian - English
+	Denil has just arrived, Steneta will tell this wonderful story throughout the day.
+
+Step 53/330
+>> English - Spanish
+	Denil acaba de llegar, Steneta contará esta maravillosa historia durante todo el día.
+
+Step 54/330
+>> Spanish - Arabic
+	وصل دنيل لتوه ، ستحكي ستينيتا هذه القصة الرائعة طوال اليوم.
+
+Step 55/330
+>> Arabic - Malay
+	Baru tiba Daniel, Stenetta akan menceritakan kisah yang indah ini sepanjang hari.
+
+Step 56/330
+>> Malay - English
+	Daniel just arrived, Stenetta will tell this wonderful story all day long.
+
+Step 57/330
+>> English - Kazakh
+	Даниел жақында келді, Стенетта бұл керемет оқиғаны күні бойы айтып береді.
+
+Step 58/330
+>> Kazakh - Persian
+	دانیل به زودی می آید و استنتا تمام روز را به این داستان شگفت انگیز می گوید.
+
+Step 59/330
+>> Persian - English
+	Daniel comes soon, and Stenta tells the story all day long.
+
+Step 60/330
+>> English - French
+	Daniel arrive bientôt et Stenta raconte l'histoire toute la journée.
+
+Step 61/330
+>> French - Spanish
+	Daniel llega pronto y Stenta cuenta la historia todo el día.
+
+Step 62/330
+>> Spanish - Turkish
+	Daniel yakında gelir ve Stenta bütün gün hikayeyi anlatır.
+
+Step 63/330
+>> Turkish - English
+	Daniel comes soon and Stenta tells the story all day.
+
+Step 64/330
+>> English - Spanish
+	Daniel llega pronto y Stenta cuenta la historia todo el día.
+
+Step 65/330
+>> Spanish - Serbian
+	Данијел стиже ускоро, а Стента прича цијели дан.
+
+Step 66/330
+>> Serbian - Albanian
+	Daniel arrin shpejt, dhe Stenta bisedon tërë ditën.
+
+Step 67/330
+>> Albanian - English
+	Daniel arrives quickly, and Stenta talks all day.
+
+Step 68/330
+>> English - Georgian
+	დანიელი ჩამოსვლისთანავე ჩადის, და სტენტი მთელი დღე საუბრობს.
+
+Step 69/330
+>> Georgian - English
+	Daniel arrives on arrival, and Stent talks all day.
+
+Step 70/330
+>> English - Spanish
+	Daniel llega a su llegada, y Stent habla todo el día.
+
+Step 71/330
+>> Spanish - English
+	Daniel arrives on arrival, and Stent speaks all day.
+
+Step 72/330
+>> English - Sinhala
+	ඩැනියෙල් පැමිණෙන විට ස්ටෙන්ට් දවස පුරාම කතා කරයි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Kad Daniel stigne, Stint razgovara cijeli dan.
+
+Step 74/330
+>> Bosnian - Spanish
+	Cuando llega Daniel, Stint habla todo el día.
+
+Step 75/330
+>> Spanish - Portuguese
+	Quando Daniel chega, Stint fala o dia todo.
+
+Step 76/330
+>> Portuguese - Arabic
+	عندما يصل دانييل ، يتحدث ستينت طوال اليوم.
+
+Step 77/330
+>> Arabic - Macedonian
+	Кога ќе пристигне Даниел, Стент разговара цел ден.
+
+Step 78/330
+>> Macedonian - Armenian
+	Երբ Դանիելը ժամանում է, Սթենթը խոսում է ամբողջ օրը:
+
+Step 79/330
+>> Armenian - Thai
+	เมื่อแดเนียลมาถึงสเต็นต์พูดทั้งวัน
+
+Step 80/330
+>> Thai - Arabic
+	عندما وصل دانييل ، تحدث ستنت طوال اليوم.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	当丹尼尔到达时，斯坦特整天说话。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Cuando llegó Daniel, Standt habló todo el día.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Коли Даніель приїхав, Стендт говорив цілий день.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Cuando llegó Daniel, Stendt habló todo el día.
+
+Step 85/330
+>> Spanish - English
+	When Daniel arrived, Stendt spoke all day.
+
+Step 86/330
+>> English - Mongolian
+	Даниел ирэхэд Стенд өдөржингөө ярьсан.
+
+Step 87/330
+>> Mongolian - Spanish
+	Cuando llega Daniel, Stan habla todo el día.
+
+Step 88/330
+>> Spanish - Arabic
+	عندما يصل دانييل ، يتحدث ستان طوال اليوم.
+
+Step 89/330
+>> Arabic - Kurdish
+	Dema ku Daniel digihîje, Stan tevahiya rojê axaftin dike.
+
+Step 90/330
+>> Kurdish - English
+	When Daniel arrives, Stan talks all day.
+
+Step 91/330
+>> English - Dutch
+	Wanneer Daniel arriveert, praat Stan de hele dag.
+
+Step 92/330
+>> Dutch - English
+	When Daniel arrives, Stan talks all day.
+
+Step 93/330
+>> English - Samoan
+	Ina ua taunuu Tanielu, na talanoa Stan i le aso atoa.
+
+Step 94/330
+>> Samoan - Uzbek
+	Doniyor kelganida Stan kun bo'yi gaplashdi.
+
+Step 95/330
+>> Uzbek - English
+	When Daniel came in, Stan talked all day.
+
+Step 96/330
+>> English - Arabic
+	عندما جاء دانييل ، تحدث ستان طوال اليوم.
+
+Step 97/330
+>> Arabic - French
+	Quand Daniel est venu, Stan a parlé toute la journée.
+
+Step 98/330
+>> French - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 99/330
+>> Spanish - Romanian
+	Când a sosit Daniel, Stan a vorbit toată ziua.
+
+Step 100/330
+>> Romanian - Filipino
+	Pagdating ni Daniel, nag-uusap si Stan sa buong araw.
+
+Step 101/330
+>> Filipino - Zulu
+	Lapho uDaniel efika, uStan wakhuluma usuku lonke.
+
+Step 102/330
+>> Zulu - Arabic
+	عندما وصل دانييل ، تحدث ستان طوال اليوم.
+
+Step 103/330
+>> Arabic - Indonesian
+	Ketika Daniel tiba, Stan berbicara sepanjang hari.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Khi Daniel đến, Stan nói chuyện cả ngày.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 106/330
+>> Spanish - Arabic
+	عندما وصل دانييل ، تحدث ستان طوال اليوم.
+
+Step 107/330
+>> Arabic - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 108/330
+>> Spanish - Russian
+	Когда Даниэль прибыл, Стэн говорил весь день.
+
+Step 109/330
+>> Russian - Arabic
+	عندما وصل دانييل ، تحدث ستان طوال اليوم.
+
+Step 110/330
+>> Arabic - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 111/330
+>> Spanish - Portuguese
+	Quando Daniel chegou, Stan falou o dia todo.
+
+Step 112/330
+>> Portuguese - English
+	When Daniel arrived, Stan spoke all day.
+
+Step 113/330
+>> English - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 114/330
+>> Spanish - English
+	When Daniel arrived, Stan spoke all day.
+
+Step 115/330
+>> English - Hindi
+	जब डैनियल पहुंचे, स्टेन ने पूरे दिन बात की।
+
+Step 116/330
+>> Hindi - Portuguese
+	Quando Daniel chegou, Stan conversou o dia todo.
+
+Step 117/330
+>> Portuguese - Spanish
+	Cuando llegó Daniel, Stan habló todo el día.
+
+Step 118/330
+>> Spanish - English
+	When Daniel arrived, Stan spoke all day.
+
+Step 119/330
+>> English - Bengali
+	ড্যানিয়েল এলে, স্টান সারা দিন কথা বলেছিল।
+
+Step 120/330
+>> Bengali - French
+	Quand Danielle est entrée, Stan a parlé toute la journée.
+
+Step 121/330
+>> French - lao
+	ເມື່ອ Danielle ເຂົ້າມາ, Stan ເວົ້າ ໝົດ ມື້.
+
+Step 122/330
+>> lao - English
+	When Danielle came in, Stan talked all day.
+
+Step 123/330
+>> English - Portuguese
+	Quando Danielle entrou, Stan conversou o dia todo.
+
+Step 124/330
+>> Portuguese - English
+	When Danielle came in, Stan talked all day.
+
+Step 125/330
+>> English - Portuguese
+	Quando Danielle entrou, Stan conversou o dia todo.
+
+Step 126/330
+>> Portuguese - English
+	When Danielle came in, Stan talked all day.
+
+Step 127/330
+>> English - Portuguese
+	Quando Danielle entrou, Stan conversou o dia todo.
+
+Step 128/330
+>> Portuguese - Burmese
+	ဒန်ယဲလ်သို့ရောက်လာသောအခါ, Stan တနေ့လုံးပြောဆိုသော။
+
+Step 129/330
+>> Burmese - Nepali
+	Danielle Stan सबै दिन कुरा, आए।
+
+Step 130/330
+>> Nepali - Urdu
+	ڈینیل اسٹین سارا دن بات کرتے ہوئے اندر آیا۔
+
+Step 131/330
+>> Urdu - French
+	Daniel Stein est venu parler toute la journée.
+
+Step 132/330
+>> French - English
+	Daniel Stein came to talk all day.
+
+Step 133/330
+>> English - Swahili
+	Daniel Stein alikuja kuzungumza siku nzima.
+
+Step 134/330
+>> Swahili - Arabic
+	جاء دانيال شتاين للحديث طوال اليوم.
+
+Step 135/330
+>> Arabic - Shona
+	Daniel Stein akauya kuzotaura zuva rese.
+
+Step 136/330
+>> Shona - Hausa
+	Daniel Stein ya zo ya yi magana duk rana.
+
+Step 137/330
+>> Hausa - Swahili
+	Daniel Stein alifika na kuongea siku nzima.
+
+Step 138/330
+>> Swahili - English
+	Daniel Stein arrived and talked throughout the day.
+
+Step 139/330
+>> English - Arabic
+	وصل دانيال شتاين وتحدث طوال اليوم.
+
+Step 140/330
+>> Arabic - Malagasy
+	Tonga i Daniel Stein ary niresaka tontolo andro.
+
+Step 141/330
+>> Malagasy - Swahili
+	Daniel Stein alifika na kuongea siku nzima.
+
+Step 142/330
+>> Swahili - French
+	Daniel Stein est arrivé et a parlé toute la journée.
+
+Step 143/330
+>> French - Arabic
+	وصل دانيال شتاين وتحدث طوال اليوم.
+
+Step 144/330
+>> Arabic - French
+	Daniel Stein est arrivé et a parlé toute la journée.
+
+Step 145/330
+>> French - Arabic
+	وصل دانيال شتاين وتحدث طوال اليوم.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Daniel Stein te rive e li te pale tout jounen an.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	ډینیل سټین ټوله ورځ ورسید او خبرې یې وکړې.
+
+Step 148/330
+>> Pashto - French
+	Daniel Stein est arrivé et a parlé toute la journée.
+
+Step 149/330
+>> French - Chichewa
+	A Daniel Stein adafika ndipo amalankhula tsiku lonse.
+
+Step 150/330
+>> Chichewa - Arabic
+	وصل دانيال شتاين وتحدث طوال اليوم.
+
+Step 151/330
+>> Arabic - Amharic
+	ዳንኤል ስቲይን ቀኑን ሙሉ ንግግር አቀረበ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Daniel Stein gave a talk all day.
+
+Step 153/330
+>> English - French
+	Daniel Stein a donné une conférence toute la journée.
+
+Step 154/330
+>> French - Swahili
+	Daniel Stein alitoa hotuba siku nzima.
+
+Step 155/330
+>> Swahili - Portuguese
+	Daniel Stein fez um discurso ao longo do dia.
+
+Step 156/330
+>> Portuguese - Arabic
+	ألقى دانيال شتاين خطابا طوال اليوم.
+
+Step 157/330
+>> Arabic - Portuguese
+	Daniel Stein discursou o dia todo.
+
+Step 158/330
+>> Portuguese - English
+	Daniel Stein spoke all day.
+
+Step 159/330
+>> English - French
+	Daniel Stein a parlé toute la journée.
+
+Step 160/330
+>> French - English
+	Daniel Stein spoke all day.
+
+Step 161/330
+>> English - Swahili
+	Daniel Stein alizungumza siku nzima.
+
+Step 162/330
+>> Swahili - Arabic
+	تحدث دانيال شتاين طوال اليوم.
+
+Step 163/330
+>> Arabic - Arabic
+	Daniel Stein spoke all day.
+
+Step 164/330
+>> Arabic - French
+	Daniel Stein a parlé toute la journée.
+
+Step 165/330
+>> French - Hausa
+	Daniel Stein yayi magana duk rana.
+
+Step 166/330
+>> Hausa - French
+	Daniel Stein parle toute la journée.
+
+Step 167/330
+>> French - Arabic
+	Daniel Stein speaks all day.
+
+Step 168/330
+>> Arabic - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 169/330
+>> Arabic - Swahili
+	Daniel Stein anaongea siku nzima.
+
+Step 170/330
+>> Swahili - English
+	Daniel Stein speaks throughout the day.
+
+Step 171/330
+>> English - French
+	Daniel Stein parle tout au long de la journée.
+
+Step 172/330
+>> French - English
+	Daniel Stein speaks throughout the day.
+
+Step 173/330
+>> English - Portuguese
+	Daniel Stein fala ao longo do dia.
+
+Step 174/330
+>> Portuguese - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 175/330
+>> Arabic - Portuguese
+	Daniel Stein fala o dia todo.
+
+Step 176/330
+>> Portuguese - Swahili
+	Daniel Stein anaongea siku nzima.
+
+Step 177/330
+>> Swahili - French
+	Daniel Stein parle tout au long de la journée.
+
+Step 178/330
+>> French - English
+	Daniel Stein speaks throughout the day.
+
+Step 179/330
+>> English - Amharic
+	ዳንኤል ስቴይን ቀኑን ሙሉ ይናገራል ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 181/330
+>> Arabic - Chichewa
+	A Daniel Stein amalankhula tsiku lonse.
+
+Step 182/330
+>> Chichewa - French
+	Daniel Stein parle tout au long de la journée.
+
+Step 183/330
+>> French - Pashto
+	ډینیل سټین د ورځې په اوږدو کې خبرې کوي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Daniel Stein chita pale pandan tout jounen an.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 186/330
+>> Arabic - French
+	Daniel Stein parle toute la journée.
+
+Step 187/330
+>> French - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 188/330
+>> Arabic - French
+	Daniel Stein parle toute la journée.
+
+Step 189/330
+>> French - Swahili
+	Daniel Stein anaongea siku nzima.
+
+Step 190/330
+>> Swahili - Malagasy
+	I Daniel Stein dia miteny mandritra ny andro.
+
+Step 191/330
+>> Malagasy - Arabic
+	يتحدث دانيال شتاين طوال اليوم.
+
+Step 192/330
+>> Arabic - English
+	Daniel Stein talks all day.
+
+Step 193/330
+>> English - Swahili
+	Daniel Stein anaongea siku nzima.
+
+Step 194/330
+>> Swahili - Hausa
+	Daniel Stein yayi magana a cikin kullun.
+
+Step 195/330
+>> Hausa - Shona
+	Daniel Stein anotaura muchidimbu.
+
+Step 196/330
+>> Shona - Arabic
+	يقول دانيال شتاين لفترة وجيزة.
+
+Step 197/330
+>> Arabic - Swahili
+	Daniel Stein anasema kwa ufupi.
+
+Step 198/330
+>> Swahili - English
+	Daniel Stein says briefly.
+
+Step 199/330
+>> English - French
+	Daniel Stein dit brièvement.
+
+Step 200/330
+>> French - Urdu
+	ڈینیل اسٹین مختصر طور پر کہتے ہیں۔
+
+Step 201/330
+>> Urdu - Nepali
+	डेनियल स्टेन यसलाई सारांश।
+
+Step 202/330
+>> Nepali - Burmese
+	ဒံယေလ Stein ၏အကျဉ်းချုပ်ဖြစ်၏။
+
+Step 203/330
+>> Burmese - Portuguese
+	Resumo de Daniel Stein.
+
+Step 204/330
+>> Portuguese - English
+	Daniel Stein's Summary.
+
+Step 205/330
+>> English - Portuguese
+	Resumo de Daniel Stein.
+
+Step 206/330
+>> Portuguese - English
+	Daniel Stein's Summary.
+
+Step 207/330
+>> English - Portuguese
+	Resumo de Daniel Stein.
+
+Step 208/330
+>> Portuguese - English
+	Daniel Stein's Summary.
+
+Step 209/330
+>> English - lao
+	ບົດສະຫຼຸບຂອງ Daniel Stein.
+
+Step 210/330
+>> lao - French
+	Résumé de Daniel Stein.
+
+Step 211/330
+>> French - Bengali
+	ড্যানিয়েল স্টেইনের সংক্ষিপ্তসার।
+
+Step 212/330
+>> Bengali - English
+	Summary of Daniel Stein.
+
+Step 213/330
+>> English - Spanish
+	Resumen de Daniel Stein.
+
+Step 214/330
+>> Spanish - Portuguese
+	Resumo de Daniel Stein.
+
+Step 215/330
+>> Portuguese - Hindi
+	डैनियल स्टीन का सारांश।
+
+Step 216/330
+>> Hindi - English
+	Summary of Daniel Stein.
+
+Step 217/330
+>> English - Spanish
+	Resumen de Daniel Stein.
+
+Step 218/330
+>> Spanish - English
+	Summary of Daniel Stein.
+
+Step 219/330
+>> English - Portuguese
+	Resumo de Daniel Stein.
+
+Step 220/330
+>> Portuguese - Spanish
+	Resumen de Daniel Stein.
+
+Step 221/330
+>> Spanish - Arabic
+	ملخص دانيال شتاين.
+
+Step 222/330
+>> Arabic - Russian
+	Резюме Даниэля Стейна.
+
+Step 223/330
+>> Russian - Spanish
+	Resumen de Daniel Stein.
+
+Step 224/330
+>> Spanish - Arabic
+	ملخص دانيال شتاين.
+
+Step 225/330
+>> Arabic - Spanish
+	Resumen de Daniel Stein.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Tóm tắt về Daniel Stein.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Ringkasan Daniel Stein.
+
+Step 228/330
+>> Indonesian - Arabic
+	دانيال شتاين ملخص.
+
+Step 229/330
+>> Arabic - Zulu
+	Isifingqo sikaDaniel Stein.
+
+Step 230/330
+>> Zulu - Filipino
+	Buod sa pamamagitan ni Daniel Stein.
+
+Step 231/330
+>> Filipino - Romanian
+	Rezumat de Daniel Stein.
+
+Step 232/330
+>> Romanian - Spanish
+	Resumen de Daniel Stein.
+
+Step 233/330
+>> Spanish - French
+	Résumé de Daniel Stein.
+
+Step 234/330
+>> French - Arabic
+	ملخص دانيال شتاين.
+
+Step 235/330
+>> Arabic - English
+	Summary of Daniel Stein.
+
+Step 236/330
+>> English - Uzbek
+	Daniel Steinning qisqacha bayoni.
+
+Step 237/330
+>> Uzbek - Samoan
+	Daniel Stein Aotelega.
+
+Step 238/330
+>> Samoan - English
+	Daniel Stein Summary.
+
+Step 239/330
+>> English - Dutch
+	Daniel Stein Samenvatting.
+
+Step 240/330
+>> Dutch - English
+	Daniel Stein Summary.
+
+Step 241/330
+>> English - Kurdish
+	Daniel Stein Summary
+
+Step 242/330
+>> Kurdish - Arabic
+	دانيال شتاين ملخص
+
+Step 243/330
+>> Arabic - Spanish
+	Daniel Stein Resumen
+
+Step 244/330
+>> Spanish - Mongolian
+	Даниел Стейн хураангуй
+
+Step 245/330
+>> Mongolian - English
+	Summary of Daniel Stein
+
+Step 246/330
+>> English - Spanish
+	Resumen de Daniel Stein
+
+Step 247/330
+>> Spanish - Ukrainian
+	Підсумок Даніеля Штейна
+
+Step 248/330
+>> Ukrainian - Spanish
+	Resumen de Daniel Stein
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	丹尼尔斯坦的总结
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	ملخص دانيالشتاين
+
+Step 251/330
+>> Arabic - Thai
+	บทสรุปของ Danielstein
+
+Step 252/330
+>> Thai - Armenian
+	Դանիելշտեյնի ամփոփագիր
+
+Step 253/330
+>> Armenian - Macedonian
+	Резиме на Даниелштајн:
+
+Step 254/330
+>> Macedonian - Arabic
+	ملخص دانيالشتاين:
+
+Step 255/330
+>> Arabic - Portuguese
+	Resumo de Danielstein:
+
+Step 256/330
+>> Portuguese - Spanish
+	Resumen de Danielstein:
+
+Step 257/330
+>> Spanish - Bosnian
+	Danielstein sažetak:
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඩැනියෙල්ස්ටයින් සාරාංශය:
+
+Step 259/330
+>> Sinhala - English
+	Danielsstein Summary:
+
+Step 260/330
+>> English - Spanish
+	Resumen de Danielsstein:
+
+Step 261/330
+>> Spanish - English
+	Danielsstein summary:
+
+Step 262/330
+>> English - Georgian
+	დანიელშტეინის მოკლე შინაარსი:
+
+Step 263/330
+>> Georgian - English
+	Summary of Danielstein:
+
+Step 264/330
+>> English - Albanian
+	Përmbledhja e Danielstein:
+
+Step 265/330
+>> Albanian - Serbian
+	Даниелстеин Резиме:
+
+Step 266/330
+>> Serbian - Spanish
+	Resumen de Danielstein:
+
+Step 267/330
+>> Spanish - English
+	Danielstein's Summary:
+
+Step 268/330
+>> English - Turkish
+	Danielstein Özet:
+
+Step 269/330
+>> Turkish - Spanish
+	Resumen de Danielstein:
+
+Step 270/330
+>> Spanish - French
+	Résumé de Danielstein:
+
+Step 271/330
+>> French - English
+	Danielstein's summary:
+
+Step 272/330
+>> English - Persian
+	خلاصه دانیلشتاین:
+
+Step 273/330
+>> Persian - Kazakh
+	Қысқаша мазмұны:
+
+Step 274/330
+>> Kazakh - English
+	Summary:
+
+Step 275/330
+>> English - Malay
+	Ringkasan:
+
+Step 276/330
+>> Malay - Arabic
+	خلاصة القول:
+
+Step 277/330
+>> Arabic - Spanish
+	Línea inferior:
+
+Step 278/330
+>> Spanish - English
+	Bottom line:
+
+Step 279/330
+>> English - Russian
+	Нижняя линия:
+
+Step 280/330
+>> Russian - Romanian
+	Linia de jos:
+
+Step 281/330
+>> Romanian - Bulgarian
+	Долен ред:
+
+Step 282/330
+>> Bulgarian - Albanian
+	Linja e poshtme:
+
+Step 283/330
+>> Albanian - Russian
+	Итог:
+
+Step 284/330
+>> Russian - Arabic
+	النتيجة:
+
+Step 285/330
+>> Arabic - Spanish
+	Resultado:
+
+Step 286/330
+>> Spanish - Croatian
+	rezultat:
+
+Step 287/330
+>> Croatian - Hungarian
+	eredmény:
+
+Step 288/330
+>> Hungarian - Spanish
+	resultado:
+
+Step 289/330
+>> Spanish - Arabic
+	النتيجة:
+
+Step 290/330
+>> Arabic - Portuguese
+	Resultado:
+
+Step 291/330
+>> Portuguese - Latvian
+	Rezultāts:
+
+Step 292/330
+>> Latvian - Arabic
+	النتيجة:
+
+Step 293/330
+>> Arabic - Malay
+	Keputusan:
+
+Step 294/330
+>> Malay - Slovak
+	výsledky:
+
+Step 295/330
+>> Slovak - Arabic
+	النتائج:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Rezultatai:
+
+Step 297/330
+>> Lithuanian - Catalan
+	Resultats:
+
+Step 298/330
+>> Catalan - Arabic
+	النتائج:
+
+Step 299/330
+>> Arabic - Polish
+	Wyniki:
+
+Step 300/330
+>> Polish - Turkish
+	sonuçlar:
+
+Step 301/330
+>> Turkish - Greek
+	αποτελέσματα:
+
+Step 302/330
+>> Greek - Estonian
+	tulemused:
+
+Step 303/330
+>> Estonian - Maltese
+	riżultati:
+
+Step 304/330
+>> Maltese - Italian
+	i risultati:
+
+Step 305/330
+>> Italian - Czech
+	výsledky:
+
+Step 306/330
+>> Czech - Spanish
+	resultados:
+
+Step 307/330
+>> Spanish - Slovenian
+	rezultati:
+
+Step 308/330
+>> Slovenian - French
+	résultats:
+
+Step 309/330
+>> French - Korean
+	결과 :
+
+Step 310/330
+>> Korean - Hebrew
+	תוצאה:
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Resultat:
+
+Step 312/330
+>> Luxembourgish - German
+	Ergebnis:
+
+Step 313/330
+>> German - Japanese
+	結果：
+
+Step 314/330
+>> Japanese - German
+	Ergebnis:
+
+Step 315/330
+>> German - Dutch
+	resultaat:
+
+Step 316/330
+>> Dutch - Maori
+	hua:
+
+Step 317/330
+>> Maori - Finnish
+	tulokset:
+
+Step 318/330
+>> Finnish - English
+	score:
+
+Step 319/330
+>> English - Danish
+	score:
+
+Step 320/330
+>> Danish - Dutch
+	score:
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	得分：
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	poäng:
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	要點：
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Lykilatriði:
+
+Step 325/330
+>> Icelandic - German
+	Kernpunkte:
+
+Step 326/330
+>> German - Irish
+	Eochairphointí:
+
+Step 327/330
+>> Irish - English
+	Key points:
+
+Step 328/330
+>> English - German
+	Wichtige Punkte:
+
+Step 329/330
+>> German - Norwegian
+	Viktige punkter:
+
+Step 330/330
+>> Norwegian - Portuguese
+	Pontos importantes:
+
+
+##### RESULTS ######
+
+Apenas Dinarzade notou que estava na hora de acordar a sultana, suplicou-lhe, enquanto aguardavam o dia, que lhe contasse uma história bonita.
+
+Pontos importantes:
