@@ -1,181 +1,181 @@
-Position,Country,IDH,Language,Code
-1,Norway,0.953,Norwegian,no
-2,Switzerland,0.944,German,de
-3,Australia,0.939,English,en
-4,Ireland,0.938,Irish,ga
-5,Germany,0.936,German,de
-6,Iceland,0.935,Icelandic,is
-7,Hong Kong,0.933,Chinese (Traditional),zh-TW
-8,Sweden,0.933,Swedish,sv
-9,Singapore,0.932,Chinese (Traditional),zh-TW
-10,Netherlands,0.931,Dutch,nl
-11,Denmark,0.929,Danish,da
-12,Canada,0.926,English,en
-13,United States,0.924,English,en
-14,United Kingdom,0.922,English,en
-15,Finland,0.92,Finnish,fi
-16,New Zealand,0.917,Maori,mi
-17,Belgium,0.916,Dutch,nl
-18,Liechtenstein,0.916,German,de
-19,Japan,0.909,Japanese,ja
-20,Austria,0.908,German,de
-21,Luxembourg,0.904,Luxembourgish,lb
-22,Israel,0.903,Hebrew,he
-23,South Korea,0.903,Korean,ko
-24,France,0.901,French,fr
-25,Slovenia,0.896,Slovenian,sl
-26,Spain,0.891,Spanish,es
-27,Czech Republic,0.888,Czech,cs
-28,Italy,0.88,Italian,it
-29,Malta,0.878,Maltese,mt
-30,Estonia,0.871,Estonian,et
-31,Greece,0.87,Greek,el
-32,Cyprus,0.869,Turkish,tr
-33,Poland,0.865,Polish,pl
-34,United Arab Emirates,0.863,Arabic,ar
-35,Andorra,0.858,Catalan,ca
-36,Lithuania,0.858,Lithuanian,lt
-37,Qatar,0.856,Arabic,ar
-38,Slovakia,0.855,Slovak,sk
-39,Brunei,0.853,Malay,ms
-40,Saudi Arabia,0.853,Arabic,ar
-41,Latvia,0.847,Latvian,lv
-42,Portugal,0.847,Portuguese,pt
-43,Bahrain,0.846,Arabic,ar
-44,Chile,0.843,Spanish,es
-45,Hungary,0.838,Hungarian,hu
-46,Croatia,0.831,Croatian,hr
-47,Argentina,0.825,Spanish,es
-48,Oman,0.821,Arabic,ar
-49,Russia,0.816,Russian,ru
-50,Montenegro,0.814,Albanian,sq
-51,Bulgaria,0.813,Bulgarian,bg
-52,Romania,0.811,Romanian,ro
-53,Belarus,0.808,Russian,ru
-54,Bahamas,0.807,English,en
-55,Uruguay,0.804,Spanish,es
-56,Kuwait,0.803,Arabic,ar
-57,Malaysia,0.802,Malay,ms
-58,Barbados,0.8,English,en
-59,Kazakhstan,0.8,Kazakh,kk
-60,Iran,0.798,Persian,fa
-60,Palau,0.798,English,en
-62,Seychelles,0.797,French,fr
-63,Costa Rica,0.794,Spanish,es
-64,Turkey,0.791,Turkish,tr
-65,Mauritius,0.79,English,en
-66,Panama,0.789,Spanish,es
-67,Serbia,0.787,Serbian,sr
-68,Albania,0.785,Albanian,sq
-69,Trinidad and Tobago,0.784,English,en
-70,Antigua and Barbuda,0.78,English,en
-70,Georgia,0.78,Georgian,ka
-72,Saint Kitts and Nevis,0.778,English,en
-73,Cuba,0.777,Spanish,es
-74,Mexico,0.774,Spanish,es
-75,Grenada,0.772,English,en
-76,Sri Lanka,0.77,Sinhala,si
-77,Bosnia and Herzegovina,0.768,Bosnian,bs
-78,Venezuela,0.761,Spanish,es
-79,Brazil,0.759,Portuguese,pt
-80,Lebanon,0.757,Arabic,ar
-80,North Macedonia,0.757,Macedonian,mk
-83,Armenia,0.755,Armenian,hy
-83,Thailand,0.755,Thai,th
-85,Algeria,0.754,Arabic,ar
-86,China,0.752,Chinese (Simplified),zh
-86,Ecuador,0.752,Spanish,es
-88,Ukraine,0.751,Ukrainian,uk
-89,Peru,0.75,Spanish,es
-90,Colombia,0.747,Spanish,es
-90,Saint Lucia,0.747,English,en
-92,Fiji,0.741,English,en
-92,Mongolia,0.741,Mongolian,mn
-94,Dominican Republic,0.736,Spanish,es
-95,Jordan,0.735,Arabic,ar
-95,Tunisia,0.735,Kurdish,ku
-97,Jamaica,0.732,English,en
-98,Tonga,0.726,English,en
-99,Saint Vincent and the Grenadines,0.723,English,en
-100,Suriname,0.72,Dutch,nl
-101,Botswana,0.717,English,en
-103,Dominica,0.715,English,en
-104,Samoa,0.713,Samoan,sm
-105,Uzbekistan,0.71,Uzbek,uz
-106,Belize,0.708,English,en
-106,Marshall Islands,0.708,English,en
-108,Libya,0.706,Arabic,ar
-110,Gabon,0.702,French,fr
-110,Paraguay,0.702,Spanish,es
-112,Moldova,0.7,Romanian,ro
-113,Philippines,0.6990000000000001,Filipino,tl
-113,South Africa,0.6990000000000001,Zulu,zu
-115,Egypt,0.696,Arabic,ar
-116,Indonesia,0.6940000000000001,Indonesian,id
-116,Vietnam,0.6940000000000001,Vietnamese,vi
-118,Bolivia,0.693,Spanish,es
-119,Palestine,0.6859999999999999,Arabic,ar
-120,Iraq,0.685,Arabic,ar
-121,El Salvador,0.674,Spanish,es
-122,Kyrgyzstan,0.672,Russian,ru
-123,Morocco,0.667,Arabic,ar
-124,Nicaragua,0.6579999999999999,Spanish,es
-125,Cape Verde,0.654,Portuguese,pt
-125,Guyana,0.654,English,en
-127,Guatemala,0.65,Spanish,es
-129,Namibia,0.647,English,en
-130,India,0.64,Hindi,hi
-132,East Timor,0.625,Portuguese,pt
-133,Honduras,0.617,Spanish,es
-134,Kiribati,0.612,English,en
-136,Bangladesh,0.608,Bengali,bn
-137,Republic of the Congo,0.606,French,fr
-138,Vanuatu,0.603,French,fr
-139,Laos,0.601,lao,lo
-140,Ghana,0.5920000000000001,English,en
-141,Equatorial Guinea,0.591,Portuguese,pt
-142,Kenya,0.59,English,en
-143,São Tomé and Príncipe,0.589,Portuguese,pt
-144,Zambia,0.588,English,en
-147,Angola,0.581,Portuguese,pt
-148,Myanmar,0.578,Burmese,my
-149,Nepal,0.574,Nepali,ne
-150,Pakistan,0.562,Urdu,ur
-151,Cameroon,0.556,French,fr
-152,Solomon Islands,0.546,English,en
-153,Papua New Guinea,0.544,English,en
-154,Tanzania,0.538,Swahili,sw
-155,Syria,0.536,Arabic,ar
-156,Zimbabwe,0.535,Shona,sn
-157,Nigeria,0.532,Hausa,ha
-158,Rwanda,0.524,Swahili,sw
-159,Lesotho,0.52,English,en
-159,Mauritania,0.52,Arabic,ar
-161,Madagascar,0.519,Malagasy,mg
-162,Uganda,0.516,Swahili,sw
-163,Benin,0.515,French,fr
-164,Senegal,0.505,French,fr
-165,Comoros,0.503,Arabic,ar
-165,Togo,0.503,French,fr
-167,Sudan,0.502,Arabic,ar
-168,Haiti,0.498,Haitian Creole,ht
-168,Afghanistan,0.498,Pashto,ps
-170,Ivory Coast,0.492,French,fr
-171,Malawi,0.477,Chichewa,ny
-172,Djibouti,0.476,Arabic,ar
-173,Ethiopia,0.463,Amharic,am
-174,Gambia,0.46,English,en
-175,Guinea,0.459,French,fr
-176,Democratic Republic of the Congo,0.457,Swahili,sw
-177,Guinea-Bissau,0.455,Portuguese,pt
-178,Yemen,0.452,Arabic,ar
-180,Mozambique,0.437,Portuguese,pt
-181,Liberia,0.435,English,en
-182,Mali,0.427,French,fr
-183,Burkina Faso,0.423,French,fr
-184,Sierra Leone,0.419,English,en
-185,Burundi,0.417,Swahili,sw
-186,Chad,0.404,Arabic,ar
-187,South Sudan,0.388,Arabic,en
-188,Central African Republic,0.367,French,fr
-189,Niger,0.354,Hausa,ha
+Position,Country,IDH,Language,Code,Long,Lat
+1,Norway,0.953,Norwegian,no,8.468946,60.472024
+2,Switzerland,0.9440000000000001,German,de,8.227511999999999,46.818188
+3,Australia,0.9390000000000001,English,en,133.775136,-25.274398
+4,Ireland,0.938,Irish,ga,-8.243889999999999,53.41291
+5,Germany,0.9359999999999999,German,de,10.451526,51.165691
+6,Iceland,0.935,Icelandic,is,-19.020835,64.963051
+7,Hong Kong,0.9329999999999999,Chinese (Traditional),zh-TW,114.10949699999999,22.396428
+8,Sweden,0.9329999999999999,Swedish,sv,18.643501,60.128161
+9,Singapore,0.932,Chinese (Traditional),zh-TW,103.819836,1.352083
+10,Netherlands,0.9309999999999999,Dutch,nl,5.291266,52.132633
+11,Denmark,0.929,Danish,da,9.501785,56.26392
+12,Canada,0.9259999999999999,English,en,-106.34677099999999,56.130366
+13,United States,0.924,English,en,-95.712891,37.09024
+14,United Kingdom,0.922,English,en,-3.435973,55.378051
+15,Finland,0.92,Finnish,fi,25.748151,61.92411
+16,New Zealand,0.917,Maori,mi,174.88597099999998,-40.900557
+17,Belgium,0.9159999999999999,Dutch,nl,4.469936,50.503887
+18,Liechtenstein,0.9159999999999999,German,de,9.555373,47.166
+19,Japan,0.909,Japanese,ja,138.252924,36.204824
+20,Austria,0.9079999999999999,German,de,14.550072,47.516231
+21,Luxembourg,0.904,Luxembourgish,lb,6.129583,49.815273
+22,Israel,0.903,Hebrew,he,34.851612,31.046051
+23,South Korea,0.903,Korean,ko,127.766922,35.907757
+24,France,0.9009999999999999,French,fr,2.213749,46.227638
+25,Slovenia,0.8959999999999999,Slovenian,sl,14.995463,46.151241
+26,Spain,0.8909999999999999,Spanish,es,-3.7492199999999998,40.463667
+27,Czech Republic,0.888,Czech,cs,15.472961999999999,49.817492
+28,Italy,0.88,Italian,it,12.56738,41.87194
+29,Malta,0.878,Maltese,mt,14.375416,35.937496
+30,Estonia,0.871,Estonian,et,25.013607,58.595272
+31,Greece,0.87,Greek,el,21.824312,39.074208
+32,Cyprus,0.8690000000000001,Turkish,tr,33.429859,35.126413
+33,Poland,0.865,Polish,pl,19.145135999999997,51.919438
+34,United Arab Emirates,0.863,Arabic,ar,53.847818000000004,23.424076
+35,Andorra,0.858,Catalan,ca,1.6015540000000001,42.546245
+36,Lithuania,0.858,Lithuanian,lt,23.881275,55.169438
+37,Qatar,0.856,Arabic,ar,51.183884,25.354826
+38,Slovakia,0.855,Slovak,sk,19.699023999999998,48.669026
+39,Brunei,0.853,Malay,ms,114.72766899999999,4.535277
+40,Saudi Arabia,0.853,Arabic,ar,45.079162,23.885942
+41,Latvia,0.847,Latvian,lv,24.603189,56.879635
+42,Portugal,0.847,Portuguese,pt,-8.224454,39.399872
+43,Bahrain,0.846,Arabic,ar,50.637772,25.930414
+44,Chile,0.843,Spanish,es,-71.542969,-35.675147
+45,Hungary,0.838,Hungarian,hu,19.503304,47.162494
+46,Croatia,0.831,Croatian,hr,15.2,45.1
+47,Argentina,0.825,Spanish,es,-63.616671999999994,-38.416097
+48,Oman,0.821,Arabic,ar,55.923255000000005,21.512583
+49,Russia,0.816,Russian,ru,105.31875600000001,61.52401
+50,Montenegro,0.8140000000000001,Albanian,sq,19.37439,42.708678
+51,Bulgaria,0.813,Bulgarian,bg,25.48583,42.733883
+52,Romania,0.8109999999999999,Romanian,ro,24.96676,45.943161
+53,Belarus,0.8079999999999999,Russian,ru,27.953389,53.709807
+54,Bahamas,0.807,English,en,-77.39628,25.03428
+55,Uruguay,0.804,Spanish,es,-55.765834999999996,-32.522779
+56,Kuwait,0.8029999999999999,Arabic,ar,47.481766,29.31166
+57,Malaysia,0.802,Malay,ms,101.97576600000001,4.210484
+58,Barbados,0.8,English,en,-59.543198,13.193887
+59,Kazakhstan,0.8,Kazakh,kk,66.923684,48.019573
+60,Iran,0.7979999999999999,Persian,fa,53.68804599999999,32.427908
+60,Palau,0.7979999999999999,English,en,134.58252,7.51498
+62,Seychelles,0.797,French,fr,55.491977,-4.679574
+63,Costa Rica,0.794,Spanish,es,-83.753428,9.748917
+64,Turkey,0.7909999999999999,Turkish,tr,35.243322,38.963745
+65,Mauritius,0.79,English,en,57.552152,-20.348404
+66,Panama,0.789,Spanish,es,-80.782127,8.537981
+67,Serbia,0.787,Serbian,sr,21.005859,44.016521
+68,Albania,0.785,Albanian,sq,20.168331,41.153332
+69,Trinidad and Tobago,0.784,English,en,-61.222503,10.691803
+70,Antigua and Barbuda,0.78,English,en,-61.796428000000006,17.060816
+70,Georgia,0.78,Georgian,ka,43.356891999999995,42.315407
+72,Saint Kitts and Nevis,0.778,English,en,-62.782998,17.357822
+73,Cuba,0.777,Spanish,es,-77.78116700000001,21.521757
+74,Mexico,0.774,Spanish,es,-102.552784,23.634501
+75,Grenada,0.772,English,en,-61.604170999999994,12.262776
+76,Sri Lanka,0.77,Sinhala,si,80.77179699999999,7.873054
+77,Bosnia and Herzegovina,0.768,Bosnian,bs,17.679076000000002,43.915886
+78,Venezuela,0.7609999999999999,Spanish,es,-66.58973,6.42375
+79,Brazil,0.759,Portuguese,pt,-51.92528,-14.235004
+80,Lebanon,0.757,Arabic,ar,35.862285,33.854721
+80,North Macedonia,0.757,Macedonian,mk,21.745275,41.608635
+83,Armenia,0.755,Armenian,hy,45.038189,40.069099
+83,Thailand,0.755,Thai,th,100.992541,15.870032
+85,Algeria,0.754,Arabic,ar,1.6596259999999998,28.033886
+86,China,0.752,Chinese (Simplified),zh,104.195397,35.86166
+86,Ecuador,0.752,Spanish,es,-78.183406,-1.831239
+88,Ukraine,0.7509999999999999,Ukrainian,uk,31.16558,48.379433
+89,Peru,0.75,Spanish,es,-75.015152,-9.189967
+90,Colombia,0.747,Spanish,es,-74.297333,4.570868
+90,Saint Lucia,0.747,English,en,-60.97889300000001,13.909444
+92,Fiji,0.741,English,en,179.414413,-16.578193
+92,Mongolia,0.741,Mongolian,mn,103.84665600000001,46.862496
+94,Dominican Republic,0.736,Spanish,es,-70.162651,18.735693
+95,Jordan,0.735,Arabic,ar,36.238414,30.585164
+95,Tunisia,0.735,Kurdish,ku,9.537499,33.886917
+97,Jamaica,0.732,English,en,-77.297508,18.109581
+98,Tonga,0.726,English,en,-175.198242,-21.178986
+99,Saint Vincent and the Grenadines,0.723,English,en,-61.287228000000006,12.984305
+100,Suriname,0.72,Dutch,nl,-56.02778299999999,3.919305
+101,Botswana,0.7170000000000001,English,en,24.684866,-22.328474
+103,Dominica,0.715,English,en,-61.370976,15.414999
+104,Samoa,0.713,Samoan,sm,-172.10462900000002,-13.759029
+105,Uzbekistan,0.71,Uzbek,uz,64.585262,41.377491
+106,Belize,0.708,English,en,-88.49765,17.189877
+106,Marshall Islands,0.708,English,en,171.184478,7.131474
+108,Libya,0.706,Arabic,ar,17.228331,26.3351
+110,Gabon,0.7020000000000001,French,fr,11.609444,-0.803689
+110,Paraguay,0.7020000000000001,Spanish,es,-58.44383199999999,-23.442503
+112,Moldova,0.7,Romanian,ro,28.369884999999996,47.411631
+113,Philippines,0.6990000000000001,Filipino,tl,121.77401699999999,12.879721
+113,South Africa,0.6990000000000001,Zulu,zu,22.937506,-30.559482
+115,Egypt,0.696,Arabic,ar,30.802497999999996,26.820553
+116,Indonesia,0.6940000000000001,Indonesian,id,113.921327,-0.789275
+116,Vietnam,0.6940000000000001,Vietnamese,vi,108.277199,14.058324
+118,Bolivia,0.693,Spanish,es,-63.588653,-16.290154
+119,Palestine,0.6859999999999999,Arabic,ar,35.233154,31.952162
+120,Iraq,0.685,Arabic,ar,43.679291,33.223191
+121,El Salvador,0.674,Spanish,es,-88.89653,13.794185
+122,Kyrgyzstan,0.672,Russian,ru,74.766098,41.20438
+123,Morocco,0.667,Arabic,ar,-7.09262,31.791702
+124,Nicaragua,0.6579999999999999,Spanish,es,-85.207229,12.865416
+125,Cape Verde,0.654,Portuguese,pt,-24.013197,16.002082
+125,Guyana,0.654,English,en,-58.93018000000001,4.860416
+127,Guatemala,0.65,Spanish,es,-90.23075899999999,15.783471
+129,Namibia,0.647,English,en,18.49041,-22.95764
+130,India,0.64,Hindi,hi,78.96288,20.593684
+132,East Timor,0.625,Portuguese,pt,125.727539,-8.874217
+133,Honduras,0.617,Spanish,es,-86.241905,15.199999
+134,Kiribati,0.612,English,en,-168.734039,-3.370417
+136,Bangladesh,0.608,Bengali,bn,90.35633100000001,23.684994
+137,Republic of the Congo,0.606,French,fr,15.827658999999999,-0.228021
+138,Vanuatu,0.603,French,fr,166.959158,-15.376706
+139,Laos,0.601,lao,lo,102.495496,19.85627
+140,Ghana,0.5920000000000001,English,en,-1.0231940000000002,7.946527
+141,Equatorial Guinea,0.591,Portuguese,pt,10.267895,1.650801
+142,Kenya,0.59,English,en,37.906193,-0.023559
+143,São Tomé and Príncipe,0.589,Portuguese,pt,6.613081,0.18636
+144,Zambia,0.588,English,en,27.849332,-13.133897
+147,Angola,0.581,Portuguese,pt,17.873887,-11.202692
+148,Myanmar,0.578,Burmese,my,95.956223,21.913965
+149,Nepal,0.574,Nepali,ne,84.12400799999999,28.394857
+150,Pakistan,0.562,Urdu,ur,69.345116,30.375321
+151,Cameroon,0.556,French,fr,12.354722,7.369722
+152,Solomon Islands,0.546,English,en,160.156194,-9.64571
+153,Papua New Guinea,0.544,English,en,143.95555,-6.314993
+154,Tanzania,0.5379999999999999,Swahili,sw,34.888822,-6.369028
+155,Syria,0.536,Arabic,ar,38.996815000000005,34.802075
+156,Zimbabwe,0.535,Shona,sn,29.154857,-19.015438
+157,Nigeria,0.532,Hausa,ha,8.675277000000001,9.081999
+158,Rwanda,0.524,Swahili,sw,29.873888,-1.940278
+159,Lesotho,0.52,English,en,28.233608,-29.609988
+159,Mauritania,0.52,Arabic,ar,-10.940835,21.00789
+161,Madagascar,0.519,Malagasy,mg,46.869107,-18.766947
+162,Uganda,0.516,Swahili,sw,32.290275,1.373333
+163,Benin,0.515,French,fr,2.315834,9.30769
+164,Senegal,0.505,French,fr,-14.452361999999999,14.497401
+165,Comoros,0.503,Arabic,ar,43.872219,-11.875001
+165,Togo,0.503,French,fr,0.824782,8.619543
+167,Sudan,0.502,Arabic,ar,30.217636,12.862807
+168,Haiti,0.498,Haitian Creole,ht,-72.28521500000001,18.971187
+168,Afghanistan,0.498,Pashto,ps,67.709953,33.93911
+170,Ivory Coast,0.49200000000000005,French,fr,-5.5475449999999995,7.5455112
+171,Malawi,0.47700000000000004,Chichewa,ny,34.301525,-13.254308
+172,Djibouti,0.47600000000000003,Arabic,ar,42.590275,11.825138
+173,Ethiopia,0.46299999999999997,Amharic,am,40.489672999999996,9.145
+174,Gambia,0.46,English,en,-15.310139000000001,13.443182
+175,Guinea,0.45899999999999996,French,fr,-9.696645,9.945587
+176,Democratic Republic of the Congo,0.457,Swahili,sw,21.758664000000003,-4.038333
+177,Guinea-Bissau,0.455,Portuguese,pt,-15.180413,11.803749
+178,Yemen,0.452,Arabic,ar,48.516388,15.552727
+180,Mozambique,0.43700000000000006,Portuguese,pt,35.529562,-18.665695
+181,Liberia,0.435,English,en,-9.429499,6.428055
+182,Mali,0.42700000000000005,French,fr,-3.9961660000000006,17.570692
+183,Burkina Faso,0.423,French,fr,-1.561593,12.238333
+184,Sierra Leone,0.419,English,en,-11.779889,8.460555
+185,Burundi,0.41700000000000004,Swahili,sw,29.918885999999997,-3.373056
+186,Chad,0.40399999999999997,Arabic,ar,18.732207,15.454166
+187,South Sudan,0.38799999999999996,Arabic,en,31.6,4.85
+188,Central African Republic,0.36700000000000005,French,fr,20.939444,6.611111
+189,Niger,0.354,Hausa,ha,8.081666,17.607789
