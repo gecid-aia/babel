@@ -1,0 +1,1173 @@
+Translation chain: hu - en - it - fa - zh - bn - uk - en - it - hu - en - zh - bn - fa - bn - zh - fa - uk - hu - fa - it - en - bn - uk - bn - en - it - bn - en - zh - uk - en - it - hu - bn - hu - fa - bn - zh - fa - uk - hu - en - hu - en - zh - fa - en - uk - bn - hu - fa - en - fa - it - zh - fa - it - hu - it - bn - uk - bn - it - uk - hu - uk - it - hu - uk - fa - it - en - uk - hu - it - hu - en - fa - zh - uk - en - zh - bn - hu - it - uk - zh - fa - uk - bn - hu - zh - uk - hu - bn - hu - fa - uk - bn - it - hu - zh - bn - it - bn - it - uk - it - uk - fa - en - fa - zh - en - fa - zh - en - it - bn - hu - fa - uk - en - it - zh - hu - bn - it - zh - bn - zh - it - zh - fa - uk - bn - zh - it - en - uk - fa.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Hungarian
+	Számára a szövegek minden egyes olvasása mindig a szöveg új átméretezését és megértését fogja eredményezni. Metaforikusan a szövegek elõtt áll, mint Heraclitus River Bather, amelybe lehetetlen kétszer belépni, mert útja folyamatosan változik.
+
+Step 2/284
+>> Hungarian - English
+	For him, each reading of the text will always result in a new resizing and understanding of the text. Metaphorically ahead of the lyrics, like Heraclitus River Bather, is impossible to enter twice because his path is constantly changing.
+
+Step 3/284
+>> English - Italian
+	Per lui, ogni lettura del testo si tradurrà sempre in un nuovo ridimensionamento e comprensione del testo. Metaforicamente in vista dei testi, come Heraclitus River Bather, è impossibile entrare due volte perché il suo percorso è in continua evoluzione.
+
+Step 4/284
+>> Italian - Italian
+	برای او ، هر خواندن متن همیشه منجر به پوسته پوسته شدن و درک جدید متن خواهد شد. از نظر استعاری با توجه به متون ، مانند هراکلیتوس رودخانه بات ، امکان ورود دو بار غیرممکن است زیرا مسیر آن در تکامل مداوم است.
+
+Step 5/284
+>> Italian - Chinese (Simplified)
+^Z
+[2]+  Stopped                 python3 cli.py datasets/mother2.csv
+lucasnseq@LNSEQ-PC:~/CCM/IC/bienal/babel_article$ python3 cli.py datasets/mother2.csv
+Translation chain: zh - uk - fa - bn - it - bn - zh - en - hu - uk - bn - en - hu - it - fa - bn - uk - fa - zh - fa - en - it - fa - bn - uk - en - uk - hu - fa - bn - it - en - zh - uk - fa - zh - uk - zh - fa - en - it - bn - fa - it - uk - hu - uk - en - fa - uk - hu - fa - en - uk - zh - bn - uk - hu - zh - hu - it - bn - hu - en - it - zh - hu - fa - bn - fa - hu - fa - en - bn - fa - en - hu - it - uk - bn - hu - it - fa - hu - en - uk - it - zh - en - zh - hu - it - zh - bn - en - fa - it - hu - zh - bn - hu - zh - it - fa - bn - zh - hu - zh - hu - zh - en - bn - uk - fa - hu - uk - bn - hu - zh - hu - it - bn - en - uk - en - zh - fa - it - fa - uk - bn - zh - uk - hu - uk - en - bn - zh - fa - it - bn - it.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Chinese (Simplified)
+	对于他来说，每次阅读任何文本都将始终为该文本提供新的大小调整和理解。隐喻地讲，他站在《赫拉克利特斯河沐浴者》之前，由于其路线在不断变化，因此不可能两次输入。
+
+Step 2/284
+>> Chinese (Simplified) - Ukrainian
+	Для нього кожен раз, коли ви читаєте будь-який текст, ви завжди надаватимете нові розміри та розуміння тексту. Метафорично він стояв перед річкою Геракліт Вітер, і оскільки його маршрут постійно змінюється, ввійти в нього двічі неможливо.
+
+Step 3/284
+>> Ukrainian - Persian
+	برای او ، هر بار که متن را می خواند ، همیشه ابعاد و درک جدیدی از متن ارائه می دهد. از نظر استعاری ، او در مقابل رودخانه هراکلتوس باد ایستاده بود و از آنجا که مسیر او دائماً در حال تغییر است ، ورود دو بار غیرممکن است.
+
+Step 4/284
+>> Persian - Bengali
+	তার জন্য, তিনি প্রতিবার পাঠটি পড়েন, তিনি সর্বদা পাঠ্যের নতুন মাত্রা এবং বোঝার প্রস্তাব দেন। রূপকভাবে, তিনি হেরাক্লিটাস নদীর সামনে দাঁড়িয়ে ছিলেন এবং যেহেতু তাঁর রুটটি নিয়মিত পরিবর্তন হচ্ছে, ডাবল প্রবেশ অসম্ভব।
+
+Step 5/284
+>> Bengali - Italian
+	Per lui, ogni volta che legge il testo, offre sempre nuove dimensioni e comprensione del testo. Metaforicamente, era in piedi di fronte al fiume Eraclito e poiché il suo percorso cambia regolarmente, la doppia entrata è impossibile.
+
+Step 6/284
+>> Italian - Bengali
+	তার জন্য, যখনই তিনি পাঠটি পড়েন, তিনি সর্বদা পাঠ্যের নতুন মাত্রা এবং বোঝার প্রস্তাব দেন। রূপকভাবে, তিনি হেরাক্লিটাস নদীর সামনে দাঁড়িয়ে ছিলেন এবং নিয়মিতভাবে তাঁর পথ পরিবর্তন হওয়ার সাথে সাথে ডাবল প্রবেশ অসম্ভব।
+
+Step 7/284
+>> Bengali - Chinese (Simplified)
+	对于他来说，每当他阅读文本时，他总是提供新的维度和对文本的理解。隐喻地，他站在赫拉克利特斯河的前面，由于他的行进路线经常变化，所以不可能再次进入。
+
+Step 8/284
+>> Chinese (Simplified) - English
+	For him, whenever he reads the text, he always provides new dimensions and an understanding of the text. Metaphorically, he stood in front of the Heraclitus River, and because his course of travel often changed, it was impossible to enter again.
+
+Step 9/284
+>> English - Hungarian
+	Számára, amikor elolvassa a szöveget, mindig új dimenziókat és megértést kínál a szöveg számára. Metaforikusan a Heraclitus folyó előtt állt, és mivel utazási útja gyakran megváltozott, lehetetlen volt újra belépni.
+
+Step 10/284
+>> Hungarian - Ukrainian
+	Для нього, читаючи текст, він завжди пропонує нові виміри та розуміння тексту. Метафорично він стояв перед річкою Геракліт, і оскільки його маршрут подорожі часто змінювався, знову неможливо було в’їхати.
+
+Step 11/284
+>> Ukrainian - Bengali
+	তাঁর পক্ষে, পাঠ্যটি পড়ার সাথে সাথে তিনি সর্বদা পাঠ্যের নতুন মাত্রা এবং বোঝার প্রস্তাব দেন। রূপকভাবে, তিনি হেরাক্লিটাস নদীর সামনে এসে দাঁড়ালেন এবং তার ভ্রমণপথটি ঘন ঘন পরিবর্তিত হওয়ায় পুনরায় প্রবেশ করা অসম্ভব ছিল।
+
+Step 12/284
+>> Bengali - English
+	For him, as he reads the text, he always offers new dimensions and understanding of the text. Metaphorically, he stood in front of the Heraclitus River, and his itinerary was frequently changed so it was impossible to re-enter.
+
+Step 13/284
+>> English - Hungarian
+	Számára, miközben elolvassa a szöveget, mindig új dimenziókat és megértést kínál a szöveg számára. Metaforikusan a Heraclitus folyó elõtt állt, útvonalát gyakran változtatta meg, így lehetetlen volt az újbóli belépés.
+
+Step 14/284
+>> Hungarian - Italian
+	Per lui, mentre legge il testo, offre sempre nuove dimensioni e comprensione al testo. In piedi metaforicamente di fronte al fiume Eraclito, cambiava spesso il suo percorso, rendendo impossibile il rientro.
+
+Step 15/284
+>> Italian - Persian
+	برای او ، ضمن خواندن متن ، همیشه ابعاد و درک جدید را به متن ارائه می دهد. ایستاده استعاره ای در کنار رودخانه اراکلیتو ، اغلب مسیر خود را تغییر می داد و بازگشت آن را غیرممکن می کرد.
+
+Step 16/284
+>> Persian - Bengali
+	তাঁর জন্য, পাঠটি পড়ার সময়, তিনি সর্বদা পাঠ্যের ক্ষেত্রে নতুন মাত্রা এবং বোঝাপড়া নিয়ে আসেন। আরাকলিটো নদীর তীরে রূপক অবস্থানটি প্রায়শই তার পথ পরিবর্তন করে এবং ফিরে আসা অসম্ভব করে তোলে।
+
+Step 17/284
+>> Bengali - Ukrainian
+	Для нього, читаючи текст, він завжди вносить у світ нові виміри та розуміння. Метафоричне розташування на березі річки Аракаліто часто змінює свій хід і унеможливлює повернення.
+
+Step 18/284
+>> Ukrainian - Persian
+	برای او ، هرچند متن را می خواند ، همیشه ابعاد و درک جدید را به جهانیان می آورد. موقعیت استعاری در سواحل رودخانه آراکلیتو اغلب مسیر خود را تغییر می دهد و بازگشت آن را غیرممکن می کند.
+
+Step 19/284
+>> Persian - Chinese (Simplified)
+	对他来说，尽管他阅读文字，但他始终为世界带来新的维度和理解。阿拉科托河两岸的隐喻位置经常改变其路线，使其无法返回。
+
+Step 20/284
+>> Chinese (Simplified) - Persian
+	برای او گرچه متن را می خواند ، اما همیشه ابعاد و درک جدید را به جهانیان می آورد. موقعیت استعاری در هر دو طرف رودخانه آلاکتو اغلب مسیر خود را تغییر می دهد و بازگشت آن را غیرممکن می کند.
+
+Step 21/284
+>> Persian - English
+	Although he reads the text, he always brings new dimensions and understanding to the world. The metaphorical position on both sides of the Alasko River often shifts and makes it impossible to return.
+
+Step 22/284
+>> English - Italian
+	Anche se legge il testo, porta sempre nuove dimensioni e comprensione nel mondo. La posizione metaforica su entrambi i lati del fiume Alasko cambia spesso e rende impossibile il ritorno.
+
+Step 23/284
+>> Italian - Persian
+	حتی اگر متن را بخواند ، همیشه ابعاد و درک جدید را به جهانیان می آورد. موقعیت استعاری در هر دو طرف رودخانه آلاسکو اغلب تغییر می کند و بازگشت آن را غیرممکن می کند.
+
+Step 24/284
+>> Persian - Bengali
+	এমনকি যদি এটি পাঠ্যটি পড়ে থাকে তবে তা সর্বদা বিশ্বে নতুন মাত্রা এবং বোঝাপড়া নিয়ে আসে। আলাস্কান নদীর দুপাশে রূপক অবস্থান প্রায়শই পরিবর্তিত হয় এবং ফিরে আসা অসম্ভব করে তোলে।
+
+Step 25/284
+>> Bengali - Ukrainian
+	Навіть якщо він читає текст, він завжди приносить у світ нові виміри та розуміння. Метафоричні місця по обидва боки річки Аляски часто змінюються і унеможливлюють повернення.
+
+Step 26/284
+>> Ukrainian - English
+	Even as he reads the text, he always brings new dimensions and understanding to the world. The metaphorical locations on both sides of the Alaska River often change and make it impossible to return.
+
+Step 27/284
+>> English - Ukrainian
+	Навіть читаючи текст, він завжди приносить у світ нові виміри та розуміння. Метафоричні місця по обидва боки річки Аляска часто змінюються і унеможливлюють повернення.
+
+Step 28/284
+>> Ukrainian - Hungarian
+	Még egy szöveg olvasásakor is új dimenziókat és bepillantást hoz a világba. Az Alaszka folyó mindkét oldalán található metaforikus helyek gyakran megváltoznak, és lehetetlenné teszik a visszatérést.
+
+Step 29/284
+>> Hungarian - Persian
+	حتی هنگام خواندن متن ، ابعاد و بینش های جدیدی را به جهانیان می بخشد. مکانهای استعاری در هر دو طرف رودخانه آلاسکا به طور مکرر تغییر می کنند و بازگشت آن غیرممکن می شوند.
+
+Step 30/284
+>> Persian - Bengali
+	আপনি যেমন পাঠটি পড়ছেন তেমনি এটি বিশ্বে নতুন অন্তর্দৃষ্টি দেয়। আলাস্কা নদীর দুপাশে রূপক স্থানগুলি প্রায়শই পরিবর্তিত হয়, যার ফলে ফিরে আসা অসম্ভব হয়ে পড়ে।
+
+Step 31/284
+>> Bengali - Italian
+	Mentre leggi il testo, offre nuove intuizioni sul mondo. I luoghi metaforici su entrambi i lati del fiume Alaska spesso cambiano, rendendo impossibile il ritorno.
+
+Step 32/284
+>> Italian - English
+	As you read the text, it offers new insights into the world. Metaphorical places on both sides of the Alaska river often change, making it impossible to return.
+
+Step 33/284
+>> English - Chinese (Simplified)
+	阅读文字时，它提供了对世界的新见解。阿拉斯加河两岸的隐喻场所经常发生变化，因此无法返回。
+
+Step 34/284
+>> Chinese (Simplified) - Ukrainian
+	Читаючи текст, він дає нові уявлення про світ. Метафоричні місця по обидва боки річки Аляска часто змінюються і не можуть бути повернені.
+
+Step 35/284
+>> Ukrainian - Persian
+	با خواندن متن ، ایده جدیدی از جهان ارائه می دهد. مکانهای استعاری در هر دو طرف رودخانه آلاسکا اغلب تغییر کرده و قابل بازگشت نیستند.
+
+Step 36/284
+>> Persian - Chinese (Simplified)
+	阅读文本提供了一个新的世界观。阿拉斯加河两岸的隐喻经常被改变，无法恢复。
+
+Step 37/284
+>> Chinese (Simplified) - Ukrainian
+	Читання тексту забезпечує новий світогляд. Метафори з обох боків річки Аляска часто змінюються і не підлягають відновленню.
+
+Step 38/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文本提供了新的前景。阿拉斯加河两岸的隐喻经常被改变且不可恢复。
+
+Step 39/284
+>> Chinese (Simplified) - Persian
+	خواندن متن چشم اندازهای جدیدی را ارائه می دهد. استعاره ها در هر دو طرف رودخانه آلاسکا اغلب تغییر کرده و غیرقابل بازگشت هستند.
+
+Step 40/284
+>> Persian - English
+	Reading text offers new perspectives. The metaphors on both sides of the Alaska River are often changed and irreversible.
+
+Step 41/284
+>> English - Italian
+	La lettura del testo offre nuove prospettive. Le metafore su entrambi i lati del fiume Alaska sono spesso cambiate e irreversibili.
+
+Step 42/284
+>> Italian - Bengali
+	পাঠ্য পড়া নতুন দৃষ্টিকোণ দেয়। আলাস্কা নদীর দুপাশে রূপকগুলি প্রায়শই পরিবর্তিত এবং অপরিবর্তনীয় হয়।
+
+Step 43/284
+>> Bengali - Persian
+	خواندن متن چشم انداز جدیدی می دهد. استعاره ها در هر دو طرف رودخانه آلاسکا اغلب متغیر و برگشت ناپذیر هستند.
+
+Step 44/284
+>> Persian - Italian
+	La lettura del testo offre una nuova prospettiva. Le metafore su entrambi i lati del fiume Alaska sono spesso irreversibili.
+
+Step 45/284
+>> Italian - Ukrainian
+	Читання тексту пропонує нову перспективу. Метафори по обидва боки річки Аляска часто незворотні.
+
+Step 46/284
+>> Ukrainian - Hungarian
+	A szöveg olvasása új perspektívát kínál. Az Alaszka folyó mindkét oldalán levő metaforák gyakran visszafordíthatatlanok.
+
+Step 47/284
+>> Hungarian - Ukrainian
+	Читання тексту пропонує нову перспективу. Метафори по обидва боки річки Аляска часто незворотні.
+
+Step 48/284
+>> Ukrainian - English
+	Reading the text offers a new perspective. The metaphors on both sides of the Alaska River are often irreversible.
+
+Step 49/284
+>> English - Persian
+	خواندن متن چشم انداز جدیدی را ارائه می دهد. استعاره ها در هر دو طرف رودخانه آلاسکا اغلب غیر قابل برگشت هستند.
+
+Step 50/284
+>> Persian - Ukrainian
+	Читання тексту пропонує нову перспективу. Метафори по обидва боки річки Аляска часто незворотні.
+
+Step 51/284
+>> Ukrainian - Hungarian
+	A szöveg olvasása új perspektívát kínál. Az Alaszka folyó mindkét oldalán levő metaforák gyakran visszafordíthatatlanok.
+
+Step 52/284
+>> Hungarian - Persian
+	خواندن متن چشم انداز جدیدی را ارائه می دهد. استعاره ها در هر دو طرف رودخانه آلاسکا اغلب غیر قابل برگشت هستند.
+
+Step 53/284
+>> Persian - English
+	Reading the text offers a new perspective. The metaphors on both sides of the Alaska River are often irreversible.
+
+Step 54/284
+>> English - Ukrainian
+	Читання тексту пропонує нову перспективу. Метафори по обидва боки річки Аляска часто незворотні.
+
+Step 55/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文本提供了新的视角。阿拉斯加河两岸的隐喻通常是不可逆的。
+
+Step 56/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া একটি নতুন দৃষ্টিকোণ সরবরাহ করে। আলাস্কা নদীর দুপাশের রূপকগুলি সাধারণত অপরিবর্তনীয়।
+
+Step 57/284
+>> Bengali - Ukrainian
+	Читання тексту забезпечує нову перспективу. Метафори з боків річки Аляска взагалі незворотні.
+
+Step 58/284
+>> Ukrainian - Hungarian
+	A szöveg olvasása új perspektívát kínál. Az Alaszka folyó oldalán levő metaforák visszafordíthatatlanok.
+
+Step 59/284
+>> Hungarian - Chinese (Simplified)
+	阅读文本提供了新的视角。阿拉斯加河一侧的隐喻是不可逆的。
+
+Step 60/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát kínál. Az alaszkai oldalú metafora visszafordíthatatlan.
+
+Step 61/284
+>> Hungarian - Italian
+	La lettura del testo offre una nuova prospettiva. La metafora sul lato dell'Alaska è irreversibile.
+
+Step 62/284
+>> Italian - Bengali
+	পাঠ্যটি পড়া একটি নতুন দৃষ্টিকোণ দেয়। আলাস্কান পক্ষের রূপকটি অপরিবর্তনীয়।
+
+Step 63/284
+>> Bengali - Hungarian
+	A szöveg olvasása új perspektívát ad. Az alaszkai oldal metaforája változatlan.
+
+Step 64/284
+>> Hungarian - English
+	Reading the text gives you a new perspective. The Alaskan metaphor remains unchanged.
+
+Step 65/284
+>> English - Italian
+	Leggere il testo ti dà una nuova prospettiva. La metafora dell'Alaska rimane invariata.
+
+Step 66/284
+>> Italian - Chinese (Simplified)
+	阅读文本可以为您提供新的视角。阿拉斯加的隐喻保持不变。
+
+Step 67/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Az alaszkai metafora változatlan marad.
+
+Step 68/284
+>> Hungarian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. استعاره آلاسکا بدون تغییر باقی مانده است.
+
+Step 69/284
+>> Persian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক অপরিবর্তিত রয়েছে।
+
+Step 70/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. استعاره آلاسکا بدون تغییر باقی مانده است.
+
+Step 71/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Alaszka metafora változatlan marad.
+
+Step 72/284
+>> Hungarian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. استعاره آلاسکا بدون تغییر باقی مانده است.
+
+Step 73/284
+>> Persian - English
+	Reading the text can give you a new perspective. Alaska's metaphor remains unchanged.
+
+Step 74/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক অপরিবর্তিত রয়েছে।
+
+Step 75/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. استعاره آلاسکا بدون تغییر باقی مانده است.
+
+Step 76/284
+>> Persian - English
+	Reading the text can give you a fresh perspective. Alaska's metaphor remains unchanged.
+
+Step 77/284
+>> English - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Alaszka metafora változatlan marad.
+
+Step 78/284
+>> Hungarian - Italian
+	Leggere il testo può darti una nuova prospettiva. La metafora dell'Alaska rimane invariata.
+
+Step 79/284
+>> Italian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Метафора Аляски залишається незмінною.
+
+Step 80/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক একই রয়ে গেছে।
+
+Step 81/284
+>> Bengali - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Alaszka metafora változatlan marad.
+
+Step 82/284
+>> Hungarian - Italian
+	Leggere il testo può darti una nuova prospettiva. La metafora dell'Alaska rimane invariata.
+
+Step 83/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. استعاره آلاسکا بدون تغییر باقی مانده است.
+
+Step 84/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Alaszka metafora változatlan marad.
+
+Step 85/284
+>> Hungarian - English
+	Reading the text can give you a new perspective. Alaska's metaphor remains unchanged.
+
+Step 86/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову точку зору. Метафора Аляски залишається незмінною.
+
+Step 87/284
+>> Ukrainian - Italian
+	Leggere il testo può darti una nuova prospettiva. La metafora dell'Alaska rimane la stessa.
+
+Step 88/284
+>> Italian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻保持不变。
+
+Step 89/284
+>> Chinese (Simplified) - English
+	Reading text can give you a new perspective. The Alaska metaphor remains the same.
+
+Step 90/284
+>> English - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻保持不变。
+
+Step 91/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Az alaszkai metafora változatlan marad.
+
+Step 92/284
+>> Hungarian - Italian
+	Leggere il testo può darti una nuova prospettiva. La metafora dell'Alaska rimane invariata.
+
+Step 93/284
+>> Italian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻保持不变。
+
+Step 94/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক একই রয়ে গেছে।
+
+Step 95/284
+>> Bengali - English
+	Reading the text can give you a fresh perspective. The metaphor of Alaska remains the same.
+
+Step 96/284
+>> English - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. استعاره آلاسکا همچنان یکسان است.
+
+Step 97/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. La metafora dell'Alaska rimane la stessa.
+
+Step 98/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Az alaszkai metafora változatlan marad.
+
+Step 99/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻保持不变。
+
+Step 100/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক একই রয়ে গেছে।
+
+Step 101/284
+>> Bengali - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Alaszka metafora változatlan marad.
+
+Step 102/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻保持不变。
+
+Step 103/284
+>> Chinese (Simplified) - Italian
+	La lettura del testo può darti una nuova prospettiva. La metafora dell'Alaska rimane la stessa.
+
+Step 104/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. استعاره آلاسکا یکسان است.
+
+Step 105/284
+>> Persian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাসকান রূপক একই।
+
+Step 106/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。阿拉斯加的隐喻是相同的。
+
+Step 107/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Alaszka metafora ugyanaz.
+
+Step 108/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻是相同的。
+
+Step 109/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Alaszka metafora ugyanaz.
+
+Step 110/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。阿拉斯加的隐喻是相同的。
+
+Step 111/284
+>> Chinese (Simplified) - English
+	Reading text can give you a new perspective. The metaphor of Alaska is the same.
+
+Step 112/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। আলাস্কার রূপক একই।
+
+Step 113/284
+>> Bengali - Ukrainian
+	Читання тексту може дати вам нову перспективу. Метафора Аляски однакова.
+
+Step 114/284
+>> Ukrainian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. استعاره آلاسکا نیز همین است.
+
+Step 115/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez az alaszkai metafora.
+
+Step 116/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це Алясканська метафора.
+
+Step 117/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি একটি আলাস্কার রূপক।
+
+Step 118/284
+>> Bengali - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Ez alaszkai metafora.
+
+Step 119/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 120/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 121/284
+>> Hungarian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è la metafora dell'Alaska.
+
+Step 122/284
+>> Italian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 123/284
+>> Bengali - English
+	Reading the text can give you a fresh perspective. This is a metaphor for Alaska.
+
+Step 124/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 125/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 126/284
+>> English - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 127/284
+>> Chinese (Simplified) - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 128/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 129/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 130/284
+>> Persian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 131/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 132/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。这是阿拉斯加的隐喻。
+
+Step 133/284
+>> Chinese (Simplified) - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 134/284
+>> Ukrainian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 135/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 136/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 137/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 138/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。这是阿拉斯加的隐喻。
+
+Step 139/284
+>> Chinese (Simplified) - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 140/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 141/284
+>> Italian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 142/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 143/284
+>> Italian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 144/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 145/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 146/284
+>> Persian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 147/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 148/284
+>> Bengali - English
+	Reading the text can give you a fresh perspective. This is a metaphor for Alaska.
+
+Step 149/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 150/284
+>> Ukrainian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 151/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 152/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 153/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 154/284
+>> Bengali - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 155/284
+>> Ukrainian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 156/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 157/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 158/284
+>> Persian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 159/284
+>> Chinese (Simplified) - English
+	Reading text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 160/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 161/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 162/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 163/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 164/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 165/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 166/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 167/284
+>> Hungarian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 168/284
+>> Bengali - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 169/284
+>> Ukrainian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 170/284
+>> Hungarian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره آلاسکا است.
+
+Step 171/284
+>> Persian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Отака Алясканська метафора.
+
+Step 172/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি একটি আলাস্কার রূপক।
+
+Step 173/284
+>> Bengali - English
+	Reading the text can give you a fresh perspective. This is an Alaska metaphor.
+
+Step 174/284
+>> English - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。这是阿拉斯加的隐喻。
+
+Step 175/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 176/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 177/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 178/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 179/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 180/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 181/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 182/284
+>> Italian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 183/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 184/284
+>> Hungarian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 185/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。这是阿拉斯加的隐喻。
+
+Step 186/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 187/284
+>> Hungarian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è la metafora dell'Alaska.
+
+Step 188/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره آلاسکا است.
+
+Step 189/284
+>> Persian - English
+	Reading the text can give you a new perspective. That's the Alaskan metaphor.
+
+Step 190/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটাই আলাস্কার রূপক।
+
+Step 191/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。那就是阿拉斯加的隐喻。
+
+Step 192/284
+>> Chinese (Simplified) - Italian
+	La lettura del testo può darti una nuova prospettiva. Questa è la metafora dell'Alaska.
+
+Step 193/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 194/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 195/284
+>> Chinese (Simplified) - English
+	Reading text can give you a new perspective. That is a metaphor for Alaska.
+
+Step 196/284
+>> English - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 197/284
+>> Chinese (Simplified) - Italian
+	La lettura del testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 198/284
+>> Italian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 199/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 200/284
+>> English - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 201/284
+>> Hungarian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره آلاسکا است.
+
+Step 202/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è la metafora dell'Alaska.
+
+Step 203/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 204/284
+>> Hungarian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 205/284
+>> Bengali - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 206/284
+>> Ukrainian - Italian
+	Leggere il testo può darti una nuova prospettiva. È una metafora per l'Alaska.
+
+Step 207/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 208/284
+>> Hungarian - English
+	Reading the text can give you a new perspective. That's Alaska's metaphor.
+
+Step 209/284
+>> English - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره آلاسکا است.
+
+Step 210/284
+>> Persian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটাই আলাস্কার রূপক।
+
+Step 211/284
+>> Bengali - English
+	Reading the text can give you a fresh perspective. That's the metaphor of Alaska.
+
+Step 212/284
+>> English - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره آلاسکا است.
+
+Step 213/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Ez az alaszkai metafora.
+
+Step 214/284
+>> Hungarian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره آلاسکا است.
+
+Step 215/284
+>> Persian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটাই আলাস্কার রূপক।
+
+Step 216/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره آلاسکا است.
+
+Step 217/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Ez az alaszkai metafora.
+
+Step 218/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 219/284
+>> Chinese (Simplified) - Italian
+	La lettura del testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 220/284
+>> Italian - English
+	Reading the text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 221/284
+>> English - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 222/284
+>> Hungarian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 223/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 224/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 225/284
+>> Hungarian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 226/284
+>> Chinese (Simplified) - Hungarian
+	A szöveg olvasása új perspektívát adhat neked. Ez Alaszka metafora.
+
+Step 227/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 228/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 229/284
+>> Bengali - Chinese (Simplified)
+	阅读文字可以为您提供崭新的视角。这是阿拉斯加的隐喻。
+
+Step 230/284
+>> Chinese (Simplified) - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 231/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 232/284
+>> English - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 233/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 234/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 235/284
+>> Ukrainian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 236/284
+>> Persian - English
+	Reading the text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 237/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 238/284
+>> Ukrainian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 239/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 240/284
+>> Ukrainian - Italian
+	Leggere il testo può darti una nuova prospettiva. È una metafora per l'Alaska.
+
+Step 241/284
+>> Italian - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 242/284
+>> Persian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 243/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 244/284
+>> Italian - English
+	Reading the text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 245/284
+>> English - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 246/284
+>> Persian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 247/284
+>> Chinese (Simplified) - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 248/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 249/284
+>> Chinese (Simplified) - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 250/284
+>> Persian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 251/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 252/284
+>> Chinese (Simplified) - English
+	Reading text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 253/284
+>> English - Italian
+	La lettura del testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 254/284
+>> Italian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 255/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 256/284
+>> Persian - Hungarian
+	A szöveg elolvasása új perspektívát nyújthat Önnek. Ez Alaszka metafora.
+
+Step 257/284
+>> Hungarian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора Аляски.
+
+Step 258/284
+>> Ukrainian - English
+	Reading the text can give you a new perspective. It's a metaphor for Alaska.
+
+Step 259/284
+>> English - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 260/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 261/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 262/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 263/284
+>> Italian - English
+	Reading the text can give you a new perspective. This is a metaphor for Alaska.
+
+Step 264/284
+>> English - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 265/284
+>> Persian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 266/284
+>> Chinese (Simplified) - Persian
+	خواندن متن می تواند دیدگاه جدیدی به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 267/284
+>> Persian - Ukrainian
+	Читання тексту може дати вам нову точку зору. Це метафора для Аляски.
+
+Step 268/284
+>> Ukrainian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 269/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 270/284
+>> Persian - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 271/284
+>> Italian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 272/284
+>> Hungarian - English
+	Reading the text can give you a new perspective. That's Alaska's metaphor.
+
+Step 273/284
+>> English - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার রূপক।
+
+Step 274/284
+>> Bengali - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 275/284
+>> Ukrainian - Hungarian
+	A szöveg elolvasása új perspektívát adhat Önnek. Ez Alaszka metafora.
+
+Step 276/284
+>> Hungarian - English
+	Reading the text can give you a new perspective. That's Alaska's metaphor.
+
+Step 277/284
+>> English - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。那是阿拉斯加的隐喻。
+
+Step 278/284
+>> Chinese (Simplified) - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 279/284
+>> Bengali - Italian
+	Leggere il testo può darti una nuova prospettiva. Questa è una metafora per l'Alaska.
+
+Step 280/284
+>> Italian - Bengali
+	পাঠ্য পড়া আপনাকে একটি নতুন দৃষ্টিকোণ দিতে পারে। এটি আলাস্কার একটি রূপক।
+
+Step 281/284
+>> Bengali - Persian
+	خواندن متن می تواند چشم اندازی تازه به شما بدهد. این استعاره برای آلاسکا است.
+
+Step 282/284
+>> Persian - Ukrainian
+	Читання тексту може дати вам нову перспективу. Це метафора для Аляски.
+
+Step 283/284
+>> Ukrainian - Chinese (Simplified)
+	阅读文字可以为您带来新的视角。这是阿拉斯加的隐喻。
+
+Step 284/284
+>> Chinese (Simplified) - Portuguese
+	A leitura de texto pode fornecer uma nova perspectiva. Esta é uma metáfora para o Alasca.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+A leitura de texto pode fornecer uma nova perspectiva. Esta é uma metáfora para o Alasca.

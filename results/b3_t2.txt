@@ -1,0 +1,1147 @@
+Translation chain: ps - fi - no - sr - ja - et - ga - de - sk - ny - ne - zu - th - hy - sv - mn - lv - am - tl - uk - mt - en - fr - ms - fa - vi - mg - ca - he - ht - is - sq - el - ka - bg - hr - cs - my - hi - zh - hu - ha - lb - lt - es - kk - tr - ar - ur - si - bs - ru - pt - sm - bn - it - mi - id - ku - mk - nl - sw - uz - lo - sl - zh-TW - ro - da - sn - ko - pl - lt - es - lo - bn - ja - bs - en - cs - he - sm - ms - uz - ha - zh - tr - my - ny - zh-TW - ne - sv - ku - ht - th - de - uk - is - ka - it - pt - kk - ar - fr - fa - el - vi - zu - hu - sq - bg - sr - hi - da - am - sn - pl - sk - ga - sl - ru - hy - fi - si - ro - mg - lb - nl - mi - mn - ur - lv - mt - ko - mk - id - et - tl - ps - ca - sw - hr - no.
+Input text: Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Pashto
+	له همدې امله داجفر و ، لوی ویزیر و ، چې د خلیفه په امر د میرمنو دروازه وټکوله ، څوک چې نه پیژندل کیږي. صفیه دې خلاصه کړه؛ او وزر ، د هغه شمعې په ر byا کې په یادولو سره چې هغه ځانته وړی و ، کوم چې د ښکلا ښکلا ښځینه وه ، خپل رول یې په بشپړ ډول ادا کړ. په ژور ځنډ سره ، ما په درناوي وویل ، "مادام ، موږ له مسول څخه درې سوداګر یو ، لس ورځې دمخه راغلل ، د بډایه توکو سره موږ په خان (10) کې زیرمه کړل ، چیرې چې موږ پاتې شو. موږ نن ورځ د دې ښار څخه د یو سوداګر په کور کې و چې موږ ته یې د هغه لیدو لپاره رابللی و. هغه موږ ته عالي خواړه وړاندې کړل؛ او څنګه چې شراب موږ ښه حالت کېښود ، هغه د نڅا کونکو ډلې ته واستاوه. شپه وه ، موسیقۍ غږیدله ، نڅاکوونکو نڅا وکړه او ډلې یې لوی شور وکړ ، لکه څنګه چې پړاو ، هلته تیریدو سره ، دوی ته د خلاصیدو امر وکړ. ځینې نیول شوي وو. زموږ لپاره ، موږ په دیوال باندې د کود کولو سره ډیر خوشحاله یو او ژغورل شوي یو؛ مګر ، وزیر زیاته کړه ، لکه څنګه چې موږ بهرنيان یو ، او یو څه چې د شراب سره ډیر ځواک لري ، موږ له دې ځایه خپل خان ته د رسیدو دمخه ، د بلې ګزمې یا ورته ورته موندلو څخه ویره لرو. او موږ به دې بې ګټې ته ورسوو ، ځکه چې دروازه تړلې ده ، او تر سبا پورې به نه خلاصه کیږي ، مهمه نده چې څه پیښ شي. او په همدې توګه ، میرمنې ، څوک چې غږ او غږونه اوریدلي ، موږ فکر کوو چې موږ ته به د وهلو اجازه درکړل شي ، ترڅو د ورځې تر پای پورې تاسو ته د پناه غوښتنه وکړو. که موږ ستاسو په خوند کې برخه اخیستو وړ وګ seemو ، نو موږ به هڅه وکړو چې د هغه کار په جریان کې چې موږ یې له امله رامینځته کړې د هغه په بدل کې موږ پوره مرسته وکړو. که نه ، لږترلږه موږ ته فضل راکړه چې موږ ته اجازه راکړو چې شپه ستاسو په تالار کې تیره کړو.
+
+Step 2/284
+>> Pashto - Finnish
+	Siksi Dajfar, suuri vierailija, koputti naisen ovelle kaliforin käskystä, jota ei tunneta. Safia avasi sen, ja siipi, joka muistutti kynttilää, jossa hän käytti itseään, joka oli kaunis nainen, pelasi rooliaan täydellisesti. Syvän viivytyksen jälkeen sanoin kunnioittavasti: "Arvoisa puhemies, olemme kolme kauppiasta Masulista, tuli kymmenen päivää sitten, ja rikas tavaroita säilytimme Khanissa (10), jossa meillä oli tänään. Hän oli kaupungin liikemiehen talossa, joka kutsui meidät tapaamaan häntä, hän tarjosi meille hyvää ruokaa, ja koska viini piti meidät hyvässä kunnossa, hän lähetti sen tanssijaryhmälle. Soitettiin, tanssijat tanssivat ja ryhmä teki äänekästä ääntä, koska vaiheessa kulkeva lava käski heidät avaamaan. Jotkut pidätettiin. Meille olimme erittäin tyytyväisiä hyppäämällä seinälle ja huutaen. Ministeri lisäsi kuitenkin, että koska olemme ulkomaalaisia ja jotain niin paljon voimakkaampaa viinin kanssa, me pelkäämme löytää uuden partion tai vastaavan, ennen kuin saavutamme paikallemme täältä. Ja pääsemme tähän turhaan, koska ovi on suljettu eikä sitä avata vasta huomenna riippumatta siitä, mitä tapahtuu, ja näin ollen, hyvät naiset, jotka kuulevat ääniä, luulemme Sinulla on oikeus lyödä, jotta voit hakea turvapaikkaa päivän loppuun mennessä. Jos näyttää siltä, että voimme edistää makuasi, yritämme auttaa sinua vastineeksi tekemämme työstä. Jos ei, anna ainakin armo, jotta voimme viettää yön lampiissasi.
+
+Step 3/284
+>> Finnish - Norwegian
+	Derfor banket Dajfar, en stor besøkende, på kvinnens dør ved en ukjent ordre fra California. Safia åpnet den, og vingen, som lignet et stearinlys der hun brukte seg, som var en vakker kvinne, spilte sin rolle perfekt. Etter en lang forsinkelse sa jeg respektfullt: "Hr. President, vi er tre kjøpmenn fra Masul, kom for ti dager siden, og vi lagret de rike varene i Khan (10) der vi hadde i dag. mat, og fordi vinen holdt oss i god form, sendte han den til dansegruppen. Vi spilte, danserne danset og gruppen kom med høy lyd fordi scenen på scenen ba dem åpne. Noen ble arrestert. fordi vi er utlendinger og noe så mye sterkere med vin, er vi redd for å finne en ny patrulje eller lignende før vi kommer til vår plass her, og vi kommer meningsløst til dette fordi døra er lukket og ikke åpnes før i morgen, uansett hva som skjer kvinner, som hører stemmene, vi tror du har rett til å treffe, slik at du kan søke om asyl på slutten av dagen. Hvis det ser ut som om vi kan forbedre din smak, vil vi prøve å hjelpe deg i retur for arbeidet vi gjør. Hvis ikke, gi oss i det minste nåde slik at vi kan tilbringe natten i damene dine.
+
+Step 4/284
+>> Norwegian - Serbian
+	Зато је Дајфар, велики посетилац, покуцао на женска врата непознатим наређењем из Калифорније. Сафиа ју је отворила, а крило, које је личило на свећу у којој је користила себе, која је била лепа жена, савршено је играла своју улогу. Након дугог кашњења, с поштовањем сам рекао: "Господине председниче, ми смо три трговца из Масула, дошли смо пре десет дана и складиштили смо богате предмете у Кану (10) где смо данас имали храну и зато што нас је вино чувало у доброј форми, послао га је плесној групи. Свирали смо, плесачи су плесали и група је изашла гласно јер су их позорници на позорници позвали да се отворе. Неки су ухапшени. Јер смо странци и нешто много јаче са вином, пронађемо нову патролу или слично пре него што стигнемо овде и не постанемо бесмислени јер су врата затворена и отворена до сутра, без обзира на то шта се дешава са женама које чују гласове, мислимо да имате право да се сретнете, тако да можете поднети захтев за азил на крају дана. Ако изгледа да можемо да побољшамо ваш укус, покушаћемо да вам помогнемо у замену за посао који обављамо. Ако не, дајте нам барем милост да бисмо могли Проведите ноћ код својих дама.
+
+Step 5/284
+>> Serbian - Japanese
+	だからこそ、大規模な訪問者であるダイファーは、カリフォルニアからの未知の命令で女性のドアをたたきました。サフィアはそれを開き、美しい女性である彼女が自分自身を使ったろうそくに似た翼が完全に彼女の役割を果たしました。長い遅れの後、私は敬意を表して、「大統領、私たちは3人のマスル商人です。10日前に到着し、今日の食事のあるカンヌ（10）に豊富な品物を保管しました。 、彼はそれをダンスグループに送りました。私たちは演奏し、ダンサーは踊り、ステージクルーが彼らを開くように誘ったので、グループは大声で出てきました。ドアが閉まっているので、ここに来て無意味にならないようにします。明日まで営業しており、声を聞いた女性がどうなったとしても、会う権利があると思いますので、一日の終わりに亡命を申請することができます。そうでない場合は、少なくともあなたの女性と夜を過ごすための恵みを与えてください。
+
+Step 6/284
+>> Japanese - Estonian
+	Seetõttu koputas suur külastaja Differ Californias tundmatu tellimusega naise uksele. Safia avas selle ja ilus naine, tiib, mis meenutas küünalt, mida ta ise kasutas, mängis oma rolli suurepäraselt. Pärast pikka viivitust avaldan austust: „President, me oleme kolm Musuli kaupmeest. Saabusime 10 päeva tagasi ja ladustasime Cannes'is (10) rikkalikke kaupu koos tänase söögikorraga. Ta saatis selle tantsurühma, me mängisime, tantsijad tantsisid ja rühm tuli valjusti välja, kuna lavameeskond kutsus neid avama, sest uks oli siin suletud See on avatud kuni homseni ja ma olen päeva lõpuks avatud varjupaigale, sest arvan, et mul on õigus kohtuda ükskõik, mis juhtus naisega, kes seda kuulis. Kui ei, siis andke vähemalt armu oma naisega öö veeta.
+
+Step 7/284
+>> Estonian - Irish
+	Mar thoradh air sin, bhuail cuairteoir mór i Differ California ar dhoras mná nach raibh aithne uirthi. D'oscail Safia é agus d'imir bean álainn, sciathán a bhí cosúil le coinneal a d'úsáid sí féin, a ról go foirfe. I ndiaidh moill fhada, tugaim ómós: “An tUachtarán, is trí cheannaí Moslamacha muid. Tháinig muid 10 lá ó shin agus bhí cuid mhaith béilí an lae inniu againn i Cannes (10). Sheol sé an grúpa damhsa seo, bhíomar ag imirt, bhí na damhsóirí ag damhsa agus tháinig an grúpa os ard mar gur iarr an fhoireann stáit orthu iad a oscailt toisc go raibh an doras dúnta. cad a tharla don bhean a chuala í. Mura bhfuil, bíodh an grásta agat ar an oíche a chaitheamh le do bhean chéile.
+
+Step 8/284
+>> Irish - German
+	Infolgedessen schlug ein großer Besucher in Differ, Kalifornien, eine Frauentür an, die sie nicht kannte. Safia öffnete es und eine schöne Frau, wie eine Kerze, die sie selbst benutzte, spielte ihre Rolle perfekt. Nach einer langen Verzögerung zollte ich meinen Tribut: „Der Präsident, wir sind drei muslimische Kaufleute. Wir sind vor 10 Tagen angekommen und hatten heute viele Mahlzeiten in Cannes (10). Er hat diese Tanzgruppe gesungen, wir haben gespielt, die Tänzer haben getanzt und die Gruppe ist gekommen, weil die Staatsmannschaft sie gebeten hat, sie zu öffnen, weil die Tür geschlossen war. Was ist mit der Frau passiert, die sie gehört hat? Wenn nicht, verbringen Sie die Nacht mit Ihrer Frau.
+
+Step 9/284
+>> German - Slovak
+	Výsledkom bolo, že veľká návštevníčka v kalifornskom Differu udriela ženské dvere, ktoré nepoznala. Safia to otvorila a krásna žena, ako sviečka, ktorú sama používala, dokonale hrala svoju rolu. Po dlhom oneskorení som si vybrala daň: „Prezident, sme traja moslimskí obchodníci. Prišli sme pred 10 dňami a dnes sme mali veľa jedál v Cannes (10). Spieval túto tanečnú skupinu, hrali sme, tancovali tanečníci a prišla skupina, pretože štátny tím ich požiadal, aby ich otvorili, pretože dvere boli zatvorené. Čo sa stalo so ženou, ktorú počula? Ak nie, strávte noc so svojou ženou.
+
+Step 10/284
+>> Slovak - Chichewa
+	Zotsatira zake, mlendo wamkulu ku Differ, California, amakhala ndi chitseko cha akazi chomwe sakudziwa. Safia adatsegula ndipo mzimayi wokongola, monga kandulo yomwe adadzigwiritsa ntchito, adachita bwino kwambiri. Nditachedwa, ndinayamba kunena kuti: “Purezidenti, ndife amalonda atatu achisilamu. Tinabwera masiku 10 apitawo ndipo lero tinali ndi zakudya zambiri ku Cannes (10). Adayimba gululi, tidasewera, ovina ovina ndipo gulu lidabwera chifukwa gulu la boma lidawafunsa kuti awatsegule chifukwa chitseko chidatsekedwa. Nanga zidatani kwa mzimayi yemwe adamva? Ngati sichoncho, gonani usiku ndi mkazi wanu.
+
+Step 11/284
+>> Chichewa - Nepali
+	नतिजा स्वरूप, क्यालिफोर्नियाको डिफर, मा एक वरिष्ठ अतिथि को लागी एक महिला ढोका छ उसलाई थाहा छैन। सफियाले यसलाई खोल्यो र राम्रो महिला, मैनबत्ती जस्तै उनी आफैंले प्रयोग गर्छिन्, राम्रो गरी। जब म ढिलो भएँ, मैले भन्न थालें: “राष्ट्रपति, हामी तीन जना मुस्लिम व्यापारीहरू छौं। हामी १० दिन अगाडि आइपुगेका थियौं र आज हामीले क्यान्स (१०) मा उत्कृष्ट डिनर खायौं। उनीहरूले ब्यान्डका लागि गाए, हामीले बजायौं, नृत्यकर्मीहरू नाचे र ब्यान्ड आयो किनकि सरकारी समूहले तिनीहरूलाई खोल्न भन्यो किनकि ढोका बन्द थियो। उसले सुनेको आइमाई नि? यदि होईन भने, आफ्नी पत्नीसित रात बिताउनुहोस्।
+
+Step 12/284
+>> Nepali - Zulu
+	Ngenxa yalokhu, isivakashi esikhulu eDefer, eCalifornia, sinomnyango wesifazane esingazi. Safia wayivula yona kanye nenenekazi elihle, njengekhandlela elizisebenzisayo, lilihle. Lapho sengephuze, ngaqala ukuthi: “Mongameli, singosomabhizinisi abathathu abangamaSulumane. Safika ezinsukwini ezi-3 ezedlule kanti namuhla besisidla isidlo sakusihlwa eCannes (3). Bacule ibhendi, sathatha isikhundla, abadansi badansa kwangena neqembu ngoba iqembu likahulumeni labatshela ukuthi bavule ngoba umnyango uvaliwe. Kuthiwani ngowesifazane ayizwayo? Uma kungenjalo, chitha ubusuku nomkakho.
+
+Step 13/284
+>> Zulu - Thai
+	ด้วยเหตุนี้ผู้เข้าชมจำนวนมากใน Defer, California จึงมีประตูของผู้หญิงที่เราไม่รู้จัก Safia เปิดมันและผู้หญิงที่สวยงามอย่างเทียนที่เธอใช้นั้นสวยมาก ตอนที่ฉันสายฉันเริ่มพูดว่า: "คุณประธานาธิบดีเราเป็นนักธุรกิจชาวมุสลิมสามคน เรามาถึง 3 วันก่อนและวันนี้เราทานอาหารค่ำที่เมืองคานส์ (3) พวกเขาร้องเพลงวงเรารับช่วงนักเต้นรำเต้นทั้งในและนอกงานเพราะกลุ่มรัฐบาลบอกให้พวกเขาเปิดเพราะประตูถูกปิด แล้วผู้หญิงที่ได้ยินเขาล่ะ ถ้าไม่ใช้คืนกับภรรยาของคุณ
+
+Step 14/284
+>> Thai - Armenian
+	Այդ իսկ պատճառով, Կալիֆոռնիա նահանգի Դեֆեր քաղաքում շատ այցելուներ ունեն մի կնոջ դուռ, որը մենք չգիտենք, Սաֆիան բացում է այն, և իր օգտագործած մոմի նման գեղեցիկ կինը շատ գեղեցիկ է: Երբ ես ուշացա, ես սկսեցի ասել. «Նախագահ, մենք երեք մահմեդական գործարար ենք: Մենք ժամանել ենք 3 օր առաջ և այսօր մենք ճաշել ենք Կաննում: (3) Նրանք խումբ են երգել: Մենք վերցրել ենք պարողներին: Թե՛ գործի ներսում, թե՛ դրսում, քանի որ կառավարական խմբերը նրանց ասացին, որ բացվեն, քանի որ դուռը փակ է: Ի՞նչ կասեք այն կնոջ մասին, ով նրան լսել է: Եթե ոչ գիշերել ձեր կնոջ հետ
+
+Step 15/284
+>> Armenian - Swedish
+	Av denna anledning har många besökare i Defors stad i Kalifornien en kvinna som vi inte känner, Safia öppnar den, och en vacker kvinna som ett ljus hon använder är så vacker. När jag var sen började jag säga: ”President, vi är tre muslimska affärsmän. Vi anlände för 3 dagar sedan och idag äter vi lunch i Cannes. (3) De sjöng ett band. Vi har dansare. Både inom och utanför verksamheten, eftersom regeringsgrupper sa till dem att öppna eftersom dörren var stängd. Vad sägs om kvinnan som hörde honom? Om inte över natten med din fru
+
+Step 16/284
+>> Swedish - Mongolian
+	Энэ шалтгааны улмаас Калифорниа мужийн Дефор хотод ирсэн олон зочид бидний мэдэхгүй эмэгтэй байдаг, Сафиа үүнийг нээдэг, мөн лаа ашигладаг үзэсгэлэнтэй эмэгтэй байдаг. Би хоцорч ирээд “Ерөнхийлөгч, бид бол гурван лалын шашинтай бизнесмэнүүд. Бид 3 хоногийн өмнө ирсэн бөгөөд өнөөдөр Канн хотод үдийн хоол идэв. (3) Тэд хамтлаг дуулав. Бид бүжигчидтэй. Засгийн газрын бүлгүүдэд хаалга хаалттай байсан тул онгойлгох хэрэгтэй гэж хэлсэн тул бизнесийн дотор болон гадна. Түүнийг сонссон эмэгтэйн тухайд? Хэрэв эхнэртэйгээ хамт шөнө хонохгүй бол
+
+Step 17/284
+>> Mongolian - Latvian
+	Šī iemesla dēļ daudzi Kalifornijas Fortjēras pilsētas apmeklētāji nav sievietes, kuras mēs pazīstam, Safija ir skaista sieviete, kas to lieto un lieto sveci. Es kavēju un teicu: "Prezidente, mēs esam trīs musulmaņu biznesmeņi. Mēs ieradāmies pirms trim dienām, un šodien mums ir pusdienas Kannās. (3) Viņi dziedāja. Mums ir dejotāji. Valdības grupas apgalvo, ka tām ir jāatver durvis, jo tās ir slēgtas. Kā ir ar sievieti, kas viņā klausās? Ja nepavada nakti ar sievu
+
+Step 18/284
+>> Latvian - Amharic
+	በዚህ ምክንያት ፣ ብዙ ፎርት ዎርዝ ፣ ካሊፎርኒያ እኛ የምናውቃቸው ሴቶች አይደሉም ፣ ሰppር የሚያበራ እና ሻማ የምትጠቀም ቆንጆ ሴት ናት ፡፡ ዘግይቼን እንዲህ አልኩት ፣ “ፕሬዝዳንት ፣ እኛ ሶስት ሙስሊም ነጋዴዎች ነን ፡፡ ከሶስት ቀናት በፊት መጥተናል ፣ ዛሬ ካየን ውስጥ ምሳ አለን ፡፡ (3) ዘፈኑብን ፡፡ እርሷን የሚያዳምጣት ሴትስ? ከሚስቱ ጋር የማታሳርፍ ከሆነ?
+
+Step 19/284
+>> Amharic - Filipino
+	Dahil dito, marami sa Fort Worth, California, hindi ang mga babaeng kilala natin, siya ay isang magandang babae na nag-iilaw at gumagamit ng mga kandila. Sinabi ko sa kanya kalaunan, "Pangulo, kami ay tatlong negosyanteng Muslim. Nakarating kami tatlong araw na ang nakalilipas, at kumain kami ng tanghalian sa Canyon ngayon. (3) Kinanta nila kami. Kumusta naman ang isang babaeng nakikinig sa kanya? Kung hindi ka nakakasama sa iyong asawa?
+
+Step 20/284
+>> Filipino - Ukrainian
+	Таким чином, багато хто з Форт-Ворта, штат Каліфорнія, - це не ті жінки, яких ми знаємо, вона прекрасна жінка, яка запалює і використовує свічки. Пізніше я сказав йому: "Президенте, ми - три мусульманські бізнесмени. Ми приїхали три дні тому, і ми сьогодні їли обід у Каньйоні. (3) Вони нас співали. Що з жінкою, яка її слухала? ти з дружиною?
+
+Step 21/284
+>> Ukrainian - Maltese
+	B’hekk, ħafna minn Fort Worth, Kalifornja, mhumiex in-nisa li nafu, hi mara mill-isbaħ li tixgħel u tuża xemgħat. Iktar tard, għidtlu, "President, aħna tliet negozjanti Musulmani. Wasalna tlett ijiem ilu, u llum għamilna ikla fil-Canyon. (3) Kienu jkantaw magħna. Xi ngħidu dwar il-mara li semgħetha? Int u martek?
+
+Step 22/284
+>> Maltese - English
+	Thus, many of Fort Worth, California, not women know, is a wonderful woman and using candles to light up. Later, told him, "President, we have three Muslim merchants. We arrived three days ago, and today we lunch at the Canyon. (3) were to sing with us. What about the woman who heard it? You and your wife?
+
+Step 23/284
+>> English - French
+	Ainsi, beaucoup de femmes de Fort Worth, en Californie, ne le savent pas, est une femme merveilleuse qui utilise des bougies pour s’allumer. Plus tard, il lui a dit: "Monsieur le Président, nous avons trois marchands musulmans. Nous sommes arrivés il y a trois jours et nous déjeunons au Canyon. (3) devons chanter avec nous. Qu'en est-il de la femme qui l'a entendu? Vous et votre femme?
+
+Step 24/284
+>> French - Malay
+	Oleh itu, ramai wanita di Fort Worth, California, tidak tahu, wanita cantik yang menggunakan lilin untuk menyala. Kemudian dia berkata kepadanya, "Tuan Speaker, kami mempunyai tiga peniaga Muslim, kami tiba tiga hari lalu dan kami makan tengah hari di Canyon." (3) Kita mesti bernyanyi dengan kami Bagaimana dengan wanita yang mendengarnya, kamu dan isterimu?
+
+Step 25/284
+>> Malay - Persian
+	بنابراین ، بسیاری از زنان در فورت ورث ، کالیفرنیا نمی دانند ، زنان زیبایی که از نور شمع استفاده می کنند. سپس به او گفت: "آقای رئیس ، ما سه تاجر مسلمان داریم ، ما سه روز پیش آمدیم و ناهار را در دره ناهار خوردیم." (3) ما باید با ما آواز بخوانیم در مورد زنانی که آن را می شنوند ، شما و همسرتان؟
+
+Step 26/284
+>> Persian - Vietnamese
+	Do đó, nhiều phụ nữ ở Fort Worth, California không biết, những phụ nữ xinh đẹp sử dụng đèn nến. Sau đó, ông nói với ông: "Ông chủ tịch, chúng tôi có ba doanh nhân Hồi giáo. Chúng tôi đã đến ba ngày trước và ăn trưa trong thung lũng." (3) Chúng ta có nên hát với bạn về những người phụ nữ nghe thấy nó, bạn và người phối ngẫu của bạn không?
+
+Step 27/284
+>> Vietnamese - Malagasy
+	Noho izany, ny vehivavy maro any Fort Worth, Kalifornia dia tsy mahalala, ny vehivavy tsara tarehy dia mampiasa labozia. Ary hoy izy taminy: "Andriamatoa Filoha, manana mpandraharaha Silamo telo izahay. Tonga telo andro lasa izay izahay ary nisakafo atoandro." (3) Tokony hiara-mihira aminao momba ny vehivavy mandre ve izahay sy ny vadinao?
+
+Step 28/284
+>> Malagasy - Catalan
+	Així, moltes dones a Fort Worth, Califòrnia no ho saben, les dones boniques fan servir espelmes. Li va dir: "Senyor president, tenim tres empresaris musulmans. Vam venir fa tres dies i vam dinar." (3) La vostra dona i jo hauríem de cantar amb vosaltres sobre dones que escolten?
+
+Step 29/284
+>> Catalan - Hebrew
+	כך, נשים רבות בפורט וורת 'בקליפורניה אינן יודעות, נשים יפות לובשות נרות. הוא אמר: "אדוני הנשיא, יש לנו שלושה אנשי עסקים מוסלמים. באנו לפני שלושה ימים ואכלנו ארוחת צהריים." (3) האם אשתך ואני צריכים לשיר איתך על נשים שמקשיבות?
+
+Step 30/284
+>> Hebrew - Haitian Creole
+	Se konsa, anpil fanm nan Fort Worth, California, pa konnen, fanm bèl mete bouji. Li te di: "Mesye Prezidan, nou gen twa biznisman Mizilman yo. Nou te vini twa jou de sa ak te gen manje midi." (3) Èske madanm ou ak mwen dwe chante avèk ou sou fanm ki koute?
+
+Step 31/284
+>> Haitian Creole - Icelandic
+	Svo margar konur í Fort Worth, Kaliforníu, vita það ekki, fallegar konur klæðast kertum. Hann sagði: "Herra forseti, við höfum þrjá múslima kaupsýslumenn. Við komum fyrir þremur dögum og fengum hádegismat." (3) Ættum ég og eiginkona þín að syngja með þér um að hlusta á konur?
+
+Step 32/284
+>> Icelandic - Albanian
+	Kështu që shumë gra në Fort Worth, California, nuk e dinë, gratë e bukura veshin qirinj. Ai tha, "Z. President, ne kemi tre biznesmenë muslimanë. Ne erdhën tre ditë më parë dhe hëngrëm drekën." (3) A duhet që unë dhe gruaja juaj të këndojmë me ju për të dëgjuar gratë?
+
+Step 33/284
+>> Albanian - Greek
+	Τόσες πολλές γυναίκες στο Φορτ Γουόρθ, Καλιφόρνια, δεν γνωρίζουν, οι όμορφες γυναίκες φορούν κεριά. Είπε: "Κύριε Πρόεδρε, έχουμε τρεις μουσουλμάνους επιχειρηματίες, ήρθαμε πριν από τρεις ημέρες και φάγαμε το μεσημεριανό γεύμα." (3) Θα έπρεπε η γυναίκα μου και εγώ να τραγουδήσω μαζί σου για να ακούσεις τις γυναίκες;
+
+Step 34/284
+>> Greek - Georgian
+	ამდენი ქალი ფორტ ვორთში, კალიფორნიაში, არ იცის, ლამაზ ქალებს სანთლები ეცვათ. მან თქვა: "ბატონო პრეზიდენტო, ჩვენ გვყავს სამი მაჰმადიანი ბიზნესმენი. ჩვენ სამი დღის წინ მოვედით და ლანჩს ვჭამდით." (3) უნდა ვიმსჯელოთ მე და ჩემმა მეუღლემ, რომ ქალებს მოვუსმინოთ?
+
+Step 35/284
+>> Georgian - Bulgarian
+	Толкова много жени във Форт Уърт, Калифорния, не знаят, че красивите жени носят свещи. Той каза: "Г-н президент, имаме трима мюсюлмански бизнесмени. Влязохме преди три дни и хапнахме обяд." (3) Трябва ли да се съдим с жена ми за слушане на жени?
+
+Step 36/284
+>> Bulgarian - Croatian
+	Toliko žena u Fort Worthu u Kaliforniji ne zna da lijepe žene nose svijeće. Rekao je: "Gospodine predsjedniče, imamo troje muslimanskih biznismena. Ušli smo prije tri dana i ručali." (3) Trebam li tužiti svoju ženu zbog slušanja žena?
+
+Step 37/284
+>> Croatian - Czech
+	Tolik žen ve Fort Worth v Kalifornii neví, že krásné ženy nosí svíčky. „Pane prezidente, máme tři muslimské obchodníky. Přišli jsme před třemi dny a měli jsme oběd.“ (3) Mám žalovat svou ženu za poslech žen?
+
+Step 38/284
+>> Czech - Burmese
+	ကယ်လီဖိုးနီးယားရှိဝိန်း Fort Worth တွင်ဤမျှလောက်များစွာသောမိန်းမတို့သည်အဆင်းလှသောမိန်းမဖယောင်းတိုင်ဝတ်ထားသိတယ်။ "မစ္စတာသမ္မတ, ကျနော်တို့သုံးယောက်ကမွတ်စလင်ကုန်သည်များရှိသည်။ ကျနော်တို့သုံးရက်အကြာရောက်လာပြီးကျနော်တို့နေ့လည်စာစားရှိခဲ့ပါတယ်။ "(3) ငါအမြိုးသမီးမြားကိုနားထောငျအတှကျသူ့ဇနီးတရားစွဲဆို?
+
+Step 39/284
+>> Burmese - Hindi
+	फोर्ट वर्थ, कैलिफोर्निया, इतने सारे महिलाओं में वेन मैं एक सुंदर मोमबत्तियां पहने औरत को पता। "श्री राष्ट्रपति, हम है तीन मुस्लिम व्यापारी। हम तीन दिन बाद पहुंचे, हम दोपहर के भोजन के लिए किया था।" (3) मैं महिलाओं को अपनी पत्नी के लिए मुकदमा चलाया सुना है?
+
+Step 40/284
+>> Hindi - Chinese (Simplified)
+	在加利福尼亚州沃思堡的韦恩，有这么多女人，我认识一个女人戴着漂亮的蜡烛。 “总统先生，我们有三个穆斯林商人。三天后我们抵达，共进午餐。” （3）我听说妇女因妻子而受到起诉？
+
+Step 41/284
+>> Chinese (Simplified) - Hungarian
+	Wayne-ben (Fort Worth, Kalifornia) nagyon sok nő van, ismerek egy nőt, aki gyönyörű gyertyát visel. "Elnök úr, három muzulmán üzletember van. Három nappal később érkeztünk ebédre." (3) Hallottam, hogy a nőket feleségeik miatt vádolják?
+
+Step 42/284
+>> Hungarian - Hausa
+	Wayne (Fort Worth, CA) yana da mata da yawa, Na san macen da ta sanya kyandir. "Shugaba shugaban kasa, akwai 'yan kasuwa musulmai uku. Bayan kwana uku muka isa cin abincin rana." (3) Shin na ji matan da ake zargi da matansu?
+
+Step 43/284
+>> Hausa - Luxembourgish
+	Wayne (Fort Worth, CA) huet sou vill Fraen, ech kennen d'Fra, déi d'Käerze gemaach huet. "President, et sinn dräi muslimesch Geschäftsleit. Dräi Deeg méi spéit si mir fir Mëttegiessen ukomm." (3) Hat ech héieren, vu Frae ginn hir Frae beschëllegt?
+
+Step 44/284
+>> Luxembourgish - Lithuanian
+	Wayne'e (Fort Vertas, CA) yra tiek daug moterų, aš žinau moterį, kuri uždėjo žvakę. "Pirmininke, yra trys musulmonų verslininkai. Po trijų dienų mes atvykome papietauti." (3) Ar girdėjau apie moterų kaltinimus?
+
+Step 45/284
+>> Lithuanian - Spanish
+	Hay tantas mujeres en Wayne (Fort Worth, CA) que conozco a una mujer que prendió una vela. "Presidente, hay tres hombres de negocios musulmanes. Tres días después, vinimos a cenar". (3) ¿Has oído hablar de acusaciones contra mujeres?
+
+Step 46/284
+>> Spanish - Kazakh
+	Уэйнде (Форт-Уэрт, Калифорния) көптеген әйелдер бар, мен шам жағатын әйелді білемін. «Президент, үш мұсылман кәсіпкер бар. Үш күннен кейін біз түскі асқа келдік». 3) Сіз әйелдерге тағылған айыптар туралы естідіңіз бе?
+
+Step 47/284
+>> Kazakh - Turkish
+	Wayne'de (Fort Worth, California) birçok kadın var ve ben bir kadını gülerim. "Başkan, üç Müslüman girişimci var. Üç gün sonra öğle yemeği için geldik. " 3) Kadına yönelik suçlamaları duydunuz mu?
+
+Step 48/284
+>> Turkish - Arabic
+	هناك العديد من النساء في وين (فورت وورث ، كاليفورنيا) وأنا أضحك على امرأة. "الرئيس ، هناك ثلاثة رجال أعمال مسلمين. بعد ثلاثة أيام أتينا لتناول الغداء." 3) هل سمعت الاتهامات الموجهة ضد النساء؟
+
+Step 49/284
+>> Arabic - Urdu
+	وین (فورٹ ورتھ ، کیلیفورنیا) میں بہت سی خواتین ہیں اور میں ایک عورت پر ہنستا ہوں۔ "صدر ، یہاں تین مسلمان تاجر ہیں۔ تین دن بعد ہم دوپہر کے کھانے کے لئے آئے تھے۔" )) کیا آپ نے خواتین پر عائد الزامات سنے ہیں؟
+
+Step 50/284
+>> Urdu - Sinhala
+	වේන් (ෆෝර්ට් වර්ත්, කැලිෆෝනියාවේ) බොහෝ කාන්තාවන් සිටින අතර මම කාන්තාවකට සිනාසෙමි. "ජනාධිපතිතුමනි, මෙහි මුස්ලිම් ව්‍යාපාරිකයන් තිදෙනෙක් සිටිති. දින තුනකට පසු අපි දිවා ආහාරය සඳහා පැමිණියෙමු." )) කාන්තාවන්ට එරෙහි චෝදනා ඔබ අසා තිබේද?
+
+Step 51/284
+>> Sinhala - Bosnian
+	U Wayneu ima toliko žena (Fort Worth, Kalifornija) i ja se nasmijem ženi. "Predsjedniče, ovdje su tri muslimanska biznismena. Tri dana kasnije stigli smo na ručak." )) Jeste li čuli optužbe protiv žena?
+
+Step 52/284
+>> Bosnian - Russian
+	В Уэйне (Форт-Уэрт, Калифорния) так много женщин, и я смеюсь над своей женой. «Президент, здесь трое мусульманских бизнесменов. Три дня спустя мы прибыли на обед». )) Слышали ли вы обвинения против женщин?
+
+Step 53/284
+>> Russian - Portuguese
+	Há tantas mulheres em Wayne (Fort Worth, Califórnia) e eu ri da minha esposa. “Presidente, existem três empresários muçulmanos. Três dias depois, chegamos para o almoço. )) Você já ouviu acusações contra mulheres?
+
+Step 54/284
+>> Portuguese - Samoan
+	E tele tamaitai i Wayne (Fort Worth, Kalefonia) ma sa ou talie i loʻu toalua. "Peresitene, e tolu tagata faipisinisi Mosalemi. E tolu aso mulimuli ane ae matou taunuu mo le malologa. )) Na e faʻalogo i tuuaiga e faasaga i fafine?
+
+Step 55/284
+>> Samoan - Bengali
+	ওয়েইনে (ফোর্ট ওয়ার্থ, ক্যালিফোর্নিয়া) অনেক মহিলা রয়েছেন এবং আমি আমার স্ত্রীর সাথে হেসেছিলাম। "রাষ্ট্রপতি, তিনজন মুসলিম ব্যবসায়ী। তিন দিন পরে আমরা দুপুরের খাবারের জন্য পৌঁছেছি।)) আপনি কি মহিলাদের বিরুদ্ধে অভিযোগ শুনেছেন?
+
+Step 56/284
+>> Bengali - Italian
+	Ci sono molte donne a Wayne (Fort Worth, California) e ho riso con mia moglie. "Presidente, tre uomini d'affari musulmani. Tre giorni dopo siamo arrivati a pranzo.) Hai sentito delle accuse contro le donne?
+
+Step 57/284
+>> Italian - Maori
+	He maha nga wahine o Wayne (Fort Worth, California) a ka kata ahau me taku wahine. "Perehitini, tokotoru nga kaipakihi Muslim. E toru nga ra i muri mai ka haere matou mo te tina.) I rongo koe mo nga whakapae whakahe ki nga wahine?
+
+Step 58/284
+>> Maori - Indonesian
+	Wayne memiliki banyak wanita (Fort Worth, California) dan istri saya dan saya tertawa. "Presiden, tiga pengusaha Muslim. Tiga hari kemudian kami pergi makan siang.) Apakah Anda mendengar tentang tuduhan terhadap perempuan?
+
+Step 59/284
+>> Indonesian - Kurdish
+	Wayne gelek jin hene (Fort Worth, California) û jina min û ez dikenim. "Serokkomar, sê karsazên misilman. Sê roj şûnda em çûn şîvê.) Ma we derheqê sûcên li dijî jinê bihîstiye?
+
+Step 60/284
+>> Kurdish - Macedonian
+	Вејн има многу сопруги (Форт Ворт, Калифорнија) и мојата сопруга и јас се смееме. „Претседател, тројца муслимански бизнисмени. Три дена подоцна отидовме на вечера.) Дали сте слушнале за злосторства врз жени?
+
+Step 61/284
+>> Macedonian - Dutch
+	Wayne heeft veel vrouwen (Fort Worth, CA) en mijn vrouw en ik lachen. "President, drie moslimzakenlieden. Drie dagen later gingen we uit eten.) Heb je gehoord van misdaden tegen vrouwen?
+
+Step 62/284
+>> Dutch - Swahili
+	Wayne ana wanawake wengi (Fort Worth, CA) na mimi na mke wangu tunacheka. "Rais, wafanyibiashara watatu Waislamu. Siku tatu baadaye tukatoka kwenda kula chakula cha jioni.) Je! Umesikia ya uhalifu dhidi ya wanawake?
+
+Step 63/284
+>> Swahili - Uzbek
+	Ueynda juda ko'p ayollar bor (Fort-Uert, Kaliforniya) va men va xotinim kulamiz. "Prezident, uchta musulmon ishbilarmon. Uch kundan keyin biz tushlikka chiqdik.) Siz ayollarga qarshi jinoyatlar to'g'risida eshitganmisiz?
+
+Step 64/284
+>> Uzbek - Lao
+	ມີແມ່ຍິງຫຼາຍຄົນຢູ່ເມືອງ Wayne (Fort Worth, California) ແລະຂ້ອຍແລະເມຍຂອງຂ້ອຍກໍ່ຫົວເລາະ. "ປະທານາທິບໍດີ, ນັກທຸລະກິດຊາວມຸດສະລິມສາມຄົນ. ພວກເຮົາໄດ້ອອກໄປກິນເຂົ້າທ່ຽງໃນສາມວັນຕໍ່ມາ.) ທ່ານເຄີຍໄດ້ຍິນກ່ຽວກັບເຣຶ່ອງຕໍ່ແມ່ຍິງບໍ?
+
+Step 65/284
+>> Lao - Slovenian
+	Veliko žensk v Waynu (Fort Worth, Kalifornija) in moja žena in jaz smo se smejali. "Predsednik, trije muslimanski poslovneži. Tri dni pozneje smo šli na kosilo.) Ste že slišali za zločine nad ženskami?
+
+Step 66/284
+>> Slovenian - Chinese (Traditional)
+	韋恩（加利福尼亞州沃思堡）的許多女人和我的妻子都笑了。 “總統，三個穆斯林商人。三天后我們出去吃午餐。）您是否聽說過危害婦女的罪行？
+
+Step 67/284
+>> Chinese (Traditional) - Romanian
+	Multe femei din Wayne (Fort Worth, California) și soția mea au râs. "Președinte, trei oameni de afaceri musulmani. Am ieșit la prânz trei zile mai târziu." Ați auzit despre crime împotriva femeilor?
+
+Step 68/284
+>> Romanian - Danish
+	Mange kvinder i Wayne (Fort Worth, Californien) og min kone lo. ”Præsident, tre muslimske forretningsfolk. Jeg gik ud til frokost tre dage senere.” Har du hørt om forbrydelser mod kvinder?
+
+Step 69/284
+>> Danish - Shona
+	Vakadzi vazhinji muWayne (Fort Worth, California) nemukadzi wangu vakaseka. "President, vatatu vechiMuslim mabhizinesi. Ndabuda kuenda kunodya kwemazuva matatu. ”Wambonzwa nezve mhosva dzevakadzi here?
+
+Step 70/284
+>> Shona - Korean
+	웨인 (캘리포니아 포트 워스)의 많은 여성들과 아내가 웃었습니다. "무슬림 사업가 3 명. 대통령은 3 일 동안 저녁을 먹으러 나갔다."
+
+Step 71/284
+>> Korean - Polish
+	Wiele kobiet i żon Wayne (California Fort Worth) śmiało się. „Trzej muzułmańscy biznesmeni. Prezydent wyszedł na obiad na trzy dni”.
+
+Step 72/284
+>> Polish - Lithuanian
+	Daugybė Wayne moterų ir žmonų (Kalifornijos fortas) drąsiai. „Trys musulmonų verslininkai. Prezidentas išėjo vakarieniauti trims dienoms “.
+
+Step 73/284
+>> Lithuanian - Spanish
+	Muchas mujeres y esposas Wayne (Fort California) valientes. “Tres hombres de negocios musulmanes. El presidente salió a cenar por tres días ".
+
+Step 74/284
+>> Spanish - Lao
+	ແມ່ຍິງແລະເມຍຫຼາຍຄົນ Wayne (Fort California) ກ້າຫານ. “ ນັກທຸລະກິດຊາວມຸດສະລິມ 3 ຄົນ. ປະທານາທິບໍດີໄດ້ອອກໄປກິນເຂົ້າແລງເປັນເວລາສາມວັນ. "
+
+Step 75/284
+>> Lao - Bengali
+	অনেক স্ত্রী ও স্ত্রী ওয়েন (ফোর্ট ক্যালিফোর্নিয়া) সাহসী। “তিনজন মুসলিম ব্যবসায়ী। রাষ্ট্রপতি তিন দিনের জন্য নৈশভোজে বেরিয়েছিলেন। "
+
+Step 76/284
+>> Bengali - Japanese
+	多くの妻と妻ウェイン（カリフォルニア州フォート）は勇敢です。 「3人のイスラム教徒のビジネスマン。大統領は3日間夕食に出かけました。 」
+
+Step 77/284
+>> Japanese - Bosnian
+	Mnoge supruge i žene Wayne (Fort, California) hrabre su. "Trojica muslimanskih privrednika. Predsednik je otišao na večeru tri dana."
+
+Step 78/284
+>> Bosnian - English
+	Many of Wayne's wives and wives (Fort, California) are brave. "Three Muslim businessmen. The president went to dinner for three days."
+
+Step 79/284
+>> English - Czech
+	Mnoho Wayneových manželek a manželek (Fort, Kalifornie) je statečných. "Tři muslimští obchodníci. Prezident šel na večeři na tři dny."
+
+Step 80/284
+>> Czech - Hebrew
+	נשותיו של וויין רבות (פורט, קליפורניה) אמיצות. "שלושה סוחרים מוסלמים. הנשיא הלך לארוחת ערב לשלושה ימים."
+
+Step 81/284
+>> Hebrew - Samoan
+	O le tele o avā a Wayne (Fort, CA) e totoa. "O le au Faresaio e toʻatolu. Sa alu le peresetene i le 'aiga o le afiafi mo aso e tolu."
+
+Step 82/284
+>> Samoan - Malay
+	Kebanyakan isteri Wayne (Fort, CA) berani. "Ketiga orang Farisi. Presiden pergi makan malam selama tiga hari."
+
+Step 83/284
+>> Malay - Uzbek
+	Ueyn (Fort, CA) xotinlarining ko'plari jasur. "Uchta farziy. Prezident uch kun tushlik qildi."
+
+Step 84/284
+>> Uzbek - Hausa
+	Yawancin matan Wayne (Fort, CA) masu ƙarfin hali ne. "Farisiyawa uku. Shugaban ya ci abincin rana na kwana uku."
+
+Step 85/284
+>> Hausa - Chinese (Simplified)
+	韦恩（CA）的大多数韦恩妇女都很勇敢。 “三个法利赛人。总统吃了三天的午餐。”
+
+Step 86/284
+>> Chinese (Simplified) - Turkish
+	Wayne'deki (CA) çoğu Wayne kadını cesur. "Üç Ferisiler. Başkan üç günlük bir öğle yemeği yedi."
+
+Step 87/284
+>> Turkish - Burmese
+	ဝိန်း (CA) ခုနှစ်, ဝိန်းအများဆုံးသတ်တိရှိအမျိုးသမီးတစ်ဦး။ "သုံးဖာရိရှဲတို့။ နိုင်ငံတော်သမ္မတဦးသိန်းစိန်သည်သုံးရက်ပတ်လုံးနေ့လယ်စာစားရကြ၏။ "
+
+Step 88/284
+>> Burmese - Chichewa
+	Wayne (CA), Wayne wolimba mtima mkazi. "Afarisi. Pulezidenti anapita nkhomaliro masiku atatu."
+
+Step 89/284
+>> Chichewa - Chinese (Traditional)
+	韋恩（CA），韋恩勇敢的女人。 “法利賽人。總統去吃了三天午餐。”
+
+Step 90/284
+>> Chinese (Traditional) - Nepali
+	वेन (CA), वेन बहादुर महिला। "फरिसीहरू। राष्ट्रपति तीन दिनको खाजा खान गए।"
+
+Step 91/284
+>> Nepali - Swedish
+	Wayne (CA), Wayne Modig kvinna. "Fariséerna. Presidenten gick till en tre-dagars måltid."
+
+Step 92/284
+>> Swedish - Kurdish
+	Wayne (CA), jina Wayne Brave. "Fêrisiyan. Serokkomar çû sê rojek xwarinê."
+
+Step 93/284
+>> Kurdish - Haitian Creole
+	Wayne (CA), madanm Wayne Brave. "Farizyen yo. Prezidan an te soti pou yon repa twa jou."
+
+Step 94/284
+>> Haitian Creole - Thai
+	Wayne (CA) ภรรยาของ Wayne Brave “ พวกฟาริสีประธานาธิบดีออกไปทานอาหารสามวัน”
+
+Step 95/284
+>> Thai - German
+	Wayne (CA), Frau von Wayne Brave, "Präsident Pharisäer gehen für drei Tage aus"
+
+Step 96/284
+>> German - Ukrainian
+	Уейн (Каліфорнія), дружина Уейна Хороброго, "президент фарисеї виходять на три дні"
+
+Step 97/284
+>> Ukrainian - Icelandic
+	Wayne (Kalifornía), kona Wayne Brave, „forseti farísea kemur út í þrjá daga“
+
+Step 98/284
+>> Icelandic - Georgian
+	ვეინი (კალიფორნია), უეინ ბრეველის ცოლი, "ფარისეველთა პრეზიდენტი გამოდის სამი დღის განმავლობაში"
+
+Step 99/284
+>> Georgian - Italian
+	Wayne (California), moglie di Wayne Brewell, "Il presidente fariseo esce tra tre giorni"
+
+Step 100/284
+>> Italian - Portuguese
+	Wayne (Califórnia), esposa de Wayne Brewell, "O presidente do fariseu parte em três dias"
+
+Step 101/284
+>> Portuguese - Kazakh
+	Уэйн (Калифорния), Уэйн Брюэллдің әйелі, «Фарисей президенті үш күнде кетеді»
+
+Step 102/284
+>> Kazakh - Arabic
+	واين ، كاليفورنيا ، زوجة ارتداء ، "رئيس الفريسي سيغادر خلال ثلاثة أيام"
+
+Step 103/284
+>> Arabic - French
+	Wayne, Californie, épouse portant: "La tête du pharisien partira dans trois jours"
+
+Step 104/284
+>> French - Persian
+	وین ، کالیفرنیا ، همسر پوشیده: "رئیس فریسی سه روز خواهد رفت"
+
+Step 105/284
+>> Persian - Greek
+	Σύζυγος, CA, σύζυγος Καλύπτεται: "Ο επικεφαλής Ferris θα πάει τρεις μέρες"
+
+Step 106/284
+>> Greek - Vietnamese
+	Vợ, CA, Vợ bao phủ: "Đầu Ferris sẽ đi ba ngày"
+
+Step 107/284
+>> Vietnamese - Zulu
+	Uke, CA, Unkosikazi wambozwe: "Inhloko kaFerris izohamba izinsuku ezintathu"
+
+Step 108/284
+>> Zulu - Hungarian
+	Uke, Kalifornia, feleség fedett: "Ferris feje három napra eltűnik"
+
+Step 109/284
+>> Hungarian - Albanian
+	Uke, California, gruaja e mbuluar: "Koka e Ferris zhduket për tre ditë"
+
+Step 110/284
+>> Albanian - Bulgarian
+	Uke, Калифорния, жена, покрита: "Главата на фериса изчезва след три дни"
+
+Step 111/284
+>> Bulgarian - Serbian
+	Уке, Калифорнија, жена, покривена: "Феррисова глава нестаје за три дана"
+
+Step 112/284
+>> Serbian - Hindi
+	उके, कैलिफोर्निया, महिला, कवर: "फेरिस का सिर तीन दिनों में गायब हो जाता है"
+
+Step 113/284
+>> Hindi - Danish
+	Ukay, Californien, Kvinde, omslag: "Ferris hoved forsvinder om tre dage"
+
+Step 114/284
+>> Danish - Amharic
+	እሺ ፣ ካሊፎርኒያ ፣ ሴት ፣ ሽፋን “የ Ferris ጭንቅላት በሦስት ቀናት ውስጥ ጠፋ”
+
+Step 115/284
+>> Amharic - Shona
+	OK, California, mukadzi, chifukidzo "Ferris musoro wakanyangarika mumazuva matatu"
+
+Step 116/284
+>> Shona - Polish
+	OK, Kalifornia, kobieta, okładka „Głowa Ferris zniknęła za trzy dni”
+
+Step 117/284
+>> Polish - Slovak
+	OK, Kalifornia, žena, prikrývka „Ruská hlava zmizla za tri dni“
+
+Step 118/284
+>> Slovak - Irish
+	OK, California, bean, blaincéad "ceann na Rúise imithe i dtrí lá"
+
+Step 119/284
+>> Irish - Slovenian
+	V redu, Kalifornija, ženska, odeja "Ruska glava je v treh dneh izginila"
+
+Step 120/284
+>> Slovenian - Russian
+	Ладно, калифорнийская женщина, одеяло "Русская голова исчезла через три дня"
+
+Step 121/284
+>> Russian - Armenian
+	Լավ, կալիֆոռնիացի կին. «Ռուս գլուխը երեք օրից անհետացավ» վերմակը
+
+Step 122/284
+>> Armenian - Finnish
+	Okei, Kalifornian nainen. "Venäjän pää katosi kolmessa päivässä" viltti:
+
+Step 123/284
+>> Finnish - Sinhala
+	හරි, කැලිෆෝනියා කාන්තාව. "රුසියානු හිස දින තුනකින් අතුරුදහන් විය" බ්ලැන්කට්ටුව:
+
+Step 124/284
+>> Sinhala - Romanian
+	Bine, doamnă din California. Pătură "capul rusesc a dispărut în trei zile":
+
+Step 125/284
+>> Romanian - Malagasy
+	Eny ary, vavy avy any California. Blanket "lohan'ny Rosiana dia nanjavona tao anatin'ny hateloana":
+
+Step 126/284
+>> Malagasy - Luxembourgish
+	Gutt, e Meedchen aus Kalifornien. Decken "Russesche Kapp ass an dräi Deeg verschwonnen":
+
+Step 127/284
+>> Luxembourgish - Dutch
+	Nou ja, een meisje uit Californië. De deken "Russisch hoofd verdwenen in drie dagen":
+
+Step 128/284
+>> Dutch - Maori
+	Ko, he kotiro no California. Ko te paraikete "I ngaro te upoko Russian i roto i nga ra e toru":
+
+Step 129/284
+>> Maori - Mongolian
+	Эсвэл Калифорнийн нэгэн охин. "Оросын толгой гурван өдрийн дотор алга болжээ" гэсэн хөнжил:
+
+Step 130/284
+>> Mongolian - Urdu
+	یا کیلیفورنیا کی کوئی لڑکی۔ "روسی سربراہ تین دن میں کھو گیا ہے" کمبل:
+
+Step 131/284
+>> Urdu - Latvian
+	Vai arī Kalifornijas meitene. Sega "Krievijas galva tiek pazaudēta trīs dienu laikā":
+
+Step 132/284
+>> Latvian - Maltese
+	Jew tifla f’Kalifornja. Kutra "Ras Russa mitlufa fi tliet ijiem":
+
+Step 133/284
+>> Maltese - Korean
+	또는 캘리포니아 소녀. 담요 "러시아의 머리는 사흘 만에 손실"
+
+Step 134/284
+>> Korean - Macedonian
+	Или девојка од Калифорнија. Ankебе „Руска коса изгубена за три дена“
+
+Step 135/284
+>> Macedonian - Indonesian
+	Atau seorang gadis California. Ankebe "Rambut Rusia hilang dalam tiga hari"
+
+Step 136/284
+>> Indonesian - Estonian
+	Või California tüdruk. Ankebe "Vene juuksed on kolme päevaga kadunud"
+
+Step 137/284
+>> Estonian - Filipino
+	O isang batang babae sa California. Si Ankebe "Russian hair ay nawala sa tatlong araw"
+
+Step 138/284
+>> Filipino - Pashto
+	یا د کالیفورنیا نجلۍ ده. انکبی "روسی ویښتان په دریو ورځو کې لاړ"
+
+Step 139/284
+>> Pashto - Catalan
+	O és una noia de Califòrnia. Ankabi: "El pèl rus s'ha perdut en tres dies"
+
+Step 140/284
+>> Catalan - Swahili
+	Au yeye ni msichana kutoka California. Ankabi: "Nywele za Kirusi zimepotea kwa siku tatu"
+
+Step 141/284
+>> Swahili - Croatian
+	Ili je djevojka iz Kalifornije. Ankabi: "Ruska kosa se gubi za tri dana"
+
+Step 142/284
+>> Croatian - Norwegian
+	Eller en jente fra California. Ankabi: "Russisk hår går tapt om tre dager"
+
+Step 143/284
+>> Norwegian - Croatian
+	Ili djevojka iz Kalifornije. Ankabi: "Ruska kosa se izgubila za tri dana"
+
+Step 144/284
+>> Croatian - Swahili
+	Au msichana kutoka California. Ankabi: "nywele za Kirusi zilizopotea kwa siku tatu"
+
+Step 145/284
+>> Swahili - Catalan
+	O una noia de Califòrnia. Ankabi: "El pèl rus es va perdre durant tres dies"
+
+Step 146/284
+>> Catalan - Pashto
+	یا د کالیفورنیا څخه یوه انجلۍ. انکابي: "روسي ویښتان د دریو ورځو لپاره ورک شوي"
+
+Step 147/284
+>> Pashto - Filipino
+	O isang batang babae mula sa California. Ankabi: "Ang buhok ng Russia ay nawala sa loob ng tatlong araw"
+
+Step 148/284
+>> Filipino - Estonian
+	Või tüdruk Californiast. Ankabi: "Vene juuksed on kolme päevaga kadunud"
+
+Step 149/284
+>> Estonian - Indonesian
+	Atau seorang gadis dari California. Ankabi: "Rambut Rusia hilang dalam tiga hari"
+
+Step 150/284
+>> Indonesian - Macedonian
+	Или девојка од Калифорнија. Анкаби: „Руската коса ја нема за три дена“
+
+Step 151/284
+>> Macedonian - Korean
+	아니면 캘리포니아 소녀. ANKABI : "러시아 머리카락은 사흘 만에 사라졌다"
+
+Step 152/284
+>> Korean - Maltese
+	Jew tifla f’Kalifornja. ANKABI: "Xagħar Russu sparixxa fi tlett ijiem"
+
+Step 153/284
+>> Maltese - Latvian
+	Vai California meitene. ANKABI "Krievu mati pazuda trīs dienās"
+
+Step 154/284
+>> Latvian - Urdu
+	یا کیلیفورنیا کی کوئی لڑکی۔ عنکابی "روسی بال تین دن میں غائب ہوگئے"
+
+Step 155/284
+>> Urdu - Mongolian
+	Эсвэл Калифорнийн нэгэн охин. Анкаби "Оросын үс гурван өдрийн дараа алга болно"
+
+Step 156/284
+>> Mongolian - Maori
+	Ranei he kotiro California. I kii a Ankaibi "Ka ngaro nga makawe o Russia i muri i nga ra e toru"
+
+Step 157/284
+>> Maori - Dutch
+	Of een meisje uit Californië. Ankaibi zegt: "Het haar van Rusland zal na drie dagen verdwijnen"
+
+Step 158/284
+>> Dutch - Luxembourgish
+	Oder e Meedchen aus Kalifornien. Den Ankaibi seet: "Russland d'Hoer wäerten no dräi Deeg verschwannen"
+
+Step 159/284
+>> Luxembourgish - Malagasy
+	Na tovovavy avy any Kalifornia. Hoy i Ankaibi: "hanjavona ny volon'i Rosiana rehefa afaka telo andro"
+
+Step 160/284
+>> Malagasy - Romanian
+	Sau o fată din California. Ankaibi spune: „părul rusesc va dispărea după trei zile”
+
+Step 161/284
+>> Romanian - Sinhala
+	නැත්නම් කැලිෆෝනියාවේ කෙල්ලෙක්. ඇන්කයිබි පවසයි: "රුසියානු හිසකෙස් දින තුනකට පසු අතුරුදහන් වනු ඇත"
+
+Step 162/284
+>> Sinhala - Finnish
+	Tai Kalifornian tyttö. Ankibi sanoo: "Venäjän hiukset katoavat kolmen päivän kuluttua."
+
+Step 163/284
+>> Finnish - Armenian
+	Կամ Կալիֆոռնիայի մի աղջիկ: Անկիբին ասում է. «Ռուսական մազերը երեք օրից կվերանան»:
+
+Step 164/284
+>> Armenian - Russian
+	Или девушка из Калифорнии. Анкиби говорит: «Русские волосы исчезнут через три дня».
+
+Step 165/284
+>> Russian - Slovenian
+	Ali pa dekle iz Kalifornije. Ankibi pravi: "Ruski lasje bodo izginili čez tri dni."
+
+Step 166/284
+>> Slovenian - Irish
+	Nó cailín ó California. Deir Ankibi, "Imreoidh gruaig na Rúise i dtrí lá."
+
+Step 167/284
+>> Irish - Slovak
+	Alebo dievča z Kalifornie. Ankibi hovorí: "Ruské vlasy sa budú hrať za tri dni."
+
+Step 168/284
+>> Slovak - Polish
+	Albo dziewczyna z Kalifornii. Ankibi mówi: „Rosyjskie włosy będą grane za trzy dni”.
+
+Step 169/284
+>> Polish - Shona
+	Kana musikana weCalifornia. Ankibi anoti, "Bvudzi reRussia richaridzwa mumazuva matatu."
+
+Step 170/284
+>> Shona - Amharic
+	ወይም የካሊፎርኒያ ሴት ልጅ። አንኪቢ “የሩሲያ ፀጉር በሦስት ቀናት ውስጥ ይላጫል” ይላል ፡፡
+
+Step 171/284
+>> Amharic - Danish
+	Eller en californisk pige. "Russisk hår vil blive barberet om tre dage," siger Ankibe.
+
+Step 172/284
+>> Danish - Hindi
+	या कैलिफोर्निया की लड़की। "रूसी बाल तीन दिनों में मुंडाए जाएंगे," अंकिब कहते हैं।
+
+Step 173/284
+>> Hindi - Serbian
+	Или девојка из Калифорније. "Руска коса ће се обријати за три дана", каже Анкиб.
+
+Step 174/284
+>> Serbian - Bulgarian
+	Или момиче от Калифорния. "Руската коса ще се обръсне след три дни", казва Анкиб.
+
+Step 175/284
+>> Bulgarian - Albanian
+	Ose një vajzë nga Kalifornia. "Flokët ruse do të rruhen brenda tre ditësh," thotë Ankib.
+
+Step 176/284
+>> Albanian - Hungarian
+	Vagy egy lány Kaliforniából. "Az orosz hajot három napon belül borotválják meg" - mondja Ankib.
+
+Step 177/284
+>> Hungarian - Zulu
+	Noma intombazane evela eCalifornia. "Izinwele zaseRussia zigundwe ngezinsuku ezintathu," kusho u-Ankib.
+
+Step 178/284
+>> Zulu - Vietnamese
+	Hoặc một cô gái đến từ California. "Tóc Nga được cắt tỉa trong ba ngày," Ankib nói.
+
+Step 179/284
+>> Vietnamese - Greek
+	Ή κορίτσι από την Καλιφόρνια. "Τα ρωσικά μαλλιά κόβονται σε τρεις μέρες", ανέφερε ο Ankib.
+
+Step 180/284
+>> Greek - Persian
+	یا دختری از کالیفرنیا. آنکیب گفت: "موهای روسی در سه روز کوتاه می شود."
+
+Step 181/284
+>> Persian - French
+	Ou une fille de Californie. "Les cheveux russes sont coupés en trois jours", a déclaré Ankib.
+
+Step 182/284
+>> French - Arabic
+	أو فتاة من كاليفورنيا. وقال عنقب "الشعر الروسي مقطوع في ثلاثة أيام."
+
+Step 183/284
+>> Arabic - Kazakh
+	Немесе Калифорниядан келген қыз. «Орыс шашы үш күнде кесіледі», - деді ол.
+
+Step 184/284
+>> Kazakh - Portuguese
+	Ou uma garota da Califórnia. "O cabelo russo é cortado em três dias", disse ele.
+
+Step 185/284
+>> Portuguese - Italian
+	O una ragazza della California. "I capelli russi vengono tagliati in tre giorni", ha detto.
+
+Step 186/284
+>> Italian - Georgian
+	ან გოგონა კალიფორნიიდან. ”რუსული თმის გაჭრა სამ დღეში ხდება”, - თქვა მან.
+
+Step 187/284
+>> Georgian - Icelandic
+	Eða stelpa frá Kaliforníu. „Rússneskar klippingar taka þrjá daga,“ sagði hann.
+
+Step 188/284
+>> Icelandic - Ukrainian
+	Або дівчина з Каліфорнії. "Російські стрижки займають три дні", - сказав він.
+
+Step 189/284
+>> Ukrainian - German
+	Oder ein Mädchen aus Kalifornien. "Russische Haarschnitte dauern drei Tage", sagte er.
+
+Step 190/284
+>> German - Thai
+	หรือผู้หญิงจากแคลิฟอร์เนีย "ตัดผมรัสเซียใช้เวลาสามวัน" เขากล่าว
+
+Step 191/284
+>> Thai - Haitian Creole
+	Oswa yon fanm nan Kalifòni "Tèt Ris la pran twa jou," li te di.
+
+Step 192/284
+>> Haitian Creole - Kurdish
+	An jî jinek li California "Serê Rus sê rojan digire," wê got.
+
+Step 193/284
+>> Kurdish - Swedish
+	Eller en kvinna i Kalifornien "Serverar Rus tre dagar", sa hon.
+
+Step 194/284
+>> Swedish - Nepali
+	वा क्यालिफोर्नियाकी महिलाले "तीन दिनसम्म रस सेवा गर्दैछिन्," उनले भनिन्।
+
+Step 195/284
+>> Nepali - Chinese (Traditional)
+	她說，或者是一位加州婦女，“將果汁榨汁三天”。
+
+Step 196/284
+>> Chinese (Traditional) - Chichewa
+	Iye adati, kapena mayi waku California, "kufinya msuzi kwa masiku atatu."
+
+Step 197/284
+>> Chichewa - Burmese
+	သူက "သုံးရက်များအတွက်ငံပြာရည်ဖျစ်ညှစ်။ " ဟုပြောသည်, ဒါမှမဟုတ်ကယ်လီဖိုးနီးယား၏မိခင်
+
+Step 198/284
+>> Burmese - Turkish
+	Üç gün boyunca sos "sıkmak" dedi ya California annesi.
+
+Step 199/284
+>> Turkish - Chinese (Simplified)
+	他说“挤”了酱汁三天，或者他的母亲在加州。
+
+Step 200/284
+>> Chinese (Simplified) - Hausa
+	Ya ce "matsi" miya cikin kwana uku, ko kuma mahaifiyarsa tana California.
+
+Step 201/284
+>> Hausa - Uzbek
+	U sousni uch kunda "siqish" yoki onasi Kaliforniyada bo'lganligini aytdi.
+
+Step 202/284
+>> Uzbek - Malay
+	Dia berkata dia terpaksa "memerah" sos itu dalam masa tiga hari atau ibunya berada di California.
+
+Step 203/284
+>> Malay - Samoan
+	Na fai mai o ia e tatau ona "toso" le sauuga i totonu o le tolu aso pe o lona tina foi i Kalefonia.
+
+Step 204/284
+>> Samoan - Hebrew
+	הוא אמר שהוא צריך "למשוך" את הרוטב בתוך שלושה ימים או את זה של אמו בקליפורניה.
+
+Step 205/284
+>> Hebrew - Czech
+	Řekl, že potřeboval „zatáhnout“ omáčku do tří dnů nebo omáčku své matky v Kalifornii.
+
+Step 206/284
+>> Czech - English
+	He said he needed to "pull" the sauce in three days or his mother's sauce in California.
+
+Step 207/284
+>> English - Bosnian
+	Rekao je da je trebao "izvući" umak za tri dana ili majčin umak u Kaliforniji.
+
+Step 208/284
+>> Bosnian - Japanese
+	彼は、3日間でソースまたはカリフォルニアの母親のソースを「引き出す」必要があると言いました。
+
+Step 209/284
+>> Japanese - Bengali
+	তিনি বলেছিলেন যে তিন দিনের মধ্যে তাকে ক্যালিফোর্নিয়ার মায়ের উত্স বা উত্স "আঁক" করা দরকার।
+
+Step 210/284
+>> Bengali - Lao
+	ທ່ານກ່າວວ່າພາຍໃນສາມວັນລາວ ຈຳ ເປັນຕ້ອງ "ແຕ້ມ" ແຫລ່ງທີ່ມາຫລືຕົ້ນ ກຳ ເນີດຂອງແມ່ຂອງລັດຄາລິຟໍເນຍ.
+
+Step 211/284
+>> Lao - Spanish
+	Dijo que dentro de tres días se le exigiría "dibujar" el origen o el origen de la madre de California.
+
+Step 212/284
+>> Spanish - Lithuanian
+	Jis sakė, kad per tris dienas reikės „nupiešti“ Kalifornijos motinos kilmę ar kilmę.
+
+Step 213/284
+>> Lithuanian - Polish
+	Powiedział, że „narysowanie” pochodzenia lub pochodzenia matki z Kalifornii potrwa trzy dni.
+
+Step 214/284
+>> Polish - Korean
+	그는 어머니의 캘리포니아 출신 또는 하강을 "그리기"까지 3 일이 걸릴 것이라고 말했다.
+
+Step 215/284
+>> Korean - Shona
+	Akataura kuti zvaizotora mazuva matatu "kutora" amai vake kubva kuCalifornia kana madzinza.
+
+Step 216/284
+>> Shona - Danish
+	Han sagde, at det ville tage tre dage at "hente" sin mor fra Californien eller stammene.
+
+Step 217/284
+>> Danish - Romanian
+	El a spus că va dura trei zile pentru a-și „recupera” mama din California sau din triburi.
+
+Step 218/284
+>> Romanian - Chinese (Traditional)
+	他說，從加利福尼亞或部落“恢復”他的母親需要三天。
+
+Step 219/284
+>> Chinese (Traditional) - Slovenian
+	Dejal je, da traja tri dni, da "opomore" svojo mamo iz Kalifornije ali plemena.
+
+Step 220/284
+>> Slovenian - Lao
+	ທ່ານກ່າວວ່າມັນຕ້ອງໃຊ້ເວລາສາມມື້ເພື່ອ "ກູ້ເອົາ" ແມ່ຂອງລາວຈາກລັດຄາລິຟໍເນຍຫລືຊົນເຜົ່າ.
+
+Step 221/284
+>> Lao - Uzbek
+	Uning so'zlariga ko'ra, Kaliforniyadan yoki qabiladan onasini "tiklash" uch kun davom etgan.
+
+Step 222/284
+>> Uzbek - Swahili
+	Alisema "kupona" mama yake kutoka California au kabila ilidumu kwa siku tatu.
+
+Step 223/284
+>> Swahili - Dutch
+	Ze zei dat haar 'herstel' uit Californië of de stam drie dagen duurde.
+
+Step 224/284
+>> Dutch - Macedonian
+	Таа рече дека нејзиното „закрепнување“ од Калифорнија или од племето траело три дена.
+
+Step 225/284
+>> Macedonian - Kurdish
+	Wê got "başkirina" wî ji Kalîforniya an eşîra sê rojan kişand.
+
+Step 226/284
+>> Kurdish - Indonesian
+	Dia mengatakan "pemulihannya" membawanya dari California atau suku selama tiga hari.
+
+Step 227/284
+>> Indonesian - Maori
+	I kii ia ko tana "whakaora" i kawe mai i a ia mai California, te iwi ra e toru nga ra.
+
+Step 228/284
+>> Maori - Italian
+	Ha detto che il suo "recupero" lo ha portato dalla California, il pubblico per tre giorni.
+
+Step 229/284
+>> Italian - Bengali
+	তিনি বলেছিলেন যে তাঁর "পুনরুদ্ধার" তাঁকে ক্যালিফোর্নিয়া, পাবলিক থেকে তিন দিনের জন্য নিয়ে গেছে।
+
+Step 230/284
+>> Bengali - Samoan
+	Na ia fai mai o lona "toe faaleleia" na ave ai o ia mai Kalefonia, tagata lautele, mo aso e tolu.
+
+Step 231/284
+>> Samoan - Portuguese
+	Ele disse que sua "recuperação" o afastou da Califórnia, o público, por três dias.
+
+Step 232/284
+>> Portuguese - Russian
+	Он сказал, что его «выздоровление» удерживало его из Калифорнии, общественности, в течение трех дней.
+
+Step 233/284
+>> Russian - Bosnian
+	Rekao je da ga je "oporavak" držao iz Kalifornije, javnosti, tri dana.
+
+Step 234/284
+>> Bosnian - Sinhala
+	"සුවය ලැබීම" නිසා ඔහු දින තුනක් කැලිෆෝනියාවේ සිට මහජනයා අතරට ගෙන ගියේය.
+
+Step 235/284
+>> Sinhala - Urdu
+	ان کی "صحت یابی" کی وجہ سے انہیں تین دن کے لئے کیلیفورنیا لے جایا گیا۔
+
+Step 236/284
+>> Urdu - Arabic
+	بسبب "الشفاء" ، تم نقله إلى كاليفورنيا لمدة ثلاثة أيام.
+
+Step 237/284
+>> Arabic - Turkish
+	“İyileşme” yüzünden üç günlüğüne Kaliforniya'ya transfer edildi.
+
+Step 238/284
+>> Turkish - Kazakh
+	Калифорнияға «сауығып кетуіне» байланысты үш күнге ауыстырылды.
+
+Step 239/284
+>> Kazakh - Spanish
+	California se trasladó a tres días debido a la "curación".
+
+Step 240/284
+>> Spanish - Lithuanian
+	Kalifornija persikėlė į tris dienas dėl „išgijimo“.
+
+Step 241/284
+>> Lithuanian - Luxembourgish
+	Kalifornien ass op dräi Deeg geplënnert wéinst "Heelen."
+
+Step 242/284
+>> Luxembourgish - Hausa
+	California ta koma kwana uku saboda "warkewa".
+
+Step 243/284
+>> Hausa - Hungarian
+	Kalifornia három napra tér vissza a "gyógyulás" miatt.
+
+Step 244/284
+>> Hungarian - Chinese (Simplified)
+	加州又回来了三天以进行“治疗”。
+
+Step 245/284
+>> Chinese (Simplified) - Hindi
+	कैलिफ़ोर्निया ने "उपचार" के लिए तीन दिन वापस कर दिए हैं।
+
+Step 246/284
+>> Hindi - Burmese
+	ကယ်လီဖိုးနီးယားက "ကုသမှု" အတွက်သုံးရက်ပြန်ရောက်ခဲ့သည်။
+
+Step 247/284
+>> Burmese - Czech
+	Kalifornie je „zpět“ ve třech dnech léčby.
+
+Step 248/284
+>> Czech - Croatian
+	Kalifornija se "vraća" za tri dana liječenja.
+
+Step 249/284
+>> Croatian - Bulgarian
+	Калифорния се „връща“ за три дни лечение.
+
+Step 250/284
+>> Bulgarian - Georgian
+	კალიფორნია ბრუნდება სამდღიანი მკურნალობის განმავლობაში.
+
+Step 251/284
+>> Georgian - Greek
+	Η Καλιφόρνια επιστρέφει εντός τριών ημερών από τη θεραπεία.
+
+Step 252/284
+>> Greek - Albanian
+	Kalifornia kthehet brenda tre ditëve të trajtimit.
+
+Step 253/284
+>> Albanian - Icelandic
+	Kalifornía snýr aftur innan þriggja daga frá meðferð.
+
+Step 254/284
+>> Icelandic - Haitian Creole
+	California retounen nan twa jou nan tretman an.
+
+Step 255/284
+>> Haitian Creole - Hebrew
+	קליפורניה חוזרת תוך שלושה ימים מהטיפול.
+
+Step 256/284
+>> Hebrew - Catalan
+	Califòrnia torna als tres dies posteriors al tractament.
+
+Step 257/284
+>> Catalan - Malagasy
+	Niverina niverina nandritra ny telo andro i California.
+
+Step 258/284
+>> Malagasy - Vietnamese
+	California trở lại trong ba ngày.
+
+Step 259/284
+>> Vietnamese - Persian
+	کالیفرنیا طی سه روز بازگشت.
+
+Step 260/284
+>> Persian - Malay
+	California kembali dalam tempoh tiga hari.
+
+Step 261/284
+>> Malay - French
+	La Californie revient dans les trois jours.
+
+Step 262/284
+>> French - English
+	California returns within three days.
+
+Step 263/284
+>> English - Maltese
+	California tirritorna fi żmien tlett ijiem.
+
+Step 264/284
+>> Maltese - Ukrainian
+	Каліфорнія повернутися протягом трьох днів.
+
+Step 265/284
+>> Ukrainian - Filipino
+	Bumalik ang California sa loob ng tatlong araw.
+
+Step 266/284
+>> Filipino - Amharic
+	ካሊፎርኒያ በሶስት ቀናት ውስጥ ተመልሷል ፡፡
+
+Step 267/284
+>> Amharic - Latvian
+	Kalifornija ir atpakaļ trīs dienu laikā.
+
+Step 268/284
+>> Latvian - Mongolian
+	Калифорниа гурван өдрийн дараа эргэж ирлээ.
+
+Step 269/284
+>> Mongolian - Swedish
+	Kalifornien återvände tre dagar senare.
+
+Step 270/284
+>> Swedish - Armenian
+	Կալիֆոռնիան վերադարձավ երեք օր անց:
+
+Step 271/284
+>> Armenian - Thai
+	แคลิฟอร์เนียกลับมาในอีกสามวันต่อมา
+
+Step 272/284
+>> Thai - Zulu
+	ICalifornia yabuya ngemuva kwezinsuku ezintathu.
+
+Step 273/284
+>> Zulu - Nepali
+	तीन दिन पछि क्यालिफोर्निया फर्कियो।
+
+Step 274/284
+>> Nepali - Chichewa
+	Anabwereranso ku California patatha masiku atatu.
+
+Step 275/284
+>> Chichewa - Slovak
+	O tri dni neskôr sa vrátil do Kalifornie.
+
+Step 276/284
+>> Slovak - German
+	Drei Tage später kehrte er nach Kalifornien zurück.
+
+Step 277/284
+>> German - Irish
+	Trí lá ina dhiaidh sin d'fhill sé ar California.
+
+Step 278/284
+>> Irish - Estonian
+	Kolm päeva hiljem naasis ta Californiasse.
+
+Step 279/284
+>> Estonian - Japanese
+	3日後、彼はカリフォルニアに戻りました。
+
+Step 280/284
+>> Japanese - Serbian
+	Три дана касније вратио се у Калифорнију.
+
+Step 281/284
+>> Serbian - Norwegian
+	Tre dager senere kom han tilbake til California.
+
+Step 282/284
+>> Norwegian - Finnish
+	Kolme päivää myöhemmin hän palasi Kaliforniaan.
+
+Step 283/284
+>> Finnish - Pashto
+	درې ورځې وروسته ، هغه کالیفورنیا ته راستون شو.
+
+Step 284/284
+>> Pashto - Portuguese
+	Três dias depois, ele voltou para a Califórnia.
+
+
+##### RESULTS ######
+
+Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+Três dias depois, ele voltou para a Califórnia.

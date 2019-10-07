@@ -1,0 +1,1147 @@
+Translation chain: ps - fi - no - sr - ja - et - ga - de - sk - ny - ne - zu - th - hy - sv - mn - lv - am - tl - uk - mt - en - fr - ms - fa - vi - mg - ca - he - ht - is - sq - el - ka - bg - hr - cs - my - hi - zh - hu - ha - lb - lt - es - kk - tr - ar - ur - si - bs - ru - pt - sm - bn - it - mi - id - ku - mk - nl - sw - uz - lo - sl - zh-TW - ro - da - sn - ko - pl - lt - es - lo - bn - ja - bs - en - cs - he - sm - ms - uz - ha - zh - tr - my - ny - zh-TW - ne - sv - ku - ht - th - de - uk - is - ka - it - pt - kk - ar - fr - fa - el - vi - zu - hu - sq - bg - sr - hi - da - am - sn - pl - sk - ga - sl - ru - hy - fi - si - ro - mg - lb - nl - mi - mn - ur - lv - mt - ko - mk - id - et - tl - ps - ca - sw - hr - no.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Pashto
+	د هغه لپاره ، د هر متن لوستل به تل د نوي متن له اندازې او پوهاوي چمتو کړي. په استعاري ډول خبرې کول ، هغه د هرکلیټس سیند بیدر په توګه متنونو په وړاندې ودریږي ، کوم چې دوه ځله ننوتل ناممکن دي ځکه چې دا لاره په دوامداره توګه بدلیږي.
+
+Step 2/284
+>> Pashto - Finnish
+	Hänelle jokaisen tekstin lukeminen tarjoaa aina uuden tekstin koon ja tietoisuuden. Metaforisesti sanottuna hän seisoo tekstiä vastaan kuin Hercules-joen mäyrä, johon on mahdotonta päästä kahdesti, koska tämä reitti muuttuu jatkuvasti.
+
+Step 3/284
+>> Finnish - Norwegian
+	For ham gir alltid lesing av hver tekst størrelse og bevissthet om den nye teksten. Metaforisk sett står han mot teksten som en grevling i Hercules-elven, som det er umulig å nå to ganger fordi denne ruten stadig endres.
+
+Step 4/284
+>> Norwegian - Serbian
+	За њега, увек читање сваког текста даје величину и свест о новом тексту. Метафорички, он се суочава са текстом попут јазавца у реци Херкулес, до којег је немогуће двапут доћи јер се та рута непрестано мења.
+
+Step 5/284
+>> Serbian - Japanese
+	彼にとって、常に各テキストを読むことは、新しいテキストのサイズと認識を与えます。比phor的に、彼はヘラクレス川のアナグマのようなテキストに直面していますが、そのルートは絶えず変化しているため、2回到達することは不可能です。
+
+Step 6/284
+>> Japanese - Estonian
+	Tema jaoks annab iga teksti lugemine alati uue teksti suuruse ja äratundmise. Phoriga võrreldes seisab ta teksti ees nagu mäger Heraklese jõel, kuid selle marsruut on pidevas muutumises, mistõttu on kaks korda võimatu jõuda.
+
+Step 7/284
+>> Estonian - Irish
+	Dóibh féin, bíonn léamh agus téacs nua á léamh i gcónaí ag léamh gach téacs. I gcomparáid le Phor, tá aghaidh ar an téacs mar bhroc ar Abhainn na Earcail, ach tá a bhealach ag athrú i gcónaí, rud a fhágann nach féidir é a bhaint amach faoi dhó.
+
+Step 8/284
+>> Irish - German
+	Das Lesen eines neuen Textes bedeutet für sich immer, jeden Text zu lesen. Im Vergleich zu Por wird der Text als Dachs auf dem Herkules angesprochen, aber sein Weg ändert sich ständig, so dass es unmöglich ist, zweimal zu erreichen.
+
+Step 9/284
+>> German - Slovak
+	Čítanie nového textu vždy znamená prečítanie každého textu. V porovnaní s Por sa text označuje ako jazvec na Hercules, ale jeho cesta sa neustále mení, takže je nemožné dosiahnuť dvakrát.
+
+Step 10/284
+>> Slovak - Chichewa
+	Kuwerenga mawu atsopano nthawi zonse kumatanthauza kuwerenga liwu lililonse. Poyerekeza ndi Por, malembawo amatchulidwa kuti ndi choyipa pa Hercules, koma njira yake imasinthasintha, ndikupangitsa kuti izi zitheke kawiri.
+
+Step 11/284
+>> Chichewa - Nepali
+	नयाँ शब्द पढ्नु भनेको प्रत्येक शब्द पढ्नु हो। पोरको तुलनामा, यो पाठ हर्क्युलसको लागि नराम्रो सम्झौता हो भनिन्छ, तर यसको विधि लचिलो छ, यसलाई दुई पटक प्रभावकारी बनाउँदै।
+
+Step 12/284
+>> Nepali - Zulu
+	Kufundza ligama lelisha kusho kufundza ligama ngalinye. Uma kuqhathaniswa noPor, lo mbhalo kuthiwa uyisivumelwano esibi kuHercules, kepha indlela yakhe ivumelana nezimo, iyenza isebenze kabili.
+
+Step 13/284
+>> Zulu - Thai
+	การอ่านคำใหม่หมายถึงการอ่านแต่ละคำ เมื่อเปรียบเทียบกับพอร์ข้อความนี้ถือว่าเป็นข้อตกลงที่ไม่ดีสำหรับเฮอร์คูเลส แต่วิธีการของเขานั้นยืดหยุ่นได้ทำให้มันทำงานได้สองครั้ง
+
+Step 14/284
+>> Thai - Armenian
+	Նոր բառեր կարդալը նշանակում է յուրաքանչյուր բառ կարդալ: Ի համեմատ فقարի ՝ այս տեքստը վատ գործարք է համարվում Հերկուլեսի համար: Բայց նրա մեթոդը ճկուն է, ինչը թույլ է տալիս երկու անգամ աշխատել
+
+Step 15/284
+>> Armenian - Swedish
+	Att läsa nya ord betyder att läsa varje ord. Jämfört med de fattiga är denna text en dålig affär för Hercules. Men hans metod är flexibel, vilket gör att han kan arbeta två gånger
+
+Step 16/284
+>> Swedish - Mongolian
+	Шинэ үг унших гэдэг нь үг бүрийг унших гэсэн үг юм. Ядуутай харьцуулахад энэ текст нь Hercules-ийн хувьд муу гэрээ юм. Гэхдээ түүний арга нь уян хатан бөгөөд энэ нь түүнд хоёр удаа ажиллах боломжийг олгодог
+
+Step 17/284
+>> Mongolian - Latvian
+	Jauna vārda lasīšana nozīmē katra vārda lasīšanu. Salīdzinot ar nabadzīgajiem, šis teksts ir slikts Herkules līgums. Tomēr viņa metode ir elastīga un ļauj viņam strādāt divreiz
+
+Step 18/284
+>> Latvian - Amharic
+	አዲስ ቃል ማንበብ ማለት እያንዳንዱን ቃል ማንበብ ማለት ነው ፡፡ ከድሃው ጋር ሲነፃፀር ይህ ጽሑፍ ለሄርኩለስ መጥፎ ስምምነት ነው ፡፡ ሆኖም የእሱ ዘዴ ተለዋዋጭ ሲሆን ሁለት ጊዜ እንዲሠራ ያስችለዋል ፡፡
+
+Step 19/284
+>> Amharic - Filipino
+	Ang pagbabasa ng isang bagong salita ay nangangahulugang pagbabasa ng bawat salita. Kumpara sa mahihirap, ang artikulong ito ay isang masamang pakikitungo para sa Hercules. Gayunpaman, ang kanyang pamamaraan ay nababaluktot at pinapayagan itong gumana nang dalawang beses.
+
+Step 20/284
+>> Filipino - Ukrainian
+	Читання нового слова означає читання кожного слова. У порівнянні з бідними, ця стаття є поганою справою для Геракла. Однак його техніка гнучка і дозволяє їй оперувати двічі.
+
+Step 21/284
+>> Ukrainian - Maltese
+	Qari ta ’kelma ġdida tfisser qari ta’ kull kelma. Meta mqabbel mal-foqra, dan l-artiklu huwa ħaġa ħażina għal Heracles. Madankollu, it-teknika tiegħu hija flessibbli u tippermettilha tħaddem darbtejn.
+
+Step 22/284
+>> Maltese - English
+	Reading a new word means reading every word. Compared with the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows it operate twice.
+
+Step 23/284
+>> English - French
+	Lire un nouveau mot signifie lire chaque mot. Comparé aux pauvres, cet article est une mauvaise chose pour Heracles. Cependant, sa technique est flexible et lui permet de fonctionner deux fois.
+
+Step 24/284
+>> French - Malay
+	Membaca perkataan baru bermakna membaca setiap perkataan. Berbanding dengan orang miskin, artikel ini adalah perkara buruk bagi Heracles. Walau bagaimanapun, tekniknya fleksibel dan membolehkannya bekerja dua kali.
+
+Step 25/284
+>> Malay - Persian
+	خواندن کلمات جدید به معنی خواندن هر کلمه است. در مقایسه با فقرا ، این مقاله برای هراکلز چیز بدی است. با این حال ، این روش انعطاف پذیر است و به آن اجازه می دهد دو بار کار کند.
+
+Step 26/284
+>> Persian - Vietnamese
+	Đọc từ mới có nghĩa là đọc từng từ. So với người nghèo, bài viết này là một điều xấu cho Heracles. Tuy nhiên, phương pháp này linh hoạt và cho phép nó hoạt động hai lần.
+
+Step 27/284
+>> Vietnamese - Malagasy
+	Ny famakiana teny vaovao dia midika hoe mamaky tsirairay ny teny tsirairay. Raha oharina amin'ny mahantra, ity lahatsoratra ity dia zavatra ratsy ho an'ny Herakôkalatra. Na izany aza, ity fomba ity dia haingam-pandeha ary mamela azy hiasa indroa.
+
+Step 28/284
+>> Malagasy - Catalan
+	Llegir paraules noves significa llegir cada paraula individualment. En comparació amb els pobres, aquest article és dolent per a Heracles. Tot i això, aquest mètode és ràpid i li permet treballar dues vegades.
+
+Step 29/284
+>> Catalan - Hebrew
+	קריאת מילים חדשות פירושה קריאה של כל מילה בנפרד. בהשוואה לעניים, מאמר זה רע להרקלס. עם זאת, שיטה זו מהירה ומאפשרת לך לעבוד פעמיים.
+
+Step 30/284
+>> Hebrew - Haitian Creole
+	Lekti mo nouvo vle di li chak mo endividyèlman. Konpare ak pòv yo, atik sa a se move pou Heracles. Sepandan, metòd sa a vit epi li pèmèt ou travay de fwa.
+
+Step 31/284
+>> Haitian Creole - Icelandic
+	Að lesa ný orð þýðir að lesa hvert orð fyrir sig. Í samanburði við fátæka, þá er þessi grein slæm fyrir Herakles. Hins vegar er þessi aðferð hröð og gerir þér kleift að vinna tvisvar.
+
+Step 32/284
+>> Icelandic - Albanian
+	Të lexosh fjalë të reja do të thotë të lexosh secilën fjalë individualisht. Në krahasim me të varfërit, ky artikull është i keq për Heraklin. Sidoqoftë, kjo metodë është e shpejtë dhe ju lejon të punoni dy herë.
+
+Step 33/284
+>> Albanian - Greek
+	Η ανάγνωση νέων λέξεων σημαίνει ανάγνωση κάθε λέξης ξεχωριστά. Σε σύγκριση με τους φτωχούς, αυτό το άρθρο είναι κακό για τον Ηρακλή. Ωστόσο, αυτή η μέθοδος είναι γρήγορη και σας επιτρέπει να εργάζεστε δύο φορές.
+
+Step 34/284
+>> Greek - Georgian
+	ახალი სიტყვების წაკითხვა ნიშნავს თითოეული სიტყვის ცალკე წაკითხვას. ღარიბებთან შედარებით, ეს სტატია ცუდია ჰერკულესისთვის. თუმცა, ეს მეთოდი სწრაფია და საშუალებას გაძლევთ ორჯერ იმუშაოთ.
+
+Step 35/284
+>> Georgian - Bulgarian
+	Четенето на нови думи означава да четете всяка дума поотделно. В сравнение с бедните, тази статия е лоша за Херкулес. Този метод обаче е бърз и ви позволява да работите два пъти.
+
+Step 36/284
+>> Bulgarian - Croatian
+	Čitanje novih riječi znači čitanje svake riječi pojedinačno. U usporedbi sa siromašnima, ovaj je članak loš za Herculesa. Međutim, ova metoda je brza i omogućuje vam da radite dva puta.
+
+Step 37/284
+>> Croatian - Czech
+	Čtení nových slov znamená čtení každého slova samostatně. Ve srovnání s chudými je tento článek pro Hercules špatný. Tato metoda je však rychlá a umožňuje vám pracovat dvakrát.
+
+Step 38/284
+>> Czech - Burmese
+	စကားလုံးအသစ် Reading တစ်ခုချင်းစီကိုသီးခြားစီစကားလုံးဖတ်နေဆိုလိုသည်။ ဆင်းရဲသောသူကိုနှင့်နှိုင်းယှဉ်ပါကဤဆောင်းပါး Hercules မကောင်းတဲ့အဘို့ဖြစ်၏။ ဤနည်းလမ်းကိုအမြန်ဖြစ်ပါတယ်နှင့်သင်နှစ်ကြိမ်အလုပ်လုပ်ရန်ခွင့်ပြုပါတယ်။
+
+Step 39/284
+>> Burmese - Hindi
+	नया शब्द पढ़ना प्रत्येक शब्द अलग से पढ़ने का मतलब है। इस लेख के गरीब के साथ तुलना में हरक्यूलिस बुरा के लिए है। इस विधि जल्दी है और आप दो बार काम करने के लिए अनुमति देता है।
+
+Step 40/284
+>> Hindi - Chinese (Simplified)
+	读一个新单词意味着分别阅读每个单词。与本文的穷人相比，大力士是坏人。此方法快速，可让您工作两次。
+
+Step 41/284
+>> Chinese (Simplified) - Hungarian
+	Új szó olvasása azt jelenti, hogy minden szót külön kell olvasni. A cikkben szereplő szegény emberekkel összehasonlítva Hercules rossz ember. Ez a módszer gyors és lehetővé teszi, hogy kétszer dolgozzon.
+
+Step 42/284
+>> Hungarian - Hausa
+	Karatun sabuwar kalma yana nufin karanta kowace kalma dabam. Idan aka kwatanta da talakawa a labarin, Hercules mummunan mutum ne. Wannan hanyar tana da sauri kuma tana baka damar aiki sau biyu.
+
+Step 43/284
+>> Hausa - Luxembourgish
+	Dat neit Wuert ze liesen heescht bedeit all Wuert eenzel ze liesen. Am Verglach zu den Aarmen an der Geschicht ass den Hercules eng schlecht Persoun. Dës Method ass séier an erlaabt Iech zweemol ze schaffen.
+
+Step 44/284
+>> Luxembourgish - Lithuanian
+	Skaityti naują žodį reiškia skaityti kiekvieną žodį atskirai. Palyginti su varganu istorijoje, Hercules yra blogas žmogus. Šis metodas yra greitas ir leidžia dirbti du kartus.
+
+Step 45/284
+>> Lithuanian - Spanish
+	Leer una nueva palabra significa leer cada palabra individualmente. Comparado con el pobre hombre de la historia, Hércules es una mala persona. Este método es rápido y le permite trabajar dos veces.
+
+Step 46/284
+>> Spanish - Kazakh
+	Жаңа сөз оқу әр сөзді жеке оқу дегенді білдіреді. Тарихтағы кедей адаммен салыстырғанда Геркулес жаман адам. Бұл әдіс жылдам және екі рет жұмыс істеуге мүмкіндік береді.
+
+Step 47/284
+>> Kazakh - Turkish
+	Yeni bir kelime, her bir kelimeyi ayrı ayrı okumak anlamına gelir. Herkül, tarihteki zavallı adama kıyasla kötü bir insan. Bu yöntem hızlı ve iki kere çalışmanıza izin verir.
+
+Step 48/284
+>> Turkish - Arabic
+	كلمة جديدة تعني قراءة كل كلمة على حدة. هرقل شخص سيء مقارنة بالرجل الفقير في التاريخ. هذه الطريقة تسمح لك بالعمل بسرعة ومرتين.
+
+Step 49/284
+>> Arabic - Urdu
+	ایک نئے لفظ کا مطلب ہر لفظ کو انفرادی طور پر پڑھنا ہے۔ تاریخ کے غریب آدمی کے مقابلے میں ہرکیولس ایک برا شخص ہے۔ یہ طریقہ آپ کو جلدی اور دو بار کام کرنے کی اجازت دیتا ہے۔
+
+Step 50/284
+>> Urdu - Sinhala
+	නව වචනයක් යනු එක් එක් වචනය තනි තනිව කියවීමයි. හර්කියුලිස් යනු ඉතිහාසයේ දුප්පත්ම මිනිසාට වඩා නරක පුද්ගලයෙකි. මෙම ක්‍රමය මඟින් ඔබට ඉක්මනින් හා දෙවරක් වැඩ කිරීමට ඉඩ ලබා දේ.
+
+Step 51/284
+>> Sinhala - Bosnian
+	Nova riječ znači čitanje svake riječi pojedinačno. Hercules je najgora osoba u historiji. Ova metoda vam omogućuje brz i dvaput rad.
+
+Step 52/284
+>> Bosnian - Russian
+	Новое слово означает чтение каждого слова в отдельности. Геркулес - худший человек в истории. Этот метод позволяет работать быстро и дважды.
+
+Step 53/284
+>> Russian - Portuguese
+	Uma nova palavra significa ler cada palavra individualmente. Hércules é a pior pessoa da história. Este método permite que você trabalhe rapidamente e duas vezes.
+
+Step 54/284
+>> Portuguese - Samoan
+	O se upu fou o lona uiga o le faitauina o upu taʻitasi. O Hercules o le tagata sili ona leaga i le tala faasolopito. O lenei metotia e mafai ai ona e galue vave ma faalua.
+
+Step 55/284
+>> Samoan - Bengali
+	নতুন শব্দটির অর্থ প্রতিটি শব্দ পড়া। হারকিউলিস ইতিহাসের সবচেয়ে খারাপ ভিলেন। এই পদ্ধতিটি আপনাকে দ্রুত এবং দু'বার কাজ করতে দেয়।
+
+Step 56/284
+>> Bengali - Italian
+	La nuova parola significa leggere ogni parola. Ercole è il peggior cattivo della storia. Questo metodo ti consente di lavorare rapidamente e due volte.
+
+Step 57/284
+>> Italian - Maori
+	Ko te kupu hou ko te tikanga ki te panui i nga kupu katoa. Ko Hercules te kino kino rawa o te hitori. Ma tenei tikanga ka taea e koe te mahi tere me te rua.
+
+Step 58/284
+>> Maori - Indonesian
+	Kata baru berarti membaca setiap kata. Hercules adalah kejahatan terburuk dalam sejarah. Metode ini memungkinkan Anda bekerja dengan cepat dan dua kali.
+
+Step 59/284
+>> Indonesian - Kurdish
+	Gotinek nû tê wateya xwendina her peyvan. Hercules sûcê herî xirab ê dîrokê ye. Ev rêbaz dihêle hûn zû û du caran kar bikin.
+
+Step 60/284
+>> Kurdish - Macedonian
+	Нов збор значи да се чита секој збор. Херкулес е најлошото злосторство во историјата. Овој метод ви овозможува да работите брзо и двапати.
+
+Step 61/284
+>> Macedonian - Dutch
+	Een nieuw woord betekent elk woord lezen. Hercules is de ergste misdaad in de geschiedenis. Met deze methode kunt u snel en twee keer werken.
+
+Step 62/284
+>> Dutch - Swahili
+	Neno jipya linamaanisha kusoma kila neno. Hercules ni uhalifu mbaya zaidi katika historia. Unaweza kufanya kazi haraka na mara mbili na njia hii.
+
+Step 63/284
+>> Swahili - Uzbek
+	Yangi so'z har bir so'zni o'qishni anglatadi. Gerkules tarixdagi eng yomon jinoyatdir. Ushbu usul bilan siz tez va ikki marta ishlashingiz mumkin.
+
+Step 64/284
+>> Uzbek - Lao
+	ຄຳ ສັບ ໃໝ່ ໝາຍ ເຖິງການອ່ານທຸກ ຄຳ. Hercules ແມ່ນອາຊະຍາກໍາທີ່ຮ້າຍແຮງທີ່ສຸດໃນປະຫວັດສາດ. ດ້ວຍວິທີນີ້, ທ່ານສາມາດເຮັດວຽກໄດ້ໄວແລະສອງຄັ້ງ.
+
+Step 65/284
+>> Lao - Slovenian
+	Nova beseda pomeni prebrati vsako besedo. Hercules je najhujši zločin v zgodovini. Tako lahko hitro in dvakrat delate.
+
+Step 66/284
+>> Slovenian - Chinese (Traditional)
+	一個新單詞意味著閱讀每個單詞。大力神是歷史上最嚴重的犯罪。因此，您可以一次又一次地執行此操作。
+
+Step 67/284
+>> Chinese (Traditional) - Romanian
+	Un cuvânt nou înseamnă a citi fiecare cuvânt. Hercules este cea mai gravă crimă din istorie. Prin urmare, puteți face acest lucru din nou și din nou.
+
+Step 68/284
+>> Romanian - Danish
+	Et nyt ord betyder at læse hvert ord. Hercules er den værste forbrydelse i historien. Derfor kan du gøre dette igen og igen.
+
+Step 69/284
+>> Danish - Shona
+	Izwi nyowani rinoreva kuverenga izwi rega rega. Hercules ndiyo mhosva yakaipa kwazvo munhoroondo. Naizvozvo, iwe unogona kuita izvi nekudzokorora.
+
+Step 70/284
+>> Shona - Korean
+	새로운 단어는 모든 단어를 읽는 것을 의미합니다. 헤라클레스는 역사상 최악의 범죄입니다. 따라서이 작업을 반복해서 수행 할 수 있습니다.
+
+Step 71/284
+>> Korean - Polish
+	Nowe słowo oznacza czytanie każdego słowa. Hercules jest najgorszą zbrodnią w historii. Możesz to zrobić wielokrotnie.
+
+Step 72/284
+>> Polish - Lithuanian
+	Naujas žodis reiškia kiekvieno žodžio perskaitymą. Hercules yra pats blogiausias nusikaltimas istorijoje. Tai galite padaryti daugybę kartų.
+
+Step 73/284
+>> Lithuanian - Spanish
+	Una nueva palabra significa leer cada palabra. Hércules es el peor crimen de la historia. Puedes hacer esto muchas veces.
+
+Step 74/284
+>> Spanish - Lao
+	ຄຳ ສັບ ໃໝ່ ໝາຍ ເຖິງການອ່ານແຕ່ລະ ຄຳ. Hercules ແມ່ນອາຊະຍາກໍາທີ່ຮ້າຍແຮງທີ່ສຸດໃນປະຫວັດສາດ. ທ່ານສາມາດເຮັດສິ່ງນີ້ໄດ້ຫຼາຍຄັ້ງ.
+
+Step 75/284
+>> Lao - Bengali
+	নতুন শব্দটির অর্থ প্রতিটি শব্দ পড়া। হারকিউলিস ইতিহাসের সবচেয়ে খারাপ অপরাধ worst আপনি এটি বেশ কয়েকবার করতে পারেন।
+
+Step 76/284
+>> Bengali - Japanese
+	新しい単語は、各単語を読むことを意味します。 Hercules史上最悪の犯罪は、何度も実行できる最悪の犯罪です。
+
+Step 77/284
+>> Japanese - Bosnian
+	Nova riječ znači čitanje svake riječi. Najgori zločin u Herkulovoj historiji je najgori zločin koji se može počiniti više puta.
+
+Step 78/284
+>> Bosnian - English
+	A new word means reading every word. The worst crime in Herculean history is the worst crime that can be committed multiple times.
+
+Step 79/284
+>> English - Czech
+	Nové slovo znamená čtení každého slova. Nejhorší zločin v herkulovské historii je nejhorší zločin, který lze spáchat vícekrát.
+
+Step 80/284
+>> Czech - Hebrew
+	מילה חדשה פירושה קריאה של כל מילה. הפשע החמור ביותר בהיסטוריה ההרקולאית הוא הפשע החמור ביותר שניתן לבצע מספר פעמים.
+
+Step 81/284
+>> Hebrew - Samoan
+	O se upu fou o lona uiga o le faitauina o upu uma. O le solitulafono pito sili ona ogaoga i le talafaasolopito o Herculean o le soligatulafono matuia lea e mafai ona faia i le tele o taimi.
+
+Step 82/284
+>> Samoan - Malay
+	Perkataan baru bermakna membaca setiap perkataan. Jenayah yang paling serius dalam sejarah Herculean adalah kesalahan paling serius yang boleh dilakukan berkali-kali.
+
+Step 83/284
+>> Malay - Uzbek
+	Yangi so'zlar har bir so'zni o'qishni anglatadi. Herkulean tarixidagi eng og'ir jinoyat bu ko'p marta sodir etilishi mumkin bo'lgan eng og'ir jinoyatdir.
+
+Step 84/284
+>> Uzbek - Hausa
+	Sabbin kalmomi suna nufin karanta kowace kalma. Mafi girman laifi a tarihin Herculean shine mafi girman laifi wanda zai iya faruwa sau da yawa.
+
+Step 85/284
+>> Hausa - Chinese (Simplified)
+	新单词意味着阅读每个单词。 Herculean历史上最大的罪行是可能发生多次的最大罪行。
+
+Step 86/284
+>> Chinese (Simplified) - Turkish
+	Yeni kelimeler, her kelimeyi okumak anlamına gelir. Herkül tarihinin en büyük suçu, birçok kez meydana gelebilecek en büyük suçtur.
+
+Step 87/284
+>> Turkish - Burmese
+	နယူးစကားသည်စကားလုံးဖတ်ရှုဖို့ကိုဆိုလိုသည်။ ဟာကြူလီသမိုင်းရဲ့အကြီးမြတ်ဆုံးရာဇဝတ်မှုများ, အကြိမ်ပေါင်းများစွာဖြစ်ပေါ်စေခြင်းငှါအကြီးမြတ်ဆုံးရာဇဝတ်မှုဖြစ်ပါတယ်။
+
+Step 88/284
+>> Burmese - Chichewa
+	Latsopano njira kuwerenga mawu. Hercules mbiri milandu kwambiri kumachitika kangapo, upandu kwambiri.
+
+Step 89/284
+>> Chichewa - Chinese (Traditional)
+	閱讀單詞的新方法。 Hercules記錄大多數案件發生過幾次，最嚴重。
+
+Step 90/284
+>> Chinese (Traditional) - Nepali
+	शब्दहरू पढ्ने नयाँ तरिका। हर्क्युलसले सबैभन्दा हालका केसहरूमा सब भन्दा गम्भीर मामिलाहरू रेकर्ड गर्‍यो।
+
+Step 91/284
+>> Nepali - Swedish
+	Ett nytt sätt att läsa ord. Hercules registrerade de allvarligaste fallen i de senaste fallen.
+
+Step 92/284
+>> Swedish - Kurdish
+	Rêbazek nû ya xwendina peyvan. Hercules di bûyerên dawî de bûyerên herî giran tomar kir.
+
+Step 93/284
+>> Kurdish - Haitian Creole
+	Yon nouvo fason pou li mo. Hercules anrejistre ensidan ki pi grav nan dènye ane yo.
+
+Step 94/284
+>> Haitian Creole - Thai
+	วิธีใหม่ในการอ่านคำศัพท์ Hercules บันทึกเหตุการณ์ที่ร้ายแรงที่สุดในช่วงไม่กี่ปีที่ผ่านมา
+
+Step 95/284
+>> Thai - German
+	Eine neue Art, Vokabeln zu lesen: Hercules zeichnet die schwerwiegendsten Ereignisse der letzten Jahre auf.
+
+Step 96/284
+>> German - Ukrainian
+	Новий спосіб читання лексики: Геркулес фіксує найсерйозніші події останніх років.
+
+Step 97/284
+>> Ukrainian - Icelandic
+	Ný leið til að lesa orðaforða: Hercules fangar alvarlegustu atburði síðustu ára.
+
+Step 98/284
+>> Icelandic - Georgian
+	ლექსიკის წაკითხვის ახალი გზა: ჰერკულესი იპყრობს ბოლო წლების ყველაზე სერიოზულ მოვლენებს.
+
+Step 99/284
+>> Georgian - Italian
+	Un nuovo modo di leggere il vocabolario: Ercole conquista alcuni degli eventi più gravi degli ultimi anni.
+
+Step 100/284
+>> Italian - Portuguese
+	Uma nova maneira de ler o vocabulário: Hércules conquista alguns dos eventos mais graves dos últimos anos.
+
+Step 101/284
+>> Portuguese - Kazakh
+	Лексиканы оқудың жаңа тәсілі: Геркулес соңғы жылдардағы кейбір маңызды оқиғаларды жеңеді.
+
+Step 102/284
+>> Kazakh - Arabic
+	طريقة جديدة لتعلم المعجم: يتغلب هرقل على بعض الأحداث الأكثر أهمية في السنوات الأخيرة.
+
+Step 103/284
+>> Arabic - French
+	Une nouvelle façon d'apprendre le lexique: Héraclius surmonte certains des événements les plus importants de ces dernières années.
+
+Step 104/284
+>> French - Persian
+	یک روش جدید برای یادگیری واژگان: هراکلیوس بر برخی از مهمترین وقایع سالهای اخیر غلبه می کند.
+
+Step 105/284
+>> Persian - Greek
+	Ένας νέος τρόπος για να μάθετε λεξιλόγιο: Ο Ηράκλειος ξεπερνάει μερικά από τα πιο σημαντικά γεγονότα των τελευταίων ετών.
+
+Step 106/284
+>> Greek - Vietnamese
+	Một cách mới để học từ vựng: Heraklion vượt qua một số sự kiện quan trọng nhất trong những năm gần đây.
+
+Step 107/284
+>> Vietnamese - Zulu
+	Indlela entsha yokufunda silulumagama: IHeraklion inqoba eminye imicimbi ebaluleke kakhulu eminyakeni yamuva.
+
+Step 108/284
+>> Zulu - Hungarian
+	A szókincs elsajátításának új módja: Heraklion nyeri az elmúlt évek legfontosabb eseményeit.
+
+Step 109/284
+>> Hungarian - Albanian
+	Një mënyrë e re për të mësuar fjalorin: Heraklion fiton pikat kryesore të viteve të fundit.
+
+Step 110/284
+>> Albanian - Bulgarian
+	Нов начин за учене на речник: Ираклион печели най-важните моменти от последните години.
+
+Step 111/284
+>> Bulgarian - Serbian
+	Нови начин за учење вокабулара: Хераклион ствара најважније моменте последњих година.
+
+Step 112/284
+>> Serbian - Hindi
+	शब्दावली सीखने का एक नया तरीका: हेराक्लिओन हाल के वर्षों के सबसे महत्वपूर्ण क्षणों का निर्माण कर रहा है।
+
+Step 113/284
+>> Hindi - Danish
+	En ny måde at lære ordforråd på: Heraklion skaber de vigtigste øjeblikke i de senere år.
+
+Step 114/284
+>> Danish - Amharic
+	የቃላት አጠቃቀምን ለመማር አዲስ መንገድ-ሂራክዮን ከቅርብ ዓመታት ወዲህ በጣም አስፈላጊ የሆኑ አፍታዎችን ይፈጥራል ፡፡
+
+Step 115/284
+>> Amharic - Shona
+	Nzira Itsva Yekudzidza Vhoriyamu: Hiracion yakagadzira dzimwe nguva dzakakosha mumakore achangopfuura.
+
+Step 116/284
+>> Shona - Polish
+	Nowy sposób na naukę Tom: Hiracion stworzył niektóre z najważniejszych momentów w ostatnich latach.
+
+Step 117/284
+>> Polish - Slovak
+	Nový spôsob, ako sa naučiť Tom: Hiracion vytvoril niektoré z vrcholov posledných rokov.
+
+Step 118/284
+>> Slovak - Irish
+	Bealach nua chun foghlaim Tom: Tá cuid de bhuaicphointí blianta beaga anuas cruthaithe ag Hiracion.
+
+Step 119/284
+>> Irish - Slovenian
+	Nov način učenja Toma: Hiracion je ustvaril nekaj zadnjih let.
+
+Step 120/284
+>> Slovenian - Russian
+	Новый способ учиться Том: Hiracion создал несколько в последние годы.
+
+Step 121/284
+>> Russian - Armenian
+	Թոմին սովորելու նոր միջոց. Hiracion- ը վերջին տարիներին ստեղծել է մի քանիսը:
+
+Step 122/284
+>> Armenian - Finnish
+	Uusi tapa oppia Tomia. Hiracion on luonut useita viime vuosina.
+
+Step 123/284
+>> Finnish - Sinhala
+	ටොම් ඉගෙන ගැනීමට නව ක්‍රමයක්. Hiracion මෑත වසරවලදී කිහිපයක් නිර්මාණය කර ඇත.
+
+Step 124/284
+>> Sinhala - Romanian
+	Nou mod de a învăța Tom. Hiracion a creat mai multe în ultimii ani.
+
+Step 125/284
+>> Romanian - Malagasy
+	Fomba vaovao hianarana an'i Tom. Hiracion dia namorona bebe kokoa tato anatin'ny taona vitsivitsy.
+
+Step 126/284
+>> Malagasy - Luxembourgish
+	En neie Wee fir iwwer den Tom ze léieren. Hiracion gouf an de leschte Joere méi kreativ.
+
+Step 127/284
+>> Luxembourgish - Dutch
+	Een nieuwe manier om over Tom te leren. Hiracion is de afgelopen jaren creatiever geworden.
+
+Step 128/284
+>> Dutch - Maori
+	He huarahi hou hei ako mo Tom. Kua kaha ake a Hiracion i roto i nga tau kua pahure.
+
+Step 129/284
+>> Maori - Mongolian
+	Томыг сурах шинэ арга. Hiracion нь сүүлийн хэдэн жилийн туршид эрч хүчээ авсан.
+
+Step 130/284
+>> Mongolian - Urdu
+	ٹام سیکھنے کا ایک نیا طریقہ۔ گذشتہ کئی سالوں سے ہیرکسیئن حوصلہ افزائی کررہا ہے۔
+
+Step 131/284
+>> Urdu - Latvian
+	Jauns veids, kā iemācīties Tomu. Hercione ir uzmundrinoša vairākus gadus.
+
+Step 132/284
+>> Latvian - Maltese
+	Mod ġdid biex titgħallem Tom. Duka ilu jinkuraġġixxi għal ħafna snin.
+
+Step 133/284
+>> Maltese - Korean
+	새로운 방법은 톰을 배울 수 있습니다. 듀크는 몇 년 동안 격려하고있다.
+
+Step 134/284
+>> Korean - Macedonian
+	Нов начин да го научите Том. Дјук со години охрабрува.
+
+Step 135/284
+>> Macedonian - Indonesian
+	Cara baru untuk belajar Tom. Duke telah membesarkan hati selama bertahun-tahun.
+
+Step 136/284
+>> Indonesian - Estonian
+	Uus viis Tomi õppimiseks. Duke on aastaid julgustanud.
+
+Step 137/284
+>> Estonian - Filipino
+	Isang bagong paraan ng pag-aaral ng Tom. Duke ay naghihikayat sa loob ng maraming taon.
+
+Step 138/284
+>> Filipino - Pashto
+	د ټام د زده کړې نوې لاره. ډیوک د کلونو لپاره هڅونکی و.
+
+Step 139/284
+>> Pashto - Catalan
+	Una nova manera d’aprendre Tom. Duke ha estat una inspiració durant anys.
+
+Step 140/284
+>> Catalan - Swahili
+	Njia mpya ya kujifunza Tom. Duke amekuwa msukumo kwa miaka.
+
+Step 141/284
+>> Swahili - Croatian
+	Novi način za učenje Toma. Duke je godinama bio inspiracija.
+
+Step 142/284
+>> Croatian - Norwegian
+	En ny måte å lære Tom på. Duke har vært en inspirasjon i mange år.
+
+Step 143/284
+>> Norwegian - Croatian
+	Novi način podučavanja Tome. Duke je bio inspiracija dugi niz godina.
+
+Step 144/284
+>> Croatian - Swahili
+	Njia mpya ya kufundisha Tom. Duke amekuwa msukumo kwa miaka mingi.
+
+Step 145/284
+>> Swahili - Catalan
+	Una nova manera d’ensenyar a Tom. Duke ha estat una inspiració durant molts anys.
+
+Step 146/284
+>> Catalan - Pashto
+	د ټام ښوونې نوې لاره. ډیوک د ډیری کلونو لپاره یو الهام دی.
+
+Step 147/284
+>> Pashto - Filipino
+	Isang bagong paraan ng pagtuturo kay Tom. Ang Duke ay naging inspirasyon sa maraming taon.
+
+Step 148/284
+>> Filipino - Estonian
+	Uus viis Tomi õpetamiseks. Duke on olnud inspiratsiooniks juba mitu aastat.
+
+Step 149/284
+>> Estonian - Indonesian
+	Cara baru untuk mengajar Tom. Duke telah menjadi inspirasi selama bertahun-tahun.
+
+Step 150/284
+>> Indonesian - Macedonian
+	Нов начин да го научите Том. Дјук е инспирација со години.
+
+Step 151/284
+>> Macedonian - Korean
+	톰을 배우는 새로운 방법. 듀크는 수년간 영감을 받아 왔습니다.
+
+Step 152/284
+>> Korean - Maltese
+	Mod ġdid biex titgħallem Tom. Duka kien ispirat għal snin twal.
+
+Step 153/284
+>> Maltese - Latvian
+	Jauns veids, kā mācīties Toms. Duke iedvesmoja gadiem.
+
+Step 154/284
+>> Latvian - Urdu
+	ٹام سیکھنے کا ایک نیا طریقہ۔ ڈیوک نے مجھے برسوں سے متاثر کیا۔
+
+Step 155/284
+>> Urdu - Mongolian
+	Томыг сурах шинэ арга. Дьюк олон жилийн турш надад сэтгэгдэл төрүүлсэн.
+
+Step 156/284
+>> Mongolian - Maori
+	He huarahi hou hei ako ia Tom. Kua maha nga tau kua parea e te Duchess ki ahau.
+
+Step 157/284
+>> Maori - Dutch
+	Een nieuwe manier om over Tom te leren. De hertogin valt me al jaren aan.
+
+Step 158/284
+>> Dutch - Luxembourgish
+	En neie Wee fir iwwer den Tom ze léieren. D'Herzogin attackéiert mech zënter Joeren.
+
+Step 159/284
+>> Luxembourgish - Malagasy
+	Fomba vaovao hianarana momba an'i Tom. Efa an-taonany maro no nanafika ny Duchess.
+
+Step 160/284
+>> Malagasy - Romanian
+	O nouă modalitate de a afla despre Tom. Ani de zile, ducesa atacă.
+
+Step 161/284
+>> Romanian - Sinhala
+	ටොම් ගැන දැන ගැනීමට නව ක්‍රමයක්. වසර ගණනාවක් තිස්සේ ආදිපාදවරිය පහර දෙයි.
+
+Step 162/284
+>> Sinhala - Finnish
+	Uusi tapa oppia Tomista. Herttuatar on hyökännyt häneen vuosia.
+
+Step 163/284
+>> Finnish - Armenian
+	Թոմի մասին սովորելու նոր միջոց: Դքսուհին տարիներ շարունակ հարձակվում էր նրա վրա:
+
+Step 164/284
+>> Armenian - Russian
+	Новый способ узнать о Томе. Герцогиня нападала на нее в течение многих лет.
+
+Step 165/284
+>> Russian - Slovenian
+	Nov način spoznavanja Toma. Vojvotkinja jo je napadala dolga leta.
+
+Step 166/284
+>> Slovenian - Irish
+	Bealach nua chun bualadh le Tom. Thug an Bhanc-Bhanc ionsaí uirthi le blianta fada.
+
+Step 167/284
+>> Irish - Slovak
+	Nový spôsob, ako spoznať Toma. Bank Bank bola napadnutá už mnoho rokov.
+
+Step 168/284
+>> Slovak - Polish
+	Nowy sposób na poznanie Toma. Bank Bank był atakowany od wielu lat.
+
+Step 169/284
+>> Polish - Shona
+	Nzira itsva yekusangana naTom. Bhanga Bhanga iri rave richirwiswa kwemakore akawanda.
+
+Step 170/284
+>> Shona - Amharic
+	ቶም ለመገናኘት አዲስ መንገድ። ባንኩ ለብዙ ዓመታት ጥቃት ሲሰነዘርበት ቆይቷል ፡፡
+
+Step 171/284
+>> Amharic - Danish
+	En ny måde at møde Tom på. Banken har været under angreb i årevis.
+
+Step 172/284
+>> Danish - Hindi
+	टॉम से मिलने का एक नया तरीका। बैंक पर सालों से हमले हो रहे हैं।
+
+Step 173/284
+>> Hindi - Serbian
+	Нови начин за упознавање Тома. Банка је годинама била под нападом.
+
+Step 174/284
+>> Serbian - Bulgarian
+	Нов начин да се срещнем с Том. Банката е атакувана от години.
+
+Step 175/284
+>> Bulgarian - Albanian
+	Një mënyrë e re për të takuar Tomin. Banka ka vite që është në sulm.
+
+Step 176/284
+>> Albanian - Hungarian
+	Új módszer a Tommal való találkozáshoz. A bank évek óta támadás alatt áll.
+
+Step 177/284
+>> Hungarian - Zulu
+	Indlela entsha yokuhlangana noTom. Sekuphele iminyaka leli bhange lihlaselwa.
+
+Step 178/284
+>> Zulu - Vietnamese
+	Một cách mới để gặp Tom. Ngân hàng đã bị tấn công trong nhiều năm.
+
+Step 179/284
+>> Vietnamese - Greek
+	Ένας νέος τρόπος να γνωρίσεις τον Τομ. Η τράπεζα έχει υποστεί επίθεση εδώ και χρόνια.
+
+Step 180/284
+>> Greek - Persian
+	یک روش جدید برای آشنایی با تام. این بانک سالها مورد حمله قرار گرفته است.
+
+Step 181/284
+>> Persian - French
+	Une nouvelle façon de connaître Tom. La banque est attaquée depuis des années.
+
+Step 182/284
+>> French - Arabic
+	طريقة جديدة لمعرفة توم. تعرض البنك لهجوم لسنوات.
+
+Step 183/284
+>> Arabic - Kazakh
+	Томды білудің жаңа тәсілі. Банкке бірнеше жылдар бойы шабуыл жасалды.
+
+Step 184/284
+>> Kazakh - Portuguese
+	Uma nova maneira de conhecer Tom. Banco foi atacado por vários anos.
+
+Step 185/284
+>> Portuguese - Italian
+	Un nuovo modo di incontrare Tom. Bank è stata attaccata da diversi anni.
+
+Step 186/284
+>> Italian - Georgian
+	ტომთან შეხვედრის ახალი გზა. რამდენიმე წლის განმავლობაში ბანკი თავს დაესხნენ.
+
+Step 187/284
+>> Georgian - Icelandic
+	Ný leið til að hitta Tom. Ráðist var á bankann í nokkur ár.
+
+Step 188/284
+>> Icelandic - Ukrainian
+	Новий спосіб зустріти Тома. На банк атакували кілька років.
+
+Step 189/284
+>> Ukrainian - German
+	Eine neue Art, Tom kennenzulernen. Die Bank wurde mehrere Jahre lang angegriffen.
+
+Step 190/284
+>> German - Thai
+	วิธีใหม่ในการพบกับทอม ธนาคารถูกโจมตีเป็นเวลาหลายปี
+
+Step 191/284
+>> Thai - Haitian Creole
+	Yon nouvo fason pou rankontre Tom Te bank la te atake pou plizyè ane.
+
+Step 192/284
+>> Haitian Creole - Kurdish
+	Rêyek nû ji bo hevdîtina bi Tom Bank ji gelek salan ve di bin êrîşê de ye.
+
+Step 193/284
+>> Kurdish - Swedish
+	Ett nytt sätt att träffa Tom Bank har attackerats i många år.
+
+Step 194/284
+>> Swedish - Nepali
+	टम बैंकलाई भेट्ने नयाँ तरिका धेरै वर्षदेखि आक्रमण भइरहेको छ।
+
+Step 195/284
+>> Nepali - Chinese (Traditional)
+	與湯姆·班克斯（Tom Banks）會面的新方法已經受到攻擊多年。
+
+Step 196/284
+>> Chinese (Traditional) - Chichewa
+	Njira yatsopano yokumanirana ndi Tom Banks yakhala ikuwopsezedwa kwa zaka zambiri.
+
+Step 197/284
+>> Chichewa - Burmese
+	တွမ်ဘဏ်များနှင့်တွေ့ဆုံရန်ရန်နည်းလမ်းသစ်တစ်ခုနှစ်ပေါင်းများစွာအန္တရာယ်အတွက်ဖြစ်ခဲ့သည်။
+
+Step 198/284
+>> Burmese - Turkish
+	Tom Bankalar ve uzun yıllar tehlikeyi karşılamak için yeni bir yol oldu.
+
+Step 199/284
+>> Turkish - Chinese (Simplified)
+	汤姆·班克斯（Tom Banks）多年来一直是应对这种危险的新方法。
+
+Step 200/284
+>> Chinese (Simplified) - Hausa
+	Tom Banks ya kasance sabuwar hanya don magance wannan haɗari na shekaru.
+
+Step 201/284
+>> Hausa - Uzbek
+	Tom Banks yillar davomida ushbu xavfga qarshi kurashishning yangi usuli edi.
+
+Step 202/284
+>> Uzbek - Malay
+	Tom Banks telah menjadi cara baru untuk menangani risiko ini selama bertahun-tahun.
+
+Step 203/284
+>> Malay - Samoan
+	Tom Banks ua avea ma auala fou e taulimaina ai lenei lamatiaga mo le tele o tausaga.
+
+Step 204/284
+>> Samoan - Hebrew
+	טום בנקס היה הדרך החדשה להתמודד עם סיכון זה מזה שנים רבות.
+
+Step 205/284
+>> Hebrew - Czech
+	Tom Banks je nový způsob, jak se vypořádat s rizikem po mnoho let.
+
+Step 206/284
+>> Czech - English
+	Tom Banks is a new way to deal with risk for many years.
+
+Step 207/284
+>> English - Bosnian
+	Tom Banks novi je način suočavanja sa rizikom već dugi niz godina.
+
+Step 208/284
+>> Bosnian - Japanese
+	トムバンクスは、長年にわたってリスクに対処する新しい方法です。
+
+Step 209/284
+>> Japanese - Bengali
+	টম ব্যাংকস বছরের পর বছর ধরে ঝুঁকি মোকাবেলার একটি নতুন উপায়।
+
+Step 210/284
+>> Bengali - Lao
+	Tom Banks ແມ່ນວິທີການ ໃໝ່ ຂອງການຈັດການກັບຄວາມສ່ຽງໃນຫລາຍປີທີ່ຜ່ານມາ.
+
+Step 211/284
+>> Lao - Spanish
+	Tom Banks es una nueva forma de lidiar con el riesgo a lo largo de los años.
+
+Step 212/284
+>> Spanish - Lithuanian
+	Tomas Banksas yra naujas būdas kovoti su rizika bėgant metams.
+
+Step 213/284
+>> Lithuanian - Polish
+	Tom Banks ma nowy sposób radzenia sobie z ryzykiem na przestrzeni lat.
+
+Step 214/284
+>> Polish - Korean
+	Tom Banks는 수년에 걸쳐 새로운 위험 관리 방법을 가지고 있습니다.
+
+Step 215/284
+>> Korean - Shona
+	Tom Banks ave aine nzira nyowani dzekugadzirisa njodzi mumakore apfuura.
+
+Step 216/284
+>> Shona - Danish
+	Tom Banks har fundet nye måder at håndtere katastrofer gennem årene.
+
+Step 217/284
+>> Danish - Romanian
+	Tom Banks a găsit noi metode de a face față dezastrelor de-a lungul anilor.
+
+Step 218/284
+>> Romanian - Chinese (Traditional)
+	多年來，湯姆·班克斯（Tom Banks）已經找到了應對災難的新方法。
+
+Step 219/284
+>> Chinese (Traditional) - Slovenian
+	Z leti je Tom Banks našel nove načine, kako se spoprijeti z nesrečami.
+
+Step 220/284
+>> Slovenian - Lao
+	ໃນຫລາຍປີທີ່ຜ່ານມາ, Tom Banks ໄດ້ພົບເຫັນວິທີການ ໃໝ່ ໃນການຮັບມືກັບໄພພິບັດ.
+
+Step 221/284
+>> Lao - Uzbek
+	Bir necha yillar davomida Tom Banks tabiiy ofatlarni engishning yangi usullarini topdi.
+
+Step 222/284
+>> Uzbek - Swahili
+	Kwa miaka, Tom Banks wamegundua njia mpya za kukabiliana na majanga.
+
+Step 223/284
+>> Swahili - Dutch
+	Jarenlang heeft Tom Banks nieuwe manieren ontdekt om met rampen om te gaan.
+
+Step 224/284
+>> Dutch - Macedonian
+	Со години, Том Бенкс откри нови начини за справување со катастрофи.
+
+Step 225/284
+>> Macedonian - Kurdish
+	Bi salan, Tom Banks rêyên nû yên ji bo çareserkirina karesatan kifş kiriye.
+
+Step 226/284
+>> Kurdish - Indonesian
+	Selama bertahun-tahun, Tom Banks telah menemukan cara-cara baru untuk menangani bencana.
+
+Step 227/284
+>> Indonesian - Maori
+	I roto i nga tau, kua kitea e Tom Banks nga huarahi hou hei whakahaere i nga aitua.
+
+Step 228/284
+>> Maori - Italian
+	Nel corso degli anni, Tom Banks ha trovato nuovi modi per gestire gli incidenti.
+
+Step 229/284
+>> Italian - Bengali
+	বছরের পর বছর ধরে টম ব্যাংক দুর্ঘটনাগুলি সামলানোর নতুন উপায় খুঁজে পেয়েছে।
+
+Step 230/284
+>> Bengali - Samoan
+	I le aluga o tausaga, ua maua ai e Tom Bank se auala fou e taulimaina ai faalavelave.
+
+Step 231/284
+>> Samoan - Portuguese
+	Ao longo dos anos, o Tom Bank descobriu uma nova maneira de lidar com as crises.
+
+Step 232/284
+>> Portuguese - Russian
+	За прошедшие годы Tom Bank открыл новый способ борьбы с кризисами.
+
+Step 233/284
+>> Russian - Bosnian
+	Tokom godina, Tom Bank je otkrila novi način rješavanja krize.
+
+Step 234/284
+>> Bosnian - Sinhala
+	වසර ගණනාවක් තිස්සේ ටොම් බැංකුව අර්බුදය සමඟ කටයුතු කිරීමේ නව ක්‍රමයක් සොයාගෙන ඇත.
+
+Step 235/284
+>> Sinhala - Urdu
+	برسوں کے دوران ، ٹام بینک نے اس بحران سے نمٹنے کا ایک نیا طریقہ ڈھونڈ لیا ہے۔
+
+Step 236/284
+>> Urdu - Arabic
+	على مر السنين ، وجد توم بنك طريقة جديدة للتعامل مع الأزمة.
+
+Step 237/284
+>> Arabic - Turkish
+	Yıllar geçtikçe, Tom Bank krizle başa çıkmak için yeni bir yol buldu.
+
+Step 238/284
+>> Turkish - Kazakh
+	Осы жылдар ішінде Том Банк дағдарысты жеңудің жаңа жолын тапты.
+
+Step 239/284
+>> Kazakh - Spanish
+	Durante estos años, Tom ha encontrado una nueva forma de superar la crisis.
+
+Step 240/284
+>> Spanish - Lithuanian
+	Per tuos metus Tomas rado naują būdą įveikti krizę.
+
+Step 241/284
+>> Lithuanian - Luxembourgish
+	Wärend deenen Joeren huet den Tom en neie Wee fonnt fir d'Kris z'iwwerwannen.
+
+Step 242/284
+>> Luxembourgish - Hausa
+	A cikin waɗannan shekarun, Tom ya sami sabuwar hanyar shawo kan rikicin.
+
+Step 243/284
+>> Hausa - Hungarian
+	Ezekben az években Tom új módszert talált a válság kezelésére.
+
+Step 244/284
+>> Hungarian - Chinese (Simplified)
+	在那些年里，汤姆找到了应对危机的新方法。
+
+Step 245/284
+>> Chinese (Simplified) - Hindi
+	उन वर्षों में, टॉम ने संकट से निपटने के लिए एक नया तरीका ढूंढा।
+
+Step 246/284
+>> Hindi - Burmese
+	အဲဒီနှစျတှငျ, တွမ်အကျပ်အတည်းနှင့်အတူကိုင်တွယ်ရန်နည်းလမ်းသစ်တွေ့ရှိခဲ့ရသည်။
+
+Step 247/284
+>> Burmese - Czech
+	V těchto letech se Tom musel najít nové způsoby, jak se vypořádat s krizí.
+
+Step 248/284
+>> Czech - Croatian
+	U tim je godinama Tom morao pronaći nove načine da se izbori s krizom.
+
+Step 249/284
+>> Croatian - Bulgarian
+	В онези години Том трябваше да намери нови начини да се справи с кризата.
+
+Step 250/284
+>> Bulgarian - Georgian
+	ამ წლებში ტომს უნდა მიეღო ახალი გზები კრიზისის მოსაგვარებლად.
+
+Step 251/284
+>> Georgian - Greek
+	Κατά τη διάρκεια αυτών των ετών, ο Τομ έπρεπε να βρει νέους τρόπους αντιμετώπισης της κρίσης.
+
+Step 252/284
+>> Greek - Albanian
+	Gjatë këtyre viteve, Tom duhej të gjente mënyra të reja për t'u marrë me krizën.
+
+Step 253/284
+>> Albanian - Icelandic
+	Á þessum árum þurfti Tom að finna nýjar leiðir til að takast á við kreppuna.
+
+Step 254/284
+>> Icelandic - Haitian Creole
+	Pandan ane sa yo, Tom te jwenn nouvo fason pou fè fas ak kriz la.
+
+Step 255/284
+>> Haitian Creole - Hebrew
+	במהלך השנים טום מצא דרכים חדשות להתמודד עם המשבר.
+
+Step 256/284
+>> Hebrew - Catalan
+	Amb els anys, Tom ha trobat noves maneres d’afrontar la crisi.
+
+Step 257/284
+>> Catalan - Malagasy
+	Tao anatin'ny taona maro izay dia nahita fomba vaovao i Tom mba hiatrehana ny krizy.
+
+Step 258/284
+>> Malagasy - Vietnamese
+	Trong những năm qua, Tom đã tìm ra những cách mới để đối phó với khủng hoảng.
+
+Step 259/284
+>> Vietnamese - Persian
+	با گذشت سالها ، تام روشهای جدیدی برای مقابله با بحران پیدا کرده است.
+
+Step 260/284
+>> Persian - Malay
+	Sejak bertahun-tahun, Tom telah menghasilkan cara-cara baru untuk menangani krisis.
+
+Step 261/284
+>> Malay - French
+	Au fil des ans, Tom a développé de nouvelles façons de gérer les crises.
+
+Step 262/284
+>> French - English
+	Over the years, Tom has developed new ways to manage crises.
+
+Step 263/284
+>> English - Maltese
+	Matul is-snin, Tom żviluppa modi ġodda kif jimmaniġġjaw il-kriżijiet.
+
+Step 264/284
+>> Maltese - Ukrainian
+	Протягом багатьох років, Том розробив нові способи управління кризами.
+
+Step 265/284
+>> Ukrainian - Filipino
+	Sa paglipas ng mga taon, Tom ay bumuo ng mga bagong paraan ng pamamahala ng krisis.
+
+Step 266/284
+>> Filipino - Amharic
+	ዓመታት እያለፉ ሲሄዱ ቶም ቀውሱን ለማስተዳደር አዳዲስ መንገዶችን አዳብረዋል።
+
+Step 267/284
+>> Amharic - Latvian
+	Gadu gaitā Toms izstrādāja jaunus veidus, kā pārvaldīt krīzi.
+
+Step 268/284
+>> Latvian - Mongolian
+	Олон жилийн турш Том хямралыг зохицуулах шинэ арга замыг боловсруулж иржээ.
+
+Step 269/284
+>> Mongolian - Swedish
+	Under många år har ett nytt sätt att hantera det stora depressionen utvecklats.
+
+Step 270/284
+>> Swedish - Armenian
+	Երկար տարիներ մշակվել է Մեծ դեպրեսիայի հետ գործ ունենալու նոր եղանակ:
+
+Step 271/284
+>> Armenian - Thai
+	หลายปีที่ผ่านมามีการพัฒนาวิธีการใหม่ในการรับมือกับภาวะเศรษฐกิจตกต่ำครั้งใหญ่
+
+Step 272/284
+>> Thai - Zulu
+	Kuyo yonke le minyaka, kuye kwenziwa izindlela ezintsha zokubhekana nokudana okukhulu.
+
+Step 273/284
+>> Zulu - Nepali
+	वर्षौंको दौडान, नयाँ डिप्रेसनहरू विकसित गरिएको छ ठूलो डिप्रेशनसँग सामना गर्न।
+
+Step 274/284
+>> Nepali - Chichewa
+	Kwa zaka zambiri, kukhumudwa kwatsopano kwayamba kuthana ndi Kukhumudwa Kwakukulu.
+
+Step 275/284
+>> Chichewa - Slovak
+	V priebehu rokov začala nová frustrácia prekonať Veľkú depresiu.
+
+Step 276/284
+>> Slovak - German
+	Im Laufe der Jahre begann neue Frustration die Weltwirtschaftskrise zu überwinden.
+
+Step 277/284
+>> German - Irish
+	Thar na blianta, thosaigh frustrachas nua ag sárú na géarchéime geilleagraí domhanda.
+
+Step 278/284
+>> Irish - Estonian
+	Aastate jooksul on globaalset majanduskriisi hakanud ületama uus pettumus.
+
+Step 279/284
+>> Estonian - Japanese
+	長年にわたり、新たな不満が世界的な経済危機を克服し始めました。
+
+Step 280/284
+>> Japanese - Serbian
+	Током година, нове жалбе су почеле да превазилазе глобалну економску кризу.
+
+Step 281/284
+>> Serbian - Norwegian
+	I løpet av årene har nye klager begynt å overvinne den globale økonomiske krisen.
+
+Step 282/284
+>> Norwegian - Finnish
+	Vuosien mittaan uusia valituksia on alettu voittaa maailmanlaajuisesta talouskriisistä.
+
+Step 283/284
+>> Finnish - Pashto
+	د کلونو راهیسې ، د نړیوال اقتصادي کړکیچ په اړه نوي شکایتونه له مینځه تلل پیل شوي.
+
+Step 284/284
+>> Pashto - Portuguese
+	Ao longo dos anos, novas queixas sobre a crise econômica global começaram a desaparecer.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Ao longo dos anos, novas queixas sobre a crise econômica global começaram a desaparecer.

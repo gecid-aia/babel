@@ -1,0 +1,1147 @@
+Translation chain: en - de - sv - en - no - da - af - nl - de - en - de - nl - da - sv - da - af - en - af - no - af - sv - nl - en - de - nl - no - da - en - no - sv - af - nl - de - en - de - no - de - sv - de - nl - sv - da - sv - no - de - en - da - de - nl - no - af - nl - da - sv - af - en - da - af - en - de - af - nl - en - nl - sv - nl - da - nl - no - af - da - de - sv - nl - sv - no - de - en - da - sv - no - af - nl - da - en - sv - no - nl - no - de - sv - no - nl - af - de - da - af - nl - af - sv - de - no - da - de - sv - af - sv - no - nl - no - af - da - no - da - af - en - sv - en - sv - no - de - en - sv - nl - da - no - en - no - sv - nl - de - da - af - de - nl - da - af - sv - en - nl - da - en.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - English
+	For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he stands before the texts as the Heraclitus River Bather, which it is impossible to enter twice because its course is constantly changing.
+
+Step 2/284
+>> English - German
+	Für ihn bedeutet jede Lektüre eines Textes immer eine neue Größenänderung und ein neues Verständnis dieses Textes. Bildlich gesprochen steht er vor den Texten als der Heraklit-Badende, den man nicht zweimal betreten kann, weil sich sein Verlauf ständig ändert.
+
+Step 3/284
+>> German - Swedish
+	För honom betyder varje läsning av en text alltid en ny storlek och en ny förståelse av denna text. Figurativt sett står han framför texterna som Heraclit-badare, du kan inte komma in två gånger, eftersom dess kurs förändras ständigt.
+
+Step 4/284
+>> Swedish - English
+	For him, every reading of a text always means a new size and a new understanding of that text. Figuratively, he stands in front of the texts as Heraclit bathers, you cannot enter twice, as its course is constantly changing.
+
+Step 5/284
+>> English - Norwegian
+	For ham betyr hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Figurativt står han foran tekstene som Heraclit-badende, du kan ikke komme inn to ganger, da kursen stadig endres.
+
+Step 6/284
+>> Norwegian - Danish
+	For ham betyder enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Figurativt står han foran teksterne som Heraclit-badende, du kan ikke komme ind to gange, da kursen konstant ændrer sig.
+
+Step 7/284
+>> Danish - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Figuurlik staan hy voor die tekste as Heraclit-baders; jy kan nie twee keer binnekom nie, aangesien die kursus voortdurend verander.
+
+Step 8/284
+>> Afrikaans - Dutch
+	Voor hem betekent elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Figuurlijk staat hij voor de teksten als Heraclit-zwemmers; je kunt niet twee keer binnenkomen omdat de koers constant verandert.
+
+Step 9/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet für ihn immer eine neue Größe und ein neues Verständnis des Textes. Er stellt die Texte bildlich als Heraklitschwimmer dar; Sie können nicht zweimal reinkommen, da sich die Rate ständig ändert.
+
+Step 10/284
+>> German - English
+	Each reading of a text always means for him a new size and a new understanding of the text. He portrays the texts figuratively as Heraclitus swimmers; You can not come in twice as the rate changes constantly.
+
+Step 11/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet für ihn immer eine neue Größe und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Heraklitschwimmer; Du kannst nicht zweimal reinkommen, da sich die Rate ständig ändert.
+
+Step 12/284
+>> German - Dutch
+	Elke lezing van een tekst betekent voor hem altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als Heraclitus-zwemmers; Je kunt niet twee keer binnenkomen omdat de snelheid voortdurend verandert.
+
+Step 13/284
+>> Dutch - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke indtaste to gange, fordi hastigheden konstant ændres.
+
+Step 14/284
+>> Danish - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte ange två gånger eftersom hastigheten ständigt förändras.
+
+Step 15/284
+>> Swedish - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke indtaste to gange, fordi hastigheden konstant ændres.
+
+Step 16/284
+>> Danish - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer ingaan nie, omdat die spoed voortdurend verander.
+
+Step 17/284
+>> Afrikaans - English
+	To him, every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers of Heraclitus; You cannot enter twice because the speed is constantly changing.
+
+Step 18/284
+>> English - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer ingaan nie, omdat die spoed voortdurend verander.
+
+Step 19/284
+>> Afrikaans - Norwegian
+	For ham betyr hver lesing av en tekst alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke gå inn to ganger fordi hastigheten stadig endres.
+
+Step 20/284
+>> Norwegian - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer ingaan nie, omdat die spoed voortdurend verander.
+
+Step 21/284
+>> Afrikaans - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte ange två gånger eftersom hastigheten ständigt förändras.
+
+Step 22/284
+>> Swedish - Dutch
+	Voor hem betekent elke lezing van een tekst altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer binnengaan omdat de snelheid constant verandert.
+
+Step 23/284
+>> Dutch - English
+	For him, every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot enter twice because the speed is constantly changing.
+
+Step 24/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal eingeben, da sich die Geschwindigkeit ständig ändert.
+
+Step 25/284
+>> German - Dutch
+	Elke lezing van een tekst betekent voor hem altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 26/284
+>> Dutch - Norwegian
+	For ham betyr hver lesing av en tekst alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 27/284
+>> Norwegian - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 28/284
+>> Danish - English
+	For him, any reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 29/284
+>> English - Norwegian
+	For ham betyr enhver lesing av en tekst alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 30/284
+>> Norwegian - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 31/284
+>> Swedish - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 32/284
+>> Afrikaans - Dutch
+	Voor hem betekent elke lezing van een tekst altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 33/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 34/284
+>> German - English
+	Each reading of a text always means for him a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 35/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 36/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid for ham et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 37/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 38/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid för honom ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 39/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 40/284
+>> German - Dutch
+	Elke lezing van een tekst betekent voor hem altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 41/284
+>> Dutch - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 42/284
+>> Swedish - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 43/284
+>> Danish - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 44/284
+>> Swedish - Norwegian
+	For ham betyr hver lesing av en tekst alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 45/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 46/284
+>> German - English
+	Each reading of a text always means for him a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 47/284
+>> English - Danish
+	Hver læsning af en tekst betyder altid for ham et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 48/284
+>> Danish - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 49/284
+>> German - Dutch
+	Elke lezing van een tekst betekent voor hem altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 50/284
+>> Dutch - Norwegian
+	For ham betyr hver lesing av en tekst alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 51/284
+>> Norwegian - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 52/284
+>> Afrikaans - Dutch
+	Voor hem betekent elke lezing van een tekst altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 53/284
+>> Dutch - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 54/284
+>> Danish - Swedish
+	För honom betyder varje läsning av en text alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 55/284
+>> Swedish - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 56/284
+>> Afrikaans - English
+	To him, every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 57/284
+>> English - Danish
+	For ham betyder enhver læsning af en tekst altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 58/284
+>> Danish - Afrikaans
+	Vir hom beteken elke lees van 'n teks altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, aangesien die spoed voortdurend verander.
+
+Step 59/284
+>> Afrikaans - English
+	To him, every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers of Heraclitus; You cannot attend twice as the speed is constantly changing.
+
+Step 60/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet für ihn immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 61/284
+>> German - Afrikaans
+	Elke lees van 'n teks beteken vir hom altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, omdat die spoed voortdurend verander.
+
+Step 62/284
+>> Afrikaans - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 63/284
+>> Dutch - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 64/284
+>> English - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 65/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 66/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 67/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 68/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 69/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 70/284
+>> Norwegian - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 71/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 72/284
+>> Danish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 73/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 74/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 75/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 76/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 77/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 78/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 79/284
+>> English - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 80/284
+>> Danish - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 81/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene figurativt som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 82/284
+>> Norwegian - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 83/284
+>> Afrikaans - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 84/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 85/284
+>> Danish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 86/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 87/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 88/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 89/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 90/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 91/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 92/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene figurativt som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 93/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 94/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 95/284
+>> Afrikaans - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 96/284
+>> German - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 97/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 98/284
+>> Afrikaans - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 99/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 100/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 101/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 102/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 103/284
+>> Norwegian - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 104/284
+>> Danish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 105/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 106/284
+>> Swedish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 107/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 108/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 109/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 110/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 111/284
+>> Norwegian - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 112/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 113/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 114/284
+>> Norwegian - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 115/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 116/284
+>> Afrikaans - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers of Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 117/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 118/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 119/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 120/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 121/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 122/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 123/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 124/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 125/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 126/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 127/284
+>> Norwegian - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 128/284
+>> English - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 129/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 130/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 131/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 132/284
+>> German - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 133/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 134/284
+>> Afrikaans - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 135/284
+>> German - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 136/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 137/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 138/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 139/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 140/284
+>> English - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 141/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 142/284
+>> Danish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 143/284
+>> English - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 144/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 145/284
+>> Dutch - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 146/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 147/284
+>> Swedish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 148/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 149/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 150/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 151/284
+>> German - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, omdat die spoed voortdurend verander.
+
+Step 152/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 153/284
+>> Danish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 154/284
+>> German - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 155/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 156/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 157/284
+>> Norwegian - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 158/284
+>> English - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 159/284
+>> Norwegian - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 160/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 161/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 162/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 163/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 164/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 165/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 166/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He portrays the lyrics figuratively as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 167/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 168/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He portrays the lyrics figuratively as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 169/284
+>> English - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 170/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 171/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 172/284
+>> Norwegian - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 173/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, aangesien die spoed voortdurend verander.
+
+Step 174/284
+>> Afrikaans - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 175/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 176/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 177/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 178/284
+>> Swedish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 179/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 180/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 181/284
+>> German - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 182/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene figurativt som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 183/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 184/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 185/284
+>> Swedish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 186/284
+>> Afrikaans - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 187/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 188/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 189/284
+>> Danish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 190/284
+>> German - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, omdat die spoed voortdurend verander.
+
+Step 191/284
+>> Afrikaans - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 192/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 193/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 194/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 195/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 196/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 197/284
+>> Dutch - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 198/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 199/284
+>> Swedish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 200/284
+>> English - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 201/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 202/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 203/284
+>> Afrikaans - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 204/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 205/284
+>> Swedish - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 206/284
+>> Danish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers from Heraclitus; You cannot attend twice as the speed is constantly changing.
+
+Step 207/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 208/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 209/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 210/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 211/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 212/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 213/284
+>> German - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 214/284
+>> Danish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 215/284
+>> Afrikaans - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 216/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 217/284
+>> Dutch - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 218/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 219/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 220/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 221/284
+>> Dutch - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 222/284
+>> English - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 223/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 224/284
+>> Afrikaans - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 225/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 226/284
+>> English - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer bywoon nie, omdat die spoed voortdurend verander.
+
+Step 227/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 228/284
+>> Danish - English
+	Every reading of a text always means a new format and a new understanding of the text. He figuratively portrays the lyrics as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 229/284
+>> English - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die lirieke figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 230/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 231/284
+>> Swedish - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 232/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 233/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 234/284
+>> Afrikaans - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 235/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 236/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 237/284
+>> German - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han skildrer teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændrer sig.
+
+Step 238/284
+>> Danish - English
+	Every reading of a text always means a new format and a new understanding of the text. He portrays the lyrics figuratively as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 239/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 240/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 241/284
+>> Norwegian - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 242/284
+>> Swedish - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller teksterne billedligt som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 243/284
+>> Danish - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 244/284
+>> Swedish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 245/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 246/284
+>> German - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han skildrar texterna bildligt som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 247/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer von Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 248/284
+>> German - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer tekstene billedlig som svømmere av Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 249/284
+>> Norwegian - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte im übertragenen Sinne als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 250/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 251/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 252/284
+>> German - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 253/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 254/284
+>> Afrikaans - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 255/284
+>> Swedish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 256/284
+>> Norwegian - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 257/284
+>> English - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 258/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 259/284
+>> Norwegian - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer meedoen omdat de snelheid constant verandert.
+
+Step 260/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 261/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 262/284
+>> English - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 263/284
+>> Dutch - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 264/284
+>> Swedish - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 265/284
+>> Afrikaans - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere av Heraclitus; Du kan ikke delta to ganger da hastigheten stadig endres.
+
+Step 266/284
+>> Norwegian - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 267/284
+>> Afrikaans - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers of Heraclitus; You cannot participate twice as the speed is constantly changing.
+
+Step 268/284
+>> English - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, aangesien die snelheid voortdurend verander.
+
+Step 269/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 270/284
+>> Danish - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 271/284
+>> Swedish - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, da hastigheden konstant ændrer sig.
+
+Step 272/284
+>> Danish - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert figuurlijk de teksten als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 273/284
+>> Dutch - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 274/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 275/284
+>> English - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 276/284
+>> German - Dutch
+	Elke lezing van een tekst betekent altijd een nieuw formaat en een nieuw begrip van de tekst. Hij portretteert de teksten figuurlijk als zwemmers van Heraclitus; Je kunt niet twee keer deelnemen omdat de snelheid constant verandert.
+
+Step 277/284
+>> Dutch - Afrikaans
+	Elke lees van 'n teks beteken altyd 'n nuwe formaat en 'n nuwe begrip van die teks. Hy beeld die tekste figuurlik uit as swemmers van Heraclitus; U kan nie twee keer deelneem nie, omdat die spoed voortdurend verander.
+
+Step 278/284
+>> Afrikaans - Danish
+	Hver læsning af en tekst betyder altid et nyt format og en ny forståelse af teksten. Han fremstiller billedligt teksterne som svømmere fra Heraclitus; Du kan ikke deltage to gange, fordi hastigheden konstant ændres.
+
+Step 279/284
+>> Danish - Norwegian
+	Hver lesing av en tekst betyr alltid et nytt format og en ny forståelse av teksten. Han skildrer figurativt tekstene som svømmere fra Heraclitus; Du kan ikke delta to ganger fordi hastigheten stadig endres.
+
+Step 280/284
+>> Norwegian - English
+	Each reading of a text always means a new format and a new understanding of the text. He figuratively portrays the texts as swimmers from Heraclitus; You cannot participate twice because the speed is constantly changing.
+
+Step 281/284
+>> English - Swedish
+	Varje läsning av en text betyder alltid ett nytt format och en ny förståelse av texten. Han porträttar bildligt texterna som simmare från Heraclitus; Du kan inte delta två gånger eftersom hastigheten ständigt förändras.
+
+Step 282/284
+>> Swedish - German
+	Jedes Lesen eines Textes bedeutet immer ein neues Format und ein neues Verständnis des Textes. Er porträtiert die Texte bildlich als Schwimmer des Heraklit; Sie können nicht zweimal teilnehmen, da sich die Geschwindigkeit ständig ändert.
+
+Step 283/284
+>> German - English
+	Each reading of a text always means a new format and a new understanding of the text. He portrays the texts figuratively as swimmers of Heraclitus; You can not attend twice because the speed is constantly changing.
+
+Step 284/284
+>> English - Portuguese
+	Cada leitura de um texto sempre significa um novo formato e uma nova compreensão do texto. Ele retrata os textos figurativamente como nadadores de Heráclito; Você não pode comparecer duas vezes porque a velocidade está mudando constantemente.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Cada leitura de um texto sempre significa um novo formato e uma nova compreensão do texto. Ele retrata os textos figurativamente como nadadores de Heráclito; Você não pode comparecer duas vezes porque a velocidade está mudando constantemente.

@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - tl - el - en - sr - pl - si - lv - id - he - no - fr - zu - ms - uk - fi - hi - lo - da - sl - ar - ro - ha - kk - ca - zh - ht - vi - nl - uz - ga - es - ny - cs - hy - sm - de - ps - mt - mk - et - lt - tr - my - fa - hr - it - sw - sn - bg - mi - sq - bn - lb - ru - hu - ko - ne - mg - mn - am - ku - sk - sv - ka - th - ja - is - pt - ur - bs - zh - mn - es - uz - si - fr - no - ht - ca - am - uk - ka - mt - mk - lb - sv - sl - da - lt - ga - tr - is - et - hi - ro - sr - mg - ar - kk - hy - sm - bn - lo - ny - th - hu - ku - sw - bg - vi - my - en - ne - zh-TW - ru - de - he - tl - ms - bs - pt - sq - nl - fa - hr - el - zu - id - it - ps - sn - ha - ur - cs - ja - pl - lv - ko - mi - fi - sk.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Chinese (Traditional)
+	對於他來說，每次閱讀任何文本都將始終為該文本提供新的大小調整和理解。隱喻地講，他站在《赫拉克利特斯河沐浴者》之前，由於其路線在不斷變化，因此不可能兩次輸入。
+
+Step 2/284
+>> Chinese (Traditional) - Filipino
+	Para sa kanya, sa tuwing magbasa ka ng anumang teksto, palagi kang magbibigay ng bagong pagbabago sa laki at pag-unawa sa teksto. Sa metaphorically, tumayo siya sa harap ng Heraclitus River Bather, at dahil ang kanyang ruta ay patuloy na nagbabago, imposibleng ipasok ito nang dalawang beses.
+
+Step 3/284
+>> Filipino - Greek
+	Για εκείνη, κάθε φορά που διαβάζετε οποιοδήποτε κείμενο, θα έχετε πάντα μια νέα αλλαγή στο μέγεθος και την κατανόηση του κειμένου. Μεταφορικά, στάθηκε μπροστά από τον ποταμό του Ηρακλείτου και καθώς η πορεία του συνέχιζε να αλλάζει, ήταν αδύνατο να εισέλθει δύο φορές.
+
+Step 4/284
+>> Greek - English
+	For her, every time you read any text, you will always have a new change in the size and understanding of the text. Metaphorically, he stood in front of the river Heraclitus and as his course continued to change, it was impossible to enter twice.
+
+Step 5/284
+>> English - Serbian
+	За њу ће сваки пут кад прочитате било који текст увек бити нова промена у величини и разумевању текста. Метафорички, стајао је испред реке Хераклит, а како се његов ток и даље мењао, два пута је било немогуће ући.
+
+Step 6/284
+>> Serbian - Polish
+	Dla niej za każdym razem, gdy czytasz dowolny tekst, zawsze będzie nowa zmiana w rozmiarze i zrozumieniu tekstu. Metaforycznie stał przed rzeką Heraklit, a ponieważ jego kurs ciągle się zmieniał, wejście było dwukrotnie niemożliwe.
+
+Step 7/284
+>> Polish - Sinhala
+	ඇය සඳහා, ඔබ කිසියම් පෙළක් කියවන සෑම විටම, පා size යේ ප්‍රමාණය හා අවබෝධයේ නව වෙනසක් සිදුවනු ඇත. රූපක වශයෙන් හෙරක්ලිටස් ගඟ ඉදිරිපිට සිටගෙන සිටි අතර ඔහුගේ ගමන් මාර්ගය නිරන්තරයෙන් වෙනස් වෙමින් තිබූ නිසා ඇතුළුවීම දෙවරක් කළ නොහැකි විය.
+
+Step 8/284
+>> Sinhala - Latvian
+	Viņai katru reizi, kad lasāt tekstu, tiek mainītas kājenes lielums un izpratne. Herakleits stāvēja upes priekšā, un viņa ieeja nemitīgi mainījās.
+
+Step 9/284
+>> Latvian - Indonesian
+	Dia mengubah ukuran dan pemahaman footer setiap kali Anda membaca teks. Heraclitus berdiri di depan sungai, dan pintu masuknya terus berubah.
+
+Step 10/284
+>> Indonesian - Hebrew
+	הוא משנה את גודל הכותרת התחתונה והבנתו בכל פעם שקוראים את הטקסט. הרקליטוס עמד מול הנהר, והכניסה המשיכה להשתנות.
+
+Step 11/284
+>> Hebrew - Norwegian
+	Den endrer størrelse på og forstår bunnteksten hver gang teksten leses. Heraclitus vendte mot elven, og inngangen fortsatte å endre seg.
+
+Step 12/284
+>> Norwegian - French
+	Il redimensionne et comprend le pied de page chaque fois que le texte est lu. Héraclite fait face à la rivière et l'entrée continue à changer.
+
+Step 13/284
+>> French - Zulu
+	Kuyakhumula futhi kuqondisise unyaweni ngaso sonke isikhathi lapho kufundwa umbhalo. UHeraclitus ubhekene nomfula kanti umnyango uyaqhubeka nokushintsha.
+
+Step 14/284
+>> Zulu - Malay
+	Ia melegakan dan memahami jejak setiap kali teks dibaca. Heraclitus menghadapi sungai dan pintu terus berubah.
+
+Step 15/284
+>> Malay - Ukrainian
+	Це полегшує та розуміє сліди щоразу, коли текст читається. Геракліт стикався з річкою, і двері постійно змінювалися.
+
+Step 16/284
+>> Ukrainian - Finnish
+	Se helpottaa ja ymmärtää jäljet joka kerta, kun teksti luetaan. Heraclitus oli joen edessä, ja ovi muuttui.
+
+Step 17/284
+>> Finnish - Hindi
+	जब भी आप पाठ पढ़ते हैं, तो इसे समझना और ट्रेस करना आसान हो जाता है। हेराक्लिटस नदी के सामने था, और दरवाजा बदल गया।
+
+Step 18/284
+>> Hindi - Lao
+	ເມື່ອໃດກໍ່ຕາມທີ່ທ່ານອ່ານຂໍ້ຄວາມ, ມັນຈະເຂົ້າໃຈງ່າຍແລະຕິດຕາມ. Heraclitus ຢູ່ທາງຫນ້າຂອງແມ່ນ້ໍາ, ແລະປະຕູໄດ້ຫັນໄປ.
+
+Step 19/284
+>> Lao - Danish
+	Hver gang du læser en besked, er det let at forstå og følge. Heraclitus var foran floden, og døren blev vendt.
+
+Step 20/284
+>> Danish - Slovenian
+	Vsakič, ko preberete sporočilo, ga je enostavno razumeti in slediti. Heraklit je bil pred reko in vrata so bila obrnjena.
+
+Step 21/284
+>> Slovenian - Arabic
+	في كل مرة تقرأ فيها رسالة ، يكون من السهل فهمها ومتابعتها. كان هيراكليتس أمام النهر والباب تحول.
+
+Step 22/284
+>> Arabic - Romanian
+	De fiecare dată când citiți un mesaj, este ușor de înțeles și de urmat. Heraclit era în fața râului și ușa se întoarse.
+
+Step 23/284
+>> Romanian - Hausa
+	Duk lokacin da ka karanta saƙo, yana da sauƙi a fahimta kuma a bi shi. Heraclitus yana gaban kogi kuma ƙofar ta juya.
+
+Step 24/284
+>> Hausa - Kazakh
+	Хабарды оқыған сайын оны түсіну және ұстану оңай. Гераклит өзеннің алдында, есік бұрылады.
+
+Step 25/284
+>> Kazakh - Catalan
+	Cada vegada que llegeixes un missatge, és més fàcil d’entendre i de seguir. Abans del riu Hercullyt, la porta gira.
+
+Step 26/284
+>> Catalan - Chinese (Simplified)
+	每次阅读消息时，都更容易理解和关注。在Hercullyt河之前，门打开了。
+
+Step 27/284
+>> Chinese (Simplified) - Haitian Creole
+	Li pi fasil pou ou konprann epi peye atansyon chak fwa ou li yon mesaj. Anvan Rivul Hercullyt la, pòt la louvri.
+
+Step 28/284
+>> Haitian Creole - Vietnamese
+	Dễ hiểu và chú ý hơn mỗi khi bạn đọc tin nhắn. Trước Hercullyt Rivul, cánh cửa mở ra.
+
+Step 29/284
+>> Vietnamese - Dutch
+	Eenvoudig te begrijpen en meer aandacht te besteden elke keer dat u het bericht leest. Voor Hercullyt Rivul ging de deur open.
+
+Step 30/284
+>> Dutch - Uzbek
+	Xabarni har safar o'qiyotganda tushunish oson va ko'proq e'tibor bering. Eshik Herkullyt Rivulga ochildi.
+
+Step 31/284
+>> Uzbek - Irish
+	Gach uair a léann tú an teachtaireacht, tá sé éasca níos mó airde a thuiscint agus a íoc. Osclaíodh an doras do Hercules Reuve.
+
+Step 32/284
+>> Irish - Spanish
+	Cada vez que lee el mensaje, es fácil de entender y prestar más atención. La puerta se abrió para Hércules Reuve.
+
+Step 33/284
+>> Spanish - Chichewa
+	Nthawi iliyonse mukamawerenga uthengawu, ndizosavuta kumvetsetsa komanso kutchera khutu kwambiri. Khomo lidatsegulidwa kwa Hercules Reuve.
+
+Step 34/284
+>> Chichewa - Czech
+	Pokaždé, když si tuto zprávu přečtete, je snadno pochopitelné a velmi pozorný. Dveře byly otevřeny Herkulovi Reuve.
+
+Step 35/284
+>> Czech - Armenian
+	Ամեն անգամ կարդալով այս զեկույցը, դա շատ հեշտ է հասկանալ և շատ ուշադիր: Դուռը բացվեց Հերկուլես Ռեուի մոտ:
+
+Step 36/284
+>> Armenian - Samoan
+	Soo se taimi lava e te faitau ai i lenei lipoti, e faigofie ona malamalama ma faʻaeteete. Na tatala le faitotoa ia Hercules Reu.
+
+Step 37/284
+>> Samoan - German
+	Wann immer Sie diesen Bericht lesen, ist er leicht zu verstehen und vorsichtig. Herkules Reu öffnete die Tür.
+
+Step 38/284
+>> German - Pashto
+	هرکله چې تاسو دا راپور ولولئ ، د پوهیدو او محتاط کولو لپاره اسانه ده. هرکولیس ریو دروازه خلاصه کړه.
+
+Step 39/284
+>> Pashto - Maltese
+	Kull darba li taqra dan ir-rapport, huwa faċli li tifhem u kawt. Hercules Roy fetaħ il-bieb.
+
+Step 40/284
+>> Maltese - Macedonian
+	Секој пат кога ќе го прочитате овој извештај, тоа е лесно да се разбере и претпазливо. Херкулес Рој ја отвори вратата.
+
+Step 41/284
+>> Macedonian - Estonian
+	Iga kord, kui loete seda aruannet, on see hõlpsasti mõistetav ja ettevaatlik. Hercules Roy avas ukse.
+
+Step 42/284
+>> Estonian - Lithuanian
+	Kiekvieną kartą skaitant šį pranešimą lengva suprasti ir būti atsargiam. Hercules Roy atidarė duris.
+
+Step 43/284
+>> Lithuanian - Turkish
+	Bu yazıyı her okuduğunuzda anlamak ve dikkatli olmak kolaydır. Herkül Roy kapıyı açtı.
+
+Step 44/284
+>> Turkish - Burmese
+	သငျသညျအသီးအသီးကိုနားလည်သဘောပေါက်ရန်ဤဆောင်းပါးကိုဖတ်ပါကသတိထားပါရန်လွယ်ကူသည်အခါ။ ဟာကြူလီရွိုင်းတံခါးကိုဖွင့်လှစ်ခဲ့။
+
+Step 45/284
+>> Burmese - Persian
+	هر یک از شما به درک که آن را آسان به مراقب باشید به خواندن این مقاله است. هرکول روی در را باز کرد.
+
+Step 46/284
+>> Persian - Croatian
+	Svatko od vas razumjet će da je lako biti oprezan pročitati ovaj članak. Hercules je otvorio vrata.
+
+Step 47/284
+>> Croatian - Italian
+	Tutti capirete che è facile stare attenti a leggere questo articolo. Ercole aprì la porta.
+
+Step 48/284
+>> Italian - Swahili
+	Utawaelewa wote kuwa ni rahisi kuwa mwangalifu kusoma nakala hii. Hercules akafungua mlango.
+
+Step 49/284
+>> Swahili - Shona
+	Iwe unozozwisisa zvese kuti zviri nyore kungwarira kuverenga iyi kopi. Hercules akavhura gonhi.
+
+Step 50/284
+>> Shona - Bulgarian
+	Ще разберете всичко, че е лесно да внимавате да четете това копие. Херкулес отвори вратата.
+
+Step 51/284
+>> Bulgarian - Maori
+	Ka maarama koe he ngawari ki te tupato ki te panui i tenei kape. I whakatuwherahia e Hercules nga tatau.
+
+Step 52/284
+>> Maori - Albanian
+	Do ta keni të lehtë të tregoheni të kujdesshëm kur lexoni këtë kopje. Hercules hapi dyert.
+
+Step 53/284
+>> Albanian - Bengali
+	এই অনুলিপিটি পড়ার সময় আপনি যত্নবান হওয়া সহজ পাবেন। হারকিউলিস দরজা খুলল।
+
+Step 54/284
+>> Bengali - Luxembourgish
+	Dir fannt et méi einfach virsiichteg ze sinn wann Dir dëst Exemplar liest. Den Hercules huet d'Dier opgemaach.
+
+Step 55/284
+>> Luxembourgish - Russian
+	Вам будет легче быть осторожным при чтении этой копии. Геракл открыл дверь.
+
+Step 56/284
+>> Russian - Hungarian
+	Könnyebb lesz, ha óvatos lesz, ha elolvassa ezt a példányt. Hercules kinyitotta az ajtót.
+
+Step 57/284
+>> Hungarian - Korean
+	이 사본을 읽을 때 조심하는 것이 더 쉬울 것입니다. 허큘리스가 문을 열었습니다.
+
+Step 58/284
+>> Korean - Nepali
+	यो प्रतिलिपि पढ्दा सावधान रहन सजिलो हुनेछ। हर्कुलस खोलिएको छ।
+
+Step 59/284
+>> Nepali - Malagasy
+	Ho mora kokoa ny mitandrina rehefa mamaky io kopia io. Nisokatra Hercules.
+
+Step 60/284
+>> Malagasy - Mongolian
+	Энэ хуулбарыг уншихдаа анхааралтай байх нь илүү хялбар болно. Геркулес нээгдэв.
+
+Step 61/284
+>> Mongolian - Amharic
+	ይህንን ቅጂ ሲያነቡ ለማንበብ ይቀላል ፡፡ ሄርኩለስ ይከፈታል ፡፡
+
+Step 62/284
+>> Amharic - Kurdish
+	Dema ku hûn kopiyek vê yekê dixwînin ev hêsan e ku meriv bixwîne. Hercules vedike.
+
+Step 63/284
+>> Kurdish - Slovak
+	Čítanie je ľahké, keď si prečítate jeho kópiu. Hercules sa otvára.
+
+Step 64/284
+>> Slovak - Swedish
+	Läsning är lätt när du läser en kopia. Hercules öppnar.
+
+Step 65/284
+>> Swedish - Georgian
+	წაკითხვა მარტივია ასლის წაკითხვის დროს. იხსნება ჰერკულესი.
+
+Step 66/284
+>> Georgian - Thai
+	การอ่านเป็นเรื่องง่ายเมื่ออ่านสำเนา Hercules เปิดขึ้น
+
+Step 67/284
+>> Thai - Japanese
+	Herculesのコピーを開くと、読みやすくなります。
+
+Step 68/284
+>> Japanese - Icelandic
+	Með því að opna afrit af Hercules er auðveldara að lesa.
+
+Step 69/284
+>> Icelandic - Portuguese
+	Abrir uma cópia do Hercules é mais fácil de ler.
+
+Step 70/284
+>> Portuguese - Urdu
+	ہرکیولس کی ایک کاپی کھولنا پڑھنا آسان ہے۔
+
+Step 71/284
+>> Urdu - Bosnian
+	Otvaranje kopije Herculesa lako je pročitati.
+
+Step 72/284
+>> Bosnian - Chinese (Simplified)
+	打开大力神的副本很容易阅读。
+
+Step 73/284
+>> Chinese (Simplified) - Mongolian
+	Hercules-ийн хуулбарыг нээх нь уншихад хялбар байдаг.
+
+Step 74/284
+>> Mongolian - Spanish
+	Abrir una copia de Hércules es fácil de leer.
+
+Step 75/284
+>> Spanish - Uzbek
+	Herkulesning nusxasini ochish juda oson.
+
+Step 76/284
+>> Uzbek - Sinhala
+	හර්කියුලිස් පිටපතක් විවෘත කිරීම පහසුය.
+
+Step 77/284
+>> Sinhala - French
+	Il est facile d’ouvrir une copie d’Hercules.
+
+Step 78/284
+>> French - Norwegian
+	Det er enkelt å åpne en kopi av Hercules.
+
+Step 79/284
+>> Norwegian - Haitian Creole
+	Yon kopi Hercules fasil pou louvri.
+
+Step 80/284
+>> Haitian Creole - Catalan
+	Es pot obrir una còpia d’Hèrcules.
+
+Step 81/284
+>> Catalan - Amharic
+	የሄርኩለስ ቅጅ ሊከፈት ይችላል ፡፡
+
+Step 82/284
+>> Amharic - Ukrainian
+	Копію Геркулеса можна відкрити.
+
+Step 83/284
+>> Ukrainian - Georgian
+	შეგიძლიათ გახსნათ ჰერკულესის ასლი.
+
+Step 84/284
+>> Georgian - Maltese
+	Tista 'tiftaħ kopja ta' Hercules.
+
+Step 85/284
+>> Maltese - Macedonian
+	Можете да отворите копија од Херкулес.
+
+Step 86/284
+>> Macedonian - Luxembourgish
+	Dir kënnt eng Kopie vun Hercules opmaachen.
+
+Step 87/284
+>> Luxembourgish - Swedish
+	Du kan öppna en kopia av Hercules här.
+
+Step 88/284
+>> Swedish - Slovenian
+	Tu lahko odprete kopijo Herkula.
+
+Step 89/284
+>> Slovenian - Danish
+	Du kan åbne en kopi af Hercules her.
+
+Step 90/284
+>> Danish - Lithuanian
+	„Hercules“ kopiją galite atidaryti čia.
+
+Step 91/284
+>> Lithuanian - Irish
+	Is féidir leat cóip de Hercules a oscailt anseo.
+
+Step 92/284
+>> Irish - Turkish
+	Burada Herkül'ün bir kopyasını açabilirsiniz.
+
+Step 93/284
+>> Turkish - Icelandic
+	Hér getur þú opnað eintak af Hercules.
+
+Step 94/284
+>> Icelandic - Estonian
+	Siin saate avada Heraklese koopia.
+
+Step 95/284
+>> Estonian - Hindi
+	यहां आप हरक्यूलिस की एक प्रति खोल सकते हैं।
+
+Step 96/284
+>> Hindi - Romanian
+	Aici puteți deschide o copie a lui Hercule.
+
+Step 97/284
+>> Romanian - Serbian
+	Овде можете отворити Херкулов примјерак.
+
+Step 98/284
+>> Serbian - Malagasy
+	Afaka manokatra kopia Hercules eto ianao.
+
+Step 99/284
+>> Malagasy - Arabic
+	يمكنك فتح نسخة من هرقل هنا.
+
+Step 100/284
+>> Arabic - Kazakh
+	Геркулес көшірмесін мына жерден ашуға болады.
+
+Step 101/284
+>> Kazakh - Armenian
+	Հերկուլեսի օրինակը կարելի է գտնել այստեղ:
+
+Step 102/284
+>> Armenian - Samoan
+	O se faʻataʻitaʻiga o Hercules e mafai ona maua iinei.
+
+Step 103/284
+>> Samoan - Bengali
+	হারকিউলিসের একটি উদাহরণ এখানে পাওয়া যাবে।
+
+Step 104/284
+>> Bengali - Lao
+	ຕົວຢ່າງຂອງ Hercules ສາມາດພົບໄດ້ທີ່ນີ້.
+
+Step 105/284
+>> Lao - Chichewa
+	Chitsanzo cha Hercules chikhoza kupezeka pano.
+
+Step 106/284
+>> Chichewa - Thai
+	ตัวอย่างของ Hercules สามารถพบได้ที่นี่
+
+Step 107/284
+>> Thai - Hungarian
+	Hercules példák itt találhatók.
+
+Step 108/284
+>> Hungarian - Kurdish
+	Nimûneyên Hercules li vir dikarin werin dîtin.
+
+Step 109/284
+>> Kurdish - Swahili
+	Mifano ya Hercules inaweza kupatikana hapa.
+
+Step 110/284
+>> Swahili - Bulgarian
+	Примери за Херкулес можете да намерите тук.
+
+Step 111/284
+>> Bulgarian - Vietnamese
+	Ví dụ về Hercules có thể được tìm thấy ở đây.
+
+Step 112/284
+>> Vietnamese - Burmese
+	ဟာကြူလီ၏နမူနာကိုဒီမှာတွေ့ရှိနိုင်ပါသည်။
+
+Step 113/284
+>> Burmese - English
+	Examples of the Hercules can be found here.
+
+Step 114/284
+>> English - Nepali
+	हर्कुलस को उदाहरण यहाँ पाउन सकिन्छ।
+
+Step 115/284
+>> Nepali - Chinese (Traditional)
+	此處可以找到一個大力士的例子。
+
+Step 116/284
+>> Chinese (Traditional) - Russian
+	Здесь вы можете найти пример сильного человека.
+
+Step 117/284
+>> Russian - German
+	Hier finden Sie ein Beispiel für eine starke Person.
+
+Step 118/284
+>> German - Hebrew
+	הנה דוגמא לאדם חזק.
+
+Step 119/284
+>> Hebrew - Filipino
+	Narito ang isang halimbawa ng isang malakas na tao.
+
+Step 120/284
+>> Filipino - Malay
+	Inilah contoh lelaki yang kuat.
+
+Step 121/284
+>> Malay - Bosnian
+	Ovo je snažan primjer čovjeka.
+
+Step 122/284
+>> Bosnian - Portuguese
+	Este é um exemplo poderoso de um homem.
+
+Step 123/284
+>> Portuguese - Albanian
+	Ky është një shembull i fuqishëm i një njeriu.
+
+Step 124/284
+>> Albanian - Dutch
+	Dit is een krachtig voorbeeld van een man.
+
+Step 125/284
+>> Dutch - Persian
+	این یک نمونه قدرتمند از یک مرد است.
+
+Step 126/284
+>> Persian - Croatian
+	Ovo je moćan primjer čovjeka.
+
+Step 127/284
+>> Croatian - Greek
+	Αυτό είναι ένα ισχυρό παράδειγμα ενός ανθρώπου.
+
+Step 128/284
+>> Greek - Zulu
+	Lesi yisibonelo esinamandla somuntu ongumuntu.
+
+Step 129/284
+>> Zulu - Indonesian
+	Ini adalah contoh kuat dari manusia.
+
+Step 130/284
+>> Indonesian - Italian
+	Questo è un forte esempio di umani.
+
+Step 131/284
+>> Italian - Pashto
+	دا د انسانانو قوي مثال دی.
+
+Step 132/284
+>> Pashto - Shona
+	Uyu muenzaniso wakasimba wevanhu.
+
+Step 133/284
+>> Shona - Hausa
+	Wannan misali ne mai karfi na dabi'ar mutum.
+
+Step 134/284
+>> Hausa - Urdu
+	یہ انسانی فطرت کی ایک طاقتور مثال ہے۔
+
+Step 135/284
+>> Urdu - Czech
+	Je to mocný příklad lidské povahy.
+
+Step 136/284
+>> Czech - Japanese
+	それは人間性の強力な例です。
+
+Step 137/284
+>> Japanese - Polish
+	To potężny przykład ludzkości.
+
+Step 138/284
+>> Polish - Latvian
+	Šis ir spēcīgs cilvēces piemērs.
+
+Step 139/284
+>> Latvian - Korean
+	이것은 인류의 강력한 예입니다.
+
+Step 140/284
+>> Korean - Maori
+	Koinei te tauira tino kaha o te tangata.
+
+Step 141/284
+>> Maori - Finnish
+	Tämä on tehokkain esimerkki ihmiskunnasta.
+
+Step 142/284
+>> Finnish - Slovak
+	Toto je najmocnejší príklad ľudstva.
+
+Step 143/284
+>> Slovak - Finnish
+	Tämä on tehokkain esimerkki ihmiskunnasta.
+
+Step 144/284
+>> Finnish - Maori
+	Koinei te tauira tino kaha o te tangata.
+
+Step 145/284
+>> Maori - Korean
+	이것이 인류의 가장 강력한 예입니다.
+
+Step 146/284
+>> Korean - Latvian
+	Šis ir visspēcīgākais cilvēces piemērs.
+
+Step 147/284
+>> Latvian - Polish
+	To najpotężniejszy przykład ludzkości.
+
+Step 148/284
+>> Polish - Japanese
+	これは人類の最も強力な例です。
+
+Step 149/284
+>> Japanese - Czech
+	Toto je nejmocnější příklad lidstva.
+
+Step 150/284
+>> Czech - Urdu
+	یہ انسانیت کی سب سے طاقتور مثال ہے۔
+
+Step 151/284
+>> Urdu - Hausa
+	Misalin da yafi karfin dan Adam.
+
+Step 152/284
+>> Hausa - Shona
+	Muenzaniso wakasarudzika.
+
+Step 153/284
+>> Shona - Pashto
+	یو مثال ځانګړی دی.
+
+Step 154/284
+>> Pashto - Italian
+	Un esempio è unico.
+
+Step 155/284
+>> Italian - Indonesian
+	Contohnya unik.
+
+Step 156/284
+>> Indonesian - Zulu
+	Isibonelo sihlukile.
+
+Step 157/284
+>> Zulu - Greek
+	Το παράδειγμα είναι διαφορετικό.
+
+Step 158/284
+>> Greek - Croatian
+	Primjer je drugačiji.
+
+Step 159/284
+>> Croatian - Persian
+	مثال متفاوت است.
+
+Step 160/284
+>> Persian - Dutch
+	Het voorbeeld is anders.
+
+Step 161/284
+>> Dutch - Albanian
+	Shembulli është i ndryshëm.
+
+Step 162/284
+>> Albanian - Portuguese
+	O exemplo é diferente.
+
+Step 163/284
+>> Portuguese - Bosnian
+	Primjer je drugačiji.
+
+Step 164/284
+>> Bosnian - Malay
+	Contohnya berbeza.
+
+Step 165/284
+>> Malay - Filipino
+	Iba ang halimbawa.
+
+Step 166/284
+>> Filipino - Hebrew
+	הדוגמא שונה.
+
+Step 167/284
+>> Hebrew - German
+	Das Beispiel ist anders.
+
+Step 168/284
+>> German - Russian
+	Пример другой.
+
+Step 169/284
+>> Russian - Chinese (Traditional)
+	一個例子是不同的。
+
+Step 170/284
+>> Chinese (Traditional) - Nepali
+	एउटा उदाहरण फरक छ।
+
+Step 171/284
+>> Nepali - English
+	An example is different.
+
+Step 172/284
+>> English - Burmese
+	ဥပမာတစ်ခုကွဲပြားခြားနားသည်။
+
+Step 173/284
+>> Burmese - Vietnamese
+	Ví dụ, một khác nhau.
+
+Step 174/284
+>> Vietnamese - Bulgarian
+	Например различен.
+
+Step 175/284
+>> Bulgarian - Swahili
+	Kwa mfano, tofauti.
+
+Step 176/284
+>> Swahili - Kurdish
+	Mînakî, cûdahî.
+
+Step 177/284
+>> Kurdish - Hungarian
+	Pénz, különbség.
+
+Step 178/284
+>> Hungarian - Thai
+	เงินความแตกต่าง
+
+Step 179/284
+>> Thai - Chichewa
+	Kusiyanitsa ndalama
+
+Step 180/284
+>> Chichewa - Lao
+	ຄ່າໃຊ້ຈ່າຍແຕກຕ່າງກັນ
+
+Step 181/284
+>> Lao - Bengali
+	ব্যয় আলাদা হয়
+
+Step 182/284
+>> Bengali - Samoan
+	E ese le tau
+
+Step 183/284
+>> Samoan - Armenian
+	Եղանակը տարբեր է
+
+Step 184/284
+>> Armenian - Kazakh
+	Ауа-райы басқа
+
+Step 185/284
+>> Kazakh - Arabic
+	الطقس الآخر
+
+Step 186/284
+>> Arabic - Malagasy
+	Hafa ny andro
+
+Step 187/284
+>> Malagasy - Serbian
+	Дан је другачији
+
+Step 188/284
+>> Serbian - Romanian
+	Ziua este alta
+
+Step 189/284
+>> Romanian - Hindi
+	दिन अलग है
+
+Step 190/284
+>> Hindi - Estonian
+	Päev on erinev
+
+Step 191/284
+>> Estonian - Icelandic
+	Dagurinn er annar
+
+Step 192/284
+>> Icelandic - Turkish
+	Gün farklı
+
+Step 193/284
+>> Turkish - Irish
+	Tá an lá difriúil
+
+Step 194/284
+>> Irish - Lithuanian
+	Diena kitokia
+
+Step 195/284
+>> Lithuanian - Danish
+	Dag er anderledes
+
+Step 196/284
+>> Danish - Slovenian
+	Dan je drugačen
+
+Step 197/284
+>> Slovenian - Swedish
+	Dagen är annorlunda
+
+Step 198/284
+>> Swedish - Luxembourgish
+	Den Dag ass anescht
+
+Step 199/284
+>> Luxembourgish - Macedonian
+	Денот е различен
+
+Step 200/284
+>> Macedonian - Maltese
+	Il-ġurnata hija differenti
+
+Step 201/284
+>> Maltese - Georgian
+	დღეს არის სხვადასხვა
+
+Step 202/284
+>> Georgian - Ukrainian
+	Сьогодні по-іншому
+
+Step 203/284
+>> Ukrainian - Amharic
+	ዛሬ የተለየ ነው ፡፡
+
+Step 204/284
+>> Amharic - Catalan
+	Avui és diferent.
+
+Step 205/284
+>> Catalan - Haitian Creole
+	Jodi a se diferan.
+
+Step 206/284
+>> Haitian Creole - Norwegian
+	I dag er annerledes.
+
+Step 207/284
+>> Norwegian - French
+	Aujourd'hui est différent.
+
+Step 208/284
+>> French - Sinhala
+	අද වෙනස් ය.
+
+Step 209/284
+>> Sinhala - Uzbek
+	Bugun boshqacha.
+
+Step 210/284
+>> Uzbek - Spanish
+	Hoy es diferente.
+
+Step 211/284
+>> Spanish - Mongolian
+	Өнөөдөр бол өөр.
+
+Step 212/284
+>> Mongolian - Chinese (Simplified)
+	今天不一样了。
+
+Step 213/284
+>> Chinese (Simplified) - Bosnian
+	Danas je drugačije.
+
+Step 214/284
+>> Bosnian - Urdu
+	آج کا دن مختلف ہے۔
+
+Step 215/284
+>> Urdu - Portuguese
+	Hoje é um dia diferente.
+
+Step 216/284
+>> Portuguese - Icelandic
+	Í dag er annar dagur.
+
+Step 217/284
+>> Icelandic - Japanese
+	今日はまた別の日です。
+
+Step 218/284
+>> Japanese - Thai
+	วันนี้เป็นวันอื่น
+
+Step 219/284
+>> Thai - Georgian
+	დღეს სხვა დღეა
+
+Step 220/284
+>> Georgian - Swedish
+	Idag är en annan dag
+
+Step 221/284
+>> Swedish - Slovak
+	Dnes je iný deň
+
+Step 222/284
+>> Slovak - Kurdish
+	Isro rojek din e
+
+Step 223/284
+>> Kurdish - Amharic
+	ኢሮ ሌላ ቀን ነው ፡፡
+
+Step 224/284
+>> Amharic - Mongolian
+	Евро бол өөр өдөр.
+
+Step 225/284
+>> Mongolian - Malagasy
+	Ny euro dia andro iray hafa.
+
+Step 226/284
+>> Malagasy - Nepali
+	यूरो अर्को दिन हो।
+
+Step 227/284
+>> Nepali - Korean
+	유로는 또 다른 날입니다.
+
+Step 228/284
+>> Korean - Hungarian
+	Az euró újabb nap.
+
+Step 229/284
+>> Hungarian - Russian
+	Евро это еще один день.
+
+Step 230/284
+>> Russian - Luxembourgish
+	Euro ass en aneren Dag.
+
+Step 231/284
+>> Luxembourgish - Bengali
+	ইউরো অন্য দিন।
+
+Step 232/284
+>> Bengali - Albanian
+	Euro ditën tjetër.
+
+Step 233/284
+>> Albanian - Maori
+	Euro a te ra e whai ake nei.
+
+Step 234/284
+>> Maori - Bulgarian
+	Евро на следващия ден.
+
+Step 235/284
+>> Bulgarian - Shona
+	Euro zuva rinotevera.
+
+Step 236/284
+>> Shona - Swahili
+	Euro kesho.
+
+Step 237/284
+>> Swahili - Italian
+	Euro domani.
+
+Step 238/284
+>> Italian - Croatian
+	Euro sutra.
+
+Step 239/284
+>> Croatian - Persian
+	فردا یورو
+
+Step 240/284
+>> Persian - Burmese
+	မနက်ဖြန်ယူရို
+
+Step 241/284
+>> Burmese - Turkish
+	yarın Euro
+
+Step 242/284
+>> Turkish - Lithuanian
+	Rytoj euras
+
+Step 243/284
+>> Lithuanian - Estonian
+	Homme euro
+
+Step 244/284
+>> Estonian - Macedonian
+	Утре еврото
+
+Step 245/284
+>> Macedonian - Maltese
+	Għada l-ewro
+
+Step 246/284
+>> Maltese - Pashto
+	سبا د یورو
+
+Step 247/284
+>> Pashto - German
+	Der Euro morgen
+
+Step 248/284
+>> German - Samoan
+	Le taeao a taeao
+
+Step 249/284
+>> Samoan - Armenian
+	Վաղը լույս վաղը
+
+Step 250/284
+>> Armenian - Czech
+	Zítra ráno zítra
+
+Step 251/284
+>> Czech - Chichewa
+	Mawa mawa
+
+Step 252/284
+>> Chichewa - Spanish
+	Mañana mañana
+
+Step 253/284
+>> Spanish - Irish
+	Amárach amárach
+
+Step 254/284
+>> Irish - Uzbek
+	Ertaga ertaga
+
+Step 255/284
+>> Uzbek - Dutch
+	Morgen is morgen
+
+Step 256/284
+>> Dutch - Vietnamese
+	Ngày mai là ngày mai
+
+Step 257/284
+>> Vietnamese - Haitian Creole
+	Denmen se demen
+
+Step 258/284
+>> Haitian Creole - Chinese (Simplified)
+	明天就是明天
+
+Step 259/284
+>> Chinese (Simplified) - Catalan
+	Demà és demà
+
+Step 260/284
+>> Catalan - Kazakh
+	Ертең - ертең
+
+Step 261/284
+>> Kazakh - Hausa
+	Gobe gobe
+
+Step 262/284
+>> Hausa - Romanian
+	Mâine dimineață
+
+Step 263/284
+>> Romanian - Arabic
+	صباح الغد
+
+Step 264/284
+>> Arabic - Slovenian
+	Jutri zjutraj
+
+Step 265/284
+>> Slovenian - Danish
+	I morgen morgen
+
+Step 266/284
+>> Danish - Lao
+	ມື້ອື່ນເຊົ້າ
+
+Step 267/284
+>> Lao - Hindi
+	कल सुबह
+
+Step 268/284
+>> Hindi - Finnish
+	Huomenna aamulla
+
+Step 269/284
+>> Finnish - Ukrainian
+	Завтра вранці
+
+Step 270/284
+>> Ukrainian - Malay
+	Besok pagi
+
+Step 271/284
+>> Malay - Zulu
+	Kusasa ekuseni
+
+Step 272/284
+>> Zulu - French
+	Demain matin
+
+Step 273/284
+>> French - Norwegian
+	I morgen
+
+Step 274/284
+>> Norwegian - Hebrew
+	מחר
+
+Step 275/284
+>> Hebrew - Indonesian
+	Besok
+
+Step 276/284
+>> Indonesian - Latvian
+	Rīt
+
+Step 277/284
+>> Latvian - Sinhala
+	හෙට
+
+Step 278/284
+>> Sinhala - Polish
+	jutro
+
+Step 279/284
+>> Polish - Serbian
+	сутра
+
+Step 280/284
+>> Serbian - English
+	tomorrow
+
+Step 281/284
+>> English - Greek
+	αύριο
+
+Step 282/284
+>> Greek - Filipino
+	bukas
+
+Step 283/284
+>> Filipino - Chinese (Traditional)
+	明天
+
+Step 284/284
+>> Chinese (Traditional) - Portuguese
+	Amanhã
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Amanhã

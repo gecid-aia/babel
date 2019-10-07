@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - ru - pt - hi - ru - hi - ku - en - ru - zh-TW - pt - fi - zh-TW - ru - hi - ru - ku - fi - ku - zh-TW - en - ku - ru - en - hi - fi - en - ru - hi - fi - hi - ku - en - pt - zh-TW - ru - pt - hi - en - ru - ku - pt - zh-TW - fi - hi - ru - fi - hi - zh-TW - en - pt - zh-TW - en - ru - ku - ru - pt - fi - en - zh-TW - ru - ku - zh-TW - en - pt - ku - en - ku - pt - fi - zh-TW - ku - fi - ku - ru - pt - ru - hi - pt - ru - pt - en - hi - ku - hi - ku - fi - hi - en - ru - hi - fi - hi - zh-TW - fi - hi - ru - zh-TW - en - hi - fi - ru - zh-TW - en - fi - pt - fi - hi - ku - ru - ku - en - fi - ku - en - ru - pt - hi - pt - zh-TW - ku - en - pt - en - pt - zh-TW - fi - ku - fi - ru - fi - en - ku - hi - pt - hi - en - hi - ku - zh-TW - en - pt.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Chinese (Traditional)
+	對於他來說，每次閱讀任何文本都將始終為該文本提供新的大小調整和理解。隱喻地講，他站在《赫拉克利特斯河沐浴者》之前，由於其路線在不斷變化，因此不可能兩次輸入。
+
+Step 2/284
+>> Chinese (Traditional) - Russian
+	Для него, каждый раз, когда вы читаете любой текст, вы всегда будете обеспечивать новое изменение размера и понимания текста. Образно говоря, он стоял перед купальщиком реки Гераклит, и поскольку его маршрут постоянно меняется, невозможно войти в него дважды.
+
+Step 3/284
+>> Russian - Portuguese
+	Para ele, toda vez que você ler um texto, sempre fornecerá uma nova alteração no tamanho e na compreensão do texto. Figurativamente falando, ele estava em frente ao banhista do rio Heráclito e, como sua rota está constantemente mudando, é impossível entrar duas vezes.
+
+Step 4/284
+>> Portuguese - Hindi
+	उसके लिए, हर बार जब आप एक पाठ पढ़ते हैं, तो यह हमेशा पाठ के आकार और समझ में एक नया बदलाव प्रदान करेगा। बोलचाल की भाषा में, वह हेराक्लिटस नदी का सामना कर रहा था और, जैसा कि उसका मार्ग लगातार बदल रहा है, दो बार प्रवेश करना असंभव है।
+
+Step 5/284
+>> Hindi - Russian
+	Для этого каждый раз, когда вы читаете текст, он всегда будет обеспечивать новое изменение в размере и понимании текста. В разговорной речи он столкнулся с рекой Гераклит, и, поскольку его путь постоянно меняется, невозможно войти дважды.
+
+Step 6/284
+>> Russian - Hindi
+	ऐसा करने के लिए, हर बार जब आप एक पाठ पढ़ते हैं, तो यह हमेशा पाठ के आकार और समझ में एक नया परिवर्तन प्रदान करेगा। बोलचाल की भाषा में, उन्होंने हेराक्लाइटस नदी का सामना किया, और, चूंकि उनका मार्ग लगातार बदल रहा है, इसलिए दो बार प्रवेश करना असंभव है।
+
+Step 7/284
+>> Hindi - Kurdish
+	Ji bo vê kirinê, her gava ku hûn nivîsarek bixwînin, ew timî guherînek nû di şêweyê û têgihiştina nivîsê de peyda dike. Ji aliyê kolektîf ve, wî rû çemê Heraclitus, û, ji ber ku riya wî bi domdarî diguhere, ne gengaz e ku têkeve du caran.
+
+Step 8/284
+>> Kurdish - English
+	To do this, every time you read a text, there is always a new change in the style and understanding of the text. Collectively, he faced the river Heraclitus, and, because his path was constantly changing, it was impossible to enter twice.
+
+Step 9/284
+>> English - Russian
+	Для этого каждый раз, когда вы читаете текст, всегда происходит новое изменение стиля и понимания текста. Все вместе он столкнулся с рекой Гераклит, и, поскольку его путь постоянно менялся, было невозможно войти дважды.
+
+Step 10/284
+>> Russian - Chinese (Traditional)
+	為此，每次閱讀文本時，文本的樣式和理解總是會有新的變化。在一起，他遇到了赫拉克利特斯河，由於他的道路不斷變化，所以不可能兩次進入。
+
+Step 11/284
+>> Chinese (Traditional) - Portuguese
+	Por esse motivo, sempre que você ler um texto, sempre haverá novas alterações no estilo e na compreensão do texto. Juntos, ele conheceu o rio Heráclito e, como seu caminho muda constantemente, é impossível entrar duas vezes.
+
+Step 12/284
+>> Portuguese - Finnish
+	Tästä syystä tekstin tyyliin ja ymmärrykseen tulee aina uusia muutoksia aina, kun luet tekstiä. Yhdessä hän tapasi Heraclitus-joen ja koska hänen polunsa muuttuu jatkuvasti, on mahdotonta päästä kahdesti.
+
+Step 13/284
+>> Finnish - Chinese (Traditional)
+	因此，每次閱讀文本時，樣式和對文本的理解總是會有新的變化。他在一起遇到了赫拉克利特斯河，由於他的道路不斷變化，因此不可能兩次獲得勝利。
+
+Step 14/284
+>> Chinese (Traditional) - Russian
+	Поэтому каждый раз, когда вы читаете текст, стиль и понимание текста всегда будут меняться. Он встретил реку Гераклита вместе, и поскольку его путь постоянно меняется, невозможно выиграть дважды.
+
+Step 15/284
+>> Russian - Hindi
+	इसलिए, हर बार जब आप एक पाठ पढ़ते हैं, तो पाठ की शैली और समझ हमेशा बदल जाएगी। वह हेराक्लाइटस नदी से एक साथ मिला, और चूंकि उसका मार्ग लगातार बदल रहा है, इसलिए दो बार जीतना असंभव है।
+
+Step 16/284
+>> Hindi - Russian
+	Поэтому каждый раз, когда вы читаете текст, стиль и понимание урока всегда будут меняться. Он встретил реку Гераклита вместе, и поскольку его путь постоянно меняется, невозможно выиграть дважды.
+
+Step 17/284
+>> Russian - Kurdish
+	Ji ber vê yekê, her gava ku hûn nivîsarek bixwînin, şêweyê û têgihîştina dersê her gav diguhezin. Wî li çemê Heraclitus li hev civiya, û ji ber ku riya wî bi domdarî guherî ye, ne gengaz e ku meriv du caran qezenc bike.
+
+Step 18/284
+>> Kurdish - Finnish
+	Siksi joka kerta kun luet tekstiä, oppitunnin tyyli ja ymmärrys muuttuvat. Hän tapasi Heraclitus-joessa, ja koska hänen käyttäytymisensä muuttuu jatkuvasti, on mahdotonta voittaa kahdesti.
+
+Step 19/284
+>> Finnish - Kurdish
+	Ji ber vê yekê, her gava ku hûn nivîsê dixwînin, şêwaz û têgihîştina dersê dê biguheze. Ew li Riveremê Heraclitus civiya, û ji ber ku behra wî bi domdarî guherîn e, ne gengaz e ku du caran qezenc bike.
+
+Step 20/284
+>> Kurdish - Chinese (Traditional)
+	因此，當您閱讀課文時，課程的風格和理解將會改變。他在河中遇見了赫拉克利特（Heraclitus），並且由於他的行為不斷變化，因此不可能兩次獲勝。
+
+Step 21/284
+>> Chinese (Traditional) - English
+	Therefore, the style and understanding of the course will change as you read the text. He met Heraclitus in the river, and because his behavior is constantly changing, it is impossible to win twice.
+
+Step 22/284
+>> English - Kurdish
+	Ji ber vê yekê, gava ku hûn nivîsê dixwînin, dê şêwaz û têgihiştina qursê biguheze. Wî li çemê Heraclitus re hevdîtin kir, û ji ber ku behreya wî bi domdarî diguhere, ne gengaz e ku meriv du caran qezenc bike.
+
+Step 23/284
+>> Kurdish - Russian
+	Поэтому, когда вы читаете текст, стиль курса и его понимание изменятся. Он встретил Гераклита в джунглях, и, поскольку его поведение постоянно меняется, невозможно выиграть дважды.
+
+Step 24/284
+>> Russian - English
+	Therefore, when you read the text, the style of the course and its understanding will change. He met Heraclitus in the jungle, and since his behavior is constantly changing, it is impossible to win twice.
+
+Step 25/284
+>> English - Hindi
+	इसलिए, जब आप पाठ पढ़ते हैं, तो पाठ्यक्रम की शैली और उसकी समझ बदल जाएगी। वह जंगल में हेराक्लिटस से मिला, और चूंकि उसका व्यवहार लगातार बदल रहा है, इसलिए दो बार जीतना असंभव है।
+
+Step 26/284
+>> Hindi - Finnish
+	Siksi kun luet oppituntia, kurssin tyyli ja ymmärrys muuttuvat. Hän tapaa Heraclitusin metsässä, ja koska hänen käyttäytymisensä muuttuu jatkuvasti, on mahdotonta voittaa kahdesti.
+
+Step 27/284
+>> Finnish - English
+	Therefore, as you read the lesson, the style and understanding of the course will change. He meets Heraclitus in the woods, and since his behavior is constantly changing, it is impossible to win twice.
+
+Step 28/284
+>> English - Russian
+	Поэтому, когда вы читаете урок, стиль и понимание курса изменятся. Он встречает Гераклита в лесу, и так как его поведение постоянно меняется, невозможно выиграть дважды.
+
+Step 29/284
+>> Russian - Hindi
+	इसलिए जब आप पाठ पढ़ते हैं, तो पाठ्यक्रम की शैली और समझ बदल जाएगी। वह जंगल में हेराक्लिटस से मिलता है, और चूंकि उसका व्यवहार लगातार बदल रहा है, इसलिए दो बार जीतना असंभव है।
+
+Step 30/284
+>> Hindi - Finnish
+	Joten kun luet oppituntia, kurssin tyyli ja ymmärrys muuttuvat. Hän tapaa Heraclitusin metsässä, ja koska hänen käyttäytymisensä muuttuu jatkuvasti, on mahdotonta voittaa kahdesti.
+
+Step 31/284
+>> Finnish - Hindi
+	इसलिए, जैसा कि आप पाठ को पढ़ते हैं, पाठ्यक्रम की शैली और समझ बदल जाएगी। वह जंगल में हेराक्लाइटस से मिलता है, और चूंकि उसका व्यवहार लगातार बदल रहा है, इसलिए दो बार जीतना असंभव है।
+
+Step 32/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, her ku hûn dersê dixwînin, dê şêwaz û têgihiştina qursê were guheztin. Ew di daristanê re Heraclitus re hevdîtin dike, û ji ber ku tevgera wî bi domdarî diguhere, ne gengaz e ku meriv du caran qezenc bike.
+
+Step 33/284
+>> Kurdish - English
+	Therefore, the course style and understanding will change as you study the lesson. He meets Heraclitus in the forest, and since his behavior is constantly changing, it is impossible to win twice.
+
+Step 34/284
+>> English - Portuguese
+	Portanto, o estilo e a compreensão do curso mudarão à medida que você estuda a lição. Ele conhece Heráclito na floresta e, como seu comportamento muda constantemente, é impossível vencer duas vezes.
+
+Step 35/284
+>> Portuguese - Chinese (Traditional)
+	因此，學習課程時，課程的風格和理解將發生變化。他在樹林裡遇到赫拉克利特斯，並且隨著他的行為不斷變化，不可能兩次獲勝。
+
+Step 36/284
+>> Chinese (Traditional) - Russian
+	Поэтому стиль и понимание курса будут меняться по мере его изучения. Он встретил Гераклита в лесу, и, поскольку его поведение изменилось, было невозможно выиграть дважды.
+
+Step 37/284
+>> Russian - Portuguese
+	Portanto, o estilo e a compreensão do curso mudarão conforme você o estuda. Ele conheceu Heráclito na floresta e, como seu comportamento mudou, era impossível vencer duas vezes.
+
+Step 38/284
+>> Portuguese - Hindi
+	इसलिए, जैसे ही आप इसका अध्ययन करेंगे, पाठ्यक्रम की शैली और समझ बदल जाएगी। वह जंगल में हेराक्लिटस से मिला और, जैसा कि उसका व्यवहार बदल गया, दो बार जीतना असंभव था।
+
+Step 39/284
+>> Hindi - English
+	Therefore, the style and understanding of the curriculum will change as you study it. He met Heraclitus in the woods and, as his behavior changed, it was impossible to win twice.
+
+Step 40/284
+>> English - Russian
+	Поэтому стиль и понимание учебной программы будут меняться по мере ее изучения. Он встретил Гераклита в лесу и, поскольку его поведение изменилось, было невозможно выиграть дважды.
+
+Step 41/284
+>> Russian - Kurdish
+	Ji ber vê yekê, şêweyê xwendinê û şêwaza xwendinê dê biguheze. Wî li Heraklitus li daristanê civiya û, ji ber ku behra wî guherî, ne gengaz bû ku du caran bi ser bikeve.
+
+Step 42/284
+>> Kurdish - Portuguese
+	Portanto, o estilo de leitura e o estilo de leitura serão alterados. Ele conheceu Heráclito na floresta e, como seu comportamento mudou, era impossível ter sucesso duas vezes.
+
+Step 43/284
+>> Portuguese - Chinese (Traditional)
+	因此，閱讀風格和閱讀風格將會改變。他在樹林裡遇到了赫拉克利特（Heraclitus），並且隨著他的行為改變，不可能兩次成功。
+
+Step 44/284
+>> Chinese (Traditional) - Finnish
+	Siksi lukutapa ja lukutapa muuttuvat. Hän tapasi Heraclituksen metsässä, ja koska hänen käyttäytymisensä muuttui, oli mahdotonta menestyä kahdesti.
+
+Step 45/284
+>> Finnish - Hindi
+	इसलिए, आपके पढ़ने और पढ़ने का तरीका बदल जाएगा। वह जंगल में हेराक्लिटस से मिला, और जैसा कि उसका व्यवहार बदल गया, दो बार सफल होना असंभव था।
+
+Step 46/284
+>> Hindi - Russian
+	Поэтому ваш способ чтения и чтения изменится. Он встретил Гераклита в пустыне, и, поскольку его поведение изменилось, было невозможно добиться успеха дважды.
+
+Step 47/284
+>> Russian - Finnish
+	Siksi lukemisen ja lukemisen tapa muuttuu. Hän tapasi Heraclitusin autiomaassa, ja koska hänen käyttäytymisensä muuttui, oli mahdotonta menestyä kahdesti.
+
+Step 48/284
+>> Finnish - Hindi
+	इसलिए, पढ़ने और पढ़ने का तरीका बदल जाता है। वह रेगिस्तान में हेराक्लिटस से मिला, और क्योंकि उसका व्यवहार बदल गया, दो बार सफल होना असंभव था।
+
+Step 49/284
+>> Hindi - Chinese (Traditional)
+	因此，閱讀方式和閱讀方式發生了變化。他在沙漠中遇到了赫拉克利特（Heraclitus），並且由於他的行為發生了變化，因此不可能兩次成功。
+
+Step 50/284
+>> Chinese (Traditional) - English
+	Therefore, the way of reading and reading has changed. He met Heraclitus in the desert, and because his behavior changed, it was impossible to succeed twice.
+
+Step 51/284
+>> English - Portuguese
+	Portanto, a maneira de ler e ler mudou. Ele conheceu Heráclito no deserto e, como seu comportamento mudou, era impossível ter sucesso duas vezes.
+
+Step 52/284
+>> Portuguese - Chinese (Traditional)
+	因此，您閱讀和閱讀的方式已經改變。他在沙漠中遇到了赫拉克利特（Heraclitus），隨著他的行為發生變化，不可能兩次成功。
+
+Step 53/284
+>> Chinese (Traditional) - English
+	Therefore, the way you read and read has changed. He met Heraclitus in the desert, and as his behavior changed, it was impossible to succeed twice.
+
+Step 54/284
+>> English - Russian
+	Поэтому способ чтения и чтения изменился. Он встретил Гераклита в пустыне, и, поскольку его поведение изменилось, было невозможно добиться успеха дважды.
+
+Step 55/284
+>> Russian - Kurdish
+	Ji ber vê yekê, awayê xwendin û xwendinê guheriye. Wî li çolê bi Heraclitus re hevdîtin kir, û ji ber ku tevgera wî guherî, ne gengaz bû ku du caran biserkeve.
+
+Step 56/284
+>> Kurdish - Russian
+	Поэтому способ чтения и чтения изменился. Он встретил Гераклита в пустыне, и поскольку его поведение изменилось, невозможно было остановиться дважды.
+
+Step 57/284
+>> Russian - Portuguese
+	Portanto, a maneira de ler e ler mudou. Ele conheceu Heráclito no deserto e, como seu comportamento mudou, era impossível parar duas vezes.
+
+Step 58/284
+>> Portuguese - Finnish
+	Siksi tapa lukea ja lukea on muuttunut. Hän tapasi Heraclitusin autiomaassa ja hänen käyttäytymisensä muuttuessa oli mahdotonta pysähtyä kahdesti.
+
+Step 59/284
+>> Finnish - English
+	That's why the way we read and read has changed. He met Heraclitus in the desert and it was impossible to stop twice as his behavior changed.
+
+Step 60/284
+>> English - Chinese (Traditional)
+	這就是為什麼我們的閱讀方式已經改變。他在沙漠中遇到了赫拉克利特（Heraclitus），隨著他的行為發生變化，他不可能兩次停下來。
+
+Step 61/284
+>> Chinese (Traditional) - Russian
+	Вот почему наш стиль чтения изменился. Он встретил Гераклита в пустыне, и, поскольку его поведение изменилось, он не мог остановиться дважды.
+
+Step 62/284
+>> Russian - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guheriye. Ew li çolê bi Heraclitus re hevdîtin kir, û ji ber ku behra wî guherî, wî du carî nekarî rawestîne.
+
+Step 63/284
+>> Kurdish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在曠野遇見了赫拉克利特斯，由於他的行為發生了變化，他無法停下來兩次。
+
+Step 64/284
+>> Chinese (Traditional) - English
+	Therefore, our reading style has changed. He met Heraclitus in the wilderness and he could not stop twice because his behavior changed.
+
+Step 65/284
+>> English - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e não conseguiu parar duas vezes porque seu comportamento mudou.
+
+Step 66/284
+>> Portuguese - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guhertin. Ew li çolê bi Heraclitus re hevdîtin kir û ji ber ku behreya wî guherî du carî nekariye bisekine.
+
+Step 67/284
+>> Kurdish - English
+	Therefore, our reading style has changed. He met Heraclitus in the wilderness and could not stand twice since his behavior changed.
+
+Step 68/284
+>> English - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li çolê bi Heraclitus re hevdîtin kir û ji ber ku tevgera wî guherî du caran nikaribû bisekinin.
+
+Step 69/284
+>> Kurdish - Portuguese
+	Então, nosso estilo de leitura mudou. Ele conhecera Heráclito no deserto e não suportava duas vezes por causa de seu movimento alterado.
+
+Step 70/284
+>> Portuguese - Finnish
+	Joten lukutyyliämme on muuttunut. Hän oli tavannut Heraclituksen autiomaassa eikä voinut kestää sitä kahdesti muuttuneen liikkeensa takia.
+
+Step 71/284
+>> Finnish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在沙漠中遇見了赫拉克利特（Heraclitus），由於兩次變化的舉動而無法承受。
+
+Step 72/284
+>> Chinese (Traditional) - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li çolê bi Heraclitus re hevdîtin kir û ji ber ku du guhartin çêdibe, ew nekare wê peyda bike.
+
+Step 73/284
+>> Kurdish - Finnish
+	Joten, lukutyyliämme on muuttunut. Hän tapasi Heraclituksen erämaassa eikä löytänyt häntä kahden muutoksen takia.
+
+Step 74/284
+>> Finnish - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guhertin. Ew li çolê bi Heraclitus re hevdîtin kir û ji ber du guhartinan nehat dîtin.
+
+Step 75/284
+>> Kurdish - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в пустыне и не был найден из-за двух изменений.
+
+Step 76/284
+>> Russian - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e não foi encontrado devido a duas mudanças.
+
+Step 77/284
+>> Portuguese - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в пустыне и не был найден из-за двух изменений.
+
+Step 78/284
+>> Russian - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह हेराक्लिटस से रेगिस्तान में मिला और दो परिवर्तनों के कारण उसे नहीं मिला।
+
+Step 79/284
+>> Hindi - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e não o conheceu devido a duas mudanças.
+
+Step 80/284
+>> Portuguese - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в пустыне и не знал его из-за двух перемен.
+
+Step 81/284
+>> Russian - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e não o conhecia por causa de duas mudanças.
+
+Step 82/284
+>> Portuguese - English
+	Therefore, our reading style has changed. He met Heraclitus in the desert and did not know him because of two changes.
+
+Step 83/284
+>> English - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह हेराक्लिटस से रेगिस्तान में मिला और दो परिवर्तनों के कारण उसे नहीं जानता था।
+
+Step 84/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Wî li çolê bi Heraclitus re hevdîtin kir û ji ber du guhartinan wî nas nekir.
+
+Step 85/284
+>> Kurdish - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लाइटस से मिला और दो बदलावों के कारण वह उसे नहीं जानता था।
+
+Step 86/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Wî li Heraklitus li daristanê civiya û ji ber du guheztinê wî ew nas nedikir.
+
+Step 87/284
+>> Kurdish - Finnish
+	Joten, lukutyyliämme on muuttunut. Hän tapasi Heraclituksen metsässä, ja kahdesta syystä hän ei tuntenut häntä.
+
+Step 88/284
+>> Finnish - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला, और दो कारणों से वह उसे नहीं जानता था।
+
+Step 89/284
+>> Hindi - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest, and for two reasons he did not know her.
+
+Step 90/284
+>> English - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и по двум причинам не знал ее.
+
+Step 91/284
+>> Russian - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसे नहीं जानता था।
+
+Step 92/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclituksen metsässä eikä tuntenut häntä kahdesta syystä.
+
+Step 93/284
+>> Finnish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और उसे दो कारणों से नहीं जानता था।
+
+Step 94/284
+>> Hindi - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇到了赫拉克利特斯，不認識他有兩個原因。
+
+Step 95/284
+>> Chinese (Traditional) - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja oli kaksi syytä olla tuntematta häntä.
+
+Step 96/284
+>> Finnish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और उसे न जानने के दो कारण थे।
+
+Step 97/284
+>> Hindi - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и имел две причины не знать его.
+
+Step 98/284
+>> Russian - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇到赫拉克利特斯，有兩個不認識他的原因。
+
+Step 99/284
+>> Chinese (Traditional) - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and there were two reasons for not knowing him.
+
+Step 100/284
+>> English - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और उसे न जानने के दो कारण थे।
+
+Step 101/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclituksen metsässä ja hänellä oli kaksi syytä olla tuntematta häntä.
+
+Step 102/284
+>> Finnish - Russian
+	Вот почему наш стиль чтения изменился. Он встретил Гераклита в лесу и имел две причины не знать его.
+
+Step 103/284
+>> Russian - Chinese (Traditional)
+	這就是為什麼我們的閱讀風格發生了變化。他在森林裡遇到赫拉克利特斯，有兩個不認識他的原因。
+
+Step 104/284
+>> Chinese (Traditional) - English
+	This is why our reading style has changed. He met Heraclitus in the forest and there were two reasons for not knowing him.
+
+Step 105/284
+>> English - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja oli kaksi syytä olla tuntematta häntä.
+
+Step 106/284
+>> Finnish - Portuguese
+	É por isso que nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e tinha duas razões para não conhecê-lo.
+
+Step 107/284
+>> Portuguese - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclituksen metsässä ja hänellä oli kaksi syytä olla tapamatta häntä.
+
+Step 108/284
+>> Finnish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लाइटस से मिला और उसे न मारने के दो कारण थे।
+
+Step 109/284
+>> Hindi - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guheriye. Wî di nav daristanê de Heraclitus re hevdîtin kir û du sedem ne ku wî bikujin.
+
+Step 110/284
+>> Kurdish - Russian
+	Таким образом, наш стиль чтения изменился. Он встретил Гераклита в лесу, и было две причины убить его.
+
+Step 111/284
+>> Russian - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guhertin. Wî di nav daristanê de Heraclitus re hevdîtin kir, û du sedem hebûn ku wî bikujin.
+
+Step 112/284
+>> Kurdish - English
+	So our reading style has changed. He had met Heraclitus in the forest, and there were two reasons to kill him.
+
+Step 113/284
+>> English - Finnish
+	Joten lukutyyliämme on muuttunut. Hän oli tavannut Heraclitusin metsässä, ja tappamiseen oli kaksi syytä.
+
+Step 114/284
+>> Finnish - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guhertin. Wî di nav daristanê re Heraclitus de hevdîtin kiribû û du sedemên kuştinê hebûn.
+
+Step 115/284
+>> Kurdish - English
+	So our reading style has changed. He had met Heraclitus in the forest and there were two causes of death.
+
+Step 116/284
+>> English - Russian
+	Таким образом, наш стиль чтения изменился. Он встретил Гераклита в лесу, и было две причины смерти.
+
+Step 117/284
+>> Russian - Portuguese
+	Então, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e havia duas causas de morte.
+
+Step 118/284
+>> Portuguese - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और मौत के दो कारण थे।
+
+Step 119/284
+>> Hindi - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e teve duas causas de morte.
+
+Step 120/284
+>> Portuguese - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在沙漠中遇見了赫拉克利特斯，死於兩個原因。
+
+Step 121/284
+>> Chinese (Traditional) - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li çolê Heraclitus re hevdîtin kir û ji ber du sedeman mir.
+
+Step 122/284
+>> Kurdish - English
+	So, our reading style has changed. He met Heraclitus in the wilderness and died for two reasons.
+
+Step 123/284
+>> English - Portuguese
+	Então, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e morreu por duas razões.
+
+Step 124/284
+>> Portuguese - English
+	So our reading style has changed. He met Heraclitus in the desert and died for two reasons.
+
+Step 125/284
+>> English - Portuguese
+	Então, nosso estilo de leitura mudou. Ele conheceu Heráclito no deserto e morreu por duas razões.
+
+Step 126/284
+>> Portuguese - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在沙漠遇到赫拉克利特斯，死於兩個原因。
+
+Step 127/284
+>> Chinese (Traditional) - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin autiomaassa ja kuoli kahdesta syystä.
+
+Step 128/284
+>> Finnish - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guheriye. Ew li çolê Heraclitus re hevdîtin kir û ji ber du sedeman mir.
+
+Step 129/284
+>> Kurdish - Finnish
+	Joten lukutyyliämme on muuttunut. Hän tapasi Heraclituksen erämaassa ja kuoli kahdesta syystä.
+
+Step 130/284
+>> Finnish - Russian
+	Таким образом, наш стиль чтения изменился. Он встретил Гераклита в пустыне и умер по двум причинам.
+
+Step 131/284
+>> Russian - Finnish
+	Joten lukutyyliämme on muuttunut. Hän tapasi Heraclitusin autiomaassa ja kuoli kahdesta syystä.
+
+Step 132/284
+>> Finnish - English
+	So our reading style has changed. He met Heraclitus in the desert and died for two reasons.
+
+Step 133/284
+>> English - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guhertin. Ew li çolê Heraclitus re hevdîtin kir û ji ber du sedeman mir.
+
+Step 134/284
+>> Kurdish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लीटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 135/284
+>> Hindi - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 136/284
+>> Portuguese - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 137/284
+>> Hindi - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 138/284
+>> English - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 139/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 140/284
+>> Kurdish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 141/284
+>> Chinese (Traditional) - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 142/284
+>> English - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 143/284
+>> Portuguese - English
+	Therefore, our reading style has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 144/284
+>> English - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 145/284
+>> Chinese (Traditional) - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 146/284
+>> Kurdish - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 147/284
+>> Hindi - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 148/284
+>> English - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 149/284
+>> Hindi - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 150/284
+>> Portuguese - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 151/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 152/284
+>> Kurdish - English
+	So, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 153/284
+>> English - Finnish
+	Joten, lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 154/284
+>> Finnish - Russian
+	Итак, наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 155/284
+>> Russian - Finnish
+	Joten lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 156/284
+>> Finnish - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guhertin. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 157/284
+>> Kurdish - Finnish
+	Joten lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 158/284
+>> Finnish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 159/284
+>> Chinese (Traditional) - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 160/284
+>> Portuguese - English
+	Therefore, our reading style has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 161/284
+>> English - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 162/284
+>> Portuguese - English
+	Therefore, our reading style has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 163/284
+>> English - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 164/284
+>> Kurdish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 165/284
+>> Chinese (Traditional) - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 166/284
+>> Portuguese - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 167/284
+>> Hindi - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 168/284
+>> Portuguese - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 169/284
+>> Russian - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 170/284
+>> English - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 171/284
+>> Kurdish - Finnish
+	Joten, lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 172/284
+>> Finnish - English
+	So, our reading style has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 173/284
+>> English - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guhertin. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 174/284
+>> Kurdish - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 175/284
+>> Russian - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 176/284
+>> Kurdish - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 177/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 178/284
+>> Finnish - Portuguese
+	É por isso que nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 179/284
+>> Portuguese - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 180/284
+>> Finnish - English
+	That's why our reading style has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 181/284
+>> English - Chinese (Traditional)
+	這就是為什麼我們的閱讀風格發生了變化。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 182/284
+>> Chinese (Traditional) - Russian
+	Вот почему наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 183/284
+>> Russian - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 184/284
+>> Finnish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 185/284
+>> Hindi - English
+	Therefore our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 186/284
+>> English - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 187/284
+>> Chinese (Traditional) - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 188/284
+>> Russian - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 189/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 190/284
+>> Finnish - Chinese (Traditional)
+	這就是為什麼我們的閱讀風格發生了變化。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 191/284
+>> Chinese (Traditional) - Hindi
+	यही कारण है कि हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 192/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 193/284
+>> Finnish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 194/284
+>> Hindi - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 195/284
+>> Russian - English
+	Therefore, our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 196/284
+>> English - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 197/284
+>> Hindi - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 198/284
+>> Finnish - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guheriye. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 199/284
+>> Kurdish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 200/284
+>> Hindi - Kurdish
+	Ji ber vê yekê şêwaza xwendinê me guheriye. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 201/284
+>> Kurdish - Hindi
+	इसलिए हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 202/284
+>> Hindi - English
+	Therefore our reading style has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 203/284
+>> English - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 204/284
+>> Portuguese - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 205/284
+>> Russian - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 206/284
+>> Portuguese - Hindi
+	इसलिए, हमारी पढ़ने की शैली बदल गई है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 207/284
+>> Hindi - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 208/284
+>> Russian - Portuguese
+	Portanto, nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 209/284
+>> Portuguese - Russian
+	Поэтому наш стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 210/284
+>> Russian - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guherand. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 211/284
+>> Kurdish - Finnish
+	Joten, lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 212/284
+>> Finnish - Kurdish
+	Ji ber vê yekê, şêwaza xwendinê me guhertin. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 213/284
+>> Kurdish - Chinese (Traditional)
+	因此，我們的閱讀風格發生了變化。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 214/284
+>> Chinese (Traditional) - Finnish
+	Siksi lukutyyliämme on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 215/284
+>> Finnish - Portuguese
+	É por isso que nosso estilo de leitura mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 216/284
+>> Portuguese - Kurdish
+	Bi vê yekê şêwaza xwendinê ya me guheriye. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 217/284
+>> Kurdish - English
+	This has changed our reading style. He met Heraclitus in the forest and died for two reasons.
+
+Step 218/284
+>> English - Kurdish
+	Ev şêweya xwendina me guhertin. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 219/284
+>> Kurdish - Portuguese
+	Isso mudou nosso estilo de leitura. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 220/284
+>> Portuguese - English
+	This has changed our reading style. He met Heraclitus in the woods and died for two reasons.
+
+Step 221/284
+>> English - Chinese (Traditional)
+	這改變了我們的閱讀風格。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 222/284
+>> Chinese (Traditional) - Kurdish
+	Vê şêwaza xwendinê guherand. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 223/284
+>> Kurdish - Russian
+	Этот стиль чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 224/284
+>> Russian - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 225/284
+>> Chinese (Traditional) - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 226/284
+>> English - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 227/284
+>> Finnish - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 228/284
+>> Portuguese - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 229/284
+>> Russian - Kurdish
+	Ev awayê xwendinê guheriye. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 230/284
+>> Kurdish - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 231/284
+>> Russian - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 232/284
+>> English - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 233/284
+>> Chinese (Traditional) - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 234/284
+>> Portuguese - English
+	This way of reading has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 235/284
+>> English - Chinese (Traditional)
+	這種閱讀方式已經改變。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 236/284
+>> Chinese (Traditional) - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 237/284
+>> Hindi - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 238/284
+>> Finnish - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 239/284
+>> Russian - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 240/284
+>> Hindi - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 241/284
+>> Finnish - Chinese (Traditional)
+	這種閱讀方式已經改變。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 242/284
+>> Chinese (Traditional) - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 243/284
+>> Portuguese - Kurdish
+	Ev awayê xwendinê guheriye. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 244/284
+>> Kurdish - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 245/284
+>> Russian - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 246/284
+>> English - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 247/284
+>> Hindi - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 248/284
+>> Portuguese - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 249/284
+>> Russian - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 250/284
+>> Chinese (Traditional) - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 251/284
+>> Portuguese - English
+	This way of reading has changed. He met Heraclitus in the woods and died for two reasons.
+
+Step 252/284
+>> English - Kurdish
+	Ev awayê xwendinê guheriye. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 253/284
+>> Kurdish - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 254/284
+>> Hindi - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 255/284
+>> Finnish - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 256/284
+>> Hindi - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 257/284
+>> Russian - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 258/284
+>> English - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 259/284
+>> Finnish - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 260/284
+>> Hindi - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 261/284
+>> English - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 262/284
+>> Russian - Kurdish
+	Ev awayê xwendinê guheriye. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 263/284
+>> Kurdish - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 264/284
+>> English - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 265/284
+>> Chinese (Traditional) - Kurdish
+	Ev awayê xwendinê guheriye. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 266/284
+>> Kurdish - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 267/284
+>> Finnish - Kurdish
+	Ev awayê xwendinê guheriye. Wî di nav daristanê re Heraclitus civiya û ji ber du sedeman mir.
+
+Step 268/284
+>> Kurdish - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 269/284
+>> Russian - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 270/284
+>> Hindi - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 271/284
+>> Russian - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 272/284
+>> Chinese (Traditional) - Finnish
+	Tämä lukutapa on muuttunut. Hän tapasi Heraclitusin metsässä ja kuoli kahdesta syystä.
+
+Step 273/284
+>> Finnish - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 274/284
+>> Portuguese - Chinese (Traditional)
+	這種閱讀方式已經改變。他在樹林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 275/284
+>> Chinese (Traditional) - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 276/284
+>> Russian - English
+	This way of reading has changed. He met Heraclitus in the forest and died for two reasons.
+
+Step 277/284
+>> English - Kurdish
+	Ev awayê xwendinê guheriye. Ew li Heraklitus li daristanê civiya û ji ber du sedeman mir.
+
+Step 278/284
+>> Kurdish - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 279/284
+>> Hindi - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 280/284
+>> Russian - Hindi
+	पढ़ने का यह तरीका बदल गया है। वह जंगल में हेराक्लिटस से मिला और दो कारणों से उसकी मृत्यु हो गई।
+
+Step 281/284
+>> Hindi - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+Step 282/284
+>> Portuguese - Russian
+	Этот способ чтения изменился. Он встретил Гераклита в лесу и умер по двум причинам.
+
+Step 283/284
+>> Russian - Chinese (Traditional)
+	這種閱讀方式已經改變。他在森林裡遇見了赫拉克利特斯，死於兩個原因。
+
+Step 284/284
+>> Chinese (Traditional) - Portuguese
+	Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Essa maneira de ler mudou. Ele conheceu Heráclito na floresta e morreu por dois motivos.

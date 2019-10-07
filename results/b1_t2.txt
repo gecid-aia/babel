@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - tl - el - en - sr - pl - si - lv - id - he - no - fr - zu - ms - uk - fi - hi - lo - da - sl - ar - ro - ha - kk - ca - zh - ht - vi - nl - uz - ga - es - ny - cs - hy - sm - de - ps - mt - mk - et - lt - tr - my - fa - hr - it - sw - sn - bg - mi - sq - bn - lb - ru - hu - ko - ne - mg - mn - am - ku - sk - sv - ka - th - ja - is - pt - ur - bs - zh - mn - es - uz - si - fr - no - ht - ca - am - uk - ka - mt - mk - lb - sv - sl - da - lt - ga - tr - is - et - hi - ro - sr - mg - ar - kk - hy - sm - bn - lo - ny - th - hu - ku - sw - bg - vi - my - en - ne - zh-TW - ru - de - he - tl - ms - bs - pt - sq - nl - fa - hr - el - zu - id - it - ps - sn - ha - ur - cs - ja - pl - lv - ko - mi - fi - sk.
+Input text: Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Chinese (Traditional)
+	因此，就是大維齊爾大帝賈法爾（Djafar），按照哈里發的命令敲開了女士們的門，他不希望被承認。薩非亞打開了它；小提琴手注意到她很漂亮，她端著一支蠟燭，很好地扮演了自己的角色。我深深鞠躬，恭敬地說：“夫人，我們是穆蘇爾的三位商人，十天前抵達，他們帶著豐富的商品存放在可汗（10）中，我們在那裡住所。今天我們在這個城市的一位商人的住所裡，他邀請我們去拜訪他。他給我們吃了一頓美餐。由於葡萄酒使我們心情愉快，他派了一群舞者。那天晚上，音樂家們演奏，舞者跳舞，樂隊發出巨大的聲音，一輪經過那裡，命令他們打開。一些被捕了。對於我們來說，我們很高興並跳過了牆而得救。但是，這位vizier補充說，由於我們是外國人，並且有點被葡萄酒所壓倒了，我們害怕在離這裡很遠的汗之前，會再找一個巡邏隊，或者說巡邏隊。而且我們會毫無用處地去找它，因為門是關著的，直到明天，無論發生什麼事情，它都不會打開。因此，女士，她聽到了樂器和聲音，我們認為我們可能被允許毆打，乞求您庇護直到天亮。如果我們似乎值得參加您的娛樂活動，我們將盡我們最大的努力來回報我們造成的干擾；否則，至少要給予我們寬限期，讓我們在您的房間過夜。
+
+Step 2/284
+>> Chinese (Traditional) - Filipino
+	Samakatuwid, ito ay ang Great Vizier Djafar na kumatok sa mga pintuan ng mga kababaihan alinsunod sa mga utos ng caliphate.Hindi niya nais na kilalanin. Binuksan ito ni Sofia; napansin ng violinist na napakaganda niya, mayroon siyang kandila at mahusay na ginampanan ang kanyang papel. Lubha akong napahiya at magalang na sinabi: "Madam, kami ang tatlong mangangalakal ng Musul, dumating sampung araw na ang nakakaraan, sila ay nakaimbak sa Khan (10) na may isang kayamanan ng mga kalakal, nakatira kami roon. Sa tirahan ng isang negosyante sa lungsod, inanyayahan niya kami na bisitahin siya.Binigay niya kami ng isang magandang pagkain sapagkat dahil masaya kami ng alak, nagpadala siya ng isang grupo ng mga mananayaw.Nang gabing iyon, naglaro ang mga musikero, mga mananayaw. Pagsayaw, ang banda ay gumawa ng isang napakalaking tunog, at pagkatapos ng isang pag-ikot doon, inutusan silang magbukas.Ang ilan ay naaresto.Para sa amin, napakasaya namin at nilaktawan ang pader at nai-save.Ngunit idinagdag ng vizier na dahil kami ay mga dayuhan At medyo natabunan ng alak, natatakot kaming makahanap ng isa pang patrol, o patrol, bago ang pawis na malayo sa dito. At makikita natin itong walang silbi dahil ang pinto ay sarado. Hanggang bukas, kahit anong mangyari, hindi ito mabubuksan.Kaya, si Ms., narinig niya ang instrumento at tunog, sa palagay namin ay pinahihintulutan kaming mabugbog at humiling sa iyo na mag-ampon hanggang sa . Maliwanag kung mukhang namin na nagkakahalaga ng pumapasok iyong Yulehuodong, gagawin namin ang aming makakaya upang ibalik ang pagkagambala sanhi ng sa amin; kung hindi man, hindi bababa sa bigyan kami ng isang palugit na panahon, kaya namin nagtutulog sa iyong kuwarto.
+
+Step 3/284
+>> Filipino - Greek
+	Ως εκ τούτου, ήταν ο Μεγάλος Βεζίρης Djafar που χτύπησε τις πόρτες των γυναικών σύμφωνα με τις εντολές του χαλιφάτου. Δεν θέλησε να αναγνωριστεί. Η Σόφια το άνοιξε. ο βιολιστής παρατήρησε ότι ήταν όμορφος, είχε ένα κερί και έκανε το ρόλο του καλά. Ήμουν πολύ ντροπή και ευγενικά είπα: "Κυρία, είμαστε οι τρεις έμποροι του Musul, ήρθαμε πριν από δέκα ημέρες, έχουν αποθηκευτεί στον Χαν (10) με πολλά αγαθά, ζούμε εκεί. Στην κατοικία ενός επιχειρηματία στην πόλη, μας προσκάλεσε να τον επισκεφτούμε, μας έδωσε ένα ωραίο γεύμα γιατί μας άρεσε το κρασί, έστειλε μια ομάδα χορευτών.Αυτή τη νύχτα έπαιζαν μουσικοί, χορευτές. έκαναν ένα τεράστιο θόρυβο και μετά από ένα γύρο εκεί είχαν διαταχθεί να ανοίξουν, μερικοί συνελήφθησαν, για μας ήμασταν πολύ χαρούμενοι και παραβλέψαμε τον τοίχο και σωθήκαμε αλλά ο θεατής πρόσθεσε ότι από τη στιγμή που είμαστε ξένοι και κάπως καλυμμένο με κρασί, ήμασταν φοβισμένοι να βρούμε μια άλλη περιπολία ή περιπολία, πριν ο ιδρώτας ήταν μακριά από εδώ και θα το βρούσαμε άχρηστο γιατί η πόρτα ήταν κλειστή. Αύριο, ανεξάρτητα από το τι, δεν θα ανοίξει. ¶ ¶Έτσι, κυρία, άκουσε το όργανο και τον ήχο, νομίζουμε ότι μας επέτρεψε να σας χτυπήσουμε και να σας ζητήσουμε να καταφύγετε. Προφανώς, αν φανεί ότι αξίζει να εισέλθετε στο δικό σας Ysodong, θα κάνουμε το καλύτερο δυνατό για να αποκαταστήσουμε τη διαταραχή που μας προκάλεσε. διαφορετικά, τουλάχιστον μας δώστε ένα παρατεταμένο χρονικό διάστημα, έτσι μέναμε στο δωμάτιό σας.
+
+Step 4/284
+>> Greek - English
+	Therefore, it was the Grand Vizier Djafar who knocked on the doors of women in accordance with the caliphate's commands. He did not want to be identified. Sofia opened it. the violinist noticed that he was beautiful, had a candle and did his job well. I was very ashamed and I politely said: "Madam, we are the three traders of Musul, we came ten days ago, they are stored in Khan (10) with many goods, we live there. At the residence of a businessman in the city, he invited us to visit him, he gave us a nice meal because we liked the wine, he sent a group of dancers.That night they were playing music, dancers. wall and we were saved but i he added that since we were foreign and somewhat covered with wine, we were scared to find another patrol or patrol before the sweat was out of here and we would find it useless because the door was closed. Tomorrow, no matter what, So, ma'am, heard the instrument and the sound, we think that it has allowed us to hit you and ask you to flee. Obviously, if it seems worthwhile to enter Ysodong, we will do our best to to remedy the disorder that has caused us. otherwise, at least give us an extended period, so we stayed in your room.
+
+Step 5/284
+>> English - Serbian
+	Стога је Велики везир Џафар куцао на врата жена у складу са наредбама калифата. Није желео да се идентификује. Софија је отворила. виолиниста је приметио да је прелеп, имао је свећу и добро је обављао свој посао. Било ме је јако срамота и пристојно сам рекао: "Госпођо, ми смо три Мусулина трговца, дошли смо пре десет дана, складиште се у Кану (10) са много робе, живимо тамо. У резиденцији једног бизнисмена у град, позвао нас је да га посетимо, дао нам је угодан оброк, јер нам се допало вино, послао је групу плесача. Те ноћи су свирали музику, плесачи. Зид и ми смо се спасили, али ја сам додао да смо пошто смо били страни и помало прекривени вином, уплашили смо се да нађемо другу патролу или патролу пре него што се зној угаси и учинили бисмо нам бескорисном јер су врата била затворена. Сутра, без обзира на то, па, госпођо, чули сте инструмент и звук, ми мислимо да нам је омогућио да вас ударимо и замолимо да побегнемо. Очигледно је да ако се чини вредним уласка у Исодонг, потрудит ћемо се да отклонимо поремећај који нас је изазвао. У супротном, бар дајте нама продужени период, па смо остали у вашој соби.
+
+Step 6/284
+>> Serbian - Polish
+	Dlatego wielki wezyr Jaafar zapukał do drzwi kobiet zgodnie z rozkazami kalifatu. Nie chciał zostać zidentyfikowany. Sofia go otworzyła. skrzypek zauważył, że był piękny, miał świecę i dobrze wykonał swoją pracę. Bardzo się wstydziłem i uprzejmie powiedziałem: „Pani, jesteśmy trzema kupcami Musulli, przybyliśmy dziesięć dni temu, jesteśmy w Cannes (10) z dużą ilością towarów, mieszkamy tam. W rezydencji biznesmena w mieście zaprosił nas do odwiedzamy go, dał nam smaczny posiłek, ponieważ podobało nam się wino, wysłał grupę tancerzy. Oni grali muzykę, tancerze tej nocy. Ściana i byliśmy uratowani, ale dodałem, że skoro byliśmy obcy i trochę zalani winem. boimy się znaleźć kolejny patrol lub patrol, zanim zacznie się pot i bylibyśmy bezużyteczni, ponieważ są wojna została zamknięta jutro, bez względu na wszystko, cóż, pani, słyszałaś instrument i dźwięk, uważamy, że pozwolił nam cię uderzyć i poprosić cię o ucieczkę. Oczywiście, jeśli wydaje się, że warto wejść do Isodong, zrobimy co w naszej mocy, aby wyeliminuj nieporządek, który nas spowodował, w przeciwnym razie daj nam przynajmniej dłuższy okres, abyśmy zostali w twoim pokoju.
+
+Step 7/284
+>> Polish - Sinhala
+	මහා විජියර් ජාෆර් කාලිෆේට්ගේ නියෝගයන්ට අනුව කාන්තා දොරට තට්ටු කළේ එබැවිනි. ඔහුට හඳුනා ගැනීමට අවශ්‍ය නොවීය. සොෆියා එය විවෘත කළේය. වයලීන වාදකයා ඔහු ලස්සනයි, ඉටිපන්දමක් තබා ඔහුගේ කාර්යය හොඳින් කළ බව දුටුවේය. මම ඉතා ලැජ්ජාවෙන් හා ආචාරශීලීව මෙසේ කීවෙමි: “ආර්යාව, අපි මුසුලි ගැනුම්කරුවන් තිදෙනෙක්, අපි දින දහයකට පෙර පැමිණියෙමු, අපි කෑන්ස් (10) හි බොහෝ භාණ්ඩ රැගෙන පැමිණ සිටිමු. නගරයේ ව්‍යාපාරිකයාගේ නිවසේදී ඔහු අපට ඔහුව බැලීමට ආරාධනා කළේය, අපි වයින් වලට කැමති නිසා රසවත් ආහාරයක් ලබා දුන්නා, නර්තන කණ්ඩායමක් යැව්වා. එදින රාත්‍රියේ ඔවුන් සංගීතය, නර්තන ශිල්පීන් වාදනය කළා. වෝල් සහ අපි බේරුණා, නමුත් මම කිව්වා අපි ආගන්තුකයෙක් නිසා සහ ටිකක් වයින් වලින් වැහිලා කියලා. දහඩිය ආරම්භ වීමට පෙර වෙනත් මුර සංචාරයක් හෝ මුර සංචාරයක් සොයා ගැනීමට අපි බිය වන අතර, ඔවුන් හෙට යුද්ධය වසා ඇති හෙයින් අපි නිෂ් less ල වනු ඇත. ඇත්ත වශයෙන්ම, ඉසෝඩොං වෙත ඇතුළුවීම වටී යැයි පෙනේ නම්, අපට ඇති වූ ආබාධය තුරන් කිරීමට අපි අපේ උපරිමය කරන්නෙමු, එසේ නොමැතිනම් ඔබේ කාමරයේ නැවතී සිටීමට අවම වශයෙන් වැඩි කාලයක් අපට ලබා දෙන්න.
+
+Step 8/284
+>> Sinhala - Latvian
+	Tāpēc lielais Vizieris Jafars klauvēja pie sieviešu durvīm pēc kalifāta lūguma. Viņš negribēja tikt identificēts. Sofija to atvēra. Vijolnieks redzēja, ka ir skaists, tur sveci un labi dara savu darbu. Es kautrīgi un pieklājīgi teicu: "Kundze, mums ir trīs pircēji, mēs esam ieradušies pirms desmit dienām, un mēs uz Kannām esam atveduši daudz preču." Viņš uzaicināja mūs apciemot viņu uzņēmēja mājā pilsētā, pasniedza garšīgus ēdienus, jo mums patika vīns, un aizsūtīja deju trupu. Viņi tajā naktī spēlēja mūziku un dejoja. Sienu un mēs izdzīvojām, bet es viņam teicu, ka esam svešinieki, un tāpēc mūs apskāva nedaudz vīna. Mēs baidāmies atrast citu patruļu vai patruļu pirms sviedru sākuma, un mēs būsim bezjēdzīgi, jo viņi rīt sāks karu. Protams, ja šķiet, ka vērts iekļūt Isodongā, mēs darīsim visu iespējamo, lai novērstu mūsu gūto savainojumu, pretējā gadījumā dodiet mums vismaz vairāk laika palikt jūsu istabā.
+
+Step 9/284
+>> Latvian - Indonesian
+	Oleh karena itu Wazir agung Jafar mengetuk pintu wanita atas permintaan kekhalifahan. Dia tidak ingin diidentifikasi. Sofia membukanya. Pemain biola melihat bahwa dia cantik, memegang lilin dan melakukan pekerjaannya dengan baik. Saya berkata dengan takut-takut dan sopan, "Nyonya, kami memiliki tiga pembeli, kami tiba sepuluh hari yang lalu dan kami membawa banyak barang ke Cannes." Dia mengundang kami untuk mengunjungi rumah pengusaha di kota itu, menyajikan makanan lezat karena kami menikmati anggur, dan mengirim rombongan dansa. Mereka bermain musik dan menari malam itu. Dinding dan kami selamat, tetapi saya katakan kepadanya bahwa kami adalah orang asing sehingga kami dikelilingi oleh sedikit anggur. Kami takut menemukan patroli atau patroli lain sebelum keringat mulai, dan kami akan sia-sia karena mereka akan memulai perang besok. Tentu saja, jika tampaknya layak memasuki Isodong, kami akan melakukan yang terbaik untuk mencegah cedera kami, atau memberi kami setidaknya lebih banyak waktu untuk tinggal di kamar Anda.
+
+Step 10/284
+>> Indonesian - Hebrew
+	לפיכך דפק ויזייר הגדול ג'אפר בדלת האישה לבקשת הח'ליפות. הוא לא רצה שיזהו אותו. סופיה פתחה אותו. הכנר רואה שהיא יפה, מחזיקה נרות ועושה את העבודה שלה היטב. אמרתי בביישנות ובנימוס, "מאדאם, יש לנו שלושה קונים, הגענו לפני עשרה ימים והבאנו הרבה סחורות לקאן." הוא הזמין אותנו לבקר בבית היזם בעיר, להגיש אוכל טעים כי נהנינו מיין, ולשלוח להקת ריקודים. הם ניגנו מוזיקה ורקדו באותו לילה. הקיר וניצלנו, אבל אמרתי לו שאנחנו זרים אז היינו מוקפים במעט יין. אנו חוששים למצוא סיור או סיור אחר לפני שהזיעה תתחיל, ואנחנו נהיה לשווא מכיוון שהם יפתחו במלחמה מחר. כמובן שאם נראה מתאים להיכנס לאיזודונג, אנו נעשה כמיטב יכולתנו כדי למנוע את הפציעה שלנו, או שנתן לנו לפחות יותר זמן להישאר בחדר שלך.
+
+Step 11/284
+>> Hebrew - Norwegian
+	Derfor banket den store Visier Jaffer på kvinnedøren på forespørsel fra kalifatet. Han ønsket ikke å bli gjenkjent. Sofia åpnet den. Fiolinisten ser at hun er vakker, holder lys og gjør jobben sin godt. Jeg sa sjenert og høflig, "Madame, vi har tre kjøpere, vi ankom for ti dager siden og brakte mye gods til Cannes." Han inviterte oss til å besøke gründerens hus i byen, servere deilig mat fordi vi likte Maine og sende et danseband. De spilte musikk og danset den kvelden. Muren og vi ble frelst, men jeg fortalte ham at vi var fremmede, så vi var omringet av litt vin. Vi er redde for å finne en ny tur eller tur før svetten begynner, og vi vil være forgjeves fordi de starter krigen i morgen. Selvfølgelig, hvis det virker passende å komme inn på Isudong, vil vi gjøre vårt beste for å forhindre skaden vår, eller i det minste gi oss mer tid til å bo på rommet ditt.
+
+Step 12/284
+>> Norwegian - French
+	C'est pourquoi la grande Visière Jaffer a frappé à la demande des femmes à la demande du califat. Il ne voulait pas être reconnu. Sofia l'a ouvert. La violoniste voit qu'elle est belle, tient la lumière et fait bien son travail. J'ai dit timidement et poliment: "Madame, nous avons trois acheteurs, nous sommes arrivés il y a dix jours et avons apporté beaucoup de marchandises à Cannes." Il nous a invités à visiter la maison de l'entrepreneur en ville, à servir une cuisine délicieuse parce que nous aimions le Maine et à envoyer un groupe de danse. Ils ont joué de la musique et ont dansé cette nuit-là. Le mur et nous avons été sauvés, mais je lui ai dit que nous étions des étrangers, alors nous étions entourés de vin. Nous avons peur de trouver un autre voyage ou une autre tournée avant que la sueur ne commence, et nous serons vains car ils déclencheront la guerre demain. Bien sûr, si cela semble approprié d’entrer à Isudong, nous ferons de notre mieux pour éviter nos dégâts, ou du moins nous donnerons plus de temps pour rester dans votre chambre.
+
+Step 13/284
+>> French - Zulu
+	Kungakho i-Great Jaffer Visor ishaye isicelo sabesifazane ngesicelo se-caliphate. Wayengafuni ukuqashelwa. USofia wayivula. Umuntu okophula umthetho ubona ukuthi muhle, ubamba ukukhanya futhi wenza kahle umsebenzi wakhe. Ngithe nginamahloni futhi ngenhlonipho: "Madam, sinabathengi abathathu, sifike ezinsukwini eziyishumi ezedlule futhi silethe izimpahla eziningi kuCannes." Usimeme ukuthi sihambele ikhaya losomabhizinisi elisedolobheni, ukuyonikeza ukudla okumnandi ngoba siyamthanda uMaine futhi sithumela neqembu lomdanso. Badlale umculo badansa ngalobo busuku. Udonga futhi sasindiswa, kodwa ngamtshela ukuthi singabafokazi, ngakho sizungezwe yiwayini. Sinovalo lokuthola olunye uhambo noma olunye uhambo ngaphambi kokuqala kokujuluka, futhi sizoba yize ngoba bazoqala impi kusasa. Vele, uma kubonakala kufanelekile ukungena e-Isudong, sizokwenza konke okusemandleni ukugwema ukulimala kwethu, noma okungenani sizonikeza isikhathi esithe xaxa sokuhlala egumbini lakho.
+
+Step 14/284
+>> Zulu - Malay
+	Itulah sebabnya Great Visitor Visor telah merayu kepada wanita untuk khalifa. Dia tidak mahu dikenali. Sofia membukanya. Pelanggar yang melihat kebaikan, menangkap cahaya dan melakukan pekerjaannya dengan baik. Saya berkata malu dan hormat: "Madam, kami mempunyai tiga pelanggan, kami tiba sepuluh hari lalu dan membawa banyak barang ke Cannes." Beliau menjemput kami untuk melawat rumah perniagaan di bandar, untuk memberi dia makanan yang enak kerana kami suka Maine dan kami juga menghantar pesta tarian. Mereka bermain muzik dan menari malam itu. Dinding dan kami selamat, tetapi saya memberitahunya bahawa kami adalah orang asing, jadi kami dikelilingi oleh wain. Kami takut untuk mendapatkan perjalanan lain atau perjalanan lain sebelum peluh bermula, dan kami akan sia-sia kerana mereka akan memulakan perang esok. Sudah tentu, jika ia sesuai untuk memasuki Isudong, kami akan melakukan yang terbaik untuk mengelakkan kecederaan kami, atau sekurang-kurangnya memberikan lebih banyak masa untuk tinggal di dalam bilik anda.
+
+Step 15/284
+>> Malay - Ukrainian
+	Ось чому Великий Візир-зверхник звернувся до жінок за халіфатом. Він не хоче, щоб його знали. Софія відкрила його. Порушники, які добре виглядають, ловить світло і добре виконують свою роботу. Я сказала ганебно і з повагою: "Пані, у нас троє клієнтів. Ми приїхали десять днів тому і привезли багато товарів до Канн". Вона запросила нас відвідати діловий будинок у місті, подати їй смачну їжу, тому що ми любимо Мен і навіть у нас була танцювальна вечірка. Вони грали музику і танцювали тієї ночі. Стіна і ми були в безпеці, але я сказав йому, що ми незнайомі люди, тому нас оточили вином. Ми боялися здійснити чергову подорож чи іншу подорож до того, як піт почався, і ми втратили б їх, як вони розпочнуть війну завтра. Звичайно, якщо доречно в'їхати в Ісудун, ми зробимо все можливе, щоб уникнути наших травм або принаймні дати більше часу, щоб залишитися у вашій кімнаті.
+
+Step 16/284
+>> Ukrainian - Finnish
+	Siksi Grand Vizier -johtaja puhui naisille kalifaatista. Hän ei halua tulla tunnetuksi. Sofia avasi sen. Hyvännäköiset rikokset saavat valon ja tekevät työnsä hyvin. Sanoin häpeällisesti ja kunnioittavasti: "Hyvä, meillä on kolme asiakasta. Saavuimme kymmenen päivää sitten ja toimme monia tavaroita Cannesiin." Hän kutsui meidät käymään liikerakennuksessa kaupungissa tarjoilemaan herkullisia ruokia, koska rakastamme Mainen ja pidimme jopa tanssijuhlia. He soittivat musiikkia ja tanssivat sinä yönä. Seinä ja olimme turvassa, mutta sanoin hänelle, että olemme vieraita, joten meitä ympäröi viini. Pelkäämme tehdä uuden matkan tai muun matkan ennen hikeen alkamista ja menettämme ne, kun he alkavat sodan huomenna. Tietysti, jos Isuduniin on tarkoituksenmukaista päästä, teemme parhaamme välttääksemme vammat tai antaa ainakin enemmän aikaa pysyä huoneessasi.
+
+Step 17/284
+>> Finnish - Hindi
+	इसलिए ग्रैंड विजियर के नेता ने महिलाओं से खिलाफत के बारे में बात की। वह जाना नहीं चाहता है। सोफ़िया ने उसे खोला। अच्छे दिखने वाले अपराधों को रोशनी मिलती है और वे अपना काम अच्छे से करते हैं। मैंने शर्म और सम्मान से कहा, "ठीक है, हमारे पास तीन ग्राहक हैं। हम दस दिन पहले पहुंचे और कई सामान कान्स में भेज दिए।" उन्होंने हमें स्वादिष्ट भोजन परोसने के लिए शहर की व्यावसायिक इमारत में जाने का निमंत्रण दिया क्योंकि हम मेन से प्यार करते हैं और यहां तक कि एक नृत्य पार्टी भी करते थे। वे उस रात संगीत बजा रहे थे और नाच रहे थे। दीवार और हम सुरक्षित थे, लेकिन मैंने उससे कहा कि हम अजनबी थे, इसलिए हम शराब से घिरे थे। हम पसीना शुरू होने से पहले एक और यात्रा या दूसरी यात्रा करने से डरते हैं और कल युद्ध शुरू होने पर हम उन्हें खो देंगे। बेशक, अगर यह ईसूदन में प्रवेश करने के लिए उपयुक्त है, तो हम चोटों से बचने की पूरी कोशिश करेंगे या कम से कम आपको अपने कमरे में रहने के लिए अधिक समय देंगे।
+
+Step 18/284
+>> Hindi - Lao
+	ເພາະສະນັ້ນຜູ້ ນຳ ຂອງ Grand Vizier ໄດ້ກ່າວຕໍ່ແມ່ຍິງກ່ຽວກັບ Khilafat. ລາວບໍ່ຢາກໄປ. Sophia ເປີດນາງ. ອາຊະຍາ ກຳ ທີ່ເບິ່ງດີເຮັດໃຫ້ມີແສງແລະເຮັດວຽກຂອງພວກເຂົາໄດ້ດີ. ຂ້ອຍເວົ້າດ້ວຍຄວາມອາຍແລະເຄົາລົບວ່າ "ດີ, ພວກເຮົາມີລູກຄ້າສາມຄົນ. ພວກເຮົາມາຮອດສິບມື້ແລ້ວແລະໄດ້ສົ່ງສິນຄ້າຫຼາຍໆຢ່າງໄປ Cannes." ລາວໄດ້ເຊື້ອເຊີນພວກເຮົາໃຫ້ໄປທີ່ອາຄານການຄ້າຂອງເມືອງເພື່ອຮັບໃຊ້ອາຫານແຊບເພາະວ່າພວກເຮົາຮັກ Maine ແລະເຖິງແມ່ນວ່າມີງານເຕັ້ນ. ພວກເຂົາຫຼີ້ນເພັງແລະເຕັ້ນ ລຳ ໃນຄືນນັ້ນ. ກຳ ແພງແລະພວກເຮົາປອດໄພ, ແຕ່ຂ້ອຍໄດ້ບອກລາວວ່າພວກເຮົາເປັນຄົນແປກ ໜ້າ, ສະນັ້ນພວກເຮົາກໍ່ອ້ອມດ້ວຍເຫຼົ້າ. ພວກເຮົາຢ້ານທີ່ຈະເດີນທາງຫຼືການເດີນທາງອີກຄັ້ງ ໜຶ່ງ ກ່ອນທີ່ເຫື່ອເລີ່ມຕົ້ນແລະມື້ອື່ນພວກເຮົາຈະສູນເສຍພວກເຂົາເມື່ອສົງຄາມເລີ່ມຕົ້ນ. ແນ່ນອນວ່າ, ຖ້າ ເໝາະ ສົມທີ່ຈະເຂົ້າ Isudaan, ພວກເຮົາຈະເຮັດໃຫ້ດີທີ່ສຸດເພື່ອຫລີກລ້ຽງການບາດເຈັບຫຼືຢ່າງ ໜ້ອຍ ກໍ່ໃຫ້ທ່ານມີເວລາຫຼາຍກວ່າທີ່ຈະຢູ່ໃນຫ້ອງຂອງທ່ານ.
+
+Step 19/284
+>> Lao - Danish
+	Derfor talte lederen af Grand Vizier med kvinderne om Khilafat. Han ville ikke gå. Sophia åbner hende. Flot kriminalitet lyser op og gør deres job godt. Jeg sagde med skam og respekt, "Nå, vi har tre kunder. Vi har været der ti dage og sendt en masse ting til Cannes." Han inviterede os til at gå til byens kommercielle bygning for at servere lækker mad, fordi vi elsker Maine og endda har en dansefest. De spillede musik og dansede den aften. Væggen og vi var sikre, men jeg fortalte ham, at vi var fremmede, så vi omgivede os med alkohol. Vi er bange for at tage en ny tur eller tur, før sveden starter, og i morgen mister vi dem, når krigen starter. Selvfølgelig, hvis det er passende at komme ind i Isudaan, vil vi gøre vores bedste for at undgå kvæstelser eller i det mindste give dig mere tid til at være på dit værelse.
+
+Step 20/284
+>> Danish - Slovenian
+	Zato je vodja Velikega vezirja ženskam spregovoril o Khilafatu. Ne bi šel. Sophia jo odpre. Veliki zločin se prižge in dobro opravlja svoje delo. Sram in spoštovanje sem si rekel: "No, imamo tri stranke. Tam smo bili že deset dni in smo poslali veliko stvari v Cannes." Povabil nas je, da gremo v mestno trgovsko stavbo, da postrežemo okusno hrano, ker imamo radi Maine in imamo celo plesno zabavo. Oni večer so igrali glasbo in plesali. Stena in sva bila na varnem, toda rekla sem mu, da sva neznanca, zato sva se obdala z alkoholom. Bojimo se še enega zavijanja ali obračanja, preden se začne znoj in jutri jih bomo izgubili, ko se začne vojna. Seveda, če je primerno vstopiti v Isudaan, se bomo potrudili, da se izognemo poškodbam ali vam vsaj damo več časa, da bi bili v svoji sobi.
+
+Step 21/284
+>> Slovenian - Arabic
+	لذلك ، تحدث زعيم الوزير الكبير مع النساء عن الخلافة. لن اذهب. صوفيا يفتحها. جريمة كبيرة تضيء وهو يؤدي وظيفته بشكل جيد. قلت للخجل والاحترام ، "حسنًا ، لدينا ثلاثة عملاء. لقد كنا هناك لمدة عشرة أيام وأرسلنا الكثير من الأشياء إلى كان". لقد دعانا إلى الذهاب إلى المبنى التجاري للمدينة لتقديم الطعام اللذيذ لأننا نحب ولاية مين ولدينا حفل رقص. لقد عزفوا الموسيقى ورقصوا في تلك الليلة. الجدار وكنا آمنين ، لكنني أخبرته أننا غرباء ، لذا فقد شربنا. نحن خائفون من تحريف آخر أو منعطف قبل بدء العرق وسوف نفقدهم غدًا عندما تبدأ الحرب. بالطبع ، إذا كان من المناسب الدخول إلى إسودان ، فسنبذل قصارى جهدنا لتجنب الإصابة أو على الأقل سنمنحك المزيد من الوقت لتكون في غرفتك.
+
+Step 22/284
+>> Arabic - Romanian
+	Prin urmare, liderul marelui ministru a vorbit cu femeile despre succesiune. Nu mă voi duce. Sofia o deschide. O crimă mare se aprinde și își face treaba bine. Am spus de rușine și de respect: „Ei bine, avem trei agenți. Am fost acolo timp de zece zile și am trimis o mulțime de lucruri la Cannes”. El ne-a invitat să mergem în clădirea comercială a orașului pentru a servi mâncare delicioasă, deoarece iubim Maine și avem o petrecere de dans. Au jucat muzică și au dansat în seara aceea. Peretele și noi eram în siguranță, dar i-am spus că suntem străini, așa că am băut. Ne este frică de o altă răsucire sau întoarcere înainte de începerea cursei și le vom pierde mâine, când începe războiul. Desigur, dacă este cazul să intrați în Sudan, vom face tot posibilul pentru a evita rănirea sau, cel puțin, să vă oferim mai mult timp pentru a fi în camera dvs.
+
+Step 23/284
+>> Romanian - Hausa
+	Saboda haka, jagoran babban minista ya yi magana da mata game da maye. Ba zan tafi ba Sofia ta buɗe ta. Babban laifi yana haskakawa kuma yana aiki da kyau. Na ce cikin kunya da girmamawa: "To, muna da wakilai uku. Na kasance a wurin kwana goma kuma na aika da abubuwa da yawa zuwa Cannes. ” Ya gayyace mu don zuwa ginin kasuwanci na birni don bauta wa abinci mai daɗi, saboda muna ƙaunar Maine kuma muna yin bikin raye-raye. Sun yi kida kuma suka yi rawa a daren. Bango kuma muna lafiya, amma na ce masa mu baƙi ne, don haka muka sha. Muna jin tsoron sake karkatarwa ko juya kafin fara tseren kuma zamu rasa su gobe idan yakin ya fara. Tabbas, idan kun shiga Sudan, zamuyi iya kokarinmu don gujewa rauni ko kuma a kalla zamu baku karin lokacin zama a dakin ku.
+
+Step 24/284
+>> Hausa - Kazakh
+	Сондықтан премьер-министрдің көшбасшысы әйелдерге мас болу туралы айтты. Мен оны ашу үшін Софияға бармаймын. Негізгі қылмыс жарқырайды және ол жақсы жұмыс істейді. Мен ұялшақ және құрметпен: «Жақсы, бізде үш агент бар. Мен он күн болдым және Каннға көп нәрсе жібердім» деді. Ол бізді қаладағы сауда орталығына дәмді тағамдар ұсынуға шақырды, өйткені біз Мейнді жақсы көреміз және біз биді тойлаймыз. Олар би билеп, түнде биледі. Қабырға жақсы болды, бірақ мен оған бейтаныс екенбіз, сондықтан іштік. Біз жарысты бастамас бұрын бұралудан немесе бұрылудан қорқатын едік, біз де солай боламыз. ертең соғыс басталғанда оларды жоғалтып аламыз, әрине, сіз Суданға кіргенде, біз жарақаттанбау үшін немесе қолымыздан келгенше сіздің бөлмеңізде болу үшін көп күш саламыз.
+
+Step 25/284
+>> Kazakh - Catalan
+	Per això, el líder del primer ministre va dir que les dones estaven begudes. No aniré a Sofia per obrir-la. El crim principal és brillant i funciona bé. Sóc tímid i respectuós: "Bé, tenim tres agents. Tenia deu dies i vaig enviar molt a Cannes ". Ens va convidar a comprar la cuina deliciosa de la ciutat perquè ens encanta Maine i ballem. Van ballar i ballar tota la nit. La paret era bona, però estic estrany, així que és dolorós. Teníem por de girar o de girar la carrera abans de començar, així ho farem. Demà les perdrem quan comenci la guerra, és clar, quan aneu al Sudan, farem tot el possible per evitar que estiguin ferits o a la vostra habitació fins que puguem.
+
+Step 26/284
+>> Catalan - Chinese (Simplified)
+	因此，总理的领导人说妇女喝醉了。我不会去索非亚打开它。主要犯罪是出色的，运作良好。我害羞且恭敬：“嗯，我们有3名特工。我只有10天的时间，所以给戛纳电影节派了很多票。”他邀请我们购买这座城市的美味佳肴，因为我们爱缅因州并且跳舞。他们整晚跳舞。墙很好，但我很奇怪，所以很痛苦。我们害怕在开始之前就转向或转向比赛，所以我们会的。明天，当战争开始时，我们将失去他们，当然，当您去苏丹时，我们将尽一切可能防止他们受伤或留在您的房间，直到我们能够做到。
+
+Step 27/284
+>> Chinese (Simplified) - Haitian Creole
+	Se poutèt sa, lidè nan Premye Minis la te di ke fanm yo bwè. Mwen pa pral ale nan Sofia yo louvri li. Krim prensipal yo ekselan e travay byen. Se mwen menm ki timid ak respè: "Oke, nou gen 3 ajan. Mwen gen sèlman 10 jou, se konsa mwen te voye yon anpil nan tikè Festival la Film Cannes." Li te envite nou achte espesyalite yo nan vil sa a, paske nou renmen Maine ak Dans. Yo danse tout lannwit lan. Mi an trè bon, men mwen trè etranj, kidonk li trè douloure. Nou pè pou vire oswa vire nan jwèt la anvan nou kòmanse, se konsa nou pral. Denmen lè lagè a ap kòmanse, nou pral pèdi yo. Natirèlman, lè ou ale nan Soudan, nou pral fè tout sa ki posib pou anpeche yo blese oswa rete nan chanm ou jiskaske nou ka fè li.
+
+Step 28/284
+>> Haitian Creole - Vietnamese
+	Do đó, lãnh đạo của Thủ tướng cho rằng phụ nữ say rượu. Tôi sẽ không đến Sofia để mở nó. Các tội phạm chính là tuyệt vời và làm việc tốt. Tôi ngại ngùng và tôn trọng: "Chà, chúng tôi có 3 đại lý. Tôi chỉ có 10 ngày, vì vậy tôi đã gửi rất nhiều vé đến Liên hoan phim Cannes." Anh ấy mời chúng tôi mua đặc sản ở thành phố này, vì chúng tôi yêu Maine và Dance. Họ nhảy múa suốt đêm. Bức tường rất tốt, nhưng tôi rất lạ, nên rất đau. Chúng tôi sợ quay hoặc quay trong trò chơi trước khi chúng tôi bắt đầu, vì vậy chúng tôi sẽ. Ngày mai khi chiến tranh bắt đầu, chúng ta sẽ mất chúng. Tất nhiên, khi bạn đến Sudan, chúng tôi sẽ làm mọi cách có thể để ngăn họ khỏi bị thương hoặc ở trong phòng của bạn cho đến khi chúng tôi có thể làm điều đó.
+
+Step 29/284
+>> Vietnamese - Dutch
+	Daarom zei het leiderschap van de premier dat vrouwen dronken zijn. Ik ga niet naar Sofia om het te openen. De belangrijkste misdaad is geweldig en werkt goed. Ik was verlegen en respectvol: "Nou, we hebben 3 agenten. Ik heb slechts 10 dagen, dus ik heb veel tickets naar het filmfestival van Cannes gestuurd." Hij nodigde ons uit om specialiteiten in deze stad te kopen, omdat we van Maine and Dance houden. Ze dansen de hele nacht. De muur is erg goed, maar ik ben heel vreemd, dus het doet pijn. We zijn bang om te gaan draaien of draaien voordat we beginnen, dus dat zullen we doen. Morgen wanneer de oorlog begint, zullen we ze verliezen. Wanneer we naar Soedan komen, zullen we natuurlijk alles doen om te voorkomen dat ze gewond raken of in uw kamer blijven totdat we dat kunnen doen.
+
+Step 30/284
+>> Dutch - Uzbek
+	Shuning uchun bosh vazir rahbariyati ayollarni mast deb aytdi. Sofiyani ochish uchun ketayotganim yo'q. Asosiy jinoyat katta va yaxshi ishlaydi. Men uyatchan va hurmatli edim: "Bizda 3 ta agent bor. Menda 10 kun bor, shuning uchun men Kann kinofestivaliga ko'plab chiptalarni yubordim." U bizni ushbu shaharda ixtisosliklar sotib olishga taklif qildi, chunki biz Meyn va Raqsni yaxshi ko'ramiz. Ular tun bo'yi raqsga tushishadi. Devor juda yaxshi, lekin men juda g'alati, shuning uchun u og'riyapti. Biz boshlashdan oldin burilishdan yoki burilishdan qo'rqamiz, shuning uchun qilamiz. Ertaga urush boshlanganda biz ularni yo'qotamiz. Biz Sudanga kelganimizda, albatta, qo'limizdan kelganicha, ularning shikastlanishiga yoki sizning xonangizda qolishiga yo'l qo'ymaslik uchun hamma narsani qilamiz.
+
+Step 31/284
+>> Uzbek - Irish
+	Sin é an fáth a dúirt ceannaireacht an Phríomh-Aire go raibh mná ar meisce. Nílim chun Sóifia a oscailt. Tá an cion bunúsach mór agus oibríonn sé go maith. Bhí mé cúthail agus ómósach: "Tá 3 ghníomhairí againn. Tá 10 lá agam, mar sin sheol mé a lán ticéad chuig Féile Scannán Cannes." Thug sí cuireadh dúinn speisialtachtaí a cheannach sa chathair seo mar is breá linn Maine agus Dance. Damhsa siad an oíche ar fad. Tá an balla iontach, ach tá sé aisteach liom é, mar sin nimhneach sé. Tá eagla orainn casadh nó casadh sula dtosaímid, mar sin déanaimid. Caillfidh muid iad nuair a thosaíonn an cogadh amárach. Nuair a thiocfaidh muid chun an tSúdáin, ar ndóigh, déanfaimid ár ndícheall chun cosc a chur orthu gortú nó fanacht i do sheomra.
+
+Step 32/284
+>> Irish - Spanish
+	Es por eso que el liderazgo del primer ministro dijo que las mujeres estaban borrachas. No debo abrir Sofía. El contenido básico es excelente y funciona bien. Fui tímido y respetuoso: "Tenemos 3 agentes. Tengo 10 días, así que envié muchos boletos para el Festival de Cine de Cannes". Ella nos invitó a comprar especialidades en esta ciudad porque amamos Maine y Dance. Bailan toda la noche. El muro es maravilloso, pero me resulta extraño, así que me duele. Tenemos miedo de girar o girar antes de comenzar, así que lo hacemos. Los perderemos cuando comience la guerra mañana. Cuando venimos a Sudán, por supuesto, haremos todo lo posible para evitarles lesiones o permanecer en su habitación.
+
+Step 33/284
+>> Spanish - Chichewa
+	Ndiye chifukwa chake utsogoleri wa Prime Minister adati azimayiwo adamwa. Sindiyenera kutsegula Sofia. Zinthu zoyambira ndi zabwino kwambiri ndipo zimagwira ntchito bwino. Ndinkachita manyazi komanso ndimalemekeza: "Tili ndi othandizira 3. Ndili ndi masiku 10, choncho ndinatumiza matikiti ambiri ku Cannes Filamu." Adatipempha kuti tigule zapadera mumzinda uno chifukwa timakonda Maine ndi Dance. Amavina usiku wonse. Khomalo ndi labwino, koma ndimaona kuti silodabwitsa, motero limapweteka. Tili ndi mantha kuti titembenuke tisanayambe, timatero. Tidzawataya pamene nkhondo iyamba mawa. Tikafika ku Sudan, mwachidziwikire, tidzayesetsa momwe tingapewere kuvulala kapena kukhala m'chipinda chanu.
+
+Step 34/284
+>> Chichewa - Czech
+	Proto vláda premiéra uvedla, že ženy pily. Nemusím otevřít Sofii. Základy jsou velmi dobré a fungují dobře. Byl jsem v rozpacích a poctěn: „Máme 3. příznivce. Mám 10 dní, takže jsem poslal mnoho vstupenek do Cannes Film.“ Požádali nás, abychom si koupili nějaké speciality v tomto městě, protože milujeme Maine a Dance. Tančí celou noc. Zeď je pěkná, ale je to divné, takže to bolí. Bojíme se, abychom se otočili, než začneme. Až zítra začne válka, ztratíme je. Když se dostaneme do Súdánu, samozřejmě se pokusíme zabránit tomu, jak můžeme zabránit zranění nebo zůstat ve vašem pokoji.
+
+Step 35/284
+>> Czech - Armenian
+	Հետևաբար, վարչապետն ասաց, որ կանայք խմում են: Ես պետք չէ Սոֆիան բացել: Հիմունքները շատ լավն են և լավ են աշխատում: Ես ամաչեցի և պատվեցի. «Մենք ունենք 3-րդ կողմնակիցներ: Ես 10 օր ունեմ, ուստի շատ տոմսեր եմ ուղարկել Կաննի կինոնկարին »: Նրանք խնդրեցին մեզ գնել որոշակի հատուկ առաջարկներ այս քաղաքում, քանի որ մենք սիրում ենք Մեյնին և Պարը: Նրանք պարում են ամբողջ գիշեր: Պատը գեղեցիկ է, բայց տարօրինակ է, այնպես որ այն ցավում է: Մենք վախենում ենք շրջվելուց առաջ շրջվել: Մենք կկորցնենք դրանք, երբ պատերազմը սկսվի վաղը: Իհարկե, երբ մենք հասնում ենք Սուդան, մենք փորձում ենք կանխել, թե ինչպես կարող ենք կանխել վնասվածքները կամ մնալ ձեր սենյակում:
+
+Step 36/284
+>> Armenian - Samoan
+	O le mea lea, na fai mai le Palemia e inu ava fafine. Ou te le manaʻomia ona tatalaina Sofia. O mea autu e lelei tele ma lelei le lelei. Sa ou maasiasi ma faamamaluina. "E i ai a matou lagolago lona tolu. E 10 aso ou, o lea na ou lafoina ai le tele o pepa ulufale i le ata o Cannes. " Na latou talosagaina i matou e faatau ni ofo faʻapitoa i lenei aai aua matou te alolofa ia Maine ma le siva. Latou siva i le po atoa. O le puipui e matagofie, ae ese, e matua tiga lava. Matou te fefefe e liliu ese ao leʻi liliu. O le a tatou leiloloa pe a amata le taua taeao. Ioe, pe a matou oʻo atu i Sudan, matou te taumafai e puipuia le auala e mafai ona matou puipuia ai manuʻa pe nofo i totonu o lou potu.
+
+Step 37/284
+>> Samoan - German
+	Daher sagte der Premierminister, dass Frauen Alkohol trinken. Ich muss Sophie nicht öffnen. Die Grundlagen sind wirklich gut und die Qualität ist gut. Ich habe mich geschämt und geehrt. "Wir haben einen Sponsor von Drittanbietern. Ich habe 10 Tage Zeit, also habe ich viele Tickets für die Cannes-Show geschickt." Sie baten uns, Sonderangebote in dieser Stadt zu kaufen, weil wir lieben nach Maine und tanzen. Sie haben die ganze Nacht getanzt. Die Wand ist schön, aber seltsam, sehr schmerzhaft. Wir haben Angst, uns abzuwenden, bevor wir uns umdrehen. Wir werden verlieren, wenn der Krieg morgen beginnt. Ja, wenn wir in den Sudan kommen, versuchen wir zu schützen, wie wir Verletzungen verhindern oder in Ihrem Zimmer bleiben können.
+
+Step 38/284
+>> German - Pashto
+	له همدې امله ، لومړي وزیر وویل چې ښځې شراب څښي. زه نه غواړم سوفی خلاص کړم. اساسات واقعیا ښه دي او کیفیت یې ښه دی. زه شرم او ویاړ وم. "موږ د دریمې ډلې سپانسر لرو او زه لس ورځې لرم ، نو ما د کان شو ته ډیر ټیکټونه واستول." دوی له موږ وغوښتل چې په دې ښار کې تخصصات وپیرئ ځکه چې موږ مینه او نڅا سره مینه لرو. دوی ټوله شپه نڅا وکړه. دېوال ښکلی دی ، مګر عجیب ، خورا دردناک. موږ ویره لرو چې مخه مو ونیسي مخکې لدې چې مخه ونیسو. موږ به له لاسه ورکړو که سبا جګړه پیل شي. هو ، کله چې موږ سوډان ته راځو ، موږ هڅه کوو چې خوندي وساتو چې څنګه موږ کولی شو د ټپي کیدو مخه ونیسو یا ستاسو په خونه کې پاتې شو.
+
+Step 39/284
+>> Pashto - Maltese
+	Għalhekk, il-Prim Ministru qal li n-nisa jixorbu l-alkoħol. Ma rridx niftaħ is-sufan. Il-punti bażiċi huma verament tajbin u l-kwalità hija tajba. Jiena mistħi u kburi. "Għandna sponsor ta 'parti terza u għandi għaxart ijiem, u għalhekk bgħatt ħafna biljetti għall-ispettaklu tal-mini." Huma talbuna biex nixtru speċjalitajiet f'din il-belt għax aħna nħobbu niżfnu u niżfnu. Huma żfin il-lejl kollu. Il-ħajt huwa sabiħ, imma stramb, uġigħ ħafna. Aħna nibżgħu li nieqfu qabel ma nistgħu nieqfu. Aħna nitilfu jekk tibda gwerra għada. Iva, meta naslu għas-Sudan, aħna nippruvaw nipproteġu kif nistgħu nevitaw korriment jew nibqgħu fil-kamra tiegħek.
+
+Step 40/284
+>> Maltese - Macedonian
+	Затоа, премиерот рече дека жените пијат алкохол. Не сакаме да се донесе на троседот. Основите се навистина добри и квалитетот е добар. Јас сум срамежлив и горд. "Ние се спонзорираат партија и имам десет дена, и испрати толку многу билети за шоу рудникот". Тие побараа од нас да се купи специјалитети во овој град, затоа што се полни со љубов да танцуваат и да ги танцуваат. Тие танцуваат цела ноќ. Ѕидот е убава, но чудно, многу болно. Ние се плашат да запре пред да запре. Ние го пропушти ако започне војна утре. Да, кога ќе стигнеме за Судан, ние се обидуваме да се заштити како да се избегне повреди или да остане во вашата соба.
+
+Step 41/284
+>> Macedonian - Estonian
+	Seetõttu ütles peaminister, et naised joovad alkoholi. Me ei taha diivanit tuua. Põhitõed on tõesti head ja kvaliteet hea. Olen häbelik ja uhke. "Me sponsoreerisime pidu ja mul on kümme päeva ning saatsin nii palju pileteid näitusekaevandusele." Nad palusid meil selles linnas spetsiaalseid toite osta, sest neile meeldib tantsida ja tantsida. Nad tantsivad terve öö. Sein on ilus, aga kummaline, väga valus. Me kardame enne peatumist peatuda. Me jätame selle kahe silma vahele, kui homme puhkeb sõda. Jah, Sudaani jõudes püüame end kaitsta, et vältida vigastusi ega jääda oma tuppa.
+
+Step 42/284
+>> Estonian - Lithuanian
+	Būtent todėl ministras pirmininkas teigė, kad moterys vartoja alkoholį. Mes nenorime atnešti sofų. Pagrindai yra tikrai geri, o kokybė gera. Aš drovus ir didžiuojuosi. "Mes rėmėme vakarėlį. Aš turiu dešimt dienų ir išsiuntėme tiek daug bilietų į parodos kasyklą". Jie paprašė mūsų šiame mieste nusipirkti ypatingo maisto, nes jiems patinka šokti ir šokti. Jie šoka visą naktį. Siena graži, bet keista, labai skausminga. Mes bijome sustoti prieš mums sustoti. Mes to nepastebėsime, kai prasidės rytojaus karas. Taip, atvykdami į Sudaną stengiamės apsisaugoti, kad išvengtume sužeidimų ir liktume savo kambaryje.
+
+Step 43/284
+>> Lithuanian - Turkish
+	Başbakan bu nedenle kadınların alkol aldığını belirtti. Kanepeleri getirmek istemiyoruz. Temelleri gerçekten çok iyi ve kalitesi iyi. Utangaç ve gururluyum. “Partiye sponsor olduk. On günüm var ve gösteri gişesine çok fazla bilet gönderdim.” Bu şehirde özel yemek almamızı istediler çünkü dans etmeyi ve dans etmeyi seviyorlar. Bütün gece dans ederler. Duvar çok güzel ama garip bir şekilde acı verici. Durmadan önce durmaktan korkuyoruz. Yarının savaşı başladığında bunu farketmeyeceğiz. Evet, Sudan'a vardığımızda kendimizi yaralanmaya karşı korumaya ve odamızda kalmaya çalışıyoruz.
+
+Step 44/284
+>> Turkish - Burmese
+	ဝန်ကြီးချုပ်ကဤအကြောင်းပြချက်အမျိုးသမီးတွေအရက်မရသူကပြောပါတယ်။ ကျနော်တို့ဆိုဖာဆောင်ကြဉ်းချင်ကြဘူး။ အခြေခံကယ့်ကိုအကောင်းဖြစ်ကြပြီးအရည်အသွေးကောင်းလှ၏။ ရှက်ခြင်းနှင့်ငါမာနထောင်လွှားဘူး။ "ကျနော်တို့ပါတီကမကထ။ အဆိုပါနေ့ရက်တွင်ငါနှင့်ငါပြသတဲမှလက်မှတ်တွေအများကြီးကိုစေလွှတ်ပါတယ်။ "သူတို့ကသူတို့ကခုန်များနှင့်ကခုန်ဖို့ချစ်သောကြောင့်ကျွန်တော်တို့ကိုဒီမြို့မှာအထူးအစားအစာရချင်တယ်။ ညဉ့်လုံးခုန်တတ်ကြ၏။ ထူးဆန်းတဲ့လမ်းအတွက်နာကျင်ပေမယ့်အလွန်လှပသောမြို့ရိုးကို။ ကျနော်တို့ရပ်တန့်ရှေ့တော်၌ရပ်ဝံ့ဖြစ်ကြသည်။ စစ်ပွဲစတင်ခဲ့သည့်အခါမနက်ဖြန်ကျွန်တော်သတိထားမိပါလိမ့်မယ်။ yeah, ငါတို့ဒဏ်ရာဆန့်ကျင်ကိုယျ့ကိုယျကိုကာကှယျရရန်ဆူဒန်တယ်နှင့်ကျွန်ုပ်တို့၏ခန်းထဲမှာဆက်နေရန်ကြိုးစားနေ။
+
+Step 45/284
+>> Burmese - Persian
+	برای این زنان، در نخست وزیر، او گفت. ما نمی خواهیم به مبل. عمومی واقعا خوب، کیفیت خوب است. من مغرور با شرم نیست. "پروموتر ما حزب. روزی که چادر، و من بسیاری از بلیط فرستادیم». آنها عشق را به رقص و رقص به خاطر ما می خواهیم به مواد غذایی خاص در این شهر. آنها می رقصند تمام شب. درد عجیب و غریب در دیوار، اما بسیار زیبا. ما می ترسند به قبل از توقف ایستاده است. هنگامی که جنگ آغاز شد متوجه فردا خواهد شد. بله، ما آسیب به سودان مخالفت به منظور محافظت از خود، و تلاش برای در اتاق ما باقی بماند.
+
+Step 46/284
+>> Persian - Croatian
+	Za te žene, u premijeru, rekla je. Ne želimo kauč. Generalno jako dobar, kvalitetan. Nisam sram stida. "Naš promotor zabave. Dan kad smo stasali i poslao sam puno karata. Oni vole plesati i plesati jer želimo imati posebnu hranu u ovom gradu. Plešu cijelu noć. Čudna bol u zidu, Ali vrlo lijepo. Bojimo se stajati prije zaustavljanja. Kada započne rat, realizirat ćemo se sutra. Da, protivimo se sudanskoj opoziciji kako bismo se zaštitili i pokušali ostati u našoj sobi.
+
+Step 47/284
+>> Croatian - Italian
+	Per quelle donne, nel primo ministro, ha detto. Non vogliamo un divano. Generalmente molto buono, di buona qualità. Non mi vergogno della vergogna. "Il nostro promotore del partito. Il giorno in cui siamo cresciuti e ho inviato molti biglietti. A loro piace ballare e ballare perché vogliamo avere cibo speciale in questa città. Ballano tutta la notte. Strano dolore alle pareti, ma molto bello. Abbiamo paura di stare in piedi prima di fermarci. Quando inizia guerra, saremo realizzati domani .. Sì, ci opponiamo all'opposizione sudanese per proteggerci e cercare di rimanere nella nostra stanza.
+
+Step 48/284
+>> Italian - Swahili
+	Kwa wanawake hao, alisema katika waziri mkuu. Hatutaki sofa. Kwa ujumla mzuri sana, mzuri. Sina aibu aibu. "Mtangazaji wa chama chetu. Siku ambayo tulikua tunatuma tikiti nyingi. Wanapenda kucheza na kucheza kwa sababu tunataka kuwa na chakula maalum katika mji huu. Wanacheza usiku kucha. Ma maumivu ya ukuta wa ajabu, lakini mzuri sana. Tunaogopa kusimama kabla hatujaisha.Vita vitaanza, tutakamilika kesho .. Ndio, tunapinga upinzani wa Sudan kutulinda na kujaribu kukaa chumbani kwetu.
+
+Step 49/284
+>> Swahili - Shona
+	Kune vakadzi, akadaro mumukuru. Hatidi sofa. Zvakawanda kwazvo zvakanaka, zvakanaka. Ini handinyadziswi nokunyara. "Mushambadzi wedu webato. Musi watakakura taitumira tikiti zhinji.Vanoda kutamba nekutamba nekuti isu tinoda kudya kwakakosha muguta rino.Vanotamba husiku hwese .. Zvinorwadza mumadziro, asi zvakanaka kwazvo. Tinotya kumira zvisati zvaitika. Hondo ichatanga." Ehe, isu tinopokana neSudan inopikisa kuti itidzivirire uye tiedze kugara mumba medu.
+
+Step 50/284
+>> Shona - Bulgarian
+	За жените, каза началникът. Нямаме нужда от диван. Толкова много добри, толкова добри. Не ме е срам от срам. "Нашият търговец на парти. В деня, когато остаряхме, изпратихме много билети. Те искат да играят и да играят, защото в този град искаме специална храна. Играят цяла нощ. На стената е болезнено, но е много добре. Страхуваме се да спрем преди това. Войната ще започне." Да, предизвикваме противоположния Судан, за да ни защити и да се опитаме да останем в нашата къща.
+
+Step 51/284
+>> Bulgarian - Maori
+	Mo nga wahine, i kii te rangatira. Kaore matou e hiahia ki te sofa. Na tera te tino pai, he pai. E kore ahau i whakama o te whakama. "He kaihokohoko o ta maatau. I te ra kua tawhito haere ra matou, ka maha o taatau tiketi. E hiahia ana ratou ki te takaro me te taakaro no te mea e hiahia ana matou ki nga kai motuhake o tenei taone. Ka purei ratou i te po katoa, ka mamae i runga i te pakitara, engari he tino pai. i mua i tera. Ka tiimata te pakanga. " Ae, kei te wero matou i nga mea ke atu ki a Sudan ki te tiaki ia matou me te ngana ki te noho ki ta taatau whare.
+
+Step 52/284
+>> Maori - Albanian
+	Për gratë, tha shefi. Ne nuk duam një divan. Dhe kjo është shumë, shumë mirë. Nuk kam turp nga turpi. "Ne kemi klientë. Në ditët e vjetra, kemi marrë shumë bileta. Ata pëlqejnë të luajnë dhe të luajnë sepse na pëlqen specialiteti i këtij qyteti. Ata luajnë lojëra. gjithë natën, ajo u dëmtua në mur, por ishte me të vërtetë e mirë. Para kësaj. Lufta filloi. "Po, ne po bëjmë presion për më shumë sudanezë për të na mbrojtur dhe mundohuni të qëndroni në shtëpinë tonë.
+
+Step 53/284
+>> Albanian - Bengali
+	মহিলাদের জন্য, প্রধান ড। আমরা কোনও সোফা চাই না। এবং এটি খুব, খুব ভাল। আমি লজ্জা পাচ্ছি না। "আমাদের ক্লায়েন্ট রয়েছে। পুরানো দিনগুলিতে, আমরা প্রচুর টিকিট পেয়েছি। তারা এই শহরটির বিশেষত্ব পছন্দ করার কারণে তারা খেলতে এবং খেলতে পছন্দ করে They তারা গেমস খেলায় All সারা রাত দেয়ালে আঘাত পেয়েছিল, তবে এটি সত্যিই ভাল ছিল "তার আগেই। যুদ্ধ শুরু হয়েছিল।" হ্যাঁ, আমরা আমাদের সুরক্ষার জন্য আরও সুদানীদের চাপ দিচ্ছি এবং আমাদের ঘরে থাকার চেষ্টা করছি।
+
+Step 54/284
+>> Bengali - Luxembourgish
+	Fir Fraen, sot de Chef. Mir wëllen keen Sofa. An et ass ganz, ganz gutt. Ech schämmen mech net. "Mir hu Clienten. An den alen Deeg hu mir vill Ticketen. Si hu gär ze spillen a spillen well se d'Spezialitéit vun dëser Stad gär hunn. Si hunn d'ganz Nuecht op der Mauer geschloen, awer et war wierklech gutt." De Krich huet ugefaang. “Jo, mir dränge méi Sudaner fir eis ze schützen an ze probéieren an eis Haiser ze bleiwen.
+
+Step 55/284
+>> Luxembourgish - Russian
+	Для женщин, сказал босс. Мы не хотим диван. И это очень, очень хорошо. Мне не стыдно. «У нас есть клиенты. В старые времена у нас было много билетов. Им нравилось играть и играть, потому что им нравилась особенность этого города. Они оставались на стене всю ночь, но это было действительно хорошо». Война началась. «Да, мы призываем больше суданцев защитить нас и попытаться остаться в наших домах.
+
+Step 56/284
+>> Russian - Hungarian
+	A nők számára a főnök mondta. Nem akarunk kanapét. És ez nagyon, nagyon jó. Nem szégyellem. „Van ügyfeleink. A régi időkben nagyon sok volt jegyünk. Szerettek játszani és játszani, mert tetszett nekik a város jellegzetessége. Egész éjjel a falon maradtak, de ez nagyon jó volt. ” A háború elkezdődött. „Igen, további szudáni embereket sürgetünk, hogy óvjanak minket, és próbálják otthonunkban maradni.
+
+Step 57/284
+>> Hungarian - Korean
+	여성의 경우 상사가 말했다. 우리는 소파를 원하지 않습니다. 그리고 이것은 매우 좋습니다. 부끄러워하지 않습니다. “고객이 있습니다. 옛날에는 많은 티켓이있었습니다. 그들은 도시의 성격을 좋아했기 때문에 놀고 놀기를 좋아했습니다. 그들은 밤새 벽에 머물 렀지 만 훌륭했습니다. “전쟁이 시작되었습니다. “예, 우리는 추가 수단 사람들에게 우리를 보호하고 집에 머 무르도록 촉구합니다.
+
+Step 58/284
+>> Korean - Nepali
+	महिलाका लागि, हाकिमले भने। हामी सोफा चाहँदैनौं र यो धेरै राम्रो छ। लजालु नहुनुहोस् “मसँग एक ग्राहक छ। एक पटक त्यहाँ धेरै टिकटहरू थिए। उनीहरू खेल्न र खेल्न मन पराउँथे किनकि उनीहरूले शहरको चरित्र मन पराउँथे। तिनीहरू पर्खालमा रातभरि बसे तर यो ठूलो थियो। “युद्ध सुरु भएको छ। “हो, हामी अतिरिक्त साधनको मानिसहरूलाई हाम्रो रक्षा गर्न र घर बस्न आग्रह गर्दछौं।
+
+Step 59/284
+>> Nepali - Malagasy
+	Ho an'ny vehivavy dia hoy ny lehiben'ny polisy. Tsy mila sofa izahay ary tena tsara. Aza saro-kenatra "Manana client aho. Indray mandeha dia nisy tapakila maro. Tian'izy ireo ny milalao sy milalao satria tiany ny toetran'ny tanàna. Nijanona alina teo ambonin'ny rindrina izy ireo fa lehibe. “Nanomboka ny ady. "Eny, mamporisika ny olona manana loharano fanampiny izahay mba hiarovana anay ary hijanona ao an-trano.
+
+Step 60/284
+>> Malagasy - Mongolian
+	Эмэгтэйчүүдийн хувьд цагдаагийн дарга хэллээ. Бидэнд буйдан хэрэггүй байсан, тэгээд үнэхээр сайхан. Битгий ичимхий "Би үйлчлүүлэгчтэй. Нэгэн цагт олон тасалбарууд байсан. Тэд хотын дүр төрхөд дуртай байсан тул тоглох, тоглох дуртай байв. Тийм ээ, биднийг хамгаалах, гэртээ байлгахын тулд нэмэлт эх үүсвэртэй хүмүүсийг уриалж байна.
+
+Step 61/284
+>> Mongolian - Amharic
+	ለሴቶች ደግሞ የፖሊስ አዛ said አለ ፡፡ እኛ ሶፋ አልነበረንም ፣ እንግዲያውስ በጣም ጥሩ ነበር ፡፡ አይፍሩ "እኔ ደንበኛ አለኝ ፣ እና ብዙ ቲኬቶች ነበሩኝ ፣ ከተማዋን ስለወደዱት ከተማዋን ይወዳሉ ፣ አዎ እነሱ እኛን ለመጠበቅ እና ቤታችንን ለመጠበቅ ተጨማሪ ሀብቶችን እየጠየቁ ነው ፡፡
+
+Step 62/284
+>> Amharic - Kurdish
+	Ji bo jinan, polîs got. Me sofa tune, lewma jî pir bû. Ji ditirsin "Ez muwekîlê min heye, û min gelek bilêtên wan hene. Ew ji bajêr hez dikin ji ber ku ew jê hez dikin. Erê, ew ji bo çavkaniyên zêdetir dipirsin da ku me biparêzin û mala me biparêzin.
+
+Step 63/284
+>> Kurdish - Slovak
+	Pre ženy uviedla polícia. Nemali sme pohovku, takže to bolo príliš veľa. Strach „Mám klienta a mám veľa lístkov. Milujú mesto, pretože ho milujú. Áno, žiadajú viac zdrojov na ochranu nás a ochranu nášho domu.
+
+Step 64/284
+>> Slovak - Swedish
+	Polisen sa för kvinnor. Vi hade inte en soffa, så det var för mycket. Rädsla ”Jag har en kund och jag har många biljetter. De älskar staden eftersom de älskar den. Ja, de ber om fler resurser för att skydda oss och skydda vårt hus.
+
+Step 65/284
+>> Swedish - Georgian
+	პოლიციამ თქვა ქალებისთვის. დივანი არ გვქონდა, ამიტომ ძალიან ბევრი იყო. შიშით ”მე მყავს მომხმარებელი და ბევრი ბილეთი მაქვს. მათ უყვართ ქალაქი, რადგან ეს უყვართ. დიახ, ისინი უფრო მეტ რესურსს ითხოვენ, რომ დავიცვათ და დავიცვათ ჩვენი სახლი.
+
+Step 66/284
+>> Georgian - Thai
+	ตำรวจพูดเพื่อผู้หญิง เราไม่มีโซฟาดังนั้นมันมากเกินไป ด้วยความกลัว” ฉันมีลูกค้าและฉันมีตั๋วหลายใบ พวกเขารักเมืองเพราะพวกเขารักมัน ใช่พวกเขาต้องการทรัพยากรเพิ่มเติมเพื่อปกป้องและปกป้องบ้านของเรา
+
+Step 67/284
+>> Thai - Japanese
+	警察は女性のために話すソファがないので多すぎます。恐れて。「顧客がいて、チケットがたくさんあります。彼らはそれを愛しているので、彼らは都市を愛しています。はい、彼らは私たちの家を保護するために追加のリソースが必要です。
+
+Step 68/284
+>> Japanese - Icelandic
+	Lögreglan er of mörg af því að það er enginn sófi til að tala fyrir konur. Hræddur. "Það eru viðskiptavinir og fullt af miðum. Þeir elska borgina af því að þeir elska hana. Já, þeir þurfa viðbótarúrræði til að vernda heimili okkar.
+
+Step 69/284
+>> Icelandic - Portuguese
+	A polícia é demais porque não há sofá para falar de mulheres. Scared. "Existem clientes e muitos ingressos. Eles amam a cidade porque adoram. Sim, eles precisam de recursos adicionais para proteger nossa casa.
+
+Step 70/284
+>> Portuguese - Urdu
+	پولیس حیرت زدہ ہے کیونکہ خواتین کے بارے میں بات کرنے کا کوئی سوفی نہیں ہے۔ ڈرا ہوا۔ "یہاں صارفین اور بہت سارے ٹکٹ ہیں۔ وہ شہر کو پسند کرتے ہیں کیونکہ وہ اس سے پیار کرتے ہیں۔ ہاں ، انہیں ہمارے گھر کی حفاظت کے لئے اضافی وسائل کی ضرورت ہے۔
+
+Step 71/284
+>> Urdu - Bosnian
+	Policija je iznenađena jer nema sofe da se razgovara. Uplašen. "Ima kupaca i puno karata. Vole grad jer ih vole. Da, potrebni su im dodatni resursi da bi zaštitili naš dom.
+
+Step 72/284
+>> Bosnian - Chinese (Simplified)
+	警察很惊讶，因为没有沙发可与之交谈。害怕。 “有买家和大量门票。他们之所以喜欢这座城市，是因为他们喜欢这座城市。是的，他们需要额外的资源来保护我们的房屋。
+
+Step 73/284
+>> Chinese (Simplified) - Mongolian
+	Ярилцах буйдан байхгүй тул цагдаа нар гайхав. Айсан. "Худалдан авагчид олон тооны билет байдаг. Тэд хотод дуртай тул байшингаа хамгаалахад нэмэлт эх үүсвэр хэрэгтэй.
+
+Step 74/284
+>> Mongolian - Spanish
+	No había lugar para hablar, por lo que la policía se sorprendió. Asustado "Los compradores tienen muchas entradas y aman la ciudad, por lo que necesitan recursos adicionales para proteger sus hogares.
+
+Step 75/284
+>> Spanish - Uzbek
+	Gapirish uchun joy yo'q edi, shuning uchun politsiya hayratda qoldi. Qo'rqqan "Qabul qiluvchilar juda ko'p chiptalarga ega va shaharni yaxshi ko'rishadi, shuning uchun uylarini himoya qilish uchun qo'shimcha manbalar kerak.
+
+Step 76/284
+>> Uzbek - Sinhala
+	කතා කිරීමට ඉඩක් නොතිබූ නිසා පොලිසිය කම්පනයට පත් විය. බියට පත්වූ “ගැනුම්කරුවන්ට ප්‍රවේශ පත්‍ර රාශියක් ඇති අතර නගරයට ආදරය කරයි, එබැවින් ඔවුන්ගේ නිවාස ආරක්ෂා කිරීමට අමතර සම්පත් අවශ්‍ය වේ.
+
+Step 77/284
+>> Sinhala - French
+	La police a été choquée car il n'y avait pas de place pour parler. Les acheteurs effrayés ont beaucoup de billets et aiment la ville, ils ont donc besoin de ressources supplémentaires pour protéger leur maison.
+
+Step 78/284
+>> French - Norwegian
+	Politiet ble sjokkert fordi det ikke var noe sted å snakke. Redde shoppere har mange billetter og elsker byen, så de trenger ekstra ressurser for å beskytte hjemmet sitt.
+
+Step 79/284
+>> Norwegian - Haitian Creole
+	Polis yo te choke paske te gen okenn kote yo pale. Achtè sekou yo gen anpil tikè epi yo renmen vil la, kidonk yo bezwen resous siplemantè pou pwoteje kay yo.
+
+Step 80/284
+>> Haitian Creole - Catalan
+	La policia va quedar commocionada perquè no hi havia lloc per parlar. Els compradors de rescat tenen un munt de bitllets i els encanten la ciutat, per la qual cosa necessiten recursos addicionals per protegir la seva llar.
+
+Step 81/284
+>> Catalan - Amharic
+	ፖሊስ የሚናገርበት ቦታ ስለሌለ ፖሊሶች ደነገጡ ፡፡ የነፍስ አድን ገyersዎች ብዙ ትኬቶች አሏቸው እና ከተማዋን ይወዳሉ ፣ ስለሆነም ቤትዎን ለመጠበቅ ተጨማሪ ሀብቶች ይፈልጋሉ ፡፡
+
+Step 82/284
+>> Amharic - Ukrainian
+	Поліція була шокована, бо ніде було про що говорити. У рятувальників багато квитків і люблять місто, тому їм потрібно більше ресурсів для захисту вашого будинку.
+
+Step 83/284
+>> Ukrainian - Georgian
+	პოლიცია შოკში იყო, რადგან სალაპარაკო არაფერი იყო. მაშველებს უამრავი ბილეთი აქვთ და უყვართ ქალაქი, ამიტომ მათ სახლის დასაცავად მეტი რესურსი სჭირდებათ.
+
+Step 84/284
+>> Georgian - Maltese
+	Il-Pulizija kienu ixxukkjati għax ma kien hemm xejn x’jitkellmu dwarhom. Is-salvataġġi għandhom ħafna biljetti u jħobbu l-belt, u għalhekk għandhom bżonn aktar riżorsi biex jipproteġu djarhom.
+
+Step 85/284
+>> Maltese - Macedonian
+	Полицијата беа шокирани, бидејќи немаше ништо да x'jitkellmu. На спасува имаат многу билети и љубовта на градот, и затоа треба повеќе ресурси за да ги заштитат своите домови.
+
+Step 86/284
+>> Macedonian - Luxembourgish
+	D'Police war schockéiert well et näischt ze x'jitkellmu war. D'Rettungen hu vill Ticketen an d'Léift vun der Stad, a brauchen dofir méi Ressourcen fir hir Haiser ze schützen.
+
+Step 87/284
+>> Luxembourgish - Swedish
+	Polisen var chockad för det fanns inget för x'jitkellmu. Räddarna har gott om biljetter och stadens kärlek och behöver därför mer resurser för att skydda sina hem.
+
+Step 88/284
+>> Swedish - Slovenian
+	Policija je bila šokirana, ker za x'jitkellmu ni bilo nič. Reševalci imajo veliko vozovnic in ljubezen do mesta, zato potrebujejo več sredstev za zaščito svojih domov.
+
+Step 89/284
+>> Slovenian - Danish
+	Politiet var chokeret, fordi der ikke var noget for x'jitkellmu. Redningsmænd har masser af billetter og en kærlighed til byen, så de har brug for flere ressourcer til at beskytte deres hjem.
+
+Step 90/284
+>> Danish - Lithuanian
+	Policija buvo šokiruota, nes x'jitkellmu nieko nebuvo. Gelbėtojai turi daugybę bilietų ir meilę miestui, todėl norint apsaugoti namus reikia daugiau išteklių.
+
+Step 91/284
+>> Lithuanian - Irish
+	Bhí ionadh ar na póilíní toisc nach raibh aon rud le déanamh ag x'jitkellmu. Tá tonna ticéad agus grá ag na daoine a thugann cuairt ar an gcathair, agus tá níos mó acmhainní ag teastáil chun an teach a chosaint.
+
+Step 92/284
+>> Irish - Turkish
+	Polis şaşırdı çünkü x'jitkellmu'da yapacak bir şey yoktu. Şehri ziyaret edenlerin tonlarca bileti ve sevgisi var ve evi korumak için daha fazla kaynağa ihtiyaç var.
+
+Step 93/284
+>> Turkish - Icelandic
+	Lögreglan var hissa því að ekkert var að gera við x'jitkellmu. Gestir í borginni hafa fjöldann allan af miðum og kærleika og þarf meira fjármagn til að vernda húsið.
+
+Step 94/284
+>> Icelandic - Estonian
+	Politsei oli üllatunud, kuna x'jitkellmuga polnud midagi pistmist. Linna külalistel on palju pileteid ja armastust ning nad vajavad maja kaitsmiseks rohkem raha.
+
+Step 95/284
+>> Estonian - Hindi
+	पुलिस हैरान थी क्योंकि x'jitkellm का इससे कोई लेना-देना नहीं था। शहर के मेहमानों के पास बहुत सारे टिकट और प्यार हैं और घर की सुरक्षा के लिए अधिक धन की आवश्यकता है।
+
+Step 96/284
+>> Hindi - Romanian
+	Poliția a fost surprinsă pentru că x'jitkellm nu a avut nimic de-a face. Oaspeții din oraș au multe bilete și iubesc și au nevoie de mai mulți bani pentru securitatea casei.
+
+Step 97/284
+>> Romanian - Serbian
+	Полиција је била изненађена јер к'јиткеллм није имао шта да ради. Гости у граду имају много карата и воле, а треба им више новца за кућну сигурност.
+
+Step 98/284
+>> Serbian - Malagasy
+	Gaga ny polisy fa tsy misy idiran'ny k'jitkellm. Ny vahiny ao an-tanàna dia manana tapakila sy tiana be dia be, ary mila vola bebe kokoa amin'ny fiarovana trano.
+
+Step 99/284
+>> Malagasy - Arabic
+	فوجئت الشرطة بأن k'jitkellm ليس له علاقة به. يحصل الضيوف في المدينة على الكثير من التذاكر والمفضلة ، ويحتاجون إلى المزيد من المال على أمن المنزل.
+
+Step 100/284
+>> Arabic - Kazakh
+	Полиция k'jitkellm оған ешқандай қатысы жоқ екеніне таң қалды. Қаладағы қонақтар көптеген билеттер мен сүйіктілерді алады, үй қауіпсіздігі үшін көп ақша керек.
+
+Step 101/284
+>> Kazakh - Armenian
+	Ոստիկանությունը զարմացրեց, որ k'jitkellm- ը ոչ մի կապ չունի: Քաղաքում հյուրերը ստանում են բազմաթիվ տոմսեր և ընտրյալներ, և ավելի շատ գումար է պետք տան անվտանգության համար:
+
+Step 102/284
+>> Armenian - Samoan
+	Sa faateia le au leoleo e leai se mea na faia e le k'jitkellm. I totonu o le aai, e maua e malo le tele o tiketi ma filifiliga, ma e manaʻomia le tele o tupe mo le saogalemu.
+
+Step 103/284
+>> Samoan - Bengali
+	পুলিশ হতবাক হয়েছিল যে কেজিটকেলম কিছুই করেনি। শহরে অতিথিদের কাছে প্রচুর টিকিট এবং বিকল্প রয়েছে এবং সুরক্ষার জন্য তাদের প্রচুর অর্থের প্রয়োজন হয়।
+
+Step 104/284
+>> Bengali - Lao
+	ຕຳ ຫຼວດຕື່ນຕົກໃຈທີ່ທ້າວ Kjitkelm ບໍ່ໄດ້ເຮັດຫຍັງເລີຍ. ບຸກຄົນທົ່ວໄປໃນເມືອງມີປີ້ແລະທາງເລືອກຫລາຍພໍສົມຄວນ, ແລະພວກເຂົາຕ້ອງການເງິນຫຼາຍ ສຳ ລັບຄວາມປອດໄພ.
+
+Step 105/284
+>> Lao - Chichewa
+	Apolisi adadandaula kuti Kjitkelm sanachite chilichonse. Aliyense mu tawuniyi ali ndi matikiti ambiri ndi zosankha, ndipo amafunikira ndalama zambiri kuti atetezeke.
+
+Step 106/284
+>> Chichewa - Thai
+	ตำรวจบ่นว่า Kjitkelm ไม่ได้ทำอะไรเลย ทุกคนในเมืองมีตั๋วและตัวเลือกมากมายและพวกเขาต้องการเงินจำนวนมากเพื่อความปลอดภัย
+
+Step 107/284
+>> Thai - Hungarian
+	A rendõrség panaszolta, hogy Kjitkelm nem tett semmit. A városban mindenkinek sok jegy és lehetősége van, és sok pénzre van szükségük a biztonság érdekében.
+
+Step 108/284
+>> Hungarian - Kurdish
+	Polîs gilî kir ku Kjitkelm tiştek nekiriye. Her kesê li bajêr gelek bilêt û derfet hene, û ew ji bo ewlehiyê gelek drav hewce ne.
+
+Step 109/284
+>> Kurdish - Swahili
+	Polisi walilalamika kwamba Kjitkelm hakufanya chochote. Kila mtu katika mji ana tikiti na fursa nyingi, na zinahitaji pesa nyingi kwa usalama.
+
+Step 110/284
+>> Swahili - Bulgarian
+	Полицията се оплака, че Киткелм не е направил нищо. Всеки в града има много билети и възможности, а те изискват много пари за сигурност.
+
+Step 111/284
+>> Bulgarian - Vietnamese
+	Cảnh sát phàn nàn rằng Kickelm đã không làm gì. Mọi người trong thành phố có nhiều vé và lựa chọn, và họ yêu cầu rất nhiều an ninh.
+
+Step 112/284
+>> Vietnamese - Burmese
+	ရဲတပ်ဖွဲ့ Kickelm ဘာမျှပြုတိုင်ကြား။ မွို့၌လူတိုင်းရွေးချယ်မှုများစွာကိုလက်မှတ်တွေရှိပြီး, သူတို့လုံခြုံရေးအတွက်အများကြီးလိုအပ်သည်။
+
+Step 113/284
+>> Burmese - English
+	Police did nothing Kickelm complaint. Everyone in the city has many choices tickets, they need a lot of security.
+
+Step 114/284
+>> English - Nepali
+	पुलिसले किकल्कम गुनासो गरेन। शहरमा सबैजनासँग धेरै छनौट टिकटहरू छन्, तिनीहरूलाई धेरै सुरक्षा चाहिन्छ।
+
+Step 115/284
+>> Nepali - Chinese (Traditional)
+	警方未對加爾卡庫姆提出申訴。城市中的每個人都有很多選擇票，他們需要很多安全保障。
+
+Step 116/284
+>> Chinese (Traditional) - Russian
+	Полиция не подала жалобу на Гаркакума. У каждого в городе есть много вариантов, и им нужно много безопасности.
+
+Step 117/284
+>> Russian - German
+	Die Polizei hat keine Anzeige gegen Garkakum erstattet. Jeder in der Stadt hat viele Möglichkeiten und sie brauchen viel Sicherheit.
+
+Step 118/284
+>> German - Hebrew
+	המשטרה לא הגישה תלונה נגד גרקום. לכל אחד בעיר יש הרבה אפשרויות והם זקוקים לאבטחה רבה.
+
+Step 119/284
+>> Hebrew - Filipino
+	Hindi nagsampa ng reklamo ang pulisya laban kay Garcom. Ang bawat tao sa lungsod ay may maraming mga pagpipilian at kailangan nila ng maraming seguridad.
+
+Step 120/284
+>> Filipino - Malay
+	Polis tidak memfailkan aduan terhadap Garcom. Semua orang di bandar mempunyai banyak pilihan dan mereka memerlukan banyak keselamatan.
+
+Step 121/284
+>> Malay - Bosnian
+	Policija nije podnijela prijavu protiv Garcoma. Svi u gradu imaju puno opcija i za njih je potrebno puno sigurnosti.
+
+Step 122/284
+>> Bosnian - Portuguese
+	A polícia não apresentou queixa contra a Garcom. Todos na cidade têm muitas opções e precisam de muita segurança.
+
+Step 123/284
+>> Portuguese - Albanian
+	Policia nuk ka ngritur asnjë ankesë kundër Garcom. Të gjithë në qytet kanë shumë mundësi dhe kanë nevojë për shumë siguri.
+
+Step 124/284
+>> Albanian - Dutch
+	De politie heeft geen klachten ingediend tegen Garcom. Iedereen in de stad heeft veel kansen en heeft veel beveiliging nodig.
+
+Step 125/284
+>> Dutch - Persian
+	پلیس هیچ شکایتی علیه Garcom ارائه نکرده است. همه افراد در سطح شهر فرصت های زیادی دارند و به امنیت زیادی احتیاج دارند.
+
+Step 126/284
+>> Persian - Croatian
+	Policija nije podnijela prijavu protiv Garcoma. Svi u gradu imaju puno mogućnosti i treba im puno sigurnosti.
+
+Step 127/284
+>> Croatian - Greek
+	Η αστυνομία δεν έχει καταθέσει κατηγορίες εναντίον της Garcom. Όλοι στην πόλη έχουν πολλές επιλογές και χρειάζονται μεγάλη ασφάλεια.
+
+Step 128/284
+>> Greek - Zulu
+	Amaphoyisa awazange afake amacala abhekene noGarcom. Wonke umuntu edolobheni unezinketho eziningi futhi udinga ukuphepha okukhulu.
+
+Step 129/284
+>> Zulu - Indonesian
+	Polisi belum mengajukan tuntutan terhadap Garcom. Setiap orang di kota memiliki banyak pilihan dan membutuhkan keamanan yang hebat.
+
+Step 130/284
+>> Indonesian - Italian
+	La polizia non ha intentato causa contro Garcom. Tutti in città hanno molte scelte e hanno bisogno di grande sicurezza.
+
+Step 131/284
+>> Italian - Pashto
+	پولیسو د ګارکام غوښتنه نه ده کړې. په ښار کې هرڅوک ډیری انتخابونه لري او دوی لوی امنیت ته اړتیا لري.
+
+Step 132/284
+>> Pashto - Shona
+	Mapurisa haana kupindura chikumbiro chaGarkam. Wese munhu ari muguta ane zvakawanda zvingasarudzwa uye ivo vanoda kuchengetedzwa kukuru.
+
+Step 133/284
+>> Shona - Hausa
+	‘Yan sanda ba su amsa bukatar Garkam ba. Kowane mutum a cikin birni yana da zaɓuɓɓuka masu yawa kuma suna buƙatar babban tsaro.
+
+Step 134/284
+>> Hausa - Urdu
+	پولیس نے گرکم کی درخواست پر کوئی جواب نہیں دیا۔ شہر میں ہر ایک کے پاس بہت سارے اختیارات ہیں اور انھیں بڑی حفاظت کی ضرورت ہے۔
+
+Step 135/284
+>> Urdu - Czech
+	Policie neodpověděla na Girkemovu žádost. Každý má ve městě mnoho možností a potřebuje velkou bezpečnost.
+
+Step 136/284
+>> Czech - Japanese
+	警察はギルケムの要求に応じなかった。誰もが街には多くの選択肢があり、優れたセキュリティが必要です。
+
+Step 137/284
+>> Japanese - Polish
+	Policja nie odpowiedziała na prośbę Gilchem. W mieście każdy ma duży wybór i potrzebuje dobrego bezpieczeństwa.
+
+Step 138/284
+>> Polish - Latvian
+	Policija uz Gilhema lūgumu neatbildēja. Ikvienam pilsētā ir liela izvēle, un viņiem ir nepieciešama laba drošība.
+
+Step 139/284
+>> Latvian - Korean
+	경찰은 길햄의 요청에 응답하지 않았다. 도시의 모든 사람들은 선택의 폭이 넓고 좋은 보안이 필요합니다.
+
+Step 140/284
+>> Korean - Maori
+	Kaore nga pirihimana i aro ki ta Gilham tono. He nui nga whiringa katoa me nga taangata katoa e noho ana i te taone nui.
+
+Step 141/284
+>> Maori - Finnish
+	Poliisi ei vastannut Gilhamin pyyntöön. Vaihtoehtoja on paljon ja kaikki kaupungissa asuvat ihmiset ovat hienoja.
+
+Step 142/284
+>> Finnish - Slovak
+	Polícia na žiadosť Gilhama nereagovala. Existuje veľa alternatív a všetci ľudia v meste sú skvelí.
+
+Step 143/284
+>> Slovak - Finnish
+	Poliisi ei vastannut Gilhamin pyyntöön. Vaihtoehtoja on paljon ja kaikki kaupungin ihmiset ovat hienoja.
+
+Step 144/284
+>> Finnish - Maori
+	Kaore nga Pirihimana i whakautu ki ta Kirham tono. He maha nga whiringa he nui nga iwi kei roto i te taone nui.
+
+Step 145/284
+>> Maori - Korean
+	경찰은 커햄의 요청에 응답하지 않았다. 도시의 많은 사람들에게 다양한 옵션이 있습니다.
+
+Step 146/284
+>> Korean - Latvian
+	Policija uz Kerhema lūgumu neatbildēja. Daudziem pilsētas iedzīvotājiem ir dažādas iespējas.
+
+Step 147/284
+>> Latvian - Polish
+	Policja nie odpowiedziała na prośbę Kerhama. Wiele osób w mieście ma różne opcje.
+
+Step 148/284
+>> Polish - Japanese
+	警察はカーハムの要請に応じなかった。市内の多くの人々にはさまざまな選択肢があります。
+
+Step 149/284
+>> Japanese - Czech
+	Policie neodpověděla na Carhamovu žádost. Mnoho lidí ve městě má různé možnosti.
+
+Step 150/284
+>> Czech - Urdu
+	پولیس نے کارہم کی درخواست پر کوئی جواب نہیں دیا۔ شہر میں بہت سے لوگوں کے پاس مختلف اختیارات ہیں۔
+
+Step 151/284
+>> Urdu - Hausa
+	‘Yan sanda ba su amsa bukatar Carham ba. Mutane da yawa a cikin birni suna da zaɓuɓɓuka daban-daban.
+
+Step 152/284
+>> Hausa - Shona
+	Mapurisa haana kupindura chikumbiro chaCarham. Vanhu vazhinji vari muguta vane sarudzo dzakasiyana.
+
+Step 153/284
+>> Shona - Pashto
+	پولیسو د کارم غوښتنې ته ځواب ونه وایه. په ښار کې ډیری خلک مختلف انتخابونه لري.
+
+Step 154/284
+>> Pashto - Italian
+	La polizia non ha risposto alla richiesta di Carm. Molte persone in città hanno diverse opzioni.
+
+Step 155/284
+>> Italian - Indonesian
+	Polisi tidak menanggapi permintaan Carm. Banyak orang di kota memiliki pilihan berbeda.
+
+Step 156/284
+>> Indonesian - Zulu
+	Amaphoyisa awaphendulanga isicelo sikaCarm. Abantu abaningi edolobheni banezinketho ezihlukile.
+
+Step 157/284
+>> Zulu - Greek
+	Η αστυνομία δεν απάντησε στο αίτημα του Carm. Οι περισσότεροι άνθρωποι στην πόλη έχουν διαφορετικές επιλογές.
+
+Step 158/284
+>> Greek - Croatian
+	Policija nije odgovorila na Carmov zahtjev. Većina ljudi u gradu ima različite mogućnosti.
+
+Step 159/284
+>> Croatian - Persian
+	پلیس به درخواست کارما پاسخ نداد. بیشتر مردم در شهر گزینه های مختلفی دارند.
+
+Step 160/284
+>> Persian - Dutch
+	De politie reageerde niet op het verzoek van Karma. De meeste mensen in de stad hebben verschillende opties.
+
+Step 161/284
+>> Dutch - Albanian
+	Policia nuk iu përgjigj kërkesës së Karma. Shumica e njerëzve në qytet kanë mundësi të ndryshme.
+
+Step 162/284
+>> Albanian - Portuguese
+	A polícia não respondeu ao pedido do Karma. A maioria das pessoas na cidade tem opções diferentes.
+
+Step 163/284
+>> Portuguese - Bosnian
+	Policija nije odgovorila na Karmin zahtjev. Većina ljudi u gradu ima različite mogućnosti.
+
+Step 164/284
+>> Bosnian - Malay
+	Polis tidak bertindak balas terhadap permintaan Karma. Kebanyakan orang di bandar mempunyai pilihan yang berbeza.
+
+Step 165/284
+>> Malay - Filipino
+	Hindi tumugon ang pulisya sa kahilingan ni Karma. Karamihan sa mga tao sa lungsod ay may iba't ibang mga pagpipilian.
+
+Step 166/284
+>> Filipino - Hebrew
+	המשטרה לא הגיבה לבקשתה של קארמה. לרוב האנשים בעיר אפשרויות שונות.
+
+Step 167/284
+>> Hebrew - German
+	Die Polizei antwortete nicht auf Karmas Bitte. Die meisten Menschen in der Stadt haben verschiedene Möglichkeiten.
+
+Step 168/284
+>> German - Russian
+	Полиция не ответила на запрос Кармы. У большинства людей в городе разные варианты.
+
+Step 169/284
+>> Russian - Chinese (Traditional)
+	警察沒有回應K瑪的要求。城市中的大多數人有不同的選擇。
+
+Step 170/284
+>> Chinese (Traditional) - Nepali
+	पुलिसले Kma को अनुरोध को लागी जवाफ दिएन। शहरका धेरैजसो मानिससँग बिभिन्न विकल्पहरू छन्।
+
+Step 171/284
+>> Nepali - English
+	Police did not respond to Kma's request. Most people in the city have different options.
+
+Step 172/284
+>> English - Burmese
+	ရဲတပ်ဖွဲ့ KMA ရဲ့တောငျးဆိုခကျြတုံ့ပြန်ခဲ့ပါဘူး။ မွို့၌လူအများစုဟာ options အမျိုးမျိုးရှိသည်။
+
+Step 173/284
+>> Burmese - Vietnamese
+	cảnh sát KMA đã không đáp ứng với yêu cầu. Hầu hết mọi người trong thành phố có rất nhiều lựa chọn.
+
+Step 174/284
+>> Vietnamese - Bulgarian
+	Полицията на KMA не отговори на молбата. Повечето хора в града имат много възможности.
+
+Step 175/284
+>> Bulgarian - Swahili
+	Polisi wa KMA hawakujibu ombi hilo. Watu wengi katika jiji wana chaguzi nyingi.
+
+Step 176/284
+>> Swahili - Kurdish
+	Polîsê KMA bersiv nedaye daxwazê. Piraniya kesên li bajêr gelek vebijark hene.
+
+Step 177/284
+>> Kurdish - Hungarian
+	A KMA rendõrsége nem válaszolt a kérésre. A város legtöbb emberének számos lehetősége van.
+
+Step 178/284
+>> Hungarian - Thai
+	ตำรวจ KMA ไม่ตอบสนองต่อการร้องขอ คนส่วนใหญ่ในเมืองมีตัวเลือกมากมาย
+
+Step 179/284
+>> Thai - Chichewa
+	Apolisi a KMA sayankha zopempha Anthu ambiri mumzinda amakhala ndi zosankha zambiri.
+
+Step 180/284
+>> Chichewa - Lao
+	ຕຳ ຫຼວດ KMA ບໍ່ຕອບສະ ໜອງ ຕໍ່ ຄຳ ຮ້ອງຂໍຂອງປະຊາຊົນສ່ວນໃຫຍ່ໃນເມືອງມີຫລາຍທາງເລືອກ.
+
+Step 181/284
+>> Lao - Bengali
+	কেএমএ পুলিশ অনেক বিকল্পের সাহায্যে শহরের বেশিরভাগ লোকের অনুরোধে সাড়া দেয়নি।
+
+Step 182/284
+>> Bengali - Samoan
+	O leoleo leoleo KMA e leʻi tali atu i talosaga a le toʻatele o tagata i le aai ma le tele o filifiliga.
+
+Step 183/284
+>> Samoan - Armenian
+	KMA- ի ոստիկանությունը չի պատասխանել քաղաքի մի քանի մարդկանց դիմումներին `ավելի շատ տարբերակներ ունենալով:
+
+Step 184/284
+>> Armenian - Kazakh
+	КМА полициясы қаладағы бірнеше адамның қосымша нұсқалары бар сұраныстарына жауап бермеді.
+
+Step 185/284
+>> Kazakh - Arabic
+	لم تستجب شرطة KMA لطلبات من عدة أشخاص في المدينة مع خيارات إضافية.
+
+Step 186/284
+>> Arabic - Malagasy
+	Ny polisy KMA dia tsy namaly ny fangatahan'ny olona maromaro tao an-tanàna niaraka tamin'ny safidy fanampiny.
+
+Step 187/284
+>> Malagasy - Serbian
+	Полиција КМА није одговорила на захтеве више људи у граду додатним опцијама.
+
+Step 188/284
+>> Serbian - Romanian
+	Poliția KMA nu a răspuns la cererile de la mai multe persoane din oraș pentru opțiuni suplimentare.
+
+Step 189/284
+>> Romanian - Hindi
+	केएमए पुलिस ने अतिरिक्त विकल्पों के लिए शहर के अधिक लोगों के अनुरोधों का जवाब नहीं दिया।
+
+Step 190/284
+>> Hindi - Estonian
+	KMA politsei ei vastanud rohkemate linna inimeste taotlustele täiendavate võimaluste leidmiseks.
+
+Step 191/284
+>> Estonian - Icelandic
+	Lögregla CMB svaraði ekki beiðnum frá fleirum í borginni um frekari tækifæri.
+
+Step 192/284
+>> Icelandic - Turkish
+	SPK polisi, daha fazla fırsat için şehirdeki daha fazla insanın isteklerine cevap vermedi.
+
+Step 193/284
+>> Turkish - Irish
+	Ní dhearna póilíní an CMB freagra ar mhianta níos mó daoine sa chathair le haghaidh níos mó deiseanna.
+
+Step 194/284
+>> Irish - Lithuanian
+	CMB policija nereagavo į tai, kad daugiau žmonių mieste turėtų daugiau galimybių.
+
+Step 195/284
+>> Lithuanian - Danish
+	CMB-politiet reagerede ikke på at give flere mennesker i byen flere muligheder.
+
+Step 196/284
+>> Danish - Slovenian
+	Policija CMB se ni odzvala na to, da bi več mest v mestu dalo več možnosti.
+
+Step 197/284
+>> Slovenian - Swedish
+	CMB-polisen har inte svarat på att ge fler alternativ i staden till staden.
+
+Step 198/284
+>> Swedish - Luxembourgish
+	CMB Police huet net geäntwert fir méi Optiounen an der Stad ze bidden.
+
+Step 199/284
+>> Luxembourgish - Macedonian
+	ЦМБ полицијата не реагираше да понуди повеќе опции во градот.
+
+Step 200/284
+>> Macedonian - Maltese
+	Il-pulizija tal-FMS ma wieġbux għall-offerti ta ’aktar għażliet fil-belt.
+
+Step 201/284
+>> Maltese - Georgian
+	პოლიციამ პასუხი არ FMS მეტ შესაძლებლობას ქალაქში.
+
+Step 202/284
+>> Georgian - Ukrainian
+	Поліція не відповіла на FMS більше можливостей у місті.
+
+Step 203/284
+>> Ukrainian - Amharic
+	ፖሊስ በከተማው ውስጥ ብዙ እድሎች ለ FMS ምላሽ አልሰጡም ፡፡
+
+Step 204/284
+>> Amharic - Catalan
+	La policia no ha respost a FMS moltes oportunitats a la ciutat.
+
+Step 205/284
+>> Catalan - Haitian Creole
+	Polis yo pa reponn a FMS ak anpil opòtinite nan vil la.
+
+Step 206/284
+>> Haitian Creole - Norwegian
+	Politiet reagerer ikke på FMS og mange muligheter i byen.
+
+Step 207/284
+>> Norwegian - French
+	La police ne répond pas au FMS et à de nombreuses opportunités dans la ville.
+
+Step 208/284
+>> French - Sinhala
+	එෆ්එම්එස් සහ නගරයේ බොහෝ අවස්ථාවන්ට පොලීසිය ප්‍රතිචාර නොදක්වයි.
+
+Step 209/284
+>> Sinhala - Uzbek
+	FMS va shahar ko'pincha politsiyaga javob bermaydilar.
+
+Step 210/284
+>> Uzbek - Spanish
+	El FMS y la ciudad a menudo no responden a la policía.
+
+Step 211/284
+>> Spanish - Mongolian
+	FMS болон хот нь цагдаа нарт хариу өгдөггүй.
+
+Step 212/284
+>> Mongolian - Chinese (Simplified)
+	FMS和该市未对警察做出回应。
+
+Step 213/284
+>> Chinese (Simplified) - Bosnian
+	FMS i grad nisu odgovorili policiji.
+
+Step 214/284
+>> Bosnian - Urdu
+	ایف ایم ایس اور شہر نے پولیس کو جواب نہیں دیا۔
+
+Step 215/284
+>> Urdu - Portuguese
+	A FMS e a cidade não responderam à polícia.
+
+Step 216/284
+>> Portuguese - Icelandic
+	FMS og borgin brugðust ekki við lögreglu.
+
+Step 217/284
+>> Icelandic - Japanese
+	FMSと市は警察に対応しなかった。
+
+Step 218/284
+>> Japanese - Thai
+	FMS และเมืองไม่ตอบสนองต่อตำรวจ
+
+Step 219/284
+>> Thai - Georgian
+	FMS და ქალაქს პოლიციამ არ უპასუხეს
+
+Step 220/284
+>> Georgian - Swedish
+	FMS och stadspolisen svarade inte
+
+Step 221/284
+>> Swedish - Slovak
+	FMS a mestská polícia neodpovedali
+
+Step 222/284
+>> Slovak - Kurdish
+	FMS û polîsên şaredariyê bersiv nedan
+
+Step 223/284
+>> Kurdish - Amharic
+	የኤፍ.ኤም.ኤስ እና የማዘጋጃ ቤት ፖሊስ መልስ አልሰጡም ፡፡
+
+Step 224/284
+>> Amharic - Mongolian
+	FMS болон хотын цагдаа нар хариу өгөөгүй.
+
+Step 225/284
+>> Mongolian - Malagasy
+	Ny FMS sy ny polisy dia tsy namaly.
+
+Step 226/284
+>> Malagasy - Nepali
+	एफएमएस र पुलिसले प्रतिक्रिया दिएनन्।
+
+Step 227/284
+>> Nepali - Korean
+	FMS와 경찰은 응답하지 않았다.
+
+Step 228/284
+>> Korean - Hungarian
+	Az FMS és a rendõrség nem válaszolt.
+
+Step 229/284
+>> Hungarian - Russian
+	ФМС и полиция не ответили.
+
+Step 230/284
+>> Russian - Luxembourgish
+	D'FMS an d'Police hunn net reagéiert.
+
+Step 231/284
+>> Luxembourgish - Bengali
+	এফএমএস এবং পুলিশ কোনও প্রতিক্রিয়া জানায় না।
+
+Step 232/284
+>> Bengali - Albanian
+	FMS dhe policia nuk u përgjigjën.
+
+Step 233/284
+>> Albanian - Maori
+	Ko te FMS me nga pirihimana kaore i whakautu.
+
+Step 234/284
+>> Maori - Bulgarian
+	ФМС и полицията не реагираха.
+
+Step 235/284
+>> Bulgarian - Shona
+	Iyo FMS nemapurisa havana kupindura.
+
+Step 236/284
+>> Shona - Swahili
+	FMS na polisi hawakujibu.
+
+Step 237/284
+>> Swahili - Italian
+	L'FMS e la polizia non hanno risposto.
+
+Step 238/284
+>> Italian - Croatian
+	FMS i policija nisu reagirali.
+
+Step 239/284
+>> Croatian - Persian
+	FMS و پلیس پاسخی ندادند.
+
+Step 240/284
+>> Persian - Burmese
+	FMS နှင့်ရဲကိုတုံ့ပြန်ခဲ့ပါဘူး။
+
+Step 241/284
+>> Burmese - Turkish
+	FMS ve polise yanıt vermedi.
+
+Step 242/284
+>> Turkish - Lithuanian
+	FMS ir policija neatsakė.
+
+Step 243/284
+>> Lithuanian - Estonian
+	FMS ja politsei ei vastanud.
+
+Step 244/284
+>> Estonian - Macedonian
+	ФМС и полицијата не реагираа.
+
+Step 245/284
+>> Macedonian - Maltese
+	L-HMS u l-pulizija ma rrispondewx.
+
+Step 246/284
+>> Maltese - Pashto
+	د HMS او د پوليسو ځواب ور نه کړ.
+
+Step 247/284
+>> Pashto - German
+	HMS und die Polizei antworteten nicht.
+
+Step 248/284
+>> German - Samoan
+	HMS ma leoleo e leʻi tali mai.
+
+Step 249/284
+>> Samoan - Armenian
+	ՀՔԾ-ն և ոստիկանությունը չեն արձագանքել:
+
+Step 250/284
+>> Armenian - Czech
+	SIS a policie neodpověděly.
+
+Step 251/284
+>> Czech - Chichewa
+	SIS ndi apolisi sanayankhe.
+
+Step 252/284
+>> Chichewa - Spanish
+	El SIS y la policía no respondieron.
+
+Step 253/284
+>> Spanish - Irish
+	Níor fhreagair an SIS agus na póilíní.
+
+Step 254/284
+>> Irish - Uzbek
+	SIS va politsiya javob bermadi.
+
+Step 255/284
+>> Uzbek - Dutch
+	SIS en politie reageerden niet.
+
+Step 256/284
+>> Dutch - Vietnamese
+	SIS và cảnh sát đã không trả lời.
+
+Step 257/284
+>> Vietnamese - Haitian Creole
+	SIS ak lapolis pa t 'reponn.
+
+Step 258/284
+>> Haitian Creole - Chinese (Simplified)
+	SIS和警察没有回应。
+
+Step 259/284
+>> Chinese (Simplified) - Catalan
+	El SIS i la policia no van respondre.
+
+Step 260/284
+>> Catalan - Kazakh
+	СИС пен полиция жауап бермеді.
+
+Step 261/284
+>> Kazakh - Hausa
+	EC da 'yan sanda ba su amsa ba.
+
+Step 262/284
+>> Hausa - Romanian
+	CE și poliția nu au răspuns.
+
+Step 263/284
+>> Romanian - Arabic
+	لم تستجب المفوضية الأوروبية والشرطة.
+
+Step 264/284
+>> Arabic - Slovenian
+	Evropska komisija in policija se nista odzvala.
+
+Step 265/284
+>> Slovenian - Danish
+	Europa-Kommissionen og politiet reagerede ikke.
+
+Step 266/284
+>> Danish - Lao
+	ຄະນະ ກຳ ມະການເອີຣົບແລະ ຕຳ ຫຼວດບໍ່ໄດ້ຕອບໂຕ້.
+
+Step 267/284
+>> Lao - Hindi
+	यूरोपीय आयोग और पुलिस ने कोई जवाब नहीं दिया।
+
+Step 268/284
+>> Hindi - Finnish
+	Euroopan komissio ja poliisi eivät vastanneet.
+
+Step 269/284
+>> Finnish - Ukrainian
+	Європейська комісія та поліція не відповіли.
+
+Step 270/284
+>> Ukrainian - Malay
+	Suruhanjaya Eropah dan polis tidak bertindak balas.
+
+Step 271/284
+>> Malay - Zulu
+	I-European Commission namaphoyisa awaphendulanga.
+
+Step 272/284
+>> Zulu - French
+	La Commission européenne et la police n'ont pas répondu.
+
+Step 273/284
+>> French - Norwegian
+	EU-kommisjonen og politiet svarte ikke.
+
+Step 274/284
+>> Norwegian - Hebrew
+	הנציבות האירופית והמשטרה לא הגיבו.
+
+Step 275/284
+>> Hebrew - Indonesian
+	Komisi Eropa dan polisi tidak menanggapi.
+
+Step 276/284
+>> Indonesian - Latvian
+	Eiropas Komisija un policija neatbildēja.
+
+Step 277/284
+>> Latvian - Sinhala
+	යුරෝපීය කොමිසම සහ පොලිසිය ඊට ප්‍රතිචාර දැක්වූයේ නැත.
+
+Step 278/284
+>> Sinhala - Polish
+	Komisja Europejska i policja nie odpowiedziały.
+
+Step 279/284
+>> Polish - Serbian
+	Европска комисија и полиција нису реаговали.
+
+Step 280/284
+>> Serbian - English
+	The European Commission and the police did not respond.
+
+Step 281/284
+>> English - Greek
+	Η Ευρωπαϊκή Επιτροπή και η αστυνομία δεν απάντησαν.
+
+Step 282/284
+>> Greek - Filipino
+	Ang Komisyon ng Europa at ang pulisya ay hindi tumugon.
+
+Step 283/284
+>> Filipino - Chinese (Traditional)
+	歐盟委員會和警察沒有回應。
+
+Step 284/284
+>> Chinese (Traditional) - Portuguese
+	A Comissão Europeia e a polícia não responderam.
+
+
+##### RESULTS ######
+
+Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+A Comissão Europeia e a polícia não responderam.

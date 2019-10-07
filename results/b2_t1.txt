@@ -1,0 +1,1147 @@
+Translation chain: ga - zu - ar - es - he - si - lb - ko - sn - ht - ca - da - mt - mk - ha - no - mn - sw - mi - sm - hy - fa - cs - uk - fr - sl - lt - am - it - ku - ms - hu - pt - en - et - fi - ro - bn - tl - sr - lo - hr - kk - vi - mg - ps - hi - ru - pl - id - ur - sv - bs - de - ja - ny - nl - ne - bg - lv - el - tr - ka - zh-TW - uz - my - th - zh - sk - sq - is - sk - hi - ps - si - sw - da - lt - is - sm - ja - ca - tl - bg - ku - sl - ht - uk - ru - hr - ne - mg - ms - es - mn - ur - zu - hu - bn - it - ga - lv - ko - ha - lo - mk - id - vi - sn - no - nl - zh-TW - pt - sr - bs - pl - ro - lb - th - mt - sv - fa - zh - et - mi - de - kk - am - ar - fi - el - my - uz - ny - fr - cs - sq - he - ka - en - hy - tr.
+Input text: Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Irish
+	Dóibh féin, cuirfidh gach léamh ar aon téacs athrú agus tuiscint nua ar an téacs sin i gcónaí. Ag labhairt dó go fisiciúil, seasann sé os comhair na dtéacsanna mar The Heatlitus River Bather, nach féidir a iontráil faoi dhó toisc go bhfuil a chúrsa ag athrú i gcónaí.
+
+Step 2/284
+>> Irish - Zulu
+	Ngokwabo, konke ukufundwa kwanoma yimuphi umbhalo kuyohlala kushintsha nokuqonda okusha kwalowo mbhalo. Ekhuluma ngokwenyama, ume phambi kwemibhalo efana ne-Heatlitus River Bather, engeke ingeniswe kabili ngoba izifundo zayo zihlala zishintsha.
+
+Step 3/284
+>> Zulu - Arabic
+	من تلقاء نفسها ، فإن كل قراءة لأي نص سوف تتغير دائما مع فهم جديد لهذا النص. من الناحية المادية ، يقف أمام نصوص مثل هيتليتوس ريفر باثر ، والتي لا يمكن استيرادها مرتين لأن دروسها تتغير باستمرار.
+
+Step 4/284
+>> Arabic - Spanish
+	Por sí mismos, cada lectura de cualquier texto siempre cambiará con una nueva comprensión de ese texto. Físicamente, se para frente a textos como Hitlitus River Bath, que no se pueden importar dos veces porque sus lecciones cambian constantemente.
+
+Step 5/284
+>> Spanish - Hebrew
+	מעצמם, כל קריאה בטקסט כלשהו תשתנה תמיד מתוך הבנה חדשה של אותו טקסט. מבחינה פיזית הוא עומד בטקסטים כמו אמבט נהר היטליטוס, שלא ניתן לייבא פעמיים מכיוון ששיעוריו משתנים ללא הרף.
+
+Step 6/284
+>> Hebrew - Sinhala
+	තමන් විසින්ම, ඕනෑම පා of යක් කියවීම සැමවිටම එම පා of ය පිළිබඳ නව අවබෝධයකින් වෙනස් වේ. භෞතික වශයෙන්, ඔහුට හිට්ලිටස් ගංගා ස්නානය වැනි පා xts හමු වේ, එහි අනුපාත නිරන්තරයෙන් වෙනස් වන බැවින් දෙවරක් ආනයනය කළ නොහැක.
+
+Step 7/284
+>> Sinhala - Luxembourgish
+	Duerch sech selwer, all Foussofdrock ze liesen ass ëmmer anescht wéi en neie Verständnis vun deem Begrëff. Physikalesch begéint hien Pangots wéi den Hititas River Bad, dat net zweemol kann importéiert ginn well seng Tariffer dauernd änneren.
+
+Step 8/284
+>> Luxembourgish - Korean
+	그 자체로 모든 발자국을 읽는 것은 용어에 대한 새로운 이해와 항상 다릅니다. 물리적으로, 그는 Hititas River Bad와 같은 Pangots를 만납니다.
+
+Step 9/284
+>> Korean - Shona
+	Kuverenga tsoka dzese nega nguva dzose kwakasiyana nekunzwisisa kutsva kwemazwi. Panyama, anosangana nemaPangots akaita seHititas River Bad.
+
+Step 10/284
+>> Shona - Haitian Creole
+	Li regilyèman chak pye ki diferan ak yon nouvo konpreyansyon sou pawòl la. Fizikman, li rankontre Pangots tankou Hititas River Move.
+
+Step 11/284
+>> Haitian Creole - Catalan
+	Amb regularitat, cada peu és diferent amb una nova comprensió de la paraula. Físicament, coneix Pangots com Hititas River Bad.
+
+Step 12/284
+>> Catalan - Danish
+	Regelmæssigt er hver fod forskellig med en ny forståelse af ordet. Fysisk kender du pangots som Hititas River Bad.
+
+Step 13/284
+>> Danish - Maltese
+	Regolarment, kull sieq hija differenti bil-fehim ġdid tal-kelma. Fiżikament, int taf pangots bħal Hititas River Bad.
+
+Step 14/284
+>> Maltese - Macedonian
+	Редовно, секоја нога е различно со ново разбирање на зборот. Физички, ќе знаат како pangots Hititas Bad реката.
+
+Step 15/284
+>> Macedonian - Hausa
+	A kai a kai, kowane ƙafa yana da bambanci tare da sabon fahimtar kalmar. A zahiri, zaku san yadda mashigar ruwa ta Hititas Bad River.
+
+Step 16/284
+>> Hausa - Norwegian
+	Regelmessig er hver fot forskjellig med en ny forståelse av ordet. Faktisk vil du vite hvordan Hititas Bad River er.
+
+Step 17/284
+>> Norwegian - Mongolian
+	Тогтмол, хөл бүр нь үгийн шинэ ойлголттой ялгаатай байдаг. Чухамдаа та Хититас Мөр голынхоо талаар мэдэхийг хүсч байна.
+
+Step 18/284
+>> Mongolian - Swahili
+	Mara kwa mara, kila mguu hutofautiana na wazo mpya la neno. Kwa kweli, unataka kujua juu ya Mto Xitias Murray.
+
+Step 19/284
+>> Swahili - Maori
+	I etahi wa, ka rere ke o ia waewae i tetahi kaupapa kupu hou. Ina koa, e hiahia ana koe ki te mohio mo te awa o Xitias Murray.
+
+Step 20/284
+>> Maori - Samoan
+	Mai lea taimi i lea taimi, o vae taitasi o le a ese mai se faiga fou fou. Aemaise lava, e te fia iloa e uiga i le Xitias Murray River.
+
+Step 21/284
+>> Samoan - Armenian
+	Ժամանակ առ ժամանակ յուրաքանչյուր ոտքը տարբերվում է նոր համակարգից: Մասնավորապես, դուք ուզում եք իմանալ Xitias Murray գետի մասին:
+
+Step 22/284
+>> Armenian - Persian
+	هر از گاهی هر پا با سیستم جدید متفاوت است. به طور خاص ، شما می خواهید در مورد رودخانه Xitias Murray مطلع شوید.
+
+Step 23/284
+>> Persian - Czech
+	S novým systémem se občas každá noha liší. Zejména chcete vědět o řece Xitias Murray.
+
+Step 24/284
+>> Czech - Ukrainian
+	З новою системою іноді кожна нога відрізняється. Зокрема, ви хочете дізнатися про річку Xitias Murray.
+
+Step 25/284
+>> Ukrainian - French
+	Avec le nouveau système, parfois chaque jambe est différente. En particulier, vous souhaitez en savoir plus sur la rivière Xitias Murray.
+
+Step 26/284
+>> French - Slovenian
+	Z novim sistemom je včasih vsaka noga drugačna. Zlasti želite vedeti več o reki Xitias Murray.
+
+Step 27/284
+>> Slovenian - Lithuanian
+	Su nauja sistema, kartais kiekviena koja yra skirtinga. Visų pirma, jūs norite sužinoti daugiau apie Xitias Murray upę.
+
+Step 28/284
+>> Lithuanian - Amharic
+	በአዲሱ ስርዓት ፣ አንዳንድ ጊዜ እያንዳንዱ እግር የተለየ ነው። በመጀመሪያ ስለ ‹ሲቲያስ Murray ወንዝ› የበለጠ ማወቅ ይፈልጋሉ ፡፡
+
+Step 29/284
+>> Amharic - Italian
+	Nel nuovo sistema, a volte ogni piede è diverso. Innanzitutto, vuoi sapere di più sul fiume Cythias Murray.
+
+Step 30/284
+>> Italian - Kurdish
+	Di pergala nû de, carinan her lingê cûda dibe. Berî her tiştî, hûn dixwazin li ser çemê Cythias Murray bêtir zanibin.
+
+Step 31/284
+>> Kurdish - Malay
+	Dalam sistem baru, kadang-kadang setiap kaki menjadi berbeza. Pertama sekali, anda ingin mengetahui lebih lanjut mengenai sungai Cythias Murray.
+
+Step 32/284
+>> Malay - Hungarian
+	Az új rendszerben néha minden láb eltérő. Mindenekelőtt többet szeretne tudni a Cythias Murray folyóról.
+
+Step 33/284
+>> Hungarian - Portuguese
+	No novo sistema, às vezes todos os pés são diferentes. Acima de tudo, você quer saber mais sobre o rio Cythias Murray.
+
+Step 34/284
+>> Portuguese - English
+	In the new system, sometimes all feet are different. Above all, you want to know more about the Cythias Murray River.
+
+Step 35/284
+>> English - Estonian
+	Uues süsteemis on mõnikord kõik jalad erinevad. Ennekõike soovite rohkem teada saada Cythias Murray jõest.
+
+Step 36/284
+>> Estonian - Finnish
+	Uudessa järjestelmässä joskus kaikki jalat ovat erilaisia. Ennen kaikkea haluat tietää enemmän Cythias Murray -joesta.
+
+Step 37/284
+>> Finnish - Romanian
+	În noul sistem, uneori toate picioarele sunt diferite. Mai presus de toate, vrei să afli mai multe despre râul Cythias Murray.
+
+Step 38/284
+>> Romanian - Bengali
+	নতুন সিস্টেমে, কখনও কখনও সমস্ত পা আলাদা হয়। সর্বোপরি, আপনি সিথিয়াস মারে নদী সম্পর্কে আরও জানতে চান।
+
+Step 39/284
+>> Bengali - Filipino
+	Sa bagong sistema, kung minsan ang lahat ng mga binti ay nahiwalay. Una sa lahat, nais mong malaman ang higit pa tungkol sa Scythus Murray River.
+
+Step 40/284
+>> Filipino - Serbian
+	У новом систему понекад су све ноге раздвојене. Пре свега, желите знати више о ријеци Сцитхус Мурраи.
+
+Step 41/284
+>> Serbian - Lao
+	ໃນລະບົບ ໃໝ່, ບາງເທື່ອຂາທັງ ໝົດ ຈະຖືກແຍກອອກ. ກ່ອນອື່ນ ໝົດ, ທ່ານຢາກຮູ້ກ່ຽວກັບ Scithus Murrai River ຕື່ມອີກ.
+
+Step 42/284
+>> Lao - Croatian
+	U novom sustavu ponekad su sve noge razdvojene. Prije svega, želite znati više o rijeci Scithus Murrai.
+
+Step 43/284
+>> Croatian - Kazakh
+	Жаңа жүйеде кейде барлық аяқтар бөлініп тұрады. Біріншіден, сіз Скритус Морай өзені туралы көбірек білгіңіз келеді.
+
+Step 44/284
+>> Kazakh - Vietnamese
+	Trong hệ thống mới, đôi khi tất cả các chân được tách ra. Đầu tiên, bạn muốn biết thêm về sông Scytus Moray.
+
+Step 45/284
+>> Vietnamese - Malagasy
+	Ao amin'ny rafitra vaovao, indraindray ny basy dia esorina avokoa. Voalohany dia te hahafantatra bebe kokoa momba ny Reniranon'i Scytus Moray ianao.
+
+Step 46/284
+>> Malagasy - Pashto
+	په نوي سیسټم کې ، ځینې وختونه ټوپک لرې کیږي. لومړی تاسو غواړئ د سکیتوس موري سیند په اړه نور معلومات ترلاسه کړئ.
+
+Step 47/284
+>> Pashto - Hindi
+	नई प्रणाली में, कभी-कभी बंदूकें हटा दी जाती हैं। सबसे पहले आप स्काईथस मोरी नदी के बारे में अधिक जानना चाहते हैं।
+
+Step 48/284
+>> Hindi - Russian
+	В новой системе оружие иногда удаляется. Прежде всего, вы хотите узнать больше о реке Скайтус Мори.
+
+Step 49/284
+>> Russian - Polish
+	W nowym systemie broń jest czasami usuwana. Przede wszystkim chcesz wiedzieć więcej o rzece Skytus Mori.
+
+Step 50/284
+>> Polish - Indonesian
+	Dalam sistem yang baru, senjata terkadang dihilangkan. Pertama-tama, Anda ingin tahu lebih banyak tentang Sungai Skytus Mori.
+
+Step 51/284
+>> Indonesian - Urdu
+	نئے سسٹم میں ، بعض اوقات ہتھیار بھی ہٹا دیئے جاتے ہیں۔ سب سے پہلے ، آپ دریائے اسکائیٹس موری کے بارے میں مزید معلومات حاصل کرنا چاہتے ہیں۔
+
+Step 52/284
+>> Urdu - Swedish
+	I det nya systemet tas vapen ibland bort. Först och främst vill du veta mer om River Skates Mori.
+
+Step 53/284
+>> Swedish - Bosnian
+	U novom sistemu oružje se ponekad uklanja. Prije svega, želite znati više o riječnim klizaljkama Mori.
+
+Step 54/284
+>> Bosnian - German
+	In einem neuen System werden Waffen manchmal entfernt. Zunächst möchten Sie mehr über Mori River Skates erfahren.
+
+Step 55/284
+>> German - Japanese
+	新しいシステムでは、武器が時々削除されます。まず、森川スケートについてもっと知りたいです。
+
+Step 56/284
+>> Japanese - Chichewa
+	M'dongosolo latsopano, zida nthawi zina zimachotsedwa. Choyamba, ndikufuna kudziwa zambiri za skikawa skik.
+
+Step 57/284
+>> Chichewa - Dutch
+	In het nieuwe systeem worden wapens soms verwijderd. Allereerst wil ik meer weten over skikawa skik.
+
+Step 58/284
+>> Dutch - Nepali
+	हतियार कहिलेकाँही नयाँ प्रणालीमा हटाइन्छ। सबै भन्दा पहिले म स्किवावा स्किकको बारेमा बढी जान्न चाहन्छु।
+
+Step 59/284
+>> Nepali - Bulgarian
+	Понякога оръжията се премахват в новата система. Първо бих искал да знам повече за Skywawa Squeak.
+
+Step 60/284
+>> Bulgarian - Latvian
+	Dažreiz jaunajā sistēmā ieroči tiek noņemti. Pirmkārt, es gribētu uzzināt vairāk par Skywawa Squeak.
+
+Step 61/284
+>> Latvian - Greek
+	Μερικές φορές το νέο σύστημα αφαιρεί τα όπλα. Πρώτα απ 'όλα, θα ήθελα να μάθω περισσότερα σχετικά με το Skywawa Squeak.
+
+Step 62/284
+>> Greek - Turkish
+	Bazen yeni sistem silahları çıkarır. Öncelikle, Skywawa Squeak hakkında daha fazla bilgi edinmek istiyorum.
+
+Step 63/284
+>> Turkish - Georgian
+	ზოგჯერ ახალი სისტემა იარაღს ავრცელებს. პირველ რიგში, მსურს მეტი ინფორმაცია Skywawa Squeak- ის შესახებ.
+
+Step 64/284
+>> Georgian - Chinese (Traditional)
+	有時，新系統會釋放武器。首先，我想進一步了解Skywawa Squeak。
+
+Step 65/284
+>> Chinese (Traditional) - Uzbek
+	Ba'zan yangi tizim qurollarni chiqaradi. Avvalo, Skywawa Squeak haqida ko'proq bilishni istayman.
+
+Step 66/284
+>> Uzbek - Burmese
+	တခါတရံမှာအသစ်တစ်ခုကိုလက်နက်စနစ်။ လူအပေါင်းတို့၏ရှေးဦးစွာငါ Skywawa ညှစ်သံမြည်အကြောင်းပိုမိုသိရန်လိုသည်။
+
+Step 67/284
+>> Burmese - Thai
+	บางครั้งระบบอาวุธใหม่ ครั้งแรกของทั้งหมดที่ฉัน Skywawa จำเป็นต้องรู้เพิ่มเติมเกี่ยวกับการสารภาพ
+
+Step 68/284
+>> Thai - Chinese (Simplified)
+	有时是新武器系统首先，我Skywawa需要更多地了解自白。
+
+Step 69/284
+>> Chinese (Simplified) - Slovak
+	Niekedy sa jedná o nový zbraňový systém. Najprv musí moja Skywawa vedieť viac o priznaní.
+
+Step 70/284
+>> Slovak - Albanian
+	Ndonjëherë është një sistem i ri armësh. Së pari, Skywawa ime duhet të dijë më shumë rreth rrëfimit.
+
+Step 71/284
+>> Albanian - Icelandic
+	Stundum er það nýtt vopnakerfi. Í fyrsta lagi þarf Skywawa minn að vita meira um frásagnargögn.
+
+Step 72/284
+>> Icelandic - Slovak
+	Niekedy je to nový zbraňový systém. Najskôr musí moja Skywawa vedieť viac o naratívnych údajoch.
+
+Step 73/284
+>> Slovak - Hindi
+	कभी-कभी यह एक नई हथियार प्रणाली है। सबसे पहले, मेरे स्काईवा को कथा डेटा के बारे में अधिक जानने की जरूरत है।
+
+Step 74/284
+>> Hindi - Pashto
+	ځینې وختونه دا د وسلو نوی سیسټم دی. له هرڅه دمخه ، زما سکایوا د بیان کولو ډیټا په اړه نور پوهیدلو ته اړتیا لري.
+
+Step 75/284
+>> Pashto - Sinhala
+	සමහර විට එය නව ආයුධ පද්ධතියකි. පළමුවෙන්ම, මගේ ස්කීවා ප්‍රකාශන දත්ත ගැන වැඩි විස්තර දැනගත යුතුය.
+
+Step 76/284
+>> Sinhala - Swahili
+	Labda ni mfumo mpya wa silaha. Kwanza, nataka kujua zaidi juu ya data yangu ya kuchapisha skew.
+
+Step 77/284
+>> Swahili - Danish
+	Måske er det et nyt våbensystem. Først vil jeg vide mere om mine skæve udgivelsesdata.
+
+Step 78/284
+>> Danish - Lithuanian
+	Gal tai nauja ginklų sistema. Pirmiausia noriu sužinoti daugiau apie savo iškreiptus išleidimo duomenis.
+
+Step 79/284
+>> Lithuanian - Icelandic
+	Kannski er þetta nýtt vopnakerfi. Fyrst vil ég vita meira um bjagaða losunargögnin mín.
+
+Step 80/284
+>> Icelandic - Samoan
+	Atonu o se auupega fou lea. Muamua, ou te fia iloa atili e uiga i aʻu faʻamatalaga faʻatautaia.
+
+Step 81/284
+>> Samoan - Japanese
+	これは新しい武器かもしれません。まず、マーケティング情報についてもっと知りたいです。
+
+Step 82/284
+>> Japanese - Catalan
+	Pot ser que sigui una nova arma. En primer lloc, vull saber més informació sobre màrqueting.
+
+Step 83/284
+>> Catalan - Filipino
+	Maaaring ito ay isang bagong sandata. Una sa lahat, nais kong malaman ang higit pa tungkol sa marketing.
+
+Step 84/284
+>> Filipino - Bulgarian
+	Може да е ново оръжие. На първо място, искам да знам повече за маркетинга.
+
+Step 85/284
+>> Bulgarian - Kurdish
+	Ew dikare bibe çekek nû. Berî her tiştî, ez dixwazim bêtir bi kirrûbirrê zanibin.
+
+Step 86/284
+>> Kurdish - Slovenian
+	Lahko bi bilo novo orožje. Najprej želim vedeti več o stranki.
+
+Step 87/284
+>> Slovenian - Haitian Creole
+	Li ta ka yon zam nouvo. Premyèman, mwen vle konnen plis bagay sou kliyan an.
+
+Step 88/284
+>> Haitian Creole - Ukrainian
+	Це може бути нова зброя. По-перше, я хочу дізнатися більше про клієнта.
+
+Step 89/284
+>> Ukrainian - Russian
+	Это может быть новое оружие. Во-первых, я хочу узнать больше о клиенте.
+
+Step 90/284
+>> Russian - Croatian
+	Ovo je možda novo oružje. Prvo, želim znati više o klijentu.
+
+Step 91/284
+>> Croatian - Nepali
+	यो नयाँ हतियार हुन सक्छ। पहिले, म ग्राहकको बारेमा बढी जान्न चाहन्छु।
+
+Step 92/284
+>> Nepali - Malagasy
+	Mety ho fitaovam-piadiana vaovao izany. Voalohany, te hahafantatra bebe kokoa momba ny mpanjifa aho.
+
+Step 93/284
+>> Malagasy - Malay
+	Ia boleh menjadi senjata baru. Pertama, saya ingin mengetahui lebih lanjut tentang pelanggan.
+
+Step 94/284
+>> Malay - Spanish
+	Podría ser una nueva arma. Primero, quiero saber más sobre los clientes.
+
+Step 95/284
+>> Spanish - Mongolian
+	Энэ бол шинэ зэвсэг байж болно. Нэгдүгээрт, би үйлчлүүлэгчдийн талаар илүү ихийг мэдэхийг хүсч байна.
+
+Step 96/284
+>> Mongolian - Urdu
+	یہ ایک نیا ہتھیار ہے۔ پہلے ، میں صارفین کے بارے میں مزید جاننا چاہتا ہوں۔
+
+Step 97/284
+>> Urdu - Zulu
+	Lesi isikhali esisha. Okokuqala, ngifuna ukwazi kabanzi ngabasebenzisi.
+
+Step 98/284
+>> Zulu - Hungarian
+	Ez egy új fegyver. Először is többet szeretnék tudni a felhasználókról.
+
+Step 99/284
+>> Hungarian - Bengali
+	এটি একটি নতুন অস্ত্র। প্রথমত, আমি ব্যবহারকারীদের সম্পর্কে আরও জানতে চাই।
+
+Step 100/284
+>> Bengali - Italian
+	Questa è una nuova arma. Innanzitutto, voglio sapere di più sugli utenti.
+
+Step 101/284
+>> Italian - Irish
+	Is arm nua é seo. Ar an gcéad dul síos, ba mhaith liom níos mó a fháil amach faoi úsáideoirí.
+
+Step 102/284
+>> Irish - Latvian
+	Tas ir jauns ierocis. Pirmkārt, es vēlos uzzināt vairāk par lietotājiem.
+
+Step 103/284
+>> Latvian - Korean
+	새로운 무기입니다. 먼저, 사용자에 대해 더 알고 싶습니다.
+
+Step 104/284
+>> Korean - Hausa
+	Sabon makami. Da farko, Ina so in san ƙarin game da masu amfani.
+
+Step 105/284
+>> Hausa - Lao
+	ອາວຸດ ໃໝ່. ກ່ອນອື່ນ ໝົດ, ຂ້ອຍຢາກຮູ້ກ່ຽວກັບຜູ້ໃຊ້ຫຼາຍກວ່າເກົ່າ.
+
+Step 106/284
+>> Lao - Macedonian
+	Ново оружје. Како прво, би сакал да знам повеќе за корисниците.
+
+Step 107/284
+>> Macedonian - Indonesian
+	Senjata baru. Pertama-tama, saya ingin tahu lebih banyak tentang pengguna.
+
+Step 108/284
+>> Indonesian - Vietnamese
+	Vũ khí mới. Trước hết, tôi muốn biết thêm về người dùng.
+
+Step 109/284
+>> Vietnamese - Shona
+	Chombo chitsva. Chekutanga pane zvese, ini ndoda kuziva zvakawanda nezvevashandisi.
+
+Step 110/284
+>> Shona - Norwegian
+	Nytt verktøy. Aller først vil jeg vite mer om brukere.
+
+Step 111/284
+>> Norwegian - Dutch
+	Nieuw hulpmiddel. Allereerst wil ik meer weten over gebruikers.
+
+Step 112/284
+>> Dutch - Chinese (Traditional)
+	新工具。首先，我想進一步了解用戶。
+
+Step 113/284
+>> Chinese (Traditional) - Portuguese
+	Nova ferramenta Antes de tudo, quero saber mais sobre os usuários.
+
+Step 114/284
+>> Portuguese - Serbian
+	Нови алат Пре свега, желим да знам више о корисницима.
+
+Step 115/284
+>> Serbian - Bosnian
+	Novi alat Prije svega, želim znati više o korisnicima.
+
+Step 116/284
+>> Bosnian - Polish
+	Nowe narzędzie Przede wszystkim chcę wiedzieć więcej o użytkownikach.
+
+Step 117/284
+>> Polish - Romanian
+	Nou instrument În primul rând, vreau să aflu mai multe despre utilizatori.
+
+Step 118/284
+>> Romanian - Luxembourgish
+	Neit Tool Eischtens wëll ech méi iwwer d'Benotzer gewuer ginn.
+
+Step 119/284
+>> Luxembourgish - Thai
+	เครื่องมือใหม่ครั้งแรกฉันต้องการทราบเพิ่มเติมเกี่ยวกับผู้ใช้
+
+Step 120/284
+>> Thai - Maltese
+	Għodod ġodda. L-ewwel, irrid inkun naf aktar dwar l-utenti.
+
+Step 121/284
+>> Maltese - Swedish
+	Nya verktyg. Först vill jag veta mer om användaren.
+
+Step 122/284
+>> Swedish - Persian
+	ابزارهای جدید ابتدا می خواهم درباره کاربر اطلاعات بیشتری کسب کنم.
+
+Step 123/284
+>> Persian - Chinese (Simplified)
+	新工具首先，我想进一步了解用户。
+
+Step 124/284
+>> Chinese (Simplified) - Estonian
+	Uued tööriistad Esiteks tahan teada saada kasutajatest rohkem.
+
+Step 125/284
+>> Estonian - Maori
+	Nga taputapu hou Tuatahi o nga mea katoa, kei te hiahia ahau kia nui atu nga korero mo nga kaiwhakamahi.
+
+Step 126/284
+>> Maori - German
+	Neue Tools Zunächst möchte ich mehr Informationen für Benutzer.
+
+Step 127/284
+>> German - Kazakh
+	Жаңа құралдар Біріншіден, мен пайдаланушыларға қосымша ақпарат алғым келеді.
+
+Step 128/284
+>> Kazakh - Amharic
+	አዳዲስ መሣሪያዎች በመጀመሪያ ለተጠቃሚዎች ተጨማሪ መረጃ ማግኘት እፈልጋለሁ ፡፡
+
+Step 129/284
+>> Amharic - Arabic
+	أدوات جديدة أولاً أريد الحصول على مزيد من المعلومات للمستخدمين.
+
+Step 130/284
+>> Arabic - Finnish
+	Uudet työkalut Haluan ensin saada lisätietoja käyttäjille.
+
+Step 131/284
+>> Finnish - Greek
+	Νέα εργαλεία Πρώτα θέλω να λάβω περισσότερες πληροφορίες στους χρήστες.
+
+Step 132/284
+>> Greek - Burmese
+	နယူး tools တွေကိုပထမဦးစွာငါအသုံးပြုသူများပိုမိုသောအချက်အလက်များအရချင်တယ်။
+
+Step 133/284
+>> Burmese - Uzbek
+	Yangi vositalari Birinchidan, men foydalanuvchilar haqida ko'proq ma'lumot olish istayman.
+
+Step 134/284
+>> Uzbek - Chichewa
+	Zida zatsopano Choyamba, ndikufuna kudziwa zambiri za ogwiritsa ntchito.
+
+Step 135/284
+>> Chichewa - French
+	Nouveaux outils Tout d'abord, je veux en savoir plus sur les utilisateurs.
+
+Step 136/284
+>> French - Czech
+	Nové nástroje Nejprve se chci dozvědět více o uživatelích.
+
+Step 137/284
+>> Czech - Albanian
+	Mjetet e reja Së pari, dua të mësoj më shumë rreth përdoruesve.
+
+Step 138/284
+>> Albanian - Hebrew
+	כלים חדשים ראשית, אני רוצה ללמוד עוד על משתמשים.
+
+Step 139/284
+>> Hebrew - Georgian
+	ახალი ხელსაწყოები პირველ რიგში, მსურს მეტი ინფორმაცია მომხმარებლის შესახებ.
+
+Step 140/284
+>> Georgian - English
+	New tools First of all, I want to know more about the user.
+
+Step 141/284
+>> English - Armenian
+	Նոր գործիքներ Նախ և առաջ ուզում եմ ավելին իմանալ օգտվողի մասին:
+
+Step 142/284
+>> Armenian - Turkish
+	Yeni araçlar Her şeyden önce kullanıcı hakkında daha fazla bilgi edinmek istiyorum.
+
+Step 143/284
+>> Turkish - Armenian
+	Նոր գործիքներ Նախ և առաջ ուզում եմ ավելին իմանալ օգտվողի մասին:
+
+Step 144/284
+>> Armenian - English
+	New tools First of all I want to know more about the user.
+
+Step 145/284
+>> English - Georgian
+	ახალი ინსტრუმენტები პირველ რიგში მსურს მეტი ინფორმაცია მომხმარებლის შესახებ.
+
+Step 146/284
+>> Georgian - Hebrew
+	כלים חדשים קודם כל אני רוצה מידע נוסף על המשתמש.
+
+Step 147/284
+>> Hebrew - Albanian
+	Mjete të reja Para së gjithash dua më shumë informacione rreth përdoruesit.
+
+Step 148/284
+>> Albanian - Czech
+	Nové nástroje Nejprve chci více informací o uživateli.
+
+Step 149/284
+>> Czech - French
+	Nouveaux outils Tout d'abord, je veux plus d'informations sur l'utilisateur.
+
+Step 150/284
+>> French - Chichewa
+	Zida zatsopano Choyamba, ndikufuna zambiri zokhudza wogwiritsa ntchito.
+
+Step 151/284
+>> Chichewa - Uzbek
+	Yangi vositalar Birinchidan, men foydalanuvchi haqida ko'proq bilishni xohlayman.
+
+Step 152/284
+>> Uzbek - Burmese
+	လူအပေါင်းတို့၏ရှေးဦးစွာငါအသစ်ကကားများနှင့် ပတ်သက်. ပိုမိုသိရန်လိုသည်။
+
+Step 153/284
+>> Burmese - Greek
+	Πρώτα απ 'όλα, είμαι για τα νέα αυτοκίνητα. Θα πρέπει να μάθετε περισσότερα.
+
+Step 154/284
+>> Greek - Finnish
+	Ensinnäkin olen uusi autoissa. Sinun on tiedettävä enemmän.
+
+Step 155/284
+>> Finnish - Arabic
+	أولا وقبل كل شيء، أنا السيارات الجديدة. تحتاج إلى معرفة المزيد.
+
+Step 156/284
+>> Arabic - Amharic
+	በመጀመሪያ እኔ አዲስ መኪና ነኝ ፡፡ የበለጠ ማወቅ ያስፈልግዎታል።
+
+Step 157/284
+>> Amharic - Kazakh
+	Біріншіден, мен жаңа көлікпін. Сіз көбірек білуіңіз керек.
+
+Step 158/284
+>> Kazakh - German
+	Erstens bin ich ein neues Auto. Sie müssen mehr wissen.
+
+Step 159/284
+>> German - Maori
+	Tuatahi, He motuka au hou. Me matua mohio koe.
+
+Step 160/284
+>> Maori - Estonian
+	Esiteks on mul uhiuus auto. Sa pead teadma.
+
+Step 161/284
+>> Estonian - Chinese (Simplified)
+	首先，我有一辆全新的汽车。你要知道
+
+Step 162/284
+>> Chinese (Simplified) - Persian
+	اول از همه ، من یک ماشین کاملا جدید دارم. شما باید بدانید
+
+Step 163/284
+>> Persian - Swedish
+	Först och främst har jag en helt ny bil. Du borde veta
+
+Step 164/284
+>> Swedish - Maltese
+	L-ewwelnett, għandi karozza ġdida fjamanta. Għandek tkun taf
+
+Step 165/284
+>> Maltese - Thai
+	แรกของทั้งหมดที่ผมมีแบรนด์รถยนต์ใหม่ ที่คุณควรรู้
+
+Step 166/284
+>> Thai - Luxembourgish
+	Als éischt hunn ech e fuschneie Auto, deen Dir wësse sollt.
+
+Step 167/284
+>> Luxembourgish - Romanian
+	În primul rând, am o mașină nouă, pe care ar trebui să o cunoașteți.
+
+Step 168/284
+>> Romanian - Polish
+	Przede wszystkim mam nowy samochód, o którym powinieneś wiedzieć.
+
+Step 169/284
+>> Polish - Bosnian
+	Kao prvo, imam novi auto o kojem biste trebali znati.
+
+Step 170/284
+>> Bosnian - Serbian
+	Пре свега, имам нови ауто о коме бисте требали знати.
+
+Step 171/284
+>> Serbian - Portuguese
+	Primeiro de tudo, eu tenho um carro novo que você deveria conhecer.
+
+Step 172/284
+>> Portuguese - Chinese (Traditional)
+	首先，我有一輛您應該知道的新車。
+
+Step 173/284
+>> Chinese (Traditional) - Dutch
+	Allereerst heb ik een nieuwe auto die je moet kennen.
+
+Step 174/284
+>> Dutch - Norwegian
+	For det første har jeg en ny bil som du trenger å kjenne.
+
+Step 175/284
+>> Norwegian - Shona
+	Kutanga, ini ndine mota nyowani iwe yaunofanira kuziva.
+
+Step 176/284
+>> Shona - Vietnamese
+	Trước hết, tôi có một chiếc xe mới bạn nên biết.
+
+Step 177/284
+>> Vietnamese - Indonesian
+	Pertama-tama, saya punya mobil baru yang harus Anda ketahui.
+
+Step 178/284
+>> Indonesian - Macedonian
+	Како прво, имам нов автомобил за кој треба да знаете.
+
+Step 179/284
+>> Macedonian - Lao
+	ກ່ອນອື່ນ ໝົດ, ຂ້ອຍມີລົດຄັນ ໃໝ່ ທີ່ເຈົ້າຕ້ອງການຮູ້.
+
+Step 180/284
+>> Lao - Hausa
+	Da farko dai, Ina da sabuwar motar da kuke buƙatar sani.
+
+Step 181/284
+>> Hausa - Korean
+	우선, 당신이 알아야 할 새 차가 있습니다.
+
+Step 182/284
+>> Korean - Latvian
+	Pirmkārt, ir jauna automašīna, kas jums jāzina.
+
+Step 183/284
+>> Latvian - Irish
+	Ar an gcéad dul síos, tá carr nua a theastaíonn uait a fháil.
+
+Step 184/284
+>> Irish - Italian
+	Prima di tutto, c'è una nuova auto che devi trovare.
+
+Step 185/284
+>> Italian - Bengali
+	প্রথমত, আপনার একটি নতুন গাড়ি সন্ধান করা দরকার।
+
+Step 186/284
+>> Bengali - Hungarian
+	Először meg kell találnia egy új autót.
+
+Step 187/284
+>> Hungarian - Zulu
+	Okokuqala kufanele uthole imoto entsha.
+
+Step 188/284
+>> Zulu - Urdu
+	پہلے آپ کو ایک نئی کار ڈھونڈنی ہوگی۔
+
+Step 189/284
+>> Urdu - Mongolian
+	Эхлээд та шинэ машин олох хэрэгтэй.
+
+Step 190/284
+>> Mongolian - Spanish
+	Primero necesitas encontrar un auto nuevo.
+
+Step 191/284
+>> Spanish - Malay
+	Pertama anda perlu mencari kereta baru.
+
+Step 192/284
+>> Malay - Malagasy
+	Voalohany dia mila mahita fiara vaovao ianao.
+
+Step 193/284
+>> Malagasy - Nepali
+	पहिले तपाईंले नयाँ कार खोज्नु पर्छ।
+
+Step 194/284
+>> Nepali - Croatian
+	Prvo morate pronaći novi automobil.
+
+Step 195/284
+>> Croatian - Russian
+	Для начала нужно найти новую машину.
+
+Step 196/284
+>> Russian - Ukrainian
+	Для початку потрібно знайти нову машину.
+
+Step 197/284
+>> Ukrainian - Haitian Creole
+	Premye ou bezwen jwenn yon machin nouvo.
+
+Step 198/284
+>> Haitian Creole - Slovenian
+	Najprej morate najti nov avto.
+
+Step 199/284
+>> Slovenian - Kurdish
+	Pêşîn hûn hewce ne ku otomobîlek nû bibînin.
+
+Step 200/284
+>> Kurdish - Bulgarian
+	Първо трябва да намерите нова кола.
+
+Step 201/284
+>> Bulgarian - Filipino
+	Una kailangan mong maghanap ng bagong kotse.
+
+Step 202/284
+>> Filipino - Catalan
+	Primer cal trobar un cotxe nou.
+
+Step 203/284
+>> Catalan - Japanese
+	まず、新しい車を見つける必要があります。
+
+Step 204/284
+>> Japanese - Samoan
+	Muamua e te manaʻomia se suʻega fou.
+
+Step 205/284
+>> Samoan - Icelandic
+	Fyrst þarftu nýtt próf.
+
+Step 206/284
+>> Icelandic - Lithuanian
+	Pirmiausia reikia naujo bandymo.
+
+Step 207/284
+>> Lithuanian - Danish
+	Først har du brug for en ny test.
+
+Step 208/284
+>> Danish - Swahili
+	Kwanza unahitaji mtihani mpya.
+
+Step 209/284
+>> Swahili - Sinhala
+	පළමුව ඔබට නව පරීක්ෂණයක් අවශ්‍යයි.
+
+Step 210/284
+>> Sinhala - Pashto
+	لومړی تاسو نوي ازموینې ته اړتیا لرئ.
+
+Step 211/284
+>> Pashto - Hindi
+	पहले आपको एक नई परीक्षा की आवश्यकता है।
+
+Step 212/284
+>> Hindi - Slovak
+	Najprv potrebujete novú skúšku.
+
+Step 213/284
+>> Slovak - Icelandic
+	Þú þarft fyrst próf.
+
+Step 214/284
+>> Icelandic - Albanian
+	Së pari ju duhet një provë.
+
+Step 215/284
+>> Albanian - Slovak
+	Najprv potrebujete test.
+
+Step 216/284
+>> Slovak - Chinese (Simplified)
+	您首先需要测试。
+
+Step 217/284
+>> Chinese (Simplified) - Thai
+	คุณต้องทำการทดสอบก่อน
+
+Step 218/284
+>> Thai - Burmese
+	သငျသညျရှေ့တျော၌စမျးသပျရပါမည်
+
+Step 219/284
+>> Burmese - Uzbek
+	Siz oldin, sinov bo'lishi kerak
+
+Step 220/284
+>> Uzbek - Chinese (Traditional)
+	您需要先進行測試
+
+Step 221/284
+>> Chinese (Traditional) - Georgian
+	ჯერ გამოცდა გჭირდებათ
+
+Step 222/284
+>> Georgian - Turkish
+	Önce bir sınava ihtiyacınız var
+
+Step 223/284
+>> Turkish - Greek
+	Χρειάζεστε πρώτα μια εξέταση
+
+Step 224/284
+>> Greek - Latvian
+	Vispirms jums ir nepieciešams eksāmens
+
+Step 225/284
+>> Latvian - Bulgarian
+	Първо трябва изпит
+
+Step 226/284
+>> Bulgarian - Nepali
+	पहिले तपाईलाई परीक्षा चाहिन्छ
+
+Step 227/284
+>> Nepali - Dutch
+	Eerst heb je het examen nodig
+
+Step 228/284
+>> Dutch - Chichewa
+	Choyamba muyenera mayeso
+
+Step 229/284
+>> Chichewa - Japanese
+	最初にテストする必要があります
+
+Step 230/284
+>> Japanese - German
+	Muss zuerst getestet werden
+
+Step 231/284
+>> German - Bosnian
+	Mora se prvo ispitati
+
+Step 232/284
+>> Bosnian - Swedish
+	Det måste granskas först
+
+Step 233/284
+>> Swedish - Urdu
+	اس کی پہلے جانچ پڑتال کرنی ہوگی۔
+
+Step 234/284
+>> Urdu - Indonesian
+	Perlu diperiksa terlebih dahulu.
+
+Step 235/284
+>> Indonesian - Polish
+	Najpierw trzeba to sprawdzić.
+
+Step 236/284
+>> Polish - Russian
+	Вы должны проверить это в первую очередь.
+
+Step 237/284
+>> Russian - Hindi
+	आपको पहले इसकी जांच करनी चाहिए।
+
+Step 238/284
+>> Hindi - Pashto
+	تاسو باید لومړی یې وګورئ.
+
+Step 239/284
+>> Pashto - Malagasy
+	Tokony hanadihady azy aloha ianao.
+
+Step 240/284
+>> Malagasy - Vietnamese
+	Bạn nên điều tra nó trước.
+
+Step 241/284
+>> Vietnamese - Kazakh
+	Алдымен оны зерттеу керек.
+
+Step 242/284
+>> Kazakh - Croatian
+	U početku to trebate proučiti.
+
+Step 243/284
+>> Croatian - Lao
+	ທ່ານຕ້ອງການສຶກສານີ້ໃນເບື້ອງຕົ້ນ.
+
+Step 244/284
+>> Lao - Serbian
+	Ово морате да проучите у почетку.
+
+Step 245/284
+>> Serbian - Filipino
+	Kailangan mong pag-aralan ito sa una.
+
+Step 246/284
+>> Filipino - Bengali
+	আপনার প্রথমে এটি অধ্যয়ন করা উচিত।
+
+Step 247/284
+>> Bengali - Romanian
+	Ar trebui să o studiezi mai întâi.
+
+Step 248/284
+>> Romanian - Finnish
+	Sinun tulisi tutkia sitä ensin.
+
+Step 249/284
+>> Finnish - Estonian
+	Kõigepealt peaksite seda uurima.
+
+Step 250/284
+>> Estonian - English
+	You should first look into it.
+
+Step 251/284
+>> English - Portuguese
+	Você deve primeiro olhar para ele.
+
+Step 252/284
+>> Portuguese - Hungarian
+	Először meg kell nézni.
+
+Step 253/284
+>> Hungarian - Malay
+	Pertama anda perlu melihat.
+
+Step 254/284
+>> Malay - Kurdish
+	Pêşîn divê hûn binerin.
+
+Step 255/284
+>> Kurdish - Italian
+	Per prima cosa devi guardare.
+
+Step 256/284
+>> Italian - Amharic
+	መጀመሪያ ማየት አለብዎ።
+
+Step 257/284
+>> Amharic - Lithuanian
+	Pirmiausia turite tai pamatyti.
+
+Step 258/284
+>> Lithuanian - Slovenian
+	Najprej ga moraš videti.
+
+Step 259/284
+>> Slovenian - French
+	Vous devez le voir d'abord.
+
+Step 260/284
+>> French - Ukrainian
+	Ви повинні побачити її першими.
+
+Step 261/284
+>> Ukrainian - Czech
+	Musíte to vidět první.
+
+Step 262/284
+>> Czech - Persian
+	ابتدا باید آن را ببینید.
+
+Step 263/284
+>> Persian - Armenian
+	Դուք առաջին հերթին դա պետք է տեսնեք:
+
+Step 264/284
+>> Armenian - Samoan
+	E tatau ona e vaʻaia muamua.
+
+Step 265/284
+>> Samoan - Maori
+	Me kite koe i te tuatahi.
+
+Step 266/284
+>> Maori - Swahili
+	Unapaswa kuiona kwanza.
+
+Step 267/284
+>> Swahili - Mongolian
+	Та эхлээд үүнийг харах хэрэгтэй.
+
+Step 268/284
+>> Mongolian - Norwegian
+	Du bør først se på det.
+
+Step 269/284
+>> Norwegian - Hausa
+	Yakamata ka kalle shi da farko.
+
+Step 270/284
+>> Hausa - Macedonian
+	Треба да го погледнете прво.
+
+Step 271/284
+>> Macedonian - Maltese
+	Int trid tħares lejha l-ewwel.
+
+Step 272/284
+>> Maltese - Danish
+	Du skal se på det først.
+
+Step 273/284
+>> Danish - Catalan
+	Cal mirar-ho primer.
+
+Step 274/284
+>> Catalan - Haitian Creole
+	Ou dwe gade an premye.
+
+Step 275/284
+>> Haitian Creole - Shona
+	Iwe unofanirwa kutanga watarisa.
+
+Step 276/284
+>> Shona - Korean
+	먼저 확인해야합니다.
+
+Step 277/284
+>> Korean - Luxembourgish
+	Dir musst éischt kontrolléieren.
+
+Step 278/284
+>> Luxembourgish - Sinhala
+	ඔබ මුලින්ම පරීක්ෂා කළ යුතුයි.
+
+Step 279/284
+>> Sinhala - Hebrew
+	עליך לבדוק קודם.
+
+Step 280/284
+>> Hebrew - Spanish
+	Debe verificar primero.
+
+Step 281/284
+>> Spanish - Arabic
+	يجب عليك التحقق أولا.
+
+Step 282/284
+>> Arabic - Zulu
+	Kufanele uqale uhlole.
+
+Step 283/284
+>> Zulu - Irish
+	Ní mór duit seiceáil ar dtús.
+
+Step 284/284
+>> Irish - Portuguese
+	Você deve primeiro verificar.
+
+
+##### RESULTS ######
+
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Você deve primeiro verificar.

@@ -1,0 +1,1147 @@
+Translation chain: ga - zu - ar - es - he - si - lb - ko - sn - ht - ca - da - mt - mk - ha - no - mn - sw - mi - sm - hy - fa - cs - uk - fr - sl - lt - am - it - ku - ms - hu - pt - en - et - fi - ro - bn - tl - sr - lo - hr - kk - vi - mg - ps - hi - ru - pl - id - ur - sv - bs - de - ja - ny - nl - ne - bg - lv - el - tr - ka - zh-TW - uz - my - th - zh - sk - sq - is - sk - hi - ps - si - sw - da - lt - is - sm - ja - ca - tl - bg - ku - sl - ht - uk - ru - hr - ne - mg - ms - es - mn - ur - zu - hu - bn - it - ga - lv - ko - ha - lo - mk - id - vi - sn - no - nl - zh-TW - pt - sr - bs - pl - ro - lb - th - mt - sv - fa - zh - et - mi - de - kk - am - ar - fi - el - my - uz - ny - fr - cs - sq - he - ka - en - hy - tr.
+Input text: Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+##### MONITORING ######
+
+Step 1/284
+>> Portuguese - Irish
+	Dá bhrí sin bhí sé mar Djafar, an Grand Vizier, a leag ar dhoras na mban ag ord an chailf, nár theastaigh uaidh a bheith aitheanta. D'oscail Safia é; agus sheinn an vizier, ag tabhairt faoi deara ag coinneal a bhí sí ag iompar, a bhí ina bean iontach álainn, a ról go foirfe. Dúirt mé go measúil, dúirt mé go measúil, “Tháinig Madam, triúr ceannaithe againn ó Mussul, deich lá ó shin, le hearraí saibhre a thaiscimid i Khan (10), áit a mbímid ag fanacht. Bhí muid inniu i dteach ceannaí ón gcathair seo a thug cuireadh dúinn cuairt a thabhairt air. Thairg sé béile iontach dúinn; agus toisc go raibh giúmar maith ag an bhfíon, sheol sé chuig banna damhsóirí. Bhí sé oíche, bhí na ceoltóirí ag seinm, damhsa na damhsóirí agus rinne an grúpa torann ollmhór, de réir mar a d'ordaigh an babhta, ag dul ann, iad a oscailt. Gabhadh cuid acu. Maidir linn féin, bhíomar an-sásta agus sábháladh sinn trí léim thar bhalla; ach, chuir an vizier leis, mar gur eachtrannaigh muid, agus beagán fíonta ag fíon, tá eagla orainn patról eile a fháil, nó mar an gcéanna, sula dtagaimid ar ár Khan, i bhfad ó anseo. Agus thiocfaimis chuige gan dua, go ndúnfaí an doras, agus ní osclófar é go dtí amárach, is cuma cad a tharlóidh. Agus mar sin, a bhean, a shíleann go mbeimis in ann buille a dhéanamh, tar éis duit uirlisí agus guthanna a chloisteáil, chun dídean a thabhairt duit go dtí sos an lae. Más dealraitheach gur fiú dúinn páirt a ghlacadh i do thaitneamhacht, déanfaimid ár ndícheall chun an méid is féidir a dhéanamh chun luach saothair a chur ar an mbearna; mura bhfuil, ar a laghad tabhair dúinn an grásta chun ligean dúinn an oíche a chaitheamh i do halla.
+
+Step 2/284
+>> Irish - Zulu
+	Ngakho-ke wayengu-Djafar, i-Grand Vizier, owayengqongqoza emnyango wamantombazane ngokulandelana kwe-cafe, owayengafuni ukuqashelwa. Safia wayivula; futhi wadlala i-vizier, eqaphela ikhandlela ayeliphethe, owayengowesifazane omuhle omuhle, indima yakhe ngokuphelele. Ngasho ngenhlonipho, ngathi ngenhlonipho, “UMadam, kathathu esithengiwe eMusul, ezinsukwini eziyishumi ezedlule, weza nezimpahla ezicebile esizibeka eKhan (10), lapho silinda khona. Namuhla besisendlini yomthengisi sisuka kuleli dolobha ebesimema ukuba simvakashele. Wasinika ukudla okuhle; futhi ngenxa yokuthi iwayini lalinesimo esihle, wathumela eqenjini lomdanso. Kwakungobusuku obuyisithupha, abaculi babedlala, bedansa abadansi futhi neqembu lenza umsindo omkhulu, njengoba umjikelezo wayala, baya lapho, wabavulela. Abanye baboshwa. Okwethu, sasijabule kakhulu futhi sisindiswa ngokuqaqa udonga; kodwa, i-Vizier ingeziwe, ngoba thina njengabafokazi, newayini elincane ewayinini, sesaba ukuthola enye indawo, noma efanayo, ngaphambi kokuthi size eKhanyi yethu, kude lapha. Futhi besizofika kuye kalula, ukuthi umnyango ubezovalwa, futhi uvuleke kuze kube kusasa, noma ngabe kwenzekani. Futhi-ke, umkakhe, ocabanga ukuthi singashaya, ngemuva kokuzwa izinsimbi kanye namazwi, ukukunikeza indawo yokukhosela kuze kufike usuku lokusa. Uma kubonakala kukufanele ukubamba iqhaza enhlanganweni yakho, sizokwenza konke okusemandleni ukwenza okusemandleni ukuvuza igebe; uma kungenjalo, okungenani sinikeze umusa wokusivumela ukuba sichithe ubusuku ehholo lakho.
+
+Step 3/284
+>> Zulu - Arabic
+	لذلك كان جعفر ، الوزير الأكبر ، الذي كان يطرق باب الفتيات في سلسلة من المقاهي ، الذين لا يريدون أن يتم الاعتراف بهم. افتتحت صفية ولعبت دور الوزير ، مدركةً للشمعة التي كانت تحملها ، والتي كانت شابة جميلة ، ودورها بالكامل. قلت بأدب وقلت باحترام: "سيدتي ، ثلاثة أضعاف ما اشتريناه في الموصل ، قبل عشرة أيام ، جاءت مع البضائع الغنية التي وضعناها في خان (10) ، حيث ننتظر. اليوم كنا في منزل التاجر من المدينة ، ودعونا لزيارته. أعطانا طعامًا جيدًا ؛ ولأن النبيذ كان في حالة جيدة ، أرسل إلى حفلة الرقص. كانت ست ليال ، كان الموسيقيون يرقصون والرقص وكانت الفرقة تصدر ضجيجًا كبيرًا ، كما أمر المحيط ، وذهبوا إلى هناك ، وفتحوهم. تم القبض على بعض. من جانبنا ، كنا سعداء للغاية وحفظنا من خلال القفز على الحائط. ولكن ، تمت إضافة الوزير ، لأننا كأجانب ، وقليلًا من النبيذ في النبيذ ، نخشى العثور على مكان آخر ، أو ما شابه ذلك ، قبل أن نأتي إلى خاني لدينا ، بعيدًا عن هنا. وقد وصلنا إليه بسهولة ، بحيث يتم إغلاق الباب ، وسيظل مفتوحًا حتى يوم غدًا ، مهما حدث. وبطبيعة الحال ، زوجته ، التي تعتقد أنه يمكننا الاتصال ، بعد سماع الأجراس وصفارات ، لإعطائك المأوى حتى الصباح. إذا كان من المناسب المشاركة في مؤسستك ، فسنبذل قصارى جهدنا لسد الفجوة ؛ إذا لم يكن الأمر كذلك ، امنحنا على الأقل النعمة للسماح لنا بقضاء الليل في قاعتك.
+
+Step 4/284
+>> Arabic - Spanish
+	Entonces fue Jafar, el ministro mayor, quien estaba tocando la puerta de las chicas en una serie de cafés, que no quería ser reconocido. Safia abrió y desempeñó el papel de la ministra, dándose cuenta de la vela que llevaba, que era una hermosa joven, y su papel completo. Dije cortésmente y dije respetuosamente: "Señora, tres veces lo que compramos en Mosul, hace diez días, vino con los ricos bienes que pusimos en Khan (10), donde esperamos. Hoy estuvimos en la casa del comerciante de la ciudad y nos invitó a visitarlo. El vino estaba en buenas condiciones, enviado a la fiesta de baile. Fueron seis noches, los músicos bailaban y bailaban y la banda estaba haciendo un gran ruido, como lo ordenó el océano, y fueron allí, y los abrieron. Algunos fueron capturados. Por nuestro lado, estábamos muy felices y salvados saltando. Pero, el ministro fue agregado, porque como extranjeros, y un poco de vino en el vino, tenemos miedo de encontrar Otro lugar, o similar, antes de llegar a nuestro Khani, lejos de aquí. Lo hemos alcanzado fácilmente, de modo que la puerta está cerrada y permanecerá abierta hasta mañana, pase lo que pase. Por supuesto, su esposa, que cree que podemos llamar, después Si es apropiado participar en su institución, haremos nuestro mejor esfuerzo para cerrar la brecha; de lo contrario, denos al menos gracia para permitirnos pasar la noche en su habitación.
+
+Step 5/284
+>> Spanish - Hebrew
+	ואז היה זה ג'אפר, השר הבכיר, שדפק על דלת הבנות בסדרת בתי קפה, שלא רצו להכיר בכך. ספיה פתחה ומילאה את תפקיד השרה, הבינה את הנר שנשאה, שהייתה אישה צעירה ויפה, ואת תפקידה המלא. אמרתי בנימוס ואמרתי בכבוד: "גבירתי, שלוש פעמים מה שקנינו במוסול, לפני עשרה ימים, הגיעה עם הסחורה העשירה ששמנו בחאן (10), שם אנחנו מחכים. היום היינו בבית הסוחר של העיירה והזמנו אותנו היין היה במצב טוב, נשלח למסיבת הריקודים. זה היה שישה לילות, הנגנים רקדו ורקדו והלהקה השמיעה רעש גדול, כפי שהורה האוקיינוס, והם הלכו לשם ופתחו אותם. הם נפלו בשבי. בצד שלנו שמחנו מאוד וניצלנו בקפיצות. אבל הוסיף השר כי מכיוון שזרים, וקצת יין ביין, אנו חוששים למצוא מקום אחר, או דומה, לפני שהגענו לחאני שלנו רחוק מכאן. הגענו אליו בקלות, כך שהדלת סגורה ותישאר פתוחה עד מחר, לא משנה מה יקרה. כמובן שאשתך, שחושבת שאנחנו יכולים להתקשר, אז אם זה מתאים להשתתף במוסד שלך, נעשה חדש עוד מאמץ טוב ביותר לסגור את הפער; אחרת, תן לנו לפחות חן כדי לאפשר לנו לבלות את הלילה בחדר שלך.
+
+Step 6/284
+>> Hebrew - Sinhala
+	එවිට කැෆේ මාලාවක ගැහැණු ළමයින්ගේ දොරට තට්ටු කළ ජ්‍යෙෂ් ඇමති ජැෆර් එය පිළිගැනීමට අකමැති විය. සෆියා ඇමතිවරයාගේ භූමිකාව විවෘත කර රඟපෑවාය, ඇය රැගෙන යන ඉටිපන්දම, රූමත් තරුණියක් සහ ඇගේ සම්පූර්ණ භූමිකාව තේරුම් ගත්තාය. මම ආචාරශීලීව කියමින් ගෞරවාන්විතව මෙසේ කීවෙමි: “මැඩම්, අපි දින දහයකට පෙර මොසුල්හි මිලදී ගත් දේ මෙන් තුන් ගුණයක්, අපි බලා සිටින ඛාන් (10) හි තැබූ පොහොසත් වෙළඳ භාණ්ඩ සමඟ පැමිණියෙමු. එය රාත්‍රී හයක් විය, සංගීත ians යන් නටමින් නැටූ අතර සාගරයේ උපදෙස් පරිදි සංගීත කණ්ඩායම විශාල ශබ්දයක් නිකුත් කළ අතර ඔවුන් එහි ගොස් ඒවා විවෘත කළහ.ඔවුන් වහල්භාවයට පත්විය.අපි පැත්තේ අපි ඉතා සතුටින් හා පැන ගියෙමු, නමුත් ඇමතිවරයා තවදුරටත් පැවසීය හෝ ඒ හා සමානව, අපි මෙතැන් සිට අපගේ ඛානි වෙත යාමට පෙර, අපි එය පහසුවෙන් ලඟා කර ගත්තෙමු, එබැවින් දොර වසා දමා හෙට වන තුරු විවෘතව සිටින්න, කුමක් වුවත්! . නැවත ඇත්තෙන්ම, ඔබේ බිරිඳ, අපි කතා කරන්න හිතනවා, ඒ නිසා ඔබ ආයතනය සඳහා සහභාගී වීමට සුදුසුකම් වේ නම්, පරතරය වසා, තවත් නව හොඳම උත්සාහ කරන, එසේ නැත්නම්, අපට අවම වශයෙන් අපට ඔබේ කාමරය තුළ රාත්රිය ගත කරමු කැමති ඉඩ දෙන්න.
+
+Step 7/284
+>> Sinhala - Luxembourgish
+	De Senior Minister Jafar, deen un der Dier vun de Meedercher an engem Café gekloopt huet, refuséiert et z'akzeptéieren. Safia huet d'Roll vum Minister opgemaach a realiséiert d'Käerz, déi si gedroen huet, dat schéint Meedchen an hir voll Roll. Ech hunn héiflech gesot: "Mevi, mir koumen mat de räiche Wueren, déi a Khan (10) gesat goufen, dräimol wat mir an Mosul virun zéng Deeg kaaft hunn. Et war sechs Nuechte, d'Museker hunn gedanzt an d'Band huet haart haart gemaach an si sinn eran an opgaang. Si sinn an d'Gefangenschaft gaang. Ier mer vun hei aus eis khani kommen, hu mir et einfach erreecht, also maacht d'Dier zou a bleift op bis muer, egal wéi! . Erëm, natierlech, Är Fra, mir mengen datt mir solle schwätzen, also wann Dir berechtegt sidd an d'Institutioun ze goen, zou de Spalt, probéiert en neit neit Bescht, soss, op d'mannst loosst eis d'Nuecht an Ärem Zëmmer verbréngen.
+
+Step 8/284
+>> Luxembourgish - Korean
+	카페에서 소녀들의 문을 두드리는 자파 (Jafar) 장관은 그것을 받아들이지 않았다. 사피 아는 목사의 역할을 열고 그녀가 입은 양초, 그녀의 역할이 아름다운 소녀라는 것을 깨달았습니다. 나는 정중하게 말했다. "Mevi, 우리는 10 일 전에 모술에서 구입 한 것의 3 배인 칸 (10)에있는 풍부한 상품을 내놓았습니다. 그것은 6 박이었고 음악가들은 춤을 추었고 밴드는 서둘러서 들어갔다. 그들은 포로로 들어갔다. 우리가 여기에서 오기 전에 우리는 우리가 그것에 도달 했으므로 문을 닫고 내일까지 열린 채로있어 라! 물론, 당신의 아내, 우리는 우리가 이야기해야한다고 생각합니다. 따라서 기관에 갈 준비가되면 격차를 좁히고 다른 새로운 최선을 시도하십시오. 그렇지 않으면 적어도 밤을 방에서 보내십시오. .
+
+Step 9/284
+>> Korean - Shona
+	Minister Jafar vachigogodza pamusuwo wevasikana pa cafe, havana kuzvigamuchira. Saphia akavhura chinzvimbo chemufundisi ndokuona kuti makenduru aaipfeka, basa rake aive musikana akanaka. Ndakataura zvakanaka. "Mevi, takabuda nezvakawanda zvekutengesa muKhan 10, katatu zvatakatenga muMosul mazuva gumi apfuura.Yanga iri 6 husiku, vaimbi vakatamba uye boka rakakurumidza kupinda. Vakaenda muutapwa. Tisati tapinda mukati, tinovhara uye tirambe takavhurika kusvika mangwana nekuti tasvika! Chokwadi, mukadzi wako, isu tinofunga kuti titaure, saka kana wagadzirira kuenda kumahara, vhara gadhi uite chimwe chitsva chakanaka Ndokumbirawo kuti muedze, kana kuti mupe husiku mukamuri.
+
+Step 10/284
+>> Shona - Haitian Creole
+	Minis Jafar frape pi rèd toujou sou pòt la nan ti fi yo nan Kafe a, pa t 'aksepte li. Saphia louvri pozisyon pastè a ak dekouvri ke bouji li te mete, travay li te yon ti fi bon. Mwen te di byen. "Mevi, nou te soti ak yon anpil nan machandiz nan Khan 10, twa fwa sa nou te achte nan Mosul 10 jou sa pibliye depi. Li te 6 nan nwit la la, mizisyen yo danse ak gwoup la kouri nan. nou panse nou ta dwe pale, se konsa lè w ap pare yo ale gratis, fèmen garaj la ak fè yon antye nouvo avanti. Tanpri, bay li yon eseye, oswa bay yon nwit nan chanm nan.
+
+Step 11/284
+>> Haitian Creole - Catalan
+	El ministre Jafar va trucar a la porta de les noies del cafè, no ho va acceptar. Saphia va obrir la posició de pastor i va descobrir que se li havien posat espelmes, la seva feina era una bona noia. Vaig dir bé. "Mevi, vam sortir amb molta mercaderia a Khan 10, tres vegades el que vam comprar a Mosul fa 10 dies. Eren les 6 de la nit, els músics van ballar i la banda va entrar. Creiem que ho faríem Per dir-ho, així que quan estigueu preparats per alliberar-vos, tanqueu el garatge i feu una aventura totalment nova. Proveu-ho o passeu una nit a l'habitació.
+
+Step 12/284
+>> Catalan - Danish
+	Minister Jafar kaldte på døren til kaffepigerne, han accepterede det ikke. Saphia åbnede præstens position og opdagede, at der var blevet anbragt stearinlys, hans job var en god pige. Jeg sagde okay "Mevi, vi gik ud med en masse merchandise til Khan 10, tre gange, hvad vi købte i Mosul for 10 dage siden. Det var 6 om natten, musikerne dansede, og bandet gik ind. Vi troede, vi ville gøre det for at sige det på denne måde, så når du er klar til at frigøre dig, skal du lukke garagen og gøre et helt nyt eventyr. Prøv det eller overnatning i rummet.
+
+Step 13/284
+>> Danish - Maltese
+	Il-Ministru Jafar appella fuq il-bieb tal-bniet tal-kafè, huwa ma aċċettahx. Saphia fetħet il-pożizzjoni tas-saċerdot u skopriet li ġew imqiegħda xemgħat, ix-xogħol tiegħu jkun tifla tajba. Għedt tajjeb "Mevi, ħriġna b'ħafna merkanzija għal Khan 10, tliet darbiet dak li xtrajna f'Mosul 10 ijiem ilu. Kienu s-6 ta 'bil-lejl, il-bandisti kienu jiżfnu u l-banda kienet tidħol. Ħsibna li ser nagħmlu poġġih b'dan il-mod, hekk meta tkun lest biex tillibera lilek innifsek, agħlaq il-garaxx u tagħmel avventura kompletament ġdida, ipprovaha jew tqatta 'l-lejl fil-kamra.
+
+Step 14/284
+>> Maltese - Macedonian
+	Министерот Џафар повика на вратата на девојките кафе, aċċettahx. Saphia отворена положба на свештеникот и сфатив дека свеќи беа поставени, неговата работа е добра девојка. и рече: "MEVI, излезе многу стока за Кан 10, три пати што xtrajna Мосул пред 10 дена. Тоа е на 6-ти ноќ, музичарите танцуваа и бендот дојде. Мислевме ние ќе го стави овој начин, па кога ќе се подготвени да се ослободат, затвори гаража и да се направи сосема нова авантура, тоа се обиде и да ја поминат ноќта во собата.
+
+Step 15/284
+>> Macedonian - Hausa
+	Minista Jaafar ya yi kira ga kofar kofi 'yan matan, aċċettahx. Safiya ta buɗe matsayin firist kuma ta fahimci cewa an sanya kyandir, aikinsa kyakkyawan yarinya ne. kuma ya ce: "MEVI, sun fito da kayan masarufi don Khan 10, sau uku da xtrajna Mosul kwanaki 10 da suka gabata. Shine daren 6, mawaƙa suna rawa kuma makada sun zo. Muna tunanin za mu sanya shi ta wannan don haka lokacin da muke shirye mu sauke kanka, rufe garejin kuma yi sabon kasada, gwada shi kuma ka kwana a cikin ɗakin.
+
+Step 16/284
+>> Hausa - Norwegian
+	Minister Jaafar ba om jentenes kaffekopp, aċċettahx. Morgenen åpnes som prest og innser at det lages et lys, arbeidet hans er en vakker jente. og sa: "MEVI, de har gitt ut en mashup for Khan 10, tre ganger og xtrajna Mosul de siste 10 dagene. Klokka var seks, musikerne danset og musikerne kom inn. Vi trodde vi skulle klare det gjennom denne tiden. klar til å slippe av, lukk garasjen og gjør et nytt eventyr, prøv det og overnatt i rommet.
+
+Step 17/284
+>> Norwegian - Mongolian
+	Сайд Джафар охидын кофены аяга, aettahx авахыг хүсэв. Өглөө тахилчаар нээгдэж, лаа хийж байгааг мэдээд түүний ажил бол үзэсгэлэнтэй охин юм. "MEVI буулгаад, гараашаа хаагаад өөр нэг адал явдал хий, үүнийг туршаад өрөөндөө бай.
+
+Step 18/284
+>> Mongolian - Swahili
+	Waziri alimuuliza Jafar kununua kikombe cha kahawa, aettahx. Wakati anajifunza kuwa mishumaa imefunguliwa asubuhi na anatengeneza mishumaa, kazi yake ni msichana mzuri. "Weka chini MEVI, funga gereji yako na ujaribu adventure nyingine, jaribu kwenye chumba chako.
+
+Step 19/284
+>> Swahili - Maori
+	I kii te minita ki a Jafar ki te hoko i tetahi kapu kawhe, aettahx. Ka ako ia ka tiakina nga kānara i te ata ka hanga e ia nga rama, ko tana mahi ko te mahi he kotiro pai. "Whakanohia te MEVI, kati nga karati me te whakamatau i tetahi atu haerenga, whakamatauhia ki roto i to ruuma.
+
+Step 20/284
+>> Maori - Samoan
+	Sa fai atu le faifeau ia Jafar e faatau se ipu kofe, aettahx. Na ia aoao e tausi moligao i le taeao pe a ia faia moligao, ma o lana galuega o le faia lea o se teine lelei. "Faʻaauau MEVI, tapuni faʻamau ma taumafai se isi taamilosaga, taumafai i totonu o lou potu.
+
+Step 21/284
+>> Samoan - Armenian
+	Քահանան ասաց afաֆարին ՝ մի բաժակ սուրճ գնելու, aettahx: Նա սովորում է մոմ պահել առավոտյան, երբ մոմ է պատրաստում, և նրա գործն է `լավ աղջկա պատրաստելը: «Շարունակեք MEVI- ն, փակեք բարերը և փորձեք ևս մեկ փուլ, փորձեք այն ձեր սենյակում:
+
+Step 22/284
+>> Armenian - Persian
+	کشیش از راه دور گفت که یک فنجان قهوه ، اتاکس بخرید. او یاد می گیرد هنگام ساخت شمع صبح یک شمع نگه دارد و کار او ساختن دختر خوب است. "ادامه دهید MEVI ، میله ها را ببندید و دور دیگری را امتحان کنید ، آن را در اتاق خود امتحان کنید.
+
+Step 23/284
+>> Persian - Czech
+	Vzdálený kněz řekl, aby si koupil šálek kávy, Ataxi. Když se ráno vyrábí svíčky, učí se držet svíčku a jejím úkolem je udělat dobrou dívku. "Pokračujte na MEVI, zavřete bary a zkuste další kolo, zkuste to ve svém pokoji."
+
+Step 24/284
+>> Czech - Ukrainian
+	Далекий священик сказав купити чашку кави, Атаксі. Роблячи свічки вранці, вона вчиться тримати свічку і її робота - зробити гарну дівчину. "Продовжуйте рух на MEVI, закрийте бруски і спробуйте ще один раунд, спробуйте в своїй кімнаті."
+
+Step 25/284
+>> Ukrainian - French
+	Un lointain prêtre lui a dit d'acheter une tasse de café, Ataxi. En fabriquant des bougies le matin, elle apprend à tenir une bougie et son travail consiste à faire une fille sage. "Continuez sur MEVI, fermez les bars et essayez un autre tour, essayez dans votre chambre."
+
+Step 26/284
+>> French - Slovenian
+	Oddaljeni duhovnik mu je rekel, naj kupi skodelico kave, Ataxi. Zjutraj se naredi sveče, nauči se držati svečo in njena naloga je pametno deklico. "Nadaljujte na MEVI, zaprite palice in poskusite še en krog, poskusite v svoji sobi."
+
+Step 27/284
+>> Slovenian - Lithuanian
+	Tolimas kunigas liepė nusipirkti kavos puodelį „Ataxi“. Ryte ji gamina žvakes, mokosi laikyti žvakę, o jos užduotis - būti protinga mergina. "Eikite į MEVI, uždarykite barus ir išbandykite dar vieną turą, išbandykite savo kambaryje".
+
+Step 28/284
+>> Lithuanian - Amharic
+	አንድ ሩቅ ቄስ የአታክሲ ቡና ጽዋ እንድገዛ ነገረኝ። ጠዋት ላይ ሻማ ትሠራለች ፣ ሻማ መያዝ እንደምትችል ተረዳች እና ስራዋ ብልህ ሴት መሆን ነው ፡፡ "ወደ MEVI ሂድ ፣ አሞሌዎቹን ዝጋ እና ሌላ ጉብኝት ሞክር ፣ በክፍልህ ውስጥ ሞክር ፡፡"
+
+Step 29/284
+>> Amharic - Italian
+	Un lontano prete mi disse di comprare una tazza di caffè Atacci. Fa le candele al mattino, impara a tenere le candele e il suo lavoro è quello di essere una donna intelligente. "Vai a MEVI, chiudi i bar e prova un altro tour, prova nella tua stanza."
+
+Step 30/284
+>> Italian - Kurdish
+	Kahînerek dûrî ji min re got ku ez ê qehwe qehweyek Ataca bikirim. Ew di sibehê de candar çêdike, fêr dibe ku candan bigire û karê wî jina aqilmend e. "Herin MEVI, bendan vekin û rêwîtiyek din biceribînin, di odeya xwe de biceribînin."
+
+Step 31/284
+>> Kurdish - Malay
+	Seorang imam jauh memberitahu saya bahawa saya akan membeli kopi Ataca. Dia menetapkan gula-gula pada waktu pagi, belajar untuk mengambil gula-gula dan wanita bijak. "Pergi ke MEVI, buka lorong dan cuba jalan lain, cuba di dalam bilik anda."
+
+Step 32/284
+>> Malay - Hungarian
+	Egy távoli pap azt mondta nekem, hogy veszek Ataca kávét. Reggel édességet állít fel, megtanulja édességeket és bölcs nőket venni. "Menj a MEVI-hez, nyisd ki a folyosót, és próbálj ki egy másik utat, próbálj ki a szobádban."
+
+Step 33/284
+>> Hungarian - Portuguese
+	Um padre distante me disse para comprar café Ataca. De manhã, ele prepara doces, aprende a comprar doces e mulheres sábias. "Vá para o MEVI, abra o corredor e tente outro caminho, tente no seu quarto."
+
+Step 34/284
+>> Portuguese - English
+	A distant priest told me to buy Ataca coffee. In the morning, he prepares sweets, learns to buy sweets and wise women. "Go to MEVI, open the hallway and try another way, try it in your room."
+
+Step 35/284
+>> English - Estonian
+	Kauge preester käskis mul osta Ataca kohvi. Hommikul valmistab ta maiustusi, õpib maiustusi ostma ja tarku naisi. "Minge MEVI-sse, avage koridor ja proovige teist moodi, proovige seda oma toas."
+
+Step 36/284
+>> Estonian - Finnish
+	Kaukainen pappi käski minun ostaa Ataca-kahvia. Aamulla hän tekee makeisia, oppii ostamaan makeisia ja viisaita naisia. "Mene MEVI: lle, avaa käytävä ja kokeile toista tapaa, kokeile sitä huoneessasi."
+
+Step 37/284
+>> Finnish - Romanian
+	Un preot îndepărtat mi-a spus să cumpăr cafea Ataca. Dimineața face dulciuri, învață să cumpere dulciuri și femei înțelepte. "Du-te la MEVI, deschide holul și încearcă un alt mod, încearcă-l în camera ta."
+
+Step 38/284
+>> Romanian - Bengali
+	দূরের এক পুরোহিত আমাকে বলেছিলেন অ্যাটাকার কফি কিনতে। সকালে তিনি মিষ্টি তৈরি করেন, তিনি মিষ্টি এবং জ্ঞানী মহিলাদের কিনতে শিখেন। "এমইভিআইতে যান, হলটিটি খুলুন এবং অন্যভাবে চেষ্টা করুন, এটি আপনার ঘরে চেষ্টা করুন in"
+
+Step 39/284
+>> Bengali - Filipino
+	Isang pari mula sa malayo ang nagsabi sa akin na bumili ng loteng kape. Sa umaga gumawa siya ng mga matatamis, natututo siyang bumili ng matamis at marunong na kababaihan. "Pumunta sa MEVI, buksan ang bulwagan at subukan ang isa pang paraan, subukan ito sa iyong silid."
+
+Step 40/284
+>> Filipino - Serbian
+	Свештеник из далека ми је рекао да купим земљу за кафу. Ујутро прави слаткише, учи да купује слатке и интелигентне жене. "Иди на МЕВИ, отвори ходник и пробај други начин, пробај у својој соби."
+
+Step 41/284
+>> Serbian - Lao
+	ປະໂລຫິດຈາກໄກໄດ້ບອກຂ້າພະເຈົ້າໃຫ້ຊື້ທີ່ດິນ ສຳ ລັບກາເຟ. ລາວເຮັດເຂົ້າ ໜົມ ຫວານໃນຕອນເຊົ້າ, ຮຽນຊື້ແມ່ຍິງທີ່ມີລົດຫວານແລະສະຫຼາດ. "ໄປ MEVI, ເປີດຫ້ອງໂຖງແລະລອງວິທີອື່ນ, ລອງຢູ່ຫ້ອງຂອງເຈົ້າ."
+
+Step 42/284
+>> Lao - Croatian
+	Svećenik izdaleka rekao mi je da kupim zemlju za kavu. Ujutro izrađuje slatkiše, uči ih kupovati slatke i pametne žene. "Idite na MEVI, otvorite dvoranu i pokušajte drugim putem. Isprobajte svoju sobu."
+
+Step 43/284
+>> Croatian - Kazakh
+	Алыстан келген бір діни қызметкер маған кофе сатып алуды өтінді. Таңертең ол тәттілер жасайды, тәтті және ақылды әйелдерді сатып алуға үйретеді. «MEVI-ге барып, залды ашып, басқасын көріңіз. Бөлмеңізді пайдаланып көріңіз.»
+
+Step 44/284
+>> Kazakh - Vietnamese
+	Một linh mục lâu năm yêu cầu tôi mua một ít cà phê. Buổi sáng, anh làm bánh ngọt, dạy phụ nữ ngọt ngào và thông minh. "Tới MEVI, mở một căn phòng và thử một cái khác. Hãy thử phòng của bạn. "
+
+Step 45/284
+>> Vietnamese - Malagasy
+	Nisy pretra efa ela nanontany ahy hividy kafe. Ny maraina izy dia manao mofomamy, mampianatra vehivavy mamy sy manan-tsaina. "Mankanesa any MEVI, manokatra efitrano iray ary andramo hafa. Andramo ny efitranonao."
+
+Step 46/284
+>> Malagasy - Pashto
+	یو زوړ کاهن له ما څخه وغوښتل چې یو څه کافي واخلم. په سهار کې هغه پخلی کوي ، خوږو او هوښیارو میرمنو ته درس ورکوي. "MEVI ته لاړشئ ، یوه خونه خلاص کړئ او بله هڅه وکړئ. خپله خونه هڅه وکړئ."
+
+Step 47/284
+>> Pashto - Hindi
+	एक पुराने पुजारी ने मुझे कुछ कॉफी खरीदने के लिए कहा। सुबह वह खाना बनाती है, मीठी और स्मार्ट महिलाओं को सिखाती है। "MEVI पर जाएं, एक कमरा खोलें और दूसरा प्रयास करें। अपने कमरे का प्रयास करें।"
+
+Step 48/284
+>> Hindi - Russian
+	Старый священник попросил меня купить ему кофе. Утром она готовит, учит милых и умных женщин. «Идите в MEVI, откройте одну комнату и попробуйте другую. Попробуйте свою комнату».
+
+Step 49/284
+>> Russian - Polish
+	Stary ksiądz poprosił mnie, abym kupił mu kawę. Rano gotuje, uczy urocze i mądre kobiety. „Idź do MEVI, otwórz jeden pokój i wypróbuj inny. Wypróbuj swój pokój. ”
+
+Step 50/284
+>> Polish - Indonesian
+	Seorang pendeta tua meminta saya untuk membelikannya kopi. Di pagi hari dia memasak, mengajar wanita yang menarik dan cerdas. "Pergi ke MEVI, buka satu kamar dan coba yang lain. Coba kamar Anda. "
+
+Step 51/284
+>> Indonesian - Urdu
+	ایک بوڑھے پجاری نے مجھ سے اس سے کافی خریدنے کو کہا۔ صبح جب وہ کھانا پکاتا ہے ، پرکشش اور ذہین خواتین کو تعلیم دیتا ہے۔ "MEVI پر جائیں ، ایک کمرے کھولیں اور دوسرا آزمائیں۔ اپنے کمرے کی کوشش کریں۔"
+
+Step 52/284
+>> Urdu - Swedish
+	En gammal präst bad mig köpa honom kaffe. På morgonen när han lagar mat utbildar han attraktiva och intelligenta kvinnor. "Gå till MEVI, öppna ett rum och prova ett annat. Prova ditt rum."
+
+Step 53/284
+>> Swedish - Bosnian
+	Stari svećenik me zamolio da mu kupim kafu. Ujutro kada kuha, odgaja atraktivne i inteligentne žene. "Idite na MEVI, otvorite jednu sobu i pokušajte drugu. Probajte svoju sobu."
+
+Step 54/284
+>> Bosnian - German
+	Der alte Priester bat mich, ihm Kaffee zu kaufen. Am Morgen, wenn sie kocht, zieht sie attraktive und intelligente Frauen auf. "Geh zu MEVI, öffne einen Raum und probiere einen anderen. Probiere deinen Raum."
+
+Step 55/284
+>> German - Japanese
+	老僧は私に彼にコーヒーを買うように頼んだ。朝、料理をするとき、彼女は魅力的で知的な女性を引き付けます。 「MEVIに行き、ある部屋を開いて別の部屋を試して、部屋を試してください。」
+
+Step 56/284
+>> Japanese - Chichewa
+	Mbuyanga wakale adandipempha kuti ndigule khofi. M'mawa akaphika, amakopa mkazi wokongola komanso wanzeru. "Pitani ku MEVI, tsegulani chipinda chimodzi ndikuyesa china, yesani chipindacho."
+
+Step 57/284
+>> Chichewa - Dutch
+	Mijn oude meester vroeg me om koffie te kopen. 'S Morgens tijdens het koken trekken ze een mooie en intelligente vrouw aan. "Ga naar MEVI, open een kamer en probeer een andere, probeer de kamer."
+
+Step 58/284
+>> Dutch - Nepali
+	मेरो पुरानो मालिकले मलाई कफी किन्न आग्रह गर्नुभयो। बिहान पकाउँदा तिनीहरू एक सुन्दर र बुद्धिमान महिलालाई आकर्षित गर्छन्। "MEVI मा जानुहोस्, एउटा कोठा खोल्नुहोस् र अर्को कोशिस गर्नुहोस्, कोठा प्रयोग गरेर हेर्नुहोस्।"
+
+Step 59/284
+>> Nepali - Bulgarian
+	Старият ми шеф ме помоли да си купя кафе. На сутрешното готвене те привличат красива и интелигентна жена. „Отидете в MEVI, отворете едната стая и опитайте друга, опитайте стаята.“
+
+Step 60/284
+>> Bulgarian - Latvian
+	Mans vecais boss lūdza mani nopirkt kafiju. Rīta vārīšanas laikā viņus piesaista skaista un inteliģenta sieviete. "Dodieties uz MEVI, atveriet vienu istabu un izmēģiniet citu, izmēģiniet istabu."
+
+Step 61/284
+>> Latvian - Greek
+	Το παλιό μου αφεντικό με ζήτησε να αγοράσω καφέ. Κατά τη διάρκεια της μαγειρικής το πρωί, προσελκύονται από μια όμορφη και έξυπνη γυναίκα. "Πηγαίνετε στο MEVI, ανοίξτε ένα δωμάτιο και δοκιμάστε άλλο, δοκιμάστε το δωμάτιο."
+
+Step 62/284
+>> Greek - Turkish
+	Eski patronum benden kahve almamı istedi. Sabah yemeklerinde güzel ve akıllı bir kadın çekiyorlar. "MEVI'ya git, bir oda aç ve başka bir odayı dene, odayı dene."
+
+Step 63/284
+>> Turkish - Georgian
+	ჩემმა ძველმა უფროსმა მთხოვა, ყავა გამეკეთებინა. ისინი დილაობით მშვენიერ, ჭკვიან ქალს ესვრიან. "წადი BLUE, გახსენით ოთახი და სცადეთ სხვა ოთახი. სცადეთ ოთახი."
+
+Step 64/284
+>> Georgian - Chinese (Traditional)
+	我的老老闆要我煮咖啡。他們在早上拍攝了一個美麗，聰明的女人。 “ GO BLUE，打開房間，然後嘗試另一個房間。嘗試房間。”
+
+Step 65/284
+>> Chinese (Traditional) - Uzbek
+	Mening eski xo'jayinim qahva tayyorlashimni xohlaydi. Ular chiroyli, aqlli ayolni ertalab otib tashlashdi. "Yorqin bo'ling, xonani oching va boshqa xonani sinab ko'ring. Xonani sinab ko'ring."
+
+Step 66/284
+>> Uzbek - Burmese
+	ငါ၏အဟောင်းများကိုသူဌေးကော်ဖီမှတ်တမ်းရုပ်ရှင်လိုသည်။ သူတို့ဟာနံနက်ယံ၌သေနတ်ဖြင့်ပစ်ခတ်သူအဆင်းလှ, အသိဉာဏ်အမျိုးသမီးတစ်ဦးရှိပါတယ်။ "တစ်တောက်တောက်ပွင့်လင်းတဲ့အခန်းနှင့်အခြားအခန်းပေါင်းကြိုးစားပါ။ ROOM တွင်တစ်ဦးပါ။ "
+
+Step 67/284
+>> Burmese - Thai
+	เก่าสารคดีเจ้านายกาแฟของฉัน พวกเขายิงในช่วงเช้ามีความสวยงามของผู้หญิงฉลาด "ห้องพักที่สดใสกับโปร่งใสหนึ่งและพยายามที่ห้องอื่น ๆ . ห้อง."
+
+Step 68/284
+>> Thai - Chinese (Simplified)
+	老纪录片，我的咖啡老板他们在早上开枪拍摄了一个美丽，聪明的女人。 “一个明亮的房间，一个透明的房间，尝试另一个房间。房间。”
+
+Step 69/284
+>> Chinese (Simplified) - Slovak
+	Starý dokument, môj šéf kávy, ráno zastrelili krásnu, inteligentnú ženu. „Svetlá izba, priehľadná izba, skúste inú izbu. Izba.“
+
+Step 70/284
+>> Slovak - Albanian
+	Një dokument i vjetër, shefi im i kafesë, qëlloi një grua të bukur, inteligjente në mëngjes. “Dhoma e ndritshme, dhomë transparente, provoni një dhomë tjetër. Dhomë. "
+
+Step 71/284
+>> Albanian - Icelandic
+	Gamalt skjal, kaffi yfirmaður minn, skaut á morgnana fallega, gáfaða konu. „Björt herbergi, gegnsætt herbergi, prófaðu annað herbergi. Room. "
+
+Step 72/284
+>> Icelandic - Slovak
+	Starý dokument, môj manažér kávy, zastrelil ráno krásnu, inteligentnú ženu. „Svetlá miestnosť, priehľadná miestnosť, skúste inú izbu. Room. "
+
+Step 73/284
+>> Slovak - Hindi
+	एक पुराने वृत्तचित्र, मेरे कॉफी प्रबंधक ने सुबह एक सुंदर, बुद्धिमान महिला को गोली मार दी। “उज्ज्वल कमरा, पारदर्शी कमरा, दूसरे कमरे का प्रयास करें। कमरे में। "
+
+Step 74/284
+>> Hindi - Pashto
+	یو زاړه مستند فلم ، زما د کافی مدیر ، په سهار کې یوه ښکلې ، هوښیار ښځه ډزې وکړې. روښانه خونه ، شفاف خونې ، نورې خونې هڅه وکړئ. په خونه کې. "
+
+Step 75/284
+>> Pashto - Sinhala
+	මගේ කෝපි මැනේජර් නම් පැරණි වාර්තා චිත්‍රපටයක් උදේ ලස්සන, දක්ෂ කාන්තාවකට වෙඩි තැබුවා. දීප්තිමත් කාමර, විනිවිද පෙනෙන කාමර, වෙනත් කාමර උත්සාහ කරන්න. කාමරයේ. "
+
+Step 76/284
+>> Sinhala - Swahili
+	Asubuhi hati ya zamani inayoitwa Meneja wa kahawa yangu ilipigwa risasi na mwanamke mzuri, mwenye talanta. Jaribu vyumba vyenye mkali, vyumba vya uwazi, vyumba vingine. Chumba. "
+
+Step 77/284
+>> Swahili - Danish
+	Om morgenen blev en gammel dokumentar kaldet min kaffechef skudt af en smuk, talentfuld kvinde. Prøv lyse værelser, gennemsigtige værelser, andre værelser. Room. "
+
+Step 78/284
+>> Danish - Lithuanian
+	Ryte gražią, talentingą moterį nušovė senas dokumentinis filmas „Mano kavos vadybininkas“. Išbandykite šviesius, skaidrius, kitus kambarius. Kambarys. "
+
+Step 79/284
+>> Lithuanian - Icelandic
+	Um morguninn var falleg, hæfileikarík kona tekin af gömlum heimildarmynd sem heitir Kaffistjórinn minn. Prófaðu björt, gagnsæ önnur herbergi. Herbergið. "
+
+Step 80/284
+>> Icelandic - Samoan
+	I le taeao, o se tamaitai lalelei ma talenia na aveesea mai se pepa tuai na taʻua o My Coffee Chef. Taumafai ia malamalama, manino isi potu. Potu. "
+
+Step 81/284
+>> Samoan - Japanese
+	朝、美人で才能のある女性がマイコーヒーシェフと呼ばれる古い紙から取り除かれました。部屋をきれいにして、他の部屋をきれいにしてください。部屋。 」
+
+Step 82/284
+>> Japanese - Catalan
+	Al matí, una bella i talentosa dona va ser retirada d’un vell paper anomenat My Coffee Chef. Netegeu l'habitació i netegeu les altres habitacions. Habitació. "
+
+Step 83/284
+>> Catalan - Filipino
+	Noong umaga, ang isang maganda at may talento na babae ay tinanggal mula sa isang matandang papel na tinawag na My Coffee Chef. Linisin ang silid at linisin ang iba pang mga silid. Kwarto "
+
+Step 84/284
+>> Filipino - Bulgarian
+	На сутринта красива и талантлива жена беше извадена от стара хартия, наречена My Coffee Chef. Почистете стаята и почистете останалите помещения. Стая "
+
+Step 85/284
+>> Bulgarian - Kurdish
+	Di sibehê de, jinek xweşik û jêhatî ji kaxezek kevn a bi navê Kefika Qehwa min hate derxistin. Odeyê paqij bikin û rûnê mayî paqij bikin. Jûre "
+
+Step 86/284
+>> Kurdish - Slovenian
+	Zjutraj me je lepa in nadarjena ženska vzela iz starega papirja z imenom Moj kavni aparat. Očistite sobo in očistite preostalo olje. Soba "
+
+Step 87/284
+>> Slovenian - Haitian Creole
+	Nan denmen maten, yon fanm bèl ak talan ranmase m 'soti nan yon moso fin vye granmoun nan papye yo rele machin kafe mwen. Netwaye sal la epi netwaye tout lwil ki rete yo. Sal "
+
+Step 88/284
+>> Haitian Creole - Ukrainian
+	Наступного ранку красива та талановита жінка підхопила мене зі старого аркуша паперу, який називався моєю кавомолкою. Очистіть приміщення і очистіть все залишкове масло. Привіт "
+
+Step 89/284
+>> Ukrainian - Russian
+	На следующее утро красивая и талантливая женщина подхватила меня со старого листа бумаги, который назывался моей кофемолкой. Очистите помещение и очистите все остаточное масло. Привет "
+
+Step 90/284
+>> Russian - Croatian
+	Sljedećeg jutra lijepa i talentirana žena pokupila me je sa starog papira koji se zvao moja mlin za kavu. Očistite sobu i očistite sva zaostala ulja. Bok "
+
+Step 91/284
+>> Croatian - Nepali
+	भोलिपल्ट बिहान एउटी सुन्दर र प्रतिभाशाली महिलाले मेरो पुरानो कागजको कागजबाट मेरो कफी ग्राइन्डर उठाउनुभयो। कोठा सफा गर्नुहोस् र कुनै पनि अवशिष्ट तेल सफा गर्नुहोस्। नमस्ते "
+
+Step 92/284
+>> Nepali - Malagasy
+	Ny ampitso maraina dia nisy vehivavy tsara tarehy sy manan-talenta naka ny kapoaky ny kafe avy tao anaty kitapoko efa tranainy. Diovy ny efitrano ary diovy ny menaka sisa. Salama "
+
+Step 93/284
+>> Malagasy - Malay
+	Keesokan harinya, seorang wanita yang cantik dan berbakat mengambil secawan kopi dari tas lama saya. Bersihkan bilik dan bersihkan baki minyak. Hello "
+
+Step 94/284
+>> Malay - Spanish
+	Al día siguiente, una bella y talentosa mujer tomó una taza de café de mi vieja bolsa. Limpia la habitación y limpia el aceite restante. Hola
+
+Step 95/284
+>> Spanish - Mongolian
+	Маргааш нь үзэсгэлэнтэй, авъяастай нэгэн эмэгтэй хуучин цүнхнээсээ аяга кофе уусан байв. Өрөө цэвэрлээд үлдсэн тосыг цэвэрлэ. Сайн байцгаана уу
+
+Step 96/284
+>> Mongolian - Urdu
+	اگلے دن ، ایک خوبصورت ، ہونہار خاتون نے اپنے پرانے بیگ سے کافی کا پی لیا۔ کمرے کو صاف کریں اور باقی تیل صاف کریں۔ سلام۔
+
+Step 97/284
+>> Urdu - Zulu
+	Ngosuku olulandelayo, intokazi enhle, enethalente yaphuza ikhofi esikhwameni sayo sakudala. Hlanza igumbi futhi uhlanze uwoyela osele. Sawubona
+
+Step 98/284
+>> Zulu - Hungarian
+	Másnap egy szép, tehetséges fiatal hölgy ivott kávét a régi táskájába. Tisztítsa meg a helyiséget és tisztítsa meg a maradék olajat. Helló
+
+Step 99/284
+>> Hungarian - Bengali
+	পরের দিন, একটি সুন্দরী, প্রতিভাবান যুবতী তার পুরানো ব্যাগে কফি পান করেছিলেন। ঘরটি পরিষ্কার করে বাকী তেল পরিষ্কার করুন। হ্যালো
+
+Step 100/284
+>> Bengali - Italian
+	Il giorno seguente, una giovane e bella donna di talento ha bevuto il caffè nella sua vecchia borsa. Pulisci il resto dell'olio pulendo la casa. Ciao
+
+Step 101/284
+>> Italian - Irish
+	An lá dár gcionn, d’ól bean álainn álainn óg caife ina sean-mhála. Glan an chuid eile den ola trí an teach a ghlanadh. Dia duit
+
+Step 102/284
+>> Irish - Latvian
+	Nākamajā dienā skaista jauna sieviete izdzēra kafejnīcu savā vecajā somā. Notīriet pārējo eļļu, notīrot māju. Labdien
+
+Step 103/284
+>> Latvian - Korean
+	다음 날, 아름다운 젊은 여성이 카페에서 오래된 가방을 마 셨습니다. 집을 청소하여 남은 기름을 청소하십시오. 안녕하세요
+
+Step 104/284
+>> Korean - Hausa
+	Kashegari, wata kyakkyawar budurwa ta sha tsohon jaka a wurin cafe. Tsaftace gidanku don tsabtace kowane mai da ya ragu. Sannu
+
+Step 105/284
+>> Hausa - Lao
+	ມື້ຕໍ່ມາ, ແມ່ຍິງຫນຸ່ມທີ່ສວຍງາມໄດ້ດື່ມກະເປົາເກົ່າຢູ່ຮ້ານຄາເຟ. ເຮັດຄວາມສະອາດເຮືອນຂອງທ່ານໃຫ້ສະອາດສິ່ງເສດເຫຼືອ. ສະບາຍດີ
+
+Step 106/284
+>> Lao - Macedonian
+	Следниот ден, една убава млада жена пиеше стара торба во кафеана. Исчистете ја куќата за да исчистите отпад. Здраво
+
+Step 107/284
+>> Macedonian - Indonesian
+	Keesokan harinya, seorang wanita muda cantik sedang minum tas tua di sebuah kafe. Bersihkan rumah untuk membersihkan sampah. Hai
+
+Step 108/284
+>> Indonesian - Vietnamese
+	Ngày hôm sau, một phụ nữ trẻ đẹp đang uống một chiếc túi cũ trong quán cà phê. Dọn dẹp nhà cửa để dọn rác. Xin chào
+
+Step 109/284
+>> Vietnamese - Shona
+	Mangwana acho, mukadzi akanaka wechidiki ari kumwa bhegi rekare mune cafe. Cheneswa imba yekuchenesa marara. Mhoroi
+
+Step 110/284
+>> Shona - Norwegian
+	Dagen etter drikker en vakker ung kvinne en gammel pose på en kafé. Rengjør huset for søppelhåndtering. Mhoroi
+
+Step 111/284
+>> Norwegian - Dutch
+	De volgende dag drinkt een mooie jonge vrouw een oude tas in een café. Maak het huis schoon voor vuilophaal. Mhoroi
+
+Step 112/284
+>> Dutch - Chinese (Traditional)
+	第二天，一個美麗的年輕女子在咖啡廳喝著一個舊袋子。打掃房子以便進行垃圾處理。 Mhoroi
+
+Step 113/284
+>> Chinese (Traditional) - Portuguese
+	No dia seguinte, uma bela jovem estava bebendo uma sacola velha no café. Limpe a casa para descarte de lixo. Mhoroi
+
+Step 114/284
+>> Portuguese - Serbian
+	Следећег дана, лепа млада жена је пила стару кесу у кафићу. Очистите кућу за одлагање смећа. Мхорои
+
+Step 115/284
+>> Serbian - Bosnian
+	Sledećeg dana je lepa mlada žena ispijala staru kesu u kafiću. Očistite svoju kuću za odvoz smeća. Mhoroi
+
+Step 116/284
+>> Bosnian - Polish
+	Następnego dnia piękna młoda kobieta piła starą torbę w kawiarni. Oczyść swój dom na śmieci. Moroja
+
+Step 117/284
+>> Polish - Romanian
+	A doua zi, o tânără frumoasă a băut un sac vechi într-o cafenea. Curățați casa cu gunoaie. Moroja
+
+Step 118/284
+>> Romanian - Luxembourgish
+	Den nächsten Dag huet eng schéin jonk Fra en alen Sak an engem Café gedronk. Botzen d'Haus mat Dreck. Moroja
+
+Step 119/284
+>> Luxembourgish - Thai
+	ในวันรุ่งขึ้นหญิงสาวสวยคนหนึ่งดื่มถุงเก่าในร้านกาแฟ ทำความสะอาดบ้านด้วยสิ่งสกปรก Moroja
+
+Step 120/284
+>> Thai - Maltese
+	L-għada, mara sabiħa xorob borża antika f'ħanut tal-kafè. Naddaf id-dar bi ħmieġ ta ’Moroja
+
+Step 121/284
+>> Maltese - Swedish
+	Nästa dag, en vacker kvinna drack gamla kafé väska. Städa huset med en smuts Moroja
+
+Step 122/284
+>> Swedish - Persian
+	روز بعد ، یک زن زیبا کیسه کافه قدیمی را نوشید. خانه را با یک موروجا خاکی تمیز کنید
+
+Step 123/284
+>> Persian - Chinese (Simplified)
+	第二天，一个美丽的女人喝了一个旧的咖啡袋。用陶器打扫房子
+
+Step 124/284
+>> Chinese (Simplified) - Estonian
+	Järgmisel päeval jõi üks ilus naine vana kohvikoti. Maja puhastamine keraamikaga
+
+Step 125/284
+>> Estonian - Maori
+	I te ra i muri mai, ka inu tetahi wahine ataahua i tetahi peke kawhe tawhito. Huringa whare me nga kauhau
+
+Step 126/284
+>> Maori - German
+	Am nächsten Tag trinkt eine schöne Frau einen alten Kaffeebeutel. Hauswechsel und Vorträge
+
+Step 127/284
+>> German - Kazakh
+	Келесі күні әдемі әйел ескі кофе сөмкесін ішеді. Үйдегі өзгерістер және дәрістер
+
+Step 128/284
+>> Kazakh - Amharic
+	በሚቀጥለው ቀን ጠዋት አንዲት ቆንጆ አሮጊት ቡና ትጠጣለች ፡፡ በቤት እና በንግግሮች ላይ ለውጦች ፡፡
+
+Step 129/284
+>> Amharic - Arabic
+	في صباح اليوم التالي ، تشرب قهوة قديمة لطيفة. التغييرات في المنزل والمحاضرات.
+
+Step 130/284
+>> Arabic - Finnish
+	Juo seuraavana aamuna vanha mukava kahvi. Muutokset kotona ja luennot.
+
+Step 131/284
+>> Finnish - Greek
+	Το επόμενο πρωί, πίνετε κάποιο ωραίο παλιό καφέ. Αλλαγές στο σπίτι και διαλέξεις.
+
+Step 132/284
+>> Greek - Burmese
+	နောက်တစ်နေ့နံနက်တစ်ကောင်းတဲ့အဟောင်းကိုကော်ဖီသောက်လော့။ အိမ်နှင့်ပို့ချချက်မှာအပြောင်းအလဲများ။
+
+Step 133/284
+>> Burmese - Uzbek
+	Ertasi kuni ertalab, bir chiroyli sobiq kofe. Uy va ma'ruzalar da o'zgarishlar.
+
+Step 134/284
+>> Uzbek - Chichewa
+	M'mawa wotsatira, khofi wokalamba wakale. Zosintha panyumba ndi maphunziro.
+
+Step 135/284
+>> Chichewa - French
+	Le lendemain matin, vieux café. Amélioration de l'habitat et éducation.
+
+Step 136/284
+>> French - Czech
+	Následující ráno, stará káva. Zlepšení prostředí a vzdělávání.
+
+Step 137/284
+>> Czech - Albanian
+	Të nesërmen në mëngjes, kafja e vjetër. Përmirësimi i mjedisit dhe arsimit.
+
+Step 138/284
+>> Albanian - Hebrew
+	למחרת בבוקר, הקפה הישן. שיפור הסביבה והחינוך.
+
+Step 139/284
+>> Hebrew - Georgian
+	მეორე დილით ძველი ყავა. გარემოს გაუმჯობესება და განათლება.
+
+Step 140/284
+>> Georgian - English
+	The next morning old coffee. Improving the environment and education.
+
+Step 141/284
+>> English - Armenian
+	Հաջորդ առավոտ հին սուրճը: Շրջակա միջավայրի և կրթության բարելավում:
+
+Step 142/284
+>> Armenian - Turkish
+	Ertesi sabah eski kahve. Çevre ve eğitimin iyileştirilmesi.
+
+Step 143/284
+>> Turkish - Armenian
+	Հին սուրճ հաջորդ առավոտ: Շրջակա միջավայրի և կրթության բարելավում:
+
+Step 144/284
+>> Armenian - English
+	Old coffee the next morning. Improving the environment and education.
+
+Step 145/284
+>> English - Georgian
+	ძველი ყავა მეორე დილით. გარემოს გაუმჯობესება და განათლება.
+
+Step 146/284
+>> Georgian - Hebrew
+	קפה ישן למחרת בבוקר. שיפור הסביבה והחינוך.
+
+Step 147/284
+>> Hebrew - Albanian
+	Kafe e vjetër mëngjesin tjetër. Përmirësimi i mjedisit dhe arsimit.
+
+Step 148/284
+>> Albanian - Czech
+	Stará káva druhý den ráno. Zlepšování životního prostředí a vzdělávání.
+
+Step 149/284
+>> Czech - French
+	Vieux café le lendemain matin. Améliorer l'environnement et l'éducation.
+
+Step 150/284
+>> French - Chichewa
+	Khofi wakale m'mawa wotsatira. Sinthani zachilengedwe ndi maphunziro.
+
+Step 151/284
+>> Chichewa - Uzbek
+	Ertasi kuni ertalab eski qahva. Ekologiya va ta'limni o'zgartiring.
+
+Step 152/284
+>> Uzbek - Burmese
+	နောက်တစ်နေ့နံနက်အဟောင်းကော်ဖီ။ ဂေဟဗေဒနှင့်ပညာရေး။
+
+Step 153/284
+>> Burmese - Greek
+	Το επόμενο πρωί το παλιό καφέ. Οικολογία και την εκπαίδευση.
+
+Step 154/284
+>> Greek - Finnish
+	Seuraavana aamuna vanha kahvi. Ekologia ja koulutus.
+
+Step 155/284
+>> Finnish - Arabic
+	في صباح اليوم التالي ، القهوة القديمة. البيئة والتعليم.
+
+Step 156/284
+>> Arabic - Amharic
+	በማግስቱ ጠዋት ቡና ፡፡ አካባቢ እና ትምህርት ፡፡
+
+Step 157/284
+>> Amharic - Kazakh
+	Келесі күні таңертең кофе ішіңіз. Қоршаған орта және білім.
+
+Step 158/284
+>> Kazakh - German
+	Morgen früh kaffee trinken Umwelt und Bildung.
+
+Step 159/284
+>> German - Maori
+	Morenaa i te ata inu taiao me te matauranga.
+
+Step 160/284
+>> Maori - Estonian
+	Tähistage vaikset ja teadlikku hommikut.
+
+Step 161/284
+>> Estonian - Chinese (Simplified)
+	庆祝一个安静而有见识的早晨。
+
+Step 162/284
+>> Chinese (Simplified) - Persian
+	یک صبح آرام و بصیرت جشن بگیرید.
+
+Step 163/284
+>> Persian - Swedish
+	Fira en lugn och insiktsfull morgon.
+
+Step 164/284
+>> Swedish - Maltese
+	Iċċelebra filgħodu kwiet u insightful.
+
+Step 165/284
+>> Maltese - Thai
+	ฉลองช่วงเช้าที่เงียบสงบและลึกซึ้ง
+
+Step 166/284
+>> Thai - Luxembourgish
+	Feiert e rouegen an déiwe Moien.
+
+Step 167/284
+>> Luxembourgish - Romanian
+	Sarbatori o dimineata linistita si adanca.
+
+Step 168/284
+>> Romanian - Polish
+	Świętuj spokojny i głęboki poranek.
+
+Step 169/284
+>> Polish - Bosnian
+	Proslavite mirno i duboko jutro.
+
+Step 170/284
+>> Bosnian - Serbian
+	Прославите мирно и дубоко јутро.
+
+Step 171/284
+>> Serbian - Portuguese
+	Celebre uma manhã calma e profunda.
+
+Step 172/284
+>> Portuguese - Chinese (Traditional)
+	慶祝一個平靜而深沉的早晨。
+
+Step 173/284
+>> Chinese (Traditional) - Dutch
+	Vier een rustige en diepe ochtend.
+
+Step 174/284
+>> Dutch - Norwegian
+	Feir en rolig og dyp morgen.
+
+Step 175/284
+>> Norwegian - Shona
+	Pemberera mangwanani uye wakadzika.
+
+Step 176/284
+>> Shona - Vietnamese
+	Kỷ niệm sớm và sâu sắc.
+
+Step 177/284
+>> Vietnamese - Indonesian
+	Kenangan awal dan mendalam.
+
+Step 178/284
+>> Indonesian - Macedonian
+	Рани и длабоки спомени.
+
+Step 179/284
+>> Macedonian - Lao
+	ບາດແຜແລະຄວາມຊົງ ຈຳ ທີ່ເລິກເຊິ່ງ.
+
+Step 180/284
+>> Lao - Hausa
+	Raunin rauni da zurfin tunani.
+
+Step 181/284
+>> Hausa - Korean
+	부상과 정신 지체.
+
+Step 182/284
+>> Korean - Latvian
+	Traumas un garīgā atpalicība.
+
+Step 183/284
+>> Latvian - Irish
+	Gortú agus moilliú meabhrach.
+
+Step 184/284
+>> Irish - Italian
+	Lesioni e ritardo mentale.
+
+Step 185/284
+>> Italian - Bengali
+	আঘাত এবং মানসিক প্রতিবন্ধকতা
+
+Step 186/284
+>> Bengali - Hungarian
+	Sérülés és mentális retardáció
+
+Step 187/284
+>> Hungarian - Zulu
+	Ukulimala nokubuyiselwa kwengqondo
+
+Step 188/284
+>> Zulu - Urdu
+	چوٹ اور دماغی بحالی۔
+
+Step 189/284
+>> Urdu - Mongolian
+	Осол гэмтэл, сэтгэцийн нөхөн сэргээлт.
+
+Step 190/284
+>> Mongolian - Spanish
+	Lesiones y rehabilitación mental.
+
+Step 191/284
+>> Spanish - Malay
+	Kecederaan dan pemulihan mental.
+
+Step 192/284
+>> Malay - Malagasy
+	Ratra ara-tsaina sy fanarenana.
+
+Step 193/284
+>> Malagasy - Nepali
+	मानसिक चोट र रिकभरी
+
+Step 194/284
+>> Nepali - Croatian
+	Mentalna ozljeda i oporavak
+
+Step 195/284
+>> Croatian - Russian
+	Психическое повреждение и восстановление
+
+Step 196/284
+>> Russian - Ukrainian
+	Психічне пошкодження і відновлення
+
+Step 197/284
+>> Ukrainian - Haitian Creole
+	Blesi mantal ak rekiperasyon
+
+Step 198/284
+>> Haitian Creole - Slovenian
+	Duševne poškodbe in okrevanje
+
+Step 199/284
+>> Slovenian - Kurdish
+	Birînên derûnî û başbûn
+
+Step 200/284
+>> Kurdish - Bulgarian
+	Психични наранявания и възстановяване
+
+Step 201/284
+>> Bulgarian - Filipino
+	Mga Pinsala sa Kaisipan at Paggaling
+
+Step 202/284
+>> Filipino - Catalan
+	Lesions mentals i físiques
+
+Step 203/284
+>> Catalan - Japanese
+	精神的および身体的損傷
+
+Step 204/284
+>> Japanese - Samoan
+	Manua o le mafaufau ma le manuʻa
+
+Step 205/284
+>> Samoan - Icelandic
+	Geðsjúkdómar og meiðsli
+
+Step 206/284
+>> Icelandic - Lithuanian
+	Psichinės ligos ir sužalojimai
+
+Step 207/284
+>> Lithuanian - Danish
+	Psykiske sygdomme og kvæstelser
+
+Step 208/284
+>> Danish - Swahili
+	Magonjwa ya akili na majeraha
+
+Step 209/284
+>> Swahili - Sinhala
+	මානසික රෝග සහ කම්පනය
+
+Step 210/284
+>> Sinhala - Pashto
+	رواني ناروغي او صدمه
+
+Step 211/284
+>> Pashto - Hindi
+	मानसिक बीमारी और आघात
+
+Step 212/284
+>> Hindi - Slovak
+	Duševné ochorenie a trauma
+
+Step 213/284
+>> Slovak - Icelandic
+	Geðveiki og áföll
+
+Step 214/284
+>> Icelandic - Albanian
+	Sëmundja mendore dhe tronditjet
+
+Step 215/284
+>> Albanian - Slovak
+	Duševné choroby a otrasy
+
+Step 216/284
+>> Slovak - Chinese (Simplified)
+	精神疾病和休克
+
+Step 217/284
+>> Chinese (Simplified) - Thai
+	ความเจ็บป่วยทางจิตและช็อก
+
+Step 218/284
+>> Thai - Burmese
+	စိတ်ရောဂါနဲ့ထိတ်လန့်
+
+Step 219/284
+>> Burmese - Uzbek
+	Psixiatriya va dahshat
+
+Step 220/284
+>> Uzbek - Chinese (Traditional)
+	精神病學和恐怖
+
+Step 221/284
+>> Chinese (Traditional) - Georgian
+	ფსიქიატრია და საშინელება
+
+Step 222/284
+>> Georgian - Turkish
+	Psikiyatri ve korku
+
+Step 223/284
+>> Turkish - Greek
+	Ψυχιατρική και φόβος
+
+Step 224/284
+>> Greek - Latvian
+	Psihiatrija un bailes
+
+Step 225/284
+>> Latvian - Bulgarian
+	Психиатрия и страх
+
+Step 226/284
+>> Bulgarian - Nepali
+	मनोचिकित्सा र डर
+
+Step 227/284
+>> Nepali - Dutch
+	Psychotherapie en angst
+
+Step 228/284
+>> Dutch - Chichewa
+	Psychotherapy komanso nkhawa
+
+Step 229/284
+>> Chichewa - Japanese
+	心理療法と不安
+
+Step 230/284
+>> Japanese - German
+	Psychotherapie und Angstzustände
+
+Step 231/284
+>> German - Bosnian
+	Psihoterapija i anksioznost
+
+Step 232/284
+>> Bosnian - Swedish
+	Psykoterapi och ångest
+
+Step 233/284
+>> Swedish - Urdu
+	نفسیاتی علاج اور اضطراب۔
+
+Step 234/284
+>> Urdu - Indonesian
+	Psikoterapi dan kecemasan.
+
+Step 235/284
+>> Indonesian - Polish
+	Psychoterapia i lęk.
+
+Step 236/284
+>> Polish - Russian
+	Психотерапия и тревожность.
+
+Step 237/284
+>> Russian - Hindi
+	मनोचिकित्सा और चिंता।
+
+Step 238/284
+>> Hindi - Pashto
+	رواني درملنه او اضطراب.
+
+Step 239/284
+>> Pashto - Malagasy
+	Psychotherapy sy tebiteby.
+
+Step 240/284
+>> Malagasy - Vietnamese
+	Tâm lý trị liệu và lo lắng.
+
+Step 241/284
+>> Vietnamese - Kazakh
+	Психотерапия және мазасыздық.
+
+Step 242/284
+>> Kazakh - Croatian
+	Psihoterapija i anksioznost.
+
+Step 243/284
+>> Croatian - Lao
+	ການ ບຳ ບັດທາງຈິດແລະຄວາມກັງວົນ.
+
+Step 244/284
+>> Lao - Serbian
+	Ментално здравље и лечење анксиозности.
+
+Step 245/284
+>> Serbian - Filipino
+	Paggamot sa kalusugan ng kalusugan at pagkabalisa.
+
+Step 246/284
+>> Filipino - Bengali
+	মানসিক স্বাস্থ্য চিকিত্সা এবং উদ্বেগ।
+
+Step 247/284
+>> Bengali - Romanian
+	Tratament de sănătate mintală și anxietate.
+
+Step 248/284
+>> Romanian - Finnish
+	Mielenterveyden ja ahdistuksen hoito.
+
+Step 249/284
+>> Finnish - Estonian
+	Vaimse tervise ja ärevuse ravi.
+
+Step 250/284
+>> Estonian - English
+	Treatment of mental health and anxiety.
+
+Step 251/284
+>> English - Portuguese
+	Tratamento de saúde mental e ansiedade.
+
+Step 252/284
+>> Portuguese - Hungarian
+	Mentális egészség és szorongás kezelése.
+
+Step 253/284
+>> Hungarian - Malay
+	Rawatan kesihatan mental dan kecemasan.
+
+Step 254/284
+>> Malay - Kurdish
+	Tenduristiya derûnî û dermankirina acîl.
+
+Step 255/284
+>> Kurdish - Italian
+	Salute mentale e cure di emergenza.
+
+Step 256/284
+>> Italian - Amharic
+	የአእምሮ ጤና እና የድንገተኛ ጊዜ እንክብካቤ።
+
+Step 257/284
+>> Amharic - Lithuanian
+	Psichikos sveikata ir skubioji pagalba.
+
+Step 258/284
+>> Lithuanian - Slovenian
+	Duševno zdravje in nujna oskrba.
+
+Step 259/284
+>> Slovenian - French
+	Santé mentale et soins d'urgence.
+
+Step 260/284
+>> French - Ukrainian
+	Психічне здоров'я та невідкладна допомога.
+
+Step 261/284
+>> Ukrainian - Czech
+	Duševní zdraví a první pomoc.
+
+Step 262/284
+>> Czech - Persian
+	بهداشت روانی و کمکهای اولیه.
+
+Step 263/284
+>> Persian - Armenian
+	Հոգեկան առողջություն և առաջին օգնություն:
+
+Step 264/284
+>> Armenian - Samoan
+	Soifua maloloina o mafaufau ma le fesoasoani muamua.
+
+Step 265/284
+>> Samoan - Maori
+	Te hauora hinengaro me te awhina tuatahi.
+
+Step 266/284
+>> Maori - Swahili
+	Afya ya akili na msaada wa kwanza.
+
+Step 267/284
+>> Swahili - Mongolian
+	Сэтгэцийн эрүүл мэнд, анхны тусламж.
+
+Step 268/284
+>> Mongolian - Norwegian
+	Psykisk helse og førstehjelp.
+
+Step 269/284
+>> Norwegian - Hausa
+	Lafiya tunanin mutum da kuma na farko taimako.
+
+Step 270/284
+>> Hausa - Macedonian
+	Ментално здравје и прва помош.
+
+Step 271/284
+>> Macedonian - Maltese
+	Saħħa mentali u l-ewwel għajnuna.
+
+Step 272/284
+>> Maltese - Danish
+	mental sundhed og førstehjælp.
+
+Step 273/284
+>> Danish - Catalan
+	salut mental i primers auxilis.
+
+Step 274/284
+>> Catalan - Haitian Creole
+	sante mantal ak premye swen.
+
+Step 275/284
+>> Haitian Creole - Shona
+	hutano hwepfungwa uye hwekutanga kutarisira.
+
+Step 276/284
+>> Shona - Korean
+	정신 건강 및 일차 진료.
+
+Step 277/284
+>> Korean - Luxembourgish
+	Geeschteg Gesondheet a Primärschoul.
+
+Step 278/284
+>> Luxembourgish - Sinhala
+	මානසික සෞඛ්‍ය හා ප්‍රාථමික පාසල.
+
+Step 279/284
+>> Sinhala - Hebrew
+	בריאות הנפש ובית הספר היסודי.
+
+Step 280/284
+>> Hebrew - Spanish
+	Salud mental y escuela primaria.
+
+Step 281/284
+>> Spanish - Arabic
+	الصحة العقلية والمدارس الابتدائية.
+
+Step 282/284
+>> Arabic - Zulu
+	Impilo yezengqondo nezikole zamabanga aphansi.
+
+Step 283/284
+>> Zulu - Irish
+	Sláinte mheabhrach agus bunscoileanna.
+
+Step 284/284
+>> Irish - Portuguese
+	Saúde mental e escolas primárias.
+
+
+##### RESULTS ######
+
+Fora, portanto, Djafar, o grão-vizir, quem havia batido à porta das damas por ordem do califa, que não desejava ser reconhecido. Safia abriu; e o vizir, notando, à luz de uma vela que ela trazia, que se tratava de dama de grande beleza, representou perfeitamente bem o seu papel. Fazendo profunda reverência, disse-lhe respeitosamente: “Senhora, somos três mercadores de Mussul, chegados há dez dias, com ricas mercadorias que depositamos num Khan (10), onde nos hospedamos. Estivemos hoje na casa de um mercador desta cidade que nos convidou a visitá-lo. Ofereceu-nos ele excelente refeição; e, como o vinho nos houvesse posto de bom humor, mandou chamar um bando de dançarinas. Já era noite, os músicos tocavam, as bailarinas dançavam e o grupo fazia enorme bulha, quanto a ronda, passando por lá, ordenou que abrissem. Alguns foram detidos. Quanto a nós, fomos bastante felizes e salvamo-nos saltando por sobre um muro; mas, acrescentou o vizir, como somos estrangeiros, e além disso um pouco dominados pelo vinho, tememos encontrar outra patrulha, ou a mesma, antes de chegarmos ao nosso Khan, bem longe daqui. E a ele chegaríamos até inutilmente, pois a porta está fechada, e só será aberta amanhã cedo, apesar de tudo quanto possa suceder. E por isso, senhora, que, tendo ouvido instrumentos e vozes, julgamos que nos seria permitido bater, para vos suplicar abrigo até o romper do dia. Se vos parecermos dignos de participar do vosso divertimento, esforçar-nos-emos por contribuir como pudermos, a fim de recompensarmos a interrupção por nós causada; se não, concedei-nos pelo menos a graça de nos permitir passar a noite no vosso vestíbulo.
+
+Saúde mental e escolas primárias.

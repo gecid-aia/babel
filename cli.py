@@ -15,9 +15,9 @@ Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensi
 def from_idh_csv(filename):
     entries = rows.import_from_csv(filename)
     # lista de codes
-    codes = [e.code.strip() for e in sorted(entries, key=lambda x: x.idh, reverse=True)]
+    codes = [e.code.strip() for e in entries]
     #lista de language
-    languages = [e.language.strip() for e in sorted(entries, key=lambda x: x.idh, reverse=True)]
+    languages = [e.language.strip() for e in entries]
 
     codelang = remove_consecutives({'codes': codes, 'languages': languages})
 
@@ -26,7 +26,7 @@ def from_idh_csv(filename):
     cprint.ok(f"Input text: {TEXT}\n")
 
     start_codelang = {'codes': 'pt', 'languages': 'Portuguese'}
-    text, result = chain_translate_text(TEXT, start_codelang, codelang, monitoring = False)
+    text, result = chain_translate_text(TEXT, start_codelang, codelang, monitoring = True)
 
     cprint.ok("\n##### RESULTS ######\n")
     cprint.ok(text)
