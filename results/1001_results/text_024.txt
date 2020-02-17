@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Estávamos no golfo pérsico e aproximávamo-nos de Bassorá, aonde, com o bom vento que soprava, chegaríamos no dia seguinte. Mas durante a noite, enquanto eu dormia, minhas irmãs me lançaram ao mar, fazendo o mesmo com o príncipe que morreu afogado. Por algum tempo, mantive-me à tona, e por sorte, ou melhor, por milagre, encontrando pé, avancei para uma negridão que me pareceu terra. Efetivamente, alcancei uma praia; e o dia me revelou que estava numa ilhota deserta, situada a cerca de vinte milhas de Bassorá. Pus a secar ao sol as minhas vestes; e, caminhando, notei várias espécies de frutos e água doce, o que meu deu alguma esperança de conservar a vida.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Vi var i den persiske golfen og nærmet oss Basrah, hvor vi, med den gode vinden som blåste, skulle ankomme dagen etter. Men om natten, mens jeg sov, kastet søstrene mine meg over bord, og gjorde det samme mot prinsen som druknet. En stund ble jeg flytende, og heldigvis, eller snarere mirakuløst, og fant føttene mine, avanserte jeg til en svarthet som virket jordnær. Faktisk nådde jeg en strand; og dagen avslørte for meg at jeg befant meg på en øde holme omtrent tjue mil fra Basrah. Jeg har tørket klærne mine i solen; og når jeg gikk merke jeg til forskjellige typer frukt og ferskt vann, som ga meg litt håp om å bevare livet.
+
+Step 2/330
+>> Norwegian - German
+	Wir waren im Persischen Golf und näherten uns Basrah, wo wir mit dem guten Wind am nächsten Tag ankommen würden. Aber nachts, während ich schlief, warfen mich meine Schwestern über Bord und taten dasselbe mit dem ertrinkenden Prinzen. Für eine Weile wurde ich flüssig, und glücklicherweise oder auf wundersame Weise, als ich meine Füße fand, rückte ich zu einer Schwärze vor, die bodenständig zu sein schien. Tatsächlich erreichte ich einen Strand; und der Tag offenbarte mir, dass ich auf einer einsamen Insel etwa zwanzig Meilen von Basrah entfernt war. Ich habe meine Kleider in der Sonne getrocknet; und als ich ging, bemerkte ich verschiedene Arten von Früchten und frischem Wasser, was mir Hoffnung gab, das Leben zu erhalten.
+
+Step 3/330
+>> German - English
+	We were in the Persian Gulf and approached Basrah, where we would arrive with the good wind the next day. But at night, while I slept, my sisters threw me overboard and did the same with the drowning prince. For a while I became fluid, and fortunately or miraculously, when I found my feet, I advanced to a blackness that seemed down to earth. In fact, I reached a beach; and the day revealed to me that I was on a deserted island about twenty miles from Basrah. I dried my clothes in the sun; and as I went, I noticed various kinds of fruit and fresh water, which gave me hope to receive life.
+
+Step 4/330
+>> English - Irish
+	Bhíomar i Murascaill na Peirse agus chuaigh muid chuig Basrah, áit a dtabharfaimis an ghaoth mhaith an lá dár gcionn. Ach san oíche, agus mé ag codladh, chaith mo dheirfiúracha mé thar bord agus rinne mé an rud céanna leis an bprionsa bá. Ar feadh tamaill, bhí mé sreabhach, agus ar an drochuair nó go míorúilteach, nuair a fuair mé mo chosa, chuaigh mé chun cinn go duile a raibh cuma an domhain air. Go deimhin, shroich mé trá; agus nocht an lá dom go raibh mé ar oileán tréigthe thart ar fiche míle ó Basrah. Triomaigh mé mo chuid éadaí sa ghrian; agus de réir mar a chuaigh mé, thug mé faoi deara cineálacha éagsúla torthaí agus uisce úr, rud a thug deis dom saol a fháil.
+
+Step 5/330
+>> Irish - German
+	Wir waren im Golf von Persien und fuhren nach Basrah, wo wir am nächsten Tag den guten Wind bringen würden. Aber nachts, als ich schlief, trugen mich meine Schwestern über Bord und ich tat dasselbe mit dem ertrinkenden Prinzen. Für eine Weile war ich flüssig und leider oder auf wundersame Weise, als ich auf die Beine kam, ging ich in eine Welt, die so aussah. Tatsächlich erreichte ich einen Strand; und der Tag offenbarte mir, dass ich auf einer verlassenen Insel ungefähr zwanzig Meilen von Basrah war. Ich trocknete meine Kleider in der Sonne. und als ich ging, bemerkte ich verschiedene Arten von frischem Obst und Wasser, so dass ich ein Leben finden konnte.
+
+Step 6/330
+>> German - Icelandic
+	Við vorum í Persaflóa og keyrðum til Basrah, þar sem við myndum koma með góða vindinn daginn eftir. En á nóttunni, þegar ég svaf, báru systur mínar mig fyrir borð og ég gerði það sama með drukknandi prinsinum. Um tíma var ég vökvi og því miður eða kraftaverk, þegar ég kom mér á fætur, fór ég í heim sem leit svona út. Reyndar náði ég ströndinni; og dagurinn opinberaði mér að ég var á eyðieyju um tuttugu mílur frá Basrah. Ég þurrkaði fötin mín í sólinni. og þegar ég fór tók ég eftir mismunandi tegundum af ferskum ávöxtum og vatni, svo að ég gæti fundið líf.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	我們在海灣，開車到巴士拉，第二天我們將帶來好風。但是到了晚上，當我睡覺的時候，我姐姐把我帶到了船上，我對溺水的王子做了同樣的事。有一段時間我流動，悲傷或奇蹟般地，當我起床時，我進入了一個看起來像這樣的世界。實際上，我去了海灘;那一天向我透露，我在離巴士拉約二十英里的荒島上。我在陽光下擦了擦衣服。當我離開時，我注意到不同種類的新鮮水果和水，所以我可以找到生命。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Vi är i viken, kör till Basra, och vi kommer att få god vind nästa dag. Men på natten, när jag sov, tog min syster mig till båten, och jag gjorde samma sak för prinsen i Surabaya. En gång var jag flödande, ledsen eller mirakulös, när jag stod upp gick jag in i en värld som såg ut så här. Jag gick faktiskt till stranden; den dagen avslöjade jag för mig att jag befann mig på en öde ungefär tjugo mil från Basra. Jag torkade mina kläder i solen. När jag gick märkte jag olika typer av färsk frukt och vatten, så jag kunde hitta livet.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	我們在海灣，開往巴士拉，第二天我們將迎來風。但到了晚上，當我睡覺的時候，我姐姐把我帶到了船上，我也為泗水王子做了同樣的事。一旦我流淌，悲傷或奇蹟，當我起床時，我進入了一個看起來像這樣的世界。我實際上去了海灘;那天我向自己透露，我正在離巴士拉約二十英里的命運。我把衣服曬乾了。當我走路時，我注意到不同類型的新鮮水果和水，所以我可以找到生命。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	We zijn in de baai, op weg naar Basra, en we zullen de wind de volgende dag verwelkomen. Maar 's nachts, toen ik sliep, nam mijn zus me mee naar de boot en ik deed hetzelfde voor de Prins van Surabaya. Ooit was ik kwijlend, verdrietig of wonderbaarlijk, toen ik opstond, betrad ik een wereld die er zo uitzag. Ik ging eigenlijk naar het strand, ik onthulde mezelf die dag dat ik ongeveer twintig mijl van Basra was. Ik droogde mijn kleren. Toen ik liep, zag ik verschillende soorten vers fruit en water, zodat ik het leven kon vinden.
+
+Step 11/330
+>> Dutch - Danish
+	Vi er i bugten, på vej til Basra, og vi vil byde vinden velkommen næste dag. Men om natten, da jeg sov, tog min søster mig med til båden, og jeg gjorde det samme for prinsen af Surabaya. Når jeg droklede, trist eller vidunderlig, da jeg stod op, gik jeg ind i en verden, der så sådan ud. Jeg gik faktisk til stranden, jeg afslørede mig den dag, at jeg var omkring tyve miles fra Basra. Jeg tørrede mit tøj. Da jeg gik, så jeg forskellige slags frisk frugt og vand, så jeg kunne finde liv.
+
+Step 12/330
+>> Danish - English
+	We are in the bay, on our way to Basra, and we will welcome the wind the next day. But at night, as I slept, my sister took me to the boat and I did the same for the Prince of Surabaya. When I was drowsy, sad, or wonderful when I got up, I went into a world that looked like this. I actually went to the beach, I revealed myself that day that I was about twenty miles from Basra. I dried my clothes. As I walked, I saw different kinds of fresh fruit and water so I could find life.
+
+Step 13/330
+>> English - Finnish
+	Olemme lahdella, matkalla Basraan, ja toivotamme tuulen tervetulleeksi seuraavana päivänä. Mutta yöllä, kun nukkui, siskoni vei minut veneelle ja tein saman Surabayan prinssille. Kun olin uninen, surullinen tai upea noustessani, menin maailmaan, joka näytti tältä. Menin itse rannalle, paljasin itselleni sinä päivänä, että olin noin kaksikymmentä mailia Basrasta. Kuivatin vaatteeni. Kävellessään näin erilaisia tuoreita hedelmiä ja vettä, jotta löysin elämän.
+
+Step 14/330
+>> Finnish - Maori
+	Ko matou kei te kokoru, i te huarahi ki Basra, me te manaaki i te hau i te ra e whai ake nei. Engari i te po, i te mea e moe ana, ka haria ahau e toku tuahine ki te poti ka pera ano nga mea ki te Rangatira o Surabaya. I te po e moe ana ahau, ka pouri, ka tino ataahua ranei ka ara ake ahau, ka haere ahau ki te ao e penei ana te ahua. Haere ahau ki te taha moana, i whakakite mai ki ahau ano i taua ra e rua tekau maero te tawhiti o Basra. I horoi i oku kakahu. I ahau e haere ana, ka kite ahau i nga momo momo hua hou me te wai kia kitea ai te ora.
+
+Step 15/330
+>> Maori - Dutch
+	We waren in de baai, op weg naar Basra, en verwelkomden de wind de volgende dag. Maar 's nachts, terwijl ik sliep, nam mijn zus me mee naar de boot en deed hetzelfde met de chef van Surabaya. De nacht dat ik in slaap val, verdrietig of mooi als ik wakker word, ga ik een wereld in die er zo uitziet. Ik ging naar de kust en liet me die dag twintig mijl van Basra zien. Ik waste mijn kleren. Terwijl ik reis, ontdek ik nieuwe soorten fruit en water om het leven te vinden.
+
+Step 16/330
+>> Dutch - German
+	Wir waren in der Bucht auf dem Weg nach Basra und haben den Wind am nächsten Tag begrüßt. Aber nachts, während ich schlief, brachte mich meine Schwester zum Boot und tat dasselbe mit dem Surabaya-Häuptling. In der Nacht, in der ich einschlafe, traurig oder wunderschön, wenn ich aufwache, betrete ich eine Welt, die so aussieht. Ich ging an die Küste und zeigte mich an diesem Tag zwanzig Meilen von Basra entfernt. Ich habe meine Kleider gewaschen. Auf meinen Reisen entdecke ich neue Arten von Obst und Wasser, um Leben zu finden.
+
+Step 17/330
+>> German - Japanese
+	バスラへ向かう途中の湾にいて、翌日は風を迎えました。しかし、夜、寝ている間に姉が私をボートに連れて行き、スラバヤ族長と同じことをしました。眠りに落ちる夜、目を覚ますと悲しくも美しいも、そのような世界に入ります。私は海岸に行って、その日バスラから20マイル離れたところに姿を見せました。私は服を洗った。旅行中、私は新しい種類の果物と水を発見し、人生を見つけました。
+
+Step 18/330
+>> Japanese - German
+	Wir waren in der Bucht auf dem Weg nach Basra und am nächsten Tag hatten wir eine Brise. Aber nachts, während ich schlief, brachte mich meine Schwester zum Boot und tat dasselbe wie der Surabaya-Häuptling. In der Nacht des Einschlafens betritt das Aufwachen eine Welt, die traurig und schön ist. Ich ging zum Strand und tauchte an diesem Tag 20 Meilen von Basra entfernt auf. Ich habe meine Kleider gewaschen. Auf Reisen entdeckte ich eine neue Art von Obst und Wasser und fand Leben.
+
+Step 19/330
+>> German - Luxembourgish
+	Mir waren an der Bucht op de Wee op Basra an den nächsten Dag hu mir e Wand. Awer nuets, wärend ech geschlof hunn, huet meng Schwëster mech an d'Boot bruecht an dat selwecht wéi de Surabaya Chef. An der Nuecht vum Schlofegoen, erwächt eng Welt an déi traureg a schéin. Ech sinn op d'Plage gaangen an hunn deen Dag 20 Meilen vu Basra opgedaucht. Ech hunn meng Kleeder gewascht. Wärend der Rees hunn ech eng nei Zort Uebst a Waasser entdecken an d'Liewe fonnt.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	היינו במפרץ בדרך לבצרה ולמחרת הייתה לנו רוח. אבל בלילה, בזמן שישנתי, אחותי הכניסה אותי לסירה וכך גם ראש סורבאיה. בלילה של שינה עולם מתעורר לעצב ויפה. הלכתי לחוף הים והליכתי 20 מייל מבצרה באותו היום. שטפתי את בגדיי. במהלך הטיול גיליתי סוג חדש של פירות ומים ומצאתי חיים.
+
+Step 21/330
+>> Hebrew - Korean
+	우리는 바스라에가는 도중에 만에 있었다. 그리고 그 다음날 우리는 바람을 가지고 있었다. 그러나 밤에, 잠자는 동안 내 동생이 나를 배에 데려왔고 수 라바 야의 머리도 마찬가지였습니다. 잠자는 밤에 세상은 슬픔과 아름답게 깨어납니다. 나는 그날 해변에 가서 바스라에서 20 마일을 걸었다. 나는 옷을 씻었다. 여행하는 동안 나는 새로운 종류의 과일과 물을 발견하고 삶을 발견했습니다.
+
+Step 22/330
+>> Korean - French
+	Nous étions dans la baie en direction de Bassorah. Et le lendemain nous avons eu un vent. Mais la nuit, en dormant, mon frère m'a amené à bord du navire, de même que la tête de Surabaya. Dans la nuit de sommeil, le monde se réveille tristement et magnifiquement. Je suis allé à la plage ce jour-là et j'ai marché à une vingtaine de kilomètres de Bassorah. J'ai lavé mes vêtements. Pendant le voyage, j'ai trouvé un nouveau type de fruit et d'eau et j'ai retrouvé la vie.
+
+Step 23/330
+>> French - Slovenian
+	Bili smo v zalivu proti Basri. In naslednji dan smo imeli veter. Toda ponoči me je brat pripeljal na ladjo, kot tudi glava Surabaje. V noči spanja se svet prebudi žalostno in lepo. Tisti dan sem šel na plažo in prehodil približno dvajset kilometrov od Basre. Pral sem si obleko. Med potjo sem našel novo vrsto sadja in vode in spet sem našel življenje.
+
+Step 24/330
+>> Slovenian - Spanish
+	Estábamos en la bahía hacia Basora. Y al día siguiente tuvimos viento. Pero por la noche, mi hermano me llevó a bordo, al igual que la cabeza de Surabaya. En una noche de sueño, el mundo se despierta triste y hermoso. Ese día fui a la playa y caminé a unos treinta kilómetros de Basora. Me lavé la ropa. En el camino, encontré un nuevo tipo de fruta y agua y volví a encontrar la vida.
+
+Step 25/330
+>> Spanish - Czech
+	Byli jsme v zátoce směrem k Basře. A druhý den jsme měli vítr. Ale v noci mě můj bratr vzal na palubu, stejně jako Surabaya hlava. V noci spánku se svět probudí smutný a krásný. Ten den jsem šel na pláž a šel asi třicet kilometrů od Basry. Umyl jsem si šaty. Cestou jsem našel nový druh ovoce a vody a znovu našel život.
+
+Step 26/330
+>> Czech - Italian
+	Eravamo nella baia verso Bassora. E il giorno dopo abbiamo avuto il vento. Ma ieri sera mio fratello mi ha portato a bordo, proprio come la testa di Surabaya. Nella notte del sonno, il mondo si sveglia triste e bello. Quel giorno andai in spiaggia e camminai per una trentina di chilometri da Bassora. Mi sono lavato i vestiti. Lungo la strada ho trovato un nuovo tipo di frutta e acqua e ho ritrovato la vita.
+
+Step 27/330
+>> Italian - Maltese
+	Konna fil-bajja lejn Basra. U l-għada kellna r-riħ. Imma l-lejl li għadda ħija ħadni abbord, l-istess bħall-kap ta 'Surabaya. Fil-lejl ta 'l-irqad, id-dinja tqum imdejjaq u sabiħa. Dakinhar mort il-bajja u tlaqt madwar tletin kilometru minn Basra. I maħsul ħwejjeg Matul it-triq sibt tip ġdid ta 'frott u ilma u sibt ħajti.
+
+Step 28/330
+>> Maltese - Estonian
+	Olime rannas Basra. Ja järgmisel päeval oli meil tuul. Aga eile õhtul mu vend ei oleks pardal, sama juht Surabaya. Ühes und, ärkama kurb ja ilus maailm. Siis läks randa ja kõndis umbes kolmkümmend kilomeetri kaugusel Basra. Ma pesin rõivad teekatses leitud uut tüüpi puu- ja vee ja sai mu elu.
+
+Step 29/330
+>> Estonian - Greek
+	Ήμασταν στην παραλία στη Βασόρα. Και την επόμενη μέρα είχαμε τον άνεμο. Αλλά χθες το βράδυ ο αδερφός μου δεν θα ήταν στο πλοίο, ο ίδιος ηγέτης στο Surabaya. Σε ένα όνειρο, ξυπνήστε σε έναν θλιβερό και όμορφο κόσμο. Στη συνέχεια πήγε στην παραλία και περπάτησε περίπου τριάντα χιλιόμετρα στη Βασόρα. Πλένοντας τα ρούχα του νέου τύπου δέντρου και του νερού που βρέθηκαν κατά τη δοκιμή δρόμου και πήρα τη ζωή μου.
+
+Step 30/330
+>> Greek - Turkish
+	Vasora'da sahildeydik. Ve ertesi gün rüzgarı gördük. Ama dün gece kardeşim Surabaya’da aynı lider olacaktı. Bir rüyada, üzgün ve güzel bir dünyaya uyanmak. Daha sonra sahile gitti ve yaklaşık otuz kilometre Basra'ya yürüdü. Yol testinde bulunan yeni tip ağaç ve su kıyafetlerini yıkamak ve hayatımı aldı.
+
+Step 31/330
+>> Turkish - Polish
+	Byliśmy na plaży w Vasora. A następnego dnia zobaczyliśmy wiatr. Ale zeszłej nocy mój brat miał być tym samym przywódcą w Surabaya. We śnie, aby obudzić się w smutnym i pięknym świecie. Następnie poszedł na plażę i przeszedł około trzydzieści kilometrów do Basry. Moje życie zajęło pranie nowego rodzaju drzew i ubrań wodnych znalezionych w teście drogowym.
+
+Step 32/330
+>> Polish - Arabic
+	كنا على الشاطئ في فاسورا. وفي اليوم التالي رأينا الريح. لكن الليلة الماضية كان من المفترض أن يكون أخي هو القائد نفسه في سورابايا. في حلم أن يستيقظ في عالم حزين وجميل. ثم ذهب إلى الشاطئ وسار نحو ثلاثين كيلومتراً إلى البصرة. استغرق الأمر حياتي لغسل نوع جديد من الأشجار والملابس المائية وجدت في اختبار الطريق.
+
+Step 33/330
+>> Arabic - Catalan
+	Érem a la platja de Vasora. L’endemà vam veure el vent. Però ahir a la nit se suposava que el meu germà era el mateix comandant a Surabaya. En un somni de despertar-se en un món trist i bell. Després va anar a terra i va caminar uns trenta quilòmetres fins a Basora. Em va costar la vida per rentar el nou tipus d’arbres i roba d’aigua que es trobava a la prova de carretera.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Buvome Vasoros paplūdimyje. Kitą dieną pamatėme vėją. Tačiau vakar naktį buvo manoma, kad mano brolis yra tas pats vadas Surabajoje. Sapnuoti pabusti liūdname ir gražiame pasaulyje. Tada jis nuėjo ant žemės ir nuėjo apie trisdešimt kilometrų iki Basros. Man prireikė išsinuomoti naujo tipo medžius ir vandens drabužius, kurie buvo bandomi kelyje.
+
+Step 35/330
+>> Lithuanian - Arabic
+	كنا على شاطئ الصيف. في اليوم التالي رأينا الريح. لكن ليلة أمس كان يعتقد أن أخي هو نفس القائد في سورابايا. أن تحلم بالاستيقاظ في عالم حزين وجميل. ثم ذهب إلى الأرض وذهب نحو ثلاثين كيلومتراً إلى البصرة. اضطررت إلى استئجار نوع جديد من الأشجار والملابس المائية التي يجري اختبارها على الطريق.
+
+Step 36/330
+>> Arabic - Slovak
+	Boli sme na letnej pláži. Nasledujúci deň sme videli vietor. Ale včera v noci si myslel, že môj brat je ten istý veliteľ v Surabáji. Snívať o prebudení v smutnom a krásnom svete. Potom odišiel na zem a asi tridsať kilometrov odišiel do Basry. Musel som si prenajať nový druh stromov a vodných odevov testovaných na ceste.
+
+Step 37/330
+>> Slovak - Malay
+	Kami berada di pantai musim panas. Keesokan harinya kita melihat angin. Tapi malam tadi dia mengira abang saya adalah komandan yang sama di Surabaya. Mimpi bangun di dunia yang sedih dan cantik. Kemudian dia pergi ke tanah dan kira-kira tiga puluh kilometer pergi ke Basra. Saya terpaksa menyewa sejenis pokok dan pakaian air yang baru diuji di jalan raya.
+
+Step 38/330
+>> Malay - Arabic
+	نحن على الشاطئ هذا الصيف. في اليوم التالي نرى الريح. لكن الليلة الماضية اعتقد أن أخي هو نفس القائد في سورابايا. حلم في عالم حزين وجميل. ثم ذهب إلى الأرض وحوالي ثلاثين كيلومتراً إلى البصرة. اضطررت إلى استئجار نوع جديد من الأشجار والمياه التي تم اختبارها على الطريق.
+
+Step 39/330
+>> Arabic - Latvian
+	Mēs šovasar esam pludmalē. Nākamajā dienā mēs redzam vēju. Bet vakar vakarā es domāju, ka mans brālis ir tas pats vadītājs Surabajā. Sapnis skumjā un skaistā pasaulē. Pēc tam viņš devās uz zemi un apmēram trīsdesmit kilometrus līdz Basrai. Man nācās noīrēt jauna veida koku un ūdeni, kas tika pārbaudīts uz ceļa.
+
+Step 40/330
+>> Latvian - Portuguese
+	Estamos na praia neste verão. No dia seguinte, vemos o vento. Mas ontem à noite pensei que meu irmão era o mesmo líder em Surabaya. Um sonho em um mundo triste e bonito. Ele então foi para a terra e cerca de trinta quilômetros para Basra. Eu tive que alugar um novo tipo de árvore e água que foi testada na estrada.
+
+Step 41/330
+>> Portuguese - Arabic
+	نحن على الشاطئ هذا الصيف. في اليوم التالي نرى الريح. لكن الليلة الماضية ظننت أن أخي هو القائد نفسه في سورابايا. حلم في عالم حزين وجميل. ثم ذهب إلى الأرض وحوالي ثلاثين كيلومترا إلى البصرة. اضطررت إلى استئجار نوع جديد من الأشجار والماء تم اختباره على الطريق.
+
+Step 42/330
+>> Arabic - Spanish
+	Estamos en la playa este verano. Al día siguiente vemos el viento. Pero anoche pensé que mi hermano era el mismo comandante en Surabaya. Un sueño en un mundo triste y hermoso. Luego se fue a tierra y unos treinta kilómetros a Basora. Tuve que contratar un nuevo tipo de árbol y agua probada en la carretera.
+
+Step 43/330
+>> Spanish - Hungarian
+	Mi a tengerparton vagyunk ezen a nyáron. Másnap látjuk a szeleket. De tegnap este azt hittem, hogy a bátyám ugyanaz a parancsnok Surabayában. Egy álom egy szomorú és gyönyörű világban. Aztán partra ment, és körülbelül harminc kilométerre Basra felé. Új fafajtát és bizonyított vizet kellett bérelnem az úton.
+
+Step 44/330
+>> Hungarian - Croatian
+	Ovo smo ljeto na plaži. Sutradan vidimo vjetrove. Ali sinoć sam pomislio da je moj brat isti zapovjednik u Surabaji. San u tužnom i lijepom svijetu. Zatim je otišao na obalu i tridesetak kilometara prema Basri. Uz put sam morao unajmiti novo drvo i dokazanu vodu.
+
+Step 45/330
+>> Croatian - Spanish
+	Estamos en la playa este verano. Vemos vientos al día siguiente. Pero anoche pensé que mi hermano era el mismo comandante en Surabaya. Un sueño en un mundo triste y hermoso. Luego se fue a tierra y treinta millas a Basora. En el camino, tuve que alquilar madera nueva y agua probada.
+
+Step 46/330
+>> Spanish - Arabic
+	نحن على الشاطئ هذا الصيف. نرى الرياح في اليوم التالي. لكن الليلة الماضية اعتقدت أن أخي هو نفس القائد في سورابايا. حلم في عالم حزين وجميل. ثم ذهب إلى الشاطئ وثلاثين ميلاً إلى البصرة. على طول الطريق ، اضطررت إلى استئجار خشب جديد ومياه مجربة.
+
+Step 47/330
+>> Arabic - Russian
+	Мы на пляже этим летом. Увидеть ветер на следующий день. Но прошлой ночью я думал, что мой брат был тем же лидером в Сурабае. Мечта в грустном и прекрасном мире. Затем он сошел на берег и в тридцати милях от Басры. По пути мне пришлось нанимать новые дрова и пробовать воду.
+
+Step 48/330
+>> Russian - Albanian
+	Jemi në plazh këtë verë. Shihni erën ditën tjetër. Por mbrëmë, mendova se vëllai im ishte i njëjti drejtues në Surabaya. Një ëndërr në një botë të trishtuar dhe të bukur. Pastaj shkoi në breg të detit dhe tridhjetë milje nga Basra. Gjatë rrugës, më duhej të punësoja dru të ri zjarri dhe ujë kampion.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Това лято сме на плажа. Вижте вятъра на следващия ден. Но снощи мислех, че брат ми е същия мениджър в Сурабая. Сън в тъжен и красив свят. После излезе на брега и на тридесет мили от Басра. По пътя трябваше да наема нови дърва за огрев и проба вода.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Vara asta suntem pe plajă. Vezi vântul a doua zi. Dar aseară am crezut că fratele meu este același manager din Surabaya. Visează într-o lume tristă și frumoasă. Apoi a mers pe jos la 30 de mile de Basra. Pe parcurs, a trebuit să închirieze probe de lemn de foc și apă noi.
+
+Step 51/330
+>> Romanian - Russian
+	Этим летом мы на пляже. Увидеть ветер на следующий день. Но прошлой ночью я думал, что мой брат - тот же менеджер в Сурабае. Мечта в грустном и прекрасном мире. Затем он прошел 30 миль до Басры. В ходе курса ему пришлось арендовать новые дрова и образцы воды.
+
+Step 52/330
+>> Russian - English
+	This summer we are on the beach. See the wind the next day. But last night, I thought my brother was the same manager in Surabaya. A dream in a sad and beautiful world. He then walked 30 miles to Basra. During the course, he had to rent new firewood and water samples.
+
+Step 53/330
+>> English - Spanish
+	Este verano estamos en la playa. Ver el viento al día siguiente. Pero anoche, pensé que mi hermano era el mismo gerente en Surabaya. Un sueño en un mundo triste y hermoso. Luego caminó 30 millas a Basora. Durante el curso, tuvo que alquilar nuevas muestras de leña y agua.
+
+Step 54/330
+>> Spanish - Arabic
+	هذا الصيف نحن على الشاطئ. رؤية الريح في اليوم التالي. لكن في الليلة الماضية ، اعتقدت أن أخي هو المدير نفسه في سورابايا. حلم في عالم حزين وجميل. ثم مشى 30 ميلا إلى البصرة. خلال الدورة ، كان عليه أن يستأجر عينات جديدة من الحطب والماء.
+
+Step 55/330
+>> Arabic - Malay
+	Musim panas ini kami berada di pantai. Lihat angin keesokan harinya. Tetapi malam tadi, saya fikir abang saya adalah pengurus yang sama di Surabaya. Mimpi di dunia yang sedih dan cantik. Beliau kemudian berjalan sejauh 30 km ke Basra. Semasa kursus itu, beliau terpaksa mengambil sampel kayu api dan air baru.
+
+Step 56/330
+>> Malay - English
+	This summer we're at the beach. See the wind the next day. But last night, I thought my brother was the same manager in Surabaya. Dream in a sad and beautiful world. He then walked 30 km to Basra. During the course, he had to take samples of firewood and fresh water.
+
+Step 57/330
+>> English - Kazakh
+	Осы жазда біз жағажайдамыз. Келесі күні желді көріңіз. Кеше кешке мен ағам Сурабаяда сол менеджер деп ойладым. Қайғылы және әдемі әлемде армандаңыз. Содан кейін ол Басраға дейін 30 км жүрді. Курс кезінде ол отын мен тұщы судың сынамаларын алуға тура келді.
+
+Step 58/330
+>> Kazakh - Persian
+	این تابستان در ساحل هستیم. روز دیگر باد را امتحان کنید. عصر دیروز ، برادرم فکر کرد که من همان مدیر در سورابایا هستم. در دنیایی غم انگیز و زیبا رویاپردازی کنید. سپس 30 کیلومتر به بصره رفت. در طول دوره او مجبور به گرفتن نمونه سوخت و آب شیرین بود.
+
+Step 59/330
+>> Persian - English
+	We're on the beach this summer. Try the wind the next day. Yesterday evening, my brother thought I was the same manager at Surabaya. Dream of a sad and beautiful world. Then he went 30 kilometers to Basra. During his time he had to take samples of fuel and fresh water.
+
+Step 60/330
+>> English - French
+	Nous sommes sur la plage cet été. Essayez le vent le lendemain. Hier soir, mon frère pensait que j'étais le même responsable à Surabaya. Rêve d'un monde triste et beau. Ensuite, il s'est rendu à Bassorah pendant 30 kilomètres. Pendant son temps, il a dû prélever des échantillons de carburant et d'eau fraîche.
+
+Step 61/330
+>> French - Spanish
+	Estamos en la playa este verano. Prueba el viento al día siguiente. Anoche, mi hermano pensó que yo era el mismo gerente en Surabaya. Sueña con un mundo triste y hermoso. Luego fue a Basora por 30 kilómetros. Durante su tiempo, tuvo que tomar muestras de combustible y agua dulce.
+
+Step 62/330
+>> Spanish - Turkish
+	Bu yaz sahildeiz. Ertesi gün rüzgarı test edin. Dün gece kardeşim Surabaya'da aynı yönetici olduğumu düşünüyordu. Hüzünlü ve güzel bir dünyayı hayal ediyorum. Sonra 30 kilometre boyunca Basra'ya gitti. Onun zamanında, o yakıt ve tatlı su örnekleri almak zorunda kaldı.
+
+Step 63/330
+>> Turkish - English
+	We're on the beach this summer. Test the wind the next day. Last night my brother thought I was the same manager in Surabaya. I dream of a sad and beautiful world. Then he went to Basra for 30 kilometers. In his time, he had to take samples of fuel and fresh water.
+
+Step 64/330
+>> English - Spanish
+	Estamos en la playa este verano. Prueba el viento al día siguiente. Anoche mi hermano pensó que yo era el mismo gerente en Surabaya. Sueño con un mundo triste y hermoso. Luego fue a Basora por 30 kilómetros. En su tiempo, tuvo que tomar muestras de combustible y agua dulce.
+
+Step 65/330
+>> Spanish - Serbian
+	Овог лета смо на плажи. Следећи дан тестирајте ветар. Синоћ је мој брат мислио да сам исти менаџер у Сурабаји. Сањам о тужном и лепом свету. Затим је отишао до Басре на 30 километара. У његово време морао је да узме узорке горива и слатке воде.
+
+Step 66/330
+>> Serbian - Albanian
+	Jemi në plazh këtë verë. Provoni erën ditën tjetër. Mbrëmë, vëllai im mendoi se isha i njëjti menaxher në Surabaya. Unë ëndërroj një botë të trishtuar dhe të bukur. Ai më pas shkoi në Basra për 30 kilometra. Në kohën e tij, ai duhej të provonte karburantin dhe ujin e freskët.
+
+Step 67/330
+>> Albanian - English
+	We're on the beach this summer. Try the wind the next day. Last night, my brother thought I was the same manager in Surabaya. I dream of a sad and beautiful world. He then went to Basra for 30 kilometers. In his time, he had to try fuel and fresh water.
+
+Step 68/330
+>> English - Georgian
+	ამ ზაფხულს სანაპიროზე ვართ. სცადე ქარი მეორე დღეს. წუხელ ჩემი ძმა იფიქრა, რომ სურაბაიაში იგივე მენეჯერი ვარ. მე ვოცნებობ სამწუხარო და ლამაზ სამყაროზე. შემდეგ ბასრაზე გაემგზავრა 30 კილომეტრით. თავის დროზე, მას საწვავის და სუფთა წყლის მოსინჯვა მოუხდა.
+
+Step 69/330
+>> Georgian - English
+	We are on the beach this summer. Try the wind the next day. Last night my brother thought I was the same manager in Surabaya. I am thrilled about the sad and beautiful world. He then went to Basra for 30 kilometers. In his time, he needed fuel and clean water.
+
+Step 70/330
+>> English - Spanish
+	Estamos en la playa este verano. Prueba el viento al día siguiente. Anoche mi hermano pensó que yo era el mismo gerente en Surabaya. Estoy emocionado por el mundo triste y hermoso. Luego fue a Basora por 30 kilómetros. En su tiempo, necesitaba combustible y agua limpia.
+
+Step 71/330
+>> Spanish - English
+	We are on the beach this summer. Test the wind the next day. Last night my brother thought I was the same manager in Surabaya. I am excited for the sad and beautiful world. Then he went to Basra for 30 kilometers. In his time, he needed fuel and clean water.
+
+Step 72/330
+>> English - Sinhala
+	අපි මේ ගිම්හානයේදී මුහුදු වෙරළේ සිටිමු. ඊළඟ දවසේ සුළඟ පරීක්ෂා කරන්න. ඊයේ රෑ මගේ සහෝදරයා හිතුවේ මම සුරබයාහි එකම කළමනාකරු කියලා. දුක්බර හා සුන්දර ලෝකය ගැන මම සතුටු වෙමි. ඉන්පසු ඔහු කිලෝමීටර් 30 ක් බාස්රා වෙත ගියේය. ඔහුගේ කාලය තුළ ඔහුට ඉන්ධන සහ පිරිසිදු ජලය අවශ්‍ය විය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Bićemo na plaži ovog ljeta. Sljedeći dan provjeri vjetar. Sinoć je moj brat smatrao da sam jedini menadžer u Surabaji. Srećna sam zbog tužnog i lepog sveta. Potom je putovao 30 km do Basre. U njegovo vrijeme trebalo mu je gorivo i čista voda.
+
+Step 74/330
+>> Bosnian - Spanish
+	Estaremos en la playa este verano. Revisa el viento al día siguiente. Anoche, mi hermano me consideró el único gerente en Surabaya. Estoy feliz por el mundo triste y hermoso. Luego viajó 30 km a Basora. En su día, necesitaba combustible y agua limpia.
+
+Step 75/330
+>> Spanish - Portuguese
+	Estaremos na praia neste verão. Verifique o vento no dia seguinte. Ontem à noite, meu irmão me considerou o único gerente em Surabaya. Estou feliz pelo mundo triste e bonito. Então ele viajou 30 km para Basra. Em sua época, ele precisava de combustível e água limpa.
+
+Step 76/330
+>> Portuguese - Arabic
+	سنكون على الشاطئ هذا الصيف. تحقق الريح في اليوم التالي. الليلة الماضية ، اعتبرني أخي المدير الوحيد في سورابايا. أنا سعيد لعالم حزين وجميل. لذلك سافر 30 كيلومترا إلى البصرة. في يومه ، كان بحاجة إلى الوقود والمياه النظيفة.
+
+Step 77/330
+>> Arabic - Macedonian
+	Ова лето ќе бидеме на плажа. Проверете го ветрот следниот ден. Синоќа, мојот брат ме сметаше за единствен менаџер во Сурабаја. Среќна сум за тажен и убав свет. Така тој патувал 30 километри до Басра. Во текот на денот, му требаше гориво и чиста вода.
+
+Step 78/330
+>> Macedonian - Armenian
+	Այս ամառ լողափում ենք լինելու: Ստուգեք քամին հաջորդ օրը: Անցած գիշեր եղբայրս ինձ համարեց Սուրաբայայի միակ մենեջերը: Ես երջանիկ եմ տխուր և գեղեցիկ աշխարհի համար: Այսպիսով, նա ճանապարհորդեց Բասրա քաղաքից 30 կմ հեռավորության վրա: Օրվա ընթացքում նրան անհրաժեշտ էր վառելիք և մաքուր ջուր:
+
+Step 79/330
+>> Armenian - Thai
+	เราจะอยู่บนชายหาดช่วงฤดูร้อนนี้ ตรวจสอบลมในวันถัดไป เมื่อคืนพี่ชายของฉันถือว่าฉันเป็นผู้จัดการคนเดียวของสุราบายา ฉันมีความสุขกับโลกที่น่าเศร้าและสวยงาม ดังนั้นเขาจึงเดินทาง 30 กิโลเมตรจากเมืองบาสรา ในระหว่างวันเขาต้องการน้ำมันเชื้อเพลิงและน้ำสะอาด
+
+Step 80/330
+>> Thai - Arabic
+	سنكون على الشاطئ هذا الصيف. تحقق الريح في اليوم التالي. الليلة الماضية ، اعتبرني أخي المدير الوحيد لسورابايا. أنا أستمتع العالم حزين وجميل. لذلك سافر 30 كيلومترا من البصرة. خلال النهار يحتاج إلى الوقود والمياه النظيفة.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	今年夏天我们将在海滩上。第二天检查风。昨晚，我兄弟认为我是泗水唯一的经理。我喜欢这个悲伤而美丽的世界。所以他从巴士拉出发了30公里。白天需要燃料和清洁水。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Estaremos en la playa este verano. Revisa el viento al día siguiente. Anoche, mi hermano pensó que yo era el único gerente en Surabaya. Me gusta este mundo triste y hermoso. Entonces partió de Basora por 30 kilómetros. Se necesita combustible y agua limpia durante el día.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Ми будемо на пляжі цього літа. Перевірте вітер наступного дня. Минулої ночі мій брат подумав, що я єдиний менеджер в Сурабаї. Мені подобається цей сумний і прекрасний світ. Потім він залишив Басру на 30 кілометрів. Паливо та чиста вода потрібні протягом дня.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Estaremos en la playa este verano. Revisa el viento al día siguiente. Anoche, mi hermano pensó que yo era el único gerente en Surabaya. Me gusta este mundo triste y hermoso. Luego dejó Basora por 30 kilómetros. Se requiere combustible y agua limpia durante todo el día.
+
+Step 85/330
+>> Spanish - English
+	We will be on the beach this summer. Check the wind the next day. Last night, my brother thought I was the only manager in Surabaya. I like this sad and beautiful world. Then he left Basra for 30 kilometers. Fuel and clean water are required throughout the day.
+
+Step 86/330
+>> English - Mongolian
+	Бид энэ зун далайн эрэг дээр байх болно. Маргааш салхи шалгана уу. Өчигдөр ах маань намайг Сурабая дахь цорын ганц менежер гэж бодож байсан. Би энэ гунигтай, үзэсгэлэнтэй ертөнцөд дуртай. Дараа нь тэр Басрагаас 30 км явлаа. Түлш, цэвэр усыг өдрийн турш шаарддаг.
+
+Step 87/330
+>> Mongolian - Spanish
+	Estaremos en esta playa este verano. Revisa el viento mañana. Ayer mi hermano pensó que yo era el único gerente en Surabaya. Amo este mundo triste y hermoso. Luego se fue a 30 km de Basora. Se requiere combustible y agua limpia durante todo el día.
+
+Step 88/330
+>> Spanish - Arabic
+	سنكون على هذا الشاطئ هذا الصيف. تحقق الريح غدا. بالأمس ظن أخي أنني المدير الوحيد في سورابايا. أنا أحب هذا العالم الحزين والجميل. ثم ذهب 30 كم من البصرة. الوقود والمياه النظيفة مطلوبة طوال اليوم.
+
+Step 89/330
+>> Arabic - Kurdish
+	Em ê vê havînê li ser vê havînê bin. Bayê sibê kontrol bikin. Yesterdayro birayê min difikirîm ku ez li Surabaya rêvebirê tenê mam. Ez ji vê cîhana xemgîn û bedew hez dikim. Dûv re wî 30 km dûrî Basrayê. Av û şewitandina av li seranserê rojê hewce ye.
+
+Step 90/330
+>> Kurdish - English
+	We will be on the lookout this summer. Check the morning wind. Yesterday my brother thought I was the only manager in Surabaya. I love this sad and beautiful world. Then he was 30 km from Basra. Water and cooling water are needed throughout the day.
+
+Step 91/330
+>> English - Dutch
+	We zullen deze zomer uitkijken. Controleer de ochtendwind. Gisteren dacht mijn broer dat ik de enige manager in Surabaya was. Ik hou van deze trieste en mooie wereld. Toen was hij 30 km van Basra. Water en koelwater zijn de hele dag nodig.
+
+Step 92/330
+>> Dutch - English
+	We will look out this summer. Check the morning wind. Yesterday my brother thought I was the only manager in Surabaya. I love this sad and beautiful world. Then he was 30 km from Basra. Water and cooling water are needed all day.
+
+Step 93/330
+>> English - Samoan
+	O le a matou tilotilo atu i fafo i lenei taumafanafana. Siaki le matagi o le taeao. O ananafi na fai mai loʻu tuagane e na o au le pule i Surabaya. Ou te fiafia i lenei lalolagi faanoanoa ma matagofie. Ona 30 maila lea mai Basra. Suavai ma vai malulu e manaʻomia i le aso atoa.
+
+Step 94/330
+>> Samoan - Uzbek
+	Biz bu yozni ko'rib chiqamiz. Ertalabki shamolni tekshiring. Kecha akam Surabayadagi yagona menejer ekanligimni aytdi. Men bu qayg'uli va go'zal dunyoni yaxshi ko'raman. Keyin Basradan 30 mil. Suv va sovuq suv kun davomida kerak.
+
+Step 95/330
+>> Uzbek - English
+	We'll be reviewing this summer. Check the morning wind. My brother said yesterday that I was the only manager in Surabaya. I love this sad and beautiful world. Then 30 miles from Basra. Water and cold water are needed throughout the day.
+
+Step 96/330
+>> English - Arabic
+	سنراجع هذا الصيف. تحقق من ريح الصباح. قال أخي أمس إنني المدير الوحيد في سورابايا. أنا أحب هذا العالم الحزين والجميل. ثم 30 ميلا من البصرة. هناك حاجة إلى الماء والماء البارد طوال اليوم.
+
+Step 97/330
+>> Arabic - French
+	Nous allons revoir cet été. Vérifiez le vent du matin. Mon frère a dit hier que je suis le seul responsable à Surabaya. J'aime ce monde triste et beau. Puis 30 milles de Bassorah. De l'eau et de l'eau froide sont nécessaires tout au long de la journée.
+
+Step 98/330
+>> French - Spanish
+	Volveremos a ver este verano. Revisa el viento de la mañana. Mi hermano dijo ayer que soy el único responsable en Surabaya. Me gusta este mundo triste y hermoso. Luego a 30 millas de Basora. Se necesita agua y agua fría durante todo el día.
+
+Step 99/330
+>> Spanish - Romanian
+	Vom vedea din nou în această vară. Verificați vântul dimineții. Fratele meu a spus ieri că sunt singurul responsabil în Surabaya. Îmi place această lume tristă și frumoasă. Apoi, la 30 de mile de Basra. Apa și apa rece sunt necesare pe tot parcursul zilei.
+
+Step 100/330
+>> Romanian - Filipino
+	Makita kami muli sa tag-araw na ito. Suriin ang hangin ng umaga. Kahapon sinabi ng aking kapatid na ako lamang ang taong namamahala sa Surabaya. Gusto ko ang malungkot at magandang mundo na ito. Pagkatapos, 30 milya mula sa Basra. Kinakailangan ang tubig at malamig na tubig sa buong araw.
+
+Step 101/330
+>> Filipino - Zulu
+	Sizokubona futhi ehlobo. Hlola umoya wasekuseni. Izolo umfowethu uthe yimi kuphela umuntu ophethe iSurabaya. Ngithanda lomhlaba odabukisayo futhi omuhle. Ngemuva kwalokho, amamayela angama-30 ukusuka eBasra. Amanzi namanzi abandayo ayadingeka usuku lonke.
+
+Step 102/330
+>> Zulu - Arabic
+	أراك مرة أخرى في الصيف. تحقق الهواء الصباح. بالأمس قال أخي إنني الشخص الوحيد المسؤول عن سورابايا. أنا أحب هذا العالم الحزين والجميل. بعد ذلك ، 30 ميلا من البصرة. هناك حاجة إلى الماء والماء البارد طوال اليوم.
+
+Step 103/330
+>> Arabic - Indonesian
+	Sampai jumpa lagi di musim panas. Periksa udara pagi. Kemarin kakak saya berkata bahwa saya adalah satu-satunya penanggung jawab Surabaya. Saya suka dunia yang sedih dan indah ini. Setelah itu, 30 mil dari Basra. Air dan air dingin dibutuhkan sepanjang hari.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Hẹn gặp lại vào mùa hè. Kiểm tra không khí buổi sáng. Hôm qua chị tôi nói rằng tôi là người duy nhất phụ trách ở Surabaya. Tôi yêu thế giới buồn và đẹp này. Sau đó, 30 dặm từ Basra. Nước và nước lạnh là cần thiết trong suốt cả ngày.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Nos vemos en el verano. Echa un vistazo a la atmósfera de la mañana. Ayer mi hermana dijo que yo era la única persona a cargo en Surabaya. Amo este mundo triste y hermoso. Luego a 30 millas de Basora. Se necesita agua y agua fría durante todo el día.
+
+Step 106/330
+>> Spanish - Arabic
+	أراك في الصيف. تحقق من جو الصباح. قالت أختي بالأمس إنني الشخص الوحيد المسؤول في سورابايا. أنا أحب هذا العالم الحزين والجميل. ثم 30 ميلا من البصرة. هناك حاجة إلى الماء والماء البارد طوال اليوم.
+
+Step 107/330
+>> Arabic - Spanish
+	Nos vemos en el verano. Echa un vistazo a la atmósfera de la mañana. Mi hermana dijo ayer que soy la única persona en Surabaya. Amo este mundo triste y hermoso. Luego a 30 millas de Basora. Se necesita agua y agua fría durante todo el día.
+
+Step 108/330
+>> Spanish - Russian
+	Увидимся летом. Проверьте утреннюю атмосферу. Вчера моя сестра сказала, что я единственный человек в Сурабае. Я люблю этот грустный и красивый мир. Затем в 30 милях от Басры. Вода и холодная вода необходимы в течение дня.
+
+Step 109/330
+>> Russian - Arabic
+	أراك في الصيف. تحقق من جو الصباح. بالأمس ، قالت أختي أنني كنت الشخص الوحيد في سورابايا. أنا أحب هذا العالم الحزين والجميل. ثم 30 ميلا من البصرة. هناك حاجة إلى الماء والماء البارد طوال اليوم.
+
+Step 110/330
+>> Arabic - Spanish
+	Nos vemos en el verano. Echa un vistazo a la atmósfera de la mañana. Ayer, mi hermana dijo que yo era la única persona en Surabaya. Amo este mundo triste y hermoso. Luego a 30 millas de Basora. Se necesita agua y agua fría durante todo el día.
+
+Step 111/330
+>> Spanish - Portuguese
+	Vejo você no verão. Confira a atmosfera da manhã. Ontem, minha irmã disse que eu era a única pessoa em Surabaya. Eu amo este mundo triste e bonito. Então 30 milhas de Basra. Água e água fria são necessárias durante todo o dia.
+
+Step 112/330
+>> Portuguese - English
+	See you in the summer. Check out the atmosphere in the morning. Yesterday, my sister said I was the only person in Surabaya. I love this sad and beautiful world. Then 30 miles from Basra. Water and cold water are required throughout the day.
+
+Step 113/330
+>> English - Spanish
+	Te veo en el verano. Echa un vistazo a la atmósfera de la mañana. Ayer, mi hermana dijo que yo era la única persona en Surabaya. Amo este mundo triste y hermoso. Luego a 30 millas de Basora. Se requiere agua y agua fría durante todo el día.
+
+Step 114/330
+>> Spanish - English
+	See you in the summer. Check out the morning atmosphere. Yesterday, my sister said that I was the only person in Surabaya. I love this sad and beautiful world. Then 30 miles from Basra. Water and cold water are required throughout the day.
+
+Step 115/330
+>> English - Hindi
+	गर्मियों में मिलते हैं। सुबह का वातावरण देखें। कल, मेरी बहन ने कहा कि मैं सुरबाया में एकमात्र व्यक्ति था। मुझे यह दुखद और खूबसूरत दुनिया बहुत पसंद है। फिर बसरा से 30 मील। पूरे दिन पानी और ठंडे पानी की आवश्यकता होती है।
+
+Step 116/330
+>> Hindi - Portuguese
+	Vejo você no verão. Veja a atmosfera da manhã. Ontem, minha irmã disse que eu era a única pessoa em Surabaya. Eu amo este mundo triste e bonito. Então 30 milhas de Basra. Água e água fria são necessárias durante todo o dia.
+
+Step 117/330
+>> Portuguese - Spanish
+	Nos vemos en el verano. Ver el ambiente en la mañana. Ayer, mi hermana dijo que yo era la única persona en Surabaya. Amo este mundo triste y hermoso. Luego a 30 millas de Basora. Se requiere agua y agua fría durante todo el día.
+
+Step 118/330
+>> Spanish - English
+	See you in the summer. See the atmosphere in the morning. Yesterday, my sister said that I was the only person in Surabaya. I love this sad and beautiful world. Then 30 miles from Basra. Water and cold water are required throughout the day.
+
+Step 119/330
+>> English - Bengali
+	গ্রীষ্মে দেখা হবে। সকালে পরিবেশ দেখুন। গতকাল, আমার বোন বলেছিলেন যে আমি সুরবায়ার একমাত্র ব্যক্তি। আমি এই দু: খিত এবং সুন্দর বিশ্বের ভালবাসি। তারপরে বাসরা থেকে 30 মাইল দূরে। সারা দিন জল এবং ঠান্ডা জল প্রয়োজন।
+
+Step 120/330
+>> Bengali - French
+	On se voit en été Voir l'environnement dans la matinée. Hier, ma sœur a dit que j'étais la seule personne à Surbaya. J'aime ce monde triste et beau. Puis 30 milles de Bassorah. Besoin d'eau et d'eau froide toute la journée.
+
+Step 121/330
+>> French - lao
+	ເບິ່ງທ່ານໃນລະດູຮ້ອນເບິ່ງສະພາບແວດລ້ອມໃນຕອນເຊົ້າ. ມື້ວານນີ້, ເອື້ອຍຂອງຂ້ອຍບອກວ່າຂ້ອຍເປັນຄົນດຽວໃນ Surbaya. ຂ້ອຍມັກໂລກທີ່ ໜ້າ ເສົ້າແລະງາມນີ້. ຈາກນັ້ນ 30 ໄມຈາກເມືອງ Basra. ຕ້ອງການນໍ້າແລະນໍ້າເຢັນຕະຫຼອດມື້.
+
+Step 122/330
+>> lao - English
+	See you in the summer See the morning environment. Yesterday, my sister said I was the only one in Surbaya. I like this sad and beautiful world. Then 30 miles from Basra. Water and cold water are needed throughout the day.
+
+Step 123/330
+>> English - Portuguese
+	Vejo você no verão Veja o ambiente da manhã. Ontem, minha irmã disse que eu era o único em Surbaya. Eu gosto deste mundo triste e bonito. Então 30 milhas de Basra. Água e água fria são necessárias durante todo o dia.
+
+Step 124/330
+>> Portuguese - English
+	See you in summer See the ambience in the morning. Yesterday, my sister said I was the only one in Surbaya. I like this sad and beautiful world. Then 30 miles from Basra. Water and cold water are required throughout the day.
+
+Step 125/330
+>> English - Portuguese
+	Vejo você no verão Veja o ambiente da manhã. Ontem, minha irmã disse que eu era o único em Surbaya. Eu gosto deste mundo triste e bonito. Então 30 milhas de Basra. Água e água fria são necessárias durante todo o dia.
+
+Step 126/330
+>> Portuguese - English
+	See you in summer See the ambience in the morning. Yesterday, my sister said I was the only one in Surbaya. I like this sad and beautiful world. Then 30 miles from Basra. Water and cold water are required throughout the day.
+
+Step 127/330
+>> English - Portuguese
+	Vejo você no verão Veja o ambiente da manhã. Ontem, minha irmã disse que eu era o único em Surbaya. Eu gosto deste mundo triste e bonito. Então 30 milhas de Basra. Água e água fria são necessárias durante todo o dia.
+
+Step 128/330
+>> Portuguese - Burmese
+	အဆိုပါနံနက်ပတ်ဝန်းကျင်ကိုကြည့်ပါနွေကာလ၌သင်တို့ကိုတွေ့မြင်။ မနေ့ကငါ့နှမငါ Surbaya အတွက်တစ်ဦးတည်းသာဖြစ်ခဲ့သည်ဟုဆိုသည်။ ငါသည်ဤဝမ်းနည်းဖွယ်နဲ့လှပတဲ့ကမ္ဘာကြီးကြိုက်တယ်။ ထိုအခါဘဆ်ွရာမှမိုင် 30 ။ ရေနှင့်ရေအေးသောနေ့ရက်ကာလကိုတစ်လျှောက်လုံးလိုအပ်နေပါသည်။
+
+Step 129/330
+>> Burmese - Nepali
+	अर्को बिहान, वातावरण हेर्न गर्मी तपाईं हेर्नुहोस्। हिजो मेरो बहिनी। म केवल एक Surbaya थियो म यो दुःखी र सुन्दर संसारमा मन परायो। र Basra देखि 30 माइल। दिन भर चिसो पानी र पानी आवश्यकता।
+
+Step 130/330
+>> Nepali - Urdu
+	اگلی صبح ، ماحول کو دیکھنے کے لئے آپ کو گرم کریں. کل میری بہن۔ میں واحد سربیا تھا جو مجھے اس اداس اور خوبصورت دنیا میں پسند تھا۔ اور بصرہ سے 30 میل دور ہے۔ دن بھر ٹھنڈے پانی اور پانی کی ضروریات۔
+
+Step 131/330
+>> Urdu - French
+	Le lendemain matin, réchauffez-vous pour voir l'atmosphère. Demain ma soeur J'étais la seule Serbie que j'aimais dans ce monde triste et magnifique. Et à 30 miles de Bassorah. L'eau froide et les besoins en eau tout au long de la journée.
+
+Step 132/330
+>> French - English
+	The next morning, warm up to see the atmosphere. Tomorrow my sister I was the only Serbia I loved in this sad and beautiful world. And 30 miles from Basra. Cold water and water needs throughout the day.
+
+Step 133/330
+>> English - Swahili
+	Asubuhi iliyofuata, pasha joto kuona anga. Kesho dada yangu mimi ndiye Serbia pekee nilipenda katika ulimwengu huu wa huzuni na mzuri. Na maili 30 kutoka Basra. Maji baridi na mahitaji ya maji siku nzima.
+
+Step 134/330
+>> Swahili - Arabic
+	في صباح اليوم التالي ، الاحماء لرؤية السماء. غداً أختي أنا الصرب الوحيد الذي أحبه في هذا العالم الحزين والجميل. و 30 ميلا من البصرة. يحتاج الماء البارد والمياه طوال اليوم.
+
+Step 135/330
+>> Arabic - Shona
+	Mangwanani anotevera, kudziya kuti uone matenga. Mangwana hanzvadzi yangu, ini ndiri ndega Serb wandinoda munyika ino inosiririsa uye yakanaka. Uye makumi matatu mamaira kubva kuBasra. Inoda mvura inotonhora uye nemvura zuva rese.
+
+Step 136/330
+>> Shona - Hausa
+	Washegari, da dumi ganin sama. Gobe gobe 'yar uwata, Ni kadai ne Serb da nake kauna a wannan duniyar mai cike da bakin ciki. Kuma mil talatin daga Basra. Tana buƙatar ruwan sanyi da ruwan sama a duk rana.
+
+Step 137/330
+>> Hausa - Swahili
+	Asubuhi iliyofuata, joto kuona mbingu. Kesho asubuhi dada yangu, mimi ndiye Serb pekee ninayempenda katika ulimwengu huu wa huzuni. Na maili thelathini kutoka Basra. Anahitaji mvua baridi na mvua siku nzima.
+
+Step 138/330
+>> Swahili - English
+	The next morning, warm to see the skies. Tomorrow morning my sister, I am the only Serb I love in this sad world. And thirty miles from Basra. He needs cold and rainy days all day.
+
+Step 139/330
+>> English - Arabic
+	في صباح اليوم التالي ، دافئة لرؤية السماء. صباح الغد يا أختي ، أنا الصربي الوحيد الذي أحبه في هذا العالم المحزن. وثلاثون ميلا من البصرة. إنه يحتاج إلى أيام بارد وممطر طوال اليوم.
+
+Step 140/330
+>> Arabic - Malagasy
+	Ny ampitso maraina, mafana ny mahita ny lanitra. Rahampitso rahavaviko, izaho irery no Serba tiako tiako eto amin'ity tontolo mampalahelo ity. Telopolo kilometatra miala an'i Basra. Mila andro mangatsiaka sy orana isan'andro.
+
+Step 141/330
+>> Malagasy - Swahili
+	Asubuhi iliyofuata, ilikuwa moto kuona mbingu. Kesho dada yangu, mimi ndiye Mserbia pekee ninayependa katika ulimwengu huu wa huzuni. Kilomita thelathini kutoka Basra. Inahitaji siku baridi na siku za mvua.
+
+Step 142/330
+>> Swahili - French
+	Le lendemain matin, il faisait chaud pour voir le ciel. Demain ma soeur, je suis la seule Serbe que j'aime dans ce monde triste. Trente kilomètres de Bassorah. Il a besoin de jours froids et pluvieux.
+
+Step 143/330
+>> French - Arabic
+	في صباح اليوم التالي ، كان الجو حارا لرؤية السماء. غداً أختي ، أنا الصرب الوحيد الذي أحبه في هذا العالم المحزن. ثلاثين كيلومترا من البصرة. يحتاج البرد ، الأيام الممطرة.
+
+Step 144/330
+>> Arabic - French
+	Le lendemain matin, il faisait chaud pour voir le ciel. Demain ma soeur, je suis le seul Serbe que j'aime dans ce monde triste. Trente kilomètres de Bassorah. A besoin de froid, jours de pluie.
+
+Step 145/330
+>> French - Arabic
+	في صباح اليوم التالي ، كان الجو حارا لرؤية السماء. غداً أختي ، أنا الصرب الوحيد الذي أحبه في هذا العالم المحزن. ثلاثين كيلومترا من البصرة. يحتاج الطقس البارد ، الأيام الممطرة.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Nan demen maten, li te cho pou wè syèl la. Denmen, sè m ', mwen se sèl sèb mwen renmen nan mond tris sa a. Trant kilomèt de Basra. Bezwen move tan, jou lapli.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	بله ورځ ګرمه وه چې اسمان لیدلی شو. سبا ، زما خور ، زه پدې غمجنه نړۍ کې یوازینی مینه وال یم. له بصره څخه دیرش مایل هوا ، باراني ورځې ته اړتیا لري.
+
+Step 148/330
+>> Pashto - French
+	Le lendemain, il faisait chaud pour que le ciel soit visible. Demain, ma soeur, je suis le seul amoureux de ce monde tragique. Trente milles de Bassorah nécessitent des jours de pluie.
+
+Step 149/330
+>> French - Chichewa
+	Tsiku lotsatira kunali kotentha kuti thambo liziwoneka. Mawa mlongo wanga, ndine ndekha wokonda dziko lomvetsa chisoni. Makilomita makumi atatu kuchokera ku Basra amafuna masiku a mvula.
+
+Step 150/330
+>> Chichewa - Arabic
+	في اليوم التالي كان الجو حارًا جدًا لتظهر السماء. غدا أختي ، أنا الحبيب الوحيد في هذا العالم المحزن. ثلاثون كيلومتراً من البصرة تحتاج إلى أيام ممطرة.
+
+Step 151/330
+>> Arabic - Amharic
+	በሚቀጥለው ቀን ሰማዩ እንዲታይ በጣም ሞቃት ነበር ፡፡ ነገ እህቴ ፣ በዚህ አሳዛኝ ዓለም ውስጥ ብቸኛው ፍቅረኛ ነኝ። ከባሳራ ሠላሳ ኪሎሜትሮች ዝናባማ ቀናት ይፈልጋሉ ፡፡
+
+Step 152/330
+>> Amharic - English
+	The next day the sky was too hot to see. Tomorrow morning, I'm the only love in this sad world. Thirty kilometers away from Basra requires rainy days.
+
+Step 153/330
+>> English - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, je suis le seul amour dans ce monde triste. Trente kilomètres de Bassorah nécessitent des jours de pluie.
+
+Step 154/330
+>> French - Swahili
+	Siku iliyofuata, mbingu zilikuwa moto sana kuoneka. Kesho asubuhi, mimi ndiye upendo wa pekee katika ulimwengu huu wa huzuni. Kilomita thelathini kutoka Basra zinahitaji siku za mvua.
+
+Step 155/330
+>> Swahili - Portuguese
+	No dia seguinte, o céu estava quente demais para ser visto. Amanhã de manhã, sou o único amor neste mundo triste. Trinta quilômetros de Basra exigem dias de chuva.
+
+Step 156/330
+>> Portuguese - Arabic
+	في اليوم التالي ، كانت السماء شديدة الحرارة بحيث لا يمكن رؤيتها. صباح الغد ، أنا الحب الوحيد في هذا العالم المحزن. ثلاثون كيلومترا من البصرة تتطلب أيام ممطرة.
+
+Step 157/330
+>> Arabic - Portuguese
+	No dia seguinte, o céu estava muito quente para ver. Amanhã de manhã, sou o único amor neste mundo triste. Trinta quilômetros de Basra exigem dias de chuva.
+
+Step 158/330
+>> Portuguese - English
+	The next day the sky was too hot to see. Tomorrow morning, I am the only love in this sad world. Thirty kilometers from Basra require rainy days.
+
+Step 159/330
+>> English - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, je suis le seul amour dans ce monde triste. Trente kilomètres de Bassorah nécessitent des jours de pluie.
+
+Step 160/330
+>> French - English
+	The next day, the sky was too hot to be seen. Tomorrow morning, I am the only love in this sad world. Thirty kilometers from Basra require rainy days.
+
+Step 161/330
+>> English - Swahili
+	Siku iliyofuata, mbingu zilikuwa moto sana kuoneka. Kesho asubuhi, mimi ndiye upendo wa pekee katika ulimwengu huu wa huzuni. Kilomita thelathini kutoka Basra zinahitaji siku za mvua.
+
+Step 162/330
+>> Swahili - Arabic
+	في اليوم التالي ، كانت السماء ساخنة جدًا بحيث لا يمكن رؤيتها. صباح الغد ، أنا الحب الوحيد في هذا العالم المحزن. ثلاثون كيلومترا من البصرة تتطلب أيام ممطرة.
+
+Step 163/330
+>> Arabic - Arabic
+	The next day, the sky was too hot to see. Tomorrow morning, I'm the only love in this sad world. Thirty kilometers from Basra require rainy days.
+
+Step 164/330
+>> Arabic - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, je suis le seul amour dans ce monde triste. Trente kilomètres de Bassorah nécessitent des jours de pluie.
+
+Step 165/330
+>> French - Hausa
+	Kashegari, sararin sama ma ya yi zafi sosai da ba za a iya gani ba. Gobe da safe, Ni kaɗai ƙauna ce a cikin wannan duniyar mai baƙin ciki. Kimanin kilomita 30 daga Basra na buƙatar ranakun ruwa.
+
+Step 166/330
+>> Hausa - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, je suis le seul amoureux de ce monde triste. À environ 30 kilomètres de Bassorah, il faut des jours d’eau.
+
+Step 167/330
+>> French - Arabic
+	The next day, the sky was too hot to be seen. Tomorrow morning, I am the only lover of this sad world. About 30 kilometers from Basra, it takes days of water.
+
+Step 168/330
+>> Arabic - Arabic
+	في اليوم التالي ، كانت السماء شديدة الحرارة بحيث لا يمكن رؤيتها. صباح الغد ، أنا العاشق الوحيد لهذا العالم المحزن. حوالي 30 كيلومترا من البصرة ، ويستغرق يوما من الماء.
+
+Step 169/330
+>> Arabic - Swahili
+	Siku iliyofuata, anga ilikuwa moto sana kuona. Kesho asubuhi, mimi ndiye mpenzi wa ulimwengu huu wa huzuni. Karibu kilomita 30 kutoka Basra, inachukua siku za maji.
+
+Step 170/330
+>> Swahili - English
+	The next day, the sky was too hot to see. Tomorrow morning, I'm the lover of this sad world. About 30 kilometers from Basra, it takes water days.
+
+Step 171/330
+>> English - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, je suis amoureux de ce monde triste. À environ 30 kilomètres de Bassorah, cela prend des jours d’eau.
+
+Step 172/330
+>> French - English
+	The next day, the sky was too hot to be seen. Tomorrow morning, I am in love with this sad world. About 30 kilometers from Basra, it takes days of water.
+
+Step 173/330
+>> English - Portuguese
+	No dia seguinte, o céu estava quente demais para ser visto. Amanhã de manhã, estou apaixonado por este mundo triste. Cerca de 30 quilômetros de Basra, leva dias de água.
+
+Step 174/330
+>> Portuguese - Arabic
+	في اليوم التالي ، كانت السماء شديدة الحرارة بحيث لا يمكن رؤيتها. صباح الغد ، أنا أحب هذا العالم المحزن. حوالي 30 كيلومترا من البصرة ، ويستغرق يوما من الماء.
+
+Step 175/330
+>> Arabic - Portuguese
+	No dia seguinte, o céu estava muito quente para ver. Amanhã de manhã, eu amo esse mundo triste. Cerca de 30 quilômetros de Basra, leva dias de água.
+
+Step 176/330
+>> Portuguese - Swahili
+	Siku iliyofuata anga ilikuwa moto sana kuona. Kesho asubuhi, naipenda ulimwengu huu wa kusikitisha. Karibu kilomita 30 kutoka Basra, inachukua siku za maji.
+
+Step 177/330
+>> Swahili - French
+	Le lendemain, le ciel était trop chaud pour être vu. Demain matin, j'aime ce monde triste. À environ 30 kilomètres de Bassorah, cela prend des jours d’eau.
+
+Step 178/330
+>> French - English
+	The next day, the sky was too hot to be seen. Tomorrow morning, I love this sad world. About 30 kilometers from Basra, it takes days of water.
+
+Step 179/330
+>> English - Amharic
+	በሚቀጥለው ቀን ሰማዩ ለመታየት በጣም ሞቃት ነበር ፡፡ ነገ ጠዋት ይህን አሳዛኝ ዓለም እወዳለሁ። ከባሳራ 30 ኪ.ሜ ያህል ርቀት ላይ ቀናት ውሃን ይወስዳል ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	في اليوم التالي ، كانت السماء حارة للغاية بحيث لا يمكن رؤيتها أنا أحب هذا العالم الحزين صباح الغد. يستغرق المياه حوالي 30 كم من البصرة.
+
+Step 181/330
+>> Arabic - Chichewa
+	Tsiku lotsatira, thambo linali lotentha kwambiri kwakuti sindinathe kuwona kuti ndimakonda dziko lapansi zachisoni mawa m'mawa. Madziwo amatenga pafupifupi 30 km kuchokera ku Basra.
+
+Step 182/330
+>> Chichewa - French
+	Le lendemain, le ciel était si chaud que je ne pouvais pas voir à quel point j'aimais le monde triste de demain matin. L'eau prend environ 30 km de Bassorah.
+
+Step 183/330
+>> French - Pashto
+	بله ورځ ، اسمان دومره ګرم و چې زه نشم لیدلی چې ما د سبا ورځې غمجن نړۍ سره څومره مینه درلوده. اوبه له بصره څخه شاوخوا km 30 کیلومتره وخت نیسي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Nan demen, syèl la te tèlman cho ke mwen pa t 'kapab wè ki kantite mwen te renmen mond tris demen. Dlo a pran apeprè 30 km soti nan Basra.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	في اليوم التالي كانت السماء حارة لدرجة أنني لم أستطع أن أرى كم أحببت عالم الغد الحزين. يستغرق الماء حوالي 30 كم من البصرة.
+
+Step 186/330
+>> Arabic - French
+	Le lendemain, le ciel était si chaud que je ne pouvais pas voir à quel point j'aimais le monde triste de demain. L'eau prend environ 30 km de Bassorah.
+
+Step 187/330
+>> French - Arabic
+	في اليوم التالي ، كانت السماء حارة لدرجة أنني لم أستطع أن أرى كم أحببت عالم الغد الحزين. يستغرق الماء حوالي 30 كم من البصرة.
+
+Step 188/330
+>> Arabic - French
+	Le lendemain, le ciel était si chaud que je ne pouvais pas voir à quel point j'aimais le monde triste de demain. L'eau prend environ 30 km de Bassorah.
+
+Step 189/330
+>> French - Swahili
+	Siku iliyofuata, mbingu zilikuwa moto sana hata sikuweza kuona ni kiasi gani nimeipenda ulimwengu wa kusikitisha wa kesho. Maji huchukua kilomita 30 kutoka Basra.
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny ampitson'iny, nafana be ny lanitra ka tsy hitako izay hitiavako ny tontolo malahelo rahampitso. Mahatratra 30 kilometatra miala an'i Basra ny rano.
+
+Step 191/330
+>> Malagasy - Arabic
+	في اليوم التالي ، كانت السماء حارة لدرجة أنني لم أستطع أن أرى كيف أحب عالم الغد الحزين. المياه تصل إلى 30 كيلومترا من البصرة.
+
+Step 192/330
+>> Arabic - English
+	The next day, the sky was so hot that I couldn't see how I loved the sad world of tomorrow. Water up to 30 kilometers from Basra.
+
+Step 193/330
+>> English - Swahili
+	Siku iliyofuata, mbingu zilikuwa moto sana hata sikuweza kuona jinsi ninaipenda ulimwengu wa huzuni wa kesho. Maji hadi kilomita 30 kutoka Basra.
+
+Step 194/330
+>> Swahili - Hausa
+	Kashegari, sararin samaniya suna da zafi sosai saboda ban iya ganin yadda nake ƙaunar baƙin ciki gobe ba. Ruwa zuwa kilomita 30 daga Basra.
+
+Step 195/330
+>> Hausa - Shona
+	Mangwana acho, matenga akapisa zvekuti ndakatadza kuona kuti ndaidei kusuwa kwangu mangwana. Mvura mamaira makumi matatu kubva kuBasra.
+
+Step 196/330
+>> Shona - Arabic
+	في اليوم التالي ، كانت الجو حارًا لدرجة أنني لم أتمكن من رؤية ما أردت لي غدًا. المياه 30 ميلا من البصرة.
+
+Step 197/330
+>> Arabic - Swahili
+	Siku iliyofuata, ilikuwa moto sana hata sikuweza kuona nilichotaka kwangu kesho. Maji maili 30 kutoka Basra.
+
+Step 198/330
+>> Swahili - English
+	The next day, it was so hot I couldn't even see what I wanted for me tomorrow. Water 30 miles from Basra.
+
+Step 199/330
+>> English - French
+	Le lendemain, il faisait si chaud que je ne pouvais même pas voir ce que je voulais pour moi demain. Eau 30 miles de Bassorah.
+
+Step 200/330
+>> French - Urdu
+	اگلے دن اتنا گرم تھا کہ میں کل تک میرے لئے کیا چاہتا تھا یہ بھی نہیں دیکھ سکتا تھا۔ بصرہ سے 30 میل دور پانی۔
+
+Step 201/330
+>> Urdu - Nepali
+	भोलिपल्ट त एकदम तातो थियो कि म हिजो सम्म मैले के खोजेको छु भनेर पनि देख्न पाइन। पानी Basra देखि miles० माईल।
+
+Step 202/330
+>> Nepali - Burmese
+	နက်ဖြန်နေ့၌ကြောင့်မနေ့ကသည်အထိကျွန်မရဲ့အကောင်းဆုံးကြိုးစားခဲ့အလွန်ပူပြင်းခဲ့တာနဲ့ကျွန်မလည်းသူ့ကိုအတွက်ကြည့်ရှုပါ။ ဘဆ်ွရာမှရေ miles0 မိုင်။
+
+Step 203/330
+>> Burmese - Portuguese
+	No dia seguinte, até ontem, eu estava muito quente e eu tentei olhar para ele. Basra miles0 milhas.
+
+Step 204/330
+>> Portuguese - English
+	The next day, until yesterday, I was very hot and I tried to look at it. Basra miles0 miles.
+
+Step 205/330
+>> English - Portuguese
+	No dia seguinte, até ontem, eu estava com muito calor e tentei olhar para ele. Milhas Bas0 milhas.
+
+Step 206/330
+>> Portuguese - English
+	The next day, until yesterday, I was very hot and tried to look at him. Bas0 miles miles.
+
+Step 207/330
+>> English - Portuguese
+	No dia seguinte, até ontem, eu estava com muito calor e tentei olhar para ele. Bas0 milhas milhas.
+
+Step 208/330
+>> Portuguese - English
+	The next day, until yesterday, I was very hot and tried to look at him. Bas0 miles miles.
+
+Step 209/330
+>> English - lao
+	ມື້ຕໍ່ມາ, ຈົນຮອດມື້ວານນີ້, ຂ້ອຍຮ້ອນຫຼາຍແລະພະຍາຍາມເບິ່ງລາວ. ພື້ນທີ່ປະມານ 700 ໄມ.
+
+Step 210/330
+>> lao - French
+	Le lendemain, jusqu'à hier, j'avais très chaud et j'essayais de le voir. La région est à environ 700 miles.
+
+Step 211/330
+>> French - Bengali
+	পরের দিন, গতকাল অবধি আমি খুব উত্তপ্ত ছিলাম এবং তাকে দেখার চেষ্টা করেছি। অঞ্চলটি প্রায় 700 মাইল দূরে।
+
+Step 212/330
+>> Bengali - English
+	The next day, until yesterday, I was very warm and tried to see him. The area is about 700 miles away.
+
+Step 213/330
+>> English - Spanish
+	Al día siguiente, hasta ayer, tuve mucho calor y traté de verlo. El área está a unos 700 kilómetros de distancia.
+
+Step 214/330
+>> Spanish - Portuguese
+	No dia seguinte, até ontem, eu estava com muito calor e tentei vê-lo. A área fica a cerca de 700 quilômetros de distância.
+
+Step 215/330
+>> Portuguese - Hindi
+	अगले दिन, कल तक, मैं बहुत गर्म था और उसे देखने की कोशिश की। क्षेत्र लगभग 700 किलोमीटर दूर है।
+
+Step 216/330
+>> Hindi - English
+	The next day, until yesterday, I was very hot and tried to watch her. The area is about 700 kilometers away.
+
+Step 217/330
+>> English - Spanish
+	Al día siguiente, hasta ayer, tenía mucho calor y traté de mirarla. El área está a unos 700 kilómetros de distancia.
+
+Step 218/330
+>> Spanish - English
+	The next day, until yesterday, it was very hot and I tried to look at her. The area is about 700 kilometers away.
+
+Step 219/330
+>> English - Portuguese
+	No dia seguinte, até ontem, estava muito quente e tentei olhar para ela. A área fica a cerca de 700 quilômetros de distância.
+
+Step 220/330
+>> Portuguese - Spanish
+	Al día siguiente, hasta ayer, hacía mucho calor y traté de mirarla. El área está a unos 700 kilómetros de distancia.
+
+Step 221/330
+>> Spanish - Arabic
+	في اليوم التالي ، وحتى الأمس ، كان الجو حارًا للغاية وحاولت أن أنظر إليها. المنطقة حوالي 700 كيلومتر.
+
+Step 222/330
+>> Arabic - Russian
+	На следующий день, до вчерашнего дня, было очень жарко, и я попытался посмотреть на него. Площадь около 700 километров.
+
+Step 223/330
+>> Russian - Spanish
+	Al día siguiente, hasta ayer, hacía mucho calor y traté de mirarlo. El área es de unos 700 kilómetros.
+
+Step 224/330
+>> Spanish - Arabic
+	في اليوم التالي ، وحتى الأمس ، كان الجو حارًا للغاية وحاولت أن أنظر إليه. المنطقة حوالي 700 كيلومتر.
+
+Step 225/330
+>> Arabic - Spanish
+	Al día siguiente, hasta ayer, hacía mucho calor y traté de mirarlo. El área es de unos 700 kilómetros.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Ngày hôm sau, cho đến ngày hôm qua, trời rất nóng và tôi đã cố gắng nhìn vào nó. Khu vực này khoảng 700 km.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Keesokan harinya, sampai kemarin, sangat panas dan saya mencoba melihatnya. Daerah ini sekitar 700 km.
+
+Step 228/330
+>> Indonesian - Arabic
+	في اليوم التالي ، وحتى الأمس ، كان الجو حارًا للغاية وحاولت رؤيته. هذه المنطقة حوالي 700 كم.
+
+Step 229/330
+>> Arabic - Zulu
+	Ngosuku olulandelayo, kuze kube izolo, bekushisa kakhulu futhi ngazama ukuyibona. Le ndawo icishe ibe ngu-700 km.
+
+Step 230/330
+>> Zulu - Filipino
+	Kinabukasan, hanggang kahapon, sobrang init at sinubukan kong makita ito. Ang lugar na ito ay humigit-kumulang 700 km.
+
+Step 231/330
+>> Filipino - Romanian
+	A doua zi, până ieri, a fost foarte cald și am încercat să o văd. Această zonă este de aproximativ 700 km.
+
+Step 232/330
+>> Romanian - Spanish
+	Al día siguiente, hasta ayer, hacía mucho calor y traté de verlo. Esta área es de aproximadamente 700 km.
+
+Step 233/330
+>> Spanish - French
+	Le lendemain, jusqu'à hier, il faisait très chaud et j'ai essayé de le voir. Cette zone est d'environ 700 km.
+
+Step 234/330
+>> French - Arabic
+	في اليوم التالي ، وحتى الأمس ، كان الجو حارًا للغاية وحاولت رؤيته. هذه المنطقة حوالي 700 كم.
+
+Step 235/330
+>> Arabic - English
+	The next day, until yesterday, it was very hot and I tried to see it. This area is about 700 km.
+
+Step 236/330
+>> English - Uzbek
+	Ertasi kuni, kechagacha juda issiq edi va men buni ko'rishga harakat qildim. Bu maydon 700 km.
+
+Step 237/330
+>> Uzbek - Samoan
+	O le aso na sosoo ai, sa vevela lava seia oo i le po, ma sa ou taumafai e vaai i ai. O le eria e 700 km.
+
+Step 238/330
+>> Samoan - English
+	The next day, it was hot until nightfall, and I tried to see it. The area is 700 km.
+
+Step 239/330
+>> English - Dutch
+	De volgende dag was het heet tot het donker werd en ik probeerde het te zien. Het gebied ligt op 700 km.
+
+Step 240/330
+>> Dutch - English
+	The next day it was hot until it got dark and I tried to see it. The area is 700 km away.
+
+Step 241/330
+>> English - Kurdish
+	Dotira rojê germ bû heta ku tarî bû û min hewl da ku wê bibînim. Navçe 700 km dûr e.
+
+Step 242/330
+>> Kurdish - Arabic
+	كان الجو حارًا في اليوم التالي حتى أصبح الظلام وحاولت رؤيته. تقع المنطقة على بعد 700 كم.
+
+Step 243/330
+>> Arabic - Spanish
+	Hacía calor al día siguiente hasta que oscureció e intenté verlo. La zona está a 700 km.
+
+Step 244/330
+>> Spanish - Mongolian
+	Дараагийн өдөр нь харанхуй болтол халуун байсан тул би харахыг хичээв. Талбай нь 700 км зайтай.
+
+Step 245/330
+>> Mongolian - English
+	The next day was so hot that I was stunned. The area is 700 km away.
+
+Step 246/330
+>> English - Spanish
+	Al día siguiente hacía tanto calor que me quedé atónita. La zona está a 700 km.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Наступного дня було так жарко, що я був приголомшений. Площа знаходиться в 700 км.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Al día siguiente hacía tanto calor que me quedé atónita. La zona está a 700 km.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	第二天天气很热，让我惊呆了。该地区距离酒店有700公里。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	كان الجو حارا للغاية في اليوم التالي ، مما جعلني فاجأ. تقع المنطقة على بعد 700 كم.
+
+Step 251/330
+>> Arabic - Thai
+	มันร้อนมากในวันถัดไปซึ่งทำให้ฉันประหลาดใจ พื้นที่อยู่ห่างออกไป 700 กม.
+
+Step 252/330
+>> Thai - Armenian
+	Հաջորդ օրը շատ շոգ էր, ինչը զարմացրեց ինձ: Տարածքը 700 կմ հեռավորության վրա է:
+
+Step 253/330
+>> Armenian - Macedonian
+	Следниот ден беше многу жешко, што ме изненади. Областа е 700 километри.
+
+Step 254/330
+>> Macedonian - Arabic
+	كان اليوم التالي حارًا جدًا ، مما فاجأني. تقع المنطقة على بعد 700 كم.
+
+Step 255/330
+>> Arabic - Portuguese
+	O dia seguinte estava muito quente, o que me surpreendeu. A área fica a 700 km.
+
+Step 256/330
+>> Portuguese - Spanish
+	Al día siguiente hacía mucho calor, lo que me sorprendió. La zona está a 700 km.
+
+Step 257/330
+>> Spanish - Bosnian
+	Sutradan je bilo jako vruće, što me iznenadilo. Područje je udaljeno 700 km.
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඊළඟ දවසේ ඉතා උණුසුම් වූ අතර එය මා පුදුමයට පත් කළේය. ප්‍රදේශය කිලෝමීටර 700 ක් දුරින් පිහිටා ඇත.
+
+Step 259/330
+>> Sinhala - English
+	The next day was very hot and it surprised me. The area is about 700 km away.
+
+Step 260/330
+>> English - Spanish
+	Al día siguiente hacía mucho calor y me sorprendió. El área está a unos 700 km.
+
+Step 261/330
+>> Spanish - English
+	The next day it was very hot and I was surprised. The area is about 700 km.
+
+Step 262/330
+>> English - Georgian
+	მეორე დღეს ძალიან ცხელოდა და გამიკვირდა. ტერიტორია დაახლოებით 700 კილომეტრია.
+
+Step 263/330
+>> Georgian - English
+	The next day I was very hot and surprised. The area is about 700 kilometers.
+
+Step 264/330
+>> English - Albanian
+	Të nesërmen isha shumë e nxehtë dhe e befasuar. Zona është rreth 700 kilometra.
+
+Step 265/330
+>> Albanian - Serbian
+	Следећег дана био сам јако врућ и изненађен. Подручје је око 700 километара.
+
+Step 266/330
+>> Serbian - Spanish
+	Al día siguiente estaba muy caliente y sorprendido. El área es de unos 700 kilómetros.
+
+Step 267/330
+>> Spanish - English
+	The next day I was very hot and surprised. The area is about 700 kilometers.
+
+Step 268/330
+>> English - Turkish
+	Ertesi gün çok sıcak ve şaşırdım. Alan yaklaşık 700 kilometredir.
+
+Step 269/330
+>> Turkish - Spanish
+	Al día siguiente hacía mucho calor y me sorprendió. El área es de aproximadamente 700 kilómetros.
+
+Step 270/330
+>> Spanish - French
+	Le lendemain, il faisait très chaud et j'ai été surpris. La région est d'environ 700 kilomètres.
+
+Step 271/330
+>> French - English
+	The next day it was very hot and I was surprised. The region is about 700 kilometers.
+
+Step 272/330
+>> English - Persian
+	روز بعد خیلی گرم بود و تعجب کردم. این منطقه در حدود 700 کیلومتر است.
+
+Step 273/330
+>> Persian - Kazakh
+	Келесі күні өте ыстық болды, мен таңқалдым. Аудан 700 шақырымға жуық.
+
+Step 274/330
+>> Kazakh - English
+	The next day was very hot, and I was amazed. The district is about 700 kilometers.
+
+Step 275/330
+>> English - Malay
+	Keesokan harinya sangat panas, dan saya kagum. Daerah ini adalah sekitar 700 kilometer.
+
+Step 276/330
+>> Malay - Arabic
+	في صباح اليوم التالي كان الجو حارًا للغاية ، ودهشت. المنطقة حوالي 700 كيلومتر.
+
+Step 277/330
+>> Arabic - Spanish
+	A la mañana siguiente hacía mucho calor y me sorprendió. El área es de unos 700 kilómetros.
+
+Step 278/330
+>> Spanish - English
+	The next morning it was very hot and I was surprised. The area is about 700 kilometers.
+
+Step 279/330
+>> English - Russian
+	На следующее утро было очень жарко, и я был удивлен. Площадь около 700 километров.
+
+Step 280/330
+>> Russian - Romanian
+	A doua zi dimineață a fost foarte cald și am fost surprins. Zona este de aproximativ 700 de kilometri.
+
+Step 281/330
+>> Romanian - Bulgarian
+	На следващата сутрин беше много горещо и се изненадах. Районът е около 700 километра.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ishte shumë nxehtë të nesërmen në mëngjes dhe u çudita. Zona është rreth 700 kilometra.
+
+Step 283/330
+>> Albanian - Russian
+	На следующее утро было очень жарко, и я был удивлен. Площадь около 700 километров.
+
+Step 284/330
+>> Russian - Arabic
+	في صباح اليوم التالي كان الجو حاراً للغاية ، وقد فوجئت. المنطقة حوالي 700 كيلومتر.
+
+Step 285/330
+>> Arabic - Spanish
+	A la mañana siguiente hacía mucho calor y me sorprendió. El área es de unos 700 kilómetros.
+
+Step 286/330
+>> Spanish - Croatian
+	Sljedećeg jutra bilo je jako vruće i bio sam iznenađen. Područje je oko 700 kilometara.
+
+Step 287/330
+>> Croatian - Hungarian
+	Másnap reggel nagyon meleg volt, és meglepett voltam. A terület kb. 700 kilométer.
+
+Step 288/330
+>> Hungarian - Spanish
+	A la mañana siguiente hacía mucho calor y me sorprendió. El área es de aprox. 700 kilómetros
+
+Step 289/330
+>> Spanish - Arabic
+	في صباح اليوم التالي كان الجو حاراً وفوجئت. المنطقة تقريبا. 700 كيلومتر
+
+Step 290/330
+>> Arabic - Portuguese
+	Na manhã seguinte, estava quente e fiquei surpresa. A área é de aprox. 700 km
+
+Step 291/330
+>> Portuguese - Latvian
+	Nākamajā rītā bija karsts, un es biju pārsteigts. Platība ir apm. 700 km
+
+Step 292/330
+>> Latvian - Arabic
+	كان الجو حارا في صباح اليوم التالي وفوجئت. المنطقة تقريبا. 700 كم
+
+Step 293/330
+>> Arabic - Malay
+	Ia panas pada keesokan harinya dan saya terkejut. Kawasan tersebut adalah lebih kurang. 700 km
+
+Step 294/330
+>> Malay - Slovak
+	Ráno bolo horúce a bol som šokovaný. Táto oblasť je cca. 700 km
+
+Step 295/330
+>> Slovak - Arabic
+	كان الصباح حارًا وصدمت. هذه المنطقة تقريبا. 700 كم
+
+Step 296/330
+>> Arabic - Lithuanian
+	Rytas buvo karštas ir sukrėstas. Ši sritis yra apytiksliai. 700 km
+
+Step 297/330
+>> Lithuanian - Catalan
+	El matí va ser calorós i commocionat. Aquesta zona és aproximada. 700km
+
+Step 298/330
+>> Catalan - Arabic
+	كان الصباح حارًا وصدمة. هذه المنطقة تقريبية. 700km
+
+Step 299/330
+>> Arabic - Polish
+	Poranek był gorący i szokujący. Obszar ten jest przybliżony. 700 km
+
+Step 300/330
+>> Polish - Turkish
+	Sabahları sıcak ve şok edici oldu. Bu alan yaklaşık değerlerdir. 700 km
+
+Step 301/330
+>> Turkish - Greek
+	Ήταν ζεστό και συγκλονιστικό το πρωί. Αυτό το πεδίο είναι κατά προσέγγιση. 700 χλμ
+
+Step 302/330
+>> Greek - Estonian
+	Hommikul oli soe ja šokeeriv. See väli on ligikaudne. 700 km
+
+Step 303/330
+>> Estonian - Maltese
+	Filgħodu kien sħun u xokkanti. Dan il-qasam huwa approssimattiv. 700km
+
+Step 304/330
+>> Maltese - Italian
+	La mattina era caldo e scioccante. Questa zona è approssimativa. 700 km
+
+Step 305/330
+>> Italian - Czech
+	Ráno bylo teplé a šokující. Tato oblast je přibližná. 700 km
+
+Step 306/330
+>> Czech - Spanish
+	La mañana fue cálida e impactante. Esta área es aproximada. 700 km
+
+Step 307/330
+>> Spanish - Slovenian
+	Jutro je bilo toplo in pretresljivo. To območje je približno. 700 km
+
+Step 308/330
+>> Slovenian - French
+	La matinée était chaude et turbulente. Cette zone est approximative. 700 km
+
+Step 309/330
+>> French - Korean
+	아침은 덥고 격렬했습니다. 이 지역은 근사치입니다. 700km
+
+Step 310/330
+>> Korean - Hebrew
+	הבוקר היה חם ואלים. אזור זה משוער. 700 ק"מ
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	De Moien war waarm a gewaltsam. Dëse Beräich gëtt geschat. 700 km
+
+Step 312/330
+>> Luxembourgish - German
+	Der Morgen war warm und heftig. Dieser Bereich wird geschätzt. 700 km
+
+Step 313/330
+>> German - Japanese
+	朝は暖かくて強烈だった。このエリアは推定されます。 700キロ
+
+Step 314/330
+>> Japanese - German
+	Es war warm und intensiv am Morgen. Dieser Bereich wird geschätzt. 700 kg
+
+Step 315/330
+>> German - Dutch
+	Het was warm en intens in de ochtend. Dit gebied wordt geschat. 700 kg
+
+Step 316/330
+>> Dutch - Maori
+	He mahū me te tino i te ata. Kei te whakaarohia tenei waahi. 700 kg
+
+Step 317/330
+>> Maori - Finnish
+	Se oli hiljaista ja täydellistä aamulla. Tätä mahdollisuutta harkitaan. 700 kg
+
+Step 318/330
+>> Finnish - English
+	It was quiet and perfect in the morning. This possibility is being considered. 700 kg
+
+Step 319/330
+>> English - Danish
+	Det var stille og perfekt om morgenen. Denne mulighed overvejes. 700 kg
+
+Step 320/330
+>> Danish - Dutch
+	Het was stil en perfect in de ochtend. Deze mogelijkheid wordt overwogen. 700 kg
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	早上很安靜，很完美。正在考慮這種可能性。 700公斤
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Mycket tyst på morgonen, perfekt. Denna möjlighet övervägs. 700 kg
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	早上很安靜，很完美。正在考慮這種可能性。 700公斤
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Mjög rólegt á morgnana, fullkomið. Verið er að skoða þennan möguleika. 700 kg
+
+Step 325/330
+>> Icelandic - German
+	Sehr ruhig am Morgen, perfekt. Diese Möglichkeit wird erwogen. 700 kg
+
+Step 326/330
+>> German - Irish
+	An-chiúin ar maidin, foirfe. Breithnítear an fhéidearthacht seo. 700 kg
+
+Step 327/330
+>> Irish - English
+	Very quiet in the morning, perfect. This possibility is considered. 700 kg
+
+Step 328/330
+>> English - German
+	Sehr ruhig am Morgen, perfekt. Diese Möglichkeit wird in Betracht gezogen. 700 kg
+
+Step 329/330
+>> German - Norwegian
+	Veldig stille om morgenen, perfekt. Denne muligheten blir vurdert. 700 kg
+
+Step 330/330
+>> Norwegian - Portuguese
+	Muito calmo pela manhã, perfeito. Esta possibilidade está sendo considerada. 700 kg
+
+
+##### RESULTS ######
+
+Estávamos no golfo pérsico e aproximávamo-nos de Bassorá, aonde, com o bom vento que soprava, chegaríamos no dia seguinte. Mas durante a noite, enquanto eu dormia, minhas irmãs me lançaram ao mar, fazendo o mesmo com o príncipe que morreu afogado. Por algum tempo, mantive-me à tona, e por sorte, ou melhor, por milagre, encontrando pé, avancei para uma negridão que me pareceu terra. Efetivamente, alcancei uma praia; e o dia me revelou que estava numa ilhota deserta, situada a cerca de vinte milhas de Bassorá. Pus a secar ao sol as minhas vestes; e, caminhando, notei várias espécies de frutos e água doce, o que meu deu alguma esperança de conservar a vida.
+
+Muito calmo pela manhã, perfeito. Esta possibilidade está sendo considerada. 700 kg

@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Chahzenã não pôde resistir às instâncias de Chahriar.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Chahzenã kunne ikke motstå Chahriars forekomster.
+
+Step 2/330
+>> Norwegian - German
+	Chahzenã konnte Chahriars Vorkommnissen nicht widerstehen.
+
+Step 3/330
+>> German - English
+	Chahzenã could not resist Chahriar's incidents.
+
+Step 4/330
+>> English - Irish
+	Ní fhéadfadh Chahzenã cur i gcoinne eachtraí Chahriar.
+
+Step 5/330
+>> Irish - German
+	Chahzenã konnte sich Chahriar-Abenteuern nicht widersetzen.
+
+Step 6/330
+>> German - Icelandic
+	Chahzenã gat ekki staðist Chahriar ævintýri.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Chahzenã無法承受Chahri的冒險。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Chahzenã har inte råd med Chahris äventyr.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Chahzenã無法承受Chahri的冒險。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Chahzenã kan het avontuur van Chahri niet betalen.
+
+Step 11/330
+>> Dutch - Danish
+	Chahzenã har ikke råd til eventyret om Chahri.
+
+Step 12/330
+>> Danish - English
+	Chahzenã cannot afford the adventure of Chahri.
+
+Step 13/330
+>> English - Finnish
+	Chahzenãlla ei ole varaa Chahrin seikkailuun.
+
+Step 14/330
+>> Finnish - Maori
+	Kaore e taea e Chahzenã te panui a Chahr.
+
+Step 15/330
+>> Maori - Dutch
+	Chahzenã kan Chahr niet lezen.
+
+Step 16/330
+>> Dutch - German
+	Chahzenã kann Chahr nicht lesen.
+
+Step 17/330
+>> German - Japanese
+	ChahzenãはChahrを読むことができません。
+
+Step 18/330
+>> Japanese - German
+	Chahzenã kann Chahr nicht lesen.
+
+Step 19/330
+>> German - Luxembourgish
+	Chahzenã kann net Chahr liesen.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	Chahzenã לא יכול לקרוא את Chahr.
+
+Step 21/330
+>> Hebrew - Korean
+	Chahzenã는 Chahr을 읽을 수 없습니다.
+
+Step 22/330
+>> Korean - French
+	Chahzenã ne peut pas lire Chahr.
+
+Step 23/330
+>> French - Slovenian
+	Chahzenã ne more brati Chahra.
+
+Step 24/330
+>> Slovenian - Spanish
+	Chahzenã no puede leer Chahr.
+
+Step 25/330
+>> Spanish - Czech
+	Chahzenã neumí číst Chahr.
+
+Step 26/330
+>> Czech - Italian
+	Chahzenã non sa leggere Chahr.
+
+Step 27/330
+>> Italian - Maltese
+	Chahzenã ma jistax jaqra Chahr.
+
+Step 28/330
+>> Maltese - Estonian
+	Chahzenã ei loe Chahr.
+
+Step 29/330
+>> Estonian - Greek
+	Ο Chahzenã δεν διαβάσει τον Chahr.
+
+Step 30/330
+>> Greek - Turkish
+	Chahzenã, Chahr okumuyor.
+
+Step 31/330
+>> Turkish - Polish
+	Chahzenã, Chahr nie czyta.
+
+Step 32/330
+>> Polish - Arabic
+	Chahzenã ، شهر لا يقرأ.
+
+Step 33/330
+>> Arabic - Catalan
+	Chahzenã, mes no llegeix.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Chahzenã, mėnuo neskaito.
+
+Step 35/330
+>> Lithuanian - Arabic
+	Chahzenã ، الشهر لا يحسب.
+
+Step 36/330
+>> Arabic - Slovak
+	Chahzenã, mesiac sa nezapočítava.
+
+Step 37/330
+>> Slovak - Malay
+	Chahzenã, bulan tidak dikira.
+
+Step 38/330
+>> Malay - Arabic
+	Chahzenã ، لا يحسب القمر.
+
+Step 39/330
+>> Arabic - Latvian
+	Chahzenã, mēness netiek skaitīts.
+
+Step 40/330
+>> Latvian - Portuguese
+	Chahzenã, a lua não está contando.
+
+Step 41/330
+>> Portuguese - Arabic
+	Chahzenã ، والقمر لا تحسب.
+
+Step 42/330
+>> Arabic - Spanish
+	Chahzenã, la luna no se cuenta.
+
+Step 43/330
+>> Spanish - Hungarian
+	Chahzenã, a hold nem számít.
+
+Step 44/330
+>> Hungarian - Croatian
+	Chahzenã, mjesec nije važan.
+
+Step 45/330
+>> Croatian - Spanish
+	Chahzenã, la luna no importa.
+
+Step 46/330
+>> Spanish - Arabic
+	Chahzenã ، القمر لا يهم.
+
+Step 47/330
+>> Arabic - Russian
+	Chahzenã, луна не имеет значения.
+
+Step 48/330
+>> Russian - Albanian
+	Chahzenã, Hëna nuk ka rëndësi.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Chahzenã, Луната няма значение.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Chahzenã, Luna nu contează.
+
+Step 51/330
+>> Romanian - Russian
+	Чахзена, луна не имеет значения.
+
+Step 52/330
+>> Russian - English
+	Chahsen, the moon doesn't matter.
+
+Step 53/330
+>> English - Spanish
+	Chahsen, la luna no importa.
+
+Step 54/330
+>> Spanish - Arabic
+	شاهين ، القمر لا يهم.
+
+Step 55/330
+>> Arabic - Malay
+	Shaheen, bulan tidak penting.
+
+Step 56/330
+>> Malay - English
+	Shaheen, the moon is not important.
+
+Step 57/330
+>> English - Kazakh
+	Шахин, ай маңызды емес.
+
+Step 58/330
+>> Kazakh - Persian
+	شاهین ، ماه مهم نیست.
+
+Step 59/330
+>> Persian - English
+	Hawk, the moon doesn't matter.
+
+Step 60/330
+>> English - French
+	Hawk, la lune n'a pas d'importance.
+
+Step 61/330
+>> French - Spanish
+	Hawk, la luna no importa.
+
+Step 62/330
+>> Spanish - Turkish
+	Şahin, ay önemli değil.
+
+Step 63/330
+>> Turkish - English
+	Hawk, the moon doesn't matter.
+
+Step 64/330
+>> English - Spanish
+	Hawk, la luna no importa.
+
+Step 65/330
+>> Spanish - Serbian
+	Хавк, месец није важан.
+
+Step 66/330
+>> Serbian - Albanian
+	Havk, Hëna nuk ka rëndësi.
+
+Step 67/330
+>> Albanian - English
+	Havk, the Moon doesn't matter.
+
+Step 68/330
+>> English - Georgian
+	პასუხი, მთვარე არ აქვს მნიშვნელობა.
+
+Step 69/330
+>> Georgian - English
+	Answer, the moon does not matter.
+
+Step 70/330
+>> English - Spanish
+	Respuesta, la luna no importa.
+
+Step 71/330
+>> Spanish - English
+	Answer, the moon does not matter.
+
+Step 72/330
+>> English - Sinhala
+	පිළිතුර, සඳ වැදගත් නැත.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Odgovor je, mjesec nije važan.
+
+Step 74/330
+>> Bosnian - Spanish
+	La respuesta es que la luna no importa.
+
+Step 75/330
+>> Spanish - Portuguese
+	A resposta é que a lua não importa.
+
+Step 76/330
+>> Portuguese - Arabic
+	الجواب هو أن القمر لا يهم.
+
+Step 77/330
+>> Arabic - Macedonian
+	Одговорот е дека Месечината не е важна.
+
+Step 78/330
+>> Macedonian - Armenian
+	Պատասխանն այն է, որ լուսինը նշանակություն չունի:
+
+Step 79/330
+>> Armenian - Thai
+	คำตอบคือดวงจันทร์ไม่สำคัญ
+
+Step 80/330
+>> Thai - Arabic
+	الجواب هو أن القمر ليس مهمًا.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	答案是月亮并不重要。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	La respuesta es que la luna no es importante.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Відповідь - Місяць не важливий.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Respuesta: la luna no es importante.
+
+Step 85/330
+>> Spanish - English
+	Answer: the moon is not important.
+
+Step 86/330
+>> English - Mongolian
+	Хариулт: сар чухал биш.
+
+Step 87/330
+>> Mongolian - Spanish
+	Respuesta: el mes no es importante.
+
+Step 88/330
+>> Spanish - Arabic
+	الجواب: الشهر ليس مهم.
+
+Step 89/330
+>> Arabic - Kurdish
+	Bersiv: Meha ne girîng e.
+
+Step 90/330
+>> Kurdish - English
+	Answer: The month does not matter.
+
+Step 91/330
+>> English - Dutch
+	Antwoord: De maand doet er niet toe.
+
+Step 92/330
+>> Dutch - English
+	Answer: The month does not matter.
+
+Step 93/330
+>> English - Samoan
+	Tali: E le afaina le masina.
+
+Step 94/330
+>> Samoan - Uzbek
+	Javob: Oy nima bo'lishidan qat'iy nazar.
+
+Step 95/330
+>> Uzbek - English
+	A: Whatever the moon is.
+
+Step 96/330
+>> English - Arabic
+	أيًا كان القمر.
+
+Step 97/330
+>> Arabic - French
+	Quelle que soit la lune.
+
+Step 98/330
+>> French - Spanish
+	Lo que sea la luna.
+
+Step 99/330
+>> Spanish - Romanian
+	Oricare ar fi luna.
+
+Step 100/330
+>> Romanian - Filipino
+	Anuman ang buwan.
+
+Step 101/330
+>> Filipino - Zulu
+	Akunandaba inyanga.
+
+Step 102/330
+>> Zulu - Arabic
+	لا يهم القمر.
+
+Step 103/330
+>> Arabic - Indonesian
+	Bulan tidak masalah.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Mặt trăng không quan trọng.
+
+Step 105/330
+>> Vietnamese - Spanish
+	La luna no importa.
+
+Step 106/330
+>> Spanish - Arabic
+	القمر لا يهم.
+
+Step 107/330
+>> Arabic - Spanish
+	La luna no importa.
+
+Step 108/330
+>> Spanish - Russian
+	Луна не имеет значения.
+
+Step 109/330
+>> Russian - Arabic
+	القمر لا يهم.
+
+Step 110/330
+>> Arabic - Spanish
+	La luna no importa.
+
+Step 111/330
+>> Spanish - Portuguese
+	A lua não importa.
+
+Step 112/330
+>> Portuguese - English
+	The moon doesn't matter.
+
+Step 113/330
+>> English - Spanish
+	La luna no importa.
+
+Step 114/330
+>> Spanish - English
+	The moon does not matter.
+
+Step 115/330
+>> English - Hindi
+	चाँद कोई मायने नहीं रखता।
+
+Step 116/330
+>> Hindi - Portuguese
+	A lua não importa
+
+Step 117/330
+>> Portuguese - Spanish
+	La luna no importa
+
+Step 118/330
+>> Spanish - English
+	The moon doesn't matter
+
+Step 119/330
+>> English - Bengali
+	চাঁদ কিছু যায় আসে না
+
+Step 120/330
+>> Bengali - French
+	La lune ne va nulle part
+
+Step 121/330
+>> French - lao
+	ດວງຈັນບໍ່ໄປໃສເລີຍ
+
+Step 122/330
+>> lao - English
+	The moon is not going anywhere
+
+Step 123/330
+>> English - Portuguese
+	A lua não vai a lugar nenhum
+
+Step 124/330
+>> Portuguese - English
+	The moon is not going anywhere
+
+Step 125/330
+>> English - Portuguese
+	A lua não vai a lugar nenhum
+
+Step 126/330
+>> Portuguese - English
+	The moon is not going anywhere
+
+Step 127/330
+>> English - Portuguese
+	A lua não vai a lugar nenhum
+
+Step 128/330
+>> Portuguese - Burmese
+	လဘယ်နေရာမှာမဆိုသွားသည်မဟုတ်
+
+Step 129/330
+>> Burmese - Nepali
+	कहीं जाँदै छैन
+
+Step 130/330
+>> Nepali - Urdu
+	کہیں نہیں جارہے ہیں۔
+
+Step 131/330
+>> Urdu - French
+	Ne pas aller n'importe où.
+
+Step 132/330
+>> French - English
+	Do not go anywhere.
+
+Step 133/330
+>> English - Swahili
+	Usiende popote.
+
+Step 134/330
+>> Swahili - Arabic
+	لا تذهب إلى أي مكان.
+
+Step 135/330
+>> Arabic - Shona
+	Usaenda chero kupi.
+
+Step 136/330
+>> Shona - Hausa
+	Karka tafi ko'ina.
+
+Step 137/330
+>> Hausa - Swahili
+	Usiende popote.
+
+Step 138/330
+>> Swahili - English
+	Don't go anywhere.
+
+Step 139/330
+>> English - Arabic
+	لا تذهب إلى أي مكان.
+
+Step 140/330
+>> Arabic - Malagasy
+	Aza mandeha na aiza na aiza.
+
+Step 141/330
+>> Malagasy - Swahili
+	Usiende popote.
+
+Step 142/330
+>> Swahili - French
+	Ne va nulle part.
+
+Step 143/330
+>> French - Arabic
+	لا تذهب إلى أي مكان.
+
+Step 144/330
+>> Arabic - French
+	Ne va nulle part.
+
+Step 145/330
+>> French - Arabic
+	لا تذهب إلى أي مكان.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Pa ale nenpòt kote.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	چیرې مه ځه.
+
+Step 148/330
+>> Pashto - French
+	Ne pars pas.
+
+Step 149/330
+>> French - Chichewa
+	Osachokapo.
+
+Step 150/330
+>> Chichewa - Arabic
+	لا تذهب بعيدا.
+
+Step 151/330
+>> Arabic - Amharic
+	አትሂድ።
+
+Step 152/330
+>> Amharic - English
+	Don't go.
+
+Step 153/330
+>> English - French
+	Ne pars pas.
+
+Step 154/330
+>> French - Swahili
+	Usiondoke.
+
+Step 155/330
+>> Swahili - Portuguese
+	Não vá embora.
+
+Step 156/330
+>> Portuguese - Arabic
+	لا تذهب بعيدا.
+
+Step 157/330
+>> Arabic - Portuguese
+	Não vá embora.
+
+Step 158/330
+>> Portuguese - English
+	Do not go away.
+
+Step 159/330
+>> English - French
+	Ne pars pas.
+
+Step 160/330
+>> French - English
+	Do not leave.
+
+Step 161/330
+>> English - Swahili
+	Usiondoke.
+
+Step 162/330
+>> Swahili - Arabic
+	لا تغادر
+
+Step 163/330
+>> Arabic - Arabic
+	Do not leave
+
+Step 164/330
+>> Arabic - French
+	Ne pars pas
+
+Step 165/330
+>> French - Hausa
+	Kar ku tafi
+
+Step 166/330
+>> Hausa - French
+	Ne pars pas
+
+Step 167/330
+>> French - Arabic
+	Do not leave
+
+Step 168/330
+>> Arabic - Arabic
+	لا ترحل
+
+Step 169/330
+>> Arabic - Swahili
+	Usiondoke
+
+Step 170/330
+>> Swahili - English
+	Don't leave
+
+Step 171/330
+>> English - French
+	Ne pars pas
+
+Step 172/330
+>> French - English
+	Do not leave
+
+Step 173/330
+>> English - Portuguese
+	Não saia
+
+Step 174/330
+>> Portuguese - Arabic
+	لا تغادر
+
+Step 175/330
+>> Arabic - Portuguese
+	Não deixe
+
+Step 176/330
+>> Portuguese - Swahili
+	Usiruhusu
+
+Step 177/330
+>> Swahili - French
+	Ne le laisse pas aller
+
+Step 178/330
+>> French - English
+	Do not let him go
+
+Step 179/330
+>> English - Amharic
+	እንዲተው አይፍቀዱለት ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	لا تدعها تذهب.
+
+Step 181/330
+>> Arabic - Chichewa
+	Musamulole apite.
+
+Step 182/330
+>> Chichewa - French
+	Ne la laisse pas partir.
+
+Step 183/330
+>> French - Pashto
+	هغه مه پرېږدئ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Pa kite sa rive.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	لا تدع هذا يحدث.
+
+Step 186/330
+>> Arabic - French
+	Ne laissez pas cela arriver.
+
+Step 187/330
+>> French - Arabic
+	لا تدع هذا يحدث.
+
+Step 188/330
+>> Arabic - French
+	Ne laissez pas cela arriver.
+
+Step 189/330
+>> French - Swahili
+	Usiruhusu hii kutokea.
+
+Step 190/330
+>> Swahili - Malagasy
+	Aza avela hitranga izany.
+
+Step 191/330
+>> Malagasy - Arabic
+	لا تدع هذا يحدث.
+
+Step 192/330
+>> Arabic - English
+	Don't let this happen.
+
+Step 193/330
+>> English - Swahili
+	Usiruhusu hii kutokea.
+
+Step 194/330
+>> Swahili - Hausa
+	Kada ku bari wannan ya faru.
+
+Step 195/330
+>> Hausa - Shona
+	Usarega izvi zvichiitika.
+
+Step 196/330
+>> Shona - Arabic
+	لا تدع هذا يحدث.
+
+Step 197/330
+>> Arabic - Swahili
+	Usiruhusu hii kutokea.
+
+Step 198/330
+>> Swahili - English
+	Don't let this happen.
+
+Step 199/330
+>> English - French
+	Ne laissez pas cela arriver.
+
+Step 200/330
+>> French - Urdu
+	ایسا نہ ہونے دو۔
+
+Step 201/330
+>> Urdu - Nepali
+	त्यसो हुन नदिनुहोस्।
+
+Step 202/330
+>> Nepali - Burmese
+	ဒါကြောင့်မဖြစ်ပါစေနဲ့။
+
+Step 203/330
+>> Burmese - Portuguese
+	Então a ira.
+
+Step 204/330
+>> Portuguese - English
+	Then the wrath.
+
+Step 205/330
+>> English - Portuguese
+	Então a ira.
+
+Step 206/330
+>> Portuguese - English
+	Then the wrath.
+
+Step 207/330
+>> English - Portuguese
+	Então a ira.
+
+Step 208/330
+>> Portuguese - English
+	Then the wrath.
+
+Step 209/330
+>> English - lao
+	ຫຼັງຈາກນັ້ນ, ພຣະພິໂລດ.
+
+Step 210/330
+>> lao - French
+	Puis la colère.
+
+Step 211/330
+>> French - Bengali
+	তারপরে রাগ।
+
+Step 212/330
+>> Bengali - English
+	Then anger.
+
+Step 213/330
+>> English - Spanish
+	Entonces ira.
+
+Step 214/330
+>> Spanish - Portuguese
+	Então vá.
+
+Step 215/330
+>> Portuguese - Hindi
+	फिर जाओ।
+
+Step 216/330
+>> Hindi - English
+	Go again
+
+Step 217/330
+>> English - Spanish
+	Ve otra vez
+
+Step 218/330
+>> Spanish - English
+	Go again
+
+Step 219/330
+>> English - Portuguese
+	Vá novamente
+
+Step 220/330
+>> Portuguese - Spanish
+	Ir de nuevo
+
+Step 221/330
+>> Spanish - Arabic
+	اذهب مرة أخرى
+
+Step 222/330
+>> Arabic - Russian
+	Иди снова
+
+Step 223/330
+>> Russian - Spanish
+	Ir de nuevo
+
+Step 224/330
+>> Spanish - Arabic
+	اذهب مرة أخرى
+
+Step 225/330
+>> Arabic - Spanish
+	Ir de nuevo
+
+Step 226/330
+>> Spanish - Vietnamese
+	Đi lần nữa
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Pergi lagi
+
+Step 228/330
+>> Indonesian - Arabic
+	اذهب مرة أخرى
+
+Step 229/330
+>> Arabic - Zulu
+	Iya futhi
+
+Step 230/330
+>> Zulu - Filipino
+	Pumunta ulit
+
+Step 231/330
+>> Filipino - Romanian
+	Du-te din nou
+
+Step 232/330
+>> Romanian - Spanish
+	Ir de nuevo
+
+Step 233/330
+>> Spanish - French
+	Aller encore
+
+Step 234/330
+>> French - Arabic
+	اذهب مرة أخرى
+
+Step 235/330
+>> Arabic - English
+	Go again
+
+Step 236/330
+>> English - Uzbek
+	Yana boring
+
+Step 237/330
+>> Uzbek - Samoan
+	Toe alu
+
+Step 238/330
+>> Samoan - English
+	Go back
+
+Step 239/330
+>> English - Dutch
+	Ga terug
+
+Step 240/330
+>> Dutch - English
+	Go back
+
+Step 241/330
+>> English - Kurdish
+	Min himbêz bike
+
+Step 242/330
+>> Kurdish - Arabic
+	احتضني
+
+Step 243/330
+>> Arabic - Spanish
+	Abrázame
+
+Step 244/330
+>> Spanish - Mongolian
+	Намайг барь
+
+Step 245/330
+>> Mongolian - English
+	Hold me up
+
+Step 246/330
+>> English - Spanish
+	Conténme
+
+Step 247/330
+>> Spanish - Ukrainian
+	Містить мене
+
+Step 248/330
+>> Ukrainian - Spanish
+	Me contiene
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	它包含了我
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	انه يحتوي علي
+
+Step 251/330
+>> Arabic - Thai
+	มันมี
+
+Step 252/330
+>> Thai - Armenian
+	Այն ունի
+
+Step 253/330
+>> Armenian - Macedonian
+	Има:
+
+Step 254/330
+>> Macedonian - Arabic
+	هناك:
+
+Step 255/330
+>> Arabic - Portuguese
+	Existem:
+
+Step 256/330
+>> Portuguese - Spanish
+	Hay:
+
+Step 257/330
+>> Spanish - Bosnian
+	Postoje:
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඇත:
+
+Step 259/330
+>> Sinhala - English
+	has:
+
+Step 260/330
+>> English - Spanish
+	tiene:
+
+Step 261/330
+>> Spanish - English
+	have:
+
+Step 262/330
+>> English - Georgian
+	აქვს:
+
+Step 263/330
+>> Georgian - English
+	has:
+
+Step 264/330
+>> English - Albanian
+	ka:
+
+Step 265/330
+>> Albanian - Serbian
+	То је:
+
+Step 266/330
+>> Serbian - Spanish
+	Esto es:
+
+Step 267/330
+>> Spanish - English
+	This is:
+
+Step 268/330
+>> English - Turkish
+	Bu:
+
+Step 269/330
+>> Turkish - Spanish
+	esto:
+
+Step 270/330
+>> Spanish - French
+	ceci:
+
+Step 271/330
+>> French - English
+	this:
+
+Step 272/330
+>> English - Persian
+	این:
+
+Step 273/330
+>> Persian - Kazakh
+	Бұл:
+
+Step 274/330
+>> Kazakh - English
+	This:
+
+Step 275/330
+>> English - Malay
+	Ini:
+
+Step 276/330
+>> Malay - Arabic
+	هذه هي:
+
+Step 277/330
+>> Arabic - Spanish
+	Estos son:
+
+Step 278/330
+>> Spanish - English
+	These are:
+
+Step 279/330
+>> English - Russian
+	Это:
+
+Step 280/330
+>> Russian - Romanian
+	Acesta este:
+
+Step 281/330
+>> Romanian - Bulgarian
+	Това е:
+
+Step 282/330
+>> Bulgarian - Albanian
+	Kjo është:
+
+Step 283/330
+>> Albanian - Russian
+	Это:
+
+Step 284/330
+>> Russian - Arabic
+	هذا هو:
+
+Step 285/330
+>> Arabic - Spanish
+	Esto es:
+
+Step 286/330
+>> Spanish - Croatian
+	Ovo je:
+
+Step 287/330
+>> Croatian - Hungarian
+	Ez a következő:
+
+Step 288/330
+>> Hungarian - Spanish
+	Esto es:
+
+Step 289/330
+>> Spanish - Arabic
+	هذا هو:
+
+Step 290/330
+>> Arabic - Portuguese
+	Isto é:
+
+Step 291/330
+>> Portuguese - Latvian
+	Tas ir:
+
+Step 292/330
+>> Latvian - Arabic
+	إنه:
+
+Step 293/330
+>> Arabic - Malay
+	Ia adalah:
+
+Step 294/330
+>> Malay - Slovak
+	Sú to:
+
+Step 295/330
+>> Slovak - Arabic
+	هم:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Jie yra:
+
+Step 297/330
+>> Lithuanian - Catalan
+	Són:
+
+Step 298/330
+>> Catalan - Arabic
+	هم:
+
+Step 299/330
+>> Arabic - Polish
+	Są to:
+
+Step 300/330
+>> Polish - Turkish
+	Onlar:
+
+Step 301/330
+>> Turkish - Greek
+	είναι:
+
+Step 302/330
+>> Greek - Estonian
+	on:
+
+Step 303/330
+>> Estonian - Maltese
+	huwa:
+
+Step 304/330
+>> Maltese - Italian
+	è:
+
+Step 305/330
+>> Italian - Czech
+	to je:
+
+Step 306/330
+>> Czech - Spanish
+	es decir:
+
+Step 307/330
+>> Spanish - Slovenian
+	to pomeni:
+
+Step 308/330
+>> Slovenian - French
+	cela signifie:
+
+Step 309/330
+>> French - Korean
+	그것은 의미합니다 :
+
+Step 310/330
+>> Korean - Hebrew
+	זה אומר:
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Et heescht:
+
+Step 312/330
+>> Luxembourgish - German
+	Es bedeutet:
+
+Step 313/330
+>> German - Japanese
+	意味：
+
+Step 314/330
+>> Japanese - German
+	Bedeutung:
+
+Step 315/330
+>> German - Dutch
+	dat wil zeggen:
+
+Step 316/330
+>> Dutch - Maori
+	ara ko:
+
+Step 317/330
+>> Maori - Finnish
+	se on:
+
+Step 318/330
+>> Finnish - English
+	it is:
+
+Step 319/330
+>> English - Danish
+	det er:
+
+Step 320/330
+>> Danish - Dutch
+	dat is:
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	那是：
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Det är:
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	它是：
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Það er:
+
+Step 325/330
+>> Icelandic - German
+	Es ist:
+
+Step 326/330
+>> German - Irish
+	Is é:
+
+Step 327/330
+>> Irish - English
+	It is:
+
+Step 328/330
+>> English - German
+	Es ist:
+
+Step 329/330
+>> German - Norwegian
+	Det er:
+
+Step 330/330
+>> Norwegian - Portuguese
+	Existem:
+
+
+##### RESULTS ######
+
+Chahzenã não pôde resistir às instâncias de Chahriar.
+
+Existem:

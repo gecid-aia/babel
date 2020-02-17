@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O gênio nada poupou para comover o pescador. “Abre o vaso, disse ele, dá-me a liberdade, eu te suplico, e tu ficarás contente.” “Não passas de um traidor, retrucou o pescador. E eu mereceria perder a vida, se tivesse a imprudência de me fiar de ti. Não deixarias de tratar-me como certo rei grego tratou o médico Dubã. É uma história que desejo contar-te. Ouve-a, pois”.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Geniet sparte ingenting for å bevege fiskeren. "Åpne fartøyet, sa han, gi meg frihet, jeg ber deg, og du vil være glad." Og jeg ville fortjent å miste livet mitt hvis jeg hadde nærhet til å stole på meg selv med deg. Du ville ikke unnlate å behandle meg som en viss gresk konge behandlet doktor Duban. Det er en historie jeg vil fortelle deg. Hør på henne da. ”
+
+Step 2/330
+>> Norwegian - German
+	Das Genie rettete nichts, um den Fischer zu bewegen. "Öffne das Gefäß", sagte er, "gib mir Freiheit, ich bitte dich, und du wirst glücklich sein." Und ich hätte es verdient, mein Leben zu verlieren, wenn ich die Nähe hätte, mich dir anzuvertrauen. Sie würden es nicht versäumen, mich wie einen gewissen griechischen König zu behandeln, der Doktor Duban behandelt. Es ist eine Geschichte, die ich dir erzählen möchte. Hör ihr dann zu. "
+
+Step 3/330
+>> German - English
+	The genius did not save anything to move the fisherman. "Open the jar," he said, "give me freedom, I beg you, and you will be happy." And I deserve to lose my life if I had the closeness to confide in you. They would not fail to treat me like some Greek king treating Doctor Duban. It's a story I want to tell you. Listen to her then. "
+
+Step 4/330
+>> English - Irish
+	Níor shábháil an genius aon rud chun an t-iascaire a bhogadh. "Oscail an próca," a dúirt sé, "tabhair saoirse dom, cuirim thú, agus beidh tú sásta." Agus tá mé ag súil le mo shaol a chailleadh má bhí an ghaireacht agam domsa a thabhairt suas. Ní theipfeadh orthu cóireáil a thabhairt dom ar nós roinnt rí Gréige a dhéileálann le Dochtúir Duban. Scéal is mian liom a insint duit. Éist léi ansin. "
+
+Step 5/330
+>> Irish - German
+	Das Genie hat nichts gerettet, um den Fischer zu bewegen. "Öffne das Glas", sagte er, "gib mir die Freiheit, ich werde dich senden, und du wirst glücklich sein." Und ich freue mich darauf, mein Leben zu verlieren, wenn ich die Liebe hätte aufzugeben. Sie würden es nicht versäumen, mich wie einen griechischen König zu behandeln, der sich mit Doktor Duban befasst. Geschichte, die ich dir erzählen möchte. Hör ihr dort zu. "
+
+Step 6/330
+>> German - Icelandic
+	Snillingurinn hefur ekki bjargað neinu við að hreyfa sjómanninn. „Opnaðu glerið," sagði hann, „gefðu mér frelsið, ég sendi þér og þú munt verða ánægður." Og ég hlakka til að missa líf mitt ef ég hefði ást til að gefast upp. Þú myndir ekki sleppa því að koma fram við mig eins og grískan konung sem fæst við doktor Duban. Sagan sem mig langar að segja þér. Hlustaðu á hana þar. "
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	天才在移動水手時沒有保存任何東西。 “打開玻璃杯，”他說，“給我自由;我會送你，你會很高興。”如果我有愛放棄，我期待失去生命。你不想像對待杜班博士的希臘國王那樣對待我。我要告訴你的故事。聽那裡。 “
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Geniet räddade ingenting när han flyttade sjömannen. "Öppna glaset," sade han, "ge mig frihet; jag skickar dig, du kommer att bli mycket glad." Om jag har kärlek att ge upp, ser jag fram emot att förlora mitt liv. Du vill inte behandla mig som Dr. Dubans grekiska kung. Jag vill berätta din historia. Lyssna där. "
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	當他移動水手時，天才沒有任何東西。 “打開玻璃杯，”他說，“給我自由;我會送你，你會很開心的。”如果我有愛放棄，我期待失去生命。你不想像博士那樣對待我杜班的希臘國王。我想講述你的故事。聽那裡“
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Wanneer hij de matroos beweegt, heeft het genie niets. "Open het glas," zei hij, "geef me vrijheid; ik zal je sturen, je zult heel gelukkig zijn." Als ik graag opgeef, kijk ik ernaar uit mijn leven te verliezen. Je wilt mijn Griekse koning van Duban niet als een dokter behandelen. Ik wil je verhaal vertellen. Luister daar "
+
+Step 11/330
+>> Dutch - Danish
+	Når han flytter matrosen, har geniet intet. "Åbn glasset," sagde han, "give mig frihed; jeg sender dig, du vil være meget glad." Hvis jeg kan lide at give op, ser jeg frem til at miste mit liv. Du vil ikke behandle min græske konge af Duban som en læge. Jeg vil fortælle din historie. Lyt der "
+
+Step 12/330
+>> Danish - English
+	When he moves the sailor, the genius has nothing. "Open the glass," he said, "give me freedom; I'll send you, you'll be very happy." If I like to give up, I look forward to losing my life. You will not treat my Greek king of Duban like a doctor. I want to tell your story. Listen there "
+
+Step 13/330
+>> English - Finnish
+	Kun hän siirtää merimiestä, neroella ei ole mitään. "Avaa lasi", hän sanoi, "anna minulle vapaus; lähetän sinulle, olet hyvin onnellinen." Jos haluan luopua, odotan innostuneeni elämäni menettämisestä. Et kohtele Kreikan Dubanin kuninkaani kuin lääkäri. Haluan kertoa tarinasi. Kuuntele siellä "
+
+Step 14/330
+>> Finnish - Maori
+	Ka neke ana ia i te kaima, kaore he mea noa. "I whakatuwherahia te karaihe," ka mea mai ki a au, "homai ki a au te tikanga here; ka tukuna atu e ahau, ka tino koa koe." Mena kei te pirangi au ki te turaki, kei te anga whakamua ahau kia ngaro taku oranga. Kihai koe i aro ki taku kingi Kariki o Duban ki te taote. Kei te hiahia au ki te korero i to korero. Whakarongo ki reira "
+
+Step 15/330
+>> Maori - Dutch
+	Toen hij de vrachtwagen verplaatste, was het niets. "Het glas werd geopend," zei hij tegen mij, "geef me de vrijheid; ik zal het doorgeven en je zult heel gelukkig zijn." Als ik wil pushen, ga ik vooruit om mijn leven te verliezen. Je hebt mijn Griekse koning van Duban niet naar een arts verwezen. Ik wil je verhaal vertellen. Luister daar "
+
+Step 16/330
+>> Dutch - German
+	Als er den Lastwagen bewegte, war es nichts. "Das Glas wurde geöffnet", sagte er zu mir, "gib mir die Freiheit; ich werde es weitergeben und du wirst sehr glücklich sein." Wenn ich pushen will, gehe ich vorwärts, um mein Leben zu verlieren. Sie haben meinen griechischen König von Duban nicht an einen Arzt überwiesen. Ich möchte deine Geschichte erzählen. Hören Sie dort "
+
+Step 17/330
+>> German - Japanese
+	彼がトラックを動かしたとき、それは何もありませんでした。 「ガラスが開かれました」と彼は私に言った。プッシュしたい場合、私は私の人生を失うことを楽しみにしています。あなたは私のギリシャの王様をドゥバンから医者に移しませんでした。あなたの話をしたいです。聞いて」
+
+Step 18/330
+>> Japanese - German
+	Als er die Strecke verlegte, war es nichts. "Das Glas wurde geöffnet", sagte er mir. Ich freue mich darauf, mein Leben zu verlieren, wenn ich Druck machen will. Sie haben meinen griechischen König nicht von Duban zu einem Arzt gebracht. Ich möchte über dich reden Hör zu. "
+
+Step 19/330
+>> German - Luxembourgish
+	Wéi hien d'Streck geréckelt huet, war et näischt. "D'Glas gouf opgaang," sot hien. Ech freeën mech fir mäi Liewen ze verléieren wann ech dréckt. Dir hutt mäi griichesche Kinnek vum Duban net bei engem Dokter bruecht. Ech wëll iwwer dech lauschteren Lauschtert. "
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כשהוא העביר את המסלול, זה לא היה כלום. "הכוס פוצצה," אמר. אני מצפה לאבד את חיי כשאני דוחף. לא הבאת לרופא את מלך יווני מדובאן. אני רוצה לשמוע עלייך שמע. "
+
+Step 21/330
+>> Hebrew - Korean
+	그가 트랙을 통과했을 때, 그것은 아무것도 아니었다. "유리가 터졌다"고 말했다. 나는 밀면서 내 목숨을 잃기를 기대합니다. 그리스의 두반 왕에게 의사를 데려 오지 않았습니다. 당신에 대해 듣고 싶습니다. "
+
+Step 22/330
+>> Korean - French
+	Quand il a passé la piste, ce n'était rien. "Le verre s'est brisé," dit-il. Je m'attends à perdre la vie en poussant. N'a pas amené le docteur au roi de Durban de Grèce. Je veux entendre parler de vous "
+
+Step 23/330
+>> French - Slovenian
+	Ko je prehodil progo, ni bilo nič. "Steklo se je pokvarilo," pravi. Pričakujem, da bom s pritiskom izgubil življenje. Ni pripeljal zdravnika grškega kralja Durbana. Želim slišati od vas "
+
+Step 24/330
+>> Slovenian - Spanish
+	No había nada cuando cruzó la línea. "El cristal se rompió", dice. Espero perder mi vida con presión. No trajo al doctor del rey griego Durban. Quiero saber de ti "
+
+Step 25/330
+>> Spanish - Czech
+	Když překročil hranici, nebylo nic. „Sklo se rozbilo,“ říká. Doufám, že ztratím svůj život pod tlakem. Nepřivezl doktora řeckého krále Durbana. Chci od tebe slyšet “
+
+Step 26/330
+>> Czech - Italian
+	Quando ha attraversato la linea, non c'era nulla. "Il vetro si è frantumato", dice. Spero di perdere la vita sotto pressione. Non ha portato il dottore del re Durban di Grecia. Voglio sentirti ”
+
+Step 27/330
+>> Italian - Maltese
+	Meta qasam il-linja, ma kien hemm xejn. "Il-ħġieġa għebet," jgħid. Nispera li titlef ħajti taħt pressjoni. Huwa ma ġabx it-tabib tar-re ta 'Durban fil-Greċja. Irrid nisma int "
+
+Step 28/330
+>> Maltese - Estonian
+	Kui jõujoonte, seal polnud midagi. "Klaasist purunesid," ütleb ta. Loodan, et kaotada oma elu surve all. Ta ei tegutsenud arst kuninga Durban Kreekas. Ma kuulsin, et sa "
+
+Step 29/330
+>> Estonian - Greek
+	Εάν οι γραμμές μεταφοράς ηλεκτρικής ενέργειας, δεν υπήρχε τίποτα. "Το γυαλί θρυμματίζεται", λέει. Ελπίζω να χάσω τη ζωή μου υπό πίεση. Δεν είχε ενεργήσει ως γιατρός για τον βασιλιά Durban στην Ελλάδα. Σας άκουσα "
+
+Step 30/330
+>> Greek - Turkish
+	Elektrik iletim hatları olsaydı, hiçbir şey yoktu. “Cam kırılıyor” diyor. Umarım baskı altında hayatımı kaybederim. Yunanistan'da Kral Durban için doktor olarak hareket etmedi. Seni duydum "
+
+Step 31/330
+>> Turkish - Polish
+	Jeśli istniałyby linie przesyłowe energii elektrycznej, nic nie było. „Szkło pęka, albo mówi. Mam nadzieję, że umrę pod presją. Nie działał jako lekarz dla króla Durbana w Grecji. Słyszałem cię
+
+Step 32/330
+>> Polish - Arabic
+	إذا كان هناك خطوط نقل الكهرباء ، لم يكن هناك شيء. "الزجاج ينكسر أو يقول. آمل أن أموت تحت الضغط. لم يعمل كطبيب للملك ديربان في اليونان. سمعتك
+
+Step 33/330
+>> Arabic - Catalan
+	Si hi hagués línies de transmissió d’energia elèctrica, no hi havia res. "El vidre es trenca o diu. Espero que morgui sota pressió. No va treballar com a metge per al rei Durban a Grècia.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Jei buvo elektros perdavimo linijos, nieko nebuvo. "Stiklas lūžta ar sako. Tikiuosi, kad jis mirė dėl slėgio. Jis nedirbo Graikijos karaliaus Durbano gydytoju.
+
+Step 35/330
+>> Lithuanian - Arabic
+	إذا كان هناك خط كهرباء ، فلا يوجد شيء. "الزجاج ينكسر أو يقول. آمل أن يكون قد مات بسبب الضغط. لم يعمل كطبيب في ديربان ، ملك اليونان.
+
+Step 36/330
+>> Arabic - Slovak
+	Ak existuje elektrické vedenie, neexistuje nič. „Sklo sa rozbije alebo hovorí. Dúfam, že zomrel kvôli nátlaku. Nepracoval ako doktor v gréckom kráľovi Durbane.
+
+Step 37/330
+>> Slovak - Malay
+	Jika terdapat garis kuasa, tidak ada apa-apa. "Kaca pecah atau berkata. Saya harap dia mati kerana paksaan. Dia tidak bekerja sebagai doktor di King Durban, Greece.
+
+Step 38/330
+>> Malay - Arabic
+	إذا كان هناك خط كهرباء ، فلا يوجد شيء. "الزجاج المحطم أو قال.
+
+Step 39/330
+>> Arabic - Latvian
+	Ja ir elektrolīnija, tad nekas nav. "Stikls sadrūma vai teica.
+
+Step 40/330
+>> Latvian - Portuguese
+	Se houver uma linha de energia, nada será. "O copo quebrou ou disse.
+
+Step 41/330
+>> Portuguese - Arabic
+	إذا كان هناك خط كهرباء ، فلن يكون هناك شيء. "كسر الزجاج أو قال.
+
+Step 42/330
+>> Arabic - Spanish
+	Si hay una línea eléctrica, no habrá nada. "El cristal se rompió o dijo.
+
+Step 43/330
+>> Spanish - Hungarian
+	Ha van távvezeték, akkor semmi sem lesz. "Az üveg eltört vagy azt mondta.
+
+Step 44/330
+>> Hungarian - Croatian
+	Ako postoji dalekovod, ništa se neće dogoditi. "Čaša je razbijena ili rečena.
+
+Step 45/330
+>> Croatian - Spanish
+	Si hay una línea de transmisión, no pasará nada. "El cristal está roto o dicho.
+
+Step 46/330
+>> Spanish - Arabic
+	إذا كان هناك خط نقل ، فلن يحدث شيء. "الكريستال مكسور أو قال.
+
+Step 47/330
+>> Arabic - Russian
+	Если есть линия электропередачи, ничего не произойдет. "Кристалл разбит или сказал.
+
+Step 48/330
+>> Russian - Albanian
+	Nëse ekziston një linjë e energjisë, asgjë nuk do të ndodhë. "Kristali është thyer ose thënë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Ако има електропровод, нищо няма да се случи. „Кристалът е счупен или казано.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Dacă există o linie electrică, nu se va întâmpla nimic. "Cristalul este spart sau spus.
+
+Step 51/330
+>> Romanian - Russian
+	Если есть линия электропередачи, ничего не произойдет. "Кристалл разбит или сказал.
+
+Step 52/330
+>> Russian - English
+	If there is a power line, nothing will happen. "The crystal is broken or said.
+
+Step 53/330
+>> English - Spanish
+	Si hay una línea eléctrica, no pasará nada. "El cristal está roto o dicho.
+
+Step 54/330
+>> Spanish - Arabic
+	إذا كان هناك خط كهرباء ، فلن يحدث شيء. "الكريستال مكسور أو قال.
+
+Step 55/330
+>> Arabic - Malay
+	Jika terdapat garis kuasa, tiada apa yang akan berlaku. "Kristal rosak atau berkata.
+
+Step 56/330
+>> Malay - English
+	If there is a power line, nothing will happen. "The crystal is broken or said.
+
+Step 57/330
+>> English - Kazakh
+	Егер электр желісі болса, онда ештеңе болмайды. «Хрусталь сынған немесе айтылған.
+
+Step 58/330
+>> Kazakh - Persian
+	اگر خط برق وجود داشته باشد ، هیچ اتفاقی نخواهد افتاد. "کریستال می شکند یا می گوید.
+
+Step 59/330
+>> Persian - English
+	If there is a power line, nothing will happen. "The crystal breaks or says.
+
+Step 60/330
+>> English - French
+	S'il y a une ligne électrique, rien ne se passera. "Le cristal se casse ou se dit.
+
+Step 61/330
+>> French - Spanish
+	Si hay una línea eléctrica, no pasará nada. "El cristal se rompe o se dice.
+
+Step 62/330
+>> Spanish - Turkish
+	Elektrik hattı varsa, hiçbir şey olmayacak. "Cam kırılır veya söylenir.
+
+Step 63/330
+>> Turkish - English
+	If there's a power line, nothing will happen. "The glass is broken or sung.
+
+Step 64/330
+>> English - Spanish
+	Si hay una línea eléctrica, no pasará nada. "El cristal está roto o cantado.
+
+Step 65/330
+>> Spanish - Serbian
+	Ако постоји далековод, ништа се неће догодити. „Кристал је сломљен или певан.
+
+Step 66/330
+>> Serbian - Albanian
+	Nëse ka një linjë transmetimi, asgjë nuk do të ndodhë. "Kristali është thyer ose kënduar.
+
+Step 67/330
+>> Albanian - English
+	If there is a transmission line, nothing will happen. “The crystal is broken or sung.
+
+Step 68/330
+>> English - Georgian
+	თუ არსებობს გადამცემი ხაზი, არაფერი მოხდება. ”ბროლი გატეხილია ან მღეროდა.
+
+Step 69/330
+>> Georgian - English
+	If there is a transmission line, nothing will happen. “The crystal is broken or singing.
+
+Step 70/330
+>> English - Spanish
+	Si hay una línea de transmisión, no pasará nada. “El cristal está roto o cantando.
+
+Step 71/330
+>> Spanish - English
+	If there is a transmission line, nothing will happen. “The crystal is broken or singing.
+
+Step 72/330
+>> English - Sinhala
+	සම්ප්‍රේෂණ මාර්ගයක් තිබේ නම් කිසිවක් සිදු නොවේ. “ස් stal ටිකය කැඩී හෝ ගායනා කරයි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Ako postoji dalekovod, ništa se ne događa. „Štand je polomljen ili otpevan.
+
+Step 74/330
+>> Bosnian - Spanish
+	Si hay una línea de transmisión, no pasa nada. "El soporte está roto o cantado.
+
+Step 75/330
+>> Spanish - Portuguese
+	Se houver uma linha de transmissão, nada acontece. "O suporte está quebrado ou cantado.
+
+Step 76/330
+>> Portuguese - Arabic
+	إذا كان هناك خط نقل ، فلن يحدث شيء. "الدعم مكسور أو سونغ.
+
+Step 77/330
+>> Arabic - Macedonian
+	Ако има далновод, ништо нема да се случи. „Поддршката е скршена или испеана.
+
+Step 78/330
+>> Macedonian - Armenian
+	Եթե կա էլեկտրահաղորդման գիծ, ոչինչ չի պատահի: «Աջակցությունը կոտրված է կամ երգվում է:
+
+Step 79/330
+>> Armenian - Thai
+	หากมีสายไฟจะไม่มีอะไรเกิดขึ้น “ การสนับสนุนแตกหรือร้อง
+
+Step 80/330
+>> Thai - Arabic
+	إذا كان هناك سلك كهرباء ، فلن يحدث شيء. "لقد تم كسر الدعم أو صراخه.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	如果有电源线，什么都不会发生。 “支持已被打破或尖叫。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Si hay un cable de alimentación, no pasará nada. "El soporte se ha roto o gritado.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Якщо є шнур живлення, нічого не станеться. "Підтримка зламана або кричала.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Si hay un cable de alimentación, no pasará nada. "Apoyo roto o gritado.
+
+Step 85/330
+>> Spanish - English
+	If there is a power cord, nothing will happen. "Support broken or shouted.
+
+Step 86/330
+>> English - Mongolian
+	Цахилгаан утас байгаа бол юу ч тохиолдохгүй. "Хагарсан эсвэл хашгирахыг дэмж.
+
+Step 87/330
+>> Mongolian - Spanish
+	No pasa nada allí. "Tornillo o grito.
+
+Step 88/330
+>> Spanish - Arabic
+	لا شيء يحدث هناك. "المسمار أو الصراخ.
+
+Step 89/330
+>> Arabic - Kurdish
+	Li wir tiştek nabe. "Xirab kirin an qîrandin.
+
+Step 90/330
+>> Kurdish - English
+	There will be nothing. “Damaged or screamed.
+
+Step 91/330
+>> English - Dutch
+	Er zal niets zijn. 'Beschadigd of geschreeuwd.
+
+Step 92/330
+>> Dutch - English
+	There will be nothing. 'Damaged or shouted.
+
+Step 93/330
+>> English - Samoan
+	O le a leai se mea. 'Faʻasalaina pe alalaga.
+
+Step 94/330
+>> Samoan - Uzbek
+	Hech narsa bo'lmaydi. 'La'nati yoki qichqirdi.
+
+Step 95/330
+>> Uzbek - English
+	Nothing happens. 'Cursed or shouted.
+
+Step 96/330
+>> English - Arabic
+	لا شيء يحدث. لعن أو صاح.
+
+Step 97/330
+>> Arabic - French
+	Rien ne se passe. Maudit ou crié.
+
+Step 98/330
+>> French - Spanish
+	No pasa nada. Maldito o gritado.
+
+Step 99/330
+>> Spanish - Romanian
+	Nu se întâmplă nimic. Blestemat sau strigat.
+
+Step 100/330
+>> Romanian - Filipino
+	Walang nangyayari. Mapahamak o umiyak.
+
+Step 101/330
+>> Filipino - Zulu
+	Akukho okwenzekayo. Damn noma ukukhala.
+
+Step 102/330
+>> Zulu - Arabic
+	لم يحدث شيء. اللعنة أو البكاء.
+
+Step 103/330
+>> Arabic - Indonesian
+	Tidak ada yang terjadi. Bercinta atau menangis.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Không có gì xảy ra. Làm tình hay khóc.
+
+Step 105/330
+>> Vietnamese - Spanish
+	No paso nada Hacer el amor o llorar.
+
+Step 106/330
+>> Spanish - Arabic
+	لم يحدث شيء اجعل الحب أو البكاء.
+
+Step 107/330
+>> Arabic - Spanish
+	No pasó nada para hacer el amor o llorar.
+
+Step 108/330
+>> Spanish - Russian
+	Ничего не случилось, чтобы заниматься любовью или плакать.
+
+Step 109/330
+>> Russian - Arabic
+	لم يحدث شيء لجعل الحب أو البكاء.
+
+Step 110/330
+>> Arabic - Spanish
+	No pasó nada para hacer el amor o llorar.
+
+Step 111/330
+>> Spanish - Portuguese
+	Nada aconteceu para fazer amor ou chorar.
+
+Step 112/330
+>> Portuguese - English
+	Nothing happened to make love or cry.
+
+Step 113/330
+>> English - Spanish
+	No pasó nada para hacer el amor o llorar.
+
+Step 114/330
+>> Spanish - English
+	Nothing happened to make love or cry.
+
+Step 115/330
+>> English - Hindi
+	प्यार करने या रोने के लिए कुछ नहीं हुआ।
+
+Step 116/330
+>> Hindi - Portuguese
+	Nada aconteceu para amar ou chorar.
+
+Step 117/330
+>> Portuguese - Spanish
+	Nada le pasó al amor o al llanto.
+
+Step 118/330
+>> Spanish - English
+	Nothing happened to love or crying.
+
+Step 119/330
+>> English - Bengali
+	ভালোবাসা বা কাঁদতে কিছুই হয়নি।
+
+Step 120/330
+>> Bengali - French
+	Rien à aimer ou à pleurer.
+
+Step 121/330
+>> French - lao
+	ບໍ່ມີຫຍັງທີ່ຈະຮັກຫຼືຮ້ອງໄຫ້.
+
+Step 122/330
+>> lao - English
+	There is nothing to love or cry about.
+
+Step 123/330
+>> English - Portuguese
+	Não há nada para amar ou chorar.
+
+Step 124/330
+>> Portuguese - English
+	There is nothing to love or cry.
+
+Step 125/330
+>> English - Portuguese
+	Não há nada para amar ou chorar.
+
+Step 126/330
+>> Portuguese - English
+	There is nothing to love or cry.
+
+Step 127/330
+>> English - Portuguese
+	Não há nada para amar ou chorar.
+
+Step 128/330
+>> Portuguese - Burmese
+	ကိုခစျြသို့မဟုတ်ငိုဘာမျှရှိပါသည်။
+
+Step 129/330
+>> Burmese - Nepali
+	त्यहाँ प्रेम वा रुन्छ गर्न केही छ।
+
+Step 130/330
+>> Nepali - Urdu
+	محبت کرنے یا رونے کی کوئی بات نہیں ہے۔
+
+Step 131/330
+>> Urdu - French
+	Il n'y a rien pour aimer ou pleurer.
+
+Step 132/330
+>> French - English
+	There is nothing to love or cry.
+
+Step 133/330
+>> English - Swahili
+	Hakuna cha kupenda au kulia.
+
+Step 134/330
+>> Swahili - Arabic
+	لا شيء للحب أو البكاء ل.
+
+Step 135/330
+>> Arabic - Shona
+	Hapana chekuda kana kuchema.
+
+Step 136/330
+>> Shona - Hausa
+	Babu buƙatar yin kuka ko kuka.
+
+Step 137/330
+>> Hausa - Swahili
+	Hakuna haja ya kulia au kulia.
+
+Step 138/330
+>> Swahili - English
+	No need to cry or cry.
+
+Step 139/330
+>> English - Arabic
+	لا حاجة للبكاء أو البكاء.
+
+Step 140/330
+>> Arabic - Malagasy
+	Tsy mila mitomany na mitomany intsony.
+
+Step 141/330
+>> Malagasy - Swahili
+	Hakuna kulia tena au kulia.
+
+Step 142/330
+>> Swahili - French
+	Pas plus pleurer ou pleurer.
+
+Step 143/330
+>> French - Arabic
+	لا مزيد من البكاء أو البكاء.
+
+Step 144/330
+>> Arabic - French
+	Pas plus pleurer ou pleurer.
+
+Step 145/330
+>> French - Arabic
+	لا مزيد من البكاء أو البكاء.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Pa plis kriye oswa kriye.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	نور ژاړي او نه ژاړي.
+
+Step 148/330
+>> Pashto - French
+	D'autres pleurent et ne pleurent pas.
+
+Step 149/330
+>> French - Chichewa
+	Ena amalira ndipo samalira.
+
+Step 150/330
+>> Chichewa - Arabic
+	بعض البكاء وهم لا يبكون.
+
+Step 151/330
+>> Arabic - Amharic
+	አንዳንዶች አለቀሱ እናም አያለቅስም ፡፡
+
+Step 152/330
+>> Amharic - English
+	Some cried and did not cry.
+
+Step 153/330
+>> English - French
+	Certains ont pleuré et n'ont pas pleuré.
+
+Step 154/330
+>> French - Swahili
+	Wengine walilia na hawaku kulia.
+
+Step 155/330
+>> Swahili - Portuguese
+	Alguns choraram e não choraram.
+
+Step 156/330
+>> Portuguese - Arabic
+	بكى البعض ولم يبكي.
+
+Step 157/330
+>> Arabic - Portuguese
+	Alguns choraram e não choraram.
+
+Step 158/330
+>> Portuguese - English
+	Some cried and did not cry.
+
+Step 159/330
+>> English - French
+	Certains ont pleuré et n'ont pas pleuré.
+
+Step 160/330
+>> French - English
+	Some cried and did not cry.
+
+Step 161/330
+>> English - Swahili
+	Wengine walilia na hawaku kulia.
+
+Step 162/330
+>> Swahili - Arabic
+	بكى البعض ولم يبكوا.
+
+Step 163/330
+>> Arabic - Arabic
+	Some cried and did not cry.
+
+Step 164/330
+>> Arabic - French
+	Certains ont pleuré et n'ont pas pleuré.
+
+Step 165/330
+>> French - Hausa
+	Wasu sun yi kuka kuma ba su yi kuka ba.
+
+Step 166/330
+>> Hausa - French
+	Certains ont pleuré et n'ont pas pleuré.
+
+Step 167/330
+>> French - Arabic
+	Some cried and did not cry.
+
+Step 168/330
+>> Arabic - Arabic
+	بكى البعض ولم يبكي.
+
+Step 169/330
+>> Arabic - Swahili
+	Wengine walilia na hawaku kulia.
+
+Step 170/330
+>> Swahili - English
+	Some cried and they didn't cry.
+
+Step 171/330
+>> English - French
+	Certains ont pleuré et ils n'ont pas pleuré.
+
+Step 172/330
+>> French - English
+	Some cried and they did not cry.
+
+Step 173/330
+>> English - Portuguese
+	Alguns choraram e não choraram.
+
+Step 174/330
+>> Portuguese - Arabic
+	بكى البعض ولم يبكي.
+
+Step 175/330
+>> Arabic - Portuguese
+	Alguns choraram e não choraram.
+
+Step 176/330
+>> Portuguese - Swahili
+	Wengine walilia na hawaku kulia.
+
+Step 177/330
+>> Swahili - French
+	Certains ont pleuré et ils n'ont pas pleuré.
+
+Step 178/330
+>> French - English
+	Some cried and they did not cry.
+
+Step 179/330
+>> English - Amharic
+	አንዳንዶች አለቀሱ ግን አላለቀሱም ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	بكى البعض ولم يبكي.
+
+Step 181/330
+>> Arabic - Chichewa
+	Ena adalira osalira.
+
+Step 182/330
+>> Chichewa - French
+	Certains ont pleuré sans larmes.
+
+Step 183/330
+>> French - Pashto
+	ځینې یې پرته له اوښکو ژړل.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Gen kèk ki pa kriye.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	البعض لا يبكي.
+
+Step 186/330
+>> Arabic - French
+	Certains ne pleurent pas.
+
+Step 187/330
+>> French - Arabic
+	البعض لا يبكي.
+
+Step 188/330
+>> Arabic - French
+	Certains ne pleurent pas.
+
+Step 189/330
+>> French - Swahili
+	Wengine hawalili.
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny sasany tsy manao.
+
+Step 191/330
+>> Malagasy - Arabic
+	البعض لا.
+
+Step 192/330
+>> Arabic - English
+	Some do not.
+
+Step 193/330
+>> English - Swahili
+	Wengine hawafanyi hivyo.
+
+Step 194/330
+>> Swahili - Hausa
+	Wasu ba su yi ba.
+
+Step 195/330
+>> Hausa - Shona
+	Vamwe havadaro.
+
+Step 196/330
+>> Shona - Arabic
+	البعض لا.
+
+Step 197/330
+>> Arabic - Swahili
+	Wengine hawafanyi hivyo.
+
+Step 198/330
+>> Swahili - English
+	Some do not.
+
+Step 199/330
+>> English - French
+	Certains pas.
+
+Step 200/330
+>> French - Urdu
+	کچھ نہیں۔
+
+Step 201/330
+>> Urdu - Nepali
+	केहि छैन
+
+Step 202/330
+>> Nepali - Burmese
+	ဘာမြှ
+
+Step 203/330
+>> Burmese - Portuguese
+	nada
+
+Step 204/330
+>> Portuguese - English
+	anything
+
+Step 205/330
+>> English - Portuguese
+	qualquer coisa
+
+Step 206/330
+>> Portuguese - English
+	anything
+
+Step 207/330
+>> English - Portuguese
+	qualquer coisa
+
+Step 208/330
+>> Portuguese - English
+	anything
+
+Step 209/330
+>> English - lao
+	ແມ່ນຫຍັງ
+
+Step 210/330
+>> lao - French
+	Ce que
+
+Step 211/330
+>> French - Bengali
+	কি
+
+Step 212/330
+>> Bengali - English
+	What
+
+Step 213/330
+>> English - Spanish
+	Qué
+
+Step 214/330
+>> Spanish - Portuguese
+	O que
+
+Step 215/330
+>> Portuguese - Hindi
+	क्या
+
+Step 216/330
+>> Hindi - English
+	what
+
+Step 217/330
+>> English - Spanish
+	qué
+
+Step 218/330
+>> Spanish - English
+	than
+
+Step 219/330
+>> English - Portuguese
+	do que
+
+Step 220/330
+>> Portuguese - Spanish
+	de que
+
+Step 221/330
+>> Spanish - Arabic
+	من ماذا
+
+Step 222/330
+>> Arabic - Russian
+	Из чего
+
+Step 223/330
+>> Russian - Spanish
+	De los cuales
+
+Step 224/330
+>> Spanish - Arabic
+	منها
+
+Step 225/330
+>> Arabic - Spanish
+	Unos
+
+Step 226/330
+>> Spanish - Vietnamese
+	Một số
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Beberapa
+
+Step 228/330
+>> Indonesian - Arabic
+	قليل
+
+Step 229/330
+>> Arabic - Zulu
+	Bambalwa
+
+Step 230/330
+>> Zulu - Filipino
+	Ilang
+
+Step 231/330
+>> Filipino - Romanian
+	pustiu
+
+Step 232/330
+>> Romanian - Spanish
+	desierto
+
+Step 233/330
+>> Spanish - French
+	désert
+
+Step 234/330
+>> French - Arabic
+	برية
+
+Step 235/330
+>> Arabic - English
+	wilderness
+
+Step 236/330
+>> English - Uzbek
+	sahro
+
+Step 237/330
+>> Uzbek - Samoan
+	le toafa
+
+Step 238/330
+>> Samoan - English
+	the desert
+
+Step 239/330
+>> English - Dutch
+	de woestijn
+
+Step 240/330
+>> Dutch - English
+	the desert
+
+Step 241/330
+>> English - Kurdish
+	çolê
+
+Step 242/330
+>> Kurdish - Arabic
+	الصحراء
+
+Step 243/330
+>> Arabic - Spanish
+	El desierto
+
+Step 244/330
+>> Spanish - Mongolian
+	Цөл
+
+Step 245/330
+>> Mongolian - English
+	Desert
+
+Step 246/330
+>> English - Spanish
+	Desierto
+
+Step 247/330
+>> Spanish - Ukrainian
+	Пустеля
+
+Step 248/330
+>> Ukrainian - Spanish
+	Desierto
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	荒野
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	برية
+
+Step 251/330
+>> Arabic - Thai
+	ความเป็นป่า
+
+Step 252/330
+>> Thai - Armenian
+	Անապատ
+
+Step 253/330
+>> Armenian - Macedonian
+	Пустината
+
+Step 254/330
+>> Macedonian - Arabic
+	الصحراء
+
+Step 255/330
+>> Arabic - Portuguese
+	O deserto
+
+Step 256/330
+>> Portuguese - Spanish
+	El desierto
+
+Step 257/330
+>> Spanish - Bosnian
+	Pustinja
+
+Step 258/330
+>> Bosnian - Sinhala
+	කාන්තාරය
+
+Step 259/330
+>> Sinhala - English
+	desert
+
+Step 260/330
+>> English - Spanish
+	Desierto
+
+Step 261/330
+>> Spanish - English
+	Desert
+
+Step 262/330
+>> English - Georgian
+	Უდაბნო
+
+Step 263/330
+>> Georgian - English
+	Wake up
+
+Step 264/330
+>> English - Albanian
+	Zgjohu
+
+Step 265/330
+>> Albanian - Serbian
+	пробудити
+
+Step 266/330
+>> Serbian - Spanish
+	despertar
+
+Step 267/330
+>> Spanish - English
+	wake
+
+Step 268/330
+>> English - Turkish
+	uyanmak
+
+Step 269/330
+>> Turkish - Spanish
+	despertarse
+
+Step 270/330
+>> Spanish - French
+	se réveiller
+
+Step 271/330
+>> French - English
+	to wake up
+
+Step 272/330
+>> English - Persian
+	بیدار شدن
+
+Step 273/330
+>> Persian - Kazakh
+	Ояну үшін
+
+Step 274/330
+>> Kazakh - English
+	To wake up
+
+Step 275/330
+>> English - Malay
+	Untuk bangun
+
+Step 276/330
+>> Malay - Arabic
+	للحصول على ما يصل
+
+Step 277/330
+>> Arabic - Spanish
+	Levantarse
+
+Step 278/330
+>> Spanish - English
+	Stand up
+
+Step 279/330
+>> English - Russian
+	Встаньте
+
+Step 280/330
+>> Russian - Romanian
+	Ridică-te
+
+Step 281/330
+>> Romanian - Bulgarian
+	ставам
+
+Step 282/330
+>> Bulgarian - Albanian
+	ngrihu
+
+Step 283/330
+>> Albanian - Russian
+	вставать
+
+Step 284/330
+>> Russian - Arabic
+	الحصول على ما يصل
+
+Step 285/330
+>> Arabic - Spanish
+	Levantarse
+
+Step 286/330
+>> Spanish - Croatian
+	Ustani
+
+Step 287/330
+>> Croatian - Hungarian
+	ered
+
+Step 288/330
+>> Hungarian - Spanish
+	surgir
+
+Step 289/330
+>> Spanish - Arabic
+	نشأ
+
+Step 290/330
+>> Arabic - Portuguese
+	Ele cresceu
+
+Step 291/330
+>> Portuguese - Latvian
+	Viņš uzauga
+
+Step 292/330
+>> Latvian - Arabic
+	كبر
+
+Step 293/330
+>> Arabic - Malay
+	Membesar
+
+Step 294/330
+>> Malay - Slovak
+	Vyrastá
+
+Step 295/330
+>> Slovak - Arabic
+	يكبر
+
+Step 296/330
+>> Arabic - Lithuanian
+	Užaugti
+
+Step 297/330
+>> Lithuanian - Catalan
+	Per créixer
+
+Step 298/330
+>> Catalan - Arabic
+	لتنمو
+
+Step 299/330
+>> Arabic - Polish
+	Rosnąć
+
+Step 300/330
+>> Polish - Turkish
+	büyümek
+
+Step 301/330
+>> Turkish - Greek
+	μεγαλώνουν
+
+Step 302/330
+>> Greek - Estonian
+	nad kasvavad üles
+
+Step 303/330
+>> Estonian - Maltese
+	dawn jikbru
+
+Step 304/330
+>> Maltese - Italian
+	crescono
+
+Step 305/330
+>> Italian - Czech
+	růst
+
+Step 306/330
+>> Czech - Spanish
+	crecimiento
+
+Step 307/330
+>> Spanish - Slovenian
+	rast
+
+Step 308/330
+>> Slovenian - French
+	la croissance
+
+Step 309/330
+>> French - Korean
+	성장
+
+Step 310/330
+>> Korean - Hebrew
+	לגדול
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Fir ze wuessen
+
+Step 312/330
+>> Luxembourgish - German
+	Zu wachsen
+
+Step 313/330
+>> German - Japanese
+	成長する
+
+Step 314/330
+>> Japanese - German
+	Erwachsen werden
+
+Step 315/330
+>> German - Dutch
+	Om een volwassene te worden
+
+Step 316/330
+>> Dutch - Maori
+	Hei pakeke
+
+Step 317/330
+>> Maori - Finnish
+	Aikuisena
+
+Step 318/330
+>> Finnish - English
+	As an adult,
+
+Step 319/330
+>> English - Danish
+	Som voksen
+
+Step 320/330
+>> Danish - Dutch
+	Als een volwassene
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	作為一個成年人
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Som vuxen
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	作為一個成年人
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Sem fullorðinn maður
+
+Step 325/330
+>> Icelandic - German
+	Als Erwachsener
+
+Step 326/330
+>> German - Irish
+	Mar dhuine fásta
+
+Step 327/330
+>> Irish - English
+	As an adult
+
+Step 328/330
+>> English - German
+	Als ein Erwachsener
+
+Step 329/330
+>> German - Norwegian
+	Som voksen
+
+Step 330/330
+>> Norwegian - Portuguese
+	Como adulto
+
+
+##### RESULTS ######
+
+O gênio nada poupou para comover o pescador. “Abre o vaso, disse ele, dá-me a liberdade, eu te suplico, e tu ficarás contente.” “Não passas de um traidor, retrucou o pescador. E eu mereceria perder a vida, se tivesse a imprudência de me fiar de ti. Não deixarias de tratar-me como certo rei grego tratou o médico Dubã. É uma história que desejo contar-te. Ouve-a, pois”.
+
+Como adulto

@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Após haver ouvido Zobeida com admiração, o califa, por intermédio do grão-vizir, suplicou a Amina que lhe explicasse a razão das cicatrizes...
+
+Step 1/330
+>> Portuguese - Norwegian
+	Etter å ha hørt Zobeida med beundring, ba kalifen, gjennom Grand Vizier, Amina om å forklare henne årsaken til arrene.
+
+Step 2/330
+>> Norwegian - German
+	Nachdem der Kalif durch den Großwesir Zobeida mit Bewunderung gehört hatte, bat er Amina, ihr die Ursache der Narben zu erklären.
+
+Step 3/330
+>> German - English
+	After the caliph was admired by the Grand Vizier Zobeida, he asked Amina to explain the cause of the scars.
+
+Step 4/330
+>> English - Irish
+	Tar éis don Grand Vizier Zobeida an caliph a mheas, d'iarr sé ar Amina cúis na scars a mhíniú.
+
+Step 5/330
+>> Irish - German
+	Nachdem der Großwesir Zobeida den Kalifen in Betracht gezogen hatte, bat er Amina, den Grund für die Narben zu erklären.
+
+Step 6/330
+>> German - Icelandic
+	Eftir að Grand Vizier Zobeida hugleiddi kalífinn bað hann Amina að skýra frá ástæðunni fyrir örunum.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	在Grand Vizier Zobeida思考哈里發之後，他讓阿米娜解釋了傷痕的原因。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Efter att Grand Vizier Zobeida tänkte på kaliven bad han Amina förklara orsaken till ärret.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	在Grand Vizier Zobeida想到哈里發之後，他讓阿米娜解釋了疤痕的原因。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Nadat grootvizier Zobeida aan de kalief dacht, vroeg hij Amina om de oorzaak van het litteken uit te leggen.
+
+Step 11/330
+>> Dutch - Danish
+	Efter Grand Visor Zobeida tænkte på kalifen, bad han Amina om at forklare årsagen til aret.
+
+Step 12/330
+>> Danish - English
+	After Grand Visor Zobeida thought of the caliph, he asked Amina to explain the reason for the scar.
+
+Step 13/330
+>> English - Finnish
+	Kun suurlähettiläs Zobeida ajatteli kalifaa, hän pyysi Aminaa selittämään arven syyn.
+
+Step 14/330
+>> Finnish - Maori
+	I te whakaaro o te Kaihuri Tuarua a Zobeida mo te kawa, ka tono ia ki a Amina ki te whakamaarama i te take o te korowai.
+
+Step 15/330
+>> Maori - Dutch
+	Omdat afgevaardigde Zobeida zich zorgen maakte over het protocol, vroeg hij Amina om de reden voor de mantel uit te leggen.
+
+Step 16/330
+>> Dutch - German
+	Da sich Deputy Zobeida Sorgen um das Protokoll machte, bat er Amina, den Grund für den Umhang zu erläutern.
+
+Step 17/330
+>> German - Japanese
+	副議長のゾベイダはプロトコルについて心配していたので、彼はアミナに外の理由を説明するように頼みました。
+
+Step 18/330
+>> Japanese - German
+	Der stellvertretende Vorsitzende Zobeida war besorgt über das Protokoll und bat Amina, den Grund außerhalb zu erläutern.
+
+Step 19/330
+>> German - Luxembourgish
+	De Vizepräsident Zobeida war iwwer de Protokoll besuergt an huet d'Amina gefrot de Grond dobaussen z'erklären.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	סגן הנשיא זוביידה היה מודאג מהפרוטוקול וביקש מאמינה להסביר את הסיבה שבחוץ.
+
+Step 21/330
+>> Hebrew - Korean
+	Zubeida 부사장은 의정서에 대해 걱정하고 외부 이유를 설명해달라고 요청했습니다.
+
+Step 22/330
+>> Korean - French
+	Le vice-président Zubeida s'inquiète du protocole et demande d'expliquer les raisons externes.
+
+Step 23/330
+>> French - Slovenian
+	Podpredsednik Zubeida skrbi protokol in prosi za razlago zunanjih razlogov.
+
+Step 24/330
+>> Slovenian - Spanish
+	El vicepresidente Zubeida se ocupa del protocolo y pide una explicación de los motivos externos.
+
+Step 25/330
+>> Spanish - Czech
+	Viceprezident Zubeida se zabývá protokolem a žádá o vysvětlení vnějších důvodů.
+
+Step 26/330
+>> Czech - Italian
+	Il vicepresidente Zubeida si occupa del protocollo e chiede una spiegazione di motivi esterni.
+
+Step 27/330
+>> Italian - Maltese
+	Il-Viċi President Zubeida jieħu ħsieb il-protokoll u jitlob spjegazzjoni ta 'raġunijiet esterni.
+
+Step 28/330
+>> Maltese - Estonian
+	Zubeida asepresident eest protokoll ja nõuda selgitust välised põhjused.
+
+Step 29/330
+>> Estonian - Greek
+	Zubeida αντιπρόεδρος για το πρωτόκολλο και απαιτούν μια εξήγηση των εξωτερικών αιτιών.
+
+Step 30/330
+>> Greek - Turkish
+	Zubeida protokolün başkan yardımcısı ve dış nedenlerin açıklamasını gerektiriyor.
+
+Step 31/330
+>> Turkish - Polish
+	Zubeida jest wiceprezesem protokołu i wymaga wyjaśnienia przyczyn zewnętrznych.
+
+Step 32/330
+>> Polish - Arabic
+	زبيدة هو نائب رئيس البروتوكول ويتطلب شرحًا للأسباب الخارجية.
+
+Step 33/330
+>> Arabic - Catalan
+	Zubaydah és el vicepresident del protocol i requereix una explicació de les causes externes.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Zubaydahas yra protokolo viceprezidentas ir reikalauja paaiškinti išorines priežastis.
+
+Step 35/330
+>> Lithuanian - Arabic
+	زبيدة هو نائب رئيس المراسم ويصر على شرح الأسباب الخارجية.
+
+Step 36/330
+>> Arabic - Slovak
+	Zubaydah je zástupcom vedúceho obradu a trvá na vysvetlení vonkajších príčin.
+
+Step 37/330
+>> Slovak - Malay
+	Zubaydah adalah timbalan ketua majlis itu dan menegaskan menjelaskan sebab-sebab luaran.
+
+Step 38/330
+>> Malay - Arabic
+	وكان زبيدة نائب رئيس المجلس وأصر على شرح الأسباب الخارجية.
+
+Step 39/330
+>> Arabic - Latvian
+	Zubaida bija padomes viceprezidents un uzstāja uz ārējo iemeslu skaidrošanu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Zubaida foi vice-presidente do conselho e insistiu em explicar causas externas.
+
+Step 41/330
+>> Portuguese - Arabic
+	وكان زبيدة نائب رئيس مجلس الإدارة وأصر على شرح الأسباب الخارجية.
+
+Step 42/330
+>> Arabic - Spanish
+	Zubaydah fue vicepresidente e insistió en explicar las razones externas.
+
+Step 43/330
+>> Spanish - Hungarian
+	Zubaydah alelnök volt és ragaszkodott a külső okok magyarázatához.
+
+Step 44/330
+>> Hungarian - Croatian
+	Bio je potpredsjednik Zubaydah i inzistirao je na objašnjavanju vanjskih uzroka.
+
+Step 45/330
+>> Croatian - Spanish
+	Fue vicepresidente de Zubaydah e insistió en explicar las causas externas.
+
+Step 46/330
+>> Spanish - Arabic
+	وكان نائب رئيس الزبيدة وأصر على شرح الأسباب الخارجية.
+
+Step 47/330
+>> Arabic - Russian
+	Вице-президент Зубайды настоял на объяснении внешних причин.
+
+Step 48/330
+>> Russian - Albanian
+	Nënkryetari Zubaida insistoi të shpjegonte arsyet e jashtme.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Вицепрезидентът Зубайда настоя за обясняване на външни причини.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Vicepreședintele Zubaida a insistat pe o explicație pentru cauze externe.
+
+Step 51/330
+>> Romanian - Russian
+	Вице-президент Зубайда настоял на объяснении внешних причин.
+
+Step 52/330
+>> Russian - English
+	Vice President Zubaid insisted on explaining external reasons.
+
+Step 53/330
+>> English - Spanish
+	El vicepresidente Zubaid insistió en explicar razones externas.
+
+Step 54/330
+>> Spanish - Arabic
+	نائب الرئيس زبيد أصر على شرح الأسباب الخارجية.
+
+Step 55/330
+>> Arabic - Malay
+	Naib Presiden Zubaid berkeras menjelaskan alasan luaran.
+
+Step 56/330
+>> Malay - English
+	Vice President Zubaid insisted on explaining the external reasons.
+
+Step 57/330
+>> English - Kazakh
+	Вице-президент Зубайд сыртқы себептерді түсіндіруді талап етті.
+
+Step 58/330
+>> Kazakh - Persian
+	معاون رئیس جمهور زباید خواستار توضیح در مورد دلایل خارجی بود.
+
+Step 59/330
+>> Persian - English
+	Vice President Zebid wanted to explain foreign reasons.
+
+Step 60/330
+>> English - French
+	Le vice-président Zebid voulait expliquer des raisons étrangères.
+
+Step 61/330
+>> French - Spanish
+	El vicepresidente Zebid quería explicar razones extranjeras.
+
+Step 62/330
+>> Spanish - Turkish
+	Başkan Yardımcısı Zebid, dış sebepleri açıklamak istedi.
+
+Step 63/330
+>> Turkish - English
+	Vice President Zebid wanted to explain the external causes.
+
+Step 64/330
+>> English - Spanish
+	El vicepresidente Zebid quería explicar las causas externas.
+
+Step 65/330
+>> Spanish - Serbian
+	Потпредседник Зебид је желео да објасни спољне узроке.
+
+Step 66/330
+>> Serbian - Albanian
+	Nënkryetari Zebid dëshironte të shpjegonte shkaqet e jashtme.
+
+Step 67/330
+>> Albanian - English
+	Vice President Zebid wanted to explain the external causes.
+
+Step 68/330
+>> English - Georgian
+	ვიცე-პრეზიდენტს ზებიდს სურდა აეხსნა გარე მიზეზები.
+
+Step 69/330
+>> Georgian - English
+	Vice President Zebid wanted to explain external causes.
+
+Step 70/330
+>> English - Spanish
+	El vicepresidente Zebid quería explicar las causas externas.
+
+Step 71/330
+>> Spanish - English
+	Vice President Zebid wanted to explain the external causes.
+
+Step 72/330
+>> English - Sinhala
+	උප ජනාධිපති සෙබීඩ්ට අවශ්‍ය වූයේ බාහිර හේතු පැහැදිලි කිරීමට ය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Potpredsjednik Zebedee želio je objasniti vanjske razloge.
+
+Step 74/330
+>> Bosnian - Spanish
+	El vicepresidente Zebedee quería explicar las razones externas.
+
+Step 75/330
+>> Spanish - Portuguese
+	O vice-presidente Zebedeu queria explicar os motivos externos.
+
+Step 76/330
+>> Portuguese - Arabic
+	أراد نائب الرئيس زبيدي شرح الأسباب الخارجية.
+
+Step 77/330
+>> Arabic - Macedonian
+	Потпретседателот Зубаиди сакаше да ги објасни надворешните причини.
+
+Step 78/330
+>> Macedonian - Armenian
+	Փոխնախագահ Զուբաիդին ցանկացավ բացատրել արտաքին պատճառները:
+
+Step 79/330
+>> Armenian - Thai
+	รองประธาน Jubaidi ต้องการอธิบายเหตุผลภายนอก
+
+Step 80/330
+>> Thai - Arabic
+	نائب الرئيس الجبيدي يريد شرح الأسباب الخارجية
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	朱贝迪副总统想解释外部原因
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	El vicepresidente Jubedi quiere explicar razones externas.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Віце-президент Джубіді хоче пояснити зовнішні причини.
+
+Step 84/330
+>> Ukrainian - Spanish
+	El vicepresidente Jubidi quiere explicar las causas externas.
+
+Step 85/330
+>> Spanish - English
+	Vice President Jubidi wants to explain the external causes.
+
+Step 86/330
+>> English - Mongolian
+	Дэд ерөнхийлөгч Жубиди гадны шалтгааныг тайлбарлахыг хүсч байна.
+
+Step 87/330
+>> Mongolian - Spanish
+	El vicegobernador Jubidie quiere explicar las causas de causas externas.
+
+Step 88/330
+>> Spanish - Arabic
+	الملازم جوبيدي يريد شرح أسباب الأسباب الخارجية.
+
+Step 89/330
+>> Arabic - Kurdish
+	Lîwa Jobidi dixwaze sedemên sedemên derveyî diyar bike.
+
+Step 90/330
+>> Kurdish - English
+	Labi Jobidi wants to determine the causes of external causes.
+
+Step 91/330
+>> English - Dutch
+	Labi Jobidi wil de oorzaken van externe oorzaken vaststellen.
+
+Step 92/330
+>> Dutch - English
+	Labi Jobidi wants to determine the causes of external causes.
+
+Step 93/330
+>> English - Samoan
+	Labi Jobidi e manaʻo e fuafua mafuaʻaga o mafuaaga mai fafo.
+
+Step 94/330
+>> Samoan - Uzbek
+	Labi Jobidi xorijiy sabablarning sabablarini aniqlashni xohlaydi.
+
+Step 95/330
+>> Uzbek - English
+	Labi Jobidi wants to identify the causes of foreign causes.
+
+Step 96/330
+>> English - Arabic
+	يريد Labi Jobidi تحديد أسباب الأسباب الخارجية.
+
+Step 97/330
+>> Arabic - French
+	Labi Jobidi veut identifier les causes des causes externes.
+
+Step 98/330
+>> French - Spanish
+	Labi Jobidi quiere identificar las causas de causas externas.
+
+Step 99/330
+>> Spanish - Romanian
+	Labi Jobidi vrea să identifice cauzele cauzelor externe.
+
+Step 100/330
+>> Romanian - Filipino
+	Nais ni Labi Jobidi na matukoy ang mga sanhi ng panlabas na sanhi.
+
+Step 101/330
+>> Filipino - Zulu
+	URabi Jobidi ufuna ukubona izimbangela zezimbangela zangaphandle.
+
+Step 102/330
+>> Zulu - Arabic
+	يريد الحاخام جوبيدي معرفة أسباب الأسباب الخارجية.
+
+Step 103/330
+>> Arabic - Indonesian
+	Rabi Jobidi ingin mengetahui penyebab dari luar.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Rabbi Jobidi muốn tìm hiểu nguyên nhân từ bên ngoài.
+
+Step 105/330
+>> Vietnamese - Spanish
+	El rabino Jobidi quiere descubrir la causa desde afuera.
+
+Step 106/330
+>> Spanish - Arabic
+	يريد الحاخام جوبيدي اكتشاف السبب من الخارج.
+
+Step 107/330
+>> Arabic - Spanish
+	El rabino Jobidi quiere saber por qué.
+
+Step 108/330
+>> Spanish - Russian
+	Раввин Джобиди хочет знать почему.
+
+Step 109/330
+>> Russian - Arabic
+	الحاخام جوبيدي يريد أن يعرف السبب.
+
+Step 110/330
+>> Arabic - Spanish
+	El rabino Jobidi quiere saber por qué.
+
+Step 111/330
+>> Spanish - Portuguese
+	O rabino Jobidi quer saber o porquê.
+
+Step 112/330
+>> Portuguese - English
+	Rabbi Jobidi wants to know why.
+
+Step 113/330
+>> English - Spanish
+	El rabino Jobidi quiere saber por qué.
+
+Step 114/330
+>> Spanish - English
+	Rabbi Jobidi wants to know why.
+
+Step 115/330
+>> English - Hindi
+	रब्बी जोबिडी जानना चाहती है कि क्यों।
+
+Step 116/330
+>> Hindi - Portuguese
+	O rabino Jobidi quer saber o porquê.
+
+Step 117/330
+>> Portuguese - Spanish
+	El rabino Jobidi quiere saber por qué.
+
+Step 118/330
+>> Spanish - English
+	Rabbi Jobidi wants to know why.
+
+Step 119/330
+>> English - Bengali
+	রাব্বি জোবিদি কেন জানতে চান।
+
+Step 120/330
+>> Bengali - French
+	Le rabbin Jobidi veut savoir pourquoi.
+
+Step 121/330
+>> French - lao
+	Rabbi Jobidi ຢາກຮູ້ວ່າເປັນຫຍັງ.
+
+Step 122/330
+>> lao - English
+	Rabbi Jobidi wants to know why.
+
+Step 123/330
+>> English - Portuguese
+	O rabino Jobidi quer saber o porquê.
+
+Step 124/330
+>> Portuguese - English
+	Rabbi Jobidi wants to know why.
+
+Step 125/330
+>> English - Portuguese
+	O rabino Jobidi quer saber o porquê.
+
+Step 126/330
+>> Portuguese - English
+	Rabbi Jobidi wants to know why.
+
+Step 127/330
+>> English - Portuguese
+	O rabino Jobidi quer saber o porquê.
+
+Step 128/330
+>> Portuguese - Burmese
+	အဆိုပါ Jobidi ရဗ္ဗိဘာကြောင့်သိရန်လိုသည်။
+
+Step 129/330
+>> Burmese - Nepali
+	को Jobidi राबी किन थाहा गर्न चाहन्छ।
+
+Step 130/330
+>> Nepali - Urdu
+	جوبیدی ربیع کیوں جاننا چاہتی ہے۔
+
+Step 131/330
+>> Urdu - French
+	C'est pourquoi Rabbi veut savoir.
+
+Step 132/330
+>> French - English
+	That's why Rabbi wants to know.
+
+Step 133/330
+>> English - Swahili
+	Ndio maana Rabi anataka kujua.
+
+Step 134/330
+>> Swahili - Arabic
+	لهذا السبب يريد الحاخام أن يعرف.
+
+Step 135/330
+>> Arabic - Shona
+	Ndosaka rabbi achida kuziva.
+
+Step 136/330
+>> Shona - Hausa
+	Wannan shine dalilin da ya sa rabbi yake so ya sani.
+
+Step 137/330
+>> Hausa - Swahili
+	Hii ndio sababu Rabi anataka kujua.
+
+Step 138/330
+>> Swahili - English
+	This is why the Rabbi wants to know.
+
+Step 139/330
+>> English - Arabic
+	لهذا السبب يريد الحاخام أن يعرف.
+
+Step 140/330
+>> Arabic - Malagasy
+	Izany no mahatonga ny raby te hahafantatra.
+
+Step 141/330
+>> Malagasy - Swahili
+	Ndio maana marabi wanataka kujua.
+
+Step 142/330
+>> Swahili - French
+	C'est pourquoi les rabbins veulent savoir.
+
+Step 143/330
+>> French - Arabic
+	لهذا السبب يريد الحاخامات أن يعرفوا.
+
+Step 144/330
+>> Arabic - French
+	C'est pourquoi les rabbins veulent savoir.
+
+Step 145/330
+>> French - Arabic
+	لهذا السبب يريد الحاخامات أن يعرفوا.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Se poutèt sa raben yo vle konnen.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	له همدې امله ربیبي غواړي پوه شي.
+
+Step 148/330
+>> Pashto - French
+	C'est pourquoi le rabbin veut savoir.
+
+Step 149/330
+>> French - Chichewa
+	Ndiye chifukwa chake rabi amafuna kudziwa.
+
+Step 150/330
+>> Chichewa - Arabic
+	لهذا السبب يريد الحاخام أن يعرف.
+
+Step 151/330
+>> Arabic - Amharic
+	ለዚህም ነው ረቢው ማወቅ የፈለገው ፡፡
+
+Step 152/330
+>> Amharic - English
+	That is why the rabbi wanted to know.
+
+Step 153/330
+>> English - French
+	C'est pourquoi le rabbin a voulu savoir.
+
+Step 154/330
+>> French - Swahili
+	Ndio sababu rabi alitaka kujua.
+
+Step 155/330
+>> Swahili - Portuguese
+	Por isso o rabino queria saber.
+
+Step 156/330
+>> Portuguese - Arabic
+	لهذا السبب أراد الحاخام أن يعرف.
+
+Step 157/330
+>> Arabic - Portuguese
+	Por isso o rabino queria saber.
+
+Step 158/330
+>> Portuguese - English
+	That's why the rabbi wanted to know.
+
+Step 159/330
+>> English - French
+	C'est pourquoi le rabbin a voulu savoir.
+
+Step 160/330
+>> French - English
+	That's why the rabbi wanted to know.
+
+Step 161/330
+>> English - Swahili
+	Ndio sababu rabi alitaka kujua.
+
+Step 162/330
+>> Swahili - Arabic
+	لهذا السبب أراد الحاخام أن يعرف.
+
+Step 163/330
+>> Arabic - Arabic
+	That's why the rabbi wanted to know.
+
+Step 164/330
+>> Arabic - French
+	C'est pourquoi le rabbin a voulu savoir.
+
+Step 165/330
+>> French - Hausa
+	Shi yasa rabbi yaso sani.
+
+Step 166/330
+>> Hausa - French
+	C'est pourquoi le rabbin veut savoir.
+
+Step 167/330
+>> French - Arabic
+	That's why the rabbi wants to know.
+
+Step 168/330
+>> Arabic - Arabic
+	لهذا السبب يريد الحاخام أن يعرف.
+
+Step 169/330
+>> Arabic - Swahili
+	Ndio sababu rabi anataka kujua.
+
+Step 170/330
+>> Swahili - English
+	That is why the rabbi wants to know.
+
+Step 171/330
+>> English - French
+	C'est pourquoi le rabbin veut savoir.
+
+Step 172/330
+>> French - English
+	That's why the rabbi wants to know.
+
+Step 173/330
+>> English - Portuguese
+	É por isso que o rabino quer saber.
+
+Step 174/330
+>> Portuguese - Arabic
+	لهذا السبب يريد الحاخام أن يعرف.
+
+Step 175/330
+>> Arabic - Portuguese
+	É por isso que o rabino quer saber.
+
+Step 176/330
+>> Portuguese - Swahili
+	Ndio maana Rabi anataka kujua.
+
+Step 177/330
+>> Swahili - French
+	C'est pourquoi le rabbin veut savoir.
+
+Step 178/330
+>> French - English
+	That's why the rabbi wants to know.
+
+Step 179/330
+>> English - Amharic
+	ለዚህም ነው ረቢው ማወቅ የፈለገው ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	لهذا السبب أراد الحاخام أن يعرف.
+
+Step 181/330
+>> Arabic - Chichewa
+	Ndiye chifukwa chake rabi amafuna kudziwa.
+
+Step 182/330
+>> Chichewa - French
+	C'est pourquoi le rabbin veut savoir.
+
+Step 183/330
+>> French - Pashto
+	له همدې امله ربیبي غواړي پوه شي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Se poutèt sa, rabi a vle konnen.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	لذلك ، يريد الحاخام أن يعرف.
+
+Step 186/330
+>> Arabic - French
+	Par conséquent, le rabbin veut savoir.
+
+Step 187/330
+>> French - Arabic
+	لذلك ، يريد الحاخام أن يعرف.
+
+Step 188/330
+>> Arabic - French
+	Par conséquent, le rabbin veut savoir.
+
+Step 189/330
+>> French - Swahili
+	Kwa hivyo, rabi anataka kujua.
+
+Step 190/330
+>> Swahili - Malagasy
+	Te hahafantatra izany àry ny raby.
+
+Step 191/330
+>> Malagasy - Arabic
+	أراد الحاخامات معرفة ذلك.
+
+Step 192/330
+>> Arabic - English
+	The rabbis wanted to find out.
+
+Step 193/330
+>> English - Swahili
+	Marabi walitaka kujua.
+
+Step 194/330
+>> Swahili - Hausa
+	Malaman malamai sun so sani.
+
+Step 195/330
+>> Hausa - Shona
+	Vadzidzisi vanoda kuziva.
+
+Step 196/330
+>> Shona - Arabic
+	المعلمين بحاجة إلى معرفة.
+
+Step 197/330
+>> Arabic - Swahili
+	Waalimu wanahitaji kujua.
+
+Step 198/330
+>> Swahili - English
+	Teachers need to know.
+
+Step 199/330
+>> English - French
+	Les enseignants ont besoin de savoir.
+
+Step 200/330
+>> French - Urdu
+	اساتذہ کو جاننے کی ضرورت ہے۔
+
+Step 201/330
+>> Urdu - Nepali
+	शिक्षकहरु थाहा पाउनु पर्छ।
+
+Step 202/330
+>> Nepali - Burmese
+	ဆရာ, ဆရာမကိုသိသင့်ပါတယ်။
+
+Step 203/330
+>> Burmese - Portuguese
+	Eles devem saber que o professor, o professor isso.
+
+Step 204/330
+>> Portuguese - English
+	They must know that the teacher, the teacher that.
+
+Step 205/330
+>> English - Portuguese
+	Eles devem saber que o professor, o professor que.
+
+Step 206/330
+>> Portuguese - English
+	They should know that the teacher, the teacher who.
+
+Step 207/330
+>> English - Portuguese
+	Eles devem saber que o professor, o professor que.
+
+Step 208/330
+>> Portuguese - English
+	They should know that the teacher, the teacher who.
+
+Step 209/330
+>> English - lao
+	ພວກເຂົາຄວນຮູ້ວ່າຄູ, ຄູຜູ້ທີ່.
+
+Step 210/330
+>> lao - French
+	Ils devraient connaître l'enseignant, l'enseignant qui.
+
+Step 211/330
+>> French - Bengali
+	তাদের উচিৎ শিক্ষক, যে শিক্ষক।
+
+Step 212/330
+>> Bengali - English
+	They should be teachers, teachers.
+
+Step 213/330
+>> English - Spanish
+	Deberían ser maestros, maestros.
+
+Step 214/330
+>> Spanish - Portuguese
+	Eles devem ser professores, professores.
+
+Step 215/330
+>> Portuguese - Hindi
+	वे शिक्षक, शिक्षक होने चाहिए।
+
+Step 216/330
+>> Hindi - English
+	They should be teachers, teachers.
+
+Step 217/330
+>> English - Spanish
+	Deberían ser maestros, maestros.
+
+Step 218/330
+>> Spanish - English
+	They should be teachers, teachers.
+
+Step 219/330
+>> English - Portuguese
+	Eles devem ser professores, professores.
+
+Step 220/330
+>> Portuguese - Spanish
+	Deben ser maestros, maestros.
+
+Step 221/330
+>> Spanish - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 222/330
+>> Arabic - Russian
+	Они должны быть учителями и учителями.
+
+Step 223/330
+>> Russian - Spanish
+	Deben ser maestros y maestros.
+
+Step 224/330
+>> Spanish - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 225/330
+>> Arabic - Spanish
+	Deben ser maestros y maestros.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Họ phải là giáo viên và giáo viên.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Mereka harus menjadi guru dan guru.
+
+Step 228/330
+>> Indonesian - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 229/330
+>> Arabic - Zulu
+	Kumele babe abafundisi nothisha.
+
+Step 230/330
+>> Zulu - Filipino
+	Dapat silang maging guro at guro.
+
+Step 231/330
+>> Filipino - Romanian
+	Ei trebuie să fie profesori și profesori.
+
+Step 232/330
+>> Romanian - Spanish
+	Deben ser maestros y maestros.
+
+Step 233/330
+>> Spanish - French
+	Ils doivent être des enseignants et des enseignants.
+
+Step 234/330
+>> French - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 235/330
+>> Arabic - English
+	They must be teachers and teachers.
+
+Step 236/330
+>> English - Uzbek
+	Ular o'qituvchi va o'qituvchi bo'lishi kerak.
+
+Step 237/330
+>> Uzbek - Samoan
+	E tatau ona avea i latou ma faiaoga ma faiaoga.
+
+Step 238/330
+>> Samoan - English
+	They have to be teachers and teachers.
+
+Step 239/330
+>> English - Dutch
+	Ze moeten leraren en leraren zijn.
+
+Step 240/330
+>> Dutch - English
+	They must be teachers and teachers.
+
+Step 241/330
+>> English - Kurdish
+	Divê ew bibin mamoste û mamoste.
+
+Step 242/330
+>> Kurdish - Arabic
+	يجب أن يكونوا معلمين ومعلمين.
+
+Step 243/330
+>> Arabic - Spanish
+	Deben ser maestros y maestros.
+
+Step 244/330
+>> Spanish - Mongolian
+	Тэд багш, багш байх ёстой.
+
+Step 245/330
+>> Mongolian - English
+	They must be teachers and teachers.
+
+Step 246/330
+>> English - Spanish
+	Deben ser maestros y maestros.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Вони повинні бути вчителями та вчителями.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Deben ser maestros y maestros.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	他们必须是老师和老师。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 251/330
+>> Arabic - Thai
+	พวกเขาจะต้องเป็นครูและครู
+
+Step 252/330
+>> Thai - Armenian
+	Նրանք պետք է լինեն ուսուցիչներ և ուսուցիչներ:
+
+Step 253/330
+>> Armenian - Macedonian
+	Тие мора да бидат наставници и наставници.
+
+Step 254/330
+>> Macedonian - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 255/330
+>> Arabic - Portuguese
+	Eles devem ser professores e professores.
+
+Step 256/330
+>> Portuguese - Spanish
+	Deben ser maestros y maestros.
+
+Step 257/330
+>> Spanish - Bosnian
+	Moraju biti učitelji i nastavnici.
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඔවුන් ගුරුවරුන් හා ගුරුවරුන් විය යුතුය.
+
+Step 259/330
+>> Sinhala - English
+	They must be teachers and teachers.
+
+Step 260/330
+>> English - Spanish
+	Deben ser maestros y maestros.
+
+Step 261/330
+>> Spanish - English
+	They must be teachers and teachers.
+
+Step 262/330
+>> English - Georgian
+	ისინი უნდა იყვნენ მასწავლებლები და მასწავლებლები.
+
+Step 263/330
+>> Georgian - English
+	They must be teachers and teachers.
+
+Step 264/330
+>> English - Albanian
+	Ata duhet të jenë mësues dhe mësues.
+
+Step 265/330
+>> Albanian - Serbian
+	Они морају бити учитељи и наставници.
+
+Step 266/330
+>> Serbian - Spanish
+	Deben ser maestros y maestros.
+
+Step 267/330
+>> Spanish - English
+	They must be teachers and teachers.
+
+Step 268/330
+>> English - Turkish
+	Öğretmen ve öğretmen olmalılar.
+
+Step 269/330
+>> Turkish - Spanish
+	Deben ser maestros y maestros.
+
+Step 270/330
+>> Spanish - French
+	Ils doivent être des enseignants et des enseignants.
+
+Step 271/330
+>> French - English
+	They must be teachers and teachers.
+
+Step 272/330
+>> English - Persian
+	آنها باید معلم و معلم باشند.
+
+Step 273/330
+>> Persian - Kazakh
+	Олар мұғалімдер мен мұғалімдер болуы керек.
+
+Step 274/330
+>> Kazakh - English
+	They should be teachers and teachers.
+
+Step 275/330
+>> English - Malay
+	Mereka harus menjadi guru dan guru.
+
+Step 276/330
+>> Malay - Arabic
+	يجب أن يكونوا معلمين ومعلمين.
+
+Step 277/330
+>> Arabic - Spanish
+	Deben ser maestros y maestros.
+
+Step 278/330
+>> Spanish - English
+	They must be teachers and teachers.
+
+Step 279/330
+>> English - Russian
+	Они должны быть учителями и учителями.
+
+Step 280/330
+>> Russian - Romanian
+	Ei trebuie să fie profesori și profesori.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Те трябва да бъдат учители и учители.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ata duhet të jenë mësues dhe mësues.
+
+Step 283/330
+>> Albanian - Russian
+	Они должны быть учителями и учителями.
+
+Step 284/330
+>> Russian - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 285/330
+>> Arabic - Spanish
+	Deben ser maestros y maestros.
+
+Step 286/330
+>> Spanish - Croatian
+	Moraju biti učitelji i učitelji.
+
+Step 287/330
+>> Croatian - Hungarian
+	Tanároknak és tanároknak kell lenniük.
+
+Step 288/330
+>> Hungarian - Spanish
+	Tienen que ser maestros y maestros.
+
+Step 289/330
+>> Spanish - Arabic
+	يجب أن يكونوا معلمين ومعلمين.
+
+Step 290/330
+>> Arabic - Portuguese
+	Eles devem ser professores e professores.
+
+Step 291/330
+>> Portuguese - Latvian
+	Viņiem jābūt skolotājiem un skolotājiem.
+
+Step 292/330
+>> Latvian - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 293/330
+>> Arabic - Malay
+	Mereka mestilah guru dan guru.
+
+Step 294/330
+>> Malay - Slovak
+	Musia to byť učitelia a učitelia.
+
+Step 295/330
+>> Slovak - Arabic
+	يجب أن يكونوا المعلمين والمعلمين.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Jie turi būti mokytojai ir mokytojai.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Han de ser mestres i professors.
+
+Step 298/330
+>> Catalan - Arabic
+	يجب أن يكونوا المعلمين والمدرسين.
+
+Step 299/330
+>> Arabic - Polish
+	Muszą być nauczycielami i nauczycielami.
+
+Step 300/330
+>> Polish - Turkish
+	Öğretmen ve öğretmen olmalılar.
+
+Step 301/330
+>> Turkish - Greek
+	Πρέπει να είναι δάσκαλοι και δάσκαλοι.
+
+Step 302/330
+>> Greek - Estonian
+	Nad peavad olema õpetajad ja õpetajad.
+
+Step 303/330
+>> Estonian - Maltese
+	Iridu jkunu għalliema u għalliema.
+
+Step 304/330
+>> Maltese - Italian
+	Devono essere gli insegnanti e gli insegnanti.
+
+Step 305/330
+>> Italian - Czech
+	Musí to být učitelé a učitelé.
+
+Step 306/330
+>> Czech - Spanish
+	Deben ser maestros y maestros.
+
+Step 307/330
+>> Spanish - Slovenian
+	Biti morajo učitelji in učitelji.
+
+Step 308/330
+>> Slovenian - French
+	Ils doivent être des enseignants et des enseignants.
+
+Step 309/330
+>> French - Korean
+	교사와 교사 여야합니다.
+
+Step 310/330
+>> Korean - Hebrew
+	אתה חייב להיות מורה ומורה.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Dir musst Schoulmeeschter an Enseignant sinn.
+
+Step 312/330
+>> Luxembourgish - German
+	Du musst ein Lehrer und ein Lehrer sein.
+
+Step 313/330
+>> German - Japanese
+	あなたは教師であり教師でなければなりません。
+
+Step 314/330
+>> Japanese - German
+	Sie müssen ein Lehrer und ein Lehrer sein.
+
+Step 315/330
+>> German - Dutch
+	Je moet een leraar en een leraar zijn.
+
+Step 316/330
+>> Dutch - Maori
+	Ko te tikanga he kaiwhakaako, he kaiwhakaako.
+
+Step 317/330
+>> Maori - Finnish
+	Se tarkoittaa olla opettaja, opettaja.
+
+Step 318/330
+>> Finnish - English
+	It means being a teacher, a teacher.
+
+Step 319/330
+>> English - Danish
+	Det betyder at være en lærer, en lærer.
+
+Step 320/330
+>> Danish - Dutch
+	Het betekent een leraar zijn, een leraar.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	這意味著成為一名教師，一名教師。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Detta innebär att bli lärare och lärare.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	這意味著成為一名教師和一名教師。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Þetta þýðir að verða kennari og kennari.
+
+Step 325/330
+>> Icelandic - German
+	Das bedeutet, Lehrer und Lehrer zu werden.
+
+Step 326/330
+>> German - Irish
+	Ciallaíonn sé seo a bheith ina mhúinteoir agus ina mhúinteoir.
+
+Step 327/330
+>> Irish - English
+	This means being a teacher and a teacher.
+
+Step 328/330
+>> English - German
+	Das bedeutet, Lehrer und Lehrer zu sein.
+
+Step 329/330
+>> German - Norwegian
+	Dette betyr å være lærer og lærer.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Isso significa ser professor e professor.
+
+
+##### RESULTS ######
+
+Após haver ouvido Zobeida com admiração, o califa, por intermédio do grão-vizir, suplicou a Amina que lhe explicasse a razão das cicatrizes...
+
+Isso significa ser professor e professor.

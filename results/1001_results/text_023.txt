@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Quando terminou de preparar o círculo da maneira pela qual desejava, deteve-se no centro, onde fez abjurações e recitou versículos do Corão. Insensivelmente, o dia foi escurecendo até que sobreveio, na aparência, a noite, com a dissolução da máquina do mundo. Sentimo-nos dominados de extremo terror, aumentado ainda, quando nos vimos de repente na frente do gênio, Filho da filha de Eblis, sob a forma de um leão de espantoso tamanho.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Da han var ferdig med å forberede sirkelen slik han ønsket, stoppet han i sentrum, hvor han gjorde abjekter og resiterte vers fra Koranen. Usynliggjort mørket dagen til det tilsynelatende kom natt, med oppløsningen av verdensmaskinen. Vi ble overveldet med ekstrem terror, enda større da vi plutselig befant oss foran genialiteten, Son of the Eblis datter, i form av en løve av en forbløffende størrelse.
+
+Step 2/330
+>> Norwegian - German
+	Als er den Kreis fertig vorbereitet hatte, blieb er in der Mitte stehen, wo er Gegenstände herstellte und Verse aus dem Koran rezitierte. Unsichtbare Dunkelheit Der Tag der scheinbaren Nacht kam mit der Auflösung der Weltmaschine. Wir waren überwältigt von extremem Entsetzen, noch größer, als wir uns plötzlich vor dem Genie, dem Sohn des Eblis, in Form eines Löwen von erstaunlicher Größe befanden.
+
+Step 3/330
+>> German - English
+	When he had finished preparing the circle, he stopped in the middle, where he made objects and recited verses from the Koran. Invisible darkness The day of the apparent night came with the dissolution of the world machine. We were overwhelmed with extreme horror, even greater, when we suddenly found ourselves in the form of a lion of astonishing greatness before the genius, the son of Eblis.
+
+Step 4/330
+>> English - Irish
+	Nuair a bhí sé críochnaithe ag ullmhú an chiorcail, stop sé sa lár, áit a ndearna sé rudaí agus aithris véarsaí ón Koran. Dorchadas dofheicthe Tháinig lá na hoíche dealraitheach le díscaoileadh an mheaisín dhomhanda. Bhí uafás mór orainn, fiú níos mó, nuair a fuaireamar sinn féin go tobann i bhfoirm leoin maitheasa iontacha os comhair an ghineadóir, mac Eblis.
+
+Step 5/330
+>> Irish - German
+	Als er mit der Vorbereitung des Kreises fertig war, blieb er in der Mitte stehen, wo er Dinge machte und Verse aus dem Koran rezitierte. Unsichtbare Dunkelheit Der Tag der Nacht schien die Auflösung der globalen Maschine zu sein. Wir waren noch entsetzter, als wir uns plötzlich in Form eines großen guten Löwen vor dem Generator befanden, Sohn von Eblis.
+
+Step 6/330
+>> German - Icelandic
+	Þegar hann lauk undirbúningi hringsins hætti hann í miðjunni þar sem hann gerði hluti og sagði upp vísur úr Kóraninum. Invisible Dark Dagurinn í nótt virtist vera upplausn alheimsvélarinnar. Við vorum enn hneyksluð þegar við fundum okkur skyndilega í formi stórs, myndarlegs ljóns fyrir framan rafallinn, sonur Eblis.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	當他準備戒指時，他停在中間，他做了一些事情，並駁回了古蘭經中的經文。隱形黑暗這一天似乎是全球機器的解決方案。當我們突然發現自己在Ebli的兒子發電機前面的一頭大而英俊的獅子時，我們仍感到震驚。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	När han förberedde ringen, stannade han i mitten, han gjorde något och förkastade skrifterna i Koranen. Det osynliga mörkret tycks vara lösningen för den globala maskinen. Vi blev fortfarande chockade när vi plötsligt befann oss i ett stort och stiligt lejon framför Eblis sons generator.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	當他準備好戒指時，他停在中間，做了一些事情，拒絕了古蘭經的經文。看不見的黑暗似乎是全球機器的解決方案。當我們突然發現自己在Ebli的兒子發電機前面的一頭大而英俊的獅子時，我們仍感到震驚。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Toen hij de ring voorbereidde, stopte hij in het midden en deed iets, waarbij hij de geschriften van de koran verwerpt. De onzichtbare duisternis lijkt de oplossing te zijn voor de wereldwijde machine. We waren nog steeds geschokt toen we plotseling in een grote en knappe leeuw voor de generator van Ebli's zoon zaten.
+
+Step 11/330
+>> Dutch - Danish
+	Forberedende ringen stoppede han i midten og gjorde noget og afviste de Koraniske skrifter. Det usynlige mørke synes at være løsningen for den globale maskine. Vi var stadig chokeret, da vi pludselig sad i en stor og smuk løve foran generatoren til Eblis søn.
+
+Step 12/330
+>> Danish - English
+	Preparing the ring, he stopped in the middle and did something and rejected the Quranic scriptures. The invisible darkness seems to be the solution for the global machine. We were still shocked when we suddenly sat in a big and beautiful lion in front of the generator for Ebli's son.
+
+Step 13/330
+>> English - Finnish
+	Valmistelemalla rengasta, hän pysähtyi keskelle ja teki jotain ja hylkäsi koraaniset pyhät kirjoitukset. Näkymätön pimeys näyttää olevan ratkaisu globaalille koneelle. Olimme edelleen järkyttyneitä, kun istuimme yhtäkkiä isossa ja kauniissa leijonassa generaattorin edessä Eblin pojalle.
+
+Step 14/330
+>> Finnish - Maori
+	I a ia e taki ana i te mowhiti, ka tu ia ki waenganui, ka mahi i tetahi mea, ka paopao ana i nga karaipiture o nga Korero. Ko te pouri kore e kitea ko te otinga ki te miihini o te ao. I oho tonu matou i te wa i noho ohorere ai matou ki te Raiona nui me te ataahua i mua o te miihini mo te tama a Ebl.
+
+Step 15/330
+>> Maori - Dutch
+	Terwijl hij de ring leidde, stond hij in het midden, deed iets en verwierp de Geschriften van de evangeliën. Onzichtbare depressie is de oplossing voor de wereldwijde machine. We waren geschokt toen we ontzag hadden voor de grote en mooie leeuw voor de machine voor Ebl's zoon.
+
+Step 16/330
+>> Dutch - German
+	Als er den Ring anführte, stand er in der Mitte, tat etwas und lehnte die Schriften der Evangelien ab. Unsichtbare Depression ist die Lösung für die globale Maschine. Wir waren schockiert, als wir den großen und schönen Löwen für die Maschine für Ebls Sohn fürchteten.
+
+Step 17/330
+>> German - Japanese
+	彼は指輪を指揮しながら、真ん中に立って、何かをして福音書を拒否しました。不可視のうつ病は、グローバルマシンの解決策です。エブルの息子の機械の大きくて美しいライオンを恐れたとき、私たちはショックを受けました。
+
+Step 18/330
+>> Japanese - German
+	Er befahl dem Ring, in der Mitte zu stehen, etwas zu tun und das Evangelium abzulehnen. Unsichtbare Depression ist eine globale Maschinenlösung. Wir waren schockiert, als wir den großen und schönen Löwen von Ebbles Sohnes Maschine fürchteten.
+
+Step 19/330
+>> German - Luxembourgish
+	Hien huet de Ring gebot fir an der Mëtt ze stoen, eppes ze maachen an d'Evangelium ze refuséieren. Invisible Depression ass eng global Maschinnléisung. Mir waren schockéiert wéi mir de groussen a schéine Léiw vun dem Ebble sengem Maschinn gefaart hunn.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	הוא ציווה על הטבעת לעמוד באמצע, לעשות משהו ולדחות את הבשורה. דיכאון בלתי נראה הוא פיתרון מכונות עולמי. היינו המומים כשהרגשנו את האריה הגדול והיפה של המכונה של אייבל.
+
+Step 21/330
+>> Hebrew - Korean
+	그는 반지가 가운데에 서서 무언가를하고 복음을 거절하라고 명령했다. 보이지 않는 우울증은 세계적인 기계 솔루션입니다. 우리는 Able 기계의 아름다운 큰 사자를 느꼈을 때 충격을 받았습니다.
+
+Step 22/330
+>> Korean - French
+	Il a ordonné à l'anneau de se tenir au milieu, de faire quelque chose et de rejeter l'évangile. La dépression invisible est une solution mécanique mondiale. Nous avons été choqués lorsque nous avons senti le beau grand lion de la machine capable.
+
+Step 23/330
+>> French - Slovenian
+	Ukazal je, da mora prstan stati na sredini, narediti nekaj in zavrniti evangelij. Nevidna depresija je globalna mehanska rešitev. Bili smo šokirani, ko smo začutili, kako lep lev stroja je sposoben.
+
+Step 24/330
+>> Slovenian - Spanish
+	Él ordenó que el anillo se parara en el medio, hiciera algo y rechazara el evangelio. La depresión invisible es una solución mecánica global. Nos sorprendió escuchar lo hermosa que es capaz la máquina león.
+
+Step 25/330
+>> Spanish - Czech
+	Nařídil prstenu, aby stál uprostřed, něco udělal a evangelium odmítl. Neviditelná deprese je globální mechanické řešení. Byli jsme překvapeni, když jsme slyšeli, jak krásná je lví stroj schopná.
+
+Step 26/330
+>> Czech - Italian
+	Ordinò all'anello di stare in mezzo, fece qualcosa e rigettò il Vangelo. La depressione invisibile è una soluzione meccanica globale. Siamo rimasti sorpresi nel sentire quanto era bella la macchina del leone.
+
+Step 27/330
+>> Italian - Maltese
+	Huwa ordna li ċ-ċirku joqgħod fin-nofs, għamel xi ħaġa u ċaħad l-Evanġelju. Id-dipressjoni inviżibbli hija soluzzjoni mekkanika globali. Konna sorpriżi li nisma ’kemm kienet sabiħa l-magna tal-iljun.
+
+Step 28/330
+>> Maltese - Estonian
+	Ta tegi ringi seista keset tegi midagi ja lükkas Gospel. Nähtamatu depressiooni on ülemaailmne mehaanilise lahusega. Me olime üllatunud, kui ilus oli lõvi mootori.
+
+Step 29/330
+>> Estonian - Greek
+	Έκανε στάση στη μέση κάνοντας κάτι και απέρριψε το Ευαγγέλιο. Η αόρατη κατάθλιψη είναι μια παγκόσμια μηχανική λύση. Ήμασταν έκπληκτοι για το πόσο όμορφη ήταν η μηχανή του λέοντος.
+
+Step 30/330
+>> Greek - Turkish
+	Ortada bir şeyler yapmayı bıraktı ve İncil'i reddetti. Görünmez depresyon küresel bir mekanik çözümdür. Aslan makinesinin ne kadar güzel olduğuna şaşırdık.
+
+Step 31/330
+>> Turkish - Polish
+	Przestał robić rzeczy i odrzucił Biblię. Niewidzialna depresja jest globalnym rozwiązaniem mechanicznym. Byliśmy zaskoczeni, jak piękna była maszyna lwa.
+
+Step 32/330
+>> Polish - Arabic
+	توقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. لقد فوجئنا بمدى جمال آلة الأسد.
+
+Step 33/330
+>> Arabic - Catalan
+	Deixeu de fer coses i rebutgeu la Bíblia. Hidden Depression és una solució mecànica global. Ens va sorprendre la bellesa de la màquina del lleó.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Nustokite daryti reikalus ir atmeskite Bibliją. Paslėpta depresija yra visuotinis mechaninis sprendimas. Mus nustebino liūto mašinos grožis.
+
+Step 35/330
+>> Lithuanian - Arabic
+	التوقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. لقد دهشنا بجمال آلة الأسد.
+
+Step 36/330
+>> Arabic - Slovak
+	Prestaňte robiť veci a odmietajte Bibliu. Skrytá depresia je globálne mechanické riešenie. Boli sme prekvapení krásou levového stroja.
+
+Step 37/330
+>> Slovak - Malay
+	Berhenti melakukan perkara-perkara dan menolak Alkitab. Kemurungan tersembunyi adalah penyelesaian mekanikal global. Kami terkejut dengan keindahan mesin kiri.
+
+Step 38/330
+>> Malay - Arabic
+	التوقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. فوجئنا بجمال المحرك الأيسر.
+
+Step 39/330
+>> Arabic - Latvian
+	Pārtrauciet darīt lietas un noraidiet Bībeli. Slēptā depresija ir globāls mehānisks risinājums. Mūs pārsteidza kreisā dzinēja skaistums.
+
+Step 40/330
+>> Latvian - Portuguese
+	Pare de fazer as coisas e rejeite a Bíblia. A depressão oculta é uma solução mecânica global. Ficamos impressionados com a beleza do motor esquerdo.
+
+Step 41/330
+>> Portuguese - Arabic
+	التوقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. لقد أعجبنا بجمال المحرك الأيسر.
+
+Step 42/330
+>> Arabic - Spanish
+	Deja de hacer cosas y rechaza la Biblia. La depresión oculta es una solución mecánica global. Nos impresionó la belleza del motor izquierdo.
+
+Step 43/330
+>> Spanish - Hungarian
+	Hagyja abba a dolgok elvégzését, és utasítsa el a Bibliát. A rejtett depresszió globális mechanikai megoldás. Lenyűgözött bennünk a bal motor szépsége.
+
+Step 44/330
+>> Hungarian - Croatian
+	Prestanite raditi stvari i odbacite Bibliju. Skrivena depresija globalno je mehaničko rješenje. Očarala nas je ljepota lijevog motora.
+
+Step 45/330
+>> Croatian - Spanish
+	Deja de hacer cosas y rechaza la Biblia. La depresión oculta es una solución mecánica global. Quedamos hipnotizados por la belleza del motor izquierdo.
+
+Step 46/330
+>> Spanish - Arabic
+	التوقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. كنا منوم بجمال المحرك الأيسر.
+
+Step 47/330
+>> Arabic - Russian
+	Хватит делать вещи и отвергнуть Библию. Скрытая депрессия - это глобальное механическое решение. Мы были загипнотизированы красотой левого двигателя.
+
+Step 48/330
+>> Russian - Albanian
+	Ndaloni të bëni gjëra dhe refuzoni Biblën. Depresioni latent është një zgjidhje mekanike globale. U mahnitëm nga bukuria e motorit të majtë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Спрете да правите нещата и отхвърлете Библията. Латентната депресия е глобално механично решение. Бяхме изумени от красотата на левия двигател.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Nu mai face lucruri și respinge Biblia. Depresia latentă este o soluție mecanică globală. Am fost uimiți de frumusețea motorului din stânga.
+
+Step 51/330
+>> Romanian - Russian
+	Хватит делать вещи и отвергнуть Библию. Скрытая депрессия - это глобальное механическое решение. Мы были поражены красотой двигателя слева.
+
+Step 52/330
+>> Russian - English
+	Stop doing things and reject the Bible. Latent depression is a global mechanical solution. We were struck by the beauty of the engine on the left.
+
+Step 53/330
+>> English - Spanish
+	Deja de hacer cosas y rechaza la Biblia. La depresión latente es una solución mecánica global. Nos sorprendió la belleza del motor a la izquierda.
+
+Step 54/330
+>> Spanish - Arabic
+	التوقف عن فعل الأشياء ورفض الكتاب المقدس. الاكتئاب الكامن هو الحل الميكانيكي العالمي. لقد فوجئنا بجمال المحرك على اليسار.
+
+Step 55/330
+>> Arabic - Malay
+	Berhenti melakukan perkara-perkara dan menolak Alkitab. Kemurungan laten adalah penyelesaian mekanikal global. Kami terkejut dengan keindahan enjin di sebelah kiri.
+
+Step 56/330
+>> Malay - English
+	Stop doing things and reject the Bible. Latent depression is a global mechanical solution. We were surprised by the beauty of the engine on the left.
+
+Step 57/330
+>> English - Kazakh
+	Әрекетті тоқтатып, Киелі кітапты қабылдамаңыз. Жасырын депрессия - бұл ғаламдық механикалық шешім. Біз сол жақтағы қозғалтқыштың сұлулығына таң қалдық.
+
+Step 58/330
+>> Kazakh - Persian
+	فعالیت را متوقف کنید و کتاب مقدس را رد کنید. افسردگی پنهان یک راه حل مکانیکی جهانی است. ما از زیبایی موتور چپ شگفت زده شدیم.
+
+Step 59/330
+>> Persian - English
+	Stop the activity and reject the Bible. Hidden depression is a universal mechanical solution. We were amazed at the beauty of the left engine.
+
+Step 60/330
+>> English - French
+	Arrêtez l'activité et rejetez la Bible. La dépression cachée est une solution mécanique universelle. Nous avons été surpris par la beauté du moteur gauche.
+
+Step 61/330
+>> French - Spanish
+	Pare la actividad y rechace la Biblia. La depresión oculta es una solución mecánica universal. Nos sorprendió la belleza del motor izquierdo.
+
+Step 62/330
+>> Spanish - Turkish
+	Aktiviteyi durdur ve İncil'i reddet. Gizli depresyon evrensel mekanik bir çözümdür. Sol motorun güzelliğine şaşırdık.
+
+Step 63/330
+>> Turkish - English
+	Stop the activity and reject the Bible. Occult depression is a universal mechanical solution. We were surprised by the beauty of the left engine.
+
+Step 64/330
+>> English - Spanish
+	Pare la actividad y rechace la Biblia. La depresión oculta es una solución mecánica universal. Nos sorprendió la belleza del motor izquierdo.
+
+Step 65/330
+>> Spanish - Serbian
+	Зауставите активност и одбаците Библију. Скривена депресија је универзално механичко решење. Изненадила нас је лепота левог мотора.
+
+Step 66/330
+>> Serbian - Albanian
+	Ndaloni veprimtarinë dhe hidhni poshtë Biblën. Depresioni i fshehur është një zgjidhje mekanike universale. Ne u befasuam nga bukuria e motorit të majtë.
+
+Step 67/330
+>> Albanian - English
+	Stop the activity and reject the Bible. Hidden depression is a universal mechanical solution. We were surprised by the beauty of the left engine.
+
+Step 68/330
+>> English - Georgian
+	შეაჩერე საქმიანობა და უარყავი ბიბლია. ფარული დეპრესია უნივერსალური მექანიკური გადაწყვეტაა. გაკვირვებული ვიყავით მარცხენა ძრავის სილამაზით.
+
+Step 69/330
+>> Georgian - English
+	Stop doing business and reject the Bible. Hidden depression is a universal mechanical solution. We were surprised at the beauty of the left engine.
+
+Step 70/330
+>> English - Spanish
+	Deja de hacer negocios y rechaza la Biblia. La depresión oculta es una solución mecánica universal. Nos sorprendió la belleza del motor izquierdo.
+
+Step 71/330
+>> Spanish - English
+	Stop doing business and reject the Bible. Hidden depression is a universal mechanical solution. We were surprised by the beauty of the left engine.
+
+Step 72/330
+>> English - Sinhala
+	ව්‍යාපාර කිරීම නවතා බයිබලය ප්‍රතික්ෂේප කරන්න. සැඟවුණු මානසික අවපීඩනය විශ්වීය යාන්ත්‍රික විසඳුමකි. වම් එන්ජිමේ සුන්දරත්වය ගැන අප පුදුමයට පත් විය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Prestanite poslovati i odbacite Bibliju. Skrivena depresija je univerzalno mehaničko rješenje. Bili smo impresionirani ljepotom lijevog motora.
+
+Step 74/330
+>> Bosnian - Spanish
+	Deja de hacer negocios y descarta la Biblia. La depresión oculta es una solución mecánica universal. Quedamos impresionados con la belleza del motor izquierdo.
+
+Step 75/330
+>> Spanish - Portuguese
+	Pare de fazer negócios e descarte a Bíblia. A depressão oculta é uma solução mecânica universal. Ficamos impressionados com a beleza do motor esquerdo.
+
+Step 76/330
+>> Portuguese - Arabic
+	التوقف عن ممارسة الأعمال التجارية وتجاهل الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. لقد أعجبنا بجمال المحرك الأيسر.
+
+Step 77/330
+>> Arabic - Macedonian
+	Престанете да работите и игнорирајте ја Библијата. Скриената депресија е глобално механичко решение. Бевме импресионирани од убавината на левиот мотор.
+
+Step 78/330
+>> Macedonian - Armenian
+	Դադարեք աշխատել և անտեսել Աստվածաշունչը: Թաքնված դեպրեսիան գլոբալ մեխանիկական լուծում է: Մեզ տպավորված էր ձախ շարժիչի գեղեցկությունը:
+
+Step 79/330
+>> Armenian - Thai
+	หยุดทำงานและไม่สนใจพระคัมภีร์ ภาวะซึมเศร้าที่ซ่อนอยู่เป็นโซลูชั่นเชิงกลระดับโลก เราประทับใจในความงามของเครื่องยนต์ด้านซ้าย
+
+Step 80/330
+>> Thai - Arabic
+	توقف عن العمل وتجاهل الكتاب المقدس. الاكتئاب الخفي هو الحل الميكانيكي العالمي. نحن معجبين بجمال المحرك الأيسر.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	停止工作，忽略圣经。隐性抑郁症是一种全球性的机械解决方案。我们羡慕左发动机的美感。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Deja de trabajar e ignora la Biblia. La depresión recesiva es una solución mecánica global. Envidiamos la belleza del motor izquierdo.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Перестаньте працювати і ігноруйте Біблію. Рецесивна депресія - це глобальне механічне рішення. Ми заздримо красі лівого двигуна.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Deja de trabajar e ignora la Biblia. La depresión recesiva es una solución mecánica global. Envidiamos la belleza del motor izquierdo.
+
+Step 85/330
+>> Spanish - English
+	Stop working and ignore the Bible. Recessive depression is a global mechanical solution. We envy the beauty of the left engine.
+
+Step 86/330
+>> English - Mongolian
+	Ажлаа зогсоож, Библийг үл тоомсорлоорой. Рецессив сэтгэл гутрал нь дэлхийн механик шийдэл юм. Бид зүүн хөдөлгүүрийн гоо үзэсгэлэнд атаархдаг.
+
+Step 87/330
+>> Mongolian - Spanish
+	Interrumpa su trabajo y haga caso omiso de la Biblia. La depresión recesiva es una solución de clase mundial. Envidiamos la belleza del motor izquierdo.
+
+Step 88/330
+>> Spanish - Arabic
+	توقف عن عملك وتجاهل الكتاب المقدس. الاكتئاب المتنحية هو حل عالمي. نحن نحسد جمال المحرك الأيسر.
+
+Step 89/330
+>> Arabic - Kurdish
+	Karê xwe bisekinin û thencîl nebirînin. Depresyonê recessive çareseriyek global e. Em bedewiya motora çepê şeh dikin.
+
+Step 90/330
+>> Kurdish - English
+	Stop your work and don't buy too much. Recessive depression is a global solution. We marvel at the beauty of the left motor.
+
+Step 91/330
+>> English - Dutch
+	Stop met werken en koop niet te veel. Recessieve depressie is een wereldwijde oplossing. We bewonderen de schoonheid van de linker motor.
+
+Step 92/330
+>> Dutch - English
+	Stop working and don't buy too much. Recessive depression is a global solution. We admire the beauty of the left engine.
+
+Step 93/330
+>> English - Samoan
+	Taofi le galue ma aua le faʻatau tele. O le faʻalavelave faʻafuaseʻi o se fofo faʻavaomalo. Matou te faamemelo i le matagofie o le afi.
+
+Step 94/330
+>> Samoan - Uzbek
+	Ishlashni to'xtating va juda ko'p narsa sotib olmang. Favqulodda vaziyatlar global echimdir. Biz olovning go'zalligiga qoyil qolamiz.
+
+Step 95/330
+>> Uzbek - English
+	Stop working and don't buy too much. Emergencies are a global solution. We admire the beauty of fire.
+
+Step 96/330
+>> English - Arabic
+	توقف عن العمل ولا تشتري أكثر من اللازم. حالات الطوارئ هي حل عالمي. نحن معجبون بجمال النار.
+
+Step 97/330
+>> Arabic - French
+	Arrêtez de travailler et n'achetez pas trop. Les urgences sont une solution globale. Nous admirons la beauté du feu.
+
+Step 98/330
+>> French - Spanish
+	Deja de trabajar y no compres demasiado. Las emergencias son una solución global. Admiramos la belleza del fuego.
+
+Step 99/330
+>> Spanish - Romanian
+	Nu mai funcționați și nu cumpărați prea mult. Urgențele sunt o soluție globală. Admiram frumusețea focului.
+
+Step 100/330
+>> Romanian - Filipino
+	Tumigil sa pagtatrabaho at huwag masyadong bumili. Ang mga emerhensiya ay isang pandaigdigang solusyon. Humanga ako sa kagandahan ng apoy.
+
+Step 101/330
+>> Filipino - Zulu
+	Misa ukusebenza futhi ungathengi kakhulu. Izimo eziphuthumayo ziyikhambi lomhlaba jikelele. Ngiyabuthanda ubuhle bomlilo.
+
+Step 102/330
+>> Zulu - Arabic
+	توقف عن العمل ولا تشتري أكثر من اللازم. حالات الطوارئ هي حل عالمي. أنا أحب جمال النار.
+
+Step 103/330
+>> Arabic - Indonesian
+	Berhentilah bekerja dan jangan membeli terlalu banyak. Keadaan darurat adalah solusi global. Saya suka keindahan api.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Ngừng làm việc và đừng mua quá nhiều. Trường hợp khẩn cấp là một giải pháp toàn cầu. Tôi yêu vẻ đẹp của lửa.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Deja de trabajar y no compres demasiado. Una emergencia es una solución global. Amo la belleza del fuego.
+
+Step 106/330
+>> Spanish - Arabic
+	توقف عن العمل ولا تشتري أكثر من اللازم. حالة الطوارئ هي حل عالمي. أنا أحب جمال النار.
+
+Step 107/330
+>> Arabic - Spanish
+	Deja de trabajar y no compres demasiado. El estado de emergencia es una solución global. Amo la belleza del fuego.
+
+Step 108/330
+>> Spanish - Russian
+	Перестань работать и не покупай слишком много. Чрезвычайное положение является глобальным решением. Я люблю красоту огня.
+
+Step 109/330
+>> Russian - Arabic
+	توقف عن العمل ولا تشتري أكثر من اللازم. حالة الطوارئ هي حل عالمي. أنا أحب جمال النار.
+
+Step 110/330
+>> Arabic - Spanish
+	Deja de trabajar y no compres demasiado. El estado de emergencia es una solución global. Amo la belleza del fuego.
+
+Step 111/330
+>> Spanish - Portuguese
+	Pare de trabalhar e não compre muito. O estado de emergência é uma solução global. Eu amo a beleza do fogo.
+
+Step 112/330
+>> Portuguese - English
+	Stop working and don't buy too much. The state of emergency is a global solution. I love the beauty of fire.
+
+Step 113/330
+>> English - Spanish
+	Deja de trabajar y no compres demasiado. El estado de emergencia es una solución global. Amo la belleza del fuego.
+
+Step 114/330
+>> Spanish - English
+	Stop working and don't buy too much. The state of emergency is a global solution. I love the beauty of fire.
+
+Step 115/330
+>> English - Hindi
+	काम करना बंद करो और बहुत ज्यादा मत खरीदो। आपातकाल की स्थिति एक वैश्विक समाधान है। मुझे आग की सुंदरता पसंद है।
+
+Step 116/330
+>> Hindi - Portuguese
+	Pare de trabalhar e não compre muito. Um estado de emergência é uma solução global. Eu amo a beleza do fogo.
+
+Step 117/330
+>> Portuguese - Spanish
+	Deja de trabajar y no compres demasiado. Un estado de emergencia es una solución global. Amo la belleza del fuego.
+
+Step 118/330
+>> Spanish - English
+	Stop working and don't buy too much. A state of emergency is a global solution. I love the beauty of fire.
+
+Step 119/330
+>> English - Bengali
+	কাজ করা বন্ধ করুন এবং খুব বেশি কিছু কিনবেন না। জরুরি অবস্থার একটি বিশ্বব্যাপী সমাধান। আমি আগুনের সৌন্দর্য পছন্দ করি।
+
+Step 120/330
+>> Bengali - French
+	Arrêtez de travailler et n'achetez pas trop. Une solution globale aux urgences. J'aime la beauté du feu.
+
+Step 121/330
+>> French - lao
+	ຢຸດເຮັດວຽກແລະຢ່າຊື້ຫຼາຍ. ວິທີແກ້ໄຂທົ່ວໂລກຕໍ່ກັບພາວະສຸກເສີນ. ຂ້ອຍມັກຄວາມງາມຂອງໄຟ.
+
+Step 122/330
+>> lao - English
+	Stop working and don't buy much. Global solutions to emergencies. I like the beauty of the fire.
+
+Step 123/330
+>> English - Portuguese
+	Pare de trabalhar e não compre muito. Soluções globais para emergências. Eu gosto da beleza do fogo.
+
+Step 124/330
+>> Portuguese - English
+	Stop working and don't buy too much. Global solutions for emergencies. I like the beauty of fire.
+
+Step 125/330
+>> English - Portuguese
+	Pare de trabalhar e não compre muito. Soluções globais para emergências. Eu gosto da beleza do fogo.
+
+Step 126/330
+>> Portuguese - English
+	Stop working and don't buy too much. Global solutions for emergencies. I like the beauty of fire.
+
+Step 127/330
+>> English - Portuguese
+	Pare de trabalhar e não compre muito. Soluções globais para emergências. Eu gosto da beleza do fogo.
+
+Step 128/330
+>> Portuguese - Burmese
+	သိပ်မဝယ်အလုပ်လုပ်ရပ်တန့်နှင့်မရ။ အရေးပေါ်အခြေအနေများအတွက်ကမ္ဘာလုံးဆိုင်ရာဖြေရှင်းနည်းများ။ ငါကိုမီး၏ဂုဏ်အသရေကိုကြိုက်တယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	कम किन्न बन्द। वैश्विक समाधान को लागि आपतकालीन स्थिति। म पानी र आगो को सौन्दर्य मनपर्छ।
+
+Step 130/330
+>> Nepali - Urdu
+	کم خریدیں۔ عالمی حل کیلئے ہنگامی صورتحال۔ مجھے پانی اور آگ کا حسن پسند ہے۔
+
+Step 131/330
+>> Urdu - French
+	Achetez moins Urgence pour des solutions globales. J'aime la beauté de l'eau et du feu.
+
+Step 132/330
+>> French - English
+	Buy less Urgency for global solutions. I like the beauty of water and fire.
+
+Step 133/330
+>> English - Swahili
+	Nunua Upesi wa dharura kwa suluhisho za ulimwengu. Ninapenda uzuri wa maji na moto.
+
+Step 134/330
+>> Swahili - Arabic
+	شراء الطوارئ للحلول ذات المستوى العالمي. أنا أحب جمال الماء والنار.
+
+Step 135/330
+>> Arabic - Shona
+	Kukurumidza kuwanikwa kwekutengesa kwepasi-mhando. Ini ndinoda runako rwemvura nemoto.
+
+Step 136/330
+>> Shona - Hausa
+	Sauke abubuwa masu inganci cikin sauri. Ina son kyawun ruwa da wuta.
+
+Step 137/330
+>> Hausa - Swahili
+	Pakua vitu vya ubora wa juu haraka. Ninapenda maji na moto.
+
+Step 138/330
+>> Swahili - English
+	Download high-quality items quickly. I love water and fire.
+
+Step 139/330
+>> English - Arabic
+	قم بتنزيل العناصر عالية الجودة بسرعة. أنا أحب الماء والنار.
+
+Step 140/330
+>> Arabic - Malagasy
+	Misintona haingana ny entana tsara kalitao. Tiako ny rano sy afo.
+
+Step 141/330
+>> Malagasy - Swahili
+	Bidhaa zenye ubora huchukuliwa haraka. Ninapenda maji na moto.
+
+Step 142/330
+>> Swahili - French
+	Des produits de qualité sont rapidement ramassés. J'aime l'eau et le feu.
+
+Step 143/330
+>> French - Arabic
+	يتم اختيار منتجات ذات جودة عالية بسرعة. أنا أحب الماء والنار.
+
+Step 144/330
+>> Arabic - French
+	Les produits de haute qualité sont rapidement sélectionnés. J'aime l'eau et le feu.
+
+Step 145/330
+>> French - Arabic
+	يتم اختيار المنتجات عالية الجودة بسرعة. أنا أحب الماء والنار.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Pwodwi bon jan kalite segondè yo byen vit chwazi. Mwen renmen dlo ak dife.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	د لوړ کیفیت محصولات ژر تر ژره غوره کیږي. زه اوبه او اور سره مینه لرم.
+
+Step 148/330
+>> Pashto - French
+	Les produits de haute qualité sont sélectionnés immédiatement. J'aime l'eau et le feu.
+
+Step 149/330
+>> French - Chichewa
+	Malonda apamwamba amasankhidwa nthawi yomweyo. Ndimakonda madzi ndi moto.
+
+Step 150/330
+>> Chichewa - Arabic
+	يتم اختيار الإعلانات المتقدمة على الفور. أنا أحب الماء والنار.
+
+Step 151/330
+>> Arabic - Amharic
+	የላቁ ማስታወቂያዎች ወዲያውኑ ተመርጠዋል ፡፡ ውሃ እና እሳት እወዳለሁ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Advanced ads are selected immediately. I love water and fire.
+
+Step 153/330
+>> English - French
+	Les annonces avancées sont sélectionnées immédiatement. J'aime l'eau et le feu.
+
+Step 154/330
+>> French - Swahili
+	Matangazo ya hali ya juu huchaguliwa mara moja. Ninapenda maji na moto.
+
+Step 155/330
+>> Swahili - Portuguese
+	Anúncios avançados são selecionados imediatamente. Eu amo água e fogo.
+
+Step 156/330
+>> Portuguese - Arabic
+	يتم اختيار الإعلانات المتقدمة على الفور. أنا أحب الماء والنار.
+
+Step 157/330
+>> Arabic - Portuguese
+	Anúncios avançados são selecionados imediatamente. Eu amo água e fogo.
+
+Step 158/330
+>> Portuguese - English
+	Advanced ads are selected immediately. I love water and fire.
+
+Step 159/330
+>> English - French
+	Les annonces avancées sont sélectionnées immédiatement. J'aime l'eau et le feu.
+
+Step 160/330
+>> French - English
+	Advanced announcements are selected immediately. I like water and fire.
+
+Step 161/330
+>> English - Swahili
+	Matangazo ya hali ya juu huchaguliwa mara moja. Ninapenda maji na moto.
+
+Step 162/330
+>> Swahili - Arabic
+	يتم اختيار الإعلانات المتقدمة على الفور. أنا أحب الماء والنار.
+
+Step 163/330
+>> Arabic - Arabic
+	Advanced ads are selected immediately. I love water and fire.
+
+Step 164/330
+>> Arabic - French
+	Les annonces avancées sont sélectionnées immédiatement. J'aime l'eau et le feu.
+
+Step 165/330
+>> French - Hausa
+	An zaɓi sanarwa mai zuwa nan da nan. Ina son ruwa da wuta.
+
+Step 166/330
+>> Hausa - French
+	L'instruction suivante est sélectionnée immédiatement. J'aime l'eau et le feu.
+
+Step 167/330
+>> French - Arabic
+	The following statement is selected immediately. I like water and fire.
+
+Step 168/330
+>> Arabic - Arabic
+	يتم تحديد البيان التالي على الفور. أنا أحب الماء والنار.
+
+Step 169/330
+>> Arabic - Swahili
+	Taarifa ifuatayo imedhamiriwa mara moja. Ninapenda maji na moto.
+
+Step 170/330
+>> Swahili - English
+	The following information is determined immediately. I love water and fire.
+
+Step 171/330
+>> English - French
+	Les informations suivantes sont déterminées immédiatement. J'aime l'eau et le feu.
+
+Step 172/330
+>> French - English
+	The following information is determined immediately. I like water and fire.
+
+Step 173/330
+>> English - Portuguese
+	As informações a seguir são determinadas imediatamente. Eu gosto de água e fogo.
+
+Step 174/330
+>> Portuguese - Arabic
+	يتم تحديد المعلومات التالية على الفور. أنا أحب الماء والنار.
+
+Step 175/330
+>> Arabic - Portuguese
+	As informações a seguir são determinadas imediatamente. Eu amo água e fogo.
+
+Step 176/330
+>> Portuguese - Swahili
+	Habari ifuatayo imedhamiriwa mara moja. Ninapenda maji na moto.
+
+Step 177/330
+>> Swahili - French
+	Les informations suivantes sont destinées immédiatement. J'aime l'eau et le feu.
+
+Step 178/330
+>> French - English
+	The following information is intended immediately. I like water and fire.
+
+Step 179/330
+>> English - Amharic
+	የሚከተለው መረጃ ወዲያውኑ የታሰበ ነው። ውሃ እና እሳት እወዳለሁ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	المعلومات التالية مخصصة على الفور. أنا أحب الماء والنار.
+
+Step 181/330
+>> Arabic - Chichewa
+	Zambiri zotsatirazi zimasinthidwa nthawi yomweyo. Ndimakonda madzi ndi moto.
+
+Step 182/330
+>> Chichewa - French
+	Les informations suivantes sont automatiquement mises à jour. J'aime l'eau et le feu.
+
+Step 183/330
+>> French - Pashto
+	لاندې معلومات په اوتومات ډول نوي شوي دي. زه اوبه او اورونه خوښوم.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Enfòmasyon sa yo mete ajou otomatikman. Mwen renmen dlo ak dife.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	يتم تحديث هذه المعلومات تلقائيا. أنا أحب الماء والنار.
+
+Step 186/330
+>> Arabic - French
+	Cette information est mise à jour automatiquement. J'aime l'eau et le feu.
+
+Step 187/330
+>> French - Arabic
+	يتم تحديث هذه المعلومات تلقائيًا. أنا أحب الماء والنار.
+
+Step 188/330
+>> Arabic - French
+	Cette information est automatiquement mise à jour. J'aime l'eau et le feu.
+
+Step 189/330
+>> French - Swahili
+	Habari hii inasasishwa kiatomati. Ninapenda maji na moto.
+
+Step 190/330
+>> Swahili - Malagasy
+	Nohavaozina ho azy ity fampahalalana ity. Tiako ny rano sy afo.
+
+Step 191/330
+>> Malagasy - Arabic
+	تم تحديث هذه المعلومات تلقائيًا. أنا أحب الماء والنار.
+
+Step 192/330
+>> Arabic - English
+	This information was automatically updated. I love water and fire.
+
+Step 193/330
+>> English - Swahili
+	Habari hii iliboreshwa kiatomati. Ninapenda maji na moto.
+
+Step 194/330
+>> Swahili - Hausa
+	Wannan bayanin ya inganta ta atomatik. Ina son ruwa da wuta.
+
+Step 195/330
+>> Hausa - Shona
+	Ruzivo urwu runogadziridzwa. Ini ndoda mvura nemoto.
+
+Step 196/330
+>> Shona - Arabic
+	يتم تحديث هذه المعلومات. كنت بحاجة إلى الماء والنار.
+
+Step 197/330
+>> Arabic - Swahili
+	Habari hii imesasishwa. Unahitaji maji na moto.
+
+Step 198/330
+>> Swahili - English
+	This information has been updated. You need water and fire.
+
+Step 199/330
+>> English - French
+	Cette information a été mise à jour. Vous avez besoin d'eau et de feu.
+
+Step 200/330
+>> French - Urdu
+	اس معلومات کو اپ ڈیٹ کر دیا گیا ہے۔ آپ کو پانی اور آگ کی ضرورت ہے۔
+
+Step 201/330
+>> Urdu - Nepali
+	यो जानकारी अद्यावधिक गरिएको छ। तपाईंलाई पानी र आगो चाहिन्छ।
+
+Step 202/330
+>> Nepali - Burmese
+	ဤအချက်အလက် updated ခဲ့တာဖြစ်ပါတယ်။ သငျသညျရေနှင့်မီးလိုအပ်ပါတယ်။
+
+Step 203/330
+>> Burmese - Portuguese
+	Esta informação foi atualizado. Você precisa de água e fogo.
+
+Step 204/330
+>> Portuguese - English
+	This information has been updated. You need water and fire.
+
+Step 205/330
+>> English - Portuguese
+	Esta informação foi atualizada. Você precisa de água e fogo.
+
+Step 206/330
+>> Portuguese - English
+	This information has been updated. You need water and fire.
+
+Step 207/330
+>> English - Portuguese
+	Esta informação foi atualizada. Você precisa de água e fogo.
+
+Step 208/330
+>> Portuguese - English
+	This information has been updated. You need water and fire.
+
+Step 209/330
+>> English - lao
+	ຂໍ້ມູນນີ້ໄດ້ຖືກປັບປຸງ. ທ່ານຕ້ອງການນໍ້າແລະໄຟ.
+
+Step 210/330
+>> lao - French
+	Cette information a été mise à jour. Vous avez besoin d'eau et de feu.
+
+Step 211/330
+>> French - Bengali
+	এই তথ্য আপডেট করা হয়েছে। আপনার দরকার জল এবং আগুন।
+
+Step 212/330
+>> Bengali - English
+	This information has been updated. All you need is water and fire.
+
+Step 213/330
+>> English - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 214/330
+>> Spanish - Portuguese
+	Esta informação foi atualizada. Tudo que você precisa é de água e fogo.
+
+Step 215/330
+>> Portuguese - Hindi
+	यह जानकारी अपडेट कर दी गई है। आपको बस पानी और आग चाहिए।
+
+Step 216/330
+>> Hindi - English
+	This information has been updated. All you need is water and fire.
+
+Step 217/330
+>> English - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 218/330
+>> Spanish - English
+	This information has been updated. All you need is water and fire.
+
+Step 219/330
+>> English - Portuguese
+	Esta informação foi atualizada. Tudo que você precisa é de água e fogo.
+
+Step 220/330
+>> Portuguese - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 221/330
+>> Spanish - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 222/330
+>> Arabic - Russian
+	Эта информация была обновлена. Все, что вам нужно, это вода и огонь.
+
+Step 223/330
+>> Russian - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 224/330
+>> Spanish - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 225/330
+>> Arabic - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Thông tin này đã được cập nhật. Tất cả bạn cần là nước và lửa.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Informasi ini telah diperbarui. Yang Anda butuhkan hanyalah air dan api.
+
+Step 228/330
+>> Indonesian - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 229/330
+>> Arabic - Zulu
+	Le mininingwane ibuyekeziwe. Konke okudingayo kungamanzi nomlilo.
+
+Step 230/330
+>> Zulu - Filipino
+	Na-update ang impormasyong ito. Ang kailangan mo lang ay tubig at apoy.
+
+Step 231/330
+>> Filipino - Romanian
+	Aceste informații au fost actualizate. Tot ce ai nevoie este apă și foc.
+
+Step 232/330
+>> Romanian - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 233/330
+>> Spanish - French
+	Cette information a été mise à jour. Tout ce dont vous avez besoin c'est de l'eau et du feu.
+
+Step 234/330
+>> French - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 235/330
+>> Arabic - English
+	This information has been updated. All you need is water and fire.
+
+Step 236/330
+>> English - Uzbek
+	Ushbu ma'lumot yangilandi. Sizga faqat suv va olov kerak.
+
+Step 237/330
+>> Uzbek - Samoan
+	O lenei faʻamatalaga ua faʻafouina. E na ona e manaʻomia le vai ma le afi.
+
+Step 238/330
+>> Samoan - English
+	This information has been updated. You just need water and fire.
+
+Step 239/330
+>> English - Dutch
+	Deze informatie is bijgewerkt. Je hebt alleen water en vuur nodig.
+
+Step 240/330
+>> Dutch - English
+	This information has been updated. You only need water and fire.
+
+Step 241/330
+>> English - Kurdish
+	Ev agahî nûvekirin. Hûn tenê bi av û agir hewce ne.
+
+Step 242/330
+>> Kurdish - Arabic
+	يتم تحديث هذه المعلومات. تحتاج فقط الماء والنار.
+
+Step 243/330
+>> Arabic - Spanish
+	Esta información está actualizada. Solo necesitas agua y fuego.
+
+Step 244/330
+>> Spanish - Mongolian
+	Энэ мэдээлэл шинэчлэгдэж байна. Танд зөвхөн ус, гал хэрэгтэй.
+
+Step 245/330
+>> Mongolian - English
+	This information is being updated. You only need water and fire.
+
+Step 246/330
+>> English - Spanish
+	Esta información se está actualizando. Solo necesitas agua y fuego.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Ця інформація оновлюється. Вам просто потрібна вода і вогонь.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Esta información está actualizada. Solo necesitas agua y fuego.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	此信息已更新。你只需要水和火。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	تم تحديث هذه المعلومات. ما عليك سوى الماء والنار.
+
+Step 251/330
+>> Arabic - Thai
+	ข้อมูลนี้ได้รับการปรับปรุง คุณต้องการน้ำและไฟเท่านั้น
+
+Step 252/330
+>> Thai - Armenian
+	Այս տեղեկատվությունը թարմացվել է: Ձեզ հարկավոր է միայն ջուր և կրակ:
+
+Step 253/330
+>> Armenian - Macedonian
+	Оваа информација е ажурирана. Потребна ви е само вода и оган.
+
+Step 254/330
+>> Macedonian - Arabic
+	تم تحديث هذه المعلومات. ما عليك سوى الماء والنار.
+
+Step 255/330
+>> Arabic - Portuguese
+	Esta informação foi atualizada. Você só precisa de água e fogo.
+
+Step 256/330
+>> Portuguese - Spanish
+	Esta información ha sido actualizada. Solo necesitas agua y fuego.
+
+Step 257/330
+>> Spanish - Bosnian
+	Ove informacije su ažurirane. Treba vam samo voda i vatra.
+
+Step 258/330
+>> Bosnian - Sinhala
+	මෙම තොරතුරු යාවත්කාලීන කර ඇත. ඔබට අවශ්‍ය වන්නේ ජලය සහ ගින්න පමණි.
+
+Step 259/330
+>> Sinhala - English
+	This information has been updated. All you need is water and fire.
+
+Step 260/330
+>> English - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 261/330
+>> Spanish - English
+	This information has been updated. All you need is water and fire.
+
+Step 262/330
+>> English - Georgian
+	ეს ინფორმაცია განახლებულია. ყველაფერი რაც თქვენ გჭირდებათ არის წყალი და ცეცხლი.
+
+Step 263/330
+>> Georgian - English
+	This information has been updated. All you need is water and fire.
+
+Step 264/330
+>> English - Albanian
+	Ky informacion është azhurnuar. Gjithçka që ju nevojitet është uji dhe zjarri.
+
+Step 265/330
+>> Albanian - Serbian
+	Ове информације су ажуриране. Све што вам треба је вода и ватра.
+
+Step 266/330
+>> Serbian - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 267/330
+>> Spanish - English
+	This information has been updated. All you need is water and fire.
+
+Step 268/330
+>> English - Turkish
+	Bu bilgi güncellendi. Tek ihtiyacınız olan su ve ateş.
+
+Step 269/330
+>> Turkish - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 270/330
+>> Spanish - French
+	Cette information a été mise à jour. Tout ce dont vous avez besoin c'est de l'eau et du feu.
+
+Step 271/330
+>> French - English
+	This information has been updated. All you need is water and fire.
+
+Step 272/330
+>> English - Persian
+	این اطلاعات به روز شده است. تمام آنچه شما نیاز دارید آب و آتش است.
+
+Step 273/330
+>> Persian - Kazakh
+	Бұл ақпарат жаңартылды. Сізге тек су мен от қажет.
+
+Step 274/330
+>> Kazakh - English
+	This information has been updated. You only need water and fire.
+
+Step 275/330
+>> English - Malay
+	Maklumat ini telah dikemas kini. Anda hanya memerlukan air dan api.
+
+Step 276/330
+>> Malay - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 277/330
+>> Arabic - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 278/330
+>> Spanish - English
+	This information has been updated. All you need is water and fire.
+
+Step 279/330
+>> English - Russian
+	Эта информация была обновлена. Все, что вам нужно, это вода и огонь.
+
+Step 280/330
+>> Russian - Romanian
+	Aceste informații au fost actualizate. Tot ce ai nevoie este apă și foc.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Тази информация е актуализирана. Всичко, от което се нуждаете, е вода и огън.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ky informacion është azhurnuar. Gjithçka që ju nevojitet është uji dhe zjarri.
+
+Step 283/330
+>> Albanian - Russian
+	Эта информация была обновлена. Все, что вам нужно, это вода и огонь.
+
+Step 284/330
+>> Russian - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 285/330
+>> Arabic - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 286/330
+>> Spanish - Croatian
+	Ovi podaci su ažurirani. Sve što trebate je voda i vatra.
+
+Step 287/330
+>> Croatian - Hungarian
+	Ezt az információt frissítették. Csak vízre és tűzre van szüksége.
+
+Step 288/330
+>> Hungarian - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 289/330
+>> Spanish - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 290/330
+>> Arabic - Portuguese
+	Esta informação foi atualizada. Tudo que você precisa é de água e fogo.
+
+Step 291/330
+>> Portuguese - Latvian
+	Šī informācija ir atjaunināta. Viss, kas jums nepieciešams, ir ūdens un uguns.
+
+Step 292/330
+>> Latvian - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 293/330
+>> Arabic - Malay
+	Maklumat ini telah dikemas kini. Apa yang anda perlukan adalah air dan api.
+
+Step 294/330
+>> Malay - Slovak
+	Tieto informácie boli aktualizované. Potrebujete iba vodu a oheň.
+
+Step 295/330
+>> Slovak - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Ši informacija buvo atnaujinta. Viskas, ko jums reikia - vanduo ir ugnis.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Aquesta informació s'ha actualitzat. Tot el que necessites és aigua i foc.
+
+Step 298/330
+>> Catalan - Arabic
+	تم تحديث هذه المعلومات. كل ما تحتاجه هو الماء والنار.
+
+Step 299/330
+>> Arabic - Polish
+	Ta informacja została zaktualizowana. Wszystko czego potrzebujesz to woda i ogień.
+
+Step 300/330
+>> Polish - Turkish
+	Bu bilgi güncellendi. Tek ihtiyacınız olan su ve ateş.
+
+Step 301/330
+>> Turkish - Greek
+	Αυτές οι πληροφορίες έχουν ενημερωθεί. Το μόνο που χρειάζεστε είναι το νερό και η φωτιά.
+
+Step 302/330
+>> Greek - Estonian
+	Seda teavet on värskendatud. Vaja on ainult vett ja tuld.
+
+Step 303/330
+>> Estonian - Maltese
+	Din l-informazzjoni ġiet aġġornata. Kull ma għandek bżonn huwa l-ilma u n-nar.
+
+Step 304/330
+>> Maltese - Italian
+	Questa informazione è stata aggiornata. Tutto ciò che serve è l'acqua e il fuoco.
+
+Step 305/330
+>> Italian - Czech
+	Tyto informace byly aktualizovány. Vše, co potřebujete, je voda a oheň.
+
+Step 306/330
+>> Czech - Spanish
+	Esta información ha sido actualizada. Todo lo que necesitas es agua y fuego.
+
+Step 307/330
+>> Spanish - Slovenian
+	Te informacije so bile posodobljene. Vse, kar potrebujete, sta voda in ogenj.
+
+Step 308/330
+>> Slovenian - French
+	Cette information a été mise à jour. Tout ce dont vous avez besoin c'est de l'eau et du feu.
+
+Step 309/330
+>> French - Korean
+	이 정보는 업데이트되었습니다. 물과 불만 있으면됩니다.
+
+Step 310/330
+>> Korean - Hebrew
+	מידע זה עודכן. אם יש לך תלונות עם מים.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Dës Informatioun gouf aktualiséiert. Wann Dir Reklamatioune mam Waasser hutt.
+
+Step 312/330
+>> Luxembourgish - German
+	Diese Informationen wurden aktualisiert. Wenn Sie Beschwerden mit Wasser haben.
+
+Step 313/330
+>> German - Japanese
+	この情報は更新されました。水に不快感がある場合。
+
+Step 314/330
+>> Japanese - German
+	Diese Informationen wurden aktualisiert. Wenn das Wasser unangenehm ist.
+
+Step 315/330
+>> German - Dutch
+	Deze informatie is bijgewerkt. Wanneer het water onaangenaam is.
+
+Step 316/330
+>> Dutch - Maori
+	Kua whakahoutia enei korero. Ka kino te wai.
+
+Step 317/330
+>> Maori - Finnish
+	Nämä tiedot on päivitetty. Vesi tulee olemaan huono.
+
+Step 318/330
+>> Finnish - English
+	This information has been updated. The water will be bad.
+
+Step 319/330
+>> English - Danish
+	Denne information er blevet opdateret. Vandet vil være dårligt.
+
+Step 320/330
+>> Danish - Dutch
+	Deze informatie is bijgewerkt. Het water zal slecht zijn.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	此信息已更新。水會很糟糕。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Denna information har uppdaterats. Vattnet kommer att vara mycket dåligt.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	此信息已更新。水會非常糟糕。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Þessar upplýsingar hafa verið uppfærðar. Vatnið verður mjög slæmt.
+
+Step 325/330
+>> Icelandic - German
+	Diese Informationen wurden aktualisiert. Das Wasser wird sehr schlecht sein.
+
+Step 326/330
+>> German - Irish
+	Nuashonraíodh an fhaisnéis seo. Beidh an t-uisce an-dona.
+
+Step 327/330
+>> Irish - English
+	This information was updated. The water will be very bad.
+
+Step 328/330
+>> English - German
+	Diese Informationen wurden aktualisiert. Das Wasser wird sehr schlecht sein.
+
+Step 329/330
+>> German - Norwegian
+	Denne informasjonen er oppdatert. Vannet vil være veldig dårlig.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Esta informação foi atualizada. A água será muito pobre.
+
+
+##### RESULTS ######
+
+Quando terminou de preparar o círculo da maneira pela qual desejava, deteve-se no centro, onde fez abjurações e recitou versículos do Corão. Insensivelmente, o dia foi escurecendo até que sobreveio, na aparência, a noite, com a dissolução da máquina do mundo. Sentimo-nos dominados de extremo terror, aumentado ainda, quando nos vimos de repente na frente do gênio, Filho da filha de Eblis, sob a forma de um leão de espantoso tamanho.
+
+Esta informação foi atualizada. A água será muito pobre.

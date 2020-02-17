@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O califa Harun al-Rachid, muito contente por ter ficado sabendo o que lhe interessava, manifestou a admiração que lhe causava o que acabara de ouvir...
+
+Step 1/330
+>> Portuguese - Norwegian
+	Kalif Harun al-Rachid, glad for å lære det som interesserte ham, uttrykte beundring for det han nettopp hadde hørt.
+
+Step 2/330
+>> Norwegian - German
+	Der Kalif Harun al-Rachid zeigte sich erfreut darüber, was ihn interessierte, und bewunderte das, was er gerade gehört hatte.
+
+Step 3/330
+>> German - English
+	The Caliph Harun al-Rachid was pleased with what interested him and admired what he had just heard.
+
+Step 4/330
+>> English - Irish
+	Bhí an Caliph Harun al-Rachid sásta leis na rudaí a raibh suim acu ann agus mheas sé an méid a chuala sé díreach.
+
+Step 5/330
+>> Irish - German
+	Der Kalif Harun al-Rachid war zufrieden mit den Dingen, an denen sie interessiert waren, und dachte darüber nach, was er gerade gehört hatte.
+
+Step 6/330
+>> German - Icelandic
+	Kalíf Harun al-Rachid var ánægður með hlutina sem þeir höfðu áhuga á og hugsaði um það sem hann hafði nýlega heyrt.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Caliph Harun al-Rachid對他們感興趣的事情感到高興，並想到了他最近聽到的內容。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Kalif Harun al-Rachid var nöjd med vad de var intresserade av och tänkte på vad han hade hört nyligen.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Caliph Harun al-Rachid對他們感興趣的內容很滿意，並考慮過他最近聽到的內容。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Kalief Harun al-Rachid is erg tevreden met de inhoud waarin ze geïnteresseerd zijn en overweegt wat hij recent heeft gehoord.
+
+Step 11/330
+>> Dutch - Danish
+	Kalif Harun al-Rachid er meget tilfreds med det indhold, de er interesseret i, og overvejer, hvad han for nylig har hørt.
+
+Step 12/330
+>> Danish - English
+	Caliph Harun al-Rachid is very pleased with the content they are interested in and considers what he has recently heard.
+
+Step 13/330
+>> English - Finnish
+	Caliph Harun al-Rachid on erittäin tyytyväinen heidän kiinnostamaansa sisältöön ja pohtii äskettäin kuulemaansa.
+
+Step 14/330
+>> Finnish - Maori
+	Kei te tino hari a Caliph Harun al-Rachid ki nga kaupapa e pai ana ki a raatau, e whakaata ana i o raatau korero hou.
+
+Step 15/330
+>> Maori - Dutch
+	Kalief Harun al-Rachid is erg blij met de onderwerpen die ze leuk vinden en weerspiegelt hun nieuwste verhalen.
+
+Step 16/330
+>> Dutch - German
+	Der Kalif Harun al-Rachid ist sehr zufrieden mit den Themen, die sie mögen, und reflektiert ihre neuesten Geschichten.
+
+Step 17/330
+>> German - Japanese
+	Caliph Harun al-Rachidは、自分の好きなトピックに非常に満足しており、彼女の最新のストーリーに反映しています。
+
+Step 18/330
+>> Japanese - German
+	Kalif Harun al-Rachid ist sehr zufrieden mit ihrem Lieblingsthema und spiegelt es in ihrer neuesten Geschichte wider.
+
+Step 19/330
+>> German - Luxembourgish
+	De Caliph Harun al-Rachid ass ganz zefridde mat hirem Liiblingsfach a reflektéiert et an hirer leschter Geschicht.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	ח'ליף הרון אל-ראשיד מרוצה מאוד מהנושא האהוב עליה ומשקף זאת בהיסטוריה האחרונה שלה.
+
+Step 21/330
+>> Hebrew - Korean
+	Caliph Heron Al-Rashid는 자신이 좋아하는 주제에 매우 만족하며 최근의 역사에 이것을 반영합니다.
+
+Step 22/330
+>> Korean - French
+	Le calife Heron Al-Rashid est très heureux de son sujet de prédilection et en témoigne dans son histoire récente.
+
+Step 23/330
+>> French - Slovenian
+	Kalif Heron Al-Rashid je zelo zadovoljen s svojo najljubšo temo in o tem priča v svoji polpretekli zgodovini.
+
+Step 24/330
+>> Slovenian - Spanish
+	El califa Garza Al-Rashid está muy satisfecho con su tema favorito y ha sido testigo de esto en su historia pasada.
+
+Step 25/330
+>> Spanish - Czech
+	Caliph Garza Al-Rashid je velmi spokojený se svým oblíbeným tématem a byl toho svědkem ve své minulé historii.
+
+Step 26/330
+>> Czech - Italian
+	Il califfo Garza Al-Rashid è molto soddisfatto del suo argomento preferito e lo ha visto nella sua storia passata.
+
+Step 27/330
+>> Italian - Maltese
+	Califh Garza Al-Rashid jinsab sodisfatt ħafna bis-suġġett favorit tiegħu u rah fl-istorja tal-passat tiegħu.
+
+Step 28/330
+>> Maltese - Estonian
+	Garza Califh Al-Rashid on väga rahul oma lemmik teema ja nägin teda ajaloos oma minevikku.
+
+Step 29/330
+>> Estonian - Greek
+	Ο Garza Califh Al-Rashid είναι πολύ ευχαριστημένος με το αγαπημένο του θέμα και τον είδε στην ιστορία του παρελθόντος του.
+
+Step 30/330
+>> Greek - Turkish
+	Garza Califh Al-Rashid en sevdiği konudan çok mutlu ve bunu geçmişinin hikayesinde gördü.
+
+Step 31/330
+>> Turkish - Polish
+	Garza Califh Al-Rashid jest bardzo zadowolony ze swojego ulubionego przedmiotu i widział go w historii swojej przeszłości.
+
+Step 32/330
+>> Polish - Arabic
+	غارزا خليفة الراشد سعيد للغاية بموضوعه المفضل وقد شاهده في تاريخ ماضيه.
+
+Step 33/330
+>> Arabic - Catalan
+	Garza Khalifa Al Rashed està molt contenta amb el seu tema preferit i ho ha vist en la història del seu passat.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Garza Khalifa Al Rashed labai džiaugiasi savo mėgstama tema ir matė ją savo praeities istorijoje.
+
+Step 35/330
+>> Lithuanian - Arabic
+	غارزا خليفة الراشد سعيد للغاية بموضوعه المفضل وقد شاهده في تاريخه السابق.
+
+Step 36/330
+>> Arabic - Slovak
+	Garza Khalifa Al Rashed je so svojím obľúbeným predmetom veľmi spokojný a videl to vo svojej minulosti.
+
+Step 37/330
+>> Slovak - Malay
+	Garza Khalifa Al Rashed sangat berpuas hati dengan subjek kegemarannya dan telah melihatnya di masa lalu.
+
+Step 38/330
+>> Malay - Arabic
+	غارزا خليفة الراشد راضٍ جداً عن موضوعه المفضل وقد شاهده في الماضي.
+
+Step 39/330
+>> Arabic - Latvian
+	Garza Khalifa Al Rashed ir ļoti apmierināts ar savu iecienīto tēmu un ir to redzējis jau iepriekš.
+
+Step 40/330
+>> Latvian - Portuguese
+	Garza Khalifa Al Rashed está muito satisfeito com seu tema favorito e já o viu antes.
+
+Step 41/330
+>> Portuguese - Arabic
+	غارزا خليفة الراشد مسرور بموضوعه المفضل وقد شاهده من قبل.
+
+Step 42/330
+>> Arabic - Spanish
+	Garza Khalifa Al Rashed está satisfecho con su tema favorito y lo ha visto antes.
+
+Step 43/330
+>> Spanish - Hungarian
+	Garza Khalifa Al Rashed elégedett kedvenc témájával, és már látta.
+
+Step 44/330
+>> Hungarian - Croatian
+	Garza Khalifa Al Rashed zadovoljan je svojom omiljenom temom i već ju je vidio.
+
+Step 45/330
+>> Croatian - Spanish
+	Garza Khalifa Al Rashed está satisfecho con su tema favorito y ya lo ha visto.
+
+Step 46/330
+>> Spanish - Arabic
+	غارزا خليفة الراشد راض عن موضوعه المفضل وقد شاهده بالفعل.
+
+Step 47/330
+>> Arabic - Russian
+	Гарза Халифа Аль Рашед доволен своим любимым предметом и уже видел его.
+
+Step 48/330
+>> Russian - Albanian
+	Garza Khalifa Al Rashed është e kënaqur me temën e tij të preferuar dhe tashmë e ka parë atë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Гарса Халифа Ал Рашед е доволен от любимата си тема и вече я е видял.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Garza Khalifa Al-Rashed este mulțumită de tema sa preferată și a văzut-o deja.
+
+Step 51/330
+>> Romanian - Russian
+	Халифа Аль-Рашед Херон доволен своей любимой темой и уже видел ее.
+
+Step 52/330
+>> Russian - English
+	Khalifa Al-Rashed Heron is pleased with his favorite topic and has already seen it.
+
+Step 53/330
+>> English - Spanish
+	Khalifa Al-Rashed Heron está satisfecho con su tema favorito y ya lo ha visto.
+
+Step 54/330
+>> Spanish - Arabic
+	خليفة الراشد هيرون راض عن موضوعه المفضل وقد شاهده بالفعل.
+
+Step 55/330
+>> Arabic - Malay
+	Pengganti Heron berpuas hati dengan subjek kegemarannya dan telah melihatnya.
+
+Step 56/330
+>> Malay - English
+	Heron's successor is satisfied with his favorite subject and has seen it.
+
+Step 57/330
+>> English - Kazakh
+	Геронның мұрагері өзінің сүйікті тақырыбына риза және оны көрді.
+
+Step 58/330
+>> Kazakh - Persian
+	جانشین هرون از موضوع مورد علاقه خود راضی بود و آن را دید.
+
+Step 59/330
+>> Persian - English
+	Heron's successor was satisfied with his favorite subject and saw it.
+
+Step 60/330
+>> English - French
+	Le successeur de Heron était satisfait de son sujet favori et l'a vu.
+
+Step 61/330
+>> French - Spanish
+	El sucesor de Heron estaba satisfecho con su tema favorito y lo vio.
+
+Step 62/330
+>> Spanish - Turkish
+	Heron'un halefi en sevdiği dersten memnun kaldı ve onu gördü.
+
+Step 63/330
+>> Turkish - English
+	Heron's successor was pleased with his favorite lesson and saw him.
+
+Step 64/330
+>> English - Spanish
+	El sucesor de Heron estaba satisfecho con su lección favorita y lo vio.
+
+Step 65/330
+>> Spanish - Serbian
+	Херонов наследник био је задовољан омиљеном лекцијом и видео га је.
+
+Step 66/330
+>> Serbian - Albanian
+	Pasardhësi i Heronit ishte i kënaqur me mësimin e tij të preferuar dhe e pa atë.
+
+Step 67/330
+>> Albanian - English
+	Heron's successor was pleased with his favorite lesson and saw it.
+
+Step 68/330
+>> English - Georgian
+	ჰერონის მემკვიდრე კმაყოფილი დარჩა თავისი საყვარელი გაკვეთილით და დაინახა იგი.
+
+Step 69/330
+>> Georgian - English
+	Heron's successor was pleased with his favorite lesson and saw it.
+
+Step 70/330
+>> English - Spanish
+	El sucesor de Heron estaba satisfecho con su lección favorita y la vio.
+
+Step 71/330
+>> Spanish - English
+	Heron's successor was satisfied with his favorite lesson and saw her.
+
+Step 72/330
+>> English - Sinhala
+	හෙරොන්ගේ අනුප්‍රාප්තිකයා ඔහුගේ ප්‍රියතම පාඩම ගැන සෑහීමකට පත් වූ අතර ඇය දුටුවේය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Heronov nasljednik bio je zadovoljan omiljenom lekcijom i ugledao je.
+
+Step 74/330
+>> Bosnian - Spanish
+	El sucesor de Heron estaba satisfecho con su lección favorita y la vio.
+
+Step 75/330
+>> Spanish - Portuguese
+	O sucessor de Heron ficou satisfeito com sua lição favorita e a viu.
+
+Step 76/330
+>> Portuguese - Arabic
+	كان خليفة هيرون سعيدًا بدرسه المفضل ورآه.
+
+Step 77/330
+>> Arabic - Macedonian
+	Наследникот на Херон беше задоволен од својата омилена лекција и ја виде.
+
+Step 78/330
+>> Macedonian - Armenian
+	Հերոնի իրավահաջորդը գոհ էր իր նախընտրած դասից և տեսավ դա:
+
+Step 79/330
+>> Armenian - Thai
+	ผู้สืบทอดของเฮรอนรู้สึกพึงพอใจกับบทเรียนที่เขาชื่นชอบและเห็นมัน
+
+Step 80/330
+>> Thai - Arabic
+	كان خلفاء مالك الحزين راضين عن درسه المفضل ورأوه.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	苍鹭的继任者对他最喜欢的课程表示满意并看到了它。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	El sucesor de la garza expresó su satisfacción con su curso favorito y lo vio.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Наступник чаплі висловив задоволення улюбленим курсом і побачив це.
+
+Step 84/330
+>> Ukrainian - Spanish
+	El sucesor de la garza se mostró satisfecho con su curso favorito y lo vio.
+
+Step 85/330
+>> Spanish - English
+	The heron's successor was satisfied with his favorite course and saw it.
+
+Step 86/330
+>> English - Mongolian
+	Херон залгамжлагч нь дуртай хичээлдээ сэтгэл хангалуун байсан бөгөөд үүнийг харсан.
+
+Step 87/330
+>> Mongolian - Spanish
+	El sucesor de Hergon estaba satisfecho con sus lecciones favoritas y lo vio.
+
+Step 88/330
+>> Spanish - Arabic
+	كان خليفة هيرغون راضيا عن دروسه المفضلة ورآها.
+
+Step 89/330
+>> Arabic - Kurdish
+	Serkeftina Hergon ji dersên hezkiriyên xwe razî bû û wan dît.
+
+Step 90/330
+>> Kurdish - English
+	Hergon's success was satisfied with the lessons of his loved ones and they saw it.
+
+Step 91/330
+>> English - Dutch
+	Hergons succes was tevreden met de lessen van zijn geliefden en zij zagen het.
+
+Step 92/330
+>> Dutch - English
+	Hergon's success was satisfied with the lessons of his loved ones and they saw it.
+
+Step 93/330
+>> English - Samoan
+	O le manuia o Hergon sa faamalieina i lesona a ana pele ma na la vaai i ai.
+
+Step 94/330
+>> Samoan - Uzbek
+	Gergonning muvaffaqiyati yaqinlarining darslarida yaqqol namoyon bo'ldi va ular buni ko'rishdi.
+
+Step 95/330
+>> Uzbek - English
+	Gergon's success was evident in the lessons of his loved ones, and they saw it.
+
+Step 96/330
+>> English - Arabic
+	كان نجاح جيرسون واضحًا في دروس أحبائه ورأوه.
+
+Step 97/330
+>> Arabic - French
+	Le succès de Gerson était évident dans les leçons de ses proches et l'a vu.
+
+Step 98/330
+>> French - Spanish
+	El éxito de Gerson fue evidente en las lecciones de sus seres queridos y lo vio.
+
+Step 99/330
+>> Spanish - Romanian
+	Succesul lui Gerson a fost evident în lecțiile celor dragi și a văzut.
+
+Step 100/330
+>> Romanian - Filipino
+	Kitang-kita ang tagumpay ni Gerson sa mga aralin ng kanyang mga mahal sa buhay at nakita niya.
+
+Step 101/330
+>> Filipino - Zulu
+	Impumelelo kaGerson yabonakala ezifundweni ezabonwa nabathandekayo bakhe.
+
+Step 102/330
+>> Zulu - Arabic
+	كان نجاح جيرسون واضحًا في الدروس التي رآها أحبائه.
+
+Step 103/330
+>> Arabic - Indonesian
+	Keberhasilan Gerson terlihat jelas dalam pelajaran yang dilihat orang-orang yang dicintainya.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Thành công của Gerson thể hiện rõ qua những bài học mà những người thân yêu của anh đã nhìn thấy.
+
+Step 105/330
+>> Vietnamese - Spanish
+	El éxito de Gerson es evidente en las lecciones que sus seres queridos han visto.
+
+Step 106/330
+>> Spanish - Arabic
+	يتضح نجاح جيرسون في الدروس التي شاهدها أحبائه.
+
+Step 107/330
+>> Arabic - Spanish
+	El éxito de Gerson es evidente en las lecciones que sus seres queridos han visto.
+
+Step 108/330
+>> Spanish - Russian
+	Успех Герсона очевиден в уроках, которые видели его близкие.
+
+Step 109/330
+>> Russian - Arabic
+	يتضح نجاح جيرسون في الدروس التي رآها أحبائه.
+
+Step 110/330
+>> Arabic - Spanish
+	El éxito de Gerson es evidente en las lecciones que vieron sus seres queridos.
+
+Step 111/330
+>> Spanish - Portuguese
+	O sucesso de Gerson é evidente nas lições que seus entes queridos viram.
+
+Step 112/330
+>> Portuguese - English
+	Gerson's success is evident in the lessons his loved ones saw.
+
+Step 113/330
+>> English - Spanish
+	El éxito de Gerson es evidente en las lecciones que vieron sus seres queridos.
+
+Step 114/330
+>> Spanish - English
+	Gerson's success is evident in the lessons his loved ones saw.
+
+Step 115/330
+>> English - Hindi
+	अपने चहेतों को देखे गए पाठों में गर्सन की सफलता स्पष्ट है।
+
+Step 116/330
+>> Hindi - Portuguese
+	O sucesso de Gerson é evidente nas lições vistas para seus favoritos.
+
+Step 117/330
+>> Portuguese - Spanish
+	El éxito de Gerson es evidente en las lecciones vistas para sus favoritos.
+
+Step 118/330
+>> Spanish - English
+	Gerson's success is evident in the lessons seen for his favorites.
+
+Step 119/330
+>> English - Bengali
+	জেরসনের সাফল্য তার প্রিয় পছন্দের জন্য দেখা পাঠ থেকে প্রমাণিত হয়।
+
+Step 120/330
+>> Bengali - French
+	Le succès de Jersen est évident dans les leçons qu'il a vues pour son passe-temps favori.
+
+Step 121/330
+>> French - lao
+	ຄວາມ ສຳ ເລັດຂອງ Jersen ແມ່ນເຫັນໄດ້ຈາກບົດຮຽນທີ່ລາວໄດ້ເຫັນ ສຳ ລັບຄວາມມັກທີ່ລາວມັກ.
+
+Step 122/330
+>> lao - English
+	Jersen's success was evident from the lessons he saw for his hobbies.
+
+Step 123/330
+>> English - Portuguese
+	O sucesso de Jersen ficou evidente nas lições que ele viu para seus hobbies.
+
+Step 124/330
+>> Portuguese - English
+	Jersen's success was evident in the lessons he saw for his hobbies.
+
+Step 125/330
+>> English - Portuguese
+	O sucesso de Jersen ficou evidente nas lições que ele viu para seus hobbies.
+
+Step 126/330
+>> Portuguese - English
+	Jersen's success was evident in the lessons he saw for his hobbies.
+
+Step 127/330
+>> English - Portuguese
+	O sucesso de Jersen ficou evidente nas lições que ele viu para seus hobbies.
+
+Step 128/330
+>> Portuguese - Burmese
+	Jersen ၏အောင်မြင်မှုကိုသူသည်မိမိဝါသနာမှမြင်သင်ခန်းစာများအတွက်ထင်ရှားခဲ့ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	Jersen आफ्नो सोख को सफलता बाट देखेको पाठ देख्न थियो।
+
+Step 130/330
+>> Nepali - Urdu
+	جرسن اپنے شوق کی کامیابی سے سبق دیکھ رہا تھا۔
+
+Step 131/330
+>> Urdu - French
+	Jerseys regardait les leçons de sa passion.
+
+Step 132/330
+>> French - English
+	Jerseys watched the lessons of his passion.
+
+Step 133/330
+>> English - Swahili
+	Jerseys alitazama masomo ya shauku yake.
+
+Step 134/330
+>> Swahili - Arabic
+	نظر الفانيلة إلى موضوعات شغفه.
+
+Step 135/330
+>> Arabic - Shona
+	Iwo majee akatarisa zvinyorwa zvekupokana kwake.
+
+Step 136/330
+>> Shona - Hausa
+	Barkwanci sun kalli rikodin abubuwan da ya hana.
+
+Step 137/330
+>> Hausa - Swahili
+	Majaji walitazama rekodi ya pingamizi zake.
+
+Step 138/330
+>> Swahili - English
+	The judges looked at the record of his objections.
+
+Step 139/330
+>> English - Arabic
+	نظر القضاة في سجل اعتراضاته.
+
+Step 140/330
+>> Arabic - Malagasy
+	Ireo mpitsara dia nandinika ny firaketany.
+
+Step 141/330
+>> Malagasy - Swahili
+	Majaji walichunguza rekodi zao.
+
+Step 142/330
+>> Swahili - French
+	Les juges ont vérifié leurs dossiers.
+
+Step 143/330
+>> French - Arabic
+	فحص القضاة ملفاتهم.
+
+Step 144/330
+>> Arabic - French
+	Les juges ont examiné leurs dossiers.
+
+Step 145/330
+>> French - Arabic
+	فحص القضاة ملفاتهم.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Jij yo egzamine dosye yo.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	قاضیانو ریکارډونه و ارزول.
+
+Step 148/330
+>> Pashto - French
+	Les juges ont examiné les dossiers.
+
+Step 149/330
+>> French - Chichewa
+	Oweruza adawunikiranso mafayilo.
+
+Step 150/330
+>> Chichewa - Arabic
+	كما استعرض القضاة الملفات.
+
+Step 151/330
+>> Arabic - Amharic
+	ዳኞቹም ፋይሎቹን ገምግመዋል ፡፡
+
+Step 152/330
+>> Amharic - English
+	The judges reviewed the files.
+
+Step 153/330
+>> English - French
+	Les juges ont examiné les dossiers.
+
+Step 154/330
+>> French - Swahili
+	Majaji walikagua faili.
+
+Step 155/330
+>> Swahili - Portuguese
+	Os juízes revisaram o arquivo.
+
+Step 156/330
+>> Portuguese - Arabic
+	راجع القضاة الملف.
+
+Step 157/330
+>> Arabic - Portuguese
+	Veja o arquivo dos juízes.
+
+Step 158/330
+>> Portuguese - English
+	See the judges file.
+
+Step 159/330
+>> English - French
+	Voir le dossier des juges.
+
+Step 160/330
+>> French - English
+	See the judges' file.
+
+Step 161/330
+>> English - Swahili
+	Tazama faili la wajaji.
+
+Step 162/330
+>> Swahili - Arabic
+	عرض ملف الحكام.
+
+Step 163/330
+>> Arabic - Arabic
+	View referees file.
+
+Step 164/330
+>> Arabic - French
+	Voir le fichier des arbitres.
+
+Step 165/330
+>> French - Hausa
+	Duba fayil ɗin alƙali.
+
+Step 166/330
+>> Hausa - French
+	Vérifiez le dossier du juge.
+
+Step 167/330
+>> French - Arabic
+	Check the judge's file.
+
+Step 168/330
+>> Arabic - Arabic
+	تحقق من ملف القاضي.
+
+Step 169/330
+>> Arabic - Swahili
+	Angalia faili la jaji.
+
+Step 170/330
+>> Swahili - English
+	Check the judge file.
+
+Step 171/330
+>> English - French
+	Vérifiez le dossier du juge.
+
+Step 172/330
+>> French - English
+	Check the judge's file.
+
+Step 173/330
+>> English - Portuguese
+	Verifique o arquivo do juiz.
+
+Step 174/330
+>> Portuguese - Arabic
+	تحقق من ملف القاضي.
+
+Step 175/330
+>> Arabic - Portuguese
+	Verifique o arquivo do juiz.
+
+Step 176/330
+>> Portuguese - Swahili
+	Angalia faili la jaji.
+
+Step 177/330
+>> Swahili - French
+	Vérifiez le dossier du juge.
+
+Step 178/330
+>> French - English
+	Check the judge's file.
+
+Step 179/330
+>> English - Amharic
+	የዳኛውን ፋይል ይፈትሹ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	تحقق من ملف القاضي.
+
+Step 181/330
+>> Arabic - Chichewa
+	Yang'anani fayilo ya woweruza.
+
+Step 182/330
+>> Chichewa - French
+	Regardez le dossier du juge.
+
+Step 183/330
+>> French - Pashto
+	د قاضي فایل وګورئ.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Gade dosye jij la.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	انظر سجل القاضي.
+
+Step 186/330
+>> Arabic - French
+	Voir le dossier du juge.
+
+Step 187/330
+>> French - Arabic
+	انظر ملف القاضي.
+
+Step 188/330
+>> Arabic - French
+	Voir le dossier du juge.
+
+Step 189/330
+>> French - Swahili
+	Tazama faili la jaji.
+
+Step 190/330
+>> Swahili - Malagasy
+	Jereo ny rakitra mpitsara.
+
+Step 191/330
+>> Malagasy - Arabic
+	انظر ملف القاضي.
+
+Step 192/330
+>> Arabic - English
+	See the judge's file.
+
+Step 193/330
+>> English - Swahili
+	Tazama faili la jaji.
+
+Step 194/330
+>> Swahili - Hausa
+	Duba fayil din alkali.
+
+Step 195/330
+>> Hausa - Shona
+	Tarisa faira remutongi.
+
+Step 196/330
+>> Shona - Arabic
+	تحقق من ملف المسؤول.
+
+Step 197/330
+>> Arabic - Swahili
+	Angalia faili ya Msimamizi.
+
+Step 198/330
+>> Swahili - English
+	Check the Administrator file.
+
+Step 199/330
+>> English - French
+	Vérifiez le fichier d'administrateur.
+
+Step 200/330
+>> French - Urdu
+	ایڈمنسٹریٹر کی فائل کو چیک کریں۔
+
+Step 201/330
+>> Urdu - Nepali
+	प्रशासक फाईल जाँच गर्नुहोस्।
+
+Step 202/330
+>> Nepali - Burmese
+	ဖိုင်ကိုစီမံအုပ်ချုပ်သူကိုစစ်ဆေးပါ။
+
+Step 203/330
+>> Burmese - Portuguese
+	Verifique o arquivo para o administrador.
+
+Step 204/330
+>> Portuguese - English
+	Check the file for the administrator.
+
+Step 205/330
+>> English - Portuguese
+	Verifique o arquivo para o administrador.
+
+Step 206/330
+>> Portuguese - English
+	Check the file for the administrator.
+
+Step 207/330
+>> English - Portuguese
+	Verifique o arquivo para o administrador.
+
+Step 208/330
+>> Portuguese - English
+	Check the file for the administrator.
+
+Step 209/330
+>> English - lao
+	ກວດເບິ່ງເອກະສານ ສຳ ລັບຜູ້ເບິ່ງແຍງລະບົບ.
+
+Step 210/330
+>> lao - French
+	Consultez la documentation de l'administrateur.
+
+Step 211/330
+>> French - Bengali
+	প্রশাসকের ডকুমেন্টেশন দেখুন।
+
+Step 212/330
+>> Bengali - English
+	See Administrator's Documentation.
+
+Step 213/330
+>> English - Spanish
+	Ver la documentación del administrador.
+
+Step 214/330
+>> Spanish - Portuguese
+	Consulte a documentação do administrador.
+
+Step 215/330
+>> Portuguese - Hindi
+	व्यवस्थापक दस्तावेज़ देखें।
+
+Step 216/330
+>> Hindi - English
+	See the administrator documentation.
+
+Step 217/330
+>> English - Spanish
+	Consulte la documentación del administrador.
+
+Step 218/330
+>> Spanish - English
+	Consult the administrator documentation.
+
+Step 219/330
+>> English - Portuguese
+	Consulte a documentação do administrador.
+
+Step 220/330
+>> Portuguese - Spanish
+	Consulte la documentación del administrador.
+
+Step 221/330
+>> Spanish - Arabic
+	راجع وثائق المسؤول.
+
+Step 222/330
+>> Arabic - Russian
+	Смотрите документацию вашего администратора.
+
+Step 223/330
+>> Russian - Spanish
+	Consulte su documentación de administrador.
+
+Step 224/330
+>> Spanish - Arabic
+	راجع وثائق المسؤول الخاص بك.
+
+Step 225/330
+>> Arabic - Spanish
+	Consulte su documentación de administrador.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Tham khảo tài liệu quản trị viên của bạn.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Baca dokumentasi administrator Anda.
+
+Step 228/330
+>> Indonesian - Arabic
+	قراءة وثائق المسؤول الخاص بك.
+
+Step 229/330
+>> Arabic - Zulu
+	Funda imibhalo yakho yomqondisi.
+
+Step 230/330
+>> Zulu - Filipino
+	Basahin ang iyong dokumentasyon ng admin.
+
+Step 231/330
+>> Filipino - Romanian
+	Citiți documentația dvs. de administrator.
+
+Step 232/330
+>> Romanian - Spanish
+	Lea la documentación de su administrador.
+
+Step 233/330
+>> Spanish - French
+	Lisez la documentation de votre administrateur.
+
+Step 234/330
+>> French - Arabic
+	قراءة وثائق المسؤول الخاص بك.
+
+Step 235/330
+>> Arabic - English
+	Read your administrator documentation.
+
+Step 236/330
+>> English - Uzbek
+	Administratoringiz hujjatlarini o'qing.
+
+Step 237/330
+>> Uzbek - Samoan
+	Faitau faʻamatalaga a lau pule.
+
+Step 238/330
+>> Samoan - English
+	Read your boss's comments.
+
+Step 239/330
+>> English - Dutch
+	Lees de opmerkingen van je baas.
+
+Step 240/330
+>> Dutch - English
+	Read your boss's comments.
+
+Step 241/330
+>> English - Kurdish
+	Bîroveyên xweyên xweyê bixwînin.
+
+Step 242/330
+>> Kurdish - Arabic
+	قراءة تعليقات المطعم الخاص بك.
+
+Step 243/330
+>> Arabic - Spanish
+	Lee los comentarios de tu restaurante.
+
+Step 244/330
+>> Spanish - Mongolian
+	Рестораныхаа сэтгэгдлийг уншина уу.
+
+Step 245/330
+>> Mongolian - English
+	Read the restaurant reviews.
+
+Step 246/330
+>> English - Spanish
+	Lee los comentarios del restaurante.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Прочитайте коментарі ресторану.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Lee los comentarios del restaurante.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	阅读餐厅的评论。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	قراءة الاستعراضات للمطعم.
+
+Step 251/330
+>> Arabic - Thai
+	อ่านรีวิวของร้านอาหาร
+
+Step 252/330
+>> Thai - Armenian
+	Կարդացեք ռեստորանների ակնարկները
+
+Step 253/330
+>> Armenian - Macedonian
+	Прочитајте ги коментарите на ресторани:
+
+Step 254/330
+>> Macedonian - Arabic
+	قراءة مراجعات المطعم:
+
+Step 255/330
+>> Arabic - Portuguese
+	Leia avaliações de restaurantes:
+
+Step 256/330
+>> Portuguese - Spanish
+	Leer comentarios del restaurante:
+
+Step 257/330
+>> Spanish - Bosnian
+	Pročitajte recenzije restorana:
+
+Step 258/330
+>> Bosnian - Sinhala
+	අවන්හල් සමාලෝචන කියවන්න:
+
+Step 259/330
+>> Sinhala - English
+	Read restaurant reviews:
+
+Step 260/330
+>> English - Spanish
+	Leer comentarios del restaurante:
+
+Step 261/330
+>> Spanish - English
+	Read restaurant reviews:
+
+Step 262/330
+>> English - Georgian
+	წაიკითხეთ რესტორნების მიმოხილვები:
+
+Step 263/330
+>> Georgian - English
+	Read restaurant reviews:
+
+Step 264/330
+>> English - Albanian
+	Lexoni kritikat e restorantit:
+
+Step 265/330
+>> Albanian - Serbian
+	Прочитајте рецензије ресторана:
+
+Step 266/330
+>> Serbian - Spanish
+	Leer comentarios del restaurante:
+
+Step 267/330
+>> Spanish - English
+	Read restaurant reviews:
+
+Step 268/330
+>> English - Turkish
+	Restoran incelemelerini okuyun:
+
+Step 269/330
+>> Turkish - Spanish
+	Leer comentarios del restaurante:
+
+Step 270/330
+>> Spanish - French
+	Lire les avis sur les restaurants:
+
+Step 271/330
+>> French - English
+	Read restaurant reviews:
+
+Step 272/330
+>> English - Persian
+	بررسی رستوران ها را بخوانید:
+
+Step 273/330
+>> Persian - Kazakh
+	Мейрамхананың шолуларын оқыңыз:
+
+Step 274/330
+>> Kazakh - English
+	Read reviews of the restaurant:
+
+Step 275/330
+>> English - Malay
+	Baca ulasan restoran:
+
+Step 276/330
+>> Malay - Arabic
+	قراءة مراجعات المطعم:
+
+Step 277/330
+>> Arabic - Spanish
+	Leer comentarios del restaurante:
+
+Step 278/330
+>> Spanish - English
+	Read restaurant reviews:
+
+Step 279/330
+>> English - Russian
+	Читайте отзывы о ресторане:
+
+Step 280/330
+>> Russian - Romanian
+	Citește recenziile restaurantelor:
+
+Step 281/330
+>> Romanian - Bulgarian
+	Прочетете отзиви за ресторанта:
+
+Step 282/330
+>> Bulgarian - Albanian
+	Lexoni kritikat e restorantit:
+
+Step 283/330
+>> Albanian - Russian
+	Читайте отзывы о ресторане:
+
+Step 284/330
+>> Russian - Arabic
+	قراءة مراجعات المطعم:
+
+Step 285/330
+>> Arabic - Spanish
+	Leer comentarios del restaurante:
+
+Step 286/330
+>> Spanish - Croatian
+	Pročitajte recenzije restorana:
+
+Step 287/330
+>> Croatian - Hungarian
+	Olvassa el az étteremről szóló véleményeket:
+
+Step 288/330
+>> Hungarian - Spanish
+	Leer comentarios del restaurante:
+
+Step 289/330
+>> Spanish - Arabic
+	قراءة مراجعات المطعم:
+
+Step 290/330
+>> Arabic - Portuguese
+	Leia avaliações de restaurantes:
+
+Step 291/330
+>> Portuguese - Latvian
+	Lasīt restorānu atsauksmes:
+
+Step 292/330
+>> Latvian - Arabic
+	قراءة مراجعات المطعم:
+
+Step 293/330
+>> Arabic - Malay
+	Baca ulasan restoran:
+
+Step 294/330
+>> Malay - Slovak
+	Prečítajte si recenzie reštaurácií:
+
+Step 295/330
+>> Slovak - Arabic
+	قراءة مراجعات مطعم:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Perskaitykite restoranų atsiliepimus:
+
+Step 297/330
+>> Lithuanian - Catalan
+	Llegiu els comentaris dels restaurants:
+
+Step 298/330
+>> Catalan - Arabic
+	قراءة مراجعات المطعم:
+
+Step 299/330
+>> Arabic - Polish
+	Przeczytaj recenzje restauracji:
+
+Step 300/330
+>> Polish - Turkish
+	Restoran incelemelerini okuyun:
+
+Step 301/330
+>> Turkish - Greek
+	Διαβάστε κριτικές εστιατορίων:
+
+Step 302/330
+>> Greek - Estonian
+	Loe restoraniarvamusi:
+
+Step 303/330
+>> Estonian - Maltese
+	Aqra r-reviżjonijiet tar-ristoranti:
+
+Step 304/330
+>> Maltese - Italian
+	Leggi recensioni di ristoranti:
+
+Step 305/330
+>> Italian - Czech
+	Přečtěte si recenze restaurací:
+
+Step 306/330
+>> Czech - Spanish
+	Leer comentarios del restaurante:
+
+Step 307/330
+>> Spanish - Slovenian
+	Preberite recenzije restavracij:
+
+Step 308/330
+>> Slovenian - French
+	Lire les avis sur les restaurants:
+
+Step 309/330
+>> French - Korean
+	레스토랑 리뷰 읽기 :
+
+Step 310/330
+>> Korean - Hebrew
+	קרא ביקורות על מסעדות:
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Liest Restaurant Bewäertungen:
+
+Step 312/330
+>> Luxembourgish - German
+	Restaurantbewertungen lesen:
+
+Step 313/330
+>> German - Japanese
+	レストランのレビューを読む：
+
+Step 314/330
+>> Japanese - German
+	Restaurantbewertungen lesen:
+
+Step 315/330
+>> German - Dutch
+	Lees restaurantrecensies:
+
+Step 316/330
+>> Dutch - Maori
+	Pānuihia nga arotake wharekai:
+
+Step 317/330
+>> Maori - Finnish
+	Lue ravintola-arvosteluita:
+
+Step 318/330
+>> Finnish - English
+	Read restaurant reviews:
+
+Step 319/330
+>> English - Danish
+	Læs restaurantanmeldelser:
+
+Step 320/330
+>> Danish - Dutch
+	Lees restaurantrecensies:
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	閱讀餐廳評論：
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Läs restaurangrecensioner:
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	閱讀餐廳評論：
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Lestu umsagnir um veitingastaði:
+
+Step 325/330
+>> Icelandic - German
+	Restaurantbewertungen lesen:
+
+Step 326/330
+>> German - Irish
+	Léigh athbhreithnithe ar an mbialann:
+
+Step 327/330
+>> Irish - English
+	Read reviews of the restaurant:
+
+Step 328/330
+>> English - German
+	Lesen Sie die Bewertungen des Restaurants:
+
+Step 329/330
+>> German - Norwegian
+	Les anmeldelser av restauranten:
+
+Step 330/330
+>> Norwegian - Portuguese
+	Leia as resenhas de restaurantes:
+
+
+##### RESULTS ######
+
+O califa Harun al-Rachid, muito contente por ter ficado sabendo o que lhe interessava, manifestou a admiração que lhe causava o que acabara de ouvir...
+
+Leia as resenhas de restaurantes:

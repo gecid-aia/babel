@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Dubã bebera a sua ciência em livros gregos, persas, turcos, árabes, latinos, sírios e hebraicos, e além de mestre na filosofia, conhecia perfeitamente as boas e más qualidades de todas as espécies de plantas e drogas. Mal soube da doença do rei, a quem os médicos haviam abandonado, vestiu-se da melhor maneira possível, e descobriu um modo de fazer com que o apresentassem ao rei. “Sire, disse-lhe ele, sei que os médicos de que vos servistes não souberam curar-vos da lepra; mas se me derdes a honra de aceitar os meus serviços, comprometo-me a vos curar sem beberagens e sem emplastros.” Respondeu-lhe orei: “Se fordes capaz de fazer o que afirmais, prometo enriquecer-vos a vós e à vossa posteridade e, além dos presentes que vos darei, sereis o mais caro dos meus favoritos. Assegurais-me, pois, que me tirareis a lepra, sem me dardes poção, e sem me aplicardes nenhum remédio externo?” “Sim, Sire, replicou o médico, gabo-me disso, com o auxílio de Deus. E amanhã o demonstrarei.”
+
+Step 1/330
+>> Portuguese - Norwegian
+	Duban hadde drukket sin vitenskap i greske, persiske, tyrkiske, arabiske, latin, syriske og hebraiske bøker, og foruten å være en mester i filosofi, kjente han perfekt de gode og dårlige egenskapene til alle slags planter og medisiner. Lite visste han om sykdommen til kongen, som legene hadde forlatt, kledd så godt han kunne, og han fant en måte å få dem presentert for kongen. "Herre," sa han til henne, "jeg vet at legene du brukte ikke kunne kurere deg for spedalskhet; men hvis du gir meg æren til å ta imot tjenestene mine, lover jeg å helbrede deg uten drikke og gips. ”Jeg ba til ham,“ Hvis du kan gjøre det du sier, lover jeg å berike deg og din ettertiden. og foruten gavene jeg vil gi deg, vil du være den dyreste av favorittene mine. Forsikrer du meg da, at du vil fjerne meg fra spedalskhet, uten å gi meg en potion og uten å gi meg noe eksternt middel? ' Og i morgen skal jeg vise det. ”
+
+Step 2/330
+>> Norwegian - German
+	Duban hatte seine Wissenschaft in griechischen, persischen, türkischen, arabischen, lateinischen, syrischen und hebräischen Büchern getrunken und war nicht nur ein Meister der Philosophie, sondern kannte auch die guten und schlechten Eigenschaften aller Arten von Pflanzen und Arzneimitteln perfekt. Er wusste wenig über die Krankheit des Königs, die die Ärzte zurückgelassen hatten, und fand einen Weg, sie dem König zu überreichen. "Herr", sagte er zu ihr, "ich weiß, dass die Ärzte, die Sie benutzten, Sie nicht von Lepra heilen konnten; aber wenn Sie mir die Ehre geben, meine Dienste zu erhalten, verspreche ich, Sie ohne Getränk und Gips zu heilen." zu ihm: "Wenn du tun kannst, was du sagst, verspreche ich dir, dich und deine Nachwelt zu bereichern. Und neben den Geschenken, die ich dir geben werde, wirst du der teuerste meiner Favoriten sein. Dann versichere mir, dass du mich von Lepra befreien wirst, ohne mir einen Trank zu geben und ohne mir ein äußeres Mittel zu geben? "Und morgen werde ich es zeigen."
+
+Step 3/330
+>> German - English
+	Duban had drank his science in Greek, Persian, Turkish, Arabic, Latin, Syrian and Hebrew books and was not only a master of philosophy, but also knew the good and bad qualities of all kinds of plants and medicines perfectly. He knew little about the king's illness left by the doctors and found a way to hand it over to the king. "Sir," he said to her, "I know that the doctors you used could not cure you of leprosy, but if you give me the honor of receiving my services, I promise to serve you without drink and plaster heal." to him, "If you can do what you say, I promise to enrich you and your posterity, and besides the gifts I will give you, you will be the dearest of my favorites, then assure me that you are me leprosy without giving me a potion and without giving me any external means? "And tomorrow I will show it."
+
+Step 4/330
+>> English - Irish
+	Bhí Duban ag ól a chuid eolaíochta i leabhair Ghréigise, Peirsis, Tuircis, Araibis, Laidin, Siria agus Eabhrais agus ní hamháin gur mháistir fealsúnachta é, ach bhí cáilíochtaí maithe agus maithe gach cineál plandaí agus cógais ar eolas go foirfe aige freisin. Ní raibh a fhios aige mórán faoi thinneas an rí a d'fhág na dochtúirí agus fuair sé bealach chun é a thabhairt don rí. "A Thiarna," a dúirt sé léi, "Tá a fhios agam nach bhféadfadh na dochtúirí a d'úsáid tú tú a leigheas de lobhra, ach má thugann tú an onóir dom mo chuid seirbhísí a fháil, geallaim duit freastal ort gan deoch agus plástair a leigheas." dó, "Más féidir leat an méid a deir tú a dhéanamh, geallaim duit sibh féin agus do shliocht a shaibhriú, agus sa bhreis ar na bronntanais a thabharfaidh mé duit, beidh tú an-sásta le mo rogha, ansin tabharfaidh mé dom gur lobhra mé gan a thabhairt dom potion agus gan aon bhealaí seachtracha a thabhairt dom? "Agus amárach taispeánfaidh mé é."
+
+Step 5/330
+>> Irish - German
+	Duban trank seine Wissenschaft in den Büchern Griechisch, Persisch, Türkisch, Arabisch, Lateinisch, Syrisch und Hebräisch und war nicht nur ein Meister der Philosophie, sondern besaß auch die guten und guten Eigenschaften aller Arten von Pflanzen und Arzneimitteln. Er wusste nicht viel über die Krankheit des Königs, die die Ärzte hinterlassen hatten, und fand einen Weg, sie dem König zu geben. "Herr", sagte er zu ihr, "ich weiß, dass die Ärzte, die Sie benutzten, Sie nicht von Lepra heilen konnten, aber wenn Sie mir die Ehre geben, meine Dienste zu empfangen, verspreche ich Ihnen, Ihnen ohne Getränk und zu dienen." Gips zu heilen. " zu ihm: "Wenn du tun kannst, was du sagst, verspreche ich dir, dich und deine Nachkommen zu bereichern, und zusätzlich zu den Geschenken, die ich dir geben werde, wirst du mit meiner Wahl sehr glücklich sein, dann werde ich dir diesen Aussatz geben Ich gebe mir keinen Trank und gebe mir keine äußeren Wege? "Und morgen werde ich es zeigen."
+
+Step 6/330
+>> German - Icelandic
+	Duban drakk vísindi sín á grísku, persnesku, tyrknesku, arabísku, latnesku, sýrlensku og hebresku og var ekki aðeins meistari í heimspeki, heldur bjó hann yfir góðum og góðum eiginleikum alls konar plantna og lyfja. Hann vissi ekki mikið um veikindi konungs sem læknarnir höfðu skilið eftir og hann fann leið til að veita konungi það. „Herra,“ sagði hann við hana, „ég veit að læknarnir sem þú notaðir gátu ekki læknað þig af líkþrá, en ef þú gefur mér þann heiður að fá þjónustu mína, þá lofa ég þér, án drykkjar og til þín þjóna. " Til að lækna gifs. „Honum,„ Ef þú getur gert það sem þú segir, lofa ég að auðga þig og afkomendur þína, og auk gjafanna sem ég mun gefa þér, munt þú vera mjög ánægður með val mitt, þá mun ég verða þú gefðu þessum líkþrá, ég gef mér engan drykk og gef mér engar ytri leiðir? „Og á morgun mun ég sýna það.“
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	杜班以希臘語，波斯語，土耳其語，阿拉伯語，拉丁語，敘利亞語和希伯來語飲用他的科學，不僅是哲學碩士，而且在各種植物和藥物中都具有良好和良好的品質。他對醫生留下的國王的病情知之甚少，他找到了一種方法把它交給國王。 “先生，”他對她說，“我知道你使用的醫生無法治愈你的麻風病，但如果你能給我榮幸接受我的服務，我向你保證，不喝酒，為你服務。 “要治療膏藥。”對他來說，“如果你能做你說的話，我保證會豐富你和你的後代，除了我會給你的禮物，你會很滿意我的選擇，我會你給這個麻風病，我不給自己喝酒，也不給我任何外在的手段？“明天我會表現出來。”
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Duban dricker sin vetenskap på grekiska, persiska, turkiska, arabiska, latinska, syriska och hebreiska, han är inte bara en filosofie mästare utan har också goda och goda egenskaper i alla typer av växter och mediciner. Han visste väldigt lite om den sjukdom som kungen lämnade av läkaren och han hittade ett sätt att överlämna den till kungen. "Sir," sa han till henne. "Jag vet att den läkare du använder inte kan bota din spetälska, men om du kan ge mig äran att acceptera mina tjänster försäkrar jag dig att du inte dricker alkohol och serverar dig." gips. "För honom," Om du kan göra vad du säger, lovar jag att berika dig och dina ättlingar, med undantag för de gåvor jag ger dig, kommer du att vara mycket nöjd med mitt val, jag kommer att ge dig denna spedalskhet, jag Ge dig inte en drink, ge mig inte några externa medel? "Jag kommer att visa det imorgon."
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	杜班以希臘語，波斯語，土耳其語，阿拉伯語，拉丁語，敘利亞語和希伯來語學習他的科學，他不僅是哲學的大師，而且在所有類型的植物和藥物中都具有良好和良好的品質。他對國王離開醫生的疾病知之甚少，並找到了將其傳遞給國王的方法。 “先生，”他告訴她。 “我知道你使用的醫生無法治愈你的麻風病，但如果你能給我榮幸接受我的服務，我向你保證，你不喝酒並為你服務。”石膏。 “對他來說，”如果你能做你說的話，我保證會豐富你和你的後代，除了我給你的禮物，你會很滿意我的選擇，我會給你這個麻風病，我不要給你喝酒，不給我任何外部資金？ “我明天會出示。”
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Duban studeert zijn wetenschap in het Grieks, Perzisch, Turks, Arabisch, Latijn, Syrisch en Hebreeuws, hij is niet alleen een meester in de filosofie, maar ook goed en goed in alle soorten planten en medicijnen. kwaliteit. Hij wist heel weinig over de ziekte van de koning die de dokter verliet en vond een manier om het aan de koning door te geven. "Meneer," vertelde hij haar. "Ik weet dat de arts die je gebruikt je melaatsheid niet kan genezen, maar als je me de eer kunt geven om mijn dienst te aanvaarden, verzeker ik je dat je niet drinkt en je dient." Gips. "Voor hem", als je kunt doen wat je zegt, beloof ik je en je nakomelingen te verrijken, behalve de geschenken die ik je geef, je zult zeer tevreden zijn met mijn keuze, ik zal je deze melaatsheid geven, ik wil niet Geef je een drankje, geef me geen externe fondsen? "Ik zal het morgen tonen."
+
+Step 11/330
+>> Dutch - Danish
+	Duban studerer sin videnskab på græsk, persisk, tyrkisk, arabisk, latin, syrisk og hebraisk, han er ikke kun en filosofimester, men også god og god i alle typer planter og medicin. kvalitet. Han vidste meget lidt om kongens sygdom, som lægen forlod og fandt en måde at give den videre til kongen. ”Sir,” fortalte han hende. "Jeg ved, at den læge, du bruger, ikke kan kurere din spedalskhed, men hvis du kan give mig æren af at acceptere min tjeneste, kan jeg forsikre dig om, at du ikke drikker og serverer." Gips. "For ham", hvis du kan gøre, hvad du siger, lover jeg at berige dig og dine efterkommere, undtagen de gaver, jeg giver dig, vil du være meget tilfreds med mit valg, jeg vil give dig denne spedalskhed, jeg vil ikke give har du en drink, giver du mig ikke eksterne midler? "Jeg viser det i morgen."
+
+Step 12/330
+>> Danish - English
+	Duban studies his science in Greek, Persian, Turkish, Arabic, Latin, Syriac and Hebrew, he is not only a master of philosophy but also good and good in all types of plants and medicine. quality. He knew very little about the king's illness which the doctor left and found a way to pass it on to the king. "Sir," he told her. "I know that the doctor you are using cannot cure your leprosy, but if you can give me the honor of accepting my service, I can assure you that you are not drinking and serving." Plaster. "For him" if you can do what you say, I promise to enrich you and your descendants, except the gifts I give you, you will be very happy with my choice, I will give you this leprosy, I will not give you a drink, do you not give me external funds? "I'll show it tomorrow."
+
+Step 13/330
+>> English - Finnish
+	Duban opiskelee tieteitään kreikan, persian, turkin, arabian, latina, syyrian ja hepreaksi. Hän ei ole vain filosofian päällikkö, vaan myös hyvää ja hyvää kaikentyyppisissä kasveissa ja lääkkeissä. laatu. Hän tiesi hyvin vähän kuninkaan sairaudesta, jonka lääkäri jätti, ja löysi tavan välittää se kuninkaalle. "Sir", hän kertoi hänelle. "Tiedän, että käyttämäsi lääkäri ei pysty parantamaan lepraasi, mutta jos voitte antaa minulle kunnia hyväksyä palveluni, voin vakuuttaa teille, ettet juota ja palvele." Kipsi. "Hänelle", jos pystyt tekemään mitä sanot, lupaan rikastuttaa sinua ja jälkeläisiäsi, paitsi lahjoja, jotka minä annan sinulle, olet erittäin tyytyväinen valintaani, annan sinulle tämän spitaalin, en anna sinulle juo, etkö anna minulle ulkoisia varoja? "Näytän sen huomenna."
+
+Step 14/330
+>> Finnish - Maori
+	Kei te ako a Duban i te aoiao i te Kariki, Persian, Turkish, Arab, Latin, Syrian me te Hiperu. Ehara ia i te rangatira piripiri, engari he pai hoki te pai ki nga momo otaota katoa me nga rongoa. kounga. He iti nei ona whakaaro mo te mate o te kingi i mahue i te taakuta, a ka kitea he ara hei tuku atu ki te kingi. Ka mea tera ki a ia, E kara, e te Ariki. "E mohio ana ahau ki te taakuta e whakamahia ana e koe kaore e rongoa te repera, engari ki te taea e koe te whakakii i taku ratonga, ka pono taku ki atu kia kaua koe e inu me te mahi." Gypsum. "Ki a ia," ka taea e koe te mahi i au korero, ka oati ahau kia whakanuia koe me to uri, mena ko nga taonga ka hoatu e ahau ki a koe, ka tino koa koe ki taku i whiriwhiri ai, ka hoatu e ahau ki a koe tenei repera, kaore ahau e tuku inu, kaore koe e homai i nga moni o waho? "Ka whakaatu e ahau apopo."
+
+Step 15/330
+>> Maori - Dutch
+	Duban doceert wetenschap in het Grieks, Perzisch, Turks, Arabisch, Latijns, Syrisch en Hebreeuws. Hij is geen diehard meester, maar hij is ook goed in allerlei kruiden en medicijnen. kwaliteit. Hij had weinig idee van de dood van de koning achtergelaten door de dokter en vond een manier om het naar de koning te sturen. Ze zei tegen hem: "Heer, heer." "Ik weet dat de arts die je gebruikt, geen melaatsheid geneest, maar als je mijn dienst kunt vervullen, zou ik zeker zeggen dat je niet moet drinken en het moet doen." Gips. "Aan hem", je kunt doen wat je zegt, ik beloof je en je nageslacht te eren, voor welke geschenken ik je ook geef, je zult heel blij zijn met wat ik heb gekozen en gegeven Ik geef je deze melaatse, ik drink niet, geef je me geen geld? "Ik zal het je morgen tonen."
+
+Step 16/330
+>> Dutch - German
+	Duban unterrichtet Naturwissenschaften in Griechisch, Persisch, Türkisch, Arabisch, Latein, Syrisch und Hebräisch. Er ist kein eingefleischter Meister, aber er ist auch gut in allen Arten von Kräutern und Medikamenten. Qualität. Er hatte wenig Ahnung vom Tod des Königs, den der Arzt hinterlassen hatte, und fand einen Weg, ihn dem König zu schicken. Sie sagte zu ihm: "Herr, Herr." "Ich weiß, dass der von Ihnen verwendete Arzt Lepra nicht heilt, aber wenn Sie meinen Dienst tun können, würde ich definitiv sagen, dass Sie nicht trinken und es tun sollten." Gips. "Ihm", Sie können tun, was Sie sagen, ich verspreche, Sie und Ihren Nachwuchs zu ehren, was auch immer ich Ihnen schenke, Sie werden sehr glücklich sein mit dem, was ich gewählt und gegeben habe. Ich gebe Ihnen diesen Aussätzigen, ich trinke nicht gibst du mir nicht geld "Ich zeige es dir morgen."
+
+Step 17/330
+>> German - Japanese
+	Dubanは、ギリシャ語、ペルシャ語、トルコ語、アラビア語、ラテン語、シリア語、ヘブライ語で科学を教えています。彼は熱心なマスターではありませんが、あらゆる種類のハーブや薬も得意です。品質。彼は医者が王の死について何も知らなかったので、王に彼を送る方法を見つけました。彼女は彼に言った、「主よ、主よ」。 「あなたが使用している医師がハンセン病を治すわけではないことは知っていますが、もしあなたが私のサービスをすることができれば、絶対飲まないでください」石膏。 「彼」、あなたはあなたが言うことをすることができます、私はあなたとあなたの子孫を敬うことを約束します、私があなたに与えるものは何でも、あなたは私が選んだものと与えたものに非常に満足します。私はあなたにこのハンセン病患者を与えます、私はあなたに私にお金を与えないで飲まない「明日お見せします」。
+
+Step 18/330
+>> Japanese - German
+	Duban unterrichtet Naturwissenschaften in Griechisch, Persisch, Türkisch, Arabisch, Latein, Syrisch und Hebräisch. Er ist kein begeisterter Meister, aber gut in allen Arten von Kräutern und Medikamenten. Qualität. Er fand einen Weg, ihn zum König zu schicken, weil der Arzt nichts über den Tod des Königs wusste. Sie sagte zu ihm: "Herr, Herr." "Ich weiß, dass der von Ihnen verwendete Arzt Lepra nicht heilt, aber wenn Sie meinen Dienst tun können, trinken Sie ihn nicht." "Er", du kannst tun, was du sagst, ich verspreche, dich und deine Nachkommen zu ehren, was auch immer ich dir gebe, du gibst mir, was ich gewählt habe Ich bin sehr zufrieden mit dem, was ich habe. Ich gebe dir diesen Leprakranken, ich zeige es dir morgen nicht, gib mir kein Geld.
+
+Step 19/330
+>> German - Luxembourgish
+	Den Duban léiert Wëssenschaft op Griichesch, Persesch, Türkesch, Arabesch, Latäin, Syriesch an Hebräesch. Hien ass net e begeeschterten Master, awer gutt an all Zorten vu Kraider a Medikamenter. Qualitéit. Hien huet e Wee fonnt fir hien an de Kinnek ze schécken well den Dokter näischt iwwer den Doud vum Kinnek wosst. Si sot zu him: "Här, Här." "Ech weess datt den Dokter deen Dir benotzt net Lepra geheelt, awer wann Dir mäi Service ka maachen, drénkt et net." "Hien", Dir kënnt maachen wat Dir seet, ech verspriechen Iech an Är Nokommen ze éieren, wat ech dir ginn, Dir gitt mir dat, wat ech gewielt hunn, ech si ganz frou mat deem wat ech hunn. Ech ginn Iech dës Lepra-Leed, ech weisen Iech et net muer, gitt mir keng Suen.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	דובן מלמד מדעים ביוונית, פרסית, טורקית, ערבית, לטינית, סורית ועברית. הוא לא אדון מושבע, אבל טוב בכל מיני עשבי תיבול ותרופות. איכות. הוא מצא דרך לשלוח אותו למלך מכיוון שהרופא לא ידע דבר על מות המלך. היא אמרה לו: "אדוני אדוני." "אני יודע שהרופא שאתה משתמש בו לא מרפא את צרעת, אבל אם אתה יכול לעשות את השירות שלי, אל תשתה את זה." "הוא", אתה יכול לעשות מה שאתה אומר, אני מבטיח לכבד אותך ואת צאצאיך, את מה שאני נותן לך, אתה נותן לי את מה שבחרתי, אני מאוד שמח עם מה שיש לי. אני הולך לתת לך את הצרעת הזו, אני לא אראה לך מחר, אל תיתן לי כסף.
+
+Step 21/330
+>> Hebrew - Korean
+	Duban은 그리스어, 페르시아어, 터키어, 아랍어, 라틴어, 시리아 어 및 히브리어로 과학을 가르칩니다. 그는 맹세하지 않고 모든 종류의 약초와 약에 능숙합니다. 품질. 의사는 왕의 죽음에 대해 아무것도 몰랐기 때문에 그를 왕에게 보낼 방법을 찾았습니다. 그녀는 그에게 말했다 : "선생님." "나는 당신이 사용하는 의사가 나병을 치료하지 않는다는 것을 알고 있지만, 내 서비스를 할 수 있다면 마시지 마십시오." "그", 당신은 당신이 말한 것을 할 수 있습니다. 나는 당신과 당신의 후손들을 존중할 것을 약속드립니다. 나는 당신에게이 나병을 줄 것입니다, 나는 내일 당신을 보여주지 않을 것입니다, 나에게 돈을주지 마십시오.
+
+Step 22/330
+>> Korean - French
+	Duban enseigne les sciences en grec, persan, turc, arabe, latin, syrien et hébreu. Il ne jure pas, il est doué pour toutes sortes d'herbes et de médicaments. Qualité. Le médecin ne savait rien de la mort du roi, il a donc trouvé un moyen de l'envoyer au roi. Elle lui a dit: "Maître." "Je sais que le médecin que vous utilisez ne guérit pas la lèpre, mais n'en buvez pas si vous pouvez faire appel à mes services." "Cela", vous pouvez faire ce que vous avez dit. Je promets de vous respecter, vous et vos descendants. Je vais vous donner cette lèpre, je ne vous montrerai pas demain, s'il vous plaît ne me donnez pas d'argent.
+
+Step 23/330
+>> French - Slovenian
+	Duban poučuje znanost v grščini, perzijščini, turščini, arabščini, latinščini, sirščini in hebrejščini. Ne prisega, dober je za vse vrste zelišč in zdravil. Kakovost. Zdravnik ni vedel ničesar o kraljevi smrti, zato je našel način, kako bi ga poslal kralju. Rekla mu je: "Mojster." "Vem, da zdravnik, ki ga uporabljate, ne zdravi gobavosti, vendar ga ne pijte, če lahko uporabljate moje storitve." "To", lahko storite, kar ste rekli. Obljubim, da bom spoštoval vas in vaše potomce. Bom dal to gobav, jutri vam ne bom pokazal, prosim, ne dajte mi denarja.
+
+Step 24/330
+>> Slovenian - Spanish
+	Duban enseña ciencias en griego, persa, turco, árabe, latín, siríaco y hebreo. Él no jura, es bueno para todo tipo de hierbas y medicinas. Calidad. El médico no sabía nada de la muerte del rey, por lo que encontró la manera de enviarlo al rey. Ella le dijo: "Maestro". "Sé que el médico que está usando no cura la lepra, pero no la beba si puede usar mis servicios". "Eso", puedes hacer lo que dices. Prometo honrarte a ti y a tus descendientes. Le daré un leproso, mañana no te mostraré, por favor no me des dinero.
+
+Step 25/330
+>> Spanish - Czech
+	Duban vyučuje vědu v řečtině, perštině, turečtině, arabštině, latině, syrštině a hebrejštině. Nepřísahá, je to dobré pro všechny druhy bylin a léků. Kvalita Doktor nevěděl nic o smrti krále, takže našel způsob, jak to poslat králi. Řekla mu: „Učiteli.“ "Vím, že lékař, který používáte, neléčí malomocenství, ale nepijte ho, pokud můžete využít mé služby." "To", můžete dělat, co říkáte. Slibuji, že vás a vaše potomky ctím. Dám mu malomoc, zítra ti ukážu, nedej mi prosím peníze.
+
+Step 26/330
+>> Czech - Italian
+	Duban insegna scienze in greco, persiano, turco, arabo, latino, siriano ed ebraico. Non giura, è buono per tutti i tipi di erbe e medicine. Qualità Il dottore non sapeva nulla della morte del re, quindi trovò il modo di inviarlo al re. Gli disse: "Insegnante". "So che il dottore che usi non tratta la lebbra, ma non berla se puoi usare i miei servizi." "It", puoi fare quello che dici. Prometto di onorare te e i tuoi figli. Gli darò la lebbra, ti faccio vedere domani, per favore non darmi i soldi.
+
+Step 27/330
+>> Italian - Maltese
+	Duban jgħallem ix-xjenzi bil-Grieg, il-Persjan, it-Tork, l-Għarbi, il-Latin, is-Sirjan u l-Ebrajk. Ma naħlefx, huwa tajjeb għat-tipi kollha ta 'ħwawar u mediċini. Kwalità It-tabib ma kien jaf xejn dwar il-mewt tar-re, u għalhekk sab mezz biex jibgħatha lis-sultan. Huwa qallu: "Għalliem". "Naf li t-tabib li tuża ma jikkurax il-lebbra, imma ma tixrobx jekk tista 'tuża s-servizzi tiegħi." "Hija", tista 'tagħmel dak li tgħid. Jiena nwiegħed li tonora lilkom u lil uliedek. Nagħti l-lebbra, jien nurik għada, jekk jogħġbok agħtini l-flus.
+
+Step 28/330
+>> Maltese - Estonian
+	Duban õpetada lahkus Kreeka teadused, pärsia, türgi, araabia, ladina, süüria ja heebrea. Mis naħlefx, on hea igasuguseid ürte ja ravimid. Quality arst ei teadnud midagi surma kuningas, nii et ta leidnud viisi saata see kuningas. Ta ütles: "Õpetaja". "Ma tean, et arst kasutab ravida pidalitõbi, kuid ei joo, kui sa võiksid kasutada oma teenuseid." "Ta", mida saate teha, mida sa ütled. Tõotan au teile ja teie lastele. Annan pidalitõbi, ma näitan sulle homme, siis anna mulle raha.
+
+Step 29/330
+>> Estonian - Greek
+	Ο Ντουμπάν διδάσκει αριστερά ελληνικές επιστήμες, περσικά, τουρκικά, αραβικά, λατινικά, συριακά και εβραϊκά. Με naħlefx, είναι καλό για όλα τα είδη των βοτάνων και των φαρμάκων. Ο ποιοτικός γιατρός δεν ήξερε τίποτε για το θάνατο του βασιλιά, έτσι βρήκε έναν τρόπο να στείλει αυτόν τον βασιλιά. Είπε, "Δάσκαλε". "Ξέρω ότι ο γιατρός σας το χρησιμοποιεί για να θεραπεύσει λέπρα, αλλά μην πίνετε εάν θα μπορούσατε να χρησιμοποιήσετε τις υπηρεσίες τους". «Αυτός», μπορείτε να κάνετε ό, τι λέτε. Σας υπόσχομαι να σας τιμήσω και τα παιδιά σας. Θα σου δώσω λέπρα, θα σου δείξω αύριο, έπειτα θα μου δώσει κάποια χρήματα.
+
+Step 30/330
+>> Greek - Turkish
+	Duban, Yunanca, Sol, Farsça, Türkçe, Arapça, Latin, Suriye ve İbranice bilimleri dersleri vermektedir. Naħlefx ile her türlü ot ve ilaç için iyidir. Kaliteli doktor kralın ölümü hakkında hiçbir şey bilmiyordu, bu yüzden o kralı göndermenin bir yolunu buldu. "Usta" dedi. "Doktorunuzun cüzzamı tedavi etmek için kullandığını biliyorum, ancak hizmetlerini kullanabilirseniz içmeyin." "Bu", ne istersen yapabilirsin. Seni ve çocuklarını onurlandırmaya söz veriyorum. Sana cüzam vereceğim, yarın göstereceğim, sonra bana biraz para ver.
+
+Step 31/330
+>> Turkish - Polish
+	Duban uczy nauk greckich, solskich, perskich, tureckich, arabskich, łacińskich, syryjskich i hebrajskich. Jest dobry dla wszystkich rodzajów ziół i leków z Na ilaçlefx. Lekarz wysokiej jakości nie wiedział nic o śmierci króla, więc znalazł sposób na wysłanie króla. Powiedział: „Mistrzu”. „Wiem, że twój lekarz stosuje trąd w leczeniu, ale nie pij, jeśli możesz skorzystać z jego usług.” „To” możesz zrobić, co chcesz. Obiecuję uhonorować ciebie i twoje dzieci. Dam ci trąd, pokażę ci jutro, a potem daj mi trochę pieniędzy.
+
+Step 32/330
+>> Polish - Arabic
+	يقوم Duban بتدريس التعاليم اليونانية والعبرية المنفردة والتركية والعربية واللاتينية والسورية والعبرية. إنه جيد لجميع أنواع الأعشاب والأدوية من Na ilaçlefx. لم يكن الطبيب عالي الجودة يعلم شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال ، "سيد". "أعرف أن طبيبك يستخدم الجذام لعلاجك ، لكن لا تشربه إذا كنت تستطيع استخدام خدماته." "هذا" يمكنك أن تفعل ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام وأريكم غدًا ثم أعطني بعض المال.
+
+Step 33/330
+>> Arabic - Catalan
+	Duban ensenya grec, hebreu, turc, àrab, llatí, sirià i hebreu. És bo per a tot tipus d’herbes i medicaments de Na ilaçlefx. Un metge d’alta qualitat no sabia res de la mort del rei, per la qual cosa va trobar una manera d’enviar el rei. Va dir: "Mestre". "Sé que el teu metge està utilitzant la lepra per tractar-te, però no la beus si pots utilitzar els seus serveis". "Això" pots fer el que vulguis. Prometo fer honor a vosaltres i als vostres fills. Et donaré la lepra i t’ho mostraré demà per després donar-me uns diners.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Dubanas moko graikų, hebrajų, turkų, arabų, lotynų, sirų ir hebrajų kalbas. Tai tinka visų rūšių „Na ilaçlefx“ žolelėms ir vaistams. Aukštos kokybės gydytojas nieko nežinojo apie karaliaus mirtį, todėl rado būdą karaliui pasiųsti. Jis pasakė: „Mokytojas“. "Aš žinau, kad gydytojas tave gydo raupsų pagalba, tačiau negerkite jo, jei galite naudotis jo paslaugomis." „Tai“ galite daryti ką norite. Pažadu pagerbti jus ir jūsų vaikus. Aš tau duosiu raupsų ir parodysiu tau rytoj, tada duok man pinigų.
+
+Step 35/330
+>> Lithuanian - Arabic
+	يدرس دوبان اليونانية والعبرية والتركية والعربية واللاتينية والسريانية والعبرية. هذا صحيح بالنسبة لجميع أنواع الأعشاب والأدوية Na ilaçlefx. لم يكن الطبيب عالي الجودة يعلم شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال ، "سيد". "أعرف أن طبيبك يعالجك بالجذام ، لكن لا تشربه إذا كنت تستطيع استخدام خدماته." يمكنك أن تفعل ذلك ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام وأريك غدا ، ثم أعطني المال.
+
+Step 36/330
+>> Arabic - Slovak
+	Doban študuje gréčtinu, hebrejčinu, turečtinu, arabčinu, latinčinu, sýrčinu a hebrejčinu. To platí pre všetky druhy bylín a liekov Na ilaçlefx. Kvalitný lekár nevedel nič o smrti kráľa, takže našiel spôsob, ako poslať kráľa. Povedal: „Majster.“ „Viem, že tvoj lekár s tebou lieči malomocenstvo, ale nepij to, ak môžeš využiť jeho služby.“ Môžete to urobiť, čo chcete. Sľubujem, že vás a vaše deti ctím. Dám ti malomocenstvo a ukážem ti zajtra, potom mi daj peniaze.
+
+Step 37/330
+>> Slovak - Malay
+	Doban mempelajari Greek, Ibrani, Turki, Arab, Latin, Syria dan Ibrani. Ini terpakai kepada semua jenis herba dan ubat Na ilaçlefx. Seorang doktor yang berkualiti tidak tahu apa-apa tentang kematian raja, jadi dia mendapati cara untuk menghantar raja. Dia berkata, "Guru." "Saya tahu doktor anda merawat kusta dengan anda, tetapi jangan minum jika anda boleh menggunakan perkhidmatannya." Anda boleh melakukan apa yang anda mahu. Saya berjanji untuk menghormati anda dan anak-anak anda. Saya akan memberikan anda kusta dan menunjukkan kepada anda esok, maka beri saya wang itu.
+
+Step 38/330
+>> Malay - Arabic
+	درس دوبان اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. وهذا ينطبق على جميع أنواع الأعشاب والأدوية Na ilaçlefx. لم يعلم الطبيب الجيد شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال ، "سيد". "أعرف أن طبيبك يعالجك بالجذام ، لكن لا تشربه إذا كنت تستطيع استخدام الخدمة". يمكنك أن تفعل ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام وأريك غدا ، ثم أعطني المال.
+
+Step 39/330
+>> Arabic - Latvian
+	Dobans studēja grieķu, ebreju, turku, arābu, latīņu, sīriešu un ebreju valodu. Tas attiecas uz visiem ārstniecības augiem un zālēm Na ilaçlefx. Labais ārsts neko nezināja par ķēniņa nāvi, tāpēc atrada veidu, kā karali nosūtīt. Viņš teica: "Meistars". "Es zinu, ka ārsts ārstē jūs ar spitālību, bet nedzeriet to, ja varat izmantot šo pakalpojumu." Jūs varat darīt visu, ko vēlaties. Es apsolu godināt jūs un jūsu bērnus. Es tev iedošu spitālību un rīt parādīšu, tad iedosi man naudu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Doban estudou grego, hebraico, turco, árabe, latim, siríaco e hebraico. Isto aplica-se a todas as ervas medicinais e medicamentos Na ilaçlefx. O bom médico não sabia nada sobre a morte do rei, então encontrou uma maneira de enviar o rei. Ele disse: "Mestre". "Eu sei que seu médico está tratando você com hanseníase, mas não a beba se puder usar este serviço." Você pode fazer o que quiser. Prometo honrar você e seus filhos. Vou lhe dar lepra e mostrar amanhã, depois me dar algum dinheiro.
+
+Step 41/330
+>> Portuguese - Arabic
+	درس دوبان اليونانية والعبرية والتركية والعربية واللاتينية والسريانية والعبرية. وهذا ينطبق على جميع الأعشاب الطبية والأدوية في ilaçlefx. لم يكن الطبيب الجيد يعلم شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال ، "سيد". "أعرف أن طبيبك يعالجك بالجذام ، لكن لا تشربه إذا كنت تستطيع استخدام هذه الخدمة." يمكنك أن تفعل ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام وأريك غدا ، ثم أعطني بعض المال.
+
+Step 42/330
+>> Arabic - Spanish
+	Doban estudió griego, hebreo, turco, árabe, latín, siríaco y hebreo. Esto se aplica a todas las hierbas medicinales y medicamentos en ilaçlefx. El buen doctor no sabía nada sobre la muerte del rey, por lo que encontró la manera de enviar al rey. Él dijo: "Maestro". "Sé que su médico lo está tratando con lepra, pero no lo tome si puede usar este servicio". Puedes hacer lo que quieras. Prometo honrarte a ti y a tus hijos. Te daré lepra y te lo mostraré mañana, luego dame algo de dinero.
+
+Step 43/330
+>> Spanish - Hungarian
+	Doban görög, héber, török, arab, latin, szír és héber nyelvet tanult. Ez vonatkozik az ilaçlefx összes gyógynövényére és gyógyszerére. A jó orvos semmit sem tudott a király haláláról, ezért megtalálta a módját a király elküldésére. Azt mondta: "Tanár." "Tudom, hogy orvosa lepróssal kezeli Önt, de ne vegye be, ha tudja használni ezt a szolgáltatást." Meg tudod csinálni, amit akar. Megígérem, hogy megtisztellak téged és gyermekeit. Adok lepra és holnap megmutatom, majd pénzt adok nekem.
+
+Step 44/330
+>> Hungarian - Croatian
+	Doban je studirao grčki, hebrejski, turski, arapski, latinski, sirijski i hebrejski. To se odnosi na sve biljke i lijekove ilaçlefx. Dobri liječnik nije znao ništa o kraljevoj smrti, pa je pronašao način da pošalje kralja. Rekao je: "Učiteljice." "Znam da vas liječnik liječi lepom, ali nemojte ga uzimati ako možete koristiti ovu uslugu." Možete raditi što god želite. Obećavam da ću počastiti vas i vašu djecu. Dat ću vam leprena i pokazat ću vam sutra i dati mi nešto novca.
+
+Step 45/330
+>> Croatian - Spanish
+	Doban estudió griego, hebreo, turco, árabe, latín, sirio y hebreo. Esto se aplica a todas las hierbas y medicinas ilaçlefx. El buen doctor no sabía nada de la muerte del rey, por lo que encontró la manera de enviar al rey. Él dijo: "Maestro". "Sé que su médico lo está tratando muy bien, pero no lo tome si puede usar este servicio". Puedes hacer lo que quieras. Prometo honrarte a ti y a tus hijos. Te daré lepra y te lo mostraré mañana y me darás algo de dinero.
+
+Step 46/330
+>> Spanish - Arabic
+	درس دوبان اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. وهذا ينطبق على جميع الأعشاب والأدوية ilaçlefx. لم يكن الطبيب الجيد يعلم شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال: "المعلم". "أعرف أن طبيبك يعالجك جيدًا ، لكن لا تأخذه إذا كان بإمكانك استخدام هذه الخدمة." يمكنك أن تفعل ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام وأريكم غدًا وستعطيني بعض المال.
+
+Step 47/330
+>> Arabic - Russian
+	Добан изучал греческий, иврит, турецкий, арабский, латынь, сирийский и иврит. Это относится ко всем травам и лекарствам ilaçlefx. Хороший доктор ничего не знал о смерти короля, поэтому он нашел способ отправить короля. Он сказал: «Учитель». «Я знаю, что ваш доктор хорошо с вами обращается, но не принимайте его, если сможете воспользоваться этой услугой». Вы можете делать все, что хотите. Я обещаю почтить вас и ваших детей. Я дам тебе проказу, покажу тебе завтра и дам мне немного денег.
+
+Step 48/330
+>> Russian - Albanian
+	Doban studioi greqisht, hebraisht, turqisht, arabisht, latinisht, sirian dhe hebraisht. Kjo vlen për të gjitha bimët dhe ilaçet ilaçlefx. Mjeku i mirë nuk dinte asgjë për vdekjen e mbretit, kështu që gjeti një mënyrë për ta dërguar mbretin. Ai tha: "Mësues". "Unë e di që mjeku juaj ju trajton mirë, por mos e merrni nëse mund ta përdorni këtë shërbim." Ju mund të bëni gjithçka që dëshironi. Unë premtoj të nderoj ty dhe fëmijët tuaj. Unë do t'ju jap lebër, do t'ju tregoj nesër dhe do të më jepni para.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Добан изучава гръцки, иврит, турски, арабски, латински, сирийски и иврит. Това се отнася за всички лечебни билки и билки. Добрият лекар не знаеше нищо за смъртта на краля, затова намери начин да изпрати краля. Той каза: „Учителю“. "Знам, че вашият лекар се отнася с вас добре, но не го приемайте, ако можете да използвате тази услуга." Можете да правите всичко, което искате. Обещавам да почета вас и вашите деца. Ще ти дам проказа, ще ти кажа утре и ще ми дадеш пари.
+
+Step 50/330
+>> Bulgarian - Romanian
+	S-au adăugat studiate greacă, ebraică, turcă, arabă, latină, siriacă și ebraică. Aceasta se aplică tuturor medicamentelor și plantelor medicinale. Bunul doctor nu știa nimic despre moartea regelui, așa că a găsit o cale de a-l trimite pe rege. El a spus: "Stăpâne". "Știu că medicul dumneavoastră vă tratează bine, dar nu o luați dacă puteți utiliza acest serviciu." Poți face orice vrei. Promit să-i onor pe tine și pe copiii tăi. Îți voi da lepră, îți voi spune mâine și îmi vei da bani.
+
+Step 51/330
+>> Romanian - Russian
+	Были добавлены греческий, иврит, турецкий, арабский, латинский, сирийский и иврит. Это относится ко всем лекарствам и лекарственным растениям. Хороший доктор ничего не знал о смерти короля, поэтому он нашел способ отправить короля. Он сказал: «Мастер». «Я знаю, что ваш доктор хорошо с вами обращается, но не принимайте его, если сможете воспользоваться этой услугой». Вы можете делать все, что хотите. Я обещаю почтить вас и ваших детей. Я дам тебе проказу, я скажу тебе завтра, и ты дашь мне деньги.
+
+Step 52/330
+>> Russian - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew were added. This applies to all medicines and medicinal plants. The good doctor knew nothing about the death of the king, so he found a way to send the king. He said, "Master." “I know that your doctor treats you well, but don’t take him if you can use this service.” You can do whatever you want. I promise to honor you and your children. I will give you leprosy, I will tell you tomorrow, and you will give me money.
+
+Step 53/330
+>> English - Spanish
+	Se agregaron griego, hebreo, turco, árabe, latín, sirio y hebreo. Esto se aplica a todos los medicamentos y plantas medicinales. El buen doctor no sabía nada sobre la muerte del rey, por lo que encontró la manera de enviar al rey. Él dijo: "Maestro". "Sé que su médico lo trata bien, pero no lo tome si puede usar este servicio". Puede hacer lo que quiera. Prometo honrarte a ti y a tus hijos. Te daré lepra, te lo diré mañana, y tú me darás dinero.
+
+Step 54/330
+>> Spanish - Arabic
+	تمت إضافة اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. وهذا ينطبق على جميع الأدوية والنباتات الطبية. لم يكن الطبيب الجيد يعلم شيئًا عن وفاة الملك ، لذلك وجد طريقة لإرسال الملك. قال: "المعلم". "أعرف أن طبيبك يعاملك جيدًا ، لكن لا تأخذه إذا كان بإمكانك استخدام هذه الخدمة." يمكنك أن تفعل ما تريد. أعدك أن أكرمك أنت وأطفالك. سأعطيك الجذام ، وسأخبرك غدًا ، وستقدم لي المال.
+
+Step 55/330
+>> Arabic - Malay
+	Greek, Ibrani, Turki, Arab, Latin, Syria dan Ibrani ditambah. Ini terpakai untuk semua ubat-ubatan dan tumbuhan ubatan. Dokter yang baik tidak mengetahui apa-apa tentang kematian raja, jadi dia mendapati cara untuk menghantar raja. Dia berkata, "Guru." "Saya tahu doktor anda merawat anda dengan baik, tetapi jangan bawa dia jika anda boleh menggunakan perkhidmatan ini." Anda boleh melakukan apa sahaja yang anda mahukan. Saya berjanji untuk menghormati anda dan anak-anak anda. Saya akan memberikan anda kusta, saya akan beritahu anda esok, dan berikan saya wang.
+
+Step 56/330
+>> Malay - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew added. This applies to all medicines and medicinal plants. The good doctor knew nothing about the king's death, so he found a way to send the king. He said, "Master." "I know your doctor is taking good care of you, but don't take him if you can use this service." You can do whatever you want. I promise to honor you and your children. I'll give you the leprosy, I'll tell you tomorrow, and give me the money.
+
+Step 57/330
+>> English - Kazakh
+	Грек, иврит, түрік, араб, латын, сириялық және иврит тілдері қосылды. Бұл барлық дәрі-дәрмектер мен дәрілік өсімдіктерге қолданылады. Жақсы дәрігер патшаның қайтыс болуы туралы ештеңе білмеді, сондықтан ол патшаны жіберудің жолын тапты. Ол «Ұстаз» деді. «Мен сіздің дәрігеріңіздің сізге қамқорлық жасайтынын білемін, бірақ оны қолдана алсаңыз, оны қабылдамаңыз.» Сіз қалаған нәрсені жасай аласыз. Мен сізді және балаларыңызды құрметтеуге уәде беремін. Мен саған алапес ауруды беремін, ертең саған айтам да, ақшаны берші.
+
+Step 58/330
+>> Kazakh - Persian
+	زبانهای یونانی ، عبری ، ترکی ، عربی ، لاتین ، سوریه و عبری اضافه شده است. این در مورد تمام داروها و گیاهان دارویی صدق می کند. پزشک خوب از مرگ پادشاه چیزی نمی دانست ، بنابراین راهی برای ارسال پادشاه پیدا کرد. گفت: "معلم". "من می دانم که پزشک از شما مراقبت خواهد کرد ، اما اگر می توانید از آن استفاده کنید ، آن را قبول نکنید." شما می توانید هر کاری که می خواهید انجام دهید. قول می دهم به شما و فرزندانتان احترام بگذارم. من یک جذام به شما می دهم فردا به شما می گویم و پول را به من بدهید.
+
+Step 59/330
+>> Persian - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew languages have been added. This applies to all medicines and herbs. The good doctor knew nothing of the king's death, so he found a way to send the king. Said the teacher. "I know your doctor will take care of you, but if you can use it, don't accept it." You can do whatever you want. I promise to respect you and your children. I'll give you a leper tomorrow and tell you and give me the money.
+
+Step 60/330
+>> English - French
+	Le grec, l'hébreu, le turc, l'arabe, le latin, le syrien et l'hébreu ont été ajoutés. Ceci s'applique à tous les médicaments et herbes. Le bon médecin ne savait rien de la mort du roi, il a donc trouvé un moyen d'envoyer le roi. Dit le professeur. "Je sais que votre médecin prendra soin de vous, mais si vous pouvez l'utiliser, ne l'acceptez pas." Tu peux faire ce que tu veux. Je promets de vous respecter et de respecter vos enfants. Je te donnerai un lépreux demain et te le dirai et me donnerai l'argent.
+
+Step 61/330
+>> French - Spanish
+	Se agregaron griego, hebreo, turco, árabe, latín, sirio y hebreo. Esto se aplica a todos los medicamentos y hierbas. El buen doctor no sabía nada de la muerte del rey, por lo que encontró la manera de enviar al rey. Dijo el profesor. "Sé que su médico lo cuidará, pero si puede usarlo, no lo acepte". Puedes hacer lo que quieras. Prometo respetarte y respetar a tus hijos. Mañana te daré un leproso y te lo diré y me darás el dinero.
+
+Step 62/330
+>> Spanish - Turkish
+	Yunanca, İbranice, Türkçe, Arapça, Latince, Suriye ve İbranice eklendi. Bu, tüm ilaçlar ve şifalı bitkiler için geçerlidir. İyi doktor kralın ölümü hakkında hiçbir şey bilmiyordu, bu yüzden kralı göndermenin bir yolunu buldu. Öğretmeni söyledi. "Doktorunuzun size iyi bakacağını biliyorum, ancak kullanabilirseniz kabul etmeyin." Ne istersen yapabilirsin. Çocuklarınıza saygı duymaya ve saygı duymaya söz veriyorum. Yarın sana bir cüzam vereceğim, sana anlatacağım ve sen bana parayı vereceksin.
+
+Step 63/330
+>> Turkish - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew were added. This applies to all medicines and medicinal plants. The good doctor knew nothing about the king's death, so he found a way to send the king. The teacher told me. "I know your doctor will take good care of you, but don't accept it if you can." You can do whatever you want. I promise to respect and respect your children. Tomorrow I will give you a leprosy, I will tell you, and you will give me the money.
+
+Step 64/330
+>> English - Spanish
+	Se agregaron griego, hebreo, turco, árabe, latín, sirio y hebreo. Esto se aplica a todos los medicamentos y plantas medicinales. El buen doctor no sabía nada sobre la muerte del rey, por lo que encontró la manera de enviar al rey. El profesor me lo dijo. "Sé que su médico lo cuidará bien, pero no lo acepte si puede". Puedes hacer lo que quieras. Prometo respetar y respetar a tus hijos. Mañana te daré una lepra, te lo diré, y tú me darás el dinero.
+
+Step 65/330
+>> Spanish - Serbian
+	Додати су грчки, хебрејски, турски, арапски, латински, сиријски и хебрејски. Ово се односи на све лекове и лековите биљке. Добар лекар није знао ништа о краљевој смрти, па је нашао начин да пошаље краља. Учитељица ми је рекла. "Знам да ће се ваш лекар добро бринути о вама, али не прихватајте ако можете." Можете радити што желите. Обећавам да ћу поштовати и поштовати вашу децу. Сутра ћу вам дати лепре, рећи ћу вам, а ви ћете ми дати новац.
+
+Step 66/330
+>> Serbian - Albanian
+	U shtuan greqisht, hebraisht, turqisht, arabisht, latinisht, sirian dhe hebraisht. Kjo vlen për të gjitha ilaçet dhe bimët. Mjeku i mirë nuk dinte asgjë për vdekjen e mbretit, kështu që gjeti një mënyrë për ta dërguar mbretin. Mësuesi më tha. "Unë e di se mjeku juaj do të kujdeset mirë për ju, por nuk e pranoni nëse mundeni." Ju mund të bëni gjithçka që dëshironi. Unë premtoj të respektoj dhe respektoj fëmijët tuaj. Nesër do të të jap lebra, do të ta them dhe ti do të më japësh lekët.
+
+Step 67/330
+>> Albanian - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew were added. This applies to all medicines and herbs. The good doctor knew nothing about the king's death, so he found a way to send the king away. The teacher told me. "I know your doctor will take good care of you, but don't accept it if you can." You can do anything you want. I promise to respect and respect your children. Tomorrow I will give you leprosy, I will tell you, and you will give me money.
+
+Step 68/330
+>> English - Georgian
+	დაემატა ბერძნული, ებრაული, თურქული, არაბული, ლათინური, სირიული და ებრაული. ეს ეხება ყველა მედიკამენტს და მწვანილს. კეთილმა ექიმმა არაფერი იცოდა მეფის გარდაცვალების შესახებ, ასე რომ, მან იპოვა გზა მეფის განსახორციელებლად. მასწავლებელმა მითხრა. ”ვიცი, რომ თქვენი ექიმი კარგად იზრუნებს თქვენზე, მაგრამ არ მიიღოთ ეს, თუ შეიძლება.” თქვენ შეგიძლიათ გააკეთოთ ყველაფერი, რაც გსურთ. გპირდებით, რომ თქვენს შვილებს პატივს ვცემ და პატივს ვცემ. ხვალვე მოგცემთ კეთროდ, მე გეტყვით და თქვენ მოგცემთ ფულს.
+
+Step 69/330
+>> Georgian - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syriac and Hebrew have been added. This applies to all medicines and herbs. The good doctor knew nothing of the king's death, so he found a way to carry out the king. The teacher told me. "I know your doctor will take good care of you, but don't take it if you can." You can do anything you want. I promise to respect and respect your children. Tomorrow I'll give you the leprosy, I'll tell you, and I'll give you the money.
+
+Step 70/330
+>> English - Spanish
+	Se han añadido griego, hebreo, turco, árabe, latín, siríaco y hebreo. Esto se aplica a todos los medicamentos y hierbas. El buen doctor no sabía nada de la muerte del rey, por lo que encontró la manera de llevar a cabo al rey. El profesor me lo dijo. "Sé que su médico lo cuidará bien, pero no lo tome si puede". Puedes hacer lo que quieras. Prometo respetar y respetar a tus hijos. Mañana te daré la lepra, te lo diré, y te daré el dinero.
+
+Step 71/330
+>> Spanish - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syriac and Hebrew have been added. This applies to all medications and herbs. The good doctor knew nothing about the king's death, so he found a way to carry out the king. The teacher told me. "I know your doctor will take good care of you, but don't take it if you can." You can do whatever you want. I promise to respect and respect your children. Tomorrow I will give you leprosy, I will tell you, and I will give you the money.
+
+Step 72/330
+>> English - Sinhala
+	ග්‍රීක, හෙබ්‍රෙව්, තුර්කි, අරාබි, ලතින්, සිරියැක් සහ හෙබ්‍රෙව් භාෂා එකතු කර ඇත. මෙය සියලුම ations ෂධ සහ .ෂධ පැළෑටි සඳහා අදාළ වේ. හොඳ වෛද්‍යවරයා රජුගේ මරණය ගැන කිසිවක් නොදැන සිටි නිසා රජු සිදු කිරීමට ක්‍රමයක් සොයා ගත්තේය. ගුරුවරයා මට කිව්වා. "මම දන්නවා ඔබේ වෛද්‍යවරයා ඔබව හොඳින් බලා ගනීවි, නමුත් ඔබට හැකි නම් එය ගන්න එපා." ඔබට අවශ්‍ය ඕනෑම දෙයක් කළ හැකිය. ඔබේ දරුවන්ට ගරු කිරීමට හා ගරු කිරීමට මම පොරොන්දු වෙමි. හෙට මම ඔබට ලාදුරු රෝගය දෙන්නෙමි, මම ඔබට කියමි, මම ඔබට මුදල් දෙන්නෙමි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Dodani su grčki, hebrejski, turski, arapski, latinski, sirijski i hebrejski. To se odnosi na sve akcije i bilje. Dobri ljekar nije znao ništa o kraljevoj smrti, pa je kralj pronašao način da to učini. Učiteljica mi je rekla. "Znam da će se vaš lekar dobro brinuti za vas, ali ne uzimajte ako možete." Možete raditi sve što želite. Obećavam da ću poštovati i poštovati vašu djecu. Sutra ću vam dati lepre, kažem vam, dat ću vam novac.
+
+Step 74/330
+>> Bosnian - Spanish
+	Se agregó griego, hebreo, turco, árabe, latín, sirio y hebreo. Esto se aplica a todas las acciones y hierbas. El buen doctor no sabía nada sobre la muerte del rey, por lo que el rey encontró la manera de hacerlo. El profesor me lo dijo. "Sé que su médico lo cuidará bien, pero no lo tome si puede". Puedes hacer lo que quieras. Prometo respetar y respetar a tus hijos. Mañana te daré lepra, te diré, te daré dinero.
+
+Step 75/330
+>> Spanish - Portuguese
+	Grego, hebraico, turco, árabe, latim, sírio e hebraico foram adicionados. Isso se aplica a todas as ações e ervas. O bom médico não sabia nada sobre a morte do rei, então o rei encontrou uma maneira de fazê-lo. A professora me disse. "Eu sei que seu médico cuidará bem de você, mas não tome se puder." Pode fazer o que quiser. Prometo respeitar e respeitar seus filhos. Amanhã vou lhe dar lepra, vou lhe dizer, vou lhe dar dinheiro.
+
+Step 76/330
+>> Portuguese - Arabic
+	تمت إضافة اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. وهذا ينطبق على جميع الإجراءات والأعشاب. لم يكن الطبيب الجيد يعلم شيئًا عن وفاة الملك ، لذلك وجد الملك طريقة للقيام بذلك. قال لي المعلم. "أعرف أن طبيبك سوف يعتني بك جيدًا ، لكن لا تتناوله إن استطعت". يمكنك أن تفعل ما تريد. أعدك باحترام واحترام أطفالك. غدا سأعطيك الجذام ، سأخبرك ، سأعطيك المال.
+
+Step 77/330
+>> Arabic - Macedonian
+	Додадени се грчки, хебрејски, турски, арапски, латински, сириски и хебрејски. Ова важи за сите активности и билки. Добриот доктор не знаеше ништо за смртта на кралот, па кралот најде начин да го стори тоа. Наставникот ми рече. „Знам дека вашиот лекар ќе се грижи за вас, но немојте да го земате тоа ако е можно“. Можете да направите што сакате. Ветувам дека ќе ги почитувам и почитувам твоите деца. Утре ќе ти дадам лепра, ќе ти кажам, ќе ти дадам пари.
+
+Step 78/330
+>> Macedonian - Armenian
+	Ավելացվել են հունարեն, եբրայերեն, թուրքերեն, արաբերեն, լատիներեն, սիրիական և եբրայերեն: Սա վերաբերում է բոլոր գործողություններին և խոտաբույսերին: Լավ բժիշկը ոչինչ չգիտեր թագավորի մահվան մասին, ուստի թագավորը գտավ դա կատարելու միջոց: Ուսուցիչն ասաց ինձ: «Ես գիտեմ, որ ձեր բժիշկը հոգ կտանի ձեզ, բայց հնարավորության դեպքում մի վերցրեք դա»: Դուք կարող եք անել ինչ ուզում եք: Խոստանում եմ հարգել և հարգել ձեր երեխաներին: Վաղը ես ձեզ բորոտություն կտամ, կասեմ ՝ փող կտամ:
+
+Step 79/330
+>> Armenian - Thai
+	เพิ่มกรีก, ฮิบรู, ตุรกี, อาหรับ, ละติน, ซีเรียและฮิบรู ใช้กับกิจกรรมและสมุนไพรทั้งหมด แพทย์ที่ดีไม่รู้อะไรเกี่ยวกับความตายของกษัตริย์ดังนั้นกษัตริย์จึงพบวิธีที่จะทำ ครูบอกฉัน "ฉันรู้ว่าแพทย์ของคุณจะดูแลคุณ แต่ไม่ควรทำถ้าคุณทำได้" คุณสามารถทำสิ่งที่คุณต้องการ ฉันสัญญาว่าจะเคารพและเคารพลูก ๆ ของคุณ พรุ่งนี้ฉันจะให้คุณเป็นโรคเรื้อนฉันจะบอกว่าฉันจะให้เงินกับคุณ
+
+Step 80/330
+>> Thai - Arabic
+	أضيفت اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. تستخدم مع جميع الأنشطة والأعشاب الأطباء الجيدين لا يعرفون شيئًا عن وفاة الملك ، لذا فقد وجد الملك طريقة للقيام بذلك. أخبرني المعلم: "أعرف أن طبيبك سوف يعتني بك. لكن يجب ألا تفعل ذلك إذا استطعت. "يمكنك أن تفعل ما تريد. أعدك باحترام واحترام أطفالك ، وسأعطيكم غداً ، وسأقول إنني سأقدم لك المال.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	增加了希腊语，希伯来语，土耳其语，阿拉伯语，拉丁语，叙利亚语和希伯来语。与所有活动和草药一起使用好医生对国王的死一无所知，所以国王找到了办法。老师告诉我，“我知道你的医生会照顾你。但如果可以，你不应该这样做。”我保证尊重和尊重你的孩子，我明天会给你，我会说我会给你钱。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Se agregó griego, hebreo, turco, árabe, latín, sirio y hebreo. Trabajando con todas las actividades y hierbas, el médico no sabía nada sobre la muerte del rey, por lo que el rey encontró el camino. La maestra me dijo: "Sé que su médico lo cuidará. Pero si puede, no debe hacer esto". Prometo respetar y respetar a su hijo, se lo daré mañana, le diré que le daré dinero.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Додано грецьку, іврит, турецьку, арабську, латинську, сирійську та іврит. Працюючи з усіма заходами та травами, лікар нічого не знав про смерть короля, тому король знайшов свій шлях. Вчитель сказав мені: "Я знаю, що ваш лікар подбає про вас. Але якщо можете, не варто цього робити". Я обіцяю поважати та поважати вашу дитину, я віддам її завтра, я скажу вам, що я дам вам гроші.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Se agregó griego, hebreo, turco, árabe, latín, sirio y hebreo. Trabajando con todas las medidas y hierbas, el médico no sabía nada sobre la muerte del rey, por lo que el rey encontró su camino. La maestra me dijo: "Sé que tu médico te cuidará. Pero si puedes, no deberías hacer eso". Prometo respetar y respetar a tu bebé, le daré mañana, te diré que te daré dinero.
+
+Step 85/330
+>> Spanish - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew were added. Working with all measures and herbs, the doctor knew nothing about the death of the king, so the king found his way. The teacher told me: "I know your doctor will take care of you. But if you can, you shouldn't do that." I promise to respect and respect your baby, I will give you tomorrow, I will tell you that I will give you money.
+
+Step 86/330
+>> English - Mongolian
+	Грек, Еврей, Турк, Араб, Латин, Сири, Еврей хэлийг нэмсэн. Эмч бүх арга хэмжээ, ургамлын гаралтай хамт ажиллаж, хааны үхлийн талаар юу ч мэдээгүй тул хаан өөрийн замыг олов. Багш нь надад: "Таны эмч танд санаа тавих болно гэдгийг би мэдэж байна. Гэхдээ боломжтой бол та үүнийг хийх ёсгүй." Би хүүхдээ хүндэлж, хүндэтгэлтэйгээр амлаж байна, маргааш танд өгөх болно, би чамд мөнгө өгнө гэдгээ хэлье.
+
+Step 87/330
+>> Mongolian - Spanish
+	Griego, hebreo, turco, árabe, latín, sirio y hebreo. El rey encontró su camino, porque no sabía nada sobre la muerte del rey. Mi maestra me dijo: "Sé que tu médico se preocupará por ti, pero no debes hacerlo si es posible". Prometo honrar a tu hijo y respetuosamente, mañana te daré y te daré dinero.
+
+Step 88/330
+>> Spanish - Arabic
+	اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. وجد الملك طريقه ، لأنه لم يكن يعلم شيئًا عن وفاة الملك. أخبرني أستاذي: "أعرف أن طبيبك سيهتم بك ، لكن يجب ألا تفعل ذلك إن أمكن". أعدك أن أحترم ابنك وبكل احترام ، وسأعطيك غداً وأعطيك المال.
+
+Step 89/330
+>> Arabic - Kurdish
+	Yewnanî, Hebrewbranî, Tirkî, Erebî, Latînî, Sûrî û Hebrewbranî. Padîşah riya xwe peyda kir, çimkî wî ji kuştina padîşah tiştek nas nekir. Mamosteyê min ji min re got: "Ez zanim ku doktorê te dê lênêrîna te bike, lê tu gengaz bikî ku heke gengaz be." Ez soz didim kurê te û bi rûmet rêzê bidim, û ez ê sibê bidim te û peran bidim te.
+
+Step 90/330
+>> Kurdish - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew. The king went his way, for he knew nothing of the king's murder. My teacher told me, "I know your doctor will take care of you, but you can do that if possible." I promise your son and honor you, and I'll give you tomorrow and give you money.
+
+Step 91/330
+>> English - Dutch
+	Grieks, Hebreeuws, Turks, Arabisch, Latijn, Syrisch en Hebreeuws. De koning ging zijn weg, want hij wist niets van de moord op de koning. Mijn leraar vertelde me: "Ik weet dat je arts voor je zal zorgen, maar dat kun je doen als het kan." Ik beloof je zoon en eer je, en ik geef je morgen en geef je geld.
+
+Step 92/330
+>> Dutch - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian and Hebrew. The king went his way, for he knew nothing about the king's murder. My teacher told me: "I know your doctor will take care of you, but you can do that if you can." I promise your son and honor you, and I'll give you tomorrow and give you money.
+
+Step 93/330
+>> English - Samoan
+	Eleni, Eperu, Turkish, Arapi, Latina, Suria ma le Eperu. Na alu le tupu, auā na te leʻi iloa se mea e uiga i le fasioti tagata a le tupu. Sa taʻu mai e loʻu faiaoga ia te au: "Ou te iloa o lau fomai o le a tausia oe, ae e mafai ona e faia lena mea pe a mafai." Ou te folafola atu i lau tama ma faʻaaloalo ia te oe, ma o le a ou avatu oe taeao ma avatu ia te oe tupe.
+
+Step 94/330
+>> Samoan - Uzbek
+	Yunon, ibroniy, turk, arab, lotin, suriyalik va ibroniy. Podshohning o'ldirilishi to'g'risida hech narsa bilmagani uchun podshoh jo'nadi. O'qituvchim menga: "Men sizning shifokoringiz sizga g'amxo'rlik qilishini bilaman, ammo agar iloji bo'lsa, buni qila olasiz", dedi. Men bolangizga va'da beraman va sizni hurmat qilaman, ertaga sizga pul beraman.
+
+Step 95/330
+>> Uzbek - English
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian, and Hebrew. The king went away, not knowing that the king had been killed. My teacher told me, "I know your doctor will take care of you, but you can do it if you can." I promise and respect your child, I'll give you money tomorrow.
+
+Step 96/330
+>> English - Arabic
+	اليونانية والعبرية والتركية والعربية واللاتينية والسورية والعبرية. ذهب الملك بعيدا ، لا يعلم أن الملك قد قتل. أخبرني أستاذي ، "أعرف أن طبيبك سوف يعتني بك ، لكن يمكنك فعل ذلك إن استطعت". أعدك وأحترم طفلك ، سأقدم لك المال غدًا.
+
+Step 97/330
+>> Arabic - French
+	Grec, hébreu, turc, arabe, latin, syrien et hébreu. Le roi s'en alla, ne sachant pas que le roi avait été tué. Mon professeur m'a dit: "Je sais que votre médecin prendra soin de vous, mais vous pouvez le faire si vous le pouvez." Je promets et respecte votre enfant, je vous donnerai de l'argent demain.
+
+Step 98/330
+>> French - Spanish
+	Griego, hebreo, turco, árabe, latín, sirio y hebreo. El rey se fue, sin saber que el rey había sido asesinado. Mi maestra me dijo: "Sé que tu médico te cuidará, pero puedes hacerlo si puedes". Prometo y respeto a tu hijo, mañana te daré dinero.
+
+Step 99/330
+>> Spanish - Romanian
+	Greacă, ebraică, turcă, arabă, latină, siriană și ebraică. Regele a plecat, neștiind că regele fusese ucis. Profesorul meu mi-a spus: „Știu că medicul tău va avea grijă de tine, dar îl poți face dacă poți”. Îți promit și îl respect pe fiul tău, mâine îți voi da bani.
+
+Step 100/330
+>> Romanian - Filipino
+	Greek, Hebrew, Turkish, Arabic, Latin, Syrian at Hebrew. Umalis ang hari, hindi alam na pinatay ang hari. Sinabi sa akin ng aking guro, "Alam kong aalagaan ka ng iyong doktor, ngunit magagawa mo ito kung magagawa mo." Ipinangako ko at iginagalang ang iyong anak, bukas ay bibigyan kita ng pera.
+
+Step 101/330
+>> Filipino - Zulu
+	IsiGrikhi, isiHeberu, iTurkey, isi-Arabhu, isiLatini, isiSyria nesiHeberu. Inkosi yahamba, ingazi ukuthi inkosi ibulewe. Uthisha wami ungitshele ukuthi, "Ngiyazi ukuthi udokotela wakho uzokunakekela, kepha ungakwenza uma ukwazi." Ngiyathembisa futhi ngiyayihlonipha ingane yakho, kusasa ngizokunika imali.
+
+Step 102/330
+>> Zulu - Arabic
+	اليونانية والعبرية والتركية والعربية واللاتينية والسريانية والعبرية. وخرج الملك ولم يعلم أن الملك قد مات. أخبرني أستاذي ، "أعرف أن طبيبك سوف يعتني بك ، لكن يمكنك فعل ذلك إن استطعت". أعدك وأحترم طفلك ، وغداً سأقدم لك بعض المال.
+
+Step 103/330
+>> Arabic - Indonesian
+	Yunani, Ibrani, Turki, Arab, Latin, Syria dan Ibrani. Raja keluar dan tidak tahu bahwa raja sudah mati. Guru saya memberi tahu saya, "Saya tahu dokter Anda akan merawat Anda, tetapi Anda bisa melakukannya jika Anda bisa." Saya berjanji dan menghormati anak Anda, dan besok saya akan memberi Anda uang.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Hy Lạp, Do Thái, Thổ Nhĩ Kỳ, Ả Rập, Latin, Syriac và Do Thái. Nhà vua đi ra và không biết rằng nhà vua đã chết. Giáo viên của tôi nói với tôi, "Tôi biết bác sĩ sẽ điều trị cho bạn, nhưng bạn có thể làm điều đó nếu bạn có thể." Tôi hứa và tôn trọng con bạn, và ngày mai tôi sẽ cho bạn tiền.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Griego, judío, turco, árabe, latín, siríaco y judío. El rey salió y no sabía que estaba muerto. Mi maestra me dijo: "Sé que el médico te tratará, pero puedes hacerlo si puedes". Prometo y respeto a tus hijos, y mañana te daré dinero.
+
+Step 106/330
+>> Spanish - Arabic
+	اليونانية واليهودية والتركية والعربية واللاتينية والسريانية واليهودية. خرج الملك ولم يعلم أنه مات. أخبرني أستاذي: "أعرف أن الطبيب سوف يعاملك ، لكن يمكنك فعل ذلك إن استطعت". أعدك وأحترم أطفالك ، وغداً سأقدم لك المال.
+
+Step 107/330
+>> Arabic - Spanish
+	Griego, judío, turco, árabe, latín, siríaco y judío. El rey salió y no sabía que había muerto. Mi maestra me dijo: "Sé que el médico te tratará, pero puedes hacerlo si puedes". Prometo y respeto a tus hijos, y mañana te daré dinero.
+
+Step 108/330
+>> Spanish - Russian
+	Греческий, еврейский, турецкий, арабский, латинский, сирийский и еврейский. Царь вышел и не знал, что он умер. Мой учитель сказал мне: «Я знаю, что доктор будет лечить тебя, но ты можешь сделать это, если сможешь». Я обещаю и уважаю ваших детей, а завтра я дам вам деньги.
+
+Step 109/330
+>> Russian - Arabic
+	اليونانية واليهودية والتركية والعربية واللاتينية والسورية واليهودية. خرج الملك ولم يعلم أنه مات. أخبرني أستاذي: "أعرف أن الطبيب سوف يعاملك ، لكن يمكنك فعل ذلك إن استطعت". أعدك وأحترم أطفالك ، وغداً سأقدم لك المال.
+
+Step 110/330
+>> Arabic - Spanish
+	Griego, judío, turco, árabe, latino, sirio y judío. El rey salió y no sabía que había muerto. Mi maestra me dijo: "Sé que el médico te tratará, pero puedes hacerlo si puedes". Prometo y respeto a tus hijos, y mañana te daré dinero.
+
+Step 111/330
+>> Spanish - Portuguese
+	Grego, judeu, turco, árabe, latino, sírio e judeu. O rei saiu e não sabia que ele havia morrido. Meu professor me disse: "Eu sei que o médico irá tratá-lo, mas você pode fazê-lo, se puder". Prometo e respeito seus filhos, e amanhã darei dinheiro a você.
+
+Step 112/330
+>> Portuguese - English
+	Greek, Jewish, Turkish, Arabic, Latin, Syrian and Jewish. The king left and did not know that he had died. My teacher told me, "I know the doctor will treat you, but you can do it if you can." I promise and respect your children, and tomorrow I will give you money.
+
+Step 113/330
+>> English - Spanish
+	Griego, judío, turco, árabe, latino, sirio y judío. El rey se fue y no sabía que había muerto. Mi maestra me dijo: "Sé que el médico te tratará, pero puedes hacerlo si puedes". Prometo y respeto a tus hijos, y mañana te daré dinero.
+
+Step 114/330
+>> Spanish - English
+	Greek, Jewish, Turkish, Arabic, Latin, Syrian and Jewish. The king left and did not know that he had died. My teacher told me: "I know the doctor will treat you, but you can do it if you can." I promise and respect your children, and tomorrow I will give you money.
+
+Step 115/330
+>> English - Hindi
+	ग्रीक, यहूदी, तुर्की, अरबी, लैटिन, सीरियाई और यहूदी। राजा ने छोड़ दिया और उसे नहीं पता था कि वह मर गया था। मेरे शिक्षक ने मुझे बताया: "मुझे पता है कि डॉक्टर आपका इलाज करेंगे, लेकिन अगर आप कर सकते हैं तो आप इसे कर सकते हैं।" मैं आपके बच्चों का वादा और सम्मान करता हूं, और कल मैं आपको पैसे दूंगा।
+
+Step 116/330
+>> Hindi - Portuguese
+	Grego, iídiche, turco, árabe, latino, sírio e iídiche. O rei desistiu e não sabia que ele havia morrido. Meu professor me disse: "Eu sei que os médicos vão tratá-lo, mas você pode fazê-lo, se puder". Prometo e respeito seus filhos, e amanhã darei dinheiro a você.
+
+Step 117/330
+>> Portuguese - Spanish
+	Griego, yiddish, turco, árabe, latín, sirio y yiddish. El rey se rindió y no sabía que había muerto. Mi maestra me dijo: "Sé que los médicos te tratarán, pero puedes hacerlo si puedes". Prometo y respeto a tus hijos, y mañana te daré dinero.
+
+Step 118/330
+>> Spanish - English
+	Greek, Yiddish, Turkish, Arabic, Latin, Syrian and Yiddish. The king gave up and did not know that he had died. My teacher told me: "I know the doctors will treat you, but you can do it if you can." I promise and respect your children, and tomorrow I will give you money.
+
+Step 119/330
+>> English - Bengali
+	গ্রীক, য়িদ্দিশ, তুর্কি, আরবী, লাতিন, সিরিয়ান এবং য়িদ্দিশ। রাজা হাল ছেড়ে দিলেন এবং জানতেন না যে তিনি মারা গেছেন। আমার শিক্ষক আমাকে বলেছিলেন: "আমি জানি চিকিৎসকরা আপনার সাথে চিকিত্সা করবেন, তবে আপনি যদি পারেন তবে এটি করতে পারেন।" আমি প্রতিশ্রুতিবদ্ধ এবং আপনার সন্তানদের সম্মান, এবং আগামীকাল আমি আপনাকে অর্থ প্রদান করব।
+
+Step 120/330
+>> Bengali - French
+	Grec, yiddish, turc, arabe, latin, syrien et yiddish. Le roi a abandonné Hal et ne savait pas qu'il était mort. Mon professeur m'a dit: "Je sais que les médecins vont vous soigner, mais vous pouvez le faire si vous le pouvez." Je me suis engagé à honorer vos enfants et demain je vous paierai.
+
+Step 121/330
+>> French - lao
+	ກເຣັກ, Yiddish, ຕວກກີ, ອາຫລັບ, ລາຕິນ, ຊີເຣຍແລະ Yiddish. ກະສັດໄດ້ປະຖິ້ມ Hal ແລະບໍ່ຮູ້ວ່າລາວຕາຍແລ້ວ. ຄູອາຈານຂອງຂ້ອຍບອກຂ້ອຍວ່າ "ຂ້ອຍຮູ້ວ່າແພດຈະຮັກສາເຈົ້າແຕ່ເຈົ້າສາມາດເຮັດໄດ້ຖ້າເຈົ້າສາມາດເຮັດໄດ້." ຂ້າພະເຈົ້າມີຄວາມຕັ້ງໃຈທີ່ຈະໃຫ້ກຽດແກ່ລູກຫຼານຂອງທ່ານແລະມື້ອື່ນຂ້ອຍຈະຈ່າຍເງິນໃຫ້ເຈົ້າ.
+
+Step 122/330
+>> lao - English
+	Greek, Yiddish, Turkish, Arabic, Latin, Syria and Yiddish. The king abandoned Hal and did not know he was dead. My teacher told me, "I know doctors will treat you, but you can if you can." I intend to honor your children and tomorrow I will pay you.
+
+Step 123/330
+>> English - Portuguese
+	Grego, iídiche, turco, árabe, latino, síria e iídiche. O rei abandonou Hal e não sabia que ele estava morto. Meu professor me disse: "Eu sei que os médicos vão tratá-lo, mas você pode, se puder." Pretendo honrar seus filhos e amanhã vou pagar a você.
+
+Step 124/330
+>> Portuguese - English
+	Greek, Yiddish, Turkish, Arabic, Latin, Syrian and Yiddish. The king left Hal and did not know he was dead. My teacher told me, "I know doctors will treat you, but you can if you can." I intend to honor your children and tomorrow I will pay you.
+
+Step 125/330
+>> English - Portuguese
+	Grego, iídiche, turco, árabe, latino, sírio e iídiche. O rei deixou Hal e não sabia que ele estava morto. Meu professor me disse: "Eu sei que os médicos vão tratá-lo, mas você pode, se puder." Pretendo honrar seus filhos e amanhã vou pagar a você.
+
+Step 126/330
+>> Portuguese - English
+	Greek, Yiddish, Turkish, Arabic, Latin, Syrian and Yiddish. The king left Hal and did not know he was dead. My teacher told me, "I know doctors will treat you, but you can if you can." I intend to honor your children and tomorrow I will pay you.
+
+Step 127/330
+>> English - Portuguese
+	Grego, iídiche, turco, árabe, latino, sírio e iídiche. O rei deixou Hal e não sabia que ele estava morto. Meu professor me disse: "Eu sei que os médicos vão tratá-lo, mas você pode, se puder." Pretendo honrar seus filhos e amanhã vou pagar a você.
+
+Step 128/330
+>> Portuguese - Burmese
+	ဂရိ, အဘိဓါန် Yiddish-, တူရကီ, အာရဗီ, လက်တင်, ဆီးရီးယားနှင့်အဘိဓါန် Yiddish- ။ ရှငျဘုရငျကိုစွန် Hal သူသေမသိခဲ့ပါ။ အကြှနျုပျ၏ဆရာပြောတယ် "ငါဆရာဝန်တွေသင်ပြုမူဆက်ဆံပါလိမ့်မယ်သင်သိရပေမယ်သင်သည်တတ်နိုင်လျှင်သင်လို့ရတယ်။ " ငါသည်သင်တို့ပေးဆောင်ပါလိမ့်မယ်၎င်းတို့၏ကလေးများနှင့်မနက်ဖြန်ကိုဂုဏ်ပြုတဲ့ရည်ရွယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	यिद्दिस-ग्रीक, सिरिया, टर्की, अरबी, ल्याटिन र यिद्दिस। राजा हैल किनारा थाहा थिएन। मेरो शिक्षक "मलाई थाहा डाक्टर व्यवहार हुनेछ।, तपाईं, सक्नुहुन्छ तपाईं भने कि" म आफ्ना छोराछोरीलाई तिर्छु र भोलि सम्मान निमित्त, भन्नुभयो।
+
+Step 130/330
+>> Nepali - Urdu
+	یدش - یونانی ، شام ، ترکی ، عربی ، لاطینی اور یدش کنگ ہل ساحل کو نہیں جانتا تھا۔ میرے استاد نے کہا ، "مجھے معلوم ہے کہ ڈاکٹر برتاؤ کرے گا۔ آپ کر سکتے ہو ، اگر ہو سکے تو" اور میں کل اپنے بچوں کو معاوضہ دوں گا اور عزت دیتا ہوں۔
+
+Step 131/330
+>> Urdu - French
+	Yiddish - grec, syrien, turc, arabe, latin et yiddish ne connaissaient pas les plages de King Hill. Mon professeur a dit: "Je sais que le médecin va se comporter. Vous pouvez, si vous le pouvez" et je dédommagerai et honorerai mes enfants demain.
+
+Step 132/330
+>> French - English
+	Yiddish - Greek, Syrian, Turkish, Arabic, Latin and Yiddish did not know the beaches of King Hill. My teacher said, "I know the doctor will behave, you can, if you can," and I will compensate and honor my children tomorrow.
+
+Step 133/330
+>> English - Swahili
+	Kiyidi - Mgiriki, Siria, Kituruki, Kiarabu, Kilatini na Kiyidi hakujua fukwe za King Hill. Mwalimu wangu alisema, "Ninajua daktari atatenda, unaweza, ikiwa unaweza," na nitalipa na kuwapa heshima watoto wangu kesho.
+
+Step 134/330
+>> Swahili - Arabic
+	اليديشية - اليونانية والسورية والتركية والعربية واللاتينية واليديشية لم تكن تعرف شواطئ الملك هيل. قال أستاذي: "أعرف أن الطبيب سيفعل ، إذا أمكنك ذلك" ، وسأدفع لأطفالي وأحترمهم غدًا.
+
+Step 135/330
+>> Arabic - Shona
+	Yiddish - ChiGiriki, chiSyria, chiTurkey, chiArabic, chiLatin neYiddish vaisaziva mahombekombe eKing Hill. Mudzidzisi wangu akati, "Ndinoziva chiremba achaita, kana uchikwanisa," uye ndichatobhadhara vana vangu uye ndivaremekedze mangwana.
+
+Step 136/330
+>> Shona - Hausa
+	Yiddish - Girkanci, Syriac, Baturke, Larabci, Latin da Yiddish ba su san gabar King Hill ba. Malami na ya ce, "Na san likita zai iya, idan za ku iya," kuma zan biya 'ya'yana in girmama su gobe.
+
+Step 137/330
+>> Hausa - Swahili
+	Kiyidi - Kigiriki, Syriac, Kituruki, Kiarabu, Kilatini na Kiyidi haijulikani na King Hill. Mwalimu wangu alisema, "Ninajua daktari anaweza, ikiwa unaweza," na nitawalipa watoto wangu na kuwaheshimu kesho.
+
+Step 138/330
+>> Swahili - English
+	Yiddish - Greek, Syriac, Turkish, Arabic, Latin and Yiddish are unknown by King Hill. My teacher said, "I know a doctor can, if you can," and I will pay my children and respect them tomorrow.
+
+Step 139/330
+>> English - Arabic
+	اليديشية - اليونانية والسريانية والتركية والعربية واللاتينية واليديشية غير معروفة من قبل الملك هيل. قال أستاذي: "أعرف أن بإمكان الطبيب ، إن أمكن ،" أن أدفع أطفالي وأحترمهم غدًا.
+
+Step 140/330
+>> Arabic - Malagasy
+	Yiddish - Grika, Syriac, Tiorka, Arabo, Latin ary Yiddish dia tsy fantatry King Hill. Hoy ny mpampianatra ahy, "Fantatro fa afaka mandoa ny zanako ny dokotera, raha azo atao," ary manaja azy ireo rahampitso.
+
+Step 141/330
+>> Malagasy - Swahili
+	Kiyidi - Kigiriki, Syriac, Kituruki, Kiarabu, Kilatini na Kiyidi haijulikani na King Hill. Mwalimu wangu alisema, "Ninajua madaktari wanaweza kulipia watoto wangu, ikiwezekana," na wataheshimu kesho.
+
+Step 142/330
+>> Swahili - French
+	Yiddish - King Hill ignore le grec, le syriaque, le turc, l'arabe, le latin et le yiddish. Mon professeur a dit: "Je sais que les médecins peuvent payer pour mes enfants, si possible", et ils se respecteront demain.
+
+Step 143/330
+>> French - Arabic
+	Yiddish - King Hill يتجاهل اليونانية والسريانية والتركية والعربية واللاتينية واليديشية. قال أستاذي: "أعرف أن الأطباء يمكنهم دفع أطفالي ، إن أمكن" ، وسيحترمون بعضهم بعضًا غدًا.
+
+Step 144/330
+>> Arabic - French
+	Yiddish - King Hill ignore le grec, le syriaque, le turc, l'arabe, le latin et le yiddish. Mon professeur a déclaré: "Je sais que les médecins peuvent pousser mes enfants, si possible", et ils se respecteront demain.
+
+Step 145/330
+>> French - Arabic
+	Yiddish - King Hill يتجاهل اليونانية والسريانية والتركية والعربية واللاتينية واليديشية. قال أستاذي: "أعرف أن الأطباء يمكنهم دفع أطفالي ، إن أمكن" ، وسيحترمون بعضهم بعضًا غدًا.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Yiddish - King Hill inyore Grèk, siryak, Tik, Arab, Latin ak Yiddish. Pwofesè mwen an te di: "Mwen konnen ke doktè yo ka pouse pitit mwen yo, si sa posib," epi y ap respekte demen lòt.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	یهودي - کنگ هیل یوناني ، سوریه ، ترکي ، عربي ، لاتین او یهودي سترګې پټوي. زما ښوونکي وویل ، "زه پوهیږم چې ډاکټران کولی شي زما ماشومان فشار راوړي ، که امکان ولري ،" او دوی به سبا یو بل ته درناوی وکړي.
+
+Step 148/330
+>> Pashto - French
+	Juif - King Hill est interprété par les noms grec, syrien, turc, arabe, latin et juif. Mon professeur a dit: "Je sais que les médecins peuvent faire pression sur mes enfants, si possible", et ils se respecteront demain.
+
+Step 149/330
+>> French - Chichewa
+	Chiyuda - King Hill amatanthauziridwa ndi mayina Greek, Syrian, Turkey, Arabic, Latin ndi Myuda. Mphunzitsi wanga anati, "ndikudziwa madokotala amatha kupanikiza ana anga, ngati zingatheke," ndipo adzalemekezana mawa.
+
+Step 150/330
+>> Chichewa - Arabic
+	اليهودية - تتم ترجمة الملك هيل بأسماء اليونانية والسورية والتركية والعربية واللاتينية واليهودية. قال أستاذي: "أعرف أن الأطباء يمكنهم الضغط على أطفالي ، إن أمكن ،" وسيحترمون بعضهم بعضًا غدًا.
+
+Step 151/330
+>> Arabic - Amharic
+	ይሁዲነት - ኪንግ ሂል በግሪክ ፣ በሶሪያ ፣ በቱርክ ፣ በአረብ ፣ በላቲን እና በአይሁድ ስሞች ተተርጉሟል። አስተማሪዬም “የሚቻል ከሆነ ሐኪሞች በልጆቼ ላይ ጫና ሊያሳድሩ እንደሚችሉ አውቃለሁ” እናም ነገ ነገ እርስ በእርስ ይከበራሉ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Judaism - King Hill has been translated into Greek, Syrian, Turkish, Arab, Latin and Jewish names. My teacher said, "I know that if it is possible, doctors can put pressure on my children" and they will celebrate each other tomorrow.
+
+Step 153/330
+>> English - French
+	Judaïsme - King Hill a été traduit en grec, syrien, turc, arabe, latin et juif. Mon professeur a déclaré: "Je sais que si cela est possible, les médecins peuvent faire pression sur mes enfants" et qu'ils se célèbreront demain.
+
+Step 154/330
+>> French - Swahili
+	Uyahudi - King Hill limetafsiriwa kwa Kiyunani, Siria, Kituruki, Kiarabu, Kilatini na Kiyahudi. Mwalimu wangu alisema, "Ninajua kuwa ikiwa inawezekana, madaktari wanaweza kuweka shinikizo kwa watoto wangu" na kwamba wataadhimisha kesho.
+
+Step 155/330
+>> Swahili - Portuguese
+	Judaísmo - King Hill foi traduzido para grego, siríaco, turco, árabe, latim e judeu. Meu professor disse: "Eu sei que, se possível, os médicos podem pressionar meus filhos" e que eles celebrarão amanhã.
+
+Step 156/330
+>> Portuguese - Arabic
+	اليهودية - ترجم الملك هيل إلى اليونانية والسريانية والتركية والعربية واللاتينية واليهودية. قال أستاذي ، "أعرف أنه إذا أمكن للأطباء الضغط على أطفالي" وأنهم سيحتفلون غدًا.
+
+Step 157/330
+>> Arabic - Portuguese
+	Judaísmo - King Hill traduzido para grego, siríaco, turco, árabe, latim e judaísmo. Meu professor disse: "Eu sei se os médicos podem pressionar meus filhos" e eles comemoram amanhã.
+
+Step 158/330
+>> Portuguese - English
+	Judaism - King Hill translated into Greek, Syriac, Turkish, Arabic, Latin, and Judaism. My teacher said, "I know if doctors can pressure my children" and they celebrate tomorrow.
+
+Step 159/330
+>> English - French
+	Judaïsme - King Hill traduit en grec, syriaque, turc, arabe, latin et judaïsme. Mon professeur a dit: "Je sais si les médecins peuvent faire pression sur mes enfants" et ils célèbrent demain.
+
+Step 160/330
+>> French - English
+	Judaism - King Hill translates into Greek, Syriac, Turkish, Arabic, Latin and Judaism. My teacher said, "I know if doctors can put pressure on my kids" and they celebrate tomorrow.
+
+Step 161/330
+>> English - Swahili
+	Uyahudi - King Hill hutafsiri kwa Kigiriki, Syriac, Kituruki, Kiarabu, Kilatini na Uyahudi. Mwalimu wangu alisema, "Ninajua ikiwa madaktari wanaweza kuweka shinikizo kwa watoto wangu" na wanaadhimisha kesho.
+
+Step 162/330
+>> Swahili - Arabic
+	اليهودية - King Hill يترجم إلى اليونانية والسريانية والتركية والعربية واللاتينية واليهودية. قال أستاذي: "أعرف ما إذا كان الأطباء يستطيعون الضغط على أطفالي" وهم يحتفلون غدًا.
+
+Step 163/330
+>> Arabic - Arabic
+	Judaism - King Hill translates into Greek, Syriac, Turkish, Arabic, Latin and Judaism. “I know if doctors can put pressure on my children,” my teacher said as they celebrated tomorrow.
+
+Step 164/330
+>> Arabic - French
+	Judaïsme - King Hill traduit en grec, syriaque, turc, arabe, latin et judaïsme. «Je sais si les médecins peuvent faire pression sur mes enfants», a déclaré mon professeur lors de la célébration de demain.
+
+Step 165/330
+>> French - Hausa
+	Addinin Yahudanci - King Hill ya fassara zuwa Girkanci, Syriac, Baturke, Larabci, Latin da Yahudanci. "Na san idan likitoci za su iya sanya matsin lamba a kan yarana," in ji malamin a wurin bikin gobe.
+
+Step 166/330
+>> Hausa - French
+	Judaïsme - King Hill a traduit en grec, syriaque, turc, arabe, latin et hébreu. "Je sais si les médecins peuvent faire pression sur mes enfants", a déclaré l'enseignant lors de la cérémonie de demain.
+
+Step 167/330
+>> French - Arabic
+	Judaism - King Hill translated into Greek, Syriac, Turkish, Arabic, Latin and Hebrew. "I know if doctors can put pressure on my children," said the teacher at the ceremony tomorrow.
+
+Step 168/330
+>> Arabic - Arabic
+	اليهودية - ترجمة الملك هيل إلى اليونانية والسريانية والتركية والعربية واللاتينية والعبرية. قال المعلم في الحفل غداً "أعرف ما إذا كان بإمكان الأطباء ممارسة الضغط على أطفالي".
+
+Step 169/330
+>> Arabic - Swahili
+	Uyahudi - Tafsiri ya King Hill kwa Kigiriki, Syriac, Kituruki, Kiarabu, Kilatini na Kiebrania. "Ninajua ikiwa madaktari wanaweza kuweka shinikizo kwa watoto wangu," mwalimu alisema kwenye sherehe hiyo kesho.
+
+Step 170/330
+>> Swahili - English
+	Judaism - King Hill's translation into Greek, Syriac, Turkish, Arabic, Latin and Hebrew. "I know if doctors can put pressure on my children," the teacher said at the ceremony tomorrow.
+
+Step 171/330
+>> English - French
+	Judaïsme - traduction de King Hill en grec, syriaque, turc, arabe, latin et hébreu. "Je sais si les médecins peuvent faire pression sur mes enfants", a déclaré l'enseignant lors de la cérémonie de demain.
+
+Step 172/330
+>> French - English
+	Judaism - King Hill translation into Greek, Syriac, Turkish, Arabic, Latin and Hebrew. "I know if doctors can put pressure on my children," said the teacher at the ceremony tomorrow.
+
+Step 173/330
+>> English - Portuguese
+	Judaísmo - tradução de King Hill para grego, siríaco, turco, árabe, latim e hebraico. "Eu sei se os médicos podem pressionar meus filhos", disse o professor na cerimônia de amanhã.
+
+Step 174/330
+>> Portuguese - Arabic
+	اليهودية - ترجمة من الملك هيل إلى اليونانية والسريانية والتركية والعربية واللاتينية والعبرية. وقال البروفيسور في الحفل غداً "أعرف ما إذا كان بإمكان الأطباء ممارسة الضغط على أولادي".
+
+Step 175/330
+>> Arabic - Portuguese
+	Judaísmo - uma tradução de King Hill para grego, siríaco, turco, árabe, latim e hebraico. "Eu sei se os médicos podem pressionar meus filhos", disse o professor na cerimônia de amanhã.
+
+Step 176/330
+>> Portuguese - Swahili
+	Uyahudi - Tafsiri ya King Hill kwa Kiyunani, Kisyria, Kituruki, Kiarabu, Kilatini na Kiebrania. "Ninajua ikiwa madaktari wanaweza kuweka shinikizo kwa watoto wangu," profesa alisema kwenye sherehe hiyo kesho.
+
+Step 177/330
+>> Swahili - French
+	Judaïsme - traduction de King Hill en grec, syriaque, turc, arabe, latin et hébreu. "Je sais si les médecins peuvent faire pression sur mes enfants", a déclaré le professeur lors de la cérémonie de demain.
+
+Step 178/330
+>> French - English
+	Judaism - King Hill translation into Greek, Syriac, Turkish, Arabic, Latin and Hebrew. "I know if doctors can put pressure on my children," said the professor at tomorrow's ceremony.
+
+Step 179/330
+>> English - Amharic
+	ይሁዲነት - ኪንግ ሂል ትርጉም ወደ ግሪክ ፣ ሲሪያክ ፣ ቱርክ ፣ አረብኛ ፣ ላቲን እና ዕብራይስጥ ፡፡ በነገው ስነስርዓት ላይ ፕሮፌሰሩ በበኩላቸው “ዶክተሮች በልጆቼ ላይ ጫና ሊፈጥሩ እንደሚችሉ አውቃለሁ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	اليهودية - King Hill ترجمة إلى اليونانية والسريانية والتركية والعربية واللاتينية والعبرية. في الحفل غداً ، قال الأستاذ: "أعرف أن الأطباء يمكنهم الضغط على أطفالي.
+
+Step 181/330
+>> Arabic - Chichewa
+	Chiyuda - Kutanthauzira kwa King Hill mu Chi Greek, Chisyria, Chituruki, Chiarabu, Chilatini ndi Chiheberi. Pamwambowu mawa, pulofesa adati: "Ndikudziwa madokotala amatha kupanikiza ana anga.
+
+Step 182/330
+>> Chichewa - French
+	Judaïsme - Interprétation de King Hill en grec, syriaque, turc, arabe, latin et hébreu. Lors d'une conférence de presse demain, le professeur a déclaré: "Je sais que les médecins peuvent faire pression sur mes enfants.
+
+Step 183/330
+>> French - Pashto
+	یهودیت - په یوناني ، سوریه ، ترکي ، عربي ، لاتین او عبراني کې د پاچا هیل تفسیر. سبا په یوه خبري کنفرانس کې ، پروفیسر وویل ، "زه پوهیږم چې ډاکټران کولی شي زما په ماشومانو فشار راوړي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Jidayis - Entèpretasyon wa Hill lan nan grèk, peyi Siri, Latiki, Arab, Latin ak ebre. Nan yon konferans nouvèl demen, pwofesè a te di, "Mwen konnen doktè ka mete presyon sou pitit mwen yo.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	اليهودية - تفسير الملك هيل لليونانية وسوريا وتركيا والعربية واللاتينية والعبرية. في مؤتمر صحفي غداً ، قال المعلم: "أعرف أن الأطباء يستطيعون الضغط على أطفالي.
+
+Step 186/330
+>> Arabic - French
+	Judaïsme - interprétation donnée par King Hill du grec, de la Syrie, de la Turquie, de l'arabe, du latin et de l'hébreu. Lors d’une conférence de presse de demain, le professeur a déclaré: "Je sais que les médecins peuvent faire pression sur mes enfants.
+
+Step 187/330
+>> French - Arabic
+	اليهودية - تفسير الملك هيل لليونانية والسورية والتركية والعربية واللاتينية والعبرية. في مؤتمر صحفي غداً ، قال الأستاذ: "أعرف أن الأطباء يمكنهم الضغط على أطفالي.
+
+Step 188/330
+>> Arabic - French
+	Judaïsme - interprétation donnée par King Hill du grec, du syrien, du turc, de l'arabe, du latin et de l'hébreu. Lors d'une conférence de presse demain, le professeur a déclaré: "Je sais que les médecins peuvent faire pression sur mes enfants.
+
+Step 189/330
+>> French - Swahili
+	Uyahudi - Tafsiri ya Mfalme Hill ya Kigiriki, Siria, Kituruki, Kiarabu, Kilatini na Kiebrania. Kwenye mkutano na waandishi wa habari kesho, profesa huyo alisema, "Ninajua kuwa madaktari wanaweza kuweka shinikizo kwa watoto wangu.
+
+Step 190/330
+>> Swahili - Malagasy
+	Jodaisme - fandikana ny teny grika, syriac, tiorka, arabo, latina ary hebreo ny Mpanjaka Hill. Nandritra ny valan-dresaka ho an'ny mpanao gazety rahampitso dia nilaza ilay mpampianatra hoe "Fantatro fa afaka manery ny zanako ny dokotera.
+
+Step 191/330
+>> Malagasy - Arabic
+	اليهودية - ترجمة الملك هيل لليونانية والسريانية والتركية والعربية واللاتينية والعبرية. في مؤتمر صحفي غداً ، قال المعلم: "أعرف أن الأطباء يستطيعون الضغط على أولادي.
+
+Step 192/330
+>> Arabic - English
+	Judaism - King Hill's translation of Greek, Syriac, Turkish, Arabic, Latin and Hebrew. At a news conference tomorrow, the teacher said: "I know doctors can put pressure on my children.
+
+Step 193/330
+>> English - Swahili
+	Uyahudi - Tafsiri ya King Hill ya Kigiriki, Syriac, Kituruki, Kiarabu, Kilatini na Kiebrania. Kwenye mkutano wa wanahabari kesho, mwalimu alisema: "Ninajua madaktari wanaweza kuweka shinikizo kwa watoto wangu.
+
+Step 194/330
+>> Swahili - Hausa
+	Addinin Yahudanci - Fassarar King Hill na Girkanci, Syriac, Baturke, Larabci, Latin da Ibrananci. A wani taron manema labarai gobe, malamin ya ce: "Na san likitoci na iya sanya 'ya'ya na.
+
+Step 195/330
+>> Hausa - Shona
+	Chiyuda - Yakashandurwa naKing Hill Greek, Syriac, Turkish, Arabic, Latin uye Chihebheru. Pamusangano wenhau mangwana, mudzidzisi akati: "Ndinoziva vanachiremba vanogona kuisa vana vangu."
+
+Step 196/330
+>> Shona - Arabic
+	اليهودية - ترجمة الملك هيل اليونانية والسريانية والتركية والعربية واللاتينية والعبرية. في مؤتمر صحفي غداً ، قال المعلم: "أعرف أن الأطباء يمكنهم وضع أولادي".
+
+Step 197/330
+>> Arabic - Swahili
+	Uyahudi - Tafsiri ya King Hill Greek, Syriac, Kituruki, Kiarabu, Kilatini na Kiebrania. Kwenye mkutano wa wanahabari kesho, mwalimu alisema, "Najua madaktari wanaweza kuweka watoto wangu."
+
+Step 198/330
+>> Swahili - English
+	Judaism - Translation of King Hill Greek, Syriac, Turkish, Arabic, Latin and Hebrew. At a press conference tomorrow, the teacher said, "I know doctors can keep my children."
+
+Step 199/330
+>> English - French
+	Judaïsme - Traduction de King Hill Grec, Syriaque, Turc, Arabe, Latin et Hébreu. Lors d'une conférence de presse demain, le professeur a déclaré: "Je sais que les médecins peuvent garder mes enfants."
+
+Step 200/330
+>> French - Urdu
+	یہودیت۔ کنگ ہل یونانی ، سیریاک ، ترکی ، عربی ، لاطینی اور عبرانی سے ترجمہ۔ کل ایک پریس کانفرنس میں ، پروفیسر نے کہا ، "مجھے معلوم ہے کہ ڈاکٹر میرے بچوں کو رکھ سکتے ہیں۔"
+
+Step 201/330
+>> Urdu - Nepali
+	यहूदी धर्म। किंग हिल ग्रीक, सिरियाक, टर्की, अरबी, ल्याटिन र हिब्रूबाट अनुवाद गर्दछ। हिजो एक प्रेस सम्मेलन मा, प्राध्यापकले भने, "मलाई थाहा छ डाक्टरहरूले मेरा बच्चाहरु राख्न सक्दछन्।"
+
+Step 202/330
+>> Nepali - Burmese
+	ဂျူးဘာသာတရားကို။ ရှငျဘုရငျဟေးလ်, ဂရိ, Syriac, တူရကီ, အာရ, လက်တင်နှင့်ဟီဘရူးဘာသာ။ မနေ့ကသတင်းစာရှင်းလင်းပွဲမှာ, ပါမောက္ခ "ကျွန်မပါဝင်ပတ်သက်ဆရာဝန်များငါ့ကလေးတွေသိကြ၏။ " ဟုပြောသည်
+
+Step 203/330
+>> Burmese - Portuguese
+	religião judaica. King Hill, grego, siríaco, turco, árabe, grego, latim e hebraico. Professor na conferência de imprensa de ontem, "Eu sei que os médicos envolvidos nos meus filhos." Ele disse
+
+Step 204/330
+>> Portuguese - English
+	Jewish religion. King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew. Professor at yesterday's press conference, "I know the doctors involved in my children." He said
+
+Step 205/330
+>> English - Portuguese
+	Religião judaica. King Hill, grego, siríaco, turco, árabe, grego, latim e hebraico. Professor na conferência de imprensa de ontem: "Conheço os médicos envolvidos em meus filhos". Ele disse
+
+Step 206/330
+>> Portuguese - English
+	Jewish religion King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew. Professor at yesterday's press conference: "I know the doctors involved in my children." He said
+
+Step 207/330
+>> English - Portuguese
+	Religião judaica King Hill, grego, siríaco, turco, árabe, grego, latim e hebraico. Professor na conferência de imprensa de ontem: "Conheço os médicos envolvidos em meus filhos". Ele disse
+
+Step 208/330
+>> Portuguese - English
+	Jewish religion King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew. Professor at yesterday's press conference: "I know the doctors involved in my children." He said
+
+Step 209/330
+>> English - lao
+	ສາສະ ໜາ King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin ແລະ Hebrew. ສາດສະດາຈານໃນກອງປະຊຸມຂ່າວໃນມື້ວານນີ້ວ່າ: "ຂ້ອຍຮູ້ວ່າທ່ານ ໝໍ ມີສ່ວນຮ່ວມໃນເດັກນ້ອຍຂອງຂ້ອຍ." ລາວ​ເວົ້າ​ວ່າ
+
+Step 210/330
+>> lao - French
+	King Hill, religions grecque, syriaque, turque, arabe, grecque, latine et hébraïque. Le professeur a déclaré lors d'une conférence de presse hier: "Je sais que le médecin est impliqué dans mon bébé." Il a dit
+
+Step 211/330
+>> French - Bengali
+	কিং হিল, গ্রীক, সিরিয়াক, তুর্কি, আরবী, গ্রীক, লাতিন এবং হিব্রু ধর্ম। অধ্যাপক গতকাল একটি সংবাদ সম্মেলনে বলেছিলেন: "আমি জানি ডাক্তার আমার শিশুর সাথে জড়িত।" তিনি ড
+
+Step 212/330
+>> Bengali - English
+	King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew religion. The professor said at a news conference yesterday: "I know the doctor is involved with my baby." He said
+
+Step 213/330
+>> English - Spanish
+	King Hill, religión griega, siríaca, turca, árabe, griega, latina y hebrea. El profesor dijo ayer en una conferencia de prensa: "Sé que el médico está involucrado con mi bebé". Él dijo
+
+Step 214/330
+>> Spanish - Portuguese
+	King Hill, religião grega, siríaca, turca, árabe, grega, latina e hebraica. O professor disse ontem em uma entrevista coletiva: "Eu sei que o médico está envolvido com meu bebê". Ele disse
+
+Step 215/330
+>> Portuguese - Hindi
+	किंग हिल, ग्रीक, सिरिएक, तुर्की, अरबी, ग्रीक, लैटिन और हिब्रू धर्म। शिक्षक ने कल एक संवाददाता सम्मेलन में कहा: "मुझे पता है कि डॉक्टर मेरे बच्चे के साथ शामिल है।" उसने कहा
+
+Step 216/330
+>> Hindi - English
+	King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew religions. The teacher said at a press conference yesterday: "I know the doctor is involved with my child." he said
+
+Step 217/330
+>> English - Spanish
+	King Hill, religiones griega, siríaca, turca, árabe, griega, latina y hebrea. La maestra dijo ayer en una conferencia de prensa: "Sé que el médico está involucrado con mi hijo". él dijo
+
+Step 218/330
+>> Spanish - English
+	King Hill, Greek, Syriac, Turkish, Arabic, Greek, Latin and Hebrew religions. The teacher said yesterday at a press conference: "I know the doctor is involved with my son." he said
+
+Step 219/330
+>> English - Portuguese
+	Religiões de King Hill, grega, siríaca, turca, árabe, grega, latina e hebraica. O professor disse ontem em uma entrevista coletiva: "Eu sei que o médico está envolvido com meu filho". ele disse
+
+Step 220/330
+>> Portuguese - Spanish
+	King Hill, religiones griega, siríaca, turca, árabe, griega, latina y hebrea. La maestra dijo ayer en una conferencia de prensa: "Sé que el médico está involucrado con mi hijo". el dice
+
+Step 221/330
+>> Spanish - Arabic
+	الملك هيل ، الديانات اليونانية ، السريانية ، التركية ، العربية ، اليونانية ، اللاتينية والعبرية. قال المعلم أمس في مؤتمر صحفي: "أعرف أن الطبيب متورط مع ابني". هو يقول
+
+Step 222/330
+>> Arabic - Russian
+	Кинг Хилл, греческий, сирийский, турецкий, арабский, греческий, латынь и иврит. «Я знаю, что доктор был связан с моим сыном», - сказал учитель вчера на пресс-конференции. Он говорит
+
+Step 223/330
+>> Russian - Spanish
+	King Hill, griego, sirio, turco, árabe, griego, latín y hebreo. "Sé que el médico estaba asociado con mi hijo", dijo la maestra en una conferencia de prensa ayer. El habla
+
+Step 224/330
+>> Spanish - Arabic
+	الملك هيل واليونانية والسورية والتركية والعربية واليونانية واللاتينية والعبرية. وقال المعلم في مؤتمر صحفي أمس "أعرف أن الطبيب مرتبط بابني". هو يتكلم
+
+Step 225/330
+>> Arabic - Spanish
+	King Hill, griego, sirio, turco, árabe, griego, latín y hebreo. "Sé que el médico está vinculado a mi hijo", dijo Moualem en una conferencia de prensa ayer. El habla
+
+Step 226/330
+>> Spanish - Vietnamese
+	Đồi King, Hy Lạp, Syria, Thổ Nhĩ Kỳ, Ả Rập, Hy Lạp, Latin và Do Thái. "Tôi biết bác sĩ có liên quan đến con trai tôi," Moualem nói trong một cuộc họp báo ngày hôm qua. Anh ấy nói
+
+Step 227/330
+>> Vietnamese - Indonesian
+	King Hill, Yunani, Suriah, Turki, Arab, Yunani, Latin, dan Israel. "Saya tahu dokter itu terkait dengan putra saya," kata Moualem pada konferensi pers kemarin. Katanya
+
+Step 228/330
+>> Indonesian - Arabic
+	الملك هيل ، اليونان ، سوريا ، تركيا ، العربية ، اليونان ، اللاتينية ، وإسرائيل. وقال المعلم في مؤتمر صحفي أمس "أعرف أن الطبيب مرتبط بابني." قال
+
+Step 229/330
+>> Arabic - Zulu
+	IKing Hill, Greece, Syria, Turkey, Arabia, Greece, Latin, ne Israel. "Ngiyazi ukuthi udokotela uboshelwe indodana yami," kusho uMoualem ekhuluma esithangamini nabezindaba izolo. Uthe
+
+Step 230/330
+>> Zulu - Filipino
+	King Hill, Greece, Syria, Turkey, Arabia, Greece, Latin, at Israel. "Alam kong naaresto ang doktor para sa aking anak," sabi ni Moualem sa isang kumperensya ng balita kahapon. Aniya
+
+Step 231/330
+>> Filipino - Romanian
+	King Hill, Grecia, Siria, Turcia, Arabia, Grecia, Latină și Israel. "Știu că medicul a fost arestat pentru fiul meu", a spus Moualem, ieri, într-o conferință de presă. A spus el
+
+Step 232/330
+>> Romanian - Spanish
+	King Hill, Grecia, Siria, Turquía, Arabia, Grecia, América e Israel. "Sé que el médico fue arrestado por mi hijo", dijo Moualem ayer en una conferencia de prensa. El dijo
+
+Step 233/330
+>> Spanish - French
+	King Hill, Grèce, Syrie, Turquie, Arabie Saoudite, Grèce, Amérique et Israël. "Je sais que le médecin a été arrêté pour mon fils", a déclaré Moualem lors d'une conférence de presse. Il a dit
+
+Step 234/330
+>> French - Arabic
+	الملك هيل ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، أمريكا وإسرائيل. وقال المعلم في مؤتمر صحفي "أعرف أن الطبيب اعتقل بسبب ابني". قال
+
+Step 235/330
+>> Arabic - English
+	King Hill, Greece, Syria, Turkey, Saudi Arabia, Greece, America and Israel. "I know the doctor was arrested because of my son," Moualem told a news conference. He said
+
+Step 236/330
+>> English - Uzbek
+	King Hill, Gretsiya, Suriya, Turkiya, Saudiya Arabistoni, Gretsiya, Amerika va Isroil. "Doktor o'g'lim tufayli hibsga olinganini bilaman", dedi Moualem matbuot anjumanida. U aytdi
+
+Step 237/330
+>> Uzbek - Samoan
+	King Hill, Greece, Suria, Turkey, Saudi Arabia, Eleni, Amerika ma Isaraelu. "Ou te iloa na puʻeina le fomai ona o loʻu atalii," o le tala lea a Moualem i se faʻasalalauga fou. Fai mai a ia
+
+Step 238/330
+>> Samoan - English
+	King Hill, Greece, Syria, Turkey, Saudi Arabia, Greece, USA and Israel. "I know the doctor was arrested because of my son," Moualem said in a news release. She said
+
+Step 239/330
+>> English - Dutch
+	King Hill, Griekenland, Syrië, Turkije, Saoedi-Arabië, Griekenland, de VS en Israël. "Ik weet dat de dokter vanwege mijn zoon is gearresteerd," zei Moualem in een persbericht. Ze zei
+
+Step 240/330
+>> Dutch - English
+	King Hill, Greece, Syria, Turkey, Saudi Arabia, Greece, the US and Israel. "I know the doctor arrested me for my son," Moualem said in a press release. She said
+
+Step 241/330
+>> English - Kurdish
+	King Hill, Yewnanîstan, Sûriye, Tirkiye, Erebistana Siûdî, Yewnanîstan, Amerîka û sraîl. "Ez zanim ku bijîşk min ji bo kurê min girtin," Moualem di daxuyaniyek çapemeniyê de got. Wê got
+
+Step 242/330
+>> Kurdish - Arabic
+	الملك هيل ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، الولايات المتحدة وإسرائيل. وقال المعلم في بيان صحفي "أعرف أن الأطباء اعتقلوني بسبب ابني". قالت
+
+Step 243/330
+>> Arabic - Spanish
+	King Hill, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que los médicos me arrestaron por mi hijo", dijo Moualem en un comunicado de prensa. Ella dijo
+
+Step 244/330
+>> Spanish - Mongolian
+	Кинг Хилл, Грек, Сири, Турк, Саудын Араб, Грек, АНУ, Израиль. "Эмч нар намайг миний хүүгийн төлөө баривчилсаныг би мэднэ" гэж Муаллем хэвлэлд өгсөн ярилцлагадаа хэлжээ. Тэр хэлэв
+
+Step 245/330
+>> Mongolian - English
+	King Hill, Greece, Syria, Turkey, Saudi Arabia, Greece, United States, and Israel. "I know my doctors arrested for my son," Mullam told the interview. He said
+
+Step 246/330
+>> English - Spanish
+	King Hill, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mis médicos fueron arrestados por mi hijo", dijo Mullam en la entrevista. Él dijo
+
+Step 247/330
+>> Spanish - Ukrainian
+	Кінг-Хілл, Греція, Сирія, Туреччина, Саудівська Аравія, Греція, США та Ізраїль. "Я знаю, що мої лікарі були заарештовані за мого сина", - сказав Муллам в інтерв'ю. - сказав він
+
+Step 248/330
+>> Ukrainian - Spanish
+	King Hill, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mis médicos han sido arrestados por mi hijo", dijo Mullam en una entrevista. el dijo
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	国王山，希腊，叙利亚，土耳其，沙特阿拉伯，希腊，美国和以色列。 “我知道我的医生已经被我的儿子逮捕了，”穆拉姆在接受采访时说。他说
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	جبل الملوك ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، الولايات المتحدة الأمريكية وإسرائيل. وقال مورام في مقابلة "أعلم أن طبيبي اعتقل من قبل ابني". قال
+
+Step 251/330
+>> Arabic - Thai
+	ภูเขาแห่งกษัตริย์, กรีซ, ซีเรีย, ตุรกี, ซาอุดีอาระเบีย, กรีซ, สหรัฐอเมริกาและอิสราเอล "ฉันรู้ว่าหมอของฉันถูกจับโดยลูกชายของฉัน" Muram กล่าวในการให้สัมภาษณ์ เขาพูดว่า
+
+Step 252/330
+>> Thai - Armenian
+	Թագավորների լեռներ, Հունաստան, Սիրիա, Թուրքիա, Սաուդյան Արաբիա, Հունաստան, Ամերիկայի Միացյալ Նահանգներ և Իսրայել «Ես գիտեմ, որ իմ բժիշկը ձերբակալվել է իմ որդու կողմից», - ասաց նա
+
+Step 253/330
+>> Armenian - Macedonian
+	Кингс Планини, Грција, Сирија, Турција, Саудиска Арабија, Грција, Соединетите Американски Држави и Израел „Знам дека мојот син беше уапсен од мојот син“, рече тој
+
+Step 254/330
+>> Macedonian - Arabic
+	جبال الملوك ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، الولايات المتحدة وإسرائيل "أعلم أن ابني اعتقل من قِبل ابني"
+
+Step 255/330
+>> Arabic - Portuguese
+	Montanhas dos Reis, Grécia, Síria, Turquia, Arábia Saudita, Grécia, Estados Unidos e Israel "Eu sei que meu filho foi preso por meu filho"
+
+Step 256/330
+>> Portuguese - Spanish
+	Montaña de los Reyes, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel "Sé que mi hijo fue arrestado por mi hijo"
+
+Step 257/330
+>> Spanish - Bosnian
+	Planina kraljeva, Grčka, Sirija, Turska, Saudijska Arabija, Grčka, Sjedinjene Države i Izrael "Znam da je moj sin uhapšen zbog mog sina"
+
+Step 258/330
+>> Bosnian - Sinhala
+	කිංග්ස්, ග්‍රීසිය, සිරියාව, තුර්කිය, සෞදි අරාබිය, ග්‍රීසිය, එක්සත් ජනපදය සහ ඊශ්‍රායලය "මගේ පුතා මගේ පුතා වෙනුවෙන් අත්අඩංගුවට ගත් බව මම දනිමි"
+
+Step 259/330
+>> Sinhala - English
+	Kings, Greece, Syria, Turkey, Saudi Arabia, Greece, the United States and Israel. "I know my son was arrested for my son."
+
+Step 260/330
+>> English - Spanish
+	Reyes, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mi hijo fue arrestado por mi hijo".
+
+Step 261/330
+>> Spanish - English
+	Kings, Greece, Syria, Turkey, Saudi Arabia, Greece, United States and Israel. "I know my son was arrested for my son."
+
+Step 262/330
+>> English - Georgian
+	მეფეები, საბერძნეთი, სირია, თურქეთი, საუდის არაბეთი, საბერძნეთი, შეერთებული შტატები და ისრაელი. ”ვიცი, რომ ჩემი შვილი დააკავეს.”
+
+Step 263/330
+>> Georgian - English
+	Kings, Greece, Syria, Turkey, Saudi Arabia, Greece, United States and Israel. "I know my son was arrested."
+
+Step 264/330
+>> English - Albanian
+	Mbretërit, Greqia, Siria, Turqia, Arabia Saudite, Greqia, Shtetet e Bashkuara dhe Izraeli. "Unë e di se djali im u arrestua".
+
+Step 265/330
+>> Albanian - Serbian
+	Краљеви, Грчка, Сирија, Турска, Саудијска Арабија, Грчка, Сједињене Државе и Израел. "Знам да је мој син ухапшен."
+
+Step 266/330
+>> Serbian - Spanish
+	Reyes, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mi hijo ha sido arrestado".
+
+Step 267/330
+>> Spanish - English
+	Kings, Greece, Syria, Turkey, Saudi Arabia, Greece, United States and Israel. "I know my son has been arrested."
+
+Step 268/330
+>> English - Turkish
+	Krallar, Yunanistan, Suriye, Türkiye, Suudi Arabistan, Yunanistan, Amerika Birleşik Devletleri ve İsrail. "Oğlumun tutuklandığını biliyorum."
+
+Step 269/330
+>> Turkish - Spanish
+	Reyes, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mi hijo ha sido arrestado".
+
+Step 270/330
+>> Spanish - French
+	Rois, Grèce, Syrie, Turquie, Arabie Saoudite, Grèce, États-Unis et Israël. "Je sais que mon fils a été arrêté."
+
+Step 271/330
+>> French - English
+	Kings, Greece, Syria, Turkey, Saudi Arabia, Greece, United States and Israel. "I know my son was arrested."
+
+Step 272/330
+>> English - Persian
+	پادشاهان ، یونان ، سوریه ، ترکیه ، عربستان سعودی ، یونان ، ایالات متحده و اسرائیل. "من می دانم که پسرم دستگیر شده است."
+
+Step 273/330
+>> Persian - Kazakh
+	Корольдер, Греция, Сирия, Түркия, Сауд Арабиясы, Греция, АҚШ және Израиль. «Менің балам қамауға алынғанын білемін».
+
+Step 274/330
+>> Kazakh - English
+	Royal, Greece, Syria, Turkey, Saudi Arabia, Greece, the United States and Israel. "I know that my son is arrested."
+
+Step 275/330
+>> English - Malay
+	Royal, Greece, Syria, Turki, Arab Saudi, Greece, Amerika Syarikat dan Israel. "Saya tahu bahawa anak saya ditangkap."
+
+Step 276/330
+>> Malay - Arabic
+	رويال واليونان وسوريا وتركيا والسعودية واليونان والولايات المتحدة وإسرائيل. "أعرف أن ابني اعتقل".
+
+Step 277/330
+>> Arabic - Spanish
+	Royal, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mi hijo fue arrestado".
+
+Step 278/330
+>> Spanish - English
+	Royal, Greece, Syria, Turkey, Saudi Arabia, Greece, United States and Israel. "I know my son was arrested."
+
+Step 279/330
+>> English - Russian
+	Роял, Греция, Сирия, Турция, Саудовская Аравия, Греция, США и Израиль. «Я знаю, что моего сына арестовали».
+
+Step 280/330
+>> Russian - Romanian
+	Royal, Grecia, Siria, Turcia, Arabia Saudită, Grecia, SUA și Israel. „Știu că fiul meu a fost arestat”.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Кралски, Гърция, Сирия, Турция, Саудитска Арабия, Гърция, САЩ и Израел. "Знам, че синът ми беше арестуван."
+
+Step 282/330
+>> Bulgarian - Albanian
+	Royal, Greqia, Siria, Turqia, Arabia Saudite, Greqia, Shtetet e Bashkuara dhe Izraeli. "Unë e di se djali im u arrestua".
+
+Step 283/330
+>> Albanian - Russian
+	Роял, Греция, Сирия, Турция, Саудовская Аравия, Греция, США и Израиль. «Я знаю, что моего сына арестовали».
+
+Step 284/330
+>> Russian - Arabic
+	رويال ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، الولايات المتحدة الأمريكية وإسرائيل. "أعرف أن ابني قد تم إلقاء القبض عليه."
+
+Step 285/330
+>> Arabic - Spanish
+	Royal, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que mi hijo ha sido arrestado".
+
+Step 286/330
+>> Spanish - Croatian
+	Kraljevska, Grčka, Sirija, Turska, Saudijska Arabija, Grčka, Sjedinjene Države i Izrael. "Znam da je moj sin uhapšen."
+
+Step 287/330
+>> Croatian - Hungarian
+	Royal, Görögország, Szíria, Törökország, Szaúd-Arábia, Görögország, Egyesült Államok és Izrael. "Tudom, hogy letartóztattam a fiamat."
+
+Step 288/330
+>> Hungarian - Spanish
+	Royal, Grecia, Siria, Turquía, Arabia Saudita, Grecia, Estados Unidos e Israel. "Sé que he arrestado a mi hijo".
+
+Step 289/330
+>> Spanish - Arabic
+	رويال ، اليونان ، سوريا ، تركيا ، المملكة العربية السعودية ، اليونان ، الولايات المتحدة وإسرائيل. "أعلم أنني ألقت القبض على ابني".
+
+Step 290/330
+>> Arabic - Portuguese
+	Royal, Grécia, Síria, Turquia, Arábia Saudita, Grécia, Estados Unidos e Israel. "Eu sei que prendi meu filho."
+
+Step 291/330
+>> Portuguese - Latvian
+	Karaliskā, Grieķijas, Sīrijas, Turcijas, Saūda Arābijas, Grieķijas, ASV un Izraēlas. "Es zinu, ka es arestēju savu dēlu."
+
+Step 292/330
+>> Latvian - Arabic
+	الملكية واليونانية والسورية والتركية والسعودية واليونانية والولايات المتحدة وإسرائيل. "أعرف أنني ألقي القبض على ابني".
+
+Step 293/330
+>> Arabic - Malay
+	Royal, Greek, Syrian, Turkish, Saudi, Greek, Amerika Syarikat dan Israel. "Saya tahu saya telah menangkap anak saya."
+
+Step 294/330
+>> Malay - Slovak
+	Kráľovský, grécky, sýrsky, turecký, Saudský, grécky, USA a izraelský. "Viem, že som chytil svojho syna."
+
+Step 295/330
+>> Slovak - Arabic
+	الملكية واليونانية والسورية والتركية والسعودية واليونانية والولايات المتحدة وإسرائيل. "أعلم أنني مسكت بابني".
+
+Step 296/330
+>> Arabic - Lithuanian
+	Karališkoji, Graikijos, Sirijos, Turkijos, Saudo Arabijos, Graikijos, JAV ir Izraelis. "Aš žinau, kad pagavau sūnų."
+
+Step 297/330
+>> Lithuanian - Catalan
+	Reial, grec, sirià, turc, saudita, grec, nord-americà i Israel. "Sé que vaig fer un fill."
+
+Step 298/330
+>> Catalan - Arabic
+	الملكية واليونانية والسورية والتركية والسعودية واليونانية والأمريكية وإسرائيل. "أعلم أنني أنجبت ولداً"
+
+Step 299/330
+>> Arabic - Polish
+	Royal, grecki, syryjski, turecki, saudyjski, grecki, amerykański i Izrael. „Wiem, że urodziłem chłopca”
+
+Step 300/330
+>> Polish - Turkish
+	Kraliyet, Yunan, Suriye, Türk, Suudi, Yunan, Amerika ve İsrail. "Bir çocuğu doğurduğumu biliyorum"
+
+Step 301/330
+>> Turkish - Greek
+	Βασιλική, Ελληνική, Συριακή, Τουρκική, Σαουδική, Ελληνική, Αμερικανική και Ισραηλινή. "Ξέρω ότι έχω ένα παιδί."
+
+Step 302/330
+>> Greek - Estonian
+	Basilica, Kreeka, Süüria, Türgi, Saudi, Kreeka, Ameerika ja Iisraeli. "Ma tean, et mul on laps."
+
+Step 303/330
+>> Estonian - Maltese
+	Bażilika, Greċja, Sirja, Turkija, Sawdi, Greċja, Amerika u Iżrael. "Naf li għandi tifel."
+
+Step 304/330
+>> Maltese - Italian
+	Basilica, la Grecia, la Siria, la Turchia, l'Arabia, la Grecia, l'America e Israele. "So che ho un figlio."
+
+Step 305/330
+>> Italian - Czech
+	Bazilika, Řecko, Sýrie, Turecko, Arábie, Řecko, Amerika a Izrael. "Vím, že mám syna."
+
+Step 306/330
+>> Czech - Spanish
+	Basílica, Grecia, Siria, Turquía, Arabia, Grecia, América e Israel. "Sé que tengo un hijo".
+
+Step 307/330
+>> Spanish - Slovenian
+	Bazilika, Grčija, Sirija, Turčija, Arabija, Grčija, Amerika in Izrael. "Vem, da imam sina."
+
+Step 308/330
+>> Slovenian - French
+	Basilique, Grèce, Syrie, Turquie, Arabie, Grèce, Amérique et Israël. "Je sais que j'ai un fils."
+
+Step 309/330
+>> French - Korean
+	대성당, 그리스, 시리아, 터키, 아라비아, 그리스, 미국 및 이스라엘. "아들이 있다는 것을 알고 있습니다."
+
+Step 310/330
+>> Korean - Hebrew
+	הקתדרלה, יוון, סוריה, טורקיה, ערב, יוון, ארה"ב וישראל. "אני יודע שיש לי בן."
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Kathedrale, Griicheland, Syrien, d'Tierkei, Arabien, Griicheland, USA an Israel. "Ech weess, datt ech e Jong hunn."
+
+Step 312/330
+>> Luxembourgish - German
+	Kathedrale, Griechenland, Syrien, Türkei, Arabien, Griechenland, USA und Israel. "Ich weiß, ich habe einen Sohn."
+
+Step 313/330
+>> German - Japanese
+	大聖堂、ギリシャ、シリア、トルコ、アラビア、ギリシャ、アメリカ、イスラエル。 「知っている、息子がいる。」
+
+Step 314/330
+>> Japanese - German
+	Kathedrale, Griechenland, Syrien, Türkei, Arabien, Griechenland, USA, Israel. "Ich weiß, ich habe einen Sohn."
+
+Step 315/330
+>> German - Dutch
+	Kathedraal, Griekenland, Syrië, Turkije, Arabië, Griekenland, de VS, Israël. "Ik weet het, ik heb een zoon."
+
+Step 316/330
+>> Dutch - Maori
+	Cathedral, Kariki, Syria, Turkey, Arabia, Kariki, te USA, Iharaira. "E mohio ana ahau, he tama ahau."
+
+Step 317/330
+>> Maori - Finnish
+	Tuomiokirkko, Kreikka, Syyria, Turkki, Arabia, Kreikka, Yhdysvallat, Israel. "Tiedän, olen poika."
+
+Step 318/330
+>> Finnish - English
+	Cathedral, Greece, Syria, Turkey, Arabia, Greece, United States, Israel. "I know, I'm a boy."
+
+Step 319/330
+>> English - Danish
+	Katedral, Grækenland, Syrien, Tyrkiet, Arabien, Grækenland, USA, Israel. "Jeg ved, jeg er en dreng."
+
+Step 320/330
+>> Danish - Dutch
+	Kathedraal, Griekenland, Syrië, Turkije, Arabië, Griekenland, de VS, Israël. "Ik weet dat ik een jongen ben."
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	大教堂，希臘，敘利亞，土耳其，阿拉伯半島，希臘，美國，以色列。 “我知道我是個男孩。”
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Domkyrka, Grekland, Syrien, Turkiet, Arabien, Grekland, USA, Israel. "Jag vet att jag är en pojke."
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	大教堂，希臘，敘利亞，土耳其，阿拉伯半島，希臘，美國，以色列。 “我知道我是個男孩。”
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Dómkirkjan, Grikkland, Sýrland, Tyrkland, Arabía, Grikkland, Bandaríkin, Ísrael. „Ég veit að ég er strákur.“
+
+Step 325/330
+>> Icelandic - German
+	Kathedrale, Griechenland, Syrien, Türkei, Arabien, Griechenland, USA, Israel. "Ich weiß, dass ich ein Typ bin."
+
+Step 326/330
+>> German - Irish
+	Ardeaglais, an Ghréig, an tSiria, an Tuirc, Shádach, an Ghréig, SAM, Iosrael. "Tá a fhios agam gur fear mé."
+
+Step 327/330
+>> Irish - English
+	Cathedral, Greece, Syria, Turkey, Arabia, Greece, USA, Israel. "I know I am a man."
+
+Step 328/330
+>> English - German
+	Kathedrale, Griechenland, Syrien, Türkei, Arabien, Griechenland, USA, Israel. "Ich weiß, dass ich ein Mann bin."
+
+Step 329/330
+>> German - Norwegian
+	Katedralen, Hellas, Syria, Tyrkia, Arabia, Hellas, USA, Israel. "Jeg vet at jeg er en mann."
+
+Step 330/330
+>> Norwegian - Portuguese
+	Catedral, Grécia, Síria, Turquia, Arábia, Grécia, EUA, Israel. "Eu sei que sou um homem."
+
+
+##### RESULTS ######
+
+Dubã bebera a sua ciência em livros gregos, persas, turcos, árabes, latinos, sírios e hebraicos, e além de mestre na filosofia, conhecia perfeitamente as boas e más qualidades de todas as espécies de plantas e drogas. Mal soube da doença do rei, a quem os médicos haviam abandonado, vestiu-se da melhor maneira possível, e descobriu um modo de fazer com que o apresentassem ao rei. “Sire, disse-lhe ele, sei que os médicos de que vos servistes não souberam curar-vos da lepra; mas se me derdes a honra de aceitar os meus serviços, comprometo-me a vos curar sem beberagens e sem emplastros.” Respondeu-lhe orei: “Se fordes capaz de fazer o que afirmais, prometo enriquecer-vos a vós e à vossa posteridade e, além dos presentes que vos darei, sereis o mais caro dos meus favoritos. Assegurais-me, pois, que me tirareis a lepra, sem me dardes poção, e sem me aplicardes nenhum remédio externo?” “Sim, Sire, replicou o médico, gabo-me disso, com o auxílio de Deus. E amanhã o demonstrarei.”
+
+Catedral, Grécia, Síria, Turquia, Arábia, Grécia, EUA, Israel. "Eu sei que sou um homem."

@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Aniquilado pela dor, perseguido pela sorte adversa, recorri a um estratagema, o único meio que me restava para conservar a vida. Raspei a barba e as sobrancelhas; e, tomando o hábito de calandar, sai da cidade sem que me reconhecessem. Depois, fácil me foi afastar-me do reino de meu tio, por caminhos isolados. Evitei passar pelas cidades, até que, chegando ao império do poderoso comendador dos crentes (11), o glorioso e famoso califa Harun al-Rachid, deixei de ter medo. Resolvi, então, vir a Bagdá lançar-me aos pés do grande monarca, cuja generosidade todos elogiam. “Comovê-lo-ei, disse entre mim, contando-lhe a minha surpreendente história; ele terá piedade, sem dúvida, dum infeliz príncipe, e eu não implorarei em vão o seu auxílio.”
+
+Step 1/330
+>> Portuguese - Norwegian
+	Utslettet av smerte, forfulgt av ugunstig flaks, tyet jeg til en krangel, det eneste midlet som er igjen for meg å bevare livet mitt. Jeg barberte skjegget og øyenbrynene; og tar for vane å kalendere, forlater han byen uten å bli gjenkjent. Da var det lett for meg å komme meg bort fra onkelens rike på isolerte måter. Jeg unngikk å passere gjennom byene før jeg ankom imperiet til den mektige troendes kommendator (11), den strålende og berømte kalifen Harun al-Rachid, jeg ikke lenger var redd. Så bestemte jeg meg for å komme til Bagdad for å kaste meg for føttene til den store monarken, hvis sjenerøsitet alle berømmer. "Jeg vil flytte deg," sa han til meg og fortalte ham min overraskende historie; han vil uten tvil ha barmhjertighet mot en uheldig fyrste, og jeg vil ikke forgjeves bede hans hjelp. ”
+
+Step 2/330
+>> Norwegian - German
+	Erschöpft von Schmerzen, gefolgt von ungünstigem Glück, griff ich zu Streitereien. Das einzige Mittel, das mir übrig blieb, um mein Leben zu bewahren. Ich rasierte meinen Bart und meine Augenbrauen. und er nimmt die Angewohnheit des Kalenders an und verlässt die Stadt, ohne erkannt zu werden. Dann fiel es mir leicht, isoliert aus dem Reich meines Onkels zu entkommen. Ich vermied es, die Städte zu durchqueren, bevor ich zum Imperium des mächtigen Gläubigen (11), des ruhmreichen und berühmten Kalifen Harun al-Rachid, gelangte. Ich hatte keine Angst mehr. Also beschloss ich, nach Bagdad zu kommen, um mich dem großen Monarchen zu Füßen zu werfen, dessen Großzügigkeit alles Lob ist. "Ich möchte dich bewegen", sagte er zu mir und erzählte ihm meine überraschende Geschichte. Er wird sich ohne Zweifel eines unglücklichen Prinzen erbarmen, und ich werde ihn nicht vergeblich um Hilfe bitten. "
+
+Step 3/330
+>> German - English
+	Exhausted with pain, followed by unfavorable luck, I resorted to quarrels. The only remedy left to save my life. I shaved my beard and my eyebrows. and he takes on the habit of the calendar and leaves the city without being recognized. Then it was easy for me to escape in isolation from my uncle's realm. I avoided crossing the cities before reaching the empire of the mighty believer (11), the glorious and famous Caliph Harun al-Rachid. I was not scared anymore. So I decided to come to Baghdad to throw myself at the feet of the great monarch, whose generosity is all praise. "I want to move you," he told me, telling him my startling story. He will no doubt take pity on an unfortunate prince, and I will not ask him in vain for help. "
+
+Step 4/330
+>> English - Irish
+	Le pian, agus ina dhiaidh sin ádh neamhfhabhrach, bhain mé sult as. An t-aon leigheas fágtha chun mo shaol a shábháil. Bhris mé mo chuid féasóg agus mo mhalaí. agus glacann sé le nós an fhéilire agus fágann sé an chathair gan a bheith aitheanta. Ansin bhí sé éasca dom éalú as féin ó thír mo uncail. Sheachaid mé ag trasnú na gcathracha sular shroich mé impireacht na gcreidmheach láidir (11), an Caliph Harun al-Rachid glórmhar agus cáiliúil. Ní raibh eagla orm níos mó. Mar sin shocraigh mé teacht go Baghdad chun mé féin a chaitheamh ag cosa na monarch mór, a bhfuil a bhflaithiúlacht go léir le moladh. "Ba mhaith liom tú a bhogadh," a dúirt sé liom, ag insint dó mo scéal scanrúil. Is cinnte go dtógfaidh sé trua ar phrionsa trua, agus ní iarrfaidh mé air cúnamh a fháil. "
+
+Step 5/330
+>> Irish - German
+	Mit Schmerzen und dann ungünstigem Glück habe ich es genossen. Die einzige Medizin, die übrig ist, um mein Leben zu retten. Ich habe mir Bart und Augenbrauen gebrochen. und es nimmt den Kalender und verlässt die Stadt, ohne erkannt zu werden. Dann fiel es mir leicht, aus dem Land meines Onkels zu fliehen. Ich lieferte durch die Städte, bevor ich das Reich der starken Gläubigen erreichte (11), der ruhmreiche und berühmte Harun-Kalif al-Rachid. Ich hatte keine Angst mehr. Also entschloss ich mich, nach Bagdad zu kommen, um mich einem großen Monarchen zuzuwerfen, dessen Großzügigkeit nur zu loben ist. "Ich möchte, dass du dich bewegst", sagte er und erzählte mir meine beängstigende Geschichte. Ein barmherziger Prinz wird sicherlich Mitleid haben, und ich werde nicht um Hilfe bitten. "
+
+Step 6/330
+>> German - Icelandic
+	Með sársauka og síðan óhagstæða heppni naut ég þess. Eina lyfið sem eftir er til að bjarga lífi mínu. Ég braut skeggið og augabrúnirnar. og það tekur dagatalið og yfirgefur borgina án þess að verða viðurkenndur. Þá var auðvelt fyrir mig að flýja land föðurbróður míns. Ég skilaði mér í gegnum borgirnar áður en ég náði ríki hinna sterku trúuðu (11), hinn glæsilega og fræga Kalíf al-Rachid. Ég var ekki hræddur lengur. Ég ákvað því að koma til Bagdad til að henda mér fyrir mikinn einveldi sem eiga að vera rausnarlegir. „Ég vil að þú flytjir,“ sagði hann og sagði mér ógnvekjandi sögu mína. Miskunnsamur prins mun vissulega vorkenni og ég mun ekki biðja um hjálp. "
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	痛苦然後運氣不好，我很享受。唯一能挽救我生命的藥物。我打破了鬍鬚和眉毛。它需要日曆並離開城市而不被識別。然後我很容易逃脫叔叔的土地。在到達強大的信徒（11），光榮而著名的哈里發al-Rachid王國之前，我經過了城市。我不再害怕了。所以我決定來到巴格達，讓自己投入到應該浪費的簡單之中。 “我希望你搬家，”他說道，告訴我我的精彩故事。仁慈的王子一定會感到難過，我也不會尋求幫助。 “
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Smärta och sedan otur, jag tycker om det. Den enda medicinen som kan rädda mitt liv. Jag bröt mitt skägg och ögonbrynen. Det tar en kalender och lämnar staden utan att identifieras. Då slapp jag lätt åt min farbrors land. Jag passerade staden innan jag nådde den mäktiga troende (11), det härliga och berömda kalifatet al-Rachid kungariket. Jag är inte längre rädd. Så jag bestämde mig för att komma till Bagdad och låta mig investera i den enkelhet som borde slösas bort. "Jag hoppas att du flyttar," sa han och berättade för mig min underbara historia. Den välvilliga prinsen kommer att känna sig ledsen och jag kommer inte att söka hjälp. "
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	痛苦，然後運氣不好，我喜歡它。唯一可以挽救我生命的藥物。我弄斷了鬍子和眉毛。它需要一個日曆並離開城市而不被識別。然後我輕易放開了我叔叔的土地。我到達了強大的信徒（11），美麗而著名的哈里發al-Rachid王國之前，我經過了這座城市。我不再害怕了。所以我決定來巴格達，讓我投資於應該浪費的簡單性。 “我希望你搬家，”他說，告訴我我的精彩故事。仁慈的王子會感到難過，我不會尋求幫助。 “
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Pijn, dan pech, ik vind het leuk. Het enige medicijn dat mijn leven kan redden. Ik brak mijn baard en wenkbrauwen. Het duurt een kalender en verlaat de stad zonder te worden geïdentificeerd. Toen liet ik gemakkelijk het land van mijn oom los. Ik arriveerde bij de machtige gelovigen (11), voordat ik het prachtige en beroemde kalifaat al-Rachid koninkrijk passeerde. Ik ben niet langer bang. Dus besloot ik naar Bagdad te komen en me te laten investeren in de eenvoud die verspild moest worden. "Ik hoop dat je beweegt," zei hij en vertelde me mijn prachtige verhaal. De vriendelijke prins zal verdrietig zijn, ik zal niet om hulp vragen. "
+
+Step 11/330
+>> Dutch - Danish
+	Smerter, så uflaks, jeg kan godt lide det. Den eneste medicin, der kan redde mit liv. Jeg knækkede mit skæg og øjenbryn. Det tager en kalender og forlader byen uden at blive identificeret. Så slap jeg let af min onkels land. Jeg ankom med de magtfulde troende (11), før jeg passerede det smukke og berømte kalifat al-Rachid kongerige. Jeg er ikke længere bange. Så jeg besluttede at komme til Bagdad og lade mig investere i den enkelhed, der blev spildt. ”Jeg håber du flytter,” sagde han og fortalte mig min vidunderlige historie. Den venlige prins vil være trist, jeg vil ikke bede om hjælp. "
+
+Step 12/330
+>> Danish - English
+	Pain, so bad luck, I like it. The only medicine that can save my life. I cracked my beard and eyebrows. It takes a calendar and leaves the city without being identified. Then I easily let go of my uncle's land. I arrived with the powerful believers (11) before passing the beautiful and famous Caliphate al-Rachid kingdom. I'm not scared anymore. So I decided to come to Baghdad and let myself invest in the simplicity that was wasted. "I hope you move," he said, telling me my wonderful story. The kind prince will be sad, I will not ask for help. "
+
+Step 13/330
+>> English - Finnish
+	Kipu, niin huono onni, pidän siitä. Ainoa lääke, joka voi pelastaa henkeni. Halkeilin partaani ja kulmakarvani. Se vie kalenterin ja poistuu kaupungista tunnistamatta. Sitten päästin helposti irti setäni maasta. Saavuin voimakkaiden uskovien kanssa (11) ennen kauniin ja kuuluisan kalifaatin al-Rachidin valtakunnan ohittamista. En enää pelkää. Joten päätin tulla Bagdadiin ja antaa itseni investoida yksinkertaisuuteen, joka tuhlattiin. "Toivon, että muutat", hän sanoi ja kertoi minulle upean tarinasi. Ystävällinen prinssi on surullinen, en pyydä apua. "
+
+Step 14/330
+>> Finnish - Maori
+	Te mamae, he waimarie kino, he pai ki au. Ko te rongoa anake ka taea te whakaora i taku ora. I papaki ahau i toku pahau me te panui. Ka mau ki te maramataka ka wehe i te taone kaore i tino mohiotia. Katahi ka ngawari taku tuku atu i taku matua keke i te whenua. I tae atu ahau me nga whakapono kaha (11) i mua i te paahitanga o te rangatiratanga tino ataahua me te rongonui o Caliphate al-Rachid. Kaore au e mataku. Na ka whakaaro ahau ki te haere ki Baghdad ka waiho ahau kia haumi ki te maamaa kua maumauria. "Ko taku tumanako kei te huri koe," ko tana korero, i kii mai ki au nga korero whakamiharo. Kei te pouri te hoa rangatira, kaore au e tono awhina. "
+
+Step 15/330
+>> Maori - Dutch
+	Pijn, pech, ik geniet ervan. Alleen medicijnen kunnen mijn leven redden. Ik klopte op mijn baard en las. Grijp de kalender en verlaat de stad onbewust. Toen liet ik langzaam mijn oom in de steek. Ik arriveerde met sterke geloofsovertuigingen (11) vóór het overlijden van het prachtige en beroemde Kalifaat al-Rachid. Ik ben niet bang. Dus besloot ik naar Bagdad te gaan en mezelf in staat te stellen te begrijpen hoe verspild. 'Ik hoop dat je verandert,' zei hij en vertelde me prachtige verhalen. De echtgenoot is van streek en ik vraag geen hulp. "
+
+Step 16/330
+>> Dutch - German
+	Schmerz, Pech, ich genieße es. Nur Medikamente können mein Leben retten. Ich tippte auf meinen Bart und las. Nimm den Kalender und verlasse unbewusst die Stadt. Dann habe ich langsam meinen Onkel verlassen. Ich bin mit festem Glauben (11) vor dem Tod des schönen und berühmten Kalifats al-Rachid angekommen. Ich habe keine Angst. Also beschloss ich, nach Bagdad zu gehen und mir zu erlauben, zu verstehen, wie verschwendet. "Ich hoffe du änderst dich", sagte er und erzählte mir wundervolle Geschichten. Der Ehemann ist verärgert und ich bitte nicht um Hilfe. "
+
+Step 17/330
+>> German - Japanese
+	痛み、不運、私はそれを楽しんでいます。薬だけが私の命を救うことができます。私はひげを軽くたたいて読みました。カレンダーを取り、無意識のうちに街を去ります。それから私はゆっくりと叔父を去りました。私は、美しく有名なカリフ・アル・ラチッドの死の前に、しっかりとした信仰をもって到着しました（11）。私は怖くない。だから私はバグダッドに行き、自分が無駄になっていることを理解できるようにすることにしました。 「あなたが変わることを願っています」と彼は言い、すばらしい話をしてくれました。夫は怒っており、私は助けを求めません。 "
+
+Step 18/330
+>> Japanese - German
+	Schmerz, Pech, ich genieße es. Nur die Medizin kann mein Leben retten. Ich las mit leichtem Bart. Nimm einen Kalender und verlasse die Stadt unbewusst. Dann verließ ich langsam meinen Onkel. Ich kam mit festem Glauben vor dem Tod des schönen und berühmten Kalifen Al Rachid (11) an. Ich habe keine Angst. Also beschloss ich, nach Bagdad zu gehen, um zu verstehen, dass ich verschwendet war. „Ich hoffe, du kannst dich ändern“, sagte er und erzählte mir eine wundervolle Geschichte. Mein Mann ist wütend und ich bitte nicht um Hilfe. "
+
+Step 19/330
+>> German - Luxembourgish
+	Péng, Pech, ech genéissen et. Nëmme Medizin kann mäi Liewen retten. Ech liesen mat engem liichte Baart. Huelt e Kalenner a verloosst d'Stad onbewosst. Duerno hunn ech mäi Monni lues a lues verlooss. Ech sinn mat festem Glawen ukomm ier den Doud vum schéine a berühmten Kalif Al Rachid (11). Ech hunn keng Angscht. Also hunn ech decidéiert Bagdad ze goen fir ze verstoen datt ech verschwonnen sinn. "Ech hoffen Dir kënnt änneren", sot hien an huet eng wonnerbar Geschicht erzielt. Mäi Mann ass rosen an ech froen net ëm Hëllef. "
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כאב, מזל רע, אני נהנה מזה. רק רפואה יכולה להציל את חיי. קראתי עם זקן קל. קח לוח שנה והשאיר את העיר ללא הכרה. ואז עזבתי את דודי לאט לאט. הגעתי באמונה איתנה לפני מותו של הח'ליף אל ראשיד היפה והמפורסם (11). אני לא חושש. אז החלטתי לנסוע לבגדאד כדי להבין שנעלמתי. "אני מקווה שתוכלו לשנות", אמר וסיפר סיפור נפלא. בעלי כועס ואני לא מבקש עזרה. "
+
+Step 21/330
+>> Hebrew - Korean
+	고통, 불운, 나는 그것을 즐긴다. 약만이 내 생명을 구할 수 있습니다. 나는 가벼운 수염으로 읽습니다. 달력을 가지고 도시를 의식하지 마십시오. 그런 다음 천천히 삼촌을 떠났습니다. 나는 칼리프가 죽기 전에 아름답고 유명한 라시드에게 확고한 믿음을 갖게되었다 (11). 걱정하지 않습니다. 그래서 나는 바그다드에 가기로 결심했습니다. "나는 당신이 바꿀 수 있기를 바랍니다."그는 멋진 이야기를 말했습니다. 남편은 화가 나서 도움을 요청하지 않습니다. "
+
+Step 22/330
+>> Korean - French
+	Douleur, malchance, j'apprécie Seul le médicament peut me sauver la vie. Je lis avec une barbe légère. Ne soyez pas au courant de la ville avec un calendrier. Puis lentement quitté mon oncle. J'ai acquis une ferme confiance en la belle et célèbre Rashid avant la mort de Caliph (11). Je ne m'inquiète pas. Alors j'ai décidé d'aller à Bagdad. "J'espère que vous pourrez changer", a-t-il raconté. Le mari est en colère et ne demande pas d'aide. "
+
+Step 23/330
+>> French - Slovenian
+	Bolečina, slaba sreča, cenim, da mi lahko reši življenje samo zdravilo. Berem z lahkotno brado. Ne zavedajte se mesta s koledarjem. Nato sem počasi zapustil strica. Trdno zaupanje v lepega in slavnega Rashida sem pridobil pred smrtjo kalifa (11). Ne skrbim. Zato sem se odločil, da grem v Bagdad. "Upam, da se lahko spremenite," je dejal. Mož je jezen in ne prosi za pomoč. "
+
+Step 24/330
+>> Slovenian - Spanish
+	Dolor, mala suerte, aprecio que solo la medicina pueda salvarme la vida. Leí con una ligera barba. No conozcas el lugar con tu calendario. Luego lentamente dejé a mi tío. Gané una gran confianza en la bella y famosa Rashid antes de la muerte del Califa (11). No me preocupo Entonces decidí ir a Bagdad. "Espero que puedas cambiar", dijo. El esposo está enojado y no pide ayuda. "
+
+Step 25/330
+>> Spanish - Czech
+	Bolest, smůla, oceňuji, že život může zachránit pouze lék. Četl jsem s lehkým vousem. Neznáte místo v kalendáři. Pak jsem pomalu opustil strýce. Před smrtí Kalifa jsem získal velkou důvěru v krásného a slavného Rašída (11). Nemám strach, tak jsem se rozhodl jít do Bagdádu. „Doufám, že se můžeš změnit,“ řekl. Manžel se zlobí a nepožádá o pomoc. "
+
+Step 26/330
+>> Czech - Italian
+	Dolore, sfortuna, apprezzo che solo la medicina può salvare la vita. Ho letto con la barba leggera. Non conosci il posto nel calendario. Poi ho lentamente lasciato mio zio. Prima della morte del Califfo, ho acquisito grande fiducia nel bellissimo e famoso Rashid (11). Non ho paura, quindi ho deciso di andare a Baghdad. "Spero che tu possa cambiare", ha detto. Il marito è arrabbiato e non chiede aiuto. "
+
+Step 27/330
+>> Italian - Maltese
+	Uġigħ, sfortuna, napprezza li mediċina biss tista 'ssalva ħajjiet. Sirt naf bid-daqna ħafifa. Ma tafx il-post fil-kalendarju. Imbagħad ħallejt bil-mod lil zijuh. Qabel il-mewt tal-Kalifa, ksibt fiduċja kbira fir-Rashid sabiħ u famuż (11). Ma nibżax, u għalhekk iddeċidejt li mmur f'Bagdad. "Nispera li tista 'tinbidel," qal. Ir-raġel huwa rrabjat u ma jitlobx għajnuna. "
+
+Step 28/330
+>> Maltese - Estonian
+	Valu, ebaõnne, ma hindan, et ainult ravimi võib päästa elusid. Lugesin veidi habe. Sa ei tea koha kalendris. Siis aeglaselt lahkunud tema onu. Enne surma Kalifa, saavutanud suure usalduse ilus ja kuulus Rashid (11). Ma ei karda, nii et ma otsustasin minna Bagdadi. "Ma loodan, et saate muuta," ütles ta. Mees on vihane ja ei nõua abi. "
+
+Step 29/330
+>> Estonian - Greek
+	Πόνος, ατυχία, εκτιμώ ότι μόνο το φάρμακο μπορεί να σώσει ζωές. Διάβασα μια μικρή γενειάδα. Δεν γνωρίζετε τη θέση στο ημερολόγιο. Τότε ο θείος του έφυγε αργά. Πριν από το θάνατο της Καλίφα, κέρδισε μεγάλη εμπιστοσύνη στο όμορφο και διάσημο Ράσιντ (11). Δεν φοβάμαι, έτσι αποφάσισα να πάω στη Βαγδάτη. "Ελπίζω ότι μπορείτε να αλλάξετε", είπε. Ο άνθρωπος είναι θυμωμένος και δεν χρειάζεται βοήθεια. "
+
+Step 30/330
+>> Greek - Turkish
+	Acı, talihsizlik, yalnızca ilacın hayat kurtarabileceğini takdir ediyorum. Biraz sakal okudum. Takvimdeki konumu bilmiyorsunuz. Sonra amcası geç kaldı. Califa'nın ölümünden önce, güzel ve ünlü Russide (11) büyük güven kazandı. Korkmadığım için Bağdat’a gitmeye karar verdim. “Umarım değişebilirsin” dedi. Adam kızgın ve yardıma ihtiyacı yok. "
+
+Step 31/330
+>> Turkish - Polish
+	Ból, nieszczęście, doceniam tylko, że lek może uratować życie. Przeczytałem brodę. Nie znasz lokalizacji w kalendarzu. Potem jego wujek się spóźnił. Przed śmiercią Calify piękny i sławny Russide (11) zyskał duże zaufanie. Zdecydowałem się pojechać do Bagdadu, ponieważ się nie bałem. „Mam nadzieję, że możesz się zmienić” - powiedział. Mężczyzna jest zły i nie potrzebuje pomocy. "
+
+Step 32/330
+>> Polish - Arabic
+	ألم ، تعاسة ، أقدر أن الدواء يمكن أن ينقذ الأرواح. قرأت اللحية. أنت لا تعرف الموقع في التقويم. ثم عمه كان متأخرا. قبل موت Calify ، اكتسبت Russide (11) الجميلة والشهيرة ثقة كبيرة. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. وقال "آمل أن تتمكن من التغيير". الرجل غاضب ولا يحتاج إلى مساعدة. "
+
+Step 33/330
+>> Arabic - Catalan
+	Dolor, infelicitat, agraeixo que el fàrmac pot salvar vides. Vaig llegir la barba. No coneixeu la ubicació al calendari. Llavors l’oncle va arribar tard. Abans de la mort de Calify, el bell i famós Russide (11) va guanyar una gran confiança. Vaig decidir anar a Bagdad perquè no tenia por. "Espero que pugueu canviar". L’home està enfadat i no necessita ajuda. "
+
+Step 34/330
+>> Catalan - Lithuanian
+	Skausmas, nelaimingumas, aš vertinu, kad vaistas gali išgelbėti gyvybes. Aš perskaičiau barzdą. Jūs nežinote vietos kalendoriuje. Tada dėdė atėjo vėlai. Prieš Calify mirtį graži ir garsioji Russide (11) įgijo didžiulį pasitikėjimą. Aš nusprendžiau vykti į Bagdadą, nes nebijau. "Tikiuosi, jūs galite pakeisti". Vyras pyksta ir jam nereikia pagalbos. "
+
+Step 35/330
+>> Lithuanian - Arabic
+	ألم ، تعاسة ، أقدر أن الدواء يمكن أن ينقذ الأرواح. قرأت اللحية. أنت لا تعرف موقع التقويم. ثم جاء العم متأخرا. قبل موت Calify ، اكتسبت Russide (11) الجميلة والشهيرة ثقة هائلة. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن تتمكن من إحداث فرق". الرجل غاضب ولا يحتاج إلى مساعدة. "
+
+Step 36/330
+>> Arabic - Slovak
+	Bolesť, nešťastie, oceňujem, že liek môže zachrániť životy. Čítal som bradu. Poznáte umiestnenie kalendára. Potom strýko prišiel neskoro. Pred Califyho smrťou získal krásny a slávny Russid (11) obrovskú dôveru. Rozhodol som sa ísť do Bagdadu, pretože som sa nebál. „Dúfam, že môžete zmeniť.“ Muž je nahnevaný a nepotrebuje pomoc. "
+
+Step 37/330
+>> Slovak - Malay
+	Sakit, rasa tidak puas hati, saya menghargai ubat itu boleh menyelamatkan nyawa. Saya membaca dagu saya. Anda tahu lokasi kalendar. Kemudian bapa saudara datang terlambat. Sebelum kematian Calify, Russid yang cantik dan terkenal (11) mendapat kepercayaan yang luar biasa. Saya memutuskan untuk pergi ke Baghdad kerana saya tidak takut. "Saya harap anda boleh berubah." Lelaki marah dan tidak memerlukan bantuan. "
+
+Step 38/330
+>> Malay - Arabic
+	ألم ، استياء ، أقدر أن الدواء يمكن أن ينقذ الأرواح. قرأت ذقني. أنت تعرف موقع التقويم. ثم جاء العم بعد فوات الأوان. قبل وفاة Calify ، اكتسبت Russid (11) الجميلة والمعروفة مصداقية لا تصدق. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن تتمكن من التغيير." الرجال غاضبون ولا يحتاجون إلى مساعدة. "
+
+Step 39/330
+>> Arabic - Latvian
+	Sāpes, neapmierinātība, es novērtēju, ka šīs zāles var glābt dzīvības. Es lasīju savu zodu. Jūs zināt kalendāra atrašanās vietu. Tad tēvocis nāca par vēlu. Pirms Kalifa nāves Rasids (11) ieguva skaistu un zināmu neticamu ticamību. Es nolēmu doties uz Bagdādi, jo man nebija bail. "Es ceru, ka jūs varat mainīt." Vīrieši ir dusmīgi un viņiem nav vajadzīga palīdzība. "
+
+Step 40/330
+>> Latvian - Portuguese
+	Dor, frustração, eu aprecio que esta droga possa salvar vidas. Eu li meu queixo. Você sabe a localização do calendário. Então o tio chegou tarde demais. Antes da morte da Califórnia, Rassid (11) ganhou uma credibilidade incrível, bonita e conhecida. Decidi ir a Bagdá porque não estava com medo. "Espero que você possa mudar." Os homens estão com raiva e não precisam de ajuda. "
+
+Step 41/330
+>> Portuguese - Arabic
+	ألم ، إحباط ، أقدر أن هذا الدواء يمكن أن ينقذ الأرواح. قرأت ذقني. أنت تعرف موقع التقويم. ثم وصل العم بعد فوات الأوان. قبل وفاة كاليفورنيا ، اكتسب Rassid (11) مصداقية رائعة وجميلة ومعروفة. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن تتمكن من التغيير." الرجال غاضبون ولا يحتاجون إلى مساعدة. "
+
+Step 42/330
+>> Arabic - Spanish
+	Dolor, frustración, aprecio que esta droga pueda salvar vidas. Leo mi barbilla Conoces la ubicación del calendario. Entonces el tío llegó demasiado tarde. Antes de la muerte de California, Rassid (11) ganó una credibilidad notable, hermosa y conocida. Decidí ir a Bagdad porque no tenía miedo. "Espero que puedas cambiar". Los hombres están enojados y no necesitan ayuda. "
+
+Step 43/330
+>> Spanish - Hungarian
+	Fájdalom, csalódás, nagyra értékelem, hogy ez a gyógyszer életmentést okozhat. Olvastam az államet Tudod a naptár helyét. Aztán a nagybátyja későn érkezett meg. Kalifornia halála előtt Rassid (11) figyelemre méltó, gyönyörű és jól ismert hitelességet nyert. Úgy döntöttem, hogy Bagdadba megyek, mert nem féltem. "Remélem megváltozhat." A férfiak dühösek és nincs szükségük segítségre. "
+
+Step 44/330
+>> Hungarian - Croatian
+	Bol, razočaranje, cijenim kako ovaj lijek može spasiti živote. Čitam stanje Znate gdje je kalendar. Tada je njegov stric kasno stigao. Prije kalifornijske smrti, Rassid (11) je stekao izvanrednu, lijepu i dobro poznatu vjerodostojnost. Odlučio sam otići u Bagdad jer se nisam uplašio. "Nadam se da se to može promijeniti." Muškarci su bijesni i ne trebaju pomoć. "
+
+Step 45/330
+>> Croatian - Spanish
+	Dolor, decepción, aprecio cómo este medicamento puede salvar vidas. Leí el estado. Sabes dónde está el calendario. Entonces su tío llegó tarde. Antes de la muerte de California, Rassid, de 11 años, ganó credibilidad extraordinaria, hermosa y conocida. Decidí ir a Bagdad porque no tenía miedo. "Espero que eso pueda cambiar". Los hombres están enojados y no necesitan ayuda. "
+
+Step 46/330
+>> Spanish - Arabic
+	ألم ، خيبة أمل ، أقدر كيف يمكن لهذا الدواء أن ينقذ الأرواح. قرأت الدولة. أنت تعرف أين التقويم. ثم عمه كان متأخرا. قبل وفاة كاليفورنيا ، اكتسب Rassid ، 11 عامًا ، مصداقية غير عادية وجميلة ومعروفة. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن يتغير ذلك." الرجال غاضبون ولا يحتاجون إلى مساعدة. "
+
+Step 47/330
+>> Arabic - Russian
+	Боль, разочарование, я ценю, как это лекарство может спасти жизни. Я прочитал состояние. Вы знаете, где календарь. Тогда дядя опоздал. Перед смертью в Калифорнии 11-летний Рассид приобрел необычную, красивую и известную репутацию. Я решил поехать в Багдад, потому что мне не было страшно. «Я надеюсь, что это изменится». Мужчины злы и не нуждаются в помощи. "
+
+Step 48/330
+>> Russian - Albanian
+	Dhimbje, zhgënjim, vlerësoj se si ky ilaç mund të shpëtojë jetë. Kam lexuar gjendjen. Ju e dini se ku është kalendari. Atëherë xhaxhai ishte vonë. Para vdekjes në Kaliforni, 11-vjeçari Rassid fitoi një reputacion të pazakontë, të bukur dhe të famshëm. Vendosa të shkoj në Bagdad sepse nuk kisha frikë. "Shpresoj që kjo të ndryshojë." Burrat janë të këqij dhe nuk kanë nevojë për ndihmë. "
+
+Step 49/330
+>> Albanian - Bulgarian
+	Болка, безсилие, оценявайте как това лекарство може да спаси живота. Прочетох ситуацията. Знаеш къде е календарът. Тогава чичо ми закъсня. Преди да умре в Калифорния, 11-годишната Расид спечели необичайна, красива и известна репутация. Реших да отида в Багдад, защото не се страхувах. "Надявам се това да се промени." Мъжете са лоши и не се нуждаят от помощ. "
+
+Step 50/330
+>> Bulgarian - Romanian
+	Durere, neputință, evaluați modul în care acest medicament poate salva vieți. Am citit situația. Știi unde este calendarul. Atunci unchiul meu a întârziat. Înainte de a muri în California, Rasid, în vârstă de 11 ani, și-a câștigat o reputație neobișnuită, frumoasă și renumită. Am decis să merg la Bagdad pentru că nu mi-a fost teamă. "Sper că se schimbă." Bărbații sunt răi și nu au nevoie de ajutor. "
+
+Step 51/330
+>> Romanian - Russian
+	Боль, бессилие, оцените, как это лекарство может спасти жизни. Я прочитал ситуацию. Вы знаете, где находится календарь. Тогда мой дядя опоздал. Перед смертью в Калифорнии 11-летний Расид заработал необычную, красивую и известную репутацию. Я решил поехать в Багдад, потому что я не боялся. «Я надеюсь, что это изменится». Мужчины плохие и не нуждаются в помощи. "
+
+Step 52/330
+>> Russian - English
+	Pain, impotence, evaluate how this medicine can save lives. I read the situation. You know where the calendar is. Then my uncle was late. Before his death in California, 11-year-old Rasid earned an unusual, beautiful and famous reputation. I decided to go to Baghdad because I was not afraid. “I hope this changes.” Men are bad and do not need help. "
+
+Step 53/330
+>> English - Spanish
+	Dolor, impotencia, evalúa cómo este medicamento puede salvar vidas. Leí la situación. Ya sabes dónde está el calendario. Entonces mi tío llegó tarde. Antes de su muerte en California, Rasid, de 11 años, se ganó una reputación inusual, hermosa y famosa. Decidí ir a Bagdad porque no tenía miedo. "Espero que esto cambie". Los hombres son malos y no necesitan ayuda. "
+
+Step 54/330
+>> Spanish - Arabic
+	يقيّم الألم والعجز كيف يمكن لهذا الدواء إنقاذ الأرواح. قرأت الوضع. أنت تعرف أين التقويم. ثم كان عمي متأخرا. قبل وفاته في كاليفورنيا ، اكتسب Rasid ، 11 عامًا ، سمعة غير عادية وجميلة وشهرة. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن يتغير هذا." الرجال سيئون ولا يحتاجون إلى المساعدة. "
+
+Step 55/330
+>> Arabic - Malay
+	Kesakitan dan ketidakupayaan menilai bagaimana ubat ini boleh menyelamatkan nyawa. Saya membaca keadaan. Anda tahu di mana kalendar itu. Kemudian paman saya terlambat. Sebelum kematiannya di California, Rasid, 11, mendapat reputasi dan kemasyhuran yang luar biasa dan cantik. Saya memutuskan untuk pergi ke Baghdad kerana saya tidak takut. "Saya harap perubahan ini berlaku." Lelaki tidak baik dan tidak memerlukan bantuan. "
+
+Step 56/330
+>> Malay - English
+	Pain and inability assess how this medicine can save lives. I read the situation. You know where the calendar is. Then my uncle is late. Prior to his death in California, Rasid, 11, had a remarkable reputation and reputation. I decided to go to Baghdad because I was not afraid. "I hope this change happens." Men are not good and need no help. "
+
+Step 57/330
+>> English - Kazakh
+	Ауырсыну мен дәрменсіздік осы дәрі-дәрмектің өмірді қалай сақтап қалатынын бағалайды. Мен жағдайды оқыдым. Сіз күнтізбенің қай жерде екенін білесіз. Сонда менің ағам кешікеді. Калифорнияда қайтыс болғанға дейін, 11 жастағы Расид керемет беделге ие болды. Мен Багдатқа баруды ұйғардым, өйткені мен қорықпадым. «Бұл өзгеріс болады деп үміттенемін». Ер адамдар жақсы емес және көмекке зәру емес. «
+
+Step 58/330
+>> Kazakh - Persian
+	درد و ورشکستگی چگونگی نجات جان این دارو را ارزیابی می کند. شرایط را خواندم. می دانید تقویم شما کجاست. سپس برادرم دیر شده است. پیش از مرگ در کالیفرنیا ، راستیس 11 ساله از شهرت باورنکردنی برخوردار شد. من تصمیم گرفتم به بغداد بروم چون ترسیده نیستم. "امیدوارم این تغییر کند." مردان خوب نیستند و نیازی به کمک ندارند. «
+
+Step 59/330
+>> Persian - English
+	Pain and bankruptcy assess how this drug can be saved. I read the terms. You know where your calendar is. Then my brother is late. Before her death in California, 11-year-old Rastis gained incredible fame. I decided to go to Baghdad because I'm not scared. "I hope this changes." Men are not good and do not need help. «
+
+Step 60/330
+>> English - French
+	La douleur et la faillite déterminent comment ce médicament peut être sauvé. Je lis les termes. Vous savez où se trouve votre calendrier. Puis mon frère est en retard. Avant sa mort en Californie, Rastis, 11 ans, a acquis une renommée incroyable. J'ai décidé d'aller à Bagdad parce que je n'ai pas peur. "J'espère que cela change." Les hommes ne sont pas bons et n'ont pas besoin d'aide. «
+
+Step 61/330
+>> French - Spanish
+	El dolor y la bancarrota determinan cómo se puede salvar este medicamento. Leo los terminos. Sabes dónde está tu calendario. Entonces mi hermano llega tarde. Antes de su muerte en California, Rastis, de 11 años, ha ganado fama increíble. Decidí ir a Bagdad porque no tengo miedo. "Espero que eso cambie". Los hombres no son buenos y no necesitan ayuda. "
+
+Step 62/330
+>> Spanish - Turkish
+	Acı ve iflas, bu ilacın nasıl kurtarılabileceğini belirler. Şartları okudum. Takviminin nerede olduğunu biliyorsun. O zaman kardeşim geç kaldı. Kaliforniya'daki ölümünden önce 11 yaşındaki Rastis inanılmaz bir ün kazandı. Bağdat'a gitmeye karar verdim çünkü korkmuyorum. "Umarım bu değişir." Erkekler iyi değil ve yardıma ihtiyaç duymuyorlar. "
+
+Step 63/330
+>> Turkish - English
+	Pain and bankruptcy determine how this drug can be recovered. I read the terms. You know where your calendar is. Then my brother is late. Before his death in California, 11-year-old Rastis gained an incredible reputation. I decided to go to Baghdad because I'm not afraid. "I hope it changes." Men aren't well and don't need help. "
+
+Step 64/330
+>> English - Spanish
+	El dolor y la bancarrota determinan cómo se puede recuperar este medicamento. Leo los terminos. Sabes dónde está tu calendario. Entonces mi hermano llega tarde. Antes de su muerte en California, Rastis, de 11 años, ganó una reputación increíble. Decidí ir a Bagdad porque no tengo miedo. "Espero que cambie". Los hombres no están bien y no necesitan ayuda. "
+
+Step 65/330
+>> Spanish - Serbian
+	Бол и банкрот одређују како се овај лек може опоравити. Прочитао сам услове. Знате где је ваш календар. Онда мој брат касни. Пре смрти у Калифорнији, Растис (11) стекао је невероватну репутацију. Одлучио сам да одем у Багдад јер се не бојим. "Надам се да ће се то променити." Мушкарцима није добро и не треба им помоћ. "
+
+Step 66/330
+>> Serbian - Albanian
+	Dhimbja dhe falimentimi përcaktojnë se si mund të shërohet ky ilaç. Lexova termat. Ju e dini ku është kalendari juaj. Atëherë vëllai im është vonë. Para vdekjes së tij në Kaliforni, Rastis, 11 vjeç, fitoi një reputacion të jashtëzakonshëm. Vendosa të shkoj në Bagdad sepse nuk kam frikë. "Shpresojmë se kjo do të ndryshojë." Burrat nuk janë mirë dhe nuk kanë nevojë për ndihmë. "
+
+Step 67/330
+>> Albanian - English
+	Pain and bankruptcy determine how this medicine can be cured. I read the terms. You know where your calendar is. Then my brother is late. Prior to his death in California, Rastis, 11, gained an outstanding reputation. I decided to go to Baghdad because I was not afraid. "Hopefully this will change." Men are not well and do not need help. "
+
+Step 68/330
+>> English - Georgian
+	ტკივილი და გაკოტრება განსაზღვრავს, თუ როგორ შეიძლება განკურნოს ეს წამალი. ვკითხულობ პირობებს. თქვენ იცით, სად არის თქვენი კალენდარი. მაშინ ჩემი ძმა გვიანია. გარდაცვალებამდე კალიფორნიაში, 11 წლის რასტსი საუცხოო რეპუტაციით მოიპოვა. მე გადავწყვიტე ბაღდადში წასვლა, რადგან არ მეშინოდა. ”იმედია ეს შეიცვლება.” კაცები არ არიან კარგად და არ სჭირდებათ დახმარება. ”
+
+Step 69/330
+>> Georgian - English
+	Pain and bankruptcy determine how this medication can be cured. I read the terms. You know where your calendar is. Then my brother is late. Prior to his death in California, 11-year-old Ramsey gained an outstanding reputation. I decided to go to Baghdad because I was not afraid. "Hopefully this will change." Men are not well and do not need help. ”
+
+Step 70/330
+>> English - Spanish
+	El dolor y la bancarrota determinan cómo se puede curar este medicamento. Leo los terminos. Sabes dónde está tu calendario. Entonces mi hermano llega tarde. Antes de su muerte en California, Ramsey, de 11 años, ganó una excelente reputación. Decidí ir a Bagdad porque no tenía miedo. "Esperemos que esto cambie". Los hombres no están bien y no necesitan ayuda. "
+
+Step 71/330
+>> Spanish - English
+	Pain and bankruptcy determine how this medicine can be cured. I read the terms. You know where your calendar is. Then my brother is late. Before his death in California, Ramsey, 11, won an excellent reputation. I decided to go to Baghdad because I was not afraid. "Hopefully this changes." Men are not well and do not need help. "
+
+Step 72/330
+>> English - Sinhala
+	වේදනාව සහ බංකොලොත්භාවය මෙම medicine ෂධය සුව කළ හැකි ආකාරය තීරණය කරයි. මම පද කියෙව්වා. ඔබේ දින දර්ශනය තිබෙන්නේ කොහේදැයි ඔබ දන්නවා. එහෙනම් මගේ සහෝදරයා පරක්කුයි. කැලිෆෝනියාවේදී ඔහුගේ මරණයට පෙර 11 හැවිරිදි රැම්සි විශිෂ්ට කීර්තියක් දිනා ගත්තේය. මම බිය නොවූ නිසා බැග්ඩෑඩයට යාමට තීරණය කළෙමි. "මෙය වෙනස් වේ යැයි බලාපොරොත්තු වෙමු." පිරිමින් සනීප නැති අතර උදව් අවශ්‍ය නොවේ. "
+
+Step 73/330
+>> Sinhala - Bosnian
+	Bol i stečaj određuju kako ovaj lijek može izliječiti stanje. Pročitao sam stihove. Znate gdje je vaš kalendar. Onda moj brat kasni. Prije smrti u Kaliforniji, Ramsey je bio 11-godišnjakinja. Odlučio sam otići u Bagdad jer se nisam uplašio. "Nadam se da će se to promijeniti." Muškarci su bolesni i ne treba im pomoć. "
+
+Step 74/330
+>> Bosnian - Spanish
+	El dolor y la bancarrota determinan cómo este medicamento puede curar la afección. Yo leo la letra. Sabes dónde está tu calendario. Entonces mi hermano llega tarde. Antes de su muerte en California, Ramsey tenía 11 años. Decidí ir a Bagdad porque no tenía miedo. "Esperemos que eso cambie". Los hombres están enfermos y no necesitan ayuda. "
+
+Step 75/330
+>> Spanish - Portuguese
+	Dor e falência determinam como este medicamento pode curar a doença. Eu li a letra. Você sabe onde está o seu calendário. Então meu irmão está atrasado. Antes de sua morte na Califórnia, Ramsey tinha 11 anos. Decidi ir a Bagdá porque não tinha medo. "Espero que isso mude." Os homens estão doentes e não precisam de ajuda. "
+
+Step 76/330
+>> Portuguese - Arabic
+	يحدد الألم والإفلاس كيف يمكن لهذا الدواء علاج الحالة. قرأت كلمات الاغنية أنت تعرف أين التقويم الخاص بك. لذلك أخي متأخر. قبل وفاته في كاليفورنيا ، كان رامزي يبلغ من العمر 11 عامًا. قررت الذهاب إلى بغداد لأنني لم أكن خائفة. "آمل أن يتغير". الرجال مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 77/330
+>> Arabic - Macedonian
+	Болката и банкрот утврдуваат како оваа дрога може да ја третира состојбата. Ги читам стиховите на песната што ја знаете каде е вашиот календар. Така, мојот брат доцни. Пред смртта во Калифорнија, Рамзи имаше 11 години. Решив да одам во Багдад затоа што не се исплашив. „Се надевам дека ќе се промени“. Мажите се болни и не им е потребна помош. "
+
+Step 78/330
+>> Macedonian - Armenian
+	Painավն ու սնանկությունը որոշում են, թե ինչպես կարող է այս դեղը բուժել պայմանը: Ես բառերը կարդում եմ այն երգի վրա, որը դուք գիտեք, թե որտեղ է ձեր օրացույցը: Ուրեմն եղբայրս ուշացել է: Կալիֆոռնիայում իր մահից առաջ Ռամզին 11 տարեկան էր: Ես որոշեցի մեկնել Բաղդադ, որովհետև վախեցած չէի: «Հուսով եմ, որ այն փոխվում է»: Տղամարդիկ հիվանդ են և օգնության կարիք չունեն: »
+
+Step 79/330
+>> Armenian - Thai
+	ความเจ็บปวดและการล้มละลายกำหนดว่ายานี้สามารถรักษาสภาพ ฉันอ่านคำในเพลงที่คุณรู้ว่าปฏิทินของคุณอยู่ที่ไหน ดังนั้นพี่ชายของฉันมาสาย ก่อนที่เขาจะเสียชีวิตในแคลิฟอร์เนีย Ramzi อายุ 11 ปี ฉันตัดสินใจไปเที่ยวแบกแดดเพราะฉันไม่กลัว "ฉันหวังว่ามันจะเปลี่ยนไป" ผู้ชายป่วยและไม่ต้องการความช่วยเหลือ "
+
+Step 80/330
+>> Thai - Arabic
+	يصف الألم والإفلاس أن هذا الدواء يمكن أن يعالج الحالة. قرأت الكلمات الموجودة في الأغنية التي تعرف فيها مكان تقويمك. لذلك أخي متأخر قبل موته في كاليفورنيا ، كان رمزي يبلغ من العمر 11 عامًا ، وقررت الذهاب إلى بغداد لأنني لم أكن خائفًا. "آمل أن يتغير ذلك. الرجل مريض ولا يحتاج إلى مساعدة."
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	痛苦和破产规定这种药物可以治疗这种疾病。我读了歌中您知道日历所在位置的单词。所以我已故的兄弟在加利福尼亚去世前，Ramzi已经11岁了，我决定去巴格达因为我并不害怕。 “我希望改变。这个人病了，不需要帮助。”
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	El dolor y la bancarrota estipulan que este medicamento puede tratar esta enfermedad. Leí las palabras en la canción donde sabes la ubicación del calendario. Entonces, antes de que mi difunto hermano muriera en California, Ramzi tenía 11 años y decidí ir a Bagdad porque no tenía miedo. "Quiero cambiar. Esta persona está enferma y no necesita ayuda".
+
+Step 83/330
+>> Spanish - Ukrainian
+	Біль і банкрутство передбачають, що цей препарат може лікувати це захворювання. Я читаю слова в пісні, де ви знаєте розташування календаря. Отже, перед тим, як мій покійний брат помер у Каліфорнії, Рамзі було 11 років, і я вирішив поїхати до Багдаду, бо не боявся. "Я хочу змінитись. Ця людина хвора і не потребує допомоги".
+
+Step 84/330
+>> Ukrainian - Spanish
+	El dolor y la bancarrota sugieren que este medicamento puede tratar la enfermedad. Leí las palabras en la canción donde sabes la ubicación del calendario. Entonces, antes de que mi difunto hermano muriera en California, Ramsey tenía 11 años y decidí ir a Bagdad porque no tenía miedo. "Quiero cambiar. Este hombre está enfermo y no necesita ayuda".
+
+Step 85/330
+>> Spanish - English
+	Pain and bankruptcy suggest that this medication can treat the disease. I read the words in the song where you know the location of the calendar. So, before my late brother died in California, Ramsey was 11 years old and I decided to go to Baghdad because I was not afraid. "I want to change. This man is sick and doesn't need help."
+
+Step 86/330
+>> English - Mongolian
+	Өвдөлт, дампуурал нь энэ эм нь өвчнийг эмчлэх боломжтой гэж үздэг. Би хуанлийн байршлыг мэддэг дууны үгсийг уншсан. Тиймээс, миний хойд дүү Калифорнид нас барахаасаа өмнө Рамси 11 настай байсан бөгөөд би айхгүй байсан тул Багдад очихоор шийдсэн юм. Энэ хүн өвчтэй байгаа бөгөөд тусламж хэрэггүй байна. "
+
+Step 87/330
+>> Mongolian - Spanish
+	El dolor y la bancarrota suponen que este medicamento puede curar la enfermedad. Leí la letra de la ubicación del calendario. Entonces, antes de que mi difunto hermano muriera en California, Ramsis tenía 11 años y no tenía miedo de ir a Bagdad. Esta persona está enferma y no necesita ayuda. "
+
+Step 88/330
+>> Spanish - Arabic
+	يفترض الألم والإفلاس أن هذا الدواء يمكن أن يشفي المرض. قرأت خطاب موقع التقويم. لذلك ، قبل وفاة أخي الراحل في كاليفورنيا ، كان رمسيس يبلغ من العمر 11 عامًا ولم يكن خائفًا من الذهاب إلى بغداد. هذا الشخص مريض ولا يحتاج إلى مساعدة. "
+
+Step 89/330
+>> Arabic - Kurdish
+	Êş û bêbawerî piştrast dikin ku ev derman dikare nexweşî baş bike. Min salnameya axaftina malperê xwend. Ji ber vê yekê, beriya mirina birayê min a dawî li California, Ramses 11 salî bû û ji tirsa ku neçe Bexdayê. Ev kes nexweş e û alîkariya hewcedariyê nine. "
+
+Step 90/330
+>> Kurdish - English
+	Pain and disbelief confirm that this medicine can cure the disease well. I read the site speech calendar. So, before my brother's recent death in California, Ramses was 11 years old and afraid of going to Baghdad. These people are sick and do not need help. "
+
+Step 91/330
+>> English - Dutch
+	Pijn en ongeloof bevestigen dat dit medicijn de ziekte goed kan genezen. Ik heb de site-spraakkalender gelezen. Dus vóór de recente dood van mijn broer in Californië was Ramses 11 jaar oud en bang om naar Bagdad te gaan. Deze mensen zijn ziek en hebben geen hulp nodig. "
+
+Step 92/330
+>> Dutch - English
+	Pain and disbelief confirm that this medicine can cure the disease well. I have read the site speech calendar. So before my brother's recent death in California, Ramses was 11 years old and afraid of going to Baghdad. These people are sick and do not need help. "
+
+Step 93/330
+>> English - Samoan
+	Paʻu ma le le talitonu e faʻamaonia o lenei vailaʻau e mafai ona fofo lelei le maʻi. Ua ou faitauina le kalena lauga o le site. O lea ao leʻi maliu loʻu uso i Kalefonia, na 11 tausaga le matua o Ramses ma sa fefe e alu i Baghdad. O nei tagata e mamai ma e le manaʻomia se fesoasoani. "
+
+Step 94/330
+>> Samoan - Uzbek
+	Teri va skeptitsizm ushbu dori kasallikni yaxshiroq davolay olishini isbotlaydi. Men saytning munozara taqvimini o'qib chiqdim. Shunday qilib, akam Kaliforniyada vafot etishidan oldin, Ramses 11 yoshda edi va Bog'dodga borishdan qo'rqardi. Bu odamlar kasal bo'lib, yordamga muhtoj emaslar. "
+
+Step 95/330
+>> Uzbek - English
+	Skin and skepticism prove that this medicine can cure the disease better. I read the site's discussion calendar. So, before my brother died in California, Ramses was 11 and was afraid to go to Baghdad. These people are sick and do not need help. "
+
+Step 96/330
+>> English - Arabic
+	يثبت الجلد والشك أن هذا الدواء يمكن أن يعالج المرض بشكل أفضل. قرأت تقويم مناقشة الموقع. لذلك ، قبل وفاة أخي في كاليفورنيا ، كان رمسيس يبلغ من العمر 11 عامًا وكان خائفًا من الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 97/330
+>> Arabic - French
+	La peau et les soupçons prouvent que ce médicament peut mieux guérir la maladie. J'ai lu le calendrier de discussion du site. Par conséquent, avant la mort de mon frère en Californie, Ramsès avait 11 ans et avait peur d'aller à Bagdad. Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 98/330
+>> French - Spanish
+	La piel y las sospechas demuestran que este medicamento puede curar mejor la enfermedad. Leí el horario de chat del sitio. Por lo tanto, antes de la muerte de mi hermano en California, Ramsés tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 99/330
+>> Spanish - Romanian
+	Pielea și suspiciunile arată că acest medicament poate vindeca mai bine boala. Am citit programul de chat al site-ului. Prin urmare, înainte de moartea fratelui meu în California, Ramses avea 11 ani și se temea să meargă la Bagdad. Acești oameni sunt bolnavi și nu au nevoie de ajutor. "
+
+Step 100/330
+>> Romanian - Filipino
+	Ang balat at hinala ay nagpapakita na ang gamot na ito ay maaaring mas mahusay na pagalingin ang sakit. Nabasa ko ang programa sa chat ng site. Samakatuwid, bago namatay ang aking kapatid sa California, si Ramses ay 11 taong gulang at natatakot siyang pumunta sa Baghdad. Ang mga taong ito ay may sakit at hindi nangangailangan ng tulong. "
+
+Step 101/330
+>> Filipino - Zulu
+	Isikhumba nokusola kukhombisa ukuthi lesi sidakamizwa singaselapha kangcono lesi sifo. Ngifunde uhlelo lokuxoxa lwengosi. Ngakho-ke, ngaphambi kokuthi umfowethu afe eCalifornia, uRamses wayeneminyaka engu-11 futhi wayesaba ukuya eBaghdad. Lababantu bayagula futhi abadingi usizo. "
+
+Step 102/330
+>> Zulu - Arabic
+	الجلد والشك يظهران أن الدواء يمكن أن يعالج المرض بشكل أفضل. قرأت برنامج الدردشة عبر الإنترنت. لذلك ، قبل وفاة أخي في كاليفورنيا ، كان رمسيس يبلغ من العمر 11 عامًا وكان خائفًا من الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 103/330
+>> Arabic - Indonesian
+	Kulit dan kecurigaan menunjukkan bahwa obat tersebut dapat menyembuhkan penyakit dengan lebih baik. Saya membaca program obrolan online. Karena itu, sebelum saudara saya meninggal di California, Ramses berusia 11 tahun dan takut pergi ke Baghdad. Orang-orang ini sakit dan tidak perlu bantuan. "
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Da và nghi ngờ chỉ ra rằng thuốc có thể chữa bệnh tốt hơn. Tôi đọc các chương trình trò chuyện trực tuyến. Do đó, trước khi anh tôi qua đời ở California, Ramkes 11 tuổi và sợ phải đến Baghdad. Những người này bị bệnh và không cần giúp đỡ. "
+
+Step 105/330
+>> Vietnamese - Spanish
+	La piel y la sospecha indican que el medicamento puede curar mejor. Leo programas de chat en línea. Por lo tanto, antes de que mi hermano muriera en California, Ramkes tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 106/330
+>> Spanish - Arabic
+	يشير الجلد والشك إلى أن الدواء يمكن أن يشفي بشكل أفضل. قرأت برامج الدردشة عبر الإنترنت. لذلك ، قبل وفاة أخي في كاليفورنيا ، كان رامكس يبلغ من العمر 11 عامًا وكان يخشى الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 107/330
+>> Arabic - Spanish
+	La piel y la sospecha indican que la droga puede sanar mejor. Leo software de chat en línea. Entonces, antes de que mi hermano muriera en California, Ramex tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 108/330
+>> Spanish - Russian
+	Кожа и подозрение указывают на то, что лекарство лучше заживает. Я читаю онлайн-чат. Итак, до того как мой брат умер в Калифорнии, Рамексу было 11 лет, и он боялся ехать в Багдад. Эти люди больны и не нуждаются в помощи. "
+
+Step 109/330
+>> Russian - Arabic
+	الجلد والشك تشير إلى أن الدواء يشفي بشكل أفضل. أنا أقرأ محادثة عبر الإنترنت. لذلك ، قبل وفاة أخي في كاليفورنيا ، كان راميكس يبلغ من العمر 11 عامًا وكان خائفًا من الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 110/330
+>> Arabic - Spanish
+	La piel y la sospecha sugieren que la droga se cura mejor. Leí una conversación en línea. Entonces, antes de que mi hermano muriera en California, Ramix tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 111/330
+>> Spanish - Portuguese
+	A pele e a suspeita sugerem que o medicamento cura melhor. Eu li uma conversa online. Então, antes de meu irmão morrer na Califórnia, Ramix tinha 11 anos e tinha medo de ir para Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 112/330
+>> Portuguese - English
+	Skin and suspicion suggest that the drug heals better. I read an online conversation. So, before my brother died in California, Ramix was 11 years old and afraid to go to Baghdad. These people are sick and need no help. "
+
+Step 113/330
+>> English - Spanish
+	La piel y la sospecha sugieren que la droga se cura mejor. Leí una conversación en línea. Entonces, antes de que mi hermano muriera en California, Ramix tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 114/330
+>> Spanish - English
+	The skin and suspicion suggest that the drug heals better. I read an online conversation. Then, before my brother died in California, Ramix was 11 years old and was afraid to go to Baghdad. These people are sick and do not need help. "
+
+Step 115/330
+>> English - Hindi
+	त्वचा और संदेह का सुझाव है कि दवा बेहतर चंगा। मैंने एक ऑनलाइन बातचीत पढ़ी। फिर, मेरे भाई की कैलिफोर्निया में मृत्यु होने से पहले, रामिक्स 11 साल का था और बगदाद जाने से डरता था। ये लोग बीमार हैं और मदद की जरूरत नहीं है। "
+
+Step 116/330
+>> Hindi - Portuguese
+	Pele e suspeita sugerem que o medicamento cura melhor. Eu li uma conversa online. Então, antes de meu irmão morrer na Califórnia, Ramix tinha 11 anos e tinha medo de ir a Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 117/330
+>> Portuguese - Spanish
+	La piel y la sospecha sugieren que la droga se cura mejor. Leí una conversación en línea. Entonces, antes de que mi hermano muriera en California, Ramix tenía 11 años y tenía miedo de ir a Bagdad. Estas personas están enfermas y no necesitan ayuda. "
+
+Step 118/330
+>> Spanish - English
+	The skin and suspicion suggest that the drug heals better. I read an online conversation. Then, before my brother died in California, Ramix was 11 years old and was afraid to go to Baghdad. These people are sick and do not need help. "
+
+Step 119/330
+>> English - Bengali
+	ত্বক এবং সন্দেহের পরামর্শ দেয় যে ওষুধটি আরও ভাল হয়ে যায়। আমি একটি অনলাইন কথোপকথন পড়েছি। তারপরে, আমার ভাই ক্যালিফোর্নিয়ায় মারা যাওয়ার আগে, র্যামিক্স 11 বছর বয়সী ছিলেন এবং বাগদাদ যেতে ভয় পেতেন। এই লোকেরা অসুস্থ এবং তাদের সাহায্যের দরকার নেই। "
+
+Step 120/330
+>> Bengali - French
+	La peau et les soupçons suggèrent que le médicament s'améliore. Je lis une conversation en ligne. Puis, avant la mort de mon frère en Californie, Ramix avait 11 ans et avait peur d'aller à Bagdad. Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 121/330
+>> French - lao
+	ຜິວຫນັງແລະຄວາມສົງໃສຊີ້ໃຫ້ເຫັນວ່າຢາກໍາລັງປັບປຸງ. ຂ້ອຍອ່ານບົດສົນທະນາຜ່ານທາງອິນເຕີເນັດ. ຫຼັງຈາກນັ້ນ, ກ່ອນທີ່ອ້າຍຂອງຂ້ອຍຈະເສຍຊີວິດຢູ່ລັດຄາລິຟໍເນຍ, Ramix ມີອາຍຸ 11 ປີແລະຢ້ານທີ່ຈະໄປເມືອງແບັກແດັດ. ຄົນເຫຼົ່ານີ້ເຈັບປ່ວຍແລະບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. "
+
+Step 122/330
+>> lao - English
+	Skin and doubt indicate that the drug is improving. I read the discussion online. Then, before my brother died in California, Ramix was 11 and scared to go to Baghdad. These people are sick and do not need help. "
+
+Step 123/330
+>> English - Portuguese
+	Pele e dúvida indicam que a droga está melhorando. Eu li a discussão online. Então, antes de meu irmão morrer na Califórnia, Ramix tinha 11 anos e estava com medo de ir para Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 124/330
+>> Portuguese - English
+	Skin and doubt indicate that the drug is improving. I read the discussion online. So, before my brother died in California, Ramix was 11 years old and afraid to go to Baghdad. These people are sick and need no help. "
+
+Step 125/330
+>> English - Portuguese
+	Pele e dúvida indicam que a droga está melhorando. Eu li a discussão online. Então, antes de meu irmão morrer na Califórnia, Ramix tinha 11 anos e tinha medo de ir a Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 126/330
+>> Portuguese - English
+	Skin and doubt indicate that the drug is improving. I read the discussion online. So, before my brother died in California, Ramix was 11 years old and afraid to go to Baghdad. These people are sick and need no help. "
+
+Step 127/330
+>> English - Portuguese
+	Pele e dúvida indicam que a droga está melhorando. Eu li a discussão online. Então, antes de meu irmão morrer na Califórnia, Ramix tinha 11 anos e tinha medo de ir a Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 128/330
+>> Portuguese - Burmese
+	ဆက်ဆက်အသားအရေနှင့်မူးယစ်ဆေးတိုးတက်အောင်ကြောင်းဖော်ပြသည်။ ငါအွန်လိုင်းဆွေးနွေးမှုကိုဖတ်ပါ။ ငါ့အစ်ကိုကယ်လီဖိုးနီးယားရှိမသေဆုံးမီဒီတော့ Ramix 11 နှင့်ဘဂ္ဂဒက်ကိုသွားဝံ့။ ဤလူနေမကောင်းဖြစ်ကြပြီးအကူအညီမလိုအပ်ပါဘူး။ "
+
+Step 129/330
+>> Burmese - Nepali
+	पक्कै पनि छाला देखाउन र नयाँ लागूपदार्थ विकास। म अनलाइन चर्चा पढ्नुहोस्। मेरो भाइ क्यालिफोर्निया मिडिया Ramix 11 मा मृत्यु भयो र बगदाद जाने डर थियो। यी मानिसहरू बिरामी र सहायता आवश्यक छैन। "
+
+Step 130/330
+>> Nepali - Urdu
+	یقینی طور پر جلد دکھا رہا ہے اور نئی دوائیں تیار کررہا ہے۔ میں نے بحث آن لائن پڑھی۔ میرے بھائی کا کیلیفورنیا کے میڈیا ریمکس 11 میں انتقال ہوگیا اور وہ بغداد جانے سے ڈرتا تھا۔ یہ لوگ بیمار ہیں اور انہیں مدد کی ضرورت نہیں ہے۔ "
+
+Step 131/330
+>> Urdu - French
+	Montrer définitivement la peau et développer de nouveaux médicaments. J'ai lu la discussion en ligne. Mon frère est décédé à California Media Remix 11 et il avait peur d'aller à Bagdad. Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 132/330
+>> French - English
+	To definitely show the skin and develop new drugs. I read the discussion online. My brother died at California Media Remix 11 and he was afraid to go to Baghdad. These people are sick and do not need help. "
+
+Step 133/330
+>> English - Swahili
+	Kwa kweli kuonyesha ngozi na kukuza dawa mpya. Nilisoma majadiliano hayo mkondoni. Ndugu yangu alikufa huko California Media Remix 11 na aliogopa kwenda Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 134/330
+>> Swahili - Arabic
+	حقا تظهر الجلد وتعزيز الأدوية الجديدة. قرأت تلك المناقشات عبر الإنترنت. توفي أخي في كاليفورنيا ريميكس 11 وكان خائفًا من الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 135/330
+>> Arabic - Shona
+	Nyatsoratidza ganda uye kusimudzira itsva zvinodhaka. Ndakaverenga nhaurirano idzo online. Mukoma wangu akafira muCalifornia Remix 11 uye aitya kuenda kuBaghdad. Vanhu ava vanorwara uye havadi kubatsirwa. "
+
+Step 136/330
+>> Shona - Hausa
+	Ciki sosai fallasa fata da inganta sabbin kwayoyi. Na karanta wa] annan tambayoyin ta yanar gizo. Brotheran'uwana ya mutu a California Remix 11 kuma yana jin tsoron zuwa Baghdad. Waɗannan mutane ba su da lafiya kuma ba sa bukatar taimako. "
+
+Step 137/330
+>> Hausa - Swahili
+	Ngozi iliyofunuliwa vizuri na inakuza dawa mpya. Nilisoma maswali hayo mkondoni. Ndugu yangu Brotheran alikufa huko California Remix 11 na aliogopa kwenda Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 138/330
+>> Swahili - English
+	Well-exposed skin and promotes new drugs. I read those questions online. My brother Brotheran died in California Remix 11 and was scared to go to Baghdad. These people are sick and need no help. "
+
+Step 139/330
+>> English - Arabic
+	مكشوف الجلد بشكل جيد ويعزز عقاقير جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي Brotheran في كاليفورنيا Remix 11 وكان خائفًا من الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 140/330
+>> Arabic - Malagasy
+	Ny hoditra voapoizina dia manentana ireo fanafody vaovao. Mamaky ireo fanontaniana ireo amin'ny Internet aho. Ny rahalahiko rahalahiko dia maty tany California Remix 11 ary natahotra ny handeha any Baghdad. Marary ireo olona ireo ary tsy mila fanampiana. "
+
+Step 141/330
+>> Malagasy - Swahili
+	Ngozi iliyochafuliwa huchochea dawa mpya. Nilisoma maswali haya mkondoni. Ndugu yangu mkubwa alikufa huko California Remix 11 na aliogopa kwenda Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 142/330
+>> Swahili - French
+	La peau endommagée stimule de nouveaux médicaments. J'ai lu ces questions en ligne. Mon frère aîné est mort en Californie Remix 11 et il avait peur d'aller à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 143/330
+>> French - Arabic
+	تلف الجلد يحفز عقاقير جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي الأكبر في كاليفورنيا ريميكس 11 وكان يخشى الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى أي مساعدة. "
+
+Step 144/330
+>> Arabic - French
+	Les dommages cutanés stimulent les nouveaux médicaments. J'ai lu ces questions en ligne. Mon frère aîné est mort en Californie Remix 11 et avait peur d'aller à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 145/330
+>> French - Arabic
+	تلف الجلد يحفز الأدوية الجديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي الأكبر في كاليفورنيا ريميكس 11 وكان يخشى الذهاب إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى أي مساعدة. "
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Po domaje stimul nouvo dwòg. Mwen li kesyon sa yo sou entènèt. Gran frè mwen te mouri nan Kalifòni Remix 11 e li te pè pou yo ale nan Bagdad. Moun sa yo malad epi yo pa bezwen èd. "
+
+Step 147/330
+>> Haitian Creole - Pashto
+	زیانمن شوی پوټکی نوي درملونه هڅوي. ما دا پوښتنې آنلاین لوستې. زما مشر ورور د کالیفورنیا ریمکس 11 کې مړ شو او بغداد ته د تګ لپاره ویریدلی و. دا خلک ناروغه دي او هیڅ مرستې ته اړتیا نلري. "
+
+Step 148/330
+>> Pashto - French
+	La peau endommagée stimule de nouveaux traitements. J'ai lu ces questions en ligne. Mon frère aîné est mort à California Remix 11 et avait peur de déménager à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 149/330
+>> French - Chichewa
+	Khungu lowonongeka limatulutsa zatsopano. Ndinawerenga mafunso awa pa intaneti. Mchimwene wanga wamkulu anamwalira ku California Remix 11 ndipo amawopa kusamukira ku Baghdad. Anthu awa adwala ndipo safuna thandizo lililonse. "
+
+Step 150/330
+>> Chichewa - Arabic
+	الجلد التالف يبرز ميزات جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي الأكبر في كاليفورنيا ريميكس 11 ويخشى الانتقال إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى أي مساعدة. "
+
+Step 151/330
+>> Arabic - Amharic
+	የተጎዳው ቆዳ አዳዲስ ባህሪያትን ያመጣል ፡፡ እነዚህን ጥያቄዎች በመስመር ላይ አነባለሁ ፡፡ ታላቅ ወንድሜ በካሊፎርኒያ ሬዲዮ 11 ውስጥ የሞተ ሲሆን ወደ ባግዳድ ለመዛወር ፈራ ፡፡ እነዚህ ሰዎች ይታመማሉ እናም ምንም እገዛ አያስፈልጋቸውም ፡፡ "
+
+Step 152/330
+>> Amharic - English
+	Affected skin brings new features. I read these questions online. My older brother died on California Radio 11 and was afraid to move to Baghdad. These people get sick and do not need any help. "
+
+Step 153/330
+>> English - French
+	La peau affectée apporte de nouvelles fonctionnalités. J'ai lu ces questions en ligne. Mon frère aîné est mort sur California Radio 11 et avait peur de déménager à Bagdad. Ces personnes tombent malades et n'ont besoin d'aucune aide. "
+
+Step 154/330
+>> French - Swahili
+	Ngozi iliyoathiriwa huleta sifa mpya. Nilisoma maswali haya mkondoni. Ndugu yangu mkubwa alikufa kwenye Radio ya California 11 na aliogopa kuhamia Baghdad. Watu hawa wanaugua na hawahitaji msaada wowote. "
+
+Step 155/330
+>> Swahili - Portuguese
+	A pele afetada traz novos recursos. Eu li estas perguntas online. Meu irmão mais velho morreu na Rádio Califórnia 11 e tinha medo de se mudar para Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 156/330
+>> Portuguese - Arabic
+	الجلد المصاب يجلب ميزات جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي الأكبر في إذاعة كاليفورنيا 11 وكان يخشى الانتقال إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 157/330
+>> Arabic - Portuguese
+	A pele afetada traz novos recursos. Eu li estas perguntas online. Meu irmão mais velho morreu na Rádio Califórnia 11 e tinha medo de se mudar para Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 158/330
+>> Portuguese - English
+	The affected skin brings new features. I read these questions online. My older brother died on Radio California 11 and was afraid to move to Baghdad. These people are sick and need no help. "
+
+Step 159/330
+>> English - French
+	La peau affectée apporte de nouvelles fonctionnalités. J'ai lu ces questions en ligne. Mon frère aîné est mort sur Radio California 11 et avait peur de déménager à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 160/330
+>> French - English
+	Affected skin brings new features. I read these questions online. My older brother died on Radio California 11 and was afraid to move to Baghdad. These people are sick and do not need any help. "
+
+Step 161/330
+>> English - Swahili
+	Ngozi iliyoathiriwa huleta sifa mpya. Nilisoma maswali haya mkondoni. Ndugu yangu mkubwa alikufa kwenye Radio California 11 na aliogopa kuhamia Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada wowote. "
+
+Step 162/330
+>> Swahili - Arabic
+	الجلد المتأثر يجلب ميزات جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي أخي الأكبر في إذاعة كاليفورنيا 11 وكان يخشى الانتقال إلى بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى أي مساعدة. "
+
+Step 163/330
+>> Arabic - Arabic
+	The affected skin brings new features. I read these questions online. My elder brother died on California Radio 11 and was afraid to move to Baghdad. These people are sick and do not need any help. "
+
+Step 164/330
+>> Arabic - French
+	La peau affectée apporte de nouvelles fonctionnalités. J'ai lu ces questions en ligne. Mon frère aîné est mort sur California Radio 11 et avait peur de déménager à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 165/330
+>> French - Hausa
+	Fata da aka shafa yana kawo sabbin abubuwa. Na karanta waɗannan tambayoyin akan layi. Brotherana babban ya mutu akan Rediyon California 11 kuma yana jin tsoron ƙaura zuwa Bagadaza. Waɗannan mutane ba su da lafiya kuma ba sa bukatar taimako. "
+
+Step 166/330
+>> Hausa - French
+	La peau affectée apporte de nouvelles choses. J'ai lu ces questions en ligne. La grande Brotherana est morte sur California Radio 11 et craignait de s'installer à Bagdad. Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 167/330
+>> French - Arabic
+	Affected skin brings new things. I read these questions online. The great Brotherana died on California Radio 11 and feared to settle in Baghdad. These people are sick and do not need help. "
+
+Step 168/330
+>> Arabic - Arabic
+	الجلد المتضرر يجلب أشياء جديدة. قرأت هذه الأسئلة عبر الإنترنت. مات الأخ الأكبر في إذاعة كاليفورنيا 11 ويخشى أن يستقر في بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 169/330
+>> Arabic - Swahili
+	Ngozi iliyoharibiwa huleta vitu vipya. Nilisoma maswali haya mkondoni. Ndugu mzee wa California Radio 11 alikufa na kuogopa kutua Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 170/330
+>> Swahili - English
+	Damaged skin brings new things. I read these questions online. An older brother of California Radio 11 died and feared landing in Baghdad. These people are sick and need no help. "
+
+Step 171/330
+>> English - French
+	La peau endommagée apporte de nouvelles choses. J'ai lu ces questions en ligne. Un frère aîné de California Radio 11 est décédé et craignait d'atterrir à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 172/330
+>> French - English
+	Damaged skin brings new things. I read these questions online. An older brother of California Radio 11 died and feared landing in Baghdad. These people are sick and do not need any help. "
+
+Step 173/330
+>> English - Portuguese
+	A pele danificada traz coisas novas. Eu li estas perguntas online. Um irmão mais velho da Rádio 11 da Califórnia morreu e temeu aterrissar em Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 174/330
+>> Portuguese - Arabic
+	الجلد التالف يجلب أشياء جديدة. قرأت هذه الأسئلة عبر الإنترنت. توفي شقيق أكبر سنا من راديو كاليفورنيا 11 ويخشى الهبوط في بغداد. هؤلاء الناس مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 175/330
+>> Arabic - Portuguese
+	A pele danificada traz coisas novas. Eu li estas perguntas online. O irmão mais velho da Rádio 11 da Califórnia morreu e temeu aterrissar em Bagdá. Essas pessoas estão doentes e não precisam de ajuda. "
+
+Step 176/330
+>> Portuguese - Swahili
+	Ngozi iliyoharibiwa huleta vitu vipya. Nilisoma maswali haya mkondoni. Ndugu mzee wa California Radio 11 alikufa na kuogopa kutua huko Baghdad. Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 177/330
+>> Swahili - French
+	La peau endommagée apporte de nouvelles choses. J'ai lu ces questions en ligne. Un frère aîné de California Radio 11 est décédé et craignait d'atterrir à Bagdad. Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 178/330
+>> French - English
+	Damaged skin brings new things. I read these questions online. An older brother of California Radio 11 died and feared landing in Baghdad. These people are sick and do not need any help. "
+
+Step 179/330
+>> English - Amharic
+	የተጎዳው ቆዳ አዲስ ነገሮችን ያመጣል ፡፡ እነዚህን ጥያቄዎች በመስመር ላይ አነባለሁ። በባግዳድ ውስጥ የካሊፎርኒያ ሬዲዮ 11 አንድ ታላቅ ወንድም በሞት አንቀላፋ ፡፡ እነዚህ ሰዎች ይታመማሉ እናም ምንም እገዛ አያስፈልጋቸውም ፡፡ "
+
+Step 180/330
+>> Amharic - Arabic
+	الجلد التالف يجلب أشياء جديدة. قرأت هذه الأسئلة عبر الإنترنت. وفاة 11 الأخ الأكبر للإذاعة في بغداد هؤلاء الناس يمرضون ولا يحتاجون إلى أي مساعدة. "
+
+Step 181/330
+>> Arabic - Chichewa
+	Khungu lowonongeka limabweretsa zinthu zatsopano. Ndinawerenga mafunso awa pa intaneti. Imfa ya m'bale wamkulu 11 wa wailesi ku Baghdad Anthu awa amadwala ndipo safuna thandizo lililonse. "
+
+Step 182/330
+>> Chichewa - French
+	La peau endommagée apporte de nouvelles fonctionnalités. J'ai lu ces questions en ligne. Décès de la radio 11 Big Brother à Bagdad Ces personnes sont malades et n'ont besoin d'aucune aide. "
+
+Step 183/330
+>> French - Pashto
+	زیانمن شوی پوټکی نوې ب bringsې راوړي. ما دا پوښتنې آنلاین لوستې. په بغداد کې د لوی ورور 11 راډیو مړینه دا خلک ناروغه دي او هیڅ مرستې ته اړتیا نلري. "
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Po domaje pote yon nouvo mòde. Mwen li kesyon sa yo sou entènèt. Big Brother 11 Radyo ki mouri nan Bagdad Moun sa yo malad epi yo pa bezwen èd. "
+
+Step 185/330
+>> Haitian Creole - Arabic
+	الجلد التالف يجلب لدغة جديدة. قرأت هذه الأسئلة عبر الإنترنت. Big Brother 11 Radio Dead في بغداد هؤلاء الناس مريضون ولا يحتاجون إلى مساعدة. "
+
+Step 186/330
+>> Arabic - French
+	La peau endommagée apporte une nouvelle morsure. J'ai lu ces questions en ligne. Big Brother 11 Radio Dead à Bagdad Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 187/330
+>> French - Arabic
+	الجلد التالف يجلب لدغة جديدة. قرأت هذه الأسئلة عبر الإنترنت. Big Brother 11 Dead Radio في بغداد هؤلاء الناس مريضون ولا يحتاجون إلى المساعدة. "
+
+Step 188/330
+>> Arabic - French
+	La peau endommagée apporte une nouvelle morsure. J'ai lu ces questions en ligne. Big Brother 11 Dead Radio à Bagdad Ces personnes sont malades et n'ont pas besoin d'aide. "
+
+Step 189/330
+>> French - Swahili
+	Ngozi iliyoharibiwa huleta bite mpya. Nilisoma maswali haya mkondoni. Redio Kubwa ya 11 Dead Dead huko Baghdad Watu hawa ni wagonjwa na hawahitaji msaada. "
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny hoditra simba dia mitondra moto vaovao. Mamaky ireo fanontaniana ireo amin'ny Internet aho. Radio Maty 11 lehibe ao Baghdad Marary ireo olona ireo ary tsy mila fanampiana. "
+
+Step 191/330
+>> Malagasy - Arabic
+	الجلد التالف يجلب دراجة نارية جديدة. قرأت هذه الأسئلة عبر الإنترنت. 11 محطة إذاعية قاتلة في بغداد الناس مريضون ويحتاجون إلى المساعدة. "
+
+Step 192/330
+>> Arabic - English
+	Damaged skin brings a new motorcycle. I read these questions online. 11 deadly radio stations in Baghdad People are sick and need help. "
+
+Step 193/330
+>> English - Swahili
+	Ngozi iliyoharibiwa huleta pikipiki mpya. Nilisoma maswali haya mkondoni. Vituo 11 vya redio vilivyokufa huko Baghdad Watu ni wagonjwa na wanahitaji msaada. "
+
+Step 194/330
+>> Swahili - Hausa
+	Fata mai lalacewa ta kawo sabon babur. Na karanta waɗannan tambayoyin akan layi. Rediyon rediyo 11 da suka mutu a Bagadaza Mutane ba su da lafiya kuma suna buƙatar taimako. "
+
+Step 195/330
+>> Hausa - Shona
+	Ganda rakakuvadzwa rinounza mudhudhudhu mutsva. Ndakaverenga mibvunzo iyi online. 11 nhepfenyuro nhepfenyuro muBaghdad Vanhu varwara uye vari kuda kubatsirwa. "
+
+Step 196/330
+>> Shona - Arabic
+	الجلد التالف يجلب دراجة نارية جديدة. قرأت هذه الأسئلة عبر الإنترنت. 11 محطة إذاعية في بغداد الناس مريضون ويحتاجون إلى المساعدة. "
+
+Step 197/330
+>> Arabic - Swahili
+	Ngozi iliyoharibiwa huleta pikipiki mpya. Nilisoma maswali haya mkondoni. Vituo 11 vya redio huko Baghdad Watu ni wagonjwa na wanahitaji msaada. "
+
+Step 198/330
+>> Swahili - English
+	Damaged skin brings a new motorcycle. I read these questions online. 11 radio stations in Baghdad People are sick and need help. "
+
+Step 199/330
+>> English - French
+	La peau endommagée apporte une nouvelle moto. J'ai lu ces questions en ligne. 11 stations de radio à Bagdad Les gens sont malades et ont besoin d'aide. "
+
+Step 200/330
+>> French - Urdu
+	خراب جلد ایک نئی موٹرسائیکل لاتی ہے۔ میں یہ سوالات آن لائن پڑھتا ہوں۔ بغداد میں 11 ریڈیو اسٹیشن لوگ بیمار ہیں اور انہیں مدد کی ضرورت ہے۔ "
+
+Step 201/330
+>> Urdu - Nepali
+	खराब छालाले नयाँ मोटरसाइकल ल्याउँदछ। म यी प्रश्नहरू अनलाइन पढ्छु। बगदादका एघार रेडियो स्टेशनहरू बिरामी छन् र मद्दत चाहिन्छ। "
+
+Step 202/330
+>> Nepali - Burmese
+	မကောင်းတဲ့အသားအရေအသစ်တခုမော်တော်ဆိုင်ကယ်တတ်၏။ ငါအွန်လိုင်းဤမေးခွန်းများကိုဖတ်ပါ။ ဘဂ္ဂဒက်တကျိပ်တပါးသောရေဒီယို station နေမကောင်းဖြစ်ကြပြီးအကူအညီလိုအပ်ပါတယ်။ "
+
+Step 203/330
+>> Burmese - Portuguese
+	Bad pele, traz uma nova motocicleta. Eu li estas perguntas online. estação de rádio onze Bagdá estão doentes e precisam de ajuda. "
+
+Step 204/330
+>> Portuguese - English
+	Bad skin, brings a new motorcycle. I read these questions online. Eleven Baghdad radio station are sick and need help. "
+
+Step 205/330
+>> English - Portuguese
+	Pele ruim, traz uma nova motocicleta. Eu li estas perguntas online. As onze estações de rádio de Bagdá estão doentes e precisam de ajuda. "
+
+Step 206/330
+>> Portuguese - English
+	Bad skin, brings a new motorcycle. I read these questions online. Baghdad's eleven radio stations are sick and need help. "
+
+Step 207/330
+>> English - Portuguese
+	Pele ruim, traz uma nova motocicleta. Eu li estas perguntas online. As onze estações de rádio de Bagdá estão doentes e precisam de ajuda. "
+
+Step 208/330
+>> Portuguese - English
+	Bad skin, brings a new motorcycle. I read these questions online. Baghdad's eleven radio stations are sick and need help. "
+
+Step 209/330
+>> English - lao
+	ຜິວບໍ່ດີ, ນຳ ລົດຈັກ ໃໝ່ ມາ. ຂ້ອຍອ່ານ ຄຳ ຖາມເຫຼົ່ານີ້ທາງອິນເຕີເນັດ. ສະຖານີວິທະຍຸ 11 ແຫ່ງຂອງ Baghdad ແມ່ນເຈັບປ່ວຍແລະຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ""
+
+Step 210/330
+>> lao - French
+	Mauvaise peau, apportez une nouvelle moto. J'ai lu ces questions en ligne. Les 11 stations de radio de Bagdad sont malades et ont besoin d'aide. ""
+
+Step 211/330
+>> French - Bengali
+	খারাপ ত্বক, একটি নতুন বাইক আনুন। আমি এই প্রশ্নগুলি অনলাইনে পড়েছি। বাগদাদের ১১ টি রেডিও স্টেশন অসুস্থ এবং তাদের সহায়তা প্রয়োজন। ""
+
+Step 212/330
+>> Bengali - English
+	Bad skin, bring a new bike. I have read these questions online. Five radio stations in Baghdad are ill and need their help. ""
+
+Step 213/330
+>> English - Spanish
+	Mala piel, trae una bicicleta nueva. He leído estas preguntas en línea. Cinco estaciones de radio en Bagdad están enfermas y necesitan su ayuda. ""
+
+Step 214/330
+>> Spanish - Portuguese
+	Pele ruim, traga uma bicicleta nova. Eu li estas perguntas online. Cinco estações de rádio em Bagdá estão doentes e precisam de sua ajuda. ""
+
+Step 215/330
+>> Portuguese - Hindi
+	खराब त्वचा, एक नई बाइक लाओ। मैंने इन सवालों को ऑनलाइन पढ़ा। बगदाद के पांच रेडियो स्टेशन बीमार हैं और आपकी मदद की जरूरत है। ""
+
+Step 216/330
+>> Hindi - English
+	Bad skin, bring a new bike. I read these questions online. Five of Baghdad's radio stations are ill and need your help. ""
+
+Step 217/330
+>> English - Spanish
+	Mala piel, trae una bicicleta nueva. Leí estas preguntas en línea. Cinco de las estaciones de radio de Bagdad están enfermas y necesitan su ayuda. ""
+
+Step 218/330
+>> Spanish - English
+	Bad skin, bring a new bike. I read these questions online. Five of the Baghdad radio stations are sick and need your help. ""
+
+Step 219/330
+>> English - Portuguese
+	Pele ruim, traga uma bicicleta nova. Eu li estas perguntas online. Cinco das estações de rádio de Bagdá estão doentes e precisam de sua ajuda. ""
+
+Step 220/330
+>> Portuguese - Spanish
+	Mala piel, trae una bicicleta nueva. Leí estas preguntas en línea. Cinco de las estaciones de radio de Bagdad están enfermas y necesitan su ayuda. ""
+
+Step 221/330
+>> Spanish - Arabic
+	الجلد السيئ ، وجلب دراجة جديدة. قرأت هذه الأسئلة عبر الإنترنت. خمس من محطات الإذاعة في بغداد مريضة وتحتاج إلى مساعدتكم. ""
+
+Step 222/330
+>> Arabic - Russian
+	Плохая кожа, принеси новый велосипед. Я читаю эти вопросы онлайн. Пять радиостанций в Багдаде больны и нуждаются в вашей помощи. «»
+
+Step 223/330
+>> Russian - Spanish
+	Mala piel, trae una bicicleta nueva. Leí estas preguntas en línea. Cinco estaciones de radio en Bagdad están enfermas y necesitan su ayuda. ""
+
+Step 224/330
+>> Spanish - Arabic
+	الجلد السيئ ، وجلب دراجة جديدة. قرأت هذه الأسئلة عبر الإنترنت. هناك خمس محطات إذاعية في بغداد مريضة وتحتاج إلى مساعدتك. ""
+
+Step 225/330
+>> Arabic - Spanish
+	Mala piel, trae una bicicleta nueva. Leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad que están enfermas y necesitan su ayuda. ""
+
+Step 226/330
+>> Spanish - Vietnamese
+	Da xấu, mang xe đạp mới. Tôi đọc những câu hỏi này trực tuyến. Có năm đài phát thanh ở Baghdad bị ốm và cần sự giúp đỡ của bạn. ""
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Kulit buruk, bawa sepeda baru. Saya membaca pertanyaan-pertanyaan ini secara online. Ada lima stasiun radio di Baghdad yang sakit dan membutuhkan bantuan Anda. ""
+
+Step 228/330
+>> Indonesian - Arabic
+	الجلد السيئ ، وجلب دراجة جديدة. قرأت هذه الأسئلة عبر الإنترنت. هناك خمس محطات إذاعية في بغداد مريضة وتحتاج إلى مساعدتكم. ""
+
+Step 229/330
+>> Arabic - Zulu
+	Isikhumba esibi, ulethe ibhayisekili elisha. Ngifunde le mibuzo online. Kunemisakazo emihlanu eBaghdad egulayo futhi idinga usizo lwakho. ""
+
+Step 230/330
+>> Zulu - Filipino
+	Masamang balat, magdala ng bagong bike. Nabasa ko nang online ang mga katanungang ito. Mayroong limang mga radio sa Baghdad na may sakit at nangangailangan ng iyong tulong. ""
+
+Step 231/330
+>> Filipino - Romanian
+	Piele rea, aduce o bicicletă nouă. Am citit online aceste întrebări. Există cinci posturi de radio din Bagdad care sunt bolnave și au nevoie de ajutorul tău. „“
+
+Step 232/330
+>> Romanian - Spanish
+	Mala piel, trae una bicicleta nueva. Leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad que están enfermas y necesitan su ayuda. ' "
+
+Step 233/330
+>> Spanish - French
+	Mauvaise peau, apportez un nouveau vélo. J'ai lu ces questions en ligne. Il y a cinq stations de radio à Bagdad qui sont malades et ont besoin de votre aide. '"
+
+Step 234/330
+>> French - Arabic
+	الجلد السيئ ، وجلب دراجة جديدة. قرأت هذه الأسئلة عبر الإنترنت. هناك خمس محطات إذاعية في بغداد مريضة وتحتاج إلى مساعدتكم. "
+
+Step 235/330
+>> Arabic - English
+	Bad skin, bring a new bike. I read these questions online. There are five radio stations in Baghdad that are sick and need your help. "
+
+Step 236/330
+>> English - Uzbek
+	Yomon teri, yangi velosiped olib keling. Men ushbu savollarni Internetda o'qidim. Bog'dodda kasal bo'lgan va sizning yordamingizga muhtoj bo'lgan beshta radiostansiya mavjud. "
+
+Step 237/330
+>> Uzbek - Samoan
+	Aumai le paʻu paʻu, keke fou. Na ou faitauina nei fesili i le Initaneti. E lima laina leitio i Baghdad o loʻo maʻi ma manaʻomia lau fesoasoani. "
+
+Step 238/330
+>> Samoan - English
+	Get skinny, fresh cake. I read these questions on the Internet. Five radio stations in Baghdad are sick and need your help. "
+
+Step 239/330
+>> English - Dutch
+	Krijg magere, verse cake. Ik heb deze vragen op internet gelezen. Vijf radiostations in Bagdad zijn ziek en hebben jouw hulp nodig. "
+
+Step 240/330
+>> Dutch - English
+	Get lean, fresh cake. I have read these questions on the internet. Five radio stations in Baghdad are sick and need your help. "
+
+Step 241/330
+>> English - Kurdish
+	Kulmek tam, teze bistînin. Min van pirsan li ser înternetê xwend. Pênc radyoyên li Bexdayê nexweş in û hewceyê alîkariya we ne. "
+
+Step 242/330
+>> Kurdish - Arabic
+	احصل على سقف كامل منعش. قرأت هذه الأسئلة على الإنترنت. هناك خمس محطات إذاعية في بغداد مريضة وتحتاج إلى مساعدتك. "
+
+Step 243/330
+>> Arabic - Spanish
+	Consigue un refrescante techo completo. Leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad que están enfermas y necesitan su ayuda. "
+
+Step 244/330
+>> Spanish - Mongolian
+	Бүрэн дээврийг сэргээнэ үү. Би эдгээр асуултуудыг онлайнаар уншсан. Багдад таван радио станц байдаг бөгөөд тэд өвчтэй байгаа бөгөөд таны тусламж хэрэгтэй байна. "
+
+Step 245/330
+>> Mongolian - English
+	Restore full roof. I read these questions online. Baghdad has five radio stations, and they are sick and need your help. "
+
+Step 246/330
+>> English - Spanish
+	Restaurar el techo completo. Leí estas preguntas en línea. Bagdad tiene cinco estaciones de radio, y están enfermas y necesitan su ayuda. "
+
+Step 247/330
+>> Spanish - Ukrainian
+	Відновіть всю дах. Я читав ці запитання в Інтернеті. У Багдаді є п'ять радіостанцій, і вони хворі і потребують вашої допомоги. "
+
+Step 248/330
+>> Ukrainian - Spanish
+	Restaurar todo el techo. Leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad, y están enfermas y necesitan su ayuda. "
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	恢复整个屋顶。我在网上看了这些问题。巴格达有五个广播电台，他们病了，需要你的帮助。 “
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	استعادة السقف بأكمله. قرأت هذه الأسئلة عبر الإنترنت. توجد خمس محطات إذاعية في بغداد ، وهم مرضى ويحتاجون إلى مساعدتكم. "
+
+Step 251/330
+>> Arabic - Thai
+	คืนค่าเพดานทั้งหมด ฉันอ่านคำถามเหล่านี้ทางออนไลน์ มีสถานีวิทยุห้าแห่งในแบกแดดพวกเขาป่วยและต้องการความช่วยเหลือจากคุณ "
+
+Step 252/330
+>> Thai - Armenian
+	Վերականգնել ամբողջ առաստաղը Ես այս հարցերը կարդում եմ առցանց: Բաղդադում կա հինգ ռադիոկայան: Նրանք հիվանդ են և ձեր օգնության կարիքը ունեն »:
+
+Step 253/330
+>> Armenian - Macedonian
+	Враќање на целиот таван што ги прочитав овие прашања на Интернет. Во Багдад има пет радиостаници. Тие се болни и им треба ваша помош “.
+
+Step 254/330
+>> Macedonian - Arabic
+	بالعودة إلى السقف كله ، قرأت هذه الأسئلة على الإنترنت. هناك خمس محطات إذاعية في بغداد. إنهم مرضى ويحتاجون إلى مساعدتكم ".
+
+Step 255/330
+>> Arabic - Portuguese
+	Voltando a todo o telhado, li estas perguntas on-line. Existem cinco estações de rádio em Bagdá. Eles estão doentes e precisam da sua ajuda. "
+
+Step 256/330
+>> Portuguese - Spanish
+	Volviendo al tejado, leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad. Están enfermos y necesitan tu ayuda. "
+
+Step 257/330
+>> Spanish - Bosnian
+	Vraćajući se na krov, pročitao sam ta pitanja na mreži. U Bagdadu postoji pet radio stanica. Bolesni su i treba im vaša pomoć. "
+
+Step 258/330
+>> Bosnian - Sinhala
+	නැවත වහලයට එන මම එම ප්‍රශ්න අන්තර්ජාලය හරහා කියෙව්වා. බැග්ඩෑඩ් හි ගුවන් විදුලි මධ්‍යස්ථාන පහක් ඇත. ඔවුන් අසනීපයෙන් සිටින අතර ඔබේ උදව් අවශ්‍යයි. "
+
+Step 259/330
+>> Sinhala - English
+	Coming back to the roof, I read those questions online. There are five radio stations in Baghdad. They are sick and need your help. "
+
+Step 260/330
+>> English - Spanish
+	Volviendo al techo, leí esas preguntas en línea. Hay cinco estaciones de radio en Bagdad. Están enfermos y necesitan tu ayuda. "
+
+Step 261/330
+>> Spanish - English
+	Going back to the ceiling, I read those questions online. There are five radio stations in Baghdad. They are sick and need your help. "
+
+Step 262/330
+>> English - Georgian
+	ისევ ჭერზე ვბრუნდები და ამ კითხვებს ინტერნეტით ვკითხულობ. ბაღდადში ხუთი რადიოსადგურია. ისინი ავად არიან და თქვენი დახმარება სჭირდებათ. ”
+
+Step 263/330
+>> Georgian - English
+	I go back to the ceiling again and read these questions online. There are five radio stations in Baghdad. They are sick and need your help. ”
+
+Step 264/330
+>> English - Albanian
+	Unë kthehem përsëri në tavan dhe i lexoj këto pyetje në internet. Ka pesë stacione radio në Bagdad. Ata janë të sëmurë dhe kanë nevojë për ndihmën tuaj. "
+
+Step 265/330
+>> Albanian - Serbian
+	Враћам се до плафона и читам та питања на мрежи. У Багдаду постоји пет радио станица. Болесни су и потребна им је ваша помоћ. "
+
+Step 266/330
+>> Serbian - Spanish
+	Vuelvo al techo y leo esas preguntas en línea. Hay cinco estaciones de radio en Bagdad. Están enfermos y necesitan tu ayuda. "
+
+Step 267/330
+>> Spanish - English
+	I go back to the ceiling and read those questions online. There are five radio stations in Baghdad. They are sick and need your help. "
+
+Step 268/330
+>> English - Turkish
+	Tavana geri döndüm ve bu soruları çevrimiçi okudum. Bağdat'ta beş radyo istasyonu var. Hastalar ve yardımınıza ihtiyaçları var. "
+
+Step 269/330
+>> Turkish - Spanish
+	Regresé al techo y leí estas preguntas en línea. Hay cinco estaciones de radio en Bagdad. Los pacientes y ellos necesitan tu ayuda. "
+
+Step 270/330
+>> Spanish - French
+	Je suis retourné au plafond et j'ai lu ces questions en ligne. Il y a cinq stations de radio à Bagdad. Les patients et ils ont besoin de votre aide. "
+
+Step 271/330
+>> French - English
+	I went back to the ceiling and read these questions online. There are five radio stations in Baghdad. Patients and they need your help. "
+
+Step 272/330
+>> English - Persian
+	برگشتم به سقف و این سؤالات را آنلاین خواندم. پنج ایستگاه رادیویی در بغداد وجود دارد. بیماران و آنها به کمک شما نیاز دارند. "
+
+Step 273/330
+>> Persian - Kazakh
+	Мен төбеге қайта оралдым және интернеттегі сұрақтарды оқыдым. Бағдадта бес радиостанция бар. Науқастар және олар сіздің көмегіңізге мұқтаж. «
+
+Step 274/330
+>> Kazakh - English
+	I returned to the ceiling and read online questions. There are five radio stations in Baghdad. Patients and they need your help. «
+
+Step 275/330
+>> English - Malay
+	Saya kembali ke siling dan membaca soalan dalam talian. Terdapat lima stesen radio di Baghdad. Pesakit dan mereka memerlukan bantuan anda. «
+
+Step 276/330
+>> Malay - Arabic
+	عدت إلى السقف وقرأت السؤال على الإنترنت. هناك خمس محطات إذاعية في بغداد. المرضى وهم بحاجة لمساعدتكم. «
+
+Step 277/330
+>> Arabic - Spanish
+	Regresé al techo y leí la pregunta en línea. Hay cinco estaciones de radio en Bagdad. Los pacientes necesitan tu ayuda. ««
+
+Step 278/330
+>> Spanish - English
+	I went back to the ceiling and read the question online. There are five radio stations in Baghdad. Patients need your help. ««
+
+Step 279/330
+>> English - Russian
+	Я вернулся к потолку и прочитал вопрос онлайн. В Багдаде пять радиостанций. Пациентам нужна ваша помощь. ««
+
+Step 280/330
+>> Russian - Romanian
+	M-am întors la tavan și am citit întrebarea online. În Bagdad există cinci posturi de radio. Pacienții au nevoie de ajutorul tău. ' "
+
+Step 281/330
+>> Romanian - Bulgarian
+	Върнах се на тавана и прочетох въпроса онлайн. В Багдад има пет радиостанции. Пациентите се нуждаят от вашата помощ. ""
+
+Step 282/330
+>> Bulgarian - Albanian
+	U ktheva në tavan dhe lexova pyetjen në internet. Ka pesë stacione radio në Bagdad. Pacientët kanë nevojë për ndihmën tuaj. ' "
+
+Step 283/330
+>> Albanian - Russian
+	Я вернулся к потолку и прочитал вопрос онлайн. В Багдаде пять радиостанций. Пациентам нужна ваша помощь. ' "
+
+Step 284/330
+>> Russian - Arabic
+	عدت إلى السقف وقرأت السؤال على الإنترنت. هناك خمس محطات إذاعية في بغداد. المرضى بحاجة لمساعدتكم. "
+
+Step 285/330
+>> Arabic - Spanish
+	Regresé al techo y leí la pregunta en línea. Hay cinco estaciones de radio en Bagdad. Los pacientes necesitan tu ayuda. "
+
+Step 286/330
+>> Spanish - Croatian
+	Vratio sam se do plafona i pročitao pitanje na mreži. U Bagdadu postoji pet radio postaja. Pacijenti trebaju vašu pomoć. "
+
+Step 287/330
+>> Croatian - Hungarian
+	Visszamentem a mennyezetre, és online olvastam a kérdést. Bagdadban öt rádióállomás van. A betegeknek segítségre van szükségük. "
+
+Step 288/330
+>> Hungarian - Spanish
+	Regresé al techo y leí la pregunta en línea. Hay cinco estaciones de radio en Bagdad. Los pacientes necesitan ayuda. "
+
+Step 289/330
+>> Spanish - Arabic
+	عدت إلى السقف وقرأت السؤال على الإنترنت. هناك خمس محطات إذاعية في بغداد. يحتاج المرضى للمساعدة. "
+
+Step 290/330
+>> Arabic - Portuguese
+	Voltei ao teto e li a pergunta online. Existem cinco estações de rádio em Bagdá. Os pacientes precisam de ajuda. "
+
+Step 291/330
+>> Portuguese - Latvian
+	Es devos atpakaļ pie griestiem un tiešsaistē izlasīju jautājumu. Bagdādē ir piecas radiostacijas. Pacientiem nepieciešama palīdzība. "
+
+Step 292/330
+>> Latvian - Arabic
+	عدت إلى السقف وقرأت السؤال على الإنترنت. يوجد في بغداد خمس محطات إذاعية. يحتاج المرضى للمساعدة. "
+
+Step 293/330
+>> Arabic - Malay
+	Saya kembali ke siling dan membaca soalan dalam talian. Baghdad mempunyai lima stesen radio. Pesakit memerlukan bantuan. "
+
+Step 294/330
+>> Malay - Slovak
+	Vrátil som sa na strop a prečítal si otázku online. Bagdad má päť rozhlasových staníc. Pacienti potrebujú pomoc. "
+
+Step 295/330
+>> Slovak - Arabic
+	عدت إلى السقف وقرأت السؤال على الإنترنت. يوجد في بغداد خمس محطات إذاعية. يحتاج المرضى للمساعدة. "
+
+Step 296/330
+>> Arabic - Lithuanian
+	Grįžau prie lubų ir internete perskaičiau klausimą. Bagdade yra penkios radijo stotys. Pacientams reikia pagalbos. "
+
+Step 297/330
+>> Lithuanian - Catalan
+	Vaig tornar al sostre i vaig llegir la pregunta en línia. A Bagdad hi ha cinc emissores de ràdio. Els pacients necessiten ajuda. "
+
+Step 298/330
+>> Catalan - Arabic
+	عدت إلى السقف وقرأت السؤال عبر الإنترنت. في بغداد هناك خمس محطات إذاعية. يحتاج المرضى للمساعدة. "
+
+Step 299/330
+>> Arabic - Polish
+	Wróciłem do sufitu i przeczytałem pytanie online. W Bagdadzie jest pięć stacji radiowych. Pacjenci potrzebują pomocy. „
+
+Step 300/330
+>> Polish - Turkish
+	Tavana geri döndüm ve soruyu çevrimiçi okudum. Bağdat'ta beş radyo istasyonu var. Hastaların yardıma ihtiyacı var. "
+
+Step 301/330
+>> Turkish - Greek
+	Πήγα πίσω στο ταβάνι και διάβασα την ερώτηση στο διαδίκτυο. Υπάρχουν πέντε ραδιοφωνικοί σταθμοί στη Βαγδάτη. Οι ασθενείς χρειάζονται βοήθεια. "
+
+Step 302/330
+>> Greek - Estonian
+	Läksin tagasi lakke ja lugesin seda küsimust veebis. Bagdadis on viis raadiojaama. Patsiendid vajavad abi. "
+
+Step 303/330
+>> Estonian - Maltese
+	Mort lura għas-saqaf u qrajt din il-mistoqsija fuq il-web. Hemm ħames stazzjonijiet tar-radju f'Bagdad. Il-pazjenti għandhom bżonn għajnuna. "
+
+Step 304/330
+>> Maltese - Italian
+	Sono tornato al tetto e letto questa domanda sul web. Ci sono cinque stazioni radio di Baghdad. I pazienti hanno bisogno di aiuto. "
+
+Step 305/330
+>> Italian - Czech
+	Vrátil jsem se na střechu a přečetl tuto otázku na webu. Existuje pět rozhlasových stanic v Bagdádu. Pacienti potřebují pomoc. "
+
+Step 306/330
+>> Czech - Spanish
+	Regresé al techo y leí la pregunta en la web. Hay cinco estaciones de radio en Bagdad. Los pacientes necesitan ayuda. "
+
+Step 307/330
+>> Spanish - Slovenian
+	Vrnil sem se do stropa in v spletu prebral vprašanje. V Bagdadu je pet radijskih postaj. Bolniki potrebujejo pomoč. "
+
+Step 308/330
+>> Slovenian - French
+	Je suis retourné au plafond et j'ai lu la question en ligne. Il y a cinq stations de radio à Bagdad. Les patients ont besoin d'aide. "
+
+Step 309/330
+>> French - Korean
+	나는 천장으로 돌아가서 온라인으로 질문을 읽었습니다. 바그다드에는 5 개의 라디오 방송국이 있습니다. 환자는 도움이 필요합니다. "
+
+Step 310/330
+>> Korean - Hebrew
+	חזרתי לתקרה וקראתי את השאלה באינטרנט. בבגדאד חמש תחנות רדיו. המטופל זקוק לעזרה. "
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Ech sinn op d'Plafong zréckgaang a liesen d'Fro online. Baghdad huet fënnef Radiosenderen. De Patient brauch Hëllef. "
+
+Step 312/330
+>> Luxembourgish - German
+	Ich ging zurück an die Decke und las die Frage online. Bagdad hat fünf Radiosender. Der Patient braucht Hilfe. "
+
+Step 313/330
+>> German - Japanese
+	私は天井に戻り、オンラインで質問を読みました。バグダッドには5つのラジオ局があります。患者は助けが必要です。 "
+
+Step 314/330
+>> Japanese - German
+	Ich ging zurück an die Decke und las die Frage online. Bagdad hat 5 Radiosender. Der Patient braucht Hilfe. "
+
+Step 315/330
+>> German - Dutch
+	Ik ging terug naar het plafond en las de vraag online. Bagdad heeft 5 radiostations. De patiënt heeft hulp nodig. "
+
+Step 316/330
+>> Dutch - Maori
+	I hoki ahau ki te tuanui me te panui i te patai i te ipurangi. Baghdad e 5 ngaihana irirangi. Me awhina te manawanui. "
+
+Step 317/330
+>> Maori - Finnish
+	Menin takaisin kattoon ja luin kysymyksen verkossa. Bagdadilla on 5 radioasemaa. Potilas tarvitsee apua. "
+
+Step 318/330
+>> Finnish - English
+	I went back to the ceiling and read the question online. Baghdad has 5 radio stations. The patient needs help. "
+
+Step 319/330
+>> English - Danish
+	Jeg gik tilbage til loftet og læste spørgsmålet online. Bagdad har 5 radiostationer. Patienten har brug for hjælp. "
+
+Step 320/330
+>> Danish - Dutch
+	Ik ging terug naar de zolder en las de vraag online. Bagdad heeft 5 radiostations. De patiënt heeft hulp nodig. "
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	我回到閣樓，在線閱讀問題。巴格達有5個廣播電台。病人需要幫助。 “
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Jag gick tillbaka till vinden och läste frågorna online. Det finns 5 radiostationer i Bagdad. Patienten behöver hjälp. "
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	我回到閣樓，在線閱讀問題。巴格達有5個廣播電台。病人需要幫助。 “
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Ég fór aftur á háaloftið og las spurningarnar á netinu. Það eru 5 útvarpsstöðvar í Bagdad. Sjúklingurinn þarf hjálp. "
+
+Step 325/330
+>> Icelandic - German
+	Ich ging zurück auf den Dachboden und las die Fragen online. Es gibt 5 Radiosender in Bagdad. Der Patient braucht Hilfe. "
+
+Step 326/330
+>> German - Irish
+	Chuaigh mé ar ais chuig an lochta agus léigh mé na ceisteanna ar líne. Tá 5 stáisiún raidió i Bagdad. Teastaíonn cabhair ón othar. "
+
+Step 327/330
+>> Irish - English
+	I went back to the loft and I read the questions online. There are 5 radio stations in Baghdad. The patient needs help. "
+
+Step 328/330
+>> English - German
+	Ich ging zurück zum Loft und las die Fragen online. Es gibt 5 Radiosender in Bagdad. Der Patient braucht Hilfe. "
+
+Step 329/330
+>> German - Norwegian
+	Jeg gikk tilbake til loftet og leste spørsmålene på nettet. Det er 5 radiostasjoner i Bagdad. Pasienten trenger hjelp. "
+
+Step 330/330
+>> Norwegian - Portuguese
+	Voltei ao sótão e li as perguntas on-line. Existem 5 estações de rádio em Bagdá. O paciente precisa de ajuda. "
+
+
+##### RESULTS ######
+
+Aniquilado pela dor, perseguido pela sorte adversa, recorri a um estratagema, o único meio que me restava para conservar a vida. Raspei a barba e as sobrancelhas; e, tomando o hábito de calandar, sai da cidade sem que me reconhecessem. Depois, fácil me foi afastar-me do reino de meu tio, por caminhos isolados. Evitei passar pelas cidades, até que, chegando ao império do poderoso comendador dos crentes (11), o glorioso e famoso califa Harun al-Rachid, deixei de ter medo. Resolvi, então, vir a Bagdá lançar-me aos pés do grande monarca, cuja generosidade todos elogiam. “Comovê-lo-ei, disse entre mim, contando-lhe a minha surpreendente história; ele terá piedade, sem dúvida, dum infeliz príncipe, e eu não implorarei em vão o seu auxílio.”
+
+Voltei ao sótão e li as perguntas on-line. Existem 5 estações de rádio em Bagdá. O paciente precisa de ajuda. "

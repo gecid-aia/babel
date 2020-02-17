@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Chahriar, curioso por saber o desenlace daquela história, mais uma vez prolongou a vida de Cheherazade.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Chahriar, som var nysgjerrig på å vite resultatet av den historien, forlenget igjen Cheherazades liv.
+
+Step 2/330
+>> Norwegian - German
+	Chahriar, neugierig auf das Ergebnis dieser Geschichte, verlängerte das Leben von Cheherazade erneut.
+
+Step 3/330
+>> German - English
+	Chahriar, curious about the outcome of this story, renewed the life of Cheherazade again.
+
+Step 4/330
+>> English - Irish
+	Rinne Chahriar, aisteach faoi thoradh an scéil seo, saol Cheherazade a athnuachan arís.
+
+Step 5/330
+>> Irish - German
+	Chahriar, neugierig auf das Ergebnis dieser Geschichte, erneuerte Cheherazades Leben erneut.
+
+Step 6/330
+>> German - Icelandic
+	Chahriar, forvitinn um niðurstöðu þessarar sögu, endurnýjaði líf Cheherazade á ný.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Chahriar對這個故事的結果感到好奇，再次重振了Cheherazade的生活。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Chahriar var nyfiken på resultaten från denna berättelse och återupplivade Cheherazades liv.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Chahriar對這個故事的結果感到好奇，並恢復了Cheherazade的生活。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Chahriar was nieuwsgierig naar de resultaten van dit verhaal en herstelde het leven van Cheherazade.
+
+Step 11/330
+>> Dutch - Danish
+	Chahriar var nysgerrig efter resultaterne af denne historie og gendannede Cheherazades liv.
+
+Step 12/330
+>> Danish - English
+	Chahriar was curious about the results of this story and restored Cheherazade's life.
+
+Step 13/330
+>> English - Finnish
+	Chahriar oli utelias tämän tarinan tuloksista ja palautti Cheherazaden elämän.
+
+Step 14/330
+>> Finnish - Maori
+	I maere a Chahriar mo nga hua o tenei korero ka whakahoki mai a Cheherazade ia ia.
+
+Step 15/330
+>> Maori - Dutch
+	Chahriar was verrast door de resultaten van deze verklaring toen Cheherazade hem terugbracht.
+
+Step 16/330
+>> Dutch - German
+	Chahriar war von den Ergebnissen dieser Aussage überrascht, als Cheherazade ihn zurückbrachte.
+
+Step 17/330
+>> German - Japanese
+	チェリアザードが彼を連れ戻したとき、シャリアーはこの声明の結果に驚いた。
+
+Step 18/330
+>> Japanese - German
+	Als Celiazard ihn zurückbrachte, war Shariar von den Ergebnissen dieser Aussage überrascht.
+
+Step 19/330
+>> German - Luxembourgish
+	Wéi de Celiazard hien zréck bruecht huet, war de Shariar iwwerrascht iwwer d'Resultater vun där Ausso.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כשסליארד החזיר אותו, שריאר הופתע מתוצאות ההצהרה ההיא.
+
+Step 21/330
+>> Hebrew - Korean
+	Sliard가 그를 데려왔을 때 시어러는 그 진술의 결과에 놀랐습니다.
+
+Step 22/330
+>> Korean - French
+	Lorsque Sliard l'a amené, Shearer a été surpris de l'issue de la déclaration.
+
+Step 23/330
+>> French - Slovenian
+	Ko ga je pripeljal Sliard, je bil Shearer presenečen nad izidom izjave.
+
+Step 24/330
+>> Slovenian - Spanish
+	Cuando Sliard lo trajo, Shearer se sorprendió por el resultado de la declaración.
+
+Step 25/330
+>> Spanish - Czech
+	Když to Sliard přinesl, byl Shearer překvapen výsledkem prohlášení.
+
+Step 26/330
+>> Czech - Italian
+	Quando Sliard l'ha portato, Shearer è rimasto sorpreso dal risultato della dichiarazione.
+
+Step 27/330
+>> Italian - Maltese
+	Meta Sliard ħaduh, Shearer kien sorpriż bir-riżultat tad-dikjarazzjoni.
+
+Step 28/330
+>> Maltese - Estonian
+	Kui Sliard võeti, Shearer üllatas tulemus avaldusega.
+
+Step 29/330
+>> Estonian - Greek
+	Όταν ο Sliard τραβήχτηκε, ο Shearer εξέπληξε τη δήλωση του αποτελέσματος.
+
+Step 30/330
+>> Greek - Turkish
+	Sliard çekildiğinde, Shearer sonuç ifadesini şaşırttı.
+
+Step 31/330
+>> Turkish - Polish
+	Kiedy Sliard wycofał się, Shearer zaskoczył jego wniosek.
+
+Step 32/330
+>> Polish - Arabic
+	عندما انسحب سيلارد ، فاجأ شيرر طلبه.
+
+Step 33/330
+>> Arabic - Catalan
+	Quan Sillard es va retirar, Shearer va sorprendre la seva petició.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Kai Sillard pasitraukė, Shearer nustebino savo prašymą.
+
+Step 35/330
+>> Lithuanian - Arabic
+	عندما انسحب سيلارد ، فوجئ شيرر بطلبه.
+
+Step 36/330
+>> Arabic - Slovak
+	Keď sa Sillard stiahol, Shearer bol jeho žiadosť prekvapený.
+
+Step 37/330
+>> Slovak - Malay
+	Apabila Sillard menarik diri, Shearer terkejut dengan permintaannya.
+
+Step 38/330
+>> Malay - Arabic
+	عندما انسحب سيلارد ، صدمت شيرر بناء على طلبه.
+
+Step 39/330
+>> Arabic - Latvian
+	Kad Sillards izstājās, Shearer pēc viņa lūguma bija satriekts.
+
+Step 40/330
+>> Latvian - Portuguese
+	Quando Sillard saiu, Shearer ficou chocado com seu pedido.
+
+Step 41/330
+>> Portuguese - Arabic
+	عندما غادر سيلارد ، صدم شيرر من طلبه.
+
+Step 42/330
+>> Arabic - Spanish
+	Cuando Sillard se fue, Shearer se sorprendió por su pedido.
+
+Step 43/330
+>> Spanish - Hungarian
+	Amikor Sillard távozott, Shearer meglepte kérését.
+
+Step 44/330
+>> Hungarian - Croatian
+	Kad je Sillard otišao, Shearer je bio iznenađen njegovim zahtjevom.
+
+Step 45/330
+>> Croatian - Spanish
+	Cuando Sillard se fue, Shearer se sorprendió de su pedido.
+
+Step 46/330
+>> Spanish - Arabic
+	عندما غادر سيلارد ، فوجئ شيرر بطلبه.
+
+Step 47/330
+>> Arabic - Russian
+	Когда Силлард ушел, Ширер был удивлен его просьбой.
+
+Step 48/330
+>> Russian - Albanian
+	Kur Sillard u largua, Shearer u befasua me kërkesën e tij.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Когато Силард си тръгна, Шиърър беше изненадан от молбата му.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Când Sillard a plecat, Shearer a fost surprins de cererea sa.
+
+Step 51/330
+>> Romanian - Russian
+	Когда Силлард ушел, Ширер был удивлен его просьбой.
+
+Step 52/330
+>> Russian - English
+	When Sillard left, Shearer was surprised at his request.
+
+Step 53/330
+>> English - Spanish
+	Cuando Sillard se fue, Shearer se sorprendió de su pedido.
+
+Step 54/330
+>> Spanish - Arabic
+	عندما غادر سيلارد ، فوجئ شيرر بطلبه.
+
+Step 55/330
+>> Arabic - Malay
+	Apabila Sillard pergi, Shearer terkejut dengan permintaannya.
+
+Step 56/330
+>> Malay - English
+	When Sillard left, Shearer was surprised at his request.
+
+Step 57/330
+>> English - Kazakh
+	Силлард кеткенде, Шерер оның өтінішіне таң қалды.
+
+Step 58/330
+>> Kazakh - Persian
+	وقتی سیلارد رفت ، شفر از درخواست او شگفت زده شد.
+
+Step 59/330
+>> Persian - English
+	When Sillard left, Schaefer was surprised at his request.
+
+Step 60/330
+>> English - French
+	Quand Sillard est parti, Schaefer a été surpris de sa demande.
+
+Step 61/330
+>> French - Spanish
+	Cuando Sillard se fue, Schaefer se sorprendió por su pedido.
+
+Step 62/330
+>> Spanish - Turkish
+	Sillard ayrıldığında, Schaefer isteğine şaşırdı.
+
+Step 63/330
+>> Turkish - English
+	When Sillard left, Schaefer was surprised at his request.
+
+Step 64/330
+>> English - Spanish
+	Cuando Sillard se fue, Schaefer se sorprendió de su pedido.
+
+Step 65/330
+>> Spanish - Serbian
+	Кад је Силлард отишао, Сцхаефер је био изненађен његовим захтевом.
+
+Step 66/330
+>> Serbian - Albanian
+	Kur Sillard u largua, Schaefer u befasua me kërkesën e tij.
+
+Step 67/330
+>> Albanian - English
+	When Sillard left, Schaefer was surprised at his request.
+
+Step 68/330
+>> English - Georgian
+	როდესაც სიილარდი წავიდა, შეფერმა გააკვირვა მისი თხოვნა.
+
+Step 69/330
+>> Georgian - English
+	When Sillard left, Scheffer surprised her request.
+
+Step 70/330
+>> English - Spanish
+	Cuando Sillard se fue, Scheffer sorprendió su pedido.
+
+Step 71/330
+>> Spanish - English
+	When Sillard left, Scheffer surprised his request.
+
+Step 72/330
+>> English - Sinhala
+	සිලාර්ඩ් පිටත්ව යන විට ෂෙෆර් ඔහුගේ ඉල්ලීම පුදුමයට පත් කළේය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Kad je Zillard otišao, Schaeffer se iznenadio njegovom zahtjevu.
+
+Step 74/330
+>> Bosnian - Spanish
+	Cuando Zillard se fue, Schaeffer se sorprendió de su pedido.
+
+Step 75/330
+>> Spanish - Portuguese
+	Quando Zillard saiu, Schaeffer ficou surpreso com seu pedido.
+
+Step 76/330
+>> Portuguese - Arabic
+	عندما غادر زيلارد ، فوجئ شيفر بطلبه.
+
+Step 77/330
+>> Arabic - Macedonian
+	Кога замина Зилард, Шафер беше изненаден од неговото барање.
+
+Step 78/330
+>> Macedonian - Armenian
+	Երբ Զիլարդը հեռացավ, Շեֆերը զարմացավ նրա խնդրանքից:
+
+Step 79/330
+>> Armenian - Thai
+	เมื่อ Gillard จากไป Schaefer รู้สึกประหลาดใจกับคำขอของเขา
+
+Step 80/330
+>> Thai - Arabic
+	عندما غادر جيلارد ، فوجئ شيفر بطلبه.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	当吉拉德离开时，舍费尔对他的请求感到惊讶。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Cuando Gillard se fue, Schaefer se sorprendió por su pedido.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Коли Гіллард пішов, Шефер був здивований його проханням.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Cuando Gillard se fue, Schaefer se sorprendió de su pedido.
+
+Step 85/330
+>> Spanish - English
+	When Gillard left, Schaefer was surprised at his request.
+
+Step 86/330
+>> English - Mongolian
+	Гиллард явахдаа Шхэфер түүний хүсэлтэд ихэд гайхав.
+
+Step 87/330
+>> Mongolian - Spanish
+	Shillefer fue a Gillard para su sorpresa.
+
+Step 88/330
+>> Spanish - Arabic
+	ذهب شيليفر إلى جيلارد لدهشته.
+
+Step 89/330
+>> Arabic - Kurdish
+	Schilliver bi şaşwaziya xwe re çû cem Gillard.
+
+Step 90/330
+>> Kurdish - English
+	Schilliver went to Gillard with surprise.
+
+Step 91/330
+>> English - Dutch
+	Schilliver ging verrast naar Gillard.
+
+Step 92/330
+>> Dutch - English
+	Schilliver went to Gillard in surprise.
+
+Step 93/330
+>> English - Samoan
+	Sa alu Schilliver i Gillard i le faateia.
+
+Step 94/330
+>> Samoan - Uzbek
+	Schilliver kutilmaganda Gillardga bordi.
+
+Step 95/330
+>> Uzbek - English
+	Schilliver suddenly went to Gillard.
+
+Step 96/330
+>> English - Arabic
+	ذهب شيليفر فجأة إلى جيلارد.
+
+Step 97/330
+>> Arabic - French
+	Schilliver est soudainement allé à Gillard.
+
+Step 98/330
+>> French - Spanish
+	Schilliver de repente fue a ver a Gillard.
+
+Step 99/330
+>> Spanish - Romanian
+	Schilliver se duse brusc să-l vadă pe Gillard.
+
+Step 100/330
+>> Romanian - Filipino
+	Biglang napunta si Schilliver upang makita si Gillard.
+
+Step 101/330
+>> Filipino - Zulu
+	Ngokungazelelwe uSchilliver wahamba wayobona uGillard.
+
+Step 102/330
+>> Zulu - Arabic
+	فجأة ذهب شيليفر لرؤية جيلارد.
+
+Step 103/330
+>> Arabic - Indonesian
+	Tiba-tiba Shiliver pergi menemui Gillard.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Đột nhiên, Shiliver đến gặp Gillard.
+
+Step 105/330
+>> Vietnamese - Spanish
+	De repente, Shiliver llegó a Gillard.
+
+Step 106/330
+>> Spanish - Arabic
+	فجأة ، وصل شيليفر في جيلارد.
+
+Step 107/330
+>> Arabic - Spanish
+	De repente, Schilliver llegó a Gillard.
+
+Step 108/330
+>> Spanish - Russian
+	Внезапно Шилливер прибыл в Гиллард.
+
+Step 109/330
+>> Russian - Arabic
+	فجأة ، وصل شيليفر إلى جيلارد.
+
+Step 110/330
+>> Arabic - Spanish
+	De repente, Shilliver llegó a Gillard.
+
+Step 111/330
+>> Spanish - Portuguese
+	De repente, Shilliver chegou a Gillard.
+
+Step 112/330
+>> Portuguese - English
+	Suddenly Shilliver came to Gillard.
+
+Step 113/330
+>> English - Spanish
+	De repente, Shilliver llegó a Gillard.
+
+Step 114/330
+>> Spanish - English
+	Suddenly, Shilliver arrived in Gillard.
+
+Step 115/330
+>> English - Hindi
+	अचानक, शिलिवर गिलार्ड में आ गया।
+
+Step 116/330
+>> Hindi - Portuguese
+	De repente, Shiliver chega a Gillard.
+
+Step 117/330
+>> Portuguese - Spanish
+	De repente, Shiliver llega a Gillard.
+
+Step 118/330
+>> Spanish - English
+	Suddenly, Shiliver arrives at Gillard.
+
+Step 119/330
+>> English - Bengali
+	হঠাৎ শিলিভার গিলার্ডে পৌঁছে গেল।
+
+Step 120/330
+>> Bengali - French
+	Soudain, Schliever atteignit Gillard.
+
+Step 121/330
+>> French - lao
+	ທັນທີທັນໃດ, Schliever ໄປຮອດ Gillard.
+
+Step 122/330
+>> lao - English
+	Suddenly, Schliever reaches Gillard.
+
+Step 123/330
+>> English - Portuguese
+	De repente, Schliever chega a Gillard.
+
+Step 124/330
+>> Portuguese - English
+	Suddenly Schliever arrives at Gillard.
+
+Step 125/330
+>> English - Portuguese
+	De repente, Schliever chega a Gillard.
+
+Step 126/330
+>> Portuguese - English
+	Suddenly Schliever arrives at Gillard.
+
+Step 127/330
+>> English - Portuguese
+	De repente, Schliever chega a Gillard.
+
+Step 128/330
+>> Portuguese - Burmese
+	ရုတ်တရက် Schliever ဂေးလဒ်ရောက်ရှိ။
+
+Step 129/330
+>> Burmese - Nepali
+	अचानक Schliever Gillard आएको।
+
+Step 130/330
+>> Nepali - Urdu
+	اچانک شیلیور گیلارڈ آگیا۔
+
+Step 131/330
+>> Urdu - French
+	Soudain, Shaliver Gaillard arrive.
+
+Step 132/330
+>> French - English
+	Suddenly, Shaliver Gaillard arrives.
+
+Step 133/330
+>> English - Swahili
+	Ghafla, Shaliver Gaillard anawasili.
+
+Step 134/330
+>> Swahili - Arabic
+	فجأة ، يصل شاليفر جيلارد.
+
+Step 135/330
+>> Arabic - Shona
+	Kamwe kamwe, Sullivar Gillard anosvika.
+
+Step 136/330
+>> Shona - Hausa
+	Nan da nan, Sullivar Gillard ya sauka.
+
+Step 137/330
+>> Hausa - Swahili
+	Ghafla, Sullivar Gillard alifika.
+
+Step 138/330
+>> Swahili - English
+	Suddenly, Sullivar Gillard arrived.
+
+Step 139/330
+>> English - Arabic
+	فجأة ، وصل سوليفار جيلارد.
+
+Step 140/330
+>> Arabic - Malagasy
+	Tampoka teo dia tonga i Sullivar Gillard.
+
+Step 141/330
+>> Malagasy - Swahili
+	Ghafla Sullivar Gillard alifika.
+
+Step 142/330
+>> Swahili - French
+	Sullivar Gillard arriva soudainement.
+
+Step 143/330
+>> French - Arabic
+	وصل سوليفار جيلارد فجأة.
+
+Step 144/330
+>> Arabic - French
+	Sullivar Gillard est arrivé tout à coup.
+
+Step 145/330
+>> French - Arabic
+	وصل سوليفار جيلارد فجأة.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Sullivar Gillard toudenkou te rive.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	سلیور ګیلارډ ناڅاپه راغی.
+
+Step 148/330
+>> Pashto - French
+	Sliver Gaillard est soudainement arrivé.
+
+Step 149/330
+>> French - Chichewa
+	Sliver Gaillard wafika mwadzidzidzi.
+
+Step 150/330
+>> Chichewa - Arabic
+	وصل الشظية جيلارد فجأة.
+
+Step 151/330
+>> Arabic - Amharic
+	ስሊቨር ጊልርድድ ድንገት ደረሰ ፡፡
+
+Step 152/330
+>> Amharic - English
+	Sylvester Gillard arrived suddenly.
+
+Step 153/330
+>> English - French
+	Sylvester Gillard est arrivé soudainement.
+
+Step 154/330
+>> French - Swahili
+	Sylvester Gillard alifika ghafla.
+
+Step 155/330
+>> Swahili - Portuguese
+	Sylvester Gillard chegou abruptamente.
+
+Step 156/330
+>> Portuguese - Arabic
+	وصل سيلفستر جيلارد فجأة.
+
+Step 157/330
+>> Arabic - Portuguese
+	Sylvester Gillard chegou de repente.
+
+Step 158/330
+>> Portuguese - English
+	Sylvester Gillard arrived suddenly.
+
+Step 159/330
+>> English - French
+	Sylvester Gillard est arrivé soudainement.
+
+Step 160/330
+>> French - English
+	Sylvester Gillard arrived suddenly.
+
+Step 161/330
+>> English - Swahili
+	Sylvester Gillard alifika ghafla.
+
+Step 162/330
+>> Swahili - Arabic
+	وصل سيلفستر جيلارد فجأة.
+
+Step 163/330
+>> Arabic - Arabic
+	Sylvester Gillard suddenly arrived.
+
+Step 164/330
+>> Arabic - French
+	Sylvester Gillard est arrivé tout à coup.
+
+Step 165/330
+>> French - Hausa
+	Ba zato ba tsammani Sylvester Gillard ya iso.
+
+Step 166/330
+>> Hausa - French
+	Soudain, Sylvester Gillard arrive.
+
+Step 167/330
+>> French - Arabic
+	Suddenly, Sylvester Gillard arrives.
+
+Step 168/330
+>> Arabic - Arabic
+	فجأة ، وصل سيلفستر جيلارد.
+
+Step 169/330
+>> Arabic - Swahili
+	Ghafla, Sylvester Gillard alifika.
+
+Step 170/330
+>> Swahili - English
+	Suddenly, Sylvester Gillard arrived.
+
+Step 171/330
+>> English - French
+	Sylvester Gillard arriva soudainement.
+
+Step 172/330
+>> French - English
+	Sylvester Gillard arrived suddenly.
+
+Step 173/330
+>> English - Portuguese
+	Sylvester Gillard chegou de repente.
+
+Step 174/330
+>> Portuguese - Arabic
+	وصل سيلفستر جيلارد فجأة.
+
+Step 175/330
+>> Arabic - Portuguese
+	Sylvester Gillard chegou de repente.
+
+Step 176/330
+>> Portuguese - Swahili
+	Sylvester Gillard alifika ghafla.
+
+Step 177/330
+>> Swahili - French
+	Sylvester Gillard est arrivé brusquement.
+
+Step 178/330
+>> French - English
+	Sylvester Gillard arrived abruptly.
+
+Step 179/330
+>> English - Amharic
+	ሲልsterስተር ጊልላርድ ድንገት ደረሱ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	وصل ستيريت جيلارد فجأة.
+
+Step 181/330
+>> Arabic - Chichewa
+	Street Gillard mwadzidzidzi adafika.
+
+Step 182/330
+>> Chichewa - French
+	Gillard Street est arrivé tout à coup.
+
+Step 183/330
+>> French - Pashto
+	ګیلارډ کوڅه ناڅاپه راغله.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Gaillard lari toudenkou te vin.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	جاء شارع جيلارد فجأة.
+
+Step 186/330
+>> Arabic - French
+	Gillard Street est venu soudainement.
+
+Step 187/330
+>> French - Arabic
+	جاء جيلارد ستريت فجأة.
+
+Step 188/330
+>> Arabic - French
+	Gillard Street est venu soudainement.
+
+Step 189/330
+>> French - Swahili
+	Barabara ya Gillard ilikuja ghafla.
+
+Step 190/330
+>> Swahili - Malagasy
+	Tonga tampoka teo ny lalan'i Gillard.
+
+Step 191/330
+>> Malagasy - Arabic
+	جاء طريق جيلارد إلى نهاية مفاجئة.
+
+Step 192/330
+>> Arabic - English
+	Gillard's path came to an abrupt end.
+
+Step 193/330
+>> English - Swahili
+	Njia ya Gillard ilikamilika ghafla.
+
+Step 194/330
+>> Swahili - Hausa
+	Hanyar Gillard ta cika da sauri.
+
+Step 195/330
+>> Hausa - Shona
+	Nzira yaGillard yakakurumidza kuzadzwa.
+
+Step 196/330
+>> Shona - Arabic
+	سرعان ما امتلأ طريق جيلارد.
+
+Step 197/330
+>> Arabic - Swahili
+	Mara barabara ya Gillard ilijazwa.
+
+Step 198/330
+>> Swahili - English
+	Once Gillard's road was filled.
+
+Step 199/330
+>> English - French
+	Une fois que la route de Gillard était remplie.
+
+Step 200/330
+>> French - Urdu
+	ایک بار گیلارڈ روڈ بھر گیا۔
+
+Step 201/330
+>> Urdu - Nepali
+	एक पटक गिलार्ड रोड भरियो।
+
+Step 202/330
+>> Nepali - Burmese
+	ပြီးတာနဲ့ဂေးလဒ်လမ်းမကြီးနှင့်ပြည့်၏။
+
+Step 203/330
+>> Burmese - Portuguese
+	Uma vez preenchido com Gillard Road.
+
+Step 204/330
+>> Portuguese - English
+	Once filled with Gillard Road.
+
+Step 205/330
+>> English - Portuguese
+	Depois de preenchido com a Gillard Road.
+
+Step 206/330
+>> Portuguese - English
+	Once filled with Gillard Road.
+
+Step 207/330
+>> English - Portuguese
+	Depois de preenchido com a Gillard Road.
+
+Step 208/330
+>> Portuguese - English
+	Once filled with Gillard Road.
+
+Step 209/330
+>> English - lao
+	ເມື່ອເຕັມໄປດ້ວຍຖະ ໜົນ Gillard.
+
+Step 210/330
+>> lao - French
+	Lorsque plein sur Gillard Street.
+
+Step 211/330
+>> French - Bengali
+	যখন গিলার্ড স্ট্রিটে পূর্ণ।
+
+Step 212/330
+>> Bengali - English
+	When full on Gillard Street.
+
+Step 213/330
+>> English - Spanish
+	Cuando está lleno en la calle Gillard.
+
+Step 214/330
+>> Spanish - Portuguese
+	Quando está cheio na Gillard Street.
+
+Step 215/330
+>> Portuguese - Hindi
+	जब यह गिलार्ड स्ट्रीट पर भरा हुआ है।
+
+Step 216/330
+>> Hindi - English
+	When it is full on Gillard Street.
+
+Step 217/330
+>> English - Spanish
+	Cuando está lleno en la calle Gillard.
+
+Step 218/330
+>> Spanish - English
+	When it's full on Gillard Street.
+
+Step 219/330
+>> English - Portuguese
+	Quando está cheio na Gillard Street.
+
+Step 220/330
+>> Portuguese - Spanish
+	Cuando está lleno en la calle Gillard.
+
+Step 221/330
+>> Spanish - Arabic
+	عندما تكون ممتلئة في شارع جيلارد.
+
+Step 222/330
+>> Arabic - Russian
+	Когда они полны на улице Гиллард.
+
+Step 223/330
+>> Russian - Spanish
+	Cuando están llenos en la calle Gillard.
+
+Step 224/330
+>> Spanish - Arabic
+	عندما تكون ممتلئة في شارع جيلارد.
+
+Step 225/330
+>> Arabic - Spanish
+	Cuando están llenos en la calle Gillard.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Khi họ có mặt đầy đủ trên phố Gillard.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Ketika mereka sepenuhnya hadir di Gillard Street.
+
+Step 228/330
+>> Indonesian - Arabic
+	عندما كانوا حاضرين بشكل كامل في شارع جيلارد.
+
+Step 229/330
+>> Arabic - Zulu
+	Lapho babekhona ngokugcwele eGillard Street.
+
+Step 230/330
+>> Zulu - Filipino
+	Doon sila ganap na matatagpuan sa Gillard Street.
+
+Step 231/330
+>> Filipino - Romanian
+	Acolo sunt amplasate complet pe strada Gillard.
+
+Step 232/330
+>> Romanian - Spanish
+	Están completamente ubicados en la calle Gillard.
+
+Step 233/330
+>> Spanish - French
+	Ils sont complètement situés sur Gillard Street.
+
+Step 234/330
+>> French - Arabic
+	تقع بالكامل في شارع جيلارد.
+
+Step 235/330
+>> Arabic - English
+	Located entirely on Gillard Street.
+
+Step 236/330
+>> English - Uzbek
+	To'liq Gillard ko'chasida joylashgan.
+
+Step 237/330
+>> Uzbek - Samoan
+	Faʻatoʻa faʻapitoa i le Gillard Street.
+
+Step 238/330
+>> Samoan - English
+	Completely located on Gillard Street.
+
+Step 239/330
+>> English - Dutch
+	Volledig gelegen aan Gillard Street.
+
+Step 240/330
+>> Dutch - English
+	Fully located on Gillard Street.
+
+Step 241/330
+>> English - Kurdish
+	Bi tevahî li Kolana Gillard bicîh bûne.
+
+Step 242/330
+>> Kurdish - Arabic
+	استيعابها بالكامل في شارع جيلارد.
+
+Step 243/330
+>> Arabic - Spanish
+	Absorto en la calle Gillard.
+
+Step 244/330
+>> Spanish - Mongolian
+	Гиллард гудамжинд шингэсэн.
+
+Step 245/330
+>> Mongolian - English
+	Gillard Street.
+
+Step 246/330
+>> English - Spanish
+	Calle Gillard.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Гіллард-стріт
+
+Step 248/330
+>> Ukrainian - Spanish
+	Calle Hillard
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	希拉德街
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	شارع هيلارد
+
+Step 251/330
+>> Arabic - Thai
+	ถนนฮิลลาร์ด
+
+Step 252/330
+>> Thai - Armenian
+	Հիլարդ ճանապարհ
+
+Step 253/330
+>> Armenian - Macedonian
+	Патот Хилари
+
+Step 254/330
+>> Macedonian - Arabic
+	طريق هيلاري
+
+Step 255/330
+>> Arabic - Portuguese
+	Hillary Road
+
+Step 256/330
+>> Portuguese - Spanish
+	Camino de Hillary
+
+Step 257/330
+>> Spanish - Bosnian
+	Hillary Road
+
+Step 258/330
+>> Bosnian - Sinhala
+	හිලරි පාර
+
+Step 259/330
+>> Sinhala - English
+	Hillary Road
+
+Step 260/330
+>> English - Spanish
+	Camino de hillary
+
+Step 261/330
+>> Spanish - English
+	Hillary's way
+
+Step 262/330
+>> English - Georgian
+	ჰილარის გზა
+
+Step 263/330
+>> Georgian - English
+	Hillary Road
+
+Step 264/330
+>> English - Albanian
+	Rruga Hillare
+
+Step 265/330
+>> Albanian - Serbian
+	Хилларе Роад
+
+Step 266/330
+>> Serbian - Spanish
+	Camino de Hillare
+
+Step 267/330
+>> Spanish - English
+	Hillare Road
+
+Step 268/330
+>> English - Turkish
+	Hillare Yolu
+
+Step 269/330
+>> Turkish - Spanish
+	Camino de Hillare
+
+Step 270/330
+>> Spanish - French
+	Hillare Road
+
+Step 271/330
+>> French - English
+	Hillare Road
+
+Step 272/330
+>> English - Persian
+	جاده هیلار
+
+Step 273/330
+>> Persian - Kazakh
+	Хиллари жолы
+
+Step 274/330
+>> Kazakh - English
+	Hillary road
+
+Step 275/330
+>> English - Malay
+	Jalan bukit
+
+Step 276/330
+>> Malay - Arabic
+	طريق التل
+
+Step 277/330
+>> Arabic - Spanish
+	Camino de la colina
+
+Step 278/330
+>> Spanish - English
+	Hill road
+
+Step 279/330
+>> English - Russian
+	Хилл Роуд
+
+Step 280/330
+>> Russian - Romanian
+	Drumul dealului
+
+Step 281/330
+>> Romanian - Bulgarian
+	Пътят към хълма
+
+Step 282/330
+>> Bulgarian - Albanian
+	Rruga për në kodër
+
+Step 283/330
+>> Albanian - Russian
+	Дорога к холму
+
+Step 284/330
+>> Russian - Arabic
+	الطريق إلى التل
+
+Step 285/330
+>> Arabic - Spanish
+	Camino a la colina
+
+Step 286/330
+>> Spanish - Croatian
+	Put do brda
+
+Step 287/330
+>> Croatian - Hungarian
+	Út a hegyhez
+
+Step 288/330
+>> Hungarian - Spanish
+	Camino a la montaña
+
+Step 289/330
+>> Spanish - Arabic
+	الطريق إلى الجبل
+
+Step 290/330
+>> Arabic - Portuguese
+	Caminho para a montanha
+
+Step 291/330
+>> Portuguese - Latvian
+	Ceļš uz kalnu
+
+Step 292/330
+>> Latvian - Arabic
+	الطريق إلى الجبل
+
+Step 293/330
+>> Arabic - Malay
+	Jalan ke gunung
+
+Step 294/330
+>> Malay - Slovak
+	Cesta na horu
+
+Step 295/330
+>> Slovak - Arabic
+	الطريق إلى الجبل
+
+Step 296/330
+>> Arabic - Lithuanian
+	Kelias į kalną
+
+Step 297/330
+>> Lithuanian - Catalan
+	El camí de pujada
+
+Step 298/330
+>> Catalan - Arabic
+	طريق التسلق
+
+Step 299/330
+>> Arabic - Polish
+	Droga wspinaczkowa
+
+Step 300/330
+>> Polish - Turkish
+	Tırmanma rotası
+
+Step 301/330
+>> Turkish - Greek
+	Αναρρίχηση
+
+Step 302/330
+>> Greek - Estonian
+	Ronimine
+
+Step 303/330
+>> Estonian - Maltese
+	Tluq
+
+Step 304/330
+>> Maltese - Italian
+	salita
+
+Step 305/330
+>> Italian - Czech
+	do kopce
+
+Step 306/330
+>> Czech - Spanish
+	cuesta arriba
+
+Step 307/330
+>> Spanish - Slovenian
+	navkreber
+
+Step 308/330
+>> Slovenian - French
+	en montée
+
+Step 309/330
+>> French - Korean
+	오르막
+
+Step 310/330
+>> Korean - Hebrew
+	עולה
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Rising
+
+Step 312/330
+>> Luxembourgish - German
+	Aufstehen
+
+Step 313/330
+>> German - Japanese
+	立ち上がります
+
+Step 314/330
+>> Japanese - German
+	Steh auf
+
+Step 315/330
+>> German - Dutch
+	Sta op
+
+Step 316/330
+>> Dutch - Maori
+	E kaka a
+
+Step 317/330
+>> Maori - Finnish
+	Otetaan a
+
+Step 318/330
+>> Finnish - English
+	Let's take a
+
+Step 319/330
+>> English - Danish
+	Lad os tage en
+
+Step 320/330
+>> Danish - Dutch
+	Laten we er een nemen
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	我們來看一個
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Låt oss se en
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	我們來看一個
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Við skulum sjá einn
+
+Step 325/330
+>> Icelandic - German
+	Mal sehen
+
+Step 326/330
+>> German - Irish
+	Let's a fheiceáil
+
+Step 327/330
+>> Irish - English
+	Let's see
+
+Step 328/330
+>> English - German
+	Mal sehen
+
+Step 329/330
+>> German - Norwegian
+	La oss se
+
+Step 330/330
+>> Norwegian - Portuguese
+	Vamos ver
+
+
+##### RESULTS ######
+
+Chahriar, curioso por saber o desenlace daquela história, mais uma vez prolongou a vida de Cheherazade.
+
+Vamos ver

@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O carregador, apesar de todo o seu peso, não deixou de admirar a magnificência daquela casa, e a limpeza que por toda parte reinava; mas o que lhe atraiu sobremaneira a atenção foi uma terceira dama que lhe pareceu ainda mais bela que a segunda, e que se encontrava sentada no trono. Ao ver as duas primeiras damas, desceu e foi-lhes ao encontro. O carregador notou logo, pelo respeito que as outras lhe tinham, que devia tratar-se da principal, no que se não enganava. A dama chamava-se Zobeida; a que abrira a porta Safia, e Amina era o nome da que fora comprar as provisões.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Til tross for all sin vekt unnlot portøren ikke å beundre det storslåtte huset og rensligheten som hersket overalt; men det som vakte oppmerksomheten hans mest var en tredje dame som så enda vakrere ut enn den andre, som satt på tronen. Da han så de to første kvinnene, dro han ned for å møte dem. Portieren skjønte snart, av respekt de andre hadde for ham, at det må være rektor, ikke å ta feil. Damen ble kalt Zobeida; den som hadde åpnet Safia-døren, og Amina het navnet hun hadde gått for å kjøpe proviantene.
+
+Step 2/330
+>> Norwegian - German
+	Trotz all seines Gewichts bewunderte der Portier das prächtige Haus und die Sauberkeit, die überall herrschten, nicht. aber was seine Aufmerksamkeit am meisten erregte, war eine dritte Dame, die noch schöner aussah als die andere, die auf dem Thron saß. Als er die ersten beiden Frauen sah, ging er ihnen entgegen. Der Portier erkannte bald aus Respekt, den die anderen ihm entgegenbrachten, dass es der Auftraggeber sein musste, um sich nicht zu irren. Die Dame hieß Zobeida; diejenige, die die Safia-Tür geöffnet hatte, und Amina war der Name, unter dem sie die Vorräte gekauft hatte.
+
+Step 3/330
+>> German - English
+	Despite all his weight, the doorman did not admire the magnificent house and the cleanliness that prevailed everywhere. but what drew his attention the most was a third lady, who looked even prettier than the other sitting on the throne. When he saw the first two women, he went to meet them. The porter soon realized out of respect that the others showed him, that it had to be the client, not to be wrong. The lady's name was Zobeida; the one who had opened the Safia door, and Amina was the name under which she had bought the supplies.
+
+Step 4/330
+>> English - Irish
+	In ainneoin a mheáchain ar fad, níor mheas an fear an doras an teach iontach agus an glaineacht a bhí ann i ngach áit. ach is é an rud ba mhó a tharraing aird air ná an tríú bean, a d'fhéach go fiúntach ar an duine eile a bhí ina shuí ar an gcathaoir. Nuair a chonaic sé an chéad bheirt bhan, chuaigh sé chun bualadh leo. Níor thuig an póirtéir go raibh meas aige ar na daoine eile go raibh sé ar an gcliant, gan a bheith mícheart. Ba é Zobeida ainm na mná; ba é an duine a d'oscail an doras Safia, agus Amina an t-ainm faoina raibh na soláthairtí ceannaithe aici.
+
+Step 5/330
+>> Irish - German
+	Trotz all seines Gewichts betrachtete der Mann die Tür zu dem wunderbaren Haus und die Sauberkeit von überall nicht. aber es war die dritte Frau, die der anderen Person, die auf dem Stuhl saß, einen würdigen Eindruck machte. Als er zum ersten Mal zwei Frauen sah, ging er ihnen entgegen. Der Portier merkte nicht, dass er die anderen respektierte, dass er der Klient war, nicht falsch. Der Name der Frau war Zobeida; Die Person, die die Tür öffnete, war Safia, und Amina war der Name, unter dem sie die Vorräte kaufte.
+
+Step 6/330
+>> German - Icelandic
+	Þrátt fyrir alla þyngd sína horfði maðurinn ekki á dyrnar að yndislegu húsinu og hreinlæti alls staðar. en það var þriðja konan sem setti virðulega svip á hina manneskjuna sem sat í stólnum. Þegar hann sá tvær konur í fyrsta skipti fór hann að hitta þær. Dyravörðinn áttaði sig ekki á því að hann virti hina, að hann væri viðskiptavinurinn, ekki rangur. Konan hét Zobeida; Sá sem opnaði hurðina var Safia og Amina var það nafn sem hún keypti birgðirnar undir.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	儘管他很重，但男人並沒有看到可愛的房子的門和到處都是清潔。但這是第三位女士瞥見坐在椅子上的另一個人。當他第一次看到兩個女人時，他開始遇見她們。門衛沒有意識到他不尊重對方，他是客戶。妻子被命名為Zobeida;打開門的人是薩菲亞，阿米娜是她買下的商店的名字。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Trots att han var tung såg mannen inte dörren till det vackra huset och var ren överallt. Men det här är den tredje kvinnan som såg en annan person sitta i en stol. När han först såg två kvinnor började han träffa dem. Vakten insåg inte att han inte respekterade varandra, han var kund. Hustrun hette Zobeida; personen som öppnade dörren var Safia, och Amina var namnet på butiken som hon köpte.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	雖然他很沉重，但男人卻沒有看到漂亮房子的門，到處都是乾淨的。但這是第三位看到另一個人坐在椅子上的女人。當他第一次看到兩個女人時，他開始遇見她們。警衛沒有意識到他不尊重對方，他是客戶。他妻子的名字是Zobeida;打開門的人是薩菲亞，阿米娜是她買的商店的名字。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Hoewel hij zwaar was, zag de man de deur van het prachtige huis niet en het was overal schoon. Maar dit is de derde vrouw die een andere persoon op een stoel ziet zitten. Toen hij voor het eerst twee vrouwen zag, begon hij ze te ontmoeten. De bewaker besefte niet dat hij elkaar niet respecteerde, hij was een klant. De naam van zijn vrouw is Zobeida; de persoon die de deur opent is Safia en Amina is de naam van de winkel die ze kocht.
+
+Step 11/330
+>> Dutch - Danish
+	Selvom han var tung, så manden ikke døren til det smukke hus, og det var rent overalt. Men dette er den tredje kvinde, der ser en anden person sidde i en stol. Da han første gang så to kvinder, begyndte han at møde dem. Vagten var ikke klar over, at han ikke respekterede hinanden, han var kunde. Hans hustrus navn er Zobeida; personen, der åbner døren, er Safia, og Amina er navnet på den butik, hun købte.
+
+Step 12/330
+>> Danish - English
+	Even though he was heavy, the man did not see the door to the beautiful house and it was clean everywhere. But this is the third woman who sees another person sitting in a chair. When he first saw two women, he began to meet them. The guard did not realize that he did not respect each other, he was a customer. His wife's name is Zobeida; the person who opens the door is Safia and Amina is the name of the store she bought.
+
+Step 13/330
+>> English - Finnish
+	Vaikka mies oli raskaana, hän ei nähnyt kauniin talon ovia ja se oli puhdas kaikkialla. Mutta tämä on kolmas nainen, joka näkee toisen henkilön istuvan tuolilla. Nähdessään kaksi naista hän alkoi tavata heitä. Vartija ei tajunnut, että hän ei kunnioittanut toisiaan, hän oli asiakas. Hänen vaimonsa nimi on Zobeida; henkilö, joka avaa oven, on Safia ja Amina on myymälän nimi, jonka hän on ostanut.
+
+Step 14/330
+>> Finnish - Maori
+	Ahakoa e hapu ana te tangata, kaore i taea e ia te kite atu i nga tatau o te whare ataahua, a he ma ki nga waahi katoa. Engari koinei te tuatoru o nga wahine e kite ana i tetahi atu e noho ana i runga i te nohoanga. I tona kitenga i nga wahine tokorua, ka timata ia te whakatau i a raatau. Kaore te kaitiaki i te mohio kaore i whakaute tetahi ki a raatau, he kaihoko. Ko te ingoa o tana wahine a Zobeida; ko te tangata e puaki ana i nga tatau ko Safia ko Amina te ingoa o te toa i hokona e ia.
+
+Step 15/330
+>> Maori - Dutch
+	Terwijl de man zwanger was, kon hij niet door de deuren van het prachtige huis kijken en was hij overal schoon. Maar dit is de derde vrouw die iemand op een stoel ziet zitten. Toen hij de twee vrouwen zag, begon hij hen te ontmoeten. De curator weet niet dat niemand hen respecteert, zij zijn klanten. De naam van zijn vrouw was Zobeida; degene die de deur opent is Safia en Amina is de naam van de winkel die hij heeft gekocht.
+
+Step 16/330
+>> Dutch - German
+	Während der Mann schwanger war, konnte er nicht durch die Türen des schönen Hauses sehen und war überall sauber. Aber dies ist die dritte Frau, die jemanden auf einem Stuhl sitzen sieht. Als er die beiden Frauen sah, fing er an, sie zu treffen. Der Insolvenzverwalter weiß nicht, dass niemand sie respektiert, sie sind Kunden. Der Name seiner Frau war Zobeida; derjenige, der die Tür öffnet, ist Safia und Amina ist der Name des Geschäfts, das er gekauft hat.
+
+Step 17/330
+>> German - Japanese
+	男は妊娠している間、彼は美しい家のドアを通して見ることができず、どこでもきれいでした。しかし、これは誰かが椅子に座っているのを見る3番目の女性です。二人の女性を見たとき、彼は彼女に会い始めました。清算人は、誰も彼らを尊重していないこと、彼らが顧客であることを知りません。彼の妻の名前はゾベイダでした。ドアを開けたのはサフィアで、アミナは彼が買った店の名前です。
+
+Step 18/330
+>> Japanese - German
+	Während der Mann schwanger war, konnte er nicht durch die schönen Haustüren sehen und war überall schön. Aber dies ist die dritte Frau, die jemanden auf einem Stuhl sitzen sieht. Als er die beiden Frauen sah, fing er an, sie zu treffen. Der Insolvenzverwalter weiß, dass niemand sie respektiert und dass sie Kunden sind. Seine Frau hieß Zovaida. Safia öffnete die Tür und Amina ist der Name des Geschäfts, das er gekauft hat.
+
+Step 19/330
+>> German - Luxembourgish
+	Wärend de Mann schwanger war, konnt hien net duerch déi schéi Virdeeler gesinn a war iwwerall léif. Awer dëst ass déi drëtt Fra, déi een an engem Stull sëtzt. Wéi hien déi zwou Fraen gesinn huet, huet hien ugefaang hir ze treffen. De Liquidateur weess datt kee se respektéiert an datt se Cliente sinn. Seng Fra Numm war Zovaida. Safia huet d'Dier opgemaach an d'Amina ass den Numm vum Geschäft deen hien kaaft huet.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	כשהגבר היה בהריון, הוא לא יכול היה לראות את היתרונות היפים והיה מקסים בכל מקום. אבל זו האישה השלישית שישבה בכיסא. כשראה את שתי הנשים, הוא החל לפגוש אותה. המפרק יודע שאף אחד לא מכבד אותם ושהם לקוחות. שמה של אשתו היה זוביידה. ספיה פתח את הדלת ואמינה היא שם החנות שקנה.
+
+Step 21/330
+>> Hebrew - Korean
+	남자가 임신했을 때, 그는 아름다운 혜택을 볼 수 없었고 어디에서나 매력적이었습니다. 그러나 이것은 의자에 앉아있는 세 번째 여자입니다. 두 여자를보고, 그는 그녀를 만나기 시작했습니다. 청산인은 아무도 그들을 존중하지 않으며 그들이 고객이라는 것을 알고 있습니다. 그의 아내의 이름은 Zubeida였습니다. Safia는 문을 열었고 그가 구입 한 가게의 이름은 신뢰할 만합니다.
+
+Step 22/330
+>> Korean - French
+	Quand l'homme était enceinte, il ne pouvait pas voir les beaux avantages et était attrayant partout. Mais c'est la troisième femme assise sur la chaise. Voyant deux femmes, il a commencé à la rencontrer. Les liquidateurs savent que personne ne les respecte et qu'ils sont des clients. Son épouse s'appelait Zubeida. Safia a ouvert et le nom du magasin qu'il a acheté est digne de confiance.
+
+Step 23/330
+>> French - Slovenian
+	Ko je bil moški noseč, ni mogel videti lepih koristi in je bil povsod privlačen. Toda to je tretja ženska, ki sedi na stolu. Ko je videl dve ženski, jo je začel spoznavati. Likvidatorji vedo, da jih nihče ne spoštuje in da so kupci. Ime njegove žene je bilo Zubeida. Safia se je odprla in ime trgovine, ki jo je kupil, je zaupanja vredna.
+
+Step 24/330
+>> Slovenian - Spanish
+	Cuando un hombre estaba embarazada, no podía ver los bonitos beneficios y era atractivo en todas partes. Pero esta es la tercera mujer sentada en una silla. Cuando vio a las dos mujeres, comenzó a conocerla. Los liquidadores saben que nadie los respeta y que son clientes. El nombre de su esposa era Zubeid. Safia ha abierto y el nombre de la tienda que compró es confiable.
+
+Step 25/330
+>> Spanish - Czech
+	Když byl muž těhotný, neviděl krásné výhody a byl všude atraktivní. Ale tohle je třetí žena sedící na židli. Když viděl obě ženy, začal se s ní setkat. Likvidátoři vědí, že je nikdo nerespektuje a že jsou zákazníky. Její manželka se jmenovala Zubeid. Safia se otevřela a název nakupovaného obchodu je spolehlivý.
+
+Step 26/330
+>> Czech - Italian
+	Quando era incinta, non vedeva bellissimi vantaggi ed era attraente dappertutto. Ma questa è la terza donna seduta su una sedia. Quando vide entrambe le donne, cominciò a incontrarla. I liquidatori sanno che nessuno li rispetta e che sono clienti. Sua moglie si chiamava Zubeid. Safia ha aperto e il nome del negozio è affidabile.
+
+Step 27/330
+>> Italian - Maltese
+	Meta kienet tqila, ma ratx vantaġġi kbar u kienet attraenti kullimkien. Iżda din hija t-tielet mara bilqiegħda fuq siġġu. Meta ra ż-żewġ nisa, hu beda jiltaqa ’magħha. Il-likwidaturi jafu li ħadd ma jirrispettahom u li huma klijenti. Martu kienet tissejjaħ Zubeid. Safia fetħet u l-isem tal-maħżen huwa affidabbli.
+
+Step 28/330
+>> Maltese - Estonian
+	Kui ta oli rase, nägi suuri eeliseid ja atraktiivne oli kõikjal. Aga see on kolmas naine istub toolil. Kui kaks naist nägi, hakkas ta tekib. Likvideerijad tea keegi ja nad kinni kliendid. Tema naine kutsuti Zubeid. Safia avatud ja nimi pood on usaldusväärne.
+
+Step 29/330
+>> Estonian - Greek
+	Όταν ήταν έγκυος, είδε μεγάλα πλεονεκτήματα και ήταν ελκυστικό παντού. Αλλά αυτή είναι η τρίτη γυναίκα που κάθεται σε μια καρέκλα. Όταν οι δύο γυναίκες είδαν, άρχισε να αναδύεται. Οι εκκαθαριστές δεν γνωρίζουν κανέναν και κρατούν τους πελάτες. Η σύζυγός του ονομάστηκε Zubeid. Η Safia άνοιξε και το όνομα του καταστήματος είναι αξιόπιστο.
+
+Step 30/330
+>> Greek - Turkish
+	Hamileyken büyük faydalar gördü ve her yerde çekici geçti. Ama bu sandalyede oturan üçüncü kadın. İki kadın onu gördüğünde, ortaya çıkmaya başladı. Tasfiyeciler kimseyi tanımıyor ve müşterilerini elinde tutuyor. Karısına Zubeid adı verildi. Safia açıldı ve mağaza adı güvenilir.
+
+Step 31/330
+>> Turkish - Polish
+	Odniosła wiele korzyści w czasie ciąży i była przyciągana wszędzie. Ale to trzecia kobieta siedząca na krześle. Kiedy dwie kobiety ją zobaczyły, zaczęła się pojawiać. Likwidatorzy nie znają nikogo i zatrzymują swoich klientów. Jego żona nazywała się Zubeid. Safia otworzyła i zaufała nazwie sklepu.
+
+Step 32/330
+>> Polish - Arabic
+	كان لديها العديد من الفوائد أثناء الحمل وجذبت في كل مكان. لكن هذه هي المرأة الثالثة التي تجلس على كرسي. عندما رأتها امرأتان ، بدأت تظهر. لا يعرف المصفون أحداً ويحافظوا على عملائهم. كان اسم زوجته الزبيد. افتتحت صفية وتثق في اسم المتجر.
+
+Step 33/330
+>> Arabic - Catalan
+	Va tenir molts beneficis durant l’embaràs i va ser atreta a tot arreu. Però aquesta és la tercera dona asseguda en una cadira. Quan dues dones la van veure, va començar a aparèixer. Els liquidadors no coneixen ningú i mantenen els seus clients. El nom de la seva dona era Zabid. Safia es va obrir i va confiar en el nom de la botiga.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Nėštumo metu jis turėjo daug privalumų ir buvo visur traukiamas. Bet tai jau trečioji moteris, sėdinti kėdėje. Kai dvi moterys ją pamatė, ji pradėjo pasirodyti. Likvidatoriai nieko nepažįsta ir saugo savo klientus. Jo žmonos vardas buvo Zabidas. „Safia“ atidarė ir pasitikėjo parduotuvės pavadinimu.
+
+Step 35/330
+>> Lithuanian - Arabic
+	خلال فترة الحمل ، كانت له فوائد عديدة وتم سحبها في كل مكان. لكن هذه هي المرأة الثالثة التي تجلس على كرسي. عندما رأتها المرأتان ، بدأت تظهر. السيولة لا تعرف شيئًا وتحمي عملائها. كان اسم زوجته زبيد. افتتحت صفية وتثق في اسم المتجر.
+
+Step 36/330
+>> Arabic - Slovak
+	Počas tehotenstva to malo veľa výhod a bolo stiahnuté všade. Ale toto je tretia žena, ktorá sedí na stoličke. Keď ju obe ženy videli, začala sa objavovať. Likvidita nič nevie a chráni svojich zákazníkov. Meno jeho manželky bolo Zabid. Safia otvorila názov obchodu a dôverovala mu.
+
+Step 37/330
+>> Slovak - Malay
+	Semasa kehamilan ia mempunyai banyak faedah dan ditarik balik ke mana-mana. Tetapi ini adalah wanita ketiga yang duduk di atas kerusi. Apabila kedua-dua wanita melihatnya, dia mula muncul. Likuiditi tidak tahu apa-apa dan melindungi pelanggannya. Nama isterinya ialah Zabid. Safia membuka nama kedai itu dan mempercayakannya.
+
+Step 38/330
+>> Malay - Arabic
+	خلال فترة الحمل لها فوائد عديدة ويتم سحبها في كل مكان. لكن هذه هي المرأة الثالثة التي تجلس على الكرسي. عندما رأته المرأتان ، بدأوا في الظهور. السيولة لا تعرف شيئًا وتحمي عملائها. كان اسم زوجته زبيد. صفية تفتح اسم المتجر وتثق به.
+
+Step 39/330
+>> Arabic - Latvian
+	Grūtniecības laikā tam ir daudz priekšrocību un tas tiek vilkts visur. Bet šī ir trešā sieviete, kas sēž uz krēsla. Kad abas sievietes viņu ieraudzīja, viņas sāka parādīties. Likviditāte neko nezina un aizsargā klientus. Viņa sievas vārds bija Zabids. Safija atver un uzticas veikala nosaukumam.
+
+Step 40/330
+>> Latvian - Portuguese
+	Tem muitos benefícios durante a gravidez e é arrastado para todo o lado. Mas esta é a terceira mulher sentada em uma cadeira. Quando as duas mulheres a viram, começaram a aparecer. A liquidez não sabe nada e protege os clientes. O nome de sua esposa era Zabid. Sophie abre e confia no nome da loja.
+
+Step 41/330
+>> Portuguese - Arabic
+	له العديد من الفوائد أثناء الحمل ويتم جره في كل مكان. لكن هذه هي المرأة الثالثة التي تجلس على كرسي. عندما رأتها المرأتان ، بدأت تظهر. السيولة لا تعرف شيئًا وتحمي العملاء. كان اسم زوجته زبيد. يفتح صوفي ويثق في اسم المتجر.
+
+Step 42/330
+>> Arabic - Spanish
+	Tiene muchos beneficios durante el embarazo y se arrastra a todas partes. Pero esta es la tercera mujer sentada en una silla. Cuando las dos mujeres la vieron, ella comenzó a aparecer. La liquidez no sabe nada y protege a los clientes. El nombre de su esposa era Zabid. Sophie abre y confía en el nombre de la tienda.
+
+Step 43/330
+>> Spanish - Hungarian
+	A terhesség alatt sok előnnyel jár, és mindenütt kúszik. De ez a harmadik nő ül egy széken. Amikor a két nő meglátta, kezdett megjelenni. A likviditás nem tud semmit, és védi az ügyfeleket. A felesége Zabid volt. Sophie megnyitja és bízza az üzlet nevét.
+
+Step 44/330
+>> Hungarian - Croatian
+	Nudi mnoge blagodati tijekom trudnoće i posvuda se kreše. Ali ova treća žena sjedi u stolici. Kad su ga dvije žene vidjele, počeo se pojavljivati. Likvidnost ne zna ništa i štiti kupce. Njegova supruga bila je Zabid. Sophie se otvara i vjeruje imenu trgovine.
+
+Step 45/330
+>> Croatian - Spanish
+	Ofrece muchos beneficios durante el embarazo y se extiende a todas partes. Pero esta tercera mujer está sentada en una silla. Cuando las dos mujeres lo vieron, comenzó a aparecer. La liquidez no sabe nada y protege a los clientes. Su esposa era Zabid. Sophie abre y cree el nombre de la tienda.
+
+Step 46/330
+>> Spanish - Arabic
+	يقدم العديد من الفوائد أثناء الحمل ويمتد في كل مكان. لكن هذه المرأة الثالثة تجلس على كرسي. عندما رأته المرأتان ، بدأ في الظهور. السيولة لا تعرف شيئًا وتحمي العملاء. كانت زوجته زبيد. يفتح صوفي ويخلق اسم المتجر.
+
+Step 47/330
+>> Arabic - Russian
+	Он предлагает много преимуществ во время беременности и распространяется повсеместно. Но эта третья женщина сидит в кресле. Когда две женщины увидели его, он начал появляться. Ликвидность ничего не знает и защищает клиентов. Его женой был Забид. Софи открывается и создает название магазина.
+
+Step 48/330
+>> Russian - Albanian
+	Ajo ofron shumë përfitime gjatë shtatëzënësisë dhe është i kudondodhur. Por kjo grua e tretë është ulur në një karrige. Kur e panë dy gra, ai filloi të shfaqej. Likuiditeti nuk di asgjë dhe mbron klientët. Gruaja e tij ishte Zabid. Sophie hap dhe krijon emrin e dyqanit.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Той предлага много предимства по време на бременност и е повсеместен. Но тази трета жена седи на стол. Когато две жени го видяха, той започна да се появява. Ликвидността не знае нищо и защитава клиентите. Съпругата му беше Забид. Софи се отваря и създава името на магазина.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Oferă multe beneficii în timpul sarcinii și este omniprezent. Dar această a treia femeie stă pe un scaun. Când l-au văzut două femei, a început să apară. Lichiditatea nu știe nimic și protejează clienții. Soția sa era Zabid. Sophie se deschide și creează numele magazinului.
+
+Step 51/330
+>> Romanian - Russian
+	Он предлагает много преимуществ во время беременности и вездесущ. Но эта третья женщина сидит на стуле. Когда две женщины увидели его, он начал появляться. Ликвидность ничего не знает и защищает клиентов. Его женой был Забид. Софи открывается и создает название магазина.
+
+Step 52/330
+>> Russian - English
+	It offers many benefits during pregnancy and is ubiquitous. But this third woman is sitting on a chair. When two women saw him, he began to appear. Liquidity knows nothing and protects customers. His wife was Zabid. Sophie opens and creates the name of the store.
+
+Step 53/330
+>> English - Spanish
+	Ofrece muchos beneficios durante el embarazo y es ubicuo. Pero esta tercera mujer está sentada en una silla. Cuando dos mujeres lo vieron, comenzó a aparecer. La liquidez no sabe nada y protege a los clientes. Su esposa era Zabid. Sophie abre y crea el nombre de la tienda.
+
+Step 54/330
+>> Spanish - Arabic
+	إنه يوفر العديد من الفوائد أثناء الحمل وهو واسع الانتشار. لكن هذه المرأة الثالثة تجلس على كرسي. عندما رأته امرأتان ، بدأ في الظهور. السيولة لا تعرف شيئًا وتحمي العملاء. كانت زوجته زبيد. يفتح صوفي ويخلق اسم المتجر.
+
+Step 55/330
+>> Arabic - Malay
+	Ia memberi banyak manfaat semasa kehamilan dan meluas. Tetapi wanita ketiga ini duduk di kerusi. Apabila dua wanita melihatnya, dia mula muncul. Kecairan tidak mengetahui apa-apa dan melindungi pelanggan. Isterinya ialah Zabid. Sophie membuka dan mencipta nama kedai.
+
+Step 56/330
+>> Malay - English
+	It provides many benefits during pregnancy and is widespread. But this third lady was sitting in the chair. When two women saw him, they started to appear. Liquidity knows nothing and protects customers. His wife was Zabid. Sophie opens and creates a store name.
+
+Step 57/330
+>> English - Kazakh
+	Ол жүктілік кезінде көптеген артықшылықтар береді және кең таралған. Бірақ бұл үшінші әйел орындықта отырды. Оны көрген екі әйел пайда бола бастады. Өтімділік ештеңе білмейді және клиенттерді қорғайды. Оның әйелі Забид болатын. Софи дүкен атауын ашып, жасайды.
+
+Step 58/330
+>> Kazakh - Persian
+	این فواید زیادی را در دوران بارداری فراهم می کند و بسیار گسترده است. اما این زن سوم روی صندلی نشسته بود. دو زن او را دیدند. نقدینگی چیزی نمی داند و از مشتری محافظت می کند. همسرش زید بود. سوفی نام فروشگاه را باز می کند و آن را ایجاد می کند.
+
+Step 59/330
+>> Persian - English
+	It provides many benefits during pregnancy and is very widespread. But this third woman was sitting on the chair. Two women saw him. Liquidity knows nothing and protects the customer. His wife was Zaid. Sophie opens the store name and creates it.
+
+Step 60/330
+>> English - French
+	Il offre de nombreux avantages pendant la grossesse et est très répandu. Mais cette troisième femme était assise sur la chaise. Deux femmes l'ont vu. La liquidité ne sait rien et protège le client. Sa femme était Zaid. Sophie ouvre le nom du magasin et le crée.
+
+Step 61/330
+>> French - Spanish
+	Ofrece muchos beneficios durante el embarazo y está muy extendido. Pero esta tercera mujer estaba sentada en la silla. Dos mujeres lo vieron. La liquidez no sabe nada y protege al cliente. Su esposa era Zaid. Sophie abre el nombre de la tienda y lo crea.
+
+Step 62/330
+>> Spanish - Turkish
+	Hamilelik sırasında birçok fayda sağlar ve yaygındır. Ama bu üçüncü kadın sandalyede oturuyordu. İki kadın gördü. Likidite hiçbir şey bilmiyor ve müşteriyi koruyor. Karısı Zaid'di. Sophie mağazanın adını açar ve oluşturur.
+
+Step 63/330
+>> Turkish - English
+	It provides many benefits during pregnancy and is common. But this third woman was sitting in the chair. He saw two women. Liquidity knows nothing and protects the customer. His wife was Zaid. Sophie opens and creates the name of the store.
+
+Step 64/330
+>> English - Spanish
+	Proporciona muchos beneficios durante el embarazo y es común. Pero esta tercera mujer estaba sentada en la silla. Vio a dos mujeres. La liquidez no sabe nada y protege al cliente. Su esposa era Zaid. Sophie abre y crea el nombre de la tienda.
+
+Step 65/330
+>> Spanish - Serbian
+	Даје многе предности током трудноће и уобичајена је. Али ова трећа жена је седела у столици. Угледао је две жене. Ликвидност не зна ништа и штити купца. Његова супруга била је Заид. Сопхие се отвара и ствара назив продавнице.
+
+Step 66/330
+>> Serbian - Albanian
+	Ajo jep shumë përfitime gjatë shtatëzënësisë dhe është e zakonshme. Por kjo grua e tretë ishte ulur në një karrige. Ai pa dy gra. Likuiditeti nuk di asgjë dhe mbron konsumatorin. Gruaja e tij ishte Zaid. Sophie hap dhe krijon një emër dyqani.
+
+Step 67/330
+>> Albanian - English
+	It gives many benefits during pregnancy and is common. But this third woman was sitting in a chair. He saw two women. Liquidity knows nothing and protects the consumer. His wife was Zaid. Sophie opens and creates a store name.
+
+Step 68/330
+>> English - Georgian
+	ის ბევრ სარგებელს აძლევს ორსულობის დროს და გავრცელებულია. მაგრამ ეს მესამე ქალი სავარძელში იჯდა. მან დაინახა ორი ქალი. ლიკვიდობამ არაფერი იცის და იცავს მომხმარებელს. მისი ცოლი იყო ზაიდი. სოფო ხსნის და ქმნის მაღაზიის სახელს.
+
+Step 69/330
+>> Georgian - English
+	It has many benefits during pregnancy and is widespread. But this third woman was sitting in a chair. He saw two women. Liquidity knows nothing and protects customers. His wife was Zaid. Sophie opens and creates a store name.
+
+Step 70/330
+>> English - Spanish
+	Tiene muchos beneficios durante el embarazo y está muy extendido. Pero esta tercera mujer estaba sentada en una silla. Vio a dos mujeres. La liquidez no sabe nada y protege a los clientes. Su esposa era Zaid. Sophie abre y crea un nombre de tienda.
+
+Step 71/330
+>> Spanish - English
+	It has many benefits during pregnancy and is widespread. But this third woman was sitting in a chair. He saw two women. Liquidity knows nothing and protects customers. His wife was Zaid. Sophie opens and creates a store name.
+
+Step 72/330
+>> English - Sinhala
+	ගර්භණී සමයේදී එය බොහෝ වාසි ඇති අතර එය බහුලව දක්නට ලැබේ. නමුත් මේ තුන්වන කාන්තාව පුටුවක වාඩි වී සිටියාය. ඔහු කාන්තාවන් දෙදෙනෙකු දුටුවේය. ද්‍රවශීලතාවය කිසිවක් නොදන්නා අතර ගනුදෙනුකරුවන් ආරක්ෂා කරයි. ඔහුගේ බිරිඳ සයිඩ් ය. සොෆී විවෘත කර ගබඩා නාමයක් නිර්මාණය කරයි.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Ima mnoge prednosti tokom trudnoće i česta je. Ali ova treća žena je sedela na stolici. Ugledao je dvije žene. Likvidnost nije poznata i štiti kupce. Njegova žena je Syed. Sophie se otvara i stvara naziv trgovine.
+
+Step 74/330
+>> Bosnian - Spanish
+	Tiene muchos beneficios durante el embarazo y es común. Pero esta tercera mujer estaba sentada en una silla. Vio a dos mujeres. La liquidez es desconocida y protege a los clientes. Su esposa es Syed. Sophie abre y crea un nombre de tienda.
+
+Step 75/330
+>> Spanish - Portuguese
+	Tem muitos benefícios durante a gravidez e é comum. Mas essa terceira mulher estava sentada em uma cadeira. Ele viu duas mulheres. A liquidez é desconhecida e protege os clientes. A esposa dele é Syed. Sophie abre e cria um nome de loja.
+
+Step 76/330
+>> Portuguese - Arabic
+	له العديد من الفوائد أثناء الحمل وهو شائع. لكن هذه المرأة الثالثة كانت تجلس على كرسي. رأى امرأتين. السيولة غير معروفة وتحمي العملاء. زوجته سيد. يفتح صوفي ويخلق اسم المتجر.
+
+Step 77/330
+>> Arabic - Macedonian
+	Има многу придобивки за време на бременоста и е честа појава. Но, оваа трета жена седеше во стол. Тој видел две жени. Ликвидноста е непозната и ги штити клиентите. Неговата сопруга господине. Софи се отвора и го создава името на продавницата.
+
+Step 78/330
+>> Macedonian - Armenian
+	Այն շատ օգուտներ ունի հղիության ընթացքում և տարածված է: Բայց այս երրորդ կինը նստած էր աթոռի մեջ: Նա տեսավ երկու կին: Իրացվելիությունը անհայտ է և պաշտպանում է հաճախորդներին: Նրա կինը սըր: Սոֆին բացում և ստեղծում է խանութի անունը:
+
+Step 79/330
+>> Armenian - Thai
+	มันมีประโยชน์มากมายในระหว่างตั้งครรภ์และเป็นเรื่องธรรมดา แต่ผู้หญิงคนที่สามนี้กำลังนั่งอยู่บนเก้าอี้ เขาเห็นผู้หญิงสองคน สภาพคล่องไม่เป็นที่รู้จักและปกป้องลูกค้า ภรรยาของเขาคือความรัก Sofi เปิดและสร้างชื่อร้านค้า
+
+Step 80/330
+>> Thai - Arabic
+	له العديد من الفوائد أثناء الحمل وهو شائع. لكن هذه المرأة الثالثة كانت تجلس على كرسي رأى امرأتين السيولة غير معروفة وتحمي العملاء. زوجته في حالة حب ، يفتح صوفي ويخلق اسم متجر.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	它在怀孕期间有很多好处，很常见。但这位第三位女士坐在椅子上，看到两名流动性不明的女性，并保护了顾客。他的妻子恋爱了，索菲打开并创造了一个商店名称。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Tiene muchos beneficios durante el embarazo y es muy común. Pero la tercera dama se sentó en una silla y vio a dos mujeres con movilidad poco clara y protegió al cliente. Su esposa está enamorada, Sophie abre y crea un nombre de tienda.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Він має багато переваг під час вагітності і дуже поширений. Але третя леді сіла в крісло і побачила двох жінок з незрозумілою рухливістю і захистила клієнта. Його дружина закохана, Софі відкриває і створює ім’я магазину.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Tiene muchos beneficios durante el embarazo y es muy común. Pero la tercera dama se sentó en una silla y vio a dos mujeres con movilidad incomprensible y protegió al cliente. Su esposa está enamorada, Sophie abre y crea un nombre de tienda.
+
+Step 85/330
+>> Spanish - English
+	It has many benefits during pregnancy and is very common. But the third lady sat in a chair and saw two women with incomprehensible mobility and protected the client. His wife is in love, Sophie opens and creates a store name.
+
+Step 86/330
+>> English - Mongolian
+	Жирэмсний үед олон давуу талтай бөгөөд элбэг тохиолддог. Гэтэл гуравдагч эмэгтэй сандал дээр суугаад үл ойлгогдох хөдөлгөөнтэй хоёр эмэгтэйг хараад үйлчлүүлэгчээ хамгаалав. Эхнэр нь дурласан, Софи дэлгүүрийн нэрийг нээж, бүтээдэг.
+
+Step 87/330
+>> Mongolian - Spanish
+	Existen numerosas ventajas y desventajas durante el embarazo. Pero la tercera mujer vio a dos mujeres que eran incomprensibles en la silla y defendió a su cliente. Su esposa ama y abre el nombre de la tienda de Sophie.
+
+Step 88/330
+>> Spanish - Arabic
+	هناك العديد من المزايا والعيوب أثناء الحمل. لكن المرأة الثالثة رأت امرأتين لم تكن مفهومة على الكرسي ودافعت عن موكلها. زوجته تحب وتفتح اسم متجر صوفي.
+
+Step 89/330
+>> Arabic - Kurdish
+	Di dema ducaniyê de gelek avantaj û dezavantaj hene. Lê jina sêyemîn dît ku du jin ku li ser kursiyê ne hatine fam kirin û berevaniya muwekîlê xwe dikin. Jina wî jê hez dike û navê dikana Sophie vedike.
+
+Step 90/330
+>> Kurdish - English
+	During pregnancy there are many advantages and disadvantages. But the third woman found that two women who were not in the seat understood and advocated for her client. His wife loves him and calls him Sophie's shop name.
+
+Step 91/330
+>> English - Dutch
+	Tijdens de zwangerschap zijn er veel voor- en nadelen. Maar de derde vrouw ontdekte dat twee vrouwen die niet op de stoel zaten, haar cliënt begrepen en bepleitten. Zijn vrouw houdt van hem en noemt hem Sophie's winkelnaam.
+
+Step 92/330
+>> Dutch - English
+	There are many advantages and disadvantages during pregnancy. But the third woman discovered that two women who were not in the chair understood and advocated her client. His wife loves him and calls him Sophie's store name.
+
+Step 93/330
+>> English - Samoan
+	E tele mea lelei ma faʻafitauli i le taimi o le maitaga. Ae na iloa e le fafine lona tolu o tamaitai e le o nofo i le nofoa na malamalama ma fautuaina le tagata o tausia. E alofa lona toalua ia te ia ma taʻua o ia o le igoa o le faleoloa a Sofia.
+
+Step 94/330
+>> Samoan - Uzbek
+	Homiladorlik paytida ko'plab afzalliklar va kamchiliklar mavjud. Ammo uchinchi ayol, stulda bo'lmagan ayollar mijozni tushunib, ularga maslahat berishlarini aniqladilar. Uning eri uni yaxshi ko'radi va unga Sofiyaning do'kon nomini beradi.
+
+Step 95/330
+>> Uzbek - English
+	There are many advantages and disadvantages during pregnancy. But a third woman found that women who were not in a chair understood the client and advised them. Her husband loves her and gives her the store name Sofia.
+
+Step 96/330
+>> English - Arabic
+	هناك العديد من المزايا والعيوب أثناء الحمل. ولكن وجدت امرأة ثالثة أن النساء اللائي لم يكن على كرسي فهمت العميل ونصحتهم. زوجها يحبها ويعطيها اسم متجر صوفيا.
+
+Step 97/330
+>> Arabic - French
+	Il existe de nombreux avantages et inconvénients pendant la grossesse. Mais une troisième femme a constaté que les femmes qui n'étaient pas dans le fauteuil comprenaient le client et le conseillaient. Son mari l'aime et lui donne le nom du magasin de Sofia.
+
+Step 98/330
+>> French - Spanish
+	Hay muchas ventajas y desventajas durante el embarazo. Pero una tercera mujer descubrió que las mujeres que no estaban en la silla entendieron al cliente y le aconsejaron. Su esposo la ama y le da el nombre de la tienda de Sofía.
+
+Step 99/330
+>> Spanish - Romanian
+	Există multe avantaje și dezavantaje în timpul sarcinii. Dar o a treia femeie a descoperit că femeile care nu erau pe scaun au înțeles clientul și l-au sfătuit. Soțul ei o iubește și îi dă numele magazinului Sofia.
+
+Step 100/330
+>> Romanian - Filipino
+	Maraming mga pakinabang at kawalan sa panahon ng pagbubuntis. Ngunit natagpuan ng isang pangatlong babae na ang mga kababaihan na wala sa upuan ay nauunawaan ang kliyente at pinayuhan siya. Mahal siya ng kanyang asawa at binigyan siya ng pangalan ng tindahan ng Sofia.
+
+Step 101/330
+>> Filipino - Zulu
+	Kunezinzuzo eziningi kanye nokubi ngesikhathi sokukhulelwa. Kepha owesifazane wesithathu uthole ukuthi abesifazane ababengekho kusihlalo bayamqonda ikhasimende futhi beluleka. Indoda yakhe yayimthanda futhi yamnika igama lesitolo sikaSofia.
+
+Step 102/330
+>> Zulu - Arabic
+	هناك العديد من المزايا والعيوب أثناء الحمل. لكن المرأة الثالثة وجدت أن النساء اللائي لم يكن في الكرسي فهمن الزبون ونصحتهن. أحبها زوجها وأعطاها اسم متجر صوفيا.
+
+Step 103/330
+>> Arabic - Indonesian
+	Ada banyak keuntungan dan kerugian selama kehamilan. Tetapi wanita ketiga menemukan bahwa wanita yang tidak di kursi mengerti dan menasehati pelanggan. Suaminya mencintainya dan memberinya nama toko Sofia.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Có nhiều ưu điểm và nhược điểm khi mang thai. Nhưng người phụ nữ thứ ba nhận thấy rằng những người phụ nữ không ngồi trên ghế hiểu và khuyên khách hàng. Chồng cô yêu cô và đặt cho cô tên của cửa hàng Sofia.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Hay muchas ventajas y desventajas del embarazo. Pero la tercera mujer notó que las mujeres que no se sentaban en las sillas entendieron y aconsejaron al cliente. Su esposo la amaba y le dio el nombre de la tienda de Sofía.
+
+Step 106/330
+>> Spanish - Arabic
+	هناك العديد من مزايا وعيوب الحمل. لكن المرأة الثالثة لاحظت أن النساء اللائي لم يجلسن على الكراسي فهمن ونصحن العميل. أحبها زوجها وأعطاها اسم متجر صوفيا.
+
+Step 107/330
+>> Arabic - Spanish
+	Hay muchas ventajas y desventajas del embarazo. Pero la tercera mujer notó que las mujeres que no se sentaban en las sillas entendieron y se convirtieron en clientes. Su esposo la amaba y le dio el nombre de la tienda de Sofía.
+
+Step 108/330
+>> Spanish - Russian
+	Есть много преимуществ и недостатков беременности. Но третья женщина заметила, что женщины, которые не сидели на стульях, поняли и стали клиентами. Ее муж любил ее и дал ей имя магазина Софии.
+
+Step 109/330
+>> Russian - Arabic
+	هناك العديد من مزايا وعيوب الحمل. لكن امرأة ثالثة لاحظت أن النساء اللائي لم يكن يجلسن على الكراسي فهمن وأصبحن زبونات. أحبها زوجها وأعطاها اسم متجر صوفيا.
+
+Step 110/330
+>> Arabic - Spanish
+	Hay muchas ventajas y desventajas del embarazo. Pero una tercera mujer notó que las mujeres que no estaban sentadas en las sillas entendieron y se convirtieron en clientes. Su esposo la amaba y le dio el nombre de la tienda de Sofía.
+
+Step 111/330
+>> Spanish - Portuguese
+	Existem muitas vantagens e desvantagens da gravidez. Mas uma terceira mulher percebeu que as mulheres que não estavam sentadas em cadeiras entendiam e se tornavam clientes. O marido a amava e deu a ela o nome da loja de Sofia.
+
+Step 112/330
+>> Portuguese - English
+	There are many advantages and disadvantages of pregnancy. But a third woman realized that women who were not sitting in chairs understood and became clients. Her husband loved her and named her Sofia's store.
+
+Step 113/330
+>> English - Spanish
+	Hay muchas ventajas y desventajas del embarazo. Pero una tercera mujer se dio cuenta de que las mujeres que no estaban sentadas en sillas entendieron y se convirtieron en clientes. Su esposo la amaba y la llamó la tienda de Sofía.
+
+Step 114/330
+>> Spanish - English
+	There are many advantages and disadvantages of pregnancy. But a third woman realized that women who were not sitting in chairs understood and became clients. Her husband loved her and called her Sofia's shop.
+
+Step 115/330
+>> English - Hindi
+	गर्भावस्था के कई फायदे और नुकसान हैं। लेकिन एक तीसरी महिला ने महसूस किया कि जो महिलाएं कुर्सियों में नहीं बैठी थीं, वे समझ गईं और ग्राहक बन गईं। उसका पति उससे प्यार करता था और उसे सोफिया की दुकान कहता था।
+
+Step 116/330
+>> Hindi - Portuguese
+	Existem muitas vantagens e desvantagens da gravidez. Mas uma terceira mulher percebeu que as mulheres que não sentavam em cadeiras entendiam e se tornavam clientes. Seu marido a amava e ligou para a loja de Sofia.
+
+Step 117/330
+>> Portuguese - Spanish
+	Hay muchas ventajas y desventajas del embarazo. Pero una tercera mujer se dio cuenta de que las mujeres que no se sentaban en sillas entendían y se convertían en clientes. Su esposo la amaba y llamó a la tienda de Sofía.
+
+Step 118/330
+>> Spanish - English
+	There are many advantages and disadvantages of pregnancy. But a third woman realized that women who did not sit on chairs understood and became clients. Her husband loved her and called Sofia's store.
+
+Step 119/330
+>> English - Bengali
+	গর্ভাবস্থার অনেক সুবিধা এবং অসুবিধা রয়েছে। তবে তৃতীয় মহিলা বুঝতে পেরেছিলেন যে মহিলারা চেয়ারে বসে ছিলেন না তারা বুঝতে পেরেছিলেন এবং ক্লায়েন্ট হয়েছিলেন। তার স্বামী তাকে ভালবাসতেন এবং সোফিয়ার দোকানে ডাকতেন।
+
+Step 120/330
+>> Bengali - French
+	La grossesse présente de nombreux avantages et inconvénients. Cependant, la troisième femme s'est rendu compte que les femmes n'étaient pas assises sur la chaise qu'elles comprenaient et devenaient clientes. Son mari l'aimait et appelait la boutique de Sophia.
+
+Step 121/330
+>> French - lao
+	ການຖືພາມີຂໍ້ດີແລະຂໍ້ເສຍຫຼາຍຢ່າງ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ແມ່ຍິງຄົນທີສາມຮູ້ວ່າແມ່ຍິງບໍ່ໄດ້ນັ່ງຢູ່ເທິງຕັ່ງທີ່ພວກເຂົາເຂົ້າໃຈແລະກາຍເປັນລູກຄ້າ. ຜົວຂອງນາງຮັກນາງແລະໄດ້ໂທຫາຮ້ານ Sophia.
+
+Step 122/330
+>> lao - English
+	Pregnancy has many advantages and disadvantages. However, the third woman knows that women do not sit on the chairs they understand and become customers. Her husband loved her and called Sophia's shop.
+
+Step 123/330
+>> English - Portuguese
+	A gravidez tem muitas vantagens e desvantagens. No entanto, a terceira mulher sabe que as mulheres não se sentam nas cadeiras que entendem e se tornam clientes. Seu marido a amava e ligou para a loja de Sophia.
+
+Step 124/330
+>> Portuguese - English
+	Pregnancy has many advantages and disadvantages. However, the third woman knows that women do not sit in the chairs they understand and become clients. Her husband loved her and called Sophia's shop.
+
+Step 125/330
+>> English - Portuguese
+	A gravidez tem muitas vantagens e desvantagens. No entanto, a terceira mulher sabe que as mulheres não se sentam nas cadeiras que compreendem e se tornam clientes. Seu marido a amava e ligou para a loja de Sophia.
+
+Step 126/330
+>> Portuguese - English
+	Pregnancy has many advantages and disadvantages. However, the third woman knows that women do not sit in the chairs they understand and become clients. Her husband loved her and called Sophia's shop.
+
+Step 127/330
+>> English - Portuguese
+	A gravidez tem muitas vantagens e desvantagens. No entanto, a terceira mulher sabe que as mulheres não se sentam nas cadeiras que compreendem e se tornam clientes. Seu marido a amava e ligou para a loja de Sophia.
+
+Step 128/330
+>> Portuguese - Burmese
+	ကိုယ်ဝန်အများအပြားအားသာချက်များနှင့်အားနည်းချက်များကိုရှိပါတယ်။ သို့သော်တတိယအမျိုးသမီးတစ်ဦးအမြိုးသမီးမြားကိုနားလညျနှင့်ဖောက်သည်များဖြစ်လာရသူကုလားထိုင်၌ထိုင်မသိတယ်။ သူမရဲ့ခင်ပွန်းကသူမကိုခစျြတျောမူနှင့် Sophia စတိုးဆိုင်ကိုခေါ်။
+
+Step 129/330
+>> Burmese - Nepali
+	त्यहाँ धेरै लाभ र गर्भावस्था को बेफाइदा छन्। तर, तेस्रो महिला र ग्राहकहरु कुर्सी बसेर छैनन् बन्ने महिलाहरु बुझ्छु। पतिको उनको प्रेम र सोफिया स्टोर भनिन्छ भने।
+
+Step 130/330
+>> Nepali - Urdu
+	حمل کے بہت سے فوائد اور نقصانات ہیں۔ لیکن ، میں سمجھتا ہوں کہ تیسری عورت اور مؤکل کرسی پر نہیں بیٹھے ہیں۔ شوہر نے کہا اس کی محبت اور صوفیہ نے اسٹور کو بلایا۔
+
+Step 131/330
+>> Urdu - French
+	La grossesse présente de nombreux avantages et inconvénients. Mais, je pense que la troisième femme et le client ne sont pas assis dans le fauteuil. Le mari a dit son amour et Sofia a appelé le magasin.
+
+Step 132/330
+>> French - English
+	Pregnancy has many advantages and disadvantages. But, I think the third woman and the client are not sitting in the chair. The husband said his love and Sofia called the shop.
+
+Step 133/330
+>> English - Swahili
+	Mimba ina faida nyingi na hasara. Lakini, nadhani mwanamke wa tatu na mteja hawaketi katika kiti. Mume alisema penzi lake na Sofia aliita duka.
+
+Step 134/330
+>> Swahili - Arabic
+	الحمل له العديد من المزايا والعيوب. لكنني أعتقد أن امرأة ثالثة وزبون لا يجلسان على كرسي. وقال الزوج صديقته وصوفيا ودعا المتجر.
+
+Step 135/330
+>> Arabic - Shona
+	Kubata nhumbu kune zvakawanda zvakanaka uye zvisina kunaka. Asi ini ndinofunga mukadzi wechitatu uye mutengi havagari muchigaro. Iye murume akati musikana wake uye Sofia adaidza chitoro.
+
+Step 136/330
+>> Shona - Hausa
+	Ciki yana da fa'idodi da rashin amfani da yawa. Amma ina tsammanin mace ta uku da abokin ciniki ba su zauna a cikin kujera ba. Mutumin ya ce budurwarsa da Sofia sun kira shagon.
+
+Step 137/330
+>> Hausa - Swahili
+	Tumbo lina faida nyingi na hasara. Lakini nadhani mwanamke wa tatu na mteja hawakukaa kwenye kiti. Mtu huyo alisema rafiki yake wa kike na Sofia aliita duka.
+
+Step 138/330
+>> Swahili - English
+	The stomach has many advantages and disadvantages. But I think the third woman and client were not sitting in the chair. The man said his girlfriend and Sofia called the store.
+
+Step 139/330
+>> English - Arabic
+	المعدة لديها العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم يجلسا على الكرسي. قال الرجل صديقته وصوفيا دعا المتجر.
+
+Step 140/330
+>> Arabic - Malagasy
+	Manana tombony sy fahavoazana maro ny kibo. Saingy heveriko fa tsy nipetraka teo amin'ny seza ny vehivavy fahatelo sy ny mpanjifa. Niantso ilay fivarotana ilay rangahy ary i Sophia.
+
+Step 141/330
+>> Malagasy - Swahili
+	Tumbo lina faida na hasara nyingi. Lakini nadhani mwanamke wa tatu na mteja hawakukaa kwenye kiti. Mtu huyo aliita duka na Sophia.
+
+Step 142/330
+>> Swahili - French
+	L'estomac présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et la cliente n'étaient pas assises sur la chaise. L'homme a appelé la boutique et Sophia.
+
+Step 143/330
+>> French - Arabic
+	المعدة لديها العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم يجلسا على الكرسي. ودعا الرجل المحل وصوفيا.
+
+Step 144/330
+>> Arabic - French
+	L'estomac présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et la cliente ne se sont pas assises sur la chaise. Le gars a appelé la boutique et Sophia.
+
+Step 145/330
+>> French - Arabic
+	المعدة لديها العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم يجلسا على الكرسي. ودعا الرجل المحل وصوفيا.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Vant lan gen anpil avantaj ak dezavantaj. Men, mwen panse twazyèm fanm lan ak kliyan an pa t 'chita sou chèz la. Nèg la te rele magazen an ak Sophia.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	پلور ډیری ګټې او زیانونه لري. مګر زه فکر کوم چې دریمه ښځه او پیرودونکي په څوکۍ ناست ندي. هلک له صوفیا سره پلورنځي ته زنګ ووهه.
+
+Step 148/330
+>> Pashto - French
+	Les ventes présentent de nombreux avantages et inconvénients. Mais je suppose que la troisième dame et le client ne sont pas assis à la place. Le garçon a appelé Sofia au magasin.
+
+Step 149/330
+>> French - Chichewa
+	Kugulitsa kuli ndi zabwino komanso zovuta zambiri. Koma ndikuganiza kuti mayi wachitatuyo komanso kasitomala sanakhale pamalopo. Mnyamatayo adayitanira Sofia ku sitolo.
+
+Step 150/330
+>> Chichewa - Arabic
+	التسويق له العديد من المزايا والعيوب. لكنني أعتقد أن السيدة الثالثة والعميل لم يكنا أبداً في المكان. ودعا الصبي صوفيا إلى المتجر.
+
+Step 151/330
+>> Arabic - Amharic
+	ግብይት ብዙ ጥቅሞች እና ጉዳቶች አሉት ፡፡ ግን እኔ ሦስተኛው እመቤት እና ደንበኛው በጭራሽ በቦታው አልነበሩም ብዬ አስባለሁ ፡፡ ልጁ ሶፊያ ወደ መደብሩ ጠራት ፡፡
+
+Step 152/330
+>> Amharic - English
+	Marketing has many advantages and disadvantages. But I think the third lady and the client were never there. Sophia called the store.
+
+Step 153/330
+>> English - French
+	Le marketing présente de nombreux avantages et inconvénients. Mais je pense que la troisième dame et le client n'étaient jamais là. Sophia a appelé le magasin.
+
+Step 154/330
+>> French - Swahili
+	Uuzaji una faida na hasara nyingi. Lakini nadhani mwanamke wa tatu na mteja hawakuwapo hapo. Sophia aliita duka.
+
+Step 155/330
+>> Swahili - Portuguese
+	O marketing tem muitas vantagens e desvantagens. Mas acho que a terceira mulher e cliente não estavam lá. Sophia ligou para a loja.
+
+Step 156/330
+>> Portuguese - Arabic
+	التسويق له العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم تكن هناك. دعا صوفيا المتجر.
+
+Step 157/330
+>> Arabic - Portuguese
+	O marketing tem muitas vantagens e desvantagens. Mas acho que a terceira mulher e o cliente não estavam lá. Sofia ligou para a loja.
+
+Step 158/330
+>> Portuguese - English
+	Marketing has many advantages and disadvantages. But I think the third woman and the client were not there. Sofia called the store.
+
+Step 159/330
+>> English - French
+	Le marketing présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et le client n'étaient pas là. Sofia a appelé le magasin.
+
+Step 160/330
+>> French - English
+	Marketing has many advantages and disadvantages. But I think the third wife and the client were not there. Sofia called the store.
+
+Step 161/330
+>> English - Swahili
+	Uuzaji una faida na hasara nyingi. Lakini nadhani mke wa tatu na mteja hawakuwapo. Sofia aliita duka.
+
+Step 162/330
+>> Swahili - Arabic
+	التسويق له العديد من المزايا والعيوب. ولكن أعتقد أن الزوجة الثالثة والعميل لم تكن هناك. ودعا صوفيا المحل.
+
+Step 163/330
+>> Arabic - Arabic
+	Marketing has many advantages and disadvantages. But I think the third wife and the client were not there. Sofia called the shop.
+
+Step 164/330
+>> Arabic - French
+	Le marketing présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et le client n'étaient pas là. Sofia a appelé la boutique.
+
+Step 165/330
+>> French - Hausa
+	Talla yana da fa'idodi da rashin amfani da yawa. Amma ina tsammanin matar ta uku da abokin ciniki ba su kasance a can. Sofia ta kira shagon.
+
+Step 166/330
+>> Hausa - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et la cliente n'étaient pas là. Sofia appelle la boutique.
+
+Step 167/330
+>> French - Arabic
+	Advertising has many advantages and disadvantages. But I think the third woman and the client were not there. Sofia calls the shop.
+
+Step 168/330
+>> Arabic - Arabic
+	الإعلان له العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم تكن هناك. صوفيا تدعو المحل.
+
+Step 169/330
+>> Arabic - Swahili
+	Matangazo yana faida na hasara nyingi. Lakini nadhani mwanamke wa tatu na mteja hawakuwapo. Sofia anaita duka.
+
+Step 170/330
+>> Swahili - English
+	Advertising has many advantages and disadvantages. But I think the third woman and client were not there. Sofia calls the shop.
+
+Step 171/330
+>> English - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et la cliente n'étaient pas là. Sofia appelle la boutique.
+
+Step 172/330
+>> French - English
+	Advertising has many advantages and disadvantages. But I think the third woman and the client were not there. Sofia calls the shop.
+
+Step 173/330
+>> English - Portuguese
+	A publicidade tem muitas vantagens e desvantagens. Mas acho que a terceira mulher e o cliente não estavam lá. Sofia liga para a loja.
+
+Step 174/330
+>> Portuguese - Arabic
+	الإعلان له العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم تكن هناك. صوفيا تدعو المتجر.
+
+Step 175/330
+>> Arabic - Portuguese
+	A publicidade tem muitas vantagens e desvantagens. Mas acho que a terceira mulher e o cliente não estavam lá. Sofia convida a loja.
+
+Step 176/330
+>> Portuguese - Swahili
+	Matangazo yana faida na hasara nyingi. Lakini nadhani mwanamke wa tatu na mteja hawakuwapo. Sofia anaalika duka.
+
+Step 177/330
+>> Swahili - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense que la troisième femme et la cliente n'étaient pas là. Sofia invite la boutique.
+
+Step 178/330
+>> French - English
+	Advertising has many advantages and disadvantages. But I think the third woman and the client were not there. Sofia invites the shop.
+
+Step 179/330
+>> English - Amharic
+	ማስታወቂያ ብዙ ጥቅሞች እና ጉዳቶች አሉት ፡፡ ግን ሦስተኛው ሴት እና ደንበኛው እዚያ ያልነበሩ ይመስለኛል ፡፡ ሶፊያ ሱቁን ትጋብዛለች።
+
+Step 180/330
+>> Amharic - Arabic
+	الإعلان له العديد من المزايا والعيوب. لكنني أعتقد أن المرأة الثالثة والعميل لم تكن هناك. صوفيا تدعو المحل.
+
+Step 181/330
+>> Arabic - Chichewa
+	Kutsatsa kuli ndi zabwino komanso zovuta zambiri. Koma ndikuganiza kuti mayi wachitatu ndi kasitomala uja sanali komweko. Sofia amayitanitsa shopu.
+
+Step 182/330
+>> Chichewa - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense que la troisième dame et le client n'étaient pas là. Sofia appelle la boutique.
+
+Step 183/330
+>> French - Pashto
+	اعلان ورکول ډیری ګټې او زیانونه لري. مګر زه فکر کوم چې دریمه میرمن او پیرودونکي شتون نه درلود. صوفیا پلورنځي ته زنګ وهي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Piblisite gen anpil avantaj ak dezavantaj. Men, mwen devine pa te gen okenn madanm twazyèm ak kliyan. Sofia jon nan magazen an.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	الإعلان له العديد من المزايا والعيوب. ولكني أعتقد أنه لم تكن هناك زوجات وعملاء ثالثات. صوفيا يندفع إلى المتجر.
+
+Step 186/330
+>> Arabic - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense qu'il n'y avait pas d'épouses et de clients tiers. Sofia se précipite au magasin.
+
+Step 187/330
+>> French - Arabic
+	الإعلان له العديد من المزايا والعيوب. لكنني أعتقد أنه لم تكن هناك زوجات أو عملاء من أطراف ثالثة. صوفيا يندفع إلى المتجر.
+
+Step 188/330
+>> Arabic - French
+	La publicité présente de nombreux avantages et inconvénients. Mais je pense qu'il n'y avait pas d'épouses ou d'agents de tiers. Sofia se précipite au magasin.
+
+Step 189/330
+>> French - Swahili
+	Matangazo yana faida na hasara nyingi. Lakini nadhani hakukuwa na wake au maajenti wa watu wa tatu. Sofia anakimbilia dukani.
+
+Step 190/330
+>> Swahili - Malagasy
+	Manana tombony sy fatiantoka maro ny dokambarotra. Heveriko anefa fa tsy nisy vady na sampandraharaha fahatelo. Nihazakazaka nankany amin'ny fivarotana i Sofia.
+
+Step 191/330
+>> Malagasy - Arabic
+	الإعلان له العديد من المزايا والعيوب. ومع ذلك ، أعتقد أنه لم يكن هناك زوجة أو وكالة ثالثة. ركض صوفيا إلى المتجر.
+
+Step 192/330
+>> Arabic - English
+	Advertising has many advantages and disadvantages. However, I think there was no third wife or agency. Sophia ran to the store.
+
+Step 193/330
+>> English - Swahili
+	Matangazo yana faida na hasara nyingi. Walakini, nadhani hakukuwa na mke wa tatu au wakala. Sophia alikimbilia dukani.
+
+Step 194/330
+>> Swahili - Hausa
+	Talla yana da fa'idodi da rashin amfani da yawa. Koyaya, ina tsammanin babu mata ta uku ko wakili. Sofiya ta gudu zuwa shagon.
+
+Step 195/330
+>> Hausa - Shona
+	Kushambadzira kune zvakawanda zvakanaka uye zvisina kunaka. Nekudaro, ndinofunga kuti hapana wechitatu wechitatu kana mumiriri. Mangwanani-ngwanani kumhanya kuchitoro.
+
+Step 196/330
+>> Shona - Arabic
+	الإعلان له العديد من المزايا والعيوب. على هذا النحو ، أعتقد أنه لا يوجد طرف ثالث أو وكيل. الصباح الباكر يركض إلى المتجر.
+
+Step 197/330
+>> Arabic - Swahili
+	Matangazo yana faida na hasara nyingi. Kama hivyo, nadhani hakuna mtu wa tatu au proksi. Asubuhi mapema kukimbilia dukani.
+
+Step 198/330
+>> Swahili - English
+	Advertising has many advantages and disadvantages. If so, I think there is no third party or proxy. Early morning rush to the store.
+
+Step 199/330
+>> English - French
+	La publicité présente de nombreux avantages et inconvénients. Si tel est le cas, je pense qu’il n’ya ni tiers ni mandataire. Tôt le matin, précipitez-vous au magasin.
+
+Step 200/330
+>> French - Urdu
+	اشتہار بازی کے بہت سے فوائد اور نقصانات ہیں۔ اگر ایسی بات ہے تو ، مجھے نہیں لگتا کہ کوئی تیسرا فریق یا ایجنٹ ہے۔ صبح سویرے ، اسٹور پر دوڑ لگائیں۔
+
+Step 201/330
+>> Urdu - Nepali
+	विज्ञापनका धेरै फाइदाहरू र नोक्सानहरू छन्। यदि त्यो केस हो भने, मलाई लाग्दैन कि त्यहाँ तेस्रो पक्ष वा एजेन्ट छ। बिहान सबेरै, स्टोरमा भाग्नुहोस्।
+
+Step 202/330
+>> Nepali - Burmese
+	များစွာသောအားသာချက်များနှင့် noksanaharu ကြော်ငြာတွေရှိပါတယ်။ သောအမှုဖြစ်လျှင်, ငါတတိယပါတီသို့မဟုတ်ကိုယ်စားလှယ်ရှိသည်ဟုမထင်ကြပါဘူး။ နံနက်စောစော, စတိုးဆိုင်ကို run ။
+
+Step 203/330
+>> Burmese - Portuguese
+	Há muitas vantagens e publicidade noksanaharu. Se assim for, eu não parecem ter um terceiro ou representante. Na manhã seguinte, a loja prazo.
+
+Step 204/330
+>> Portuguese - English
+	There are many advantages and noksanaharu advertising. If so, I don't seem to have a third party or representative. The next morning, the term store.
+
+Step 205/330
+>> English - Portuguese
+	Existem muitas vantagens e publicidade noksanaharu. Nesse caso, parece que não tenho um terceiro ou representante. Na manhã seguinte, o termo armazenar.
+
+Step 206/330
+>> Portuguese - English
+	There are many advantages and noksanaharu advertising. In that case, it seems that I don't have a third party or representative. The next morning, the term store.
+
+Step 207/330
+>> English - Portuguese
+	Existem muitas vantagens e publicidade noksanaharu. Nesse caso, parece que não tenho um terceiro ou representante. Na manhã seguinte, o termo armazenar.
+
+Step 208/330
+>> Portuguese - English
+	There are many advantages and noksanaharu advertising. In that case, it seems that I don't have a third party or representative. The next morning, the term store.
+
+Step 209/330
+>> English - lao
+	ມັນມີຂໍ້ດີຫຼາຍແລະການໂຄສະນາ noksanaharu. ໃນກໍລະນີດັ່ງກ່າວ, ມັນເບິ່ງຄືວ່າຂ້ອຍບໍ່ມີບຸກຄົນທີສາມຫລືຕົວແທນ. ໃນຕອນເຊົ້າມື້ຕໍ່ມາ, ຮ້ານ ຄຳ ສັບ.
+
+Step 210/330
+>> lao - French
+	Il a de nombreux avantages et la publicité noksanaharu. Dans ce cas, il me semble qu'il n'y a pas de tiers ni d'agent. Le lendemain matin, le magasin de mots.
+
+Step 211/330
+>> French - Bengali
+	এর অনেক সুবিধা ও নোকসনাহারু বিজ্ঞাপন রয়েছে। এই ক্ষেত্রে, আমার কাছে মনে হয় যে কোনও তৃতীয় পক্ষ বা এজেন্ট নেই। পরের দিন সকালে শব্দটির দোকান।
+
+Step 212/330
+>> Bengali - English
+	It has many benefits and harmful ads. In this case, it seems to me that there is no third party or agent. The next morning the sound shop.
+
+Step 213/330
+>> English - Spanish
+	Tiene muchos beneficios y anuncios perjudiciales. En este caso, me parece que no hay un tercero o agente. A la mañana siguiente, la tienda de sonido.
+
+Step 214/330
+>> Spanish - Portuguese
+	Tem muitos benefícios e anúncios prejudiciais. Nesse caso, parece-me que não há terceiros ou agentes. Na manhã seguinte, a loja de som.
+
+Step 215/330
+>> Portuguese - Hindi
+	इसके कई लाभ और हानिकारक विज्ञापन हैं। इस मामले में, यह मुझे लगता है कि कोई तीसरा पक्ष या एजेंट नहीं हैं। अगली सुबह, ध्वनि की दुकान।
+
+Step 216/330
+>> Hindi - English
+	It has many benefits and harmful advertisements. In this case, it seems to me that there are no third parties or agents. The next morning, the sound shop.
+
+Step 217/330
+>> English - Spanish
+	Tiene muchos beneficios y anuncios perjudiciales. En este caso, me parece que no hay terceros ni agentes. A la mañana siguiente, la tienda de sonido.
+
+Step 218/330
+>> Spanish - English
+	It has many benefits and harmful advertisements. In this case, it seems to me that there are no third parties or agents. The next morning, the sound store.
+
+Step 219/330
+>> English - Portuguese
+	Tem muitos benefícios e anúncios prejudiciais. Nesse caso, parece-me que não há terceiros ou agentes. Na manhã seguinte, a loja de som.
+
+Step 220/330
+>> Portuguese - Spanish
+	Tiene muchos beneficios y anuncios perjudiciales. En este caso, me parece que no hay terceros ni agentes. A la mañana siguiente, la tienda de sonido.
+
+Step 221/330
+>> Spanish - Arabic
+	لديها العديد من الفوائد والإعلانات الضارة. في هذه الحالة ، يبدو لي أنه لا توجد جهات خارجية أو وكلاء. في صباح اليوم التالي ، متجر الصوت.
+
+Step 222/330
+>> Arabic - Russian
+	У этого есть много преимуществ и вредных объявлений. В этом случае мне кажется, что нет третьих лиц или агентов. На следующее утро магазин звука.
+
+Step 223/330
+>> Russian - Spanish
+	Tiene muchas ventajas y anuncios perjudiciales. En este caso, me parece que no hay terceros ni agentes. A la mañana siguiente, una tienda de sonido.
+
+Step 224/330
+>> Spanish - Arabic
+	لديها العديد من المزايا والإعلانات الضارة. في هذه الحالة ، يبدو لي أنه لا توجد جهات خارجية أو وكلاء. في صباح اليوم التالي ، متجر الصوت.
+
+Step 225/330
+>> Arabic - Spanish
+	Tiene muchas ventajas y anuncios perjudiciales. En este caso, me parece que no hay terceros ni agentes. A la mañana siguiente, la tienda de sonido.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Nó có nhiều lợi thế và quảng cáo có hại. Trong trường hợp này, dường như với tôi không có bên thứ ba hoặc đại lý. Sáng hôm sau, cửa hàng âm thanh.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Ini memiliki banyak keuntungan dan iklan berbahaya. Dalam hal ini, menurut saya tidak ada pihak ketiga atau agen. Pagi berikutnya, toko audio.
+
+Step 228/330
+>> Indonesian - Arabic
+	هذا له العديد من المزايا والإعلان الخطير. في هذه الحالة ، في رأيي لا يوجد طرف ثالث أو وكيل. في صباح اليوم التالي ، متجر الصوت.
+
+Step 229/330
+>> Arabic - Zulu
+	Lokhu kunezinzuzo eziningi nokukhangisa okuyingozi. Kulokhu, ngombono wami akekho umuntu wesithathu noma umenzeli. Ngakusasa ekuseni, isitolo somsindo.
+
+Step 230/330
+>> Zulu - Filipino
+	Marami itong pakinabang at nakakapinsalang advertising. Sa kasong ito, sa palagay ko, walang third party o ahente. Kinaumagahan, ang tunog shop.
+
+Step 231/330
+>> Filipino - Romanian
+	Are o mulțime de beneficii și publicitate dăunătoare. În acest caz, în opinia mea, nu există un terț sau agent. Dimineața, magazinul de sunete.
+
+Step 232/330
+>> Romanian - Spanish
+	Tiene muchos beneficios nocivos y publicidad. En este caso, en mi opinión, no hay un tercero o agente. Por la mañana, la tienda de sonido.
+
+Step 233/330
+>> Spanish - French
+	Il présente de nombreux avantages et publicités néfastes. Dans ce cas, à mon avis, il n’existe aucun tiers ni agent. Au matin, le magasin de son.
+
+Step 234/330
+>> French - Arabic
+	لديها العديد من الفوائد والإعلانات الضارة. في هذه الحالة ، في رأيي ، لا يوجد طرف ثالث أو وكيل. في الصباح ، متجر له.
+
+Step 235/330
+>> Arabic - English
+	It has many benefits and harmful ads. In this case, in my opinion, there is no third party or agent. In the morning, shop for him.
+
+Step 236/330
+>> English - Uzbek
+	Bu juda ko'p foydali va zararli reklamalarga ega. Bunday holda, mening fikrimcha, uchinchi tomon yoki agent yo'q. Ertalab unga xarid qiling.
+
+Step 237/330
+>> Uzbek - Samoan
+	E tele faʻamatalaga aoga ma faʻaleagaina. I lenei tulaga, i loʻu manatu, e leai se isi vaega poʻo se sui. Faatau mo ia i le taeao.
+
+Step 238/330
+>> Samoan - English
+	There is a lot of useful and harmful information. In this case, in my opinion, there is no other party or member. Shop for him in the morning.
+
+Step 239/330
+>> English - Dutch
+	Er is veel nuttige en schadelijke informatie. Naar mijn mening is er in dit geval geen andere partij of lid. Koop 's ochtends voor hem.
+
+Step 240/330
+>> Dutch - English
+	There is a lot of useful and harmful information. In my opinion there is no other party or member in this case. Buy it for him in the morning.
+
+Step 241/330
+>> English - Kurdish
+	Gelek agahdariya bikêr û zirardar heye. Bi dîtina min, di vê mijarê de partiyek an endamek din nine. Li wî ji bo sibehê bikirin.
+
+Step 242/330
+>> Kurdish - Arabic
+	هناك الكثير من المعلومات المفيدة والمضرة. في رأيي ، لا يوجد حزب أو عضو آخر في هذا الصدد. شرائه له في الصباح.
+
+Step 243/330
+>> Arabic - Spanish
+	Hay mucha información útil y dañina. En mi opinión, no hay partido u otro miembro a este respecto. Cómprelo para él en la mañana.
+
+Step 244/330
+>> Spanish - Mongolian
+	Маш их хэрэгтэй, хор хөнөөлтэй мэдээлэл байдаг. Миний бодлоор энэ талаар ямар ч нам, бусад гишүүн байхгүй байна. Өглөө нь түүнд худалдаж аваарай.
+
+Step 245/330
+>> Mongolian - English
+	There are so many useful and harmful information. I do not think there is any party or other member in this regard. Buy it in the morning.
+
+Step 246/330
+>> English - Spanish
+	Hay tanta información útil y perjudicial. No creo que haya ningún partido u otro miembro a este respecto. Cómpralo por la mañana.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Тут так багато корисної та шкідливої інформації. Я не думаю, що в цьому плані немає жодної партії чи іншого члена. Купуйте вранці.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Hay mucha información útil y dañina aquí. No creo que haya ningún partido o miembro a este respecto. Compra por la mañana.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	这里有很多有用和有害的信息。我认为在这方面没有任何政党或成员。早上买。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	هناك الكثير من المعلومات المفيدة والضارة هنا. لا أعتقد أن هناك أي أحزاب سياسية أو أعضاء في هذا الصدد. شرائه في الصباح.
+
+Step 251/330
+>> Arabic - Thai
+	มีข้อมูลที่เป็นประโยชน์และเป็นอันตรายมากมายที่นี่ ฉันไม่คิดว่าจะมีพรรคการเมืองหรือสมาชิกในเรื่องนี้ ซื้อตอนเช้า
+
+Step 252/330
+>> Thai - Armenian
+	Այստեղ կան շատ օգտակար և վնասակար տեղեկատվություն: Չեմ կարծում, որ առավոտյան գնումներ կլինեն քաղաքական կուսակցություններ կամ անդամներ:
+
+Step 253/330
+>> Armenian - Macedonian
+	Тука има многу корисни и штетни информации. Мислам дека нема да има политички партии или членови во утринскиот шопинг.
+
+Step 254/330
+>> Macedonian - Arabic
+	هناك الكثير من المعلومات المفيدة والضارة هنا. أعتقد أنه لن يكون هناك أحزاب سياسية أو أعضاء في التسوق الصباحي.
+
+Step 255/330
+>> Arabic - Portuguese
+	Há muitas informações úteis e prejudiciais aqui. Eu acho que não haverá partidos políticos ou membros das compras da manhã.
+
+Step 256/330
+>> Portuguese - Spanish
+	Aquí hay mucha información útil y perjudicial. Creo que no habrá partidos políticos ni miembros de las compras de la mañana.
+
+Step 257/330
+>> Spanish - Bosnian
+	Evo puno korisnih i štetnih informacija. Mislim da neće biti političkih stranaka ili članova jutarnje kupovine.
+
+Step 258/330
+>> Bosnian - Sinhala
+	මෙන්න බොහෝ ප්‍රයෝජනවත් හා හානිකර තොරතුරු. මම හිතන්නේ නැහැ දේශපාලන පක්ෂ හෝ උදේ සාප්පු සවාරි යන්න.
+
+Step 259/330
+>> Sinhala - English
+	Here is a lot of useful and harmful information. I don’t think it’s for political parties or morning shopping.
+
+Step 260/330
+>> English - Spanish
+	Aquí hay mucha información útil y perjudicial. No creo que sea para partidos políticos o compras matutinas.
+
+Step 261/330
+>> Spanish - English
+	Here is a lot of useful and harmful information. I don't think it's for political parties or morning shopping.
+
+Step 262/330
+>> English - Georgian
+	აქ არის ბევრი სასარგებლო და მავნე ინფორმაცია. არა მგონია, ეს არის პოლიტიკური პარტიებისთვის ან დილის საყიდლებზე.
+
+Step 263/330
+>> Georgian - English
+	There is a lot of useful and harmful information here. I don't think this is for political parties or for morning shopping.
+
+Step 264/330
+>> English - Albanian
+	Këtu ka shumë informacione të dobishme dhe të dëmshme. Unë nuk mendoj se kjo është për partitë politike apo për blerjet në mëngjes.
+
+Step 265/330
+>> Albanian - Serbian
+	Овде има пуно корисних и штетних информација. Мислим да то није за политичке странке или за јутарње куповине.
+
+Step 266/330
+>> Serbian - Spanish
+	Aquí hay mucha información útil y perjudicial. No creo que sea para partidos políticos o para ir de compras por la mañana.
+
+Step 267/330
+>> Spanish - English
+	Here is a lot of useful and harmful information. I don't think it's for political parties or for shopping in the morning.
+
+Step 268/330
+>> English - Turkish
+	İşte bir çok yararlı ve zararlı bilgi. Siyasi partiler için veya sabahları alışveriş için olduğunu sanmıyorum.
+
+Step 269/330
+>> Turkish - Spanish
+	Aquí hay una información muy útil y perjudicial. No creo que sea para partidos políticos o para ir de compras por la mañana.
+
+Step 270/330
+>> Spanish - French
+	Voici des informations très utiles et nuisibles. Je ne pense pas que ce soit pour les partis politiques ou pour faire les magasins le matin.
+
+Step 271/330
+>> French - English
+	Here are some very useful and harmful information. I do not think it's for political parties or for shopping in the morning.
+
+Step 272/330
+>> English - Persian
+	در اینجا اطلاعات بسیار مفید و مضر ارائه شده است. فکر نمی کنم برای مهمانی ها باشد یا برای خرید در صبح.
+
+Step 273/330
+>> Persian - Kazakh
+	Мұнда өте пайдалы және зиянды ақпарат бар. Мен бұл кештерге немесе таңертеңгілік шопингке арналған деп ойламаймын.
+
+Step 274/330
+>> Kazakh - English
+	Here are some of the most useful and harmful information available. I do not think it's for dinner or morning shopping.
+
+Step 275/330
+>> English - Malay
+	Berikut adalah beberapa maklumat yang paling berguna dan berbahaya yang ada. Saya tidak fikir untuk makan malam atau membeli-belah pagi.
+
+Step 276/330
+>> Malay - Arabic
+	فيما يلي بعض أكثر المعلومات المفيدة والخطرة المتوفرة. لا أفكر في العشاء أو التسوق الصباحي.
+
+Step 277/330
+>> Arabic - Spanish
+	Estas son algunas de las informaciones más útiles y peligrosas disponibles. No pienso en cenar o ir de compras por la mañana.
+
+Step 278/330
+>> Spanish - English
+	These are some of the most useful and dangerous information available. I don't think about dinner or shopping in the morning.
+
+Step 279/330
+>> English - Russian
+	Это некоторые из наиболее полезной и опасной информации. Я не думаю о обеде или покупках по утрам.
+
+Step 280/330
+>> Russian - Romanian
+	Acestea sunt unele dintre cele mai utile și periculoase informații. Nu mă gândesc la prânz sau la cumpărături dimineața.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Това са някои от най-полезната и опасна информация. Не мисля за обяд или пазаруване сутрин.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Këto janë disa nga informacionet më të dobishme dhe të rrezikshme. Nuk mendoj për drekë apo pazar në mëngjes.
+
+Step 283/330
+>> Albanian - Russian
+	Это часть самой полезной и опасной информации. Я не думаю о обеде или покупках по утрам.
+
+Step 284/330
+>> Russian - Arabic
+	هذا جزء من أكثر المعلومات فائدة وخطورة. لا أفكر في الغداء أو التسوق في الصباح.
+
+Step 285/330
+>> Arabic - Spanish
+	Esta es parte de la información más útil y peligrosa. No pienses en el almuerzo o ir de compras por la mañana.
+
+Step 286/330
+>> Spanish - Croatian
+	Ovo je dio najkorisnijih i najopasnijih informacija. Ne razmišljajte o ručku i ne kupujte ujutro.
+
+Step 287/330
+>> Croatian - Hungarian
+	Ez a leghasznosabb és legveszélyesebb információ. Ne gondoljon ebédre, és ne vásároljon reggel.
+
+Step 288/330
+>> Hungarian - Spanish
+	Esta es la información más útil y peligrosa. No pienses en el almuerzo y no compres por la mañana.
+
+Step 289/330
+>> Spanish - Arabic
+	هذه هي المعلومات الأكثر فائدة وخطورة. لا تفكر في الغداء ولا تشتري في الصباح.
+
+Step 290/330
+>> Arabic - Portuguese
+	Esta é a informação mais útil e perigosa. Não pense no almoço e não compre de manhã.
+
+Step 291/330
+>> Portuguese - Latvian
+	Šī ir visnoderīgākā un bīstamākā informācija. Nedomājiet par pusdienām un nepērciet tās no rīta.
+
+Step 292/330
+>> Latvian - Arabic
+	هذه هي المعلومات الأكثر فائدة وخطورة. لا تفكر في الغداء وشرائه في الصباح.
+
+Step 293/330
+>> Arabic - Malay
+	Inilah maklumat yang paling berguna dan berbahaya. Jangan berfikir tentang makan tengah hari dan membelinya pada waktu pagi.
+
+Step 294/330
+>> Malay - Slovak
+	Toto sú najužitočnejšie a najnebezpečnejšie informácie. Nemysli na obed a kúp si ho ráno.
+
+Step 295/330
+>> Slovak - Arabic
+	هذه هي المعلومات الأكثر فائدة وخطورة. لا تفكر في الغداء وشرائه في الصباح.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Tai yra naudingiausia ir pavojingiausia informacija. Nemąstykite apie pietus ir nepirkite jų ryte.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Aquesta és la informació més útil i perillosa. No us penseu a dinar ni a comprar al matí.
+
+Step 298/330
+>> Catalan - Arabic
+	هذه هي المعلومات الأكثر فائدة وخطورة. لا تفكر في تناول الطعام أو الشراء في الصباح.
+
+Step 299/330
+>> Arabic - Polish
+	To najbardziej przydatna i niebezpieczna informacja. Nie myśl o porannym jedzeniu lub kupowaniu.
+
+Step 300/330
+>> Polish - Turkish
+	Bu en faydalı ve tehlikeli bilgidir. Sabah yemek yemeyi veya satın almayı düşünmeyin.
+
+Step 301/330
+>> Turkish - Greek
+	Αυτές είναι οι πιο χρήσιμες και επικίνδυνες πληροφορίες. Μην σκεφτείτε να τρώτε ή να αγοράζετε φαγητό το πρωί.
+
+Step 302/330
+>> Greek - Estonian
+	See on kõige kasulikum ja ohtlikum teave. Ärge mõelge hommikul söömisele ega toidu ostmisele.
+
+Step 303/330
+>> Estonian - Maltese
+	Din hija l-iktar informazzjoni utli u perikoluża. Ma naħsibx dwar li tiekol filgħodu jew tixtri l-ikel.
+
+Step 304/330
+>> Maltese - Italian
+	Queste sono le informazioni più utili e pericoloso. Non pensare la mattina per mangiare o acquistare cibo.
+
+Step 305/330
+>> Italian - Czech
+	Toto jsou nejužitečnější a nejnebezpečnější informace. Nemyslete si, že ráno jíte nebo kupujete jídlo.
+
+Step 306/330
+>> Czech - Spanish
+	Esta es la información más útil y peligrosa. No pienses que comes o compras comida por la mañana.
+
+Step 307/330
+>> Spanish - Slovenian
+	To je najbolj koristna in nevarna informacija. Ne mislite, da jeste ali kupujete hrano zjutraj.
+
+Step 308/330
+>> Slovenian - French
+	C'est l'information la plus utile et la plus dangereuse. Ne pensez pas que vous mangez ou achetez de la nourriture le matin.
+
+Step 309/330
+>> French - Korean
+	이것은 가장 유용하고 위험한 정보입니다. 아침에 음식을 먹거나 구매한다고 생각하지 마십시오.
+
+Step 310/330
+>> Korean - Hebrew
+	זהו המידע השימושי והמסוכן ביותר. אל תחשוב שאוכלים או קונים אוכל בבוקר.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Dëst ass déi nëtzlechst a geféierlechst Informatioun. Denkt net datt Dir moies iesst oder iesse kënnt.
+
+Step 312/330
+>> Luxembourgish - German
+	Dies ist die nützlichste und gefährlichste Information. Glaube nicht, dass du morgens essen oder essen kannst.
+
+Step 313/330
+>> German - Japanese
+	これは最も有用で危険な情報です。朝に食べたり食べたりできるとは思わないでください。
+
+Step 314/330
+>> Japanese - German
+	Dies ist die nützlichste und gefährlichste Information. Glaube nicht, dass du morgens essen oder essen kannst.
+
+Step 315/330
+>> German - Dutch
+	Dit is de meest nuttige en gevaarlijke informatie. Denk niet dat je 's ochtends kunt eten of eten.
+
+Step 316/330
+>> Dutch - Maori
+	Koinei nga korero tino whai hua me te kino. Kaua e whakaaro ka taea e koe te kai, te kai ranei i te ata.
+
+Step 317/330
+>> Maori - Finnish
+	Nämä ovat hyödyllisimpiä ja vaarallisimpia tietoja. Älä usko, että voit syödä tai syödä aamulla.
+
+Step 318/330
+>> Finnish - English
+	These are the most useful and dangerous information. Don't think you can eat or eat in the morning.
+
+Step 319/330
+>> English - Danish
+	Dette er den mest nyttige og farlige information. Tror ikke, du kan spise eller spise om morgenen.
+
+Step 320/330
+>> Danish - Dutch
+	Dit is de meest nuttige en gevaarlijke informatie. Denk niet dat je 's ochtends kunt eten of eten.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	這是最有用和最危險的信息。不要以為你早上可以吃或吃。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Detta är den mest användbara och farliga informationen. Tror inte att du kan äta eller äta på morgonen.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	這是最有用和最危險的信息。不要以為你早上可以吃或吃。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Þetta eru gagnlegar og hættulegar upplýsingar. Ekki halda að þú getir borðað eða borðað á morgnana.
+
+Step 325/330
+>> Icelandic - German
+	Dies sind nützliche und gefährliche Informationen. Glaube nicht, dass du morgens essen oder essen kannst.
+
+Step 326/330
+>> German - Irish
+	Is eolas úsáideach agus contúirteach é seo. Ná smaoinigh gur féidir leat ithe nó ithe ar maidin.
+
+Step 327/330
+>> Irish - English
+	This is useful and dangerous information. Don't think you can eat or eat in the morning.
+
+Step 328/330
+>> English - German
+	Dies sind nützliche und gefährliche Informationen. Glaube nicht, dass du morgens essen oder essen kannst.
+
+Step 329/330
+>> German - Norwegian
+	Dette er nyttig og farlig informasjon. Tror ikke at du kan spise eller spise om morgenen.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Esta é uma informação útil e perigosa. Não pense que você pode comer ou comer de manhã.
+
+
+##### RESULTS ######
+
+O carregador, apesar de todo o seu peso, não deixou de admirar a magnificência daquela casa, e a limpeza que por toda parte reinava; mas o que lhe atraiu sobremaneira a atenção foi uma terceira dama que lhe pareceu ainda mais bela que a segunda, e que se encontrava sentada no trono. Ao ver as duas primeiras damas, desceu e foi-lhes ao encontro. O carregador notou logo, pelo respeito que as outras lhe tinham, que devia tratar-se da principal, no que se não enganava. A dama chamava-se Zobeida; a que abrira a porta Safia, e Amina era o nome da que fora comprar as provisões.
+
+Esta é uma informação útil e perigosa. Não pense que você pode comer ou comer de manhã.

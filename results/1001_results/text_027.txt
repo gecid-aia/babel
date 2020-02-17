@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: História se Sindbá, o Marinheiro.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Historie om Sindbah the Sailor.
+
+Step 2/330
+>> Norwegian - German
+	Geschichte von Sindbah dem Seemann.
+
+Step 3/330
+>> German - English
+	Story of Sindbah the Sailor.
+
+Step 4/330
+>> English - Irish
+	Scéal Sindbah an Sailor.
+
+Step 5/330
+>> Irish - German
+	Die Geschichte von Sindbah dem Seemann.
+
+Step 6/330
+>> German - Icelandic
+	Sagan af Sindbah sjómanninum.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Sindbah水手的故事。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Historien om Sindbah sjöman.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Sindbah水手的故事。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Het verhaal van de Sindbah-zeeman.
+
+Step 11/330
+>> Dutch - Danish
+	Historien om Sindbah-sømand.
+
+Step 12/330
+>> Danish - English
+	The story of Sindbah sailor.
+
+Step 13/330
+>> English - Finnish
+	Tarina Sindbah-merimiehestä.
+
+Step 14/330
+>> Finnish - Maori
+	Tuhinga o mua.
+
+Step 15/330
+>> Maori - Dutch
+	Van de.
+
+Step 16/330
+>> Dutch - German
+	Aus dem.
+
+Step 17/330
+>> German - Japanese
+	から。
+
+Step 18/330
+>> Japanese - German
+	Von.
+
+Step 19/330
+>> German - Luxembourgish
+	Vun.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	מ.
+
+Step 21/330
+>> Hebrew - Korean
+	엠
+
+Step 22/330
+>> Korean - French
+	M
+
+Step 23/330
+>> French - Slovenian
+	M
+
+Step 24/330
+>> Slovenian - Spanish
+	M
+
+Step 25/330
+>> Spanish - Czech
+	M
+
+Step 26/330
+>> Czech - Italian
+	M
+
+Step 27/330
+>> Italian - Maltese
+	M
+
+Step 28/330
+>> Maltese - Estonian
+	M
+
+Step 29/330
+>> Estonian - Greek
+	Μ
+
+Step 30/330
+>> Greek - Turkish
+	M
+
+Step 31/330
+>> Turkish - Polish
+	M
+
+Step 32/330
+>> Polish - Arabic
+	M
+
+Step 33/330
+>> Arabic - Catalan
+	M
+
+Step 34/330
+>> Catalan - Lithuanian
+	M
+
+Step 35/330
+>> Lithuanian - Arabic
+	M
+
+Step 36/330
+>> Arabic - Slovak
+	M
+
+Step 37/330
+>> Slovak - Malay
+	M
+
+Step 38/330
+>> Malay - Arabic
+	M
+
+Step 39/330
+>> Arabic - Latvian
+	M
+
+Step 40/330
+>> Latvian - Portuguese
+	M
+
+Step 41/330
+>> Portuguese - Arabic
+	M
+
+Step 42/330
+>> Arabic - Spanish
+	M
+
+Step 43/330
+>> Spanish - Hungarian
+	M
+
+Step 44/330
+>> Hungarian - Croatian
+	M
+
+Step 45/330
+>> Croatian - Spanish
+	M
+
+Step 46/330
+>> Spanish - Arabic
+	M
+
+Step 47/330
+>> Arabic - Russian
+	M
+
+Step 48/330
+>> Russian - Albanian
+	M
+
+Step 49/330
+>> Albanian - Bulgarian
+	М
+
+Step 50/330
+>> Bulgarian - Romanian
+	M
+
+Step 51/330
+>> Romanian - Russian
+	M
+
+Step 52/330
+>> Russian - English
+	M
+
+Step 53/330
+>> English - Spanish
+	METRO
+
+Step 54/330
+>> Spanish - Arabic
+	METRO
+
+Step 55/330
+>> Arabic - Malay
+	METRO
+
+Step 56/330
+>> Malay - English
+	METRO
+
+Step 57/330
+>> English - Kazakh
+	МЕТРО
+
+Step 58/330
+>> Kazakh - Persian
+	مترو
+
+Step 59/330
+>> Persian - English
+	Subway
+
+Step 60/330
+>> English - French
+	Métro
+
+Step 61/330
+>> French - Spanish
+	metro
+
+Step 62/330
+>> Spanish - Turkish
+	metro
+
+Step 63/330
+>> Turkish - English
+	metro
+
+Step 64/330
+>> English - Spanish
+	metro
+
+Step 65/330
+>> Spanish - Serbian
+	метро
+
+Step 66/330
+>> Serbian - Albanian
+	metro
+
+Step 67/330
+>> Albanian - English
+	subway
+
+Step 68/330
+>> English - Georgian
+	მეტრო
+
+Step 69/330
+>> Georgian - English
+	subway
+
+Step 70/330
+>> English - Spanish
+	subterraneo
+
+Step 71/330
+>> Spanish - English
+	Underground
+
+Step 72/330
+>> English - Sinhala
+	භූගත
+
+Step 73/330
+>> Sinhala - Bosnian
+	podzemlje
+
+Step 74/330
+>> Bosnian - Spanish
+	bajo tierra
+
+Step 75/330
+>> Spanish - Portuguese
+	abaixo da terra
+
+Step 76/330
+>> Portuguese - Arabic
+	تحت الأرض
+
+Step 77/330
+>> Arabic - Macedonian
+	Подземно
+
+Step 78/330
+>> Macedonian - Armenian
+	Ստորգետնյա
+
+Step 79/330
+>> Armenian - Thai
+	ใต้ดิน
+
+Step 80/330
+>> Thai - Arabic
+	تحت الارض
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	地下
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Subterráneo
+
+Step 83/330
+>> Spanish - Ukrainian
+	Підземний
+
+Step 84/330
+>> Ukrainian - Spanish
+	Subterráneo
+
+Step 85/330
+>> Spanish - English
+	Underground
+
+Step 86/330
+>> English - Mongolian
+	Газар доорх
+
+Step 87/330
+>> Mongolian - Spanish
+	Subterráneo
+
+Step 88/330
+>> Spanish - Arabic
+	تحت الارض
+
+Step 89/330
+>> Arabic - Kurdish
+	Li binê erdê
+
+Step 90/330
+>> Kurdish - English
+	Beneath the surface
+
+Step 91/330
+>> English - Dutch
+	Onder het oppervlak
+
+Step 92/330
+>> Dutch - English
+	Under the surface
+
+Step 93/330
+>> English - Samoan
+	I lalo ifo
+
+Step 94/330
+>> Samoan - Uzbek
+	Quyida
+
+Step 95/330
+>> Uzbek - English
+	Below
+
+Step 96/330
+>> English - Arabic
+	أدناه
+
+Step 97/330
+>> Arabic - French
+	Ci-dessous
+
+Step 98/330
+>> French - Spanish
+	por debajo
+
+Step 99/330
+>> Spanish - Romanian
+	de mai jos
+
+Step 100/330
+>> Romanian - Filipino
+	sa ibaba
+
+Step 101/330
+>> Filipino - Zulu
+	ngezansi
+
+Step 102/330
+>> Zulu - Arabic
+	أقل من
+
+Step 103/330
+>> Arabic - Indonesian
+	Kurang dari
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Ít hơn
+
+Step 105/330
+>> Vietnamese - Spanish
+	Menos es más
+
+Step 106/330
+>> Spanish - Arabic
+	أقل ما هو أكثر
+
+Step 107/330
+>> Arabic - Spanish
+	Menos es más
+
+Step 108/330
+>> Spanish - Russian
+	Меньше значит больше
+
+Step 109/330
+>> Russian - Arabic
+	أقل ما هو أكثر.
+
+Step 110/330
+>> Arabic - Spanish
+	Menos es más.
+
+Step 111/330
+>> Spanish - Portuguese
+	Menos é mais.
+
+Step 112/330
+>> Portuguese - English
+	Less is more.
+
+Step 113/330
+>> English - Spanish
+	Menos es más.
+
+Step 114/330
+>> Spanish - English
+	Less is more.
+
+Step 115/330
+>> English - Hindi
+	थोड़ा ही काफी है।
+
+Step 116/330
+>> Hindi - Portuguese
+	Apenas um pouco é suficiente.
+
+Step 117/330
+>> Portuguese - Spanish
+	Solo un poco es suficiente.
+
+Step 118/330
+>> Spanish - English
+	Just a little is enough.
+
+Step 119/330
+>> English - Bengali
+	একটু সামান্যই যথেষ্ট।
+
+Step 120/330
+>> Bengali - French
+	Un peu suffit.
+
+Step 121/330
+>> French - lao
+	ພຽງເລັກນ້ອຍແມ່ນພຽງພໍ.
+
+Step 122/330
+>> lao - English
+	Little is enough.
+
+Step 123/330
+>> English - Portuguese
+	Pouco é suficiente.
+
+Step 124/330
+>> Portuguese - English
+	Little is enough.
+
+Step 125/330
+>> English - Portuguese
+	Pouco é suficiente.
+
+Step 126/330
+>> Portuguese - English
+	Little is enough.
+
+Step 127/330
+>> English - Portuguese
+	Pouco é suficiente.
+
+Step 128/330
+>> Portuguese - Burmese
+	Little ကလုံလောက်ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	सानो पर्याप्त छ।
+
+Step 130/330
+>> Nepali - Urdu
+	کافی چھوٹا۔
+
+Step 131/330
+>> Urdu - French
+	Trop petit
+
+Step 132/330
+>> French - English
+	Too small
+
+Step 133/330
+>> English - Swahili
+	Ndogo sana
+
+Step 134/330
+>> Swahili - Arabic
+	صغير جدا
+
+Step 135/330
+>> Arabic - Shona
+	Zvishoma kwazvo
+
+Step 136/330
+>> Shona - Hausa
+	Kaɗan kaɗan
+
+Step 137/330
+>> Hausa - Swahili
+	Wachache sana
+
+Step 138/330
+>> Swahili - English
+	Very few
+
+Step 139/330
+>> English - Arabic
+	قليل جدا
+
+Step 140/330
+>> Arabic - Malagasy
+	Tena vitsy
+
+Step 141/330
+>> Malagasy - Swahili
+	Wachache sana
+
+Step 142/330
+>> Swahili - French
+	Très peu
+
+Step 143/330
+>> French - Arabic
+	قليل جدا
+
+Step 144/330
+>> Arabic - French
+	Très peu
+
+Step 145/330
+>> French - Arabic
+	قليل جدا
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Trè kèk
+
+Step 147/330
+>> Haitian Creole - Pashto
+	ډیر لږ
+
+Step 148/330
+>> Pashto - French
+	Très peu
+
+Step 149/330
+>> French - Chichewa
+	Zochepa kwambiri
+
+Step 150/330
+>> Chichewa - Arabic
+	صغير جدا
+
+Step 151/330
+>> Arabic - Amharic
+	በጣም ትንሽ።
+
+Step 152/330
+>> Amharic - English
+	little bit.
+
+Step 153/330
+>> English - French
+	un peu.
+
+Step 154/330
+>> French - Swahili
+	kidogo.
+
+Step 155/330
+>> Swahili - Portuguese
+	pouco.
+
+Step 156/330
+>> Portuguese - Arabic
+	قليلا.
+
+Step 157/330
+>> Arabic - Portuguese
+	Um pouco
+
+Step 158/330
+>> Portuguese - English
+	A little
+
+Step 159/330
+>> English - French
+	Un peu
+
+Step 160/330
+>> French - English
+	A little
+
+Step 161/330
+>> English - Swahili
+	Kidogo
+
+Step 162/330
+>> Swahili - Arabic
+	قليلا
+
+Step 163/330
+>> Arabic - Arabic
+	A little
+
+Step 164/330
+>> Arabic - French
+	Un peu
+
+Step 165/330
+>> French - Hausa
+	Kadan
+
+Step 166/330
+>> Hausa - French
+	Moins
+
+Step 167/330
+>> French - Arabic
+	less
+
+Step 168/330
+>> Arabic - Arabic
+	أقل
+
+Step 169/330
+>> Arabic - Swahili
+	Chache
+
+Step 170/330
+>> Swahili - English
+	Not at all
+
+Step 171/330
+>> English - French
+	Pas du tout
+
+Step 172/330
+>> French - English
+	Not at all
+
+Step 173/330
+>> English - Portuguese
+	De modo nenhum
+
+Step 174/330
+>> Portuguese - Arabic
+	لا على الإطلاق
+
+Step 175/330
+>> Arabic - Portuguese
+	Nem um pouco
+
+Step 176/330
+>> Portuguese - Swahili
+	Sio hivyo
+
+Step 177/330
+>> Swahili - French
+	Pas si
+
+Step 178/330
+>> French - English
+	Not so
+
+Step 179/330
+>> English - Amharic
+	እንዲህ አይደለም
+
+Step 180/330
+>> Amharic - Arabic
+	ليس كذلك
+
+Step 181/330
+>> Arabic - Chichewa
+	Sichoncho
+
+Step 182/330
+>> Chichewa - French
+	Pas du tout
+
+Step 183/330
+>> French - Pashto
+	نه
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Non.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	الاسم.
+
+Step 186/330
+>> Arabic - French
+	Nom
+
+Step 187/330
+>> French - Arabic
+	الاسم العائلي
+
+Step 188/330
+>> Arabic - French
+	Nom de famille
+
+Step 189/330
+>> French - Swahili
+	Jina la mwisho
+
+Step 190/330
+>> Swahili - Malagasy
+	Anarana farany
+
+Step 191/330
+>> Malagasy - Arabic
+	اسم العائلة
+
+Step 192/330
+>> Arabic - English
+	family name
+
+Step 193/330
+>> English - Swahili
+	jina la ukoo
+
+Step 194/330
+>> Swahili - Hausa
+	sunan dangi
+
+Step 195/330
+>> Hausa - Shona
+	zita remhuri
+
+Step 196/330
+>> Shona - Arabic
+	اسم العائلة
+
+Step 197/330
+>> Arabic - Swahili
+	Jina la mwisho
+
+Step 198/330
+>> Swahili - English
+	Last name
+
+Step 199/330
+>> English - French
+	Nom de famille
+
+Step 200/330
+>> French - Urdu
+	آخری نام
+
+Step 201/330
+>> Urdu - Nepali
+	थर
+
+Step 202/330
+>> Nepali - Burmese
+	နောက်ဆုံး
+
+Step 203/330
+>> Burmese - Portuguese
+	mais recente
+
+Step 204/330
+>> Portuguese - English
+	last
+
+Step 205/330
+>> English - Portuguese
+	último
+
+Step 206/330
+>> Portuguese - English
+	last
+
+Step 207/330
+>> English - Portuguese
+	último
+
+Step 208/330
+>> Portuguese - English
+	last
+
+Step 209/330
+>> English - lao
+	ສຸດທ້າຍ
+
+Step 210/330
+>> lao - French
+	Enfin
+
+Step 211/330
+>> French - Bengali
+	পরিশেষে
+
+Step 212/330
+>> Bengali - English
+	Finally
+
+Step 213/330
+>> English - Spanish
+	Finalmente
+
+Step 214/330
+>> Spanish - Portuguese
+	Finalmente
+
+Step 215/330
+>> Portuguese - Hindi
+	अंत में
+
+Step 216/330
+>> Hindi - English
+	In the end
+
+Step 217/330
+>> English - Spanish
+	En el final
+
+Step 218/330
+>> Spanish - English
+	At the end
+
+Step 219/330
+>> English - Portuguese
+	No fim
+
+Step 220/330
+>> Portuguese - Spanish
+	Al final
+
+Step 221/330
+>> Spanish - Arabic
+	في النهاية
+
+Step 222/330
+>> Arabic - Russian
+	В конце
+
+Step 223/330
+>> Russian - Spanish
+	Al final
+
+Step 224/330
+>> Spanish - Arabic
+	في النهاية
+
+Step 225/330
+>> Arabic - Spanish
+	al final
+
+Step 226/330
+>> Spanish - Vietnamese
+	ở cuối
+
+Step 227/330
+>> Vietnamese - Indonesian
+	pada akhirnya
+
+Step 228/330
+>> Indonesian - Arabic
+	في النهاية
+
+Step 229/330
+>> Arabic - Zulu
+	Ekugcineni
+
+Step 230/330
+>> Zulu - Filipino
+	Sa wakas
+
+Step 231/330
+>> Filipino - Romanian
+	în cele din urmă
+
+Step 232/330
+>> Romanian - Spanish
+	finalmente
+
+Step 233/330
+>> Spanish - French
+	finalement
+
+Step 234/330
+>> French - Arabic
+	أخيرا
+
+Step 235/330
+>> Arabic - English
+	finally
+
+Step 236/330
+>> English - Uzbek
+	nihoyat
+
+Step 237/330
+>> Uzbek - Samoan
+	Mulimuli
+
+Step 238/330
+>> Samoan - English
+	Follow
+
+Step 239/330
+>> English - Dutch
+	Volgen
+
+Step 240/330
+>> Dutch - English
+	To follow
+
+Step 241/330
+>> English - Kurdish
+	Şopandin
+
+Step 242/330
+>> Kurdish - Arabic
+	المتابعة
+
+Step 243/330
+>> Arabic - Spanish
+	Continuar
+
+Step 244/330
+>> Spanish - Mongolian
+	Үргэлжлүүл гэж
+
+Step 245/330
+>> Mongolian - English
+	Keep going
+
+Step 246/330
+>> English - Spanish
+	Sigue adelante
+
+Step 247/330
+>> Spanish - Ukrainian
+	Продовжуйте
+
+Step 248/330
+>> Ukrainian - Spanish
+	Sigue adelante
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	继续
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	استمر
+
+Step 251/330
+>> Arabic - Thai
+	ต่อ
+
+Step 252/330
+>> Thai - Armenian
+	Դեպի
+
+Step 253/330
+>> Armenian - Macedonian
+	До:
+
+Step 254/330
+>> Macedonian - Arabic
+	إلى:
+
+Step 255/330
+>> Arabic - Portuguese
+	Para:
+
+Step 256/330
+>> Portuguese - Spanish
+	Para:
+
+Step 257/330
+>> Spanish - Bosnian
+	Za:
+
+Step 258/330
+>> Bosnian - Sinhala
+	සඳහා:
+
+Step 259/330
+>> Sinhala - English
+	For:
+
+Step 260/330
+>> English - Spanish
+	Por:
+
+Step 261/330
+>> Spanish - English
+	By:
+
+Step 262/330
+>> English - Georgian
+	ავტორი:
+
+Step 263/330
+>> Georgian - English
+	Author:
+
+Step 264/330
+>> English - Albanian
+	Author:
+
+Step 265/330
+>> Albanian - Serbian
+	Аутор:
+
+Step 266/330
+>> Serbian - Spanish
+	Autor:
+
+Step 267/330
+>> Spanish - English
+	Author:
+
+Step 268/330
+>> English - Turkish
+	Yazar:
+
+Step 269/330
+>> Turkish - Spanish
+	autor:
+
+Step 270/330
+>> Spanish - French
+	auteur:
+
+Step 271/330
+>> French - English
+	author:
+
+Step 272/330
+>> English - Persian
+	نویسنده:
+
+Step 273/330
+>> Persian - Kazakh
+	Автор:
+
+Step 274/330
+>> Kazakh - English
+	Author:
+
+Step 275/330
+>> English - Malay
+	Pengarang:
+
+Step 276/330
+>> Malay - Arabic
+	المؤلف:
+
+Step 277/330
+>> Arabic - Spanish
+	Autor:
+
+Step 278/330
+>> Spanish - English
+	Author:
+
+Step 279/330
+>> English - Russian
+	Автор:
+
+Step 280/330
+>> Russian - Romanian
+	Postat de
+
+Step 281/330
+>> Romanian - Bulgarian
+	Публикувано от
+
+Step 282/330
+>> Bulgarian - Albanian
+	Postuar nga
+
+Step 283/330
+>> Albanian - Russian
+	Автор:
+
+Step 284/330
+>> Russian - Arabic
+	أرسلت بواسطة
+
+Step 285/330
+>> Arabic - Spanish
+	Publicado por Dave
+
+Step 286/330
+>> Spanish - Croatian
+	Objavio Dave
+
+Step 287/330
+>> Croatian - Hungarian
+	Dave
+
+Step 288/330
+>> Hungarian - Spanish
+	David
+
+Step 289/330
+>> Spanish - Arabic
+	ديفيد
+
+Step 290/330
+>> Arabic - Portuguese
+	David
+
+Step 291/330
+>> Portuguese - Latvian
+	Dāvids
+
+Step 292/330
+>> Latvian - Arabic
+	ديفيد
+
+Step 293/330
+>> Arabic - Malay
+	David
+
+Step 294/330
+>> Malay - Slovak
+	David
+
+Step 295/330
+>> Slovak - Arabic
+	ديفيد
+
+Step 296/330
+>> Arabic - Lithuanian
+	Deividas
+
+Step 297/330
+>> Lithuanian - Catalan
+	David
+
+Step 298/330
+>> Catalan - Arabic
+	ديفيد
+
+Step 299/330
+>> Arabic - Polish
+	David
+
+Step 300/330
+>> Polish - Turkish
+	David
+
+Step 301/330
+>> Turkish - Greek
+	Δαβίδ
+
+Step 302/330
+>> Greek - Estonian
+	David
+
+Step 303/330
+>> Estonian - Maltese
+	David
+
+Step 304/330
+>> Maltese - Italian
+	David
+
+Step 305/330
+>> Italian - Czech
+	David
+
+Step 306/330
+>> Czech - Spanish
+	David
+
+Step 307/330
+>> Spanish - Slovenian
+	David
+
+Step 308/330
+>> Slovenian - French
+	David
+
+Step 309/330
+>> French - Korean
+	데이비드
+
+Step 310/330
+>> Korean - Hebrew
+	דייויד
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	David
+
+Step 312/330
+>> Luxembourgish - German
+	David
+
+Step 313/330
+>> German - Japanese
+	ダビデ
+
+Step 314/330
+>> Japanese - German
+	David
+
+Step 315/330
+>> German - Dutch
+	David
+
+Step 316/330
+>> Dutch - Maori
+	Rawiri
+
+Step 317/330
+>> Maori - Finnish
+	David
+
+Step 318/330
+>> Finnish - English
+	David
+
+Step 319/330
+>> English - Danish
+	David
+
+Step 320/330
+>> Danish - Dutch
+	David
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	大衛
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	David
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	大衛
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Davíð
+
+Step 325/330
+>> Icelandic - German
+	David
+
+Step 326/330
+>> German - Irish
+	David
+
+Step 327/330
+>> Irish - English
+	David
+
+Step 328/330
+>> English - German
+	David
+
+Step 329/330
+>> German - Norwegian
+	David
+
+Step 330/330
+>> Norwegian - Portuguese
+	David
+
+
+##### RESULTS ######
+
+História se Sindbá, o Marinheiro.
+
+David

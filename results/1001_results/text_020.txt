@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O grão-vizir Djafar opôs-se àquele projeto, e mostrou as suas conseqüências ao califa, sem todavia trair a qualidade do príncipe aos calandares, e dirigindo-lhe a palavra, como se fora um simples mercador: “Senhor, disse, lembrai-vos de que precisamos manter a nossa reputação. Sabeis em que condições estas damas nos receberam; sabeis que nós as aceitamos. Que diriam, se as não respeitássemos? Seríamos ainda mais censuráveis, se nos sucedesse alguma desgraça. Não é de crer que tenham exigido de nós tal promessa, sem estarem em condições de fazer com que nos arrependamos, por não respeitá-las.”
+
+Step 1/330
+>> Portuguese - Norwegian
+	Grand Vizier Djafar motarbeidet dette prosjektet, og viste konsekvensene for kalifen, uten å forråde prinsens kvalitet til kalenderen og ta opp ham som en ren kjøpmann: “Herre, sa han, jeg husket Du må opprettholde vårt rykte. Du vet under hvilke forhold disse damene har mottatt oss; Du vet at vi godtar dem. Hva ville de sagt hvis vi ikke respekterte dem? Vi ville være enda mer motstridende hvis vi hadde noen ulykke. Det er ikke til å tro at de har krevd et slikt løfte fra oss uten å kunne få oss til å angre for ikke å respektere dem. ”
+
+Step 2/330
+>> Norwegian - German
+	Der Großwesir Djafar hat dieses Projekt vereitelt, die Konsequenzen für den Kalifen aufgezeigt, ohne die Qualität des Prinzen im Kalender zu verraten und ihn als bloßen Kaufmann festzuhalten: „Herr, sagte er, ich erinnere mich, dass Sie unseren Ruf wahren müssen. Sie wissen, unter welchen Bedingungen diese Damen uns empfangen haben; Sie wissen, dass wir sie akzeptieren. Was würden sie sagen, wenn wir sie nicht respektieren würden? Wir wären noch widersprüchlicher, wenn wir einen Unfall hätten. Es ist nicht zu glauben, dass sie von uns ein solches Versprechen verlangt haben, ohne dass wir es bereuen können, sie nicht respektiert zu haben. "
+
+Step 3/330
+>> German - English
+	The Grand Vizier Djafar thwarted this project, pointed out the consequences for the Caliph, without betraying the prince's quality in the calendar and holding him as a mere merchant: "Lord, he said, I remember that you must uphold our reputation. You know under what conditions these ladies have received us; They know that we accept them. What would they say if we did not respect them? We would be even more contradictory if we had an accident. It is unbelievable that they demanded such a promise from us, without being able to repent of not having respected them. "
+
+Step 4/330
+>> English - Irish
+	Chuir an Grand Vizier Djafar bac ar an tionscadal seo, chuir sé in iúl na hiarmhairtí don Caliph, gan an caighdeán a bhí ag an bprionsa sa bhféilire a bhrath agus é a shealbhú mar cheannaí amháin: "A Thiarna, dúirt sé, cuimhin liom go gcaithfidh tú seasamh lenár gcáil. Cad iad na coinníollacha a fuair na mban seo, tá a fhios againn go nglacann muid leo. Cad é a déarfainn mura ndéanfaimis meas orthu? Bheadh muid níos contrártha dá mbeadh timpiste againn. Tá sé dochreidte gur éiligh siad a leithéid de ghealltanas uainn, gan a bheith in ann aithrí a bheith acu gan gan iad a urramú. "
+
+Step 5/330
+>> Irish - German
+	Der Großwesir Djafar hat dieses Projekt blockiert, die Konsequenzen für den Kalifen kommuniziert, den Standard des Prinzen im Kalender nicht erkannt und ihn als einen Händler geführt: "Herr, sagte er, ich erinnere mich daran Welche Bedingungen hatten diese Frauen, wir wissen, dass wir sie akzeptieren, was würde ich sagen, wenn wir sie nicht respektieren? Wir wären widersprüchlicher, wenn wir einen Unfall hätten. eine solche Verpflichtung von uns, ohne bereuen zu können, ohne respektiert zu werden. "
+
+Step 6/330
+>> German - Icelandic
+	Grand Vizier Djafar hefur lokað fyrir þetta verkefni, komið á framfæri afleiðingum fyrir kalífinn, ekki viðurkennt staðal prinsins í dagatalinu og leitt hann sem söluaðila: "Herra, hann sagði, ég man. Hvaða aðstæður höfðu þessar konur, við vitum að við tökum við þeim, hvað myndi ég segja ef við virðum ekki þá, við værum mótsagnakenndari ef við lentum í slysi, slík skylda á okkur án þess að geta iðrast án þess að vera virt. “
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	Grand Vizier Djafar封鎖了這個項目，向哈里發提出了後果，沒有認出王子在日程中的標準，並帶領他作為推銷員：“先生，他說，我記得。這些女人有什麼情況，我們知道我們接受他們如果我們不尊重他們，我會說什麼呢？如果我們發生意外，我們就會自相矛盾，對我們這樣的責任卻不能在不受尊重的情況下悔改。“
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Grand Vizier Djafar blockerade projektet och presenterade konsekvenserna för kalifen. Han erkände inte prinsens standard på dagordningen och ledde honom som säljare: "Herr Han sa, jag kommer ihåg. Vilka är dessa kvinnors villkor, vi vet att vi accepterar Om de inte respekterar dem, vad säger jag? Om vi har en olycka kommer vi att vara självmotsägande och vårt ansvar för oss kan inte omvändas utan respekt. "
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	Grand Vizier Djafar阻止了該項目並向哈里發提出了後果。他不承認王子在議程上的標準，並把他當作推銷員：“韓先生說，我記得。這些女性的條款是什麼，我們知道我們接受如果他們不尊重他們，我該說什麼？如果我們發生意外，我們會要自相矛盾，我們對我們的責任是不能沒有尊重的。“
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Grand Vizier Djafar blokkeerde het project en legde de gevolgen voor aan de kalief. Hij herkent de criteria van de prins op de agenda niet en behandelt hem als een verkoper: "Meneer Han zei, ik herinner het me. Wat zijn de voorwaarden van deze vrouwen, we weten dat we accepteren als ze ze niet respecteren, wat moet ik zeggen? Als we gebeuren Ongevallen, we zullen tegenstrijdig moeten zijn, en onze verantwoordelijkheid tegenover ons kan niet zonder respect zijn. "
+
+Step 11/330
+>> Dutch - Danish
+	Grand Vizier Djafar blokerede for projektet og forklarede konsekvenserne for kalifen. Han genkender ikke prinsens kriterier på dagsordenen og behandler ham som en sælger: "Mr. Han sagde, jeg kan huske. Hvad er betingelserne for disse kvinder, vi ved, at vi accepterer, hvis de ikke respekterer dem, hvad skal jeg gøre? Hvis vi sker ulykker, bliver vi nødt til at være modstridende, og vores ansvar over for os kan ikke være uden respekt. "
+
+Step 12/330
+>> Danish - English
+	Grand Vizier Djafar blocked the project and explained the consequences for the caliph. He does not recognize the prince's criteria on the agenda and treats him like a salesman: "Mr. He said I can remember. What are the conditions for these women we know we accept if they do not respect them, what should I do? we do accidents, we have to be contradictory, and our responsibility to us cannot be without respect. "
+
+Step 13/330
+>> English - Finnish
+	Grand Vizier Djafar esti projektin ja selitti seuraukset kalifiolle. Hän ei tunnusta prinssin asialistalla olevia kriteerejä ja kohtelee häntä myyntimiehen tavoin: "Herra. Hän sanoi, että voin muistaa. Minkälaisissa olosuhteissa nämä naiset tiedämme hyväksymme, jos he eivät kunnioita heitä, mitä minun pitäisi tehdä? tehdä onnettomuuksia, meidän on oltava ristiriitaisia, eikä vastuumme meille voi olla ilman kunnioitusta. "
+
+Step 14/330
+>> Finnish - Maori
+	I aukati a Grand Vizier Djafar i te kaupapa me te whakamarama i nga ahuatanga o te kaawawa. Kaore ia e mohio ki nga paearu kaupapa a te rangatira me te whai ki a ia ano he kaihoko: "E te Ariki. ko ta tatou kawenga ki a tatou ka taea te kore e whakaute. "
+
+Step 15/330
+>> Maori - Dutch
+	Grand Vizier Djafar onderbrak het evenement en legde de aard van het protocol uit. Ze begrijpt de beleidscriteria van de eigenaar niet en behandelt haar als een klant: "Heer. Onze verantwoordelijkheid tegenover ons kan niet worden gerespecteerd."
+
+Step 16/330
+>> Dutch - German
+	Grand Vizier Djafar unterbrach die Veranstaltung und erklärte die Art des Protokolls. Sie versteht die politischen Kriterien des Eigentümers nicht und behandelt sie wie einen Kunden: "Herr. Unsere Verantwortung uns gegenüber kann nicht respektiert werden."
+
+Step 17/330
+>> German - Japanese
+	Grand Vizier Djafarはイベントを中断し、プロトコルの性質を説明しました。彼女は所有者の政治的基準を理解せず、彼女をクライアントのように扱います。「主よ、私たち自身の責任は尊重されません」
+
+Step 18/330
+>> Japanese - German
+	Grand Vizier Djafar unterbrach die Veranstaltung und erklärte die Art des Protokolls. Sie versteht die politischen Maßstäbe des Besitzers nicht und behandelt sie wie einen Kunden. "Herr, unsere eigene Verantwortung wird nicht respektiert"
+
+Step 19/330
+>> German - Luxembourgish
+	De Grand Vizier Djafar huet d'Evenement ënnerbrach an d'Natur vum Protokoll erkläert. Si versteet net d'Politik vum Besëtzer a behandelt hatt wéi e Client. "Här, eis eegen Verantwortung gëtt net respektéiert"
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	Grand Vizier Djafar קטע את האירוע והסביר את אופי הפרוטוקול. היא לא מבינה את מדיניות הבעלים ומתייחסת אליה כאל לקוח. "אדוני, האחריות שלנו אינה מכבדת"
+
+Step 21/330
+>> Hebrew - Korean
+	Grand Vizier Djafar는 이벤트를 중단하고 프로토콜의 특성을 설명했습니다. 그녀는 소유자의 정책을 이해하지 못하고 고객으로 취급합니다. "선생님, 우리의 책임은 존중되지 않습니다"
+
+Step 22/330
+>> Korean - French
+	Le grand vizir Djafar a mis fin à l'événement et a expliqué la nature du protocole. Elle ne comprend pas la politique du propriétaire et la traite comme une cliente. "Maître, notre responsabilité n'est pas respectée."
+
+Step 23/330
+>> French - Slovenian
+	Veliki vezir Djafar je dogodek zaključil in pojasnil naravo protokola. Lastniške politike ne razume in jo obravnava kot stranko. "Mojster, naše odgovornosti se ne spoštuje."
+
+Step 24/330
+>> Slovenian - Spanish
+	El Gran Visir Djafar concluyó el evento y explicó la naturaleza del protocolo. No entiende ni trata la política de propiedad como un cliente. "Maestro, nuestra responsabilidad no se respeta".
+
+Step 25/330
+>> Spanish - Czech
+	Grand Vizier Djafar událost uzavřel a vysvětlil povahu protokolu. Nerozumí nebo nepovažuje politiku vlastnictví za zákazníka. "Pane, naše zodpovědnost není respektována."
+
+Step 26/330
+>> Czech - Italian
+	Il Gran Visir Djafar ha chiuso l'evento e ha spiegato la natura del protocollo. Non comprende né considera la politica di proprietà come cliente. "Signore, la nostra responsabilità non è rispettata."
+
+Step 27/330
+>> Italian - Maltese
+	Il-Gran Viżier Djafar għalaq l-avveniment u spjega n-natura tal-protokoll. Ma jifhimx jew ma jqisx il-politika tal-proprjetà bħala klijent. "Sinjur, ir-responsabbiltà tagħna mhix rispettata."
+
+Step 28/330
+>> Maltese - Estonian
+	The Grand Vizer Djafar suletud korral ja selgitas, milline on protokolli. Ei mõista või ei võta vara poliitika klient. "Sir, meie vastutus ei järgita."
+
+Step 29/330
+>> Estonian - Greek
+	Ο Μεγάλος Οραματιστής Djafar έκλεισε την υπόθεση και εξήγησε ποιο είναι το πρωτόκολλο. Δεν κατανοεί ή δεν λαμβάνει την πολιτική ιδιοκτησίας του πελάτη. "Κύριε, η ευθύνη μας δεν είναι σεβαστή."
+
+Step 30/330
+>> Greek - Turkish
+	Grand Visionary Djafar davayı kapattı ve protokolün ne olduğunu açıkladı. Müşterinin mülkiyet politikasını anlamaz veya almaz. "Efendim, sorumluluklarımıza saygı gösterilmez."
+
+Step 31/330
+>> Turkish - Polish
+	Wielki Wizjoner Djafar zamknął sprawę i wyjaśnił, jaki był protokół. Nie rozumie ani nie przyjmuje polityki nieruchomości klienta. „Panie, nasze obowiązki nie są przestrzegane”.
+
+Step 32/330
+>> Polish - Arabic
+	قام جعفر البصيرة الكبرى بإغلاق القضية وشرح ماهية البروتوكول. لا يفهم أو يقبل سياسة ملكية العميل. "يا رب ، لا تحترم واجباتنا."
+
+Step 33/330
+>> Arabic - Catalan
+	Jafar al-Kubra va tancar el cas i va explicar quin era el protocol. No entén ni accepta la Política de propietat del client. "Senyor, no respecteu els nostres deures."
+
+Step 34/330
+>> Catalan - Lithuanian
+	Jafar al-Kubra baigė bylą ir paaiškino, koks buvo protokolas. Jūs nesuprantate ar nesutinkate su Kliento nuosavybės politika. "Viešpatie, negerbk mūsų pareigų".
+
+Step 35/330
+>> Lithuanian - Arabic
+	أغلق جعفر الكبرى القضية وشرح ماهية البروتوكول. أنت لا تفهم أو لا توافق على سياسة ملكية العميل. "يا رب ، لا تحترم واجبنا."
+
+Step 36/330
+>> Arabic - Slovak
+	Jafar al-Kubra prípad uzavrel a vysvetlil, čo je to za protokol. Nerozumiete zásadám vlastníctva zákazníka alebo nesúhlasíte s nimi. "Pane, nerešpektuj naše povinnosti."
+
+Step 37/330
+>> Slovak - Malay
+	Jafar al-Kubra menutup kes itu dan menjelaskan apa protokolnya. Anda tidak memahami atau bersetuju dengan Dasar Pemilikan Pelanggan. "Tuan, jangan hormati tugas kami."
+
+Step 38/330
+>> Malay - Arabic
+	أغلق جعفر الكبرى القضية وشرح ماهية البروتوكول. أنت لا تفهم أو توافق على سياسة ملكية العميل. "سيدي ، لا تحترم واجبنا."
+
+Step 39/330
+>> Arabic - Latvian
+	Jafars al-Kubra slēdza lietu un paskaidroja, kas ir protokols. Jūs nesaprotat vai nepiekrītat Klientu īpašumtiesību politikai. "Kungs, neievērojiet mūsu pienākumu."
+
+Step 40/330
+>> Latvian - Portuguese
+	Jafar al-Kubra encerrou o caso e explicou qual era o protocolo. Você não entende ou concorda com a Política de propriedade do cliente. "Senhor, não cumpra nosso dever."
+
+Step 41/330
+>> Portuguese - Arabic
+	أغلق جعفر الكبرى القضية وشرح ماهية البروتوكول. أنت لا تفهم أو توافق على سياسة ملكية العميل. "يا رب ، لا تقم بواجبنا".
+
+Step 42/330
+>> Arabic - Spanish
+	Jafar al-Kubra cerró el caso y explicó cuál era el protocolo. No comprende ni acepta la Política de propiedad del cliente. "Señor, no cumplas con nuestro deber".
+
+Step 43/330
+>> Spanish - Hungarian
+	Jafar al-Kubra lezárta az ügyet és elmagyarázta, mi a jegyzőkönyv. Nem érti vagy nem fogadja el az ügyféltulajdon-politikát. "Uram, ne végezze el kötelességünket."
+
+Step 44/330
+>> Hungarian - Croatian
+	Jafar al-Kubra zatvorio je slučaj i objasnio zapisnike. Ne razumijete ili ne prihvaćate politiku vlasništva klijenta. "Gospodine, ne izvršavajte našu dužnost."
+
+Step 45/330
+>> Croatian - Spanish
+	Jafar al-Kubra cerró el caso y explicó las actas. No comprende ni acepta la política de propiedad del cliente. "Señor, no cumpla con nuestro deber".
+
+Step 46/330
+>> Spanish - Arabic
+	أغلق جعفر الكبرى القضية وشرح المحضر. لا يفهم أو يقبل سياسة ملكية العميل. "يا رب ، لا تفعل واجبنا."
+
+Step 47/330
+>> Arabic - Russian
+	Джафар закрыл дело и объяснил запись. Не понимает и не принимает Политику владения клиентом. «Господи, не выполняй наш долг».
+
+Step 48/330
+>> Russian - Albanian
+	Jafar mbylli çështjen dhe shpjegoi rekordin. Nuk e kupton dhe nuk e pranon Politikën e Pronësisë së Klientit. "Zot, mos e bëj detyrën tonë".
+
+Step 49/330
+>> Albanian - Bulgarian
+	Джафар приключи случая и обясни записа. Той не разбира и не приема Политиката за собственост на клиента. "Боже, не си върши работата."
+
+Step 50/330
+>> Bulgarian - Romanian
+	Jafar a închis cazul și a explicat înregistrarea. El nu înțelege și nu acceptă Politica de proprietate a Clientului. „Doamne, nu-ți face treaba”.
+
+Step 51/330
+>> Romanian - Russian
+	Джафар закрыл дело и объяснил запись. Он не понимает и не принимает политику собственности Клиента. «Боже, не делай свою работу».
+
+Step 52/330
+>> Russian - English
+	Jafar closed the case and explained the record. He does not understand and does not accept the Client’s property policy. "God, don't do your job."
+
+Step 53/330
+>> English - Spanish
+	Jafar cerró el caso y explicó el registro. No entiende y no acepta la política de propiedad del Cliente. "Dios, no hagas tu trabajo".
+
+Step 54/330
+>> Spanish - Arabic
+	أغلق جعفر القضية وشرح السجل. لا يفهم ولا يقبل سياسة ملكية العميل. "الله ، لا تؤدي وظيفتك."
+
+Step 55/330
+>> Arabic - Malay
+	Jafar menutup kes itu dan menjelaskan rekod itu. Pelanggan tidak memahami atau menerima dasar pemilikan. "Tuhan, buat kerja awak."
+
+Step 56/330
+>> Malay - English
+	Jafar closed the case and explained the record. Customer does not understand or accept ownership policy. "God, do your work."
+
+Step 57/330
+>> English - Kazakh
+	Джафар істі жауып, жазбаны түсіндірді. Клиент меншік саясатын түсінбейді немесе қабылдамайды. «Құдайым, өз ісіңді жаса».
+
+Step 58/330
+>> Kazakh - Persian
+	جعفر پرونده را بست و یادداشت را توضیح داد. مشتری غیرقابل درک است یا از سیاست اختصاصی برکنار شده است. "خدا ، کار خود را انجام دهید."
+
+Step 59/330
+>> Persian - English
+	Jaafar closed the case and explained the note. Customer is incomprehensible or excluded from proprietary policy. "God, do your job."
+
+Step 60/330
+>> English - French
+	Jaafar a clos le dossier et expliqué la note. Le client est incompréhensible ou exclu de la politique de propriété. "Mon Dieu, fais ton travail."
+
+Step 61/330
+>> French - Spanish
+	Jaafar cerró el archivo y explicó la nota. El cliente es incomprensible o está excluido de la política de propiedad. "Dios, haz tu trabajo".
+
+Step 62/330
+>> Spanish - Turkish
+	Jaafar dosyayı kapattı ve notu açıkladı. Müşteri anlaşılmazdır veya mülk politikasının dışındadır. "Tanrım, işini yap."
+
+Step 63/330
+>> Turkish - English
+	Jaafar closed the file and announced the note. The customer is incomprehensible or out of property policy. "God, do your job."
+
+Step 64/330
+>> English - Spanish
+	Jaafar cerró el archivo y anunció la nota. El cliente es incomprensible o está fuera de la política de propiedad. "Dios, haz tu trabajo".
+
+Step 65/330
+>> Spanish - Serbian
+	Јаафар затвори досије и најави му белешку. Клијент је неразумљив или је изван имовинске политике. "Боже, ради свој посао."
+
+Step 66/330
+>> Serbian - Albanian
+	Jaafar mbylli dosjen dhe njoftoi shënimin e tij. Klienti është i pakuptueshëm ose nuk ka politikë pronë. "Zot, bëj punën tënde".
+
+Step 67/330
+>> Albanian - English
+	Jaafar closed the file and announced his note. Client is incomprehensible or has no property policy. "God, do your job."
+
+Step 68/330
+>> English - Georgian
+	ჯაფარმა დახურა ფაილი და გამოაცხადა შენიშვნა. კლიენტი გაუგებარია ან არ აქვს ქონებრივი პოლიტიკა. "ღმერთო, გააკეთე შენი საქმე".
+
+Step 69/330
+>> Georgian - English
+	Jaffar closed the file and issued a notice. The client does not understand or has a property policy. "God, do your thing."
+
+Step 70/330
+>> English - Spanish
+	Jaffar cerró el archivo y emitió un aviso. El cliente no entiende o tiene una política de propiedad. "Dios, haz lo tuyo".
+
+Step 71/330
+>> Spanish - English
+	Jaffar closed the file and issued a warning. The client does not understand or has a property policy. "God, do your thing."
+
+Step 72/330
+>> English - Sinhala
+	ජෆාර් ගොනුව වසා අනතුරු ඇඟවීමක් කළේය. සේවාදායකයාට දේපළ ප්‍රතිපත්තියක් තේරෙන්නේ නැත. "දෙයියනේ, ඔයාගේ වැඩේ කරන්න."
+
+Step 73/330
+>> Sinhala - Bosnian
+	Jafar je zatvorio dosije i izdao upozorenje. Klijent ne razumije imovinsku politiku. "Bože, uradi svoj posao."
+
+Step 74/330
+>> Bosnian - Spanish
+	Jafar cerró el archivo y emitió una advertencia. El cliente no entiende la política de propiedad. "Dios, haz tu trabajo".
+
+Step 75/330
+>> Spanish - Portuguese
+	Jafar fechou o arquivo e emitiu um aviso. O cliente não entende a política de propriedade. "Deus, faça seu trabalho."
+
+Step 76/330
+>> Portuguese - Arabic
+	أغلق جعفر الملف وأصدر تحذيرًا. لا يفهم العميل سياسة الملكية. "الله ، قم بعملك".
+
+Step 77/330
+>> Arabic - Macedonian
+	Јафар ја затвори датотеката и издаде предупредување. Клиентот не ја разбира сопственичката политика. "Алах, изврши ја својата работа".
+
+Step 78/330
+>> Macedonian - Armenian
+	Afաֆարը փակեց ֆայլը և նախազգուշացրեց: Հաճախորդը չի հասկանում սեփականության իրավունքը: «Ալլահ, արա քո գործը»:
+
+Step 79/330
+>> Armenian - Thai
+	Af Afar ปิดไฟล์และเตือน ลูกค้าไม่เข้าใจคุณสมบัติที่ถูกต้อง "อัลเลาะห์ทำผลงานของคุณ"
+
+Step 80/330
+>> Thai - Arabic
+	عف عفار يغلق الملف ويحذر لا يفهم العملاء المؤهلات الصحيحة. "الله ، قم بعملك"
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	Afar Afar关闭文件并警告客户不理解正确的资格。 “上帝，做你的工作”
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Afar Afar cierra el documento y advierte al cliente que no comprenda las calificaciones correctas. "Dios, haz tu trabajo"
+
+Step 83/330
+>> Spanish - Ukrainian
+	Afar Afar закриває документ і попереджає клієнта не розуміти правильної кваліфікації. "Боже, зроби свою роботу"
+
+Step 84/330
+>> Ukrainian - Spanish
+	Afar Afar cierra el documento y advierte al cliente que no comprenda la calificación correcta. "Dios, haz tu trabajo"
+
+Step 85/330
+>> Spanish - English
+	Afar Afar closes the document and warns the client not to understand the correct qualification. "God, do your job"
+
+Step 86/330
+>> English - Mongolian
+	Afar Afar нь баримтыг хааж, үйлчлүүлэгчийг зохих мэргэшлийн талаар ойлгохгүй байхыг анхааруулж байна. "Бурхан минь, ажлаа хий"
+
+Step 87/330
+>> Mongolian - Spanish
+	Afar Afar cierra el documento y advierte al cliente que no comprenda las calificaciones. "Dios, haz tu trabajo"
+
+Step 88/330
+>> Spanish - Arabic
+	عفار عفار يغلق الوثيقة ويحذر العميل من فهم المؤهلات. "الله ، قم بعملك"
+
+Step 89/330
+>> Arabic - Kurdish
+	Afar Afar belge digire û xerîdar li hember famkirina qayîlan hişyar dike. "Xwedê, karê xwe bike"
+
+Step 90/330
+>> Kurdish - English
+	Afar Afar collects documents and alerts the viewer to the understanding of the rules. "God, do your job"
+
+Step 91/330
+>> English - Dutch
+	Afar Afar verzamelt documenten en waarschuwt de kijker voor het begrip van de regels. "God, doe je werk"
+
+Step 92/330
+>> Dutch - English
+	Afar Afar collects documents and warns the viewer about the understanding of the rules. "God, do your work"
+
+Step 93/330
+>> English - Samoan
+	Afar Afar e aoina pepa ma lapatai le tagata matamata e uiga i le malamalama o tulafono. "Le Atua e, fai lau galuega"
+
+Step 94/330
+>> Samoan - Uzbek
+	Afar Afar hujjatlarni to'playdi va tomoshabinni qoidalar haqida ogohlantiradi. "Xudo, ishingni qil"
+
+Step 95/330
+>> Uzbek - English
+	Afar Afar collects documents and warns the viewer of the rules. "God, do your job"
+
+Step 96/330
+>> English - Arabic
+	عفار عفار يجمع الوثائق ويحذر عارض القواعد. "الله ، قم بعملك"
+
+Step 97/330
+>> Arabic - French
+	Afar Afar collecte des documents et met en garde le visualiseur de règles. "Dieu, fais ton travail"
+
+Step 98/330
+>> French - Spanish
+	Afar Afar recopila documentos y advierte al espectador de reglas. "Dios, haz tu trabajo"
+
+Step 99/330
+>> Spanish - Romanian
+	Afar Afar colectează documente și avertizează privitorul despre reguli. „Doamne, fă-ți treaba”
+
+Step 100/330
+>> Romanian - Filipino
+	Nangongolekta si Afar Afar ng mga dokumento at binalaan ang manonood tungkol sa mga patakaran. "Lord, gawin mo ang iyong trabaho"
+
+Step 101/330
+>> Filipino - Zulu
+	I-Afar Afar iqoqa amadokhumenti futhi ixwayise isibukeli ngemithetho. "Nkosi yenza umsebenzi wakho"
+
+Step 102/330
+>> Zulu - Arabic
+	عفار عفار يجمع الوثائق ويحذر عارض القواعد. "الرب قم بعملك"
+
+Step 103/330
+>> Arabic - Indonesian
+	Afar Afar mengumpulkan dokumen dan memperingatkan pemirsa aturan. "Tuhan lakukan pekerjaanmu"
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Afar Afar thu thập tài liệu và cảnh báo người xem về các quy tắc. "Chúa làm công việc của bạn"
+
+Step 105/330
+>> Vietnamese - Spanish
+	Afar Afar recopila documentos y alerta a los espectadores sobre las reglas. "Dios hace tu trabajo"
+
+Step 106/330
+>> Spanish - Arabic
+	تجمع عفار عفار الوثائق وتنبيهات المشاهدين حول القواعد. "الله يؤدي وظيفتك"
+
+Step 107/330
+>> Arabic - Spanish
+	Afar Afar recopila documentos y alerta a los espectadores sobre las reglas. "Dios hace tu trabajo"
+
+Step 108/330
+>> Spanish - Russian
+	Afar Afar собирает документы и оповещает зрителей о правилах. "Бог делает твою работу"
+
+Step 109/330
+>> Russian - Arabic
+	عفار عفار يجمع الوثائق ويخطر المشاهدين بالقواعد. "الله يفعل عملك"
+
+Step 110/330
+>> Arabic - Spanish
+	Afar Afar recopila documentos y notifica a los espectadores sobre las reglas. "Dios hace tu trabajo"
+
+Step 111/330
+>> Spanish - Portuguese
+	Afar Afar coleta documentos e notifica os espectadores sobre as regras. "Deus faz o seu trabalho"
+
+Step 112/330
+>> Portuguese - English
+	Afar Afar collects documents and notifies viewers of the rules. "God does his work"
+
+Step 113/330
+>> English - Spanish
+	Afar Afar recopila documentos y notifica a los espectadores sobre las reglas. "Dios hace su trabajo"
+
+Step 114/330
+>> Spanish - English
+	Afar Afar collects documents and notifies viewers of the rules. "God does his job"
+
+Step 115/330
+>> English - Hindi
+	अफार अफार दस्तावेजों को एकत्र करता है और नियमों के दर्शकों को सूचित करता है। "भगवान अपना काम करता है"
+
+Step 116/330
+>> Hindi - Portuguese
+	Afar Afar coleta os documentos e informa o público das regras. "Deus faz o seu trabalho"
+
+Step 117/330
+>> Portuguese - Spanish
+	Afar Afar recoge los documentos e informa al público de las reglas. "Dios hace su trabajo"
+
+Step 118/330
+>> Spanish - English
+	Afar Afar collects the documents and informs the public of the rules. "God does his job"
+
+Step 119/330
+>> English - Bengali
+	আফার আফার নথিগুলি সংগ্রহ করে এবং জনগণকে নিয়ম সম্পর্কে অবহিত করে। "Hisশ্বর তার কাজ করেন"
+
+Step 120/330
+>> Bengali - French
+	Afar Afar rassemble des documents et informe le public sur les règles. "Sa voix fait son travail"
+
+Step 121/330
+>> French - lao
+	Afar Afar ເກັບ ກຳ ເອກະສານແລະແຈ້ງໃຫ້ປະຊາຊົນຮູ້ກ່ຽວກັບກົດລະບຽບ. "ສຽງຂອງລາວເຮັດວຽກຂອງລາວ"
+
+Step 122/330
+>> lao - English
+	Afar Afar collects documents and informs the public about the rules. "His voice does his job"
+
+Step 123/330
+>> English - Portuguese
+	Afar Afar coleta documentos e informa o público sobre as regras. "Sua voz faz seu trabalho"
+
+Step 124/330
+>> Portuguese - English
+	Afar Afar collects documents and informs the public about the rules. "Your voice does its work"
+
+Step 125/330
+>> English - Portuguese
+	Afar Afar coleta documentos e informa o público sobre as regras. "Sua voz faz o seu trabalho"
+
+Step 126/330
+>> Portuguese - English
+	Afar Afar collects documents and informs the public about the rules. "Your voice does its work"
+
+Step 127/330
+>> English - Portuguese
+	Afar Afar coleta documentos e informa o público sobre as regras. "Sua voz faz o seu trabalho"
+
+Step 128/330
+>> Portuguese - Burmese
+	အဝေးကအဝေးကစာရွက်စာတမ်းများစုဆောင်းခြင်းနှင့်စည်းမျဉ်းများနှင့် ပတ်သက်. အများပြည်သူအကြောင်းကြား။ "သူ့အသံသည်၎င်း၏အလုပ်မ"
+
+Step 129/330
+>> Burmese - Nepali
+	एक दूरी देखि एक दूरी मा कागजातहरू र सम्बन्धित नियमहरु को संग्रह। सार्वजनिक सूचित। "उहाँको आवाज यसको काम छ"
+
+Step 130/330
+>> Nepali - Urdu
+	ایک فاصلے سے دوسرے فاصلے تک دستاویزات اور اس سے متعلق اصولوں کا جمع کرنا۔ عوام کو آگاہ کریں۔ "اس کی آواز ہی اس کا کام ہے"
+
+Step 131/330
+>> Urdu - French
+	Collection de documents et de principes les concernant d’une distance à l’autre. Informer le public. "Sa voix est son travail"
+
+Step 132/330
+>> French - English
+	Collection of documents and principles concerning them from one distance to another. Inform the public. "His voice is his job"
+
+Step 133/330
+>> English - Swahili
+	Mkusanyiko wa hati na kanuni zinazohusu kutoka umbali mmoja kwenda mwingine. Fahamisha umma. "Sauti yake ni kazi yake"
+
+Step 134/330
+>> Swahili - Arabic
+	مجموعة من الوثائق واللوائح التي تغطي من مسافة إلى أخرى. إعلام الجمهور. "صوته هو عمله"
+
+Step 135/330
+>> Arabic - Shona
+	Seti yezvinyorwa nemirairo inovhara kubva kure kuenda kure. Zivisa pachena. "Izwi rake ibasa rake"
+
+Step 136/330
+>> Shona - Hausa
+	Saiti na labarai da umarni sun rufe duniya daga nesa da fadi. Sanarwa a fili "Maganarsa aiki ne"
+
+Step 137/330
+>> Hausa - Swahili
+	Seti za habari na agizo zinafunika ulimwengu kutoka mbali na mbali. Taarifa ya umma "Taarifa yake ni halali"
+
+Step 138/330
+>> Swahili - English
+	Information and order sets cover the world from far and wide. Public Information "Information is valid"
+
+Step 139/330
+>> English - Arabic
+	تغطي مجموعات المعلومات والنظام العالم من كل مكان. المعلومات العامة "المعلومات صالحة"
+
+Step 140/330
+>> Arabic - Malagasy
+	Manangona an'izao tontolo izao na aiza na aiza ny fanangonana fampahalalana sy filaminana. Fampahalalana ankapobeny "Marina ny fampahalalana"
+
+Step 141/330
+>> Malagasy - Swahili
+	Kukusanya habari na usalama ni kukusanya ulimwengu kila mahali. Habari ya Jumla "Habari ni Kweli"
+
+Step 142/330
+>> Swahili - French
+	La collecte d'informations et la sécurité rassemblent le monde entier. Informations générales "L'information est vraie"
+
+Step 143/330
+>> French - Arabic
+	يجمع جمع المعلومات والأمن بين العالم. معلومات عامة "المعلومات صحيحة"
+
+Step 144/330
+>> Arabic - French
+	La collecte d'informations et la sécurité rapprochent le monde. Informations générales "Les informations sont correctes"
+
+Step 145/330
+>> French - Arabic
+	يجمع جمع المعلومات والأمن بين العالم. معلومات عامة "المعلومات صحيحة"
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Rasanbleman enfòmasyon ak sekirite pote mond lan ansanm. Enfòmasyon Jeneral "Enfòmasyon ki kòrèk"
+
+Step 147/330
+>> Haitian Creole - Pashto
+	د معلوماتو او امنیت راټولول نړۍ سره یوځای کوي. عمومي معلومات "درست معلومات"
+
+Step 148/330
+>> Pashto - French
+	La collecte d'informations et la sécurité rassemble le monde. Informations générales "Informations correctes"
+
+Step 149/330
+>> French - Chichewa
+	Kuphatikiza kwachidziwitso ndi chitetezo zimabweretsa dziko limodzi. Zambiri "Zambiri zolondola"
+
+Step 150/330
+>> Chichewa - Arabic
+	الجمع بين المعرفة والأمن يجمع عالم واحد معًا. المزيد "مزيد من المعلومات"
+
+Step 151/330
+>> Arabic - Amharic
+	የእውቀት እና ደህንነት ጥምር አንድ ዓለምን ያመጣል። ተጨማሪ "ተጨማሪ መረጃ"
+
+Step 152/330
+>> Amharic - English
+	The combination of knowledge and well-being brings a world together. More "More Information"
+
+Step 153/330
+>> English - French
+	La combinaison de la connaissance et du bien-être rassemble un monde. Plus "Plus d'informations"
+
+Step 154/330
+>> French - Swahili
+	Mchanganyiko wa maarifa na ustawi unaleta pamoja ulimwengu. Zaidi "Habari zaidi"
+
+Step 155/330
+>> Swahili - Portuguese
+	A combinação de conhecimento e prosperidade reúne o mundo. Mais "Mais informações"
+
+Step 156/330
+>> Portuguese - Arabic
+	الجمع بين المعرفة والازدهار يجمع العالم معا. المزيد من المعلومات
+
+Step 157/330
+>> Arabic - Portuguese
+	A combinação de conhecimento e prosperidade reúne o mundo. Mais informações
+
+Step 158/330
+>> Portuguese - English
+	The combination of knowledge and prosperity brings the world together. More information
+
+Step 159/330
+>> English - French
+	La combinaison de la connaissance et de la prospérité rassemble le monde. Plus d'information
+
+Step 160/330
+>> French - English
+	The combination of knowledge and prosperity brings the world together. More information
+
+Step 161/330
+>> English - Swahili
+	Mchanganyiko wa maarifa na ustawi huleta ulimwengu pamoja. Taarifa zaidi
+
+Step 162/330
+>> Swahili - Arabic
+	الجمع بين المعرفة والرفاه يجمع العالم معا. مزيد من المعلومات
+
+Step 163/330
+>> Arabic - Arabic
+	Combining knowledge and well-being brings the world together. More information
+
+Step 164/330
+>> Arabic - French
+	La combinaison de la connaissance et du bien-être rassemble le monde. Plus d'information
+
+Step 165/330
+>> French - Hausa
+	Haɗin ilimi da kyautatawa yana kawo duniya tare. Informationarin bayani
+
+Step 166/330
+>> Hausa - French
+	La combinaison de la connaissance et de la bonté rassemble le monde. Information informative
+
+Step 167/330
+>> French - Arabic
+	The combination of knowledge and goodness brings the world together. Informative information
+
+Step 168/330
+>> Arabic - Arabic
+	الجمع بين المعرفة والخير يجمع العالم معًا. معلومات مفيدة
+
+Step 169/330
+>> Arabic - Swahili
+	Mchanganyiko wa maarifa na mzuri huleta ulimwengu pamoja. Habari inayofaa
+
+Step 170/330
+>> Swahili - English
+	The combination of knowledge and good brings the world together. Relevant information
+
+Step 171/330
+>> English - French
+	La combinaison de la connaissance et du bien rassemble le monde. Les informations pertinentes
+
+Step 172/330
+>> French - English
+	The combination of knowledge and good brings the world together. Relevant information
+
+Step 173/330
+>> English - Portuguese
+	A combinação de conhecimento e bem reúne o mundo. Informação relevante
+
+Step 174/330
+>> Portuguese - Arabic
+	الجمع بين المعرفة والخير يجمع العالم معًا. المعلومات ذات الصلة
+
+Step 175/330
+>> Arabic - Portuguese
+	A combinação de conhecimento e bem reúne o mundo. Informações relacionadas
+
+Step 176/330
+>> Portuguese - Swahili
+	Mchanganyiko wa maarifa na mzuri huleta ulimwengu pamoja. Habari zinazohusiana
+
+Step 177/330
+>> Swahili - French
+	La combinaison de la connaissance et du bien rassemble le monde. Nouvelles connexes
+
+Step 178/330
+>> French - English
+	The combination of knowledge and good brings the world together. Related News
+
+Step 179/330
+>> English - Amharic
+	የእውቀት እና የመልካም ውህደት ዓለምን አንድ ያደርጋቸዋል። ተዛማጅ ዜናዎች ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	مزيج من المعرفة وحسن النية يوحد العالم. أخبار ذات صلة
+
+Step 181/330
+>> Arabic - Chichewa
+	Kuphatikiza kwa chidziwitso ndi kusangalatsa kumayanjanitsa dziko lapansi. Nkhani Zogwirizana
+
+Step 182/330
+>> Chichewa - French
+	La combinaison de connaissances et de plaisir unit le monde. Articles connexes
+
+Step 183/330
+>> French - Pashto
+	د پوهې او خوښۍ ترکیب نړۍ متحد کوي. اړوند مقالې
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Konbinezon konesans ak bonè ini mond lan. Atik ki gen rapò
+
+Step 185/330
+>> Haitian Creole - Arabic
+	مزيج من المعرفة والسعادة يوحد العالم. مقالات ذات صلة
+
+Step 186/330
+>> Arabic - French
+	La combinaison de la connaissance et du bonheur unit le monde. Articles connexes
+
+Step 187/330
+>> French - Arabic
+	مزيج من المعرفة والسعادة يوحد العالم. مقالات ذات صلة
+
+Step 188/330
+>> Arabic - French
+	La combinaison de la connaissance et du bonheur unit le monde. Articles connexes
+
+Step 189/330
+>> French - Swahili
+	Mchanganyiko wa maarifa na furaha huunganisha ulimwengu. Nakala zinazohusiana
+
+Step 190/330
+>> Swahili - Malagasy
+	Ny fampifangaroana fahalalana sy fahasambarana no mampiray an'izao tontolo izao. Lahatsoratra mifandraika
+
+Step 191/330
+>> Malagasy - Arabic
+	مزيج من المعرفة والسعادة يوحد العالم. مقالات ذات صلة
+
+Step 192/330
+>> Arabic - English
+	The combination of knowledge and happiness unites the world. Related articles
+
+Step 193/330
+>> English - Swahili
+	Mchanganyiko wa maarifa na furaha huunganisha ulimwengu. Nakala zinazohusiana
+
+Step 194/330
+>> Swahili - Hausa
+	Haɗin ilimi da farin ciki yana haɗe duniya. Labarai masu alaƙa
+
+Step 195/330
+>> Hausa - Shona
+	Kubatanidzwa kwedzidzo uye mufaro kunobatana nenyika. Zvinyorwa zvinoenderana
+
+Step 196/330
+>> Shona - Arabic
+	يرتبط الجمع بين التعليم والسعادة بالعالم. مقالات ذات صلة
+
+Step 197/330
+>> Arabic - Swahili
+	Mchanganyiko wa elimu na furaha umeunganishwa na ulimwengu. Nakala zinazohusiana
+
+Step 198/330
+>> Swahili - English
+	The combination of education and happiness is connected to the world. Related articles
+
+Step 199/330
+>> English - French
+	La combinaison de l'éducation et du bonheur est connectée au monde. Articles Liés
+
+Step 200/330
+>> French - Urdu
+	تعلیم اور خوشی کا امتزاج دنیا سے جڑا ہوا ہے۔ متعلقہ مضامین۔
+
+Step 201/330
+>> Urdu - Nepali
+	शिक्षा र खुशीको संयोजन संसारसँग जोडिएको छ। सम्बन्धित लेख
+
+Step 202/330
+>> Nepali - Burmese
+	ပညာရေးနှင့်ကမ္ဘာ၏ကောင်းသောပေါင်းစပ်ချိတ်ဆက်ဖြစ်ပါတယ်။ ဆက်စပ်ဆောင်းပါးများ
+
+Step 203/330
+>> Burmese - Portuguese
+	Ligar a combinar educação e o mundo do bem. artigos relacionados
+
+Step 204/330
+>> Portuguese - English
+	Link to combine education and the world of good. related articles
+
+Step 205/330
+>> English - Portuguese
+	Link para combinar educação e o mundo do bem. Artigos relacionados
+
+Step 206/330
+>> Portuguese - English
+	Link to combine education and the world of good. Related articles
+
+Step 207/330
+>> English - Portuguese
+	Link para combinar educação e o mundo do bem. Artigos relacionados
+
+Step 208/330
+>> Portuguese - English
+	Link to combine education and the world of good. Related articles
+
+Step 209/330
+>> English - lao
+	ເຊື່ອມໂຍງເພື່ອສົມທົບການສຶກສາແລະໂລກແຫ່ງຄວາມດີ. ບົດຂຽນທີ່ກ່ຽວຂ້ອງ
+
+Step 210/330
+>> lao - French
+	Intégrer pour combiner l'éducation et le monde de la bonté. Articles connexes
+
+Step 211/330
+>> French - Bengali
+	শিক্ষা এবং সৎকর্মের জগতকে একত্রিত করার জন্য সংহত করুন। সম্পর্কিত নিবন্ধ
+
+Step 212/330
+>> Bengali - English
+	Integrate the world of education and goodness into one. Related Articles
+
+Step 213/330
+>> English - Spanish
+	Integre el mundo de la educación y la bondad en uno. Artículos relacionados
+
+Step 214/330
+>> Spanish - Portuguese
+	Integrar o mundo da educação e bondade em um. Artigos relacionados
+
+Step 215/330
+>> Portuguese - Hindi
+	एक में शिक्षा और दया की दुनिया को एकीकृत करें। संबंधित लेख
+
+Step 216/330
+>> Hindi - English
+	Integrate the world of education and kindness into one. related article
+
+Step 217/330
+>> English - Spanish
+	Integre el mundo de la educación y la amabilidad en uno. Artículo relacionado
+
+Step 218/330
+>> Spanish - English
+	Integrate the world of education and kindness into one. Related Article
+
+Step 219/330
+>> English - Portuguese
+	Integre o mundo da educação e bondade em um. Artigo relacionado
+
+Step 220/330
+>> Portuguese - Spanish
+	Integre el mundo de la educación y la amabilidad en uno. Artículo relacionado
+
+Step 221/330
+>> Spanish - Arabic
+	دمج عالم التعليم واللطف في واحد. المادة ذات الصلة
+
+Step 222/330
+>> Arabic - Russian
+	Объедините мир образования и доброты в одно целое. Связанная статья
+
+Step 223/330
+>> Russian - Spanish
+	Combina el mundo de la educación y la amabilidad en uno. Artículo relacionado
+
+Step 224/330
+>> Spanish - Arabic
+	فهو يجمع بين عالم التعليم واللطف في واحد. المادة ذات الصلة
+
+Step 225/330
+>> Arabic - Spanish
+	Combina un mundo de educación y amabilidad en uno. Artículo relacionado
+
+Step 226/330
+>> Spanish - Vietnamese
+	Nó kết hợp một thế giới của giáo dục và lòng tốt trong một. Điều liên quan
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Ini menggabungkan dunia pendidikan dan kebaikan dalam satu. Artikel terkait
+
+Step 228/330
+>> Indonesian - Arabic
+	فهو يجمع بين عالم التعليم والخير في واحدة. المادة ذات الصلة
+
+Step 229/330
+>> Arabic - Zulu
+	Kuhlanganisa umhlaba wezemfundo nobuhle ube munye. Isihloko esihlobene
+
+Step 230/330
+>> Zulu - Filipino
+	Pinagsasama nito ang mundo ng edukasyon at kagandahan sa isa. Kaugnay na paksa
+
+Step 231/330
+>> Filipino - Romanian
+	Acesta aduce lumea educației și frumuseții. Subiect aferent
+
+Step 232/330
+>> Romanian - Spanish
+	Trae el mundo de la educación y la belleza. Tema relacionado
+
+Step 233/330
+>> Spanish - French
+	Il apporte le monde de l'éducation et de la beauté. Sujet connexe
+
+Step 234/330
+>> French - Arabic
+	انه يجلب عالم التعليم والجمال. موضوع ذو صلة
+
+Step 235/330
+>> Arabic - English
+	He brings a world of education and beauty. Related Topic
+
+Step 236/330
+>> English - Uzbek
+	U ta'lim va go'zallik dunyosini olib keladi. Tegishli mavzu
+
+Step 237/330
+>> Uzbek - Samoan
+	Na te aumaia se lalolagi o aoga ma le matagofie. Faʻafesoʻotaʻi tala
+
+Step 238/330
+>> Samoan - English
+	It brings a world of utility and beauty. Related stories
+
+Step 239/330
+>> English - Dutch
+	Het brengt een wereld van nut en schoonheid. Gerelateerde verhalen
+
+Step 240/330
+>> Dutch - English
+	It brings a world of utility and beauty. Related stories
+
+Step 241/330
+>> English - Kurdish
+	Ew cîhanek aram û bedewiyê tîne. Îrokên têkildar
+
+Step 242/330
+>> Kurdish - Arabic
+	يخلق عالما من الهدوء والجمال. الحديد ذات الصلة
+
+Step 243/330
+>> Arabic - Spanish
+	Crea un mundo de tranquilidad y belleza. Relacionados con el hierro
+
+Step 244/330
+>> Spanish - Mongolian
+	Тайвшрал, гоо үзэсгэлэнгийн ертөнцийг бий болго. Төмөртэй холбоотой
+
+Step 245/330
+>> Mongolian - English
+	Create a world of relaxation and beauty. Iron is related
+
+Step 246/330
+>> English - Spanish
+	Crea un mundo de relajación y belleza. El hierro está relacionado
+
+Step 247/330
+>> Spanish - Ukrainian
+	Створіть світ релаксу та краси. Залізо споріднене
+
+Step 248/330
+>> Ukrainian - Spanish
+	Crea un mundo de relajación y belleza. El hierro está relacionado
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	创造一个放松和美丽的世界。铁是相关的
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	خلق عالم من الاسترخاء والجمال. يرتبط الحديد
+
+Step 251/330
+>> Arabic - Thai
+	สร้างโลกแห่งการพักผ่อนและความงาม เหล็กมีความเกี่ยวข้อง
+
+Step 252/330
+>> Thai - Armenian
+	Ստեղծեք հանգստի և գեղեցկության աշխարհ: Երկաթը արդիական է
+
+Step 253/330
+>> Armenian - Macedonian
+	Создадете свет на релаксација и убавина. Ironелезото е актуелно
+
+Step 254/330
+>> Macedonian - Arabic
+	خلق عالم من الاسترخاء والجمال. الحديد محدث
+
+Step 255/330
+>> Arabic - Portuguese
+	Crie um mundo de relaxamento e beleza. Ferro atualizado
+
+Step 256/330
+>> Portuguese - Spanish
+	Crea un mundo de relajación y belleza. Hierro actualizado
+
+Step 257/330
+>> Spanish - Bosnian
+	Stvorite svet opuštenosti i lepote. Ažurirano željezo
+
+Step 258/330
+>> Bosnian - Sinhala
+	සැහැල්ලුවෙන් හා අලංකාරයෙන් පිරි ලෝකයක් නිර්මාණය කරන්න. යාවත්කාලීන කරන ලද යකඩ
+
+Step 259/330
+>> Sinhala - English
+	Create a world filled with relaxation and beauty. Updated Iron
+
+Step 260/330
+>> English - Spanish
+	Crea un mundo lleno de relajación y belleza. Hierro actualizado
+
+Step 261/330
+>> Spanish - English
+	Create a world full of relaxation and beauty. Updated iron
+
+Step 262/330
+>> English - Georgian
+	შექმენით დასვენება და სილამაზით სავსე სამყარო. განახლებულია რკინა
+
+Step 263/330
+>> Georgian - English
+	Create a world of relaxation and beauty. Updated iron
+
+Step 264/330
+>> English - Albanian
+	Krijoni një botë relaksimi dhe bukurie. Hekuri i azhurnuar
+
+Step 265/330
+>> Albanian - Serbian
+	Створите свет опуштености и лепоте. Ажурирано гвожђе
+
+Step 266/330
+>> Serbian - Spanish
+	Crea un mundo de relajación y belleza. Hierro actualizado
+
+Step 267/330
+>> Spanish - English
+	Create a world of relaxation and beauty. Updated iron
+
+Step 268/330
+>> English - Turkish
+	Bir rahatlama ve güzellik dünyası yaratın. Güncellenen demir
+
+Step 269/330
+>> Turkish - Spanish
+	Crea un mundo de relajación y belleza. Hierro actualizado
+
+Step 270/330
+>> Spanish - French
+	Créez un monde de détente et de beauté. Fer mis à jour
+
+Step 271/330
+>> French - English
+	Create a world of relaxation and beauty. Updated iron
+
+Step 272/330
+>> English - Persian
+	دنیایی از آرامش و زیبایی ایجاد کنید. آهن به روز شده
+
+Step 273/330
+>> Persian - Kazakh
+	Бейбітшілік пен сұлулық әлемін жасаңыз. Жаңартылған үтік
+
+Step 274/330
+>> Kazakh - English
+	Create a world of peace and beauty. Updated iron
+
+Step 275/330
+>> English - Malay
+	Buat dunia damai dan kecantikan. Besi yang dikemas kini
+
+Step 276/330
+>> Malay - Arabic
+	خلق عالم من السلام والجمال. تحديث الحديد
+
+Step 277/330
+>> Arabic - Spanish
+	Crea un mundo de paz y belleza. Actualización de hierro
+
+Step 278/330
+>> Spanish - English
+	Create a world of peace and beauty. Iron upgrade
+
+Step 279/330
+>> English - Russian
+	Создайте мир мира и красоты. Железный апгрейд
+
+Step 280/330
+>> Russian - Romanian
+	Creați o lume de pace și frumusețe. Actualizare fier
+
+Step 281/330
+>> Romanian - Bulgarian
+	Създайте свят на мир и красота. Ъпгрейд на желязо
+
+Step 282/330
+>> Bulgarian - Albanian
+	Krijoni një botë paqeje dhe bukurie. Përmirësimi i hekurit
+
+Step 283/330
+>> Albanian - Russian
+	Создайте мир мира и красоты. Улучшение железа
+
+Step 284/330
+>> Russian - Arabic
+	خلق عالم من السلام والجمال. تحسين الحديد
+
+Step 285/330
+>> Arabic - Spanish
+	Crea un mundo de paz y belleza. Mejorar el hierro
+
+Step 286/330
+>> Spanish - Croatian
+	Stvorite svijet mira i ljepote. Poboljšajte željezo
+
+Step 287/330
+>> Croatian - Hungarian
+	Készítsen béke és szépség világát. Javítsa a vasat
+
+Step 288/330
+>> Hungarian - Spanish
+	Crea un mundo de paz y belleza. Reparar el hierro
+
+Step 289/330
+>> Spanish - Arabic
+	خلق عالم من السلام والجمال. إصلاح الحديد
+
+Step 290/330
+>> Arabic - Portuguese
+	Crie um mundo de paz e beleza. Reparação de ferro
+
+Step 291/330
+>> Portuguese - Latvian
+	Izveidojiet miera un skaistuma pasauli. Dzelzs remonts
+
+Step 292/330
+>> Latvian - Arabic
+	خلق عالم من السلام والجمال. إصلاح الحديد
+
+Step 293/330
+>> Arabic - Malay
+	Buat dunia damai dan kecantikan. Pembaikan besi
+
+Step 294/330
+>> Malay - Slovak
+	Vytvorte svet mieru a krásy. Oprava železa
+
+Step 295/330
+>> Slovak - Arabic
+	خلق عالم من السلام والجمال. إصلاح الحديد
+
+Step 296/330
+>> Arabic - Lithuanian
+	Sukurkite ramybės ir grožio pasaulį. Geležies remontas
+
+Step 297/330
+>> Lithuanian - Catalan
+	Crea un món de pau i bellesa. Reparació de ferro
+
+Step 298/330
+>> Catalan - Arabic
+	خلق عالم من السلام والجمال. إصلاح الحديد
+
+Step 299/330
+>> Arabic - Polish
+	Stwórz świat pokoju i piękna. Naprawa żelaza
+
+Step 300/330
+>> Polish - Turkish
+	Bir barış ve güzellik dünyası yaratın. Demir onarımı
+
+Step 301/330
+>> Turkish - Greek
+	Δημιουργήστε έναν κόσμο ειρήνης και ομορφιάς. Επισκευή σιδήρου
+
+Step 302/330
+>> Greek - Estonian
+	Looge rahu ja ilu maailm. Raudremont
+
+Step 303/330
+>> Estonian - Maltese
+	Oħloq dinja ta 'paċi u sbuħija. Ħadid tal-ħadid
+
+Step 304/330
+>> Maltese - Italian
+	Creare un mondo di pace e bellezza. Ferro da stiro Ferro
+
+Step 305/330
+>> Italian - Czech
+	Vytvořte svět míru a krásy. Železo Železo
+
+Step 306/330
+>> Czech - Spanish
+	Crea un mundo de paz y belleza. Hierro hierro
+
+Step 307/330
+>> Spanish - Slovenian
+	Ustvari svet miru in lepote. Železno železo
+
+Step 308/330
+>> Slovenian - French
+	Cela crée un monde de paix et de beauté. Fer fer
+
+Step 309/330
+>> French - Korean
+	이것은 평화와 아름다움의 세계를 만듭니다. 철
+
+Step 310/330
+>> Korean - Hebrew
+	זה יוצר עולם של שלום ויופי. ברזל
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Et schafft eng Welt vu Fridden a Schéinheet. Eisen
+
+Step 312/330
+>> Luxembourgish - German
+	Es schafft eine Welt des Friedens und der Schönheit. Das Eisen
+
+Step 313/330
+>> German - Japanese
+	それは平和と美の世界を創造します。鉄
+
+Step 314/330
+>> Japanese - German
+	Es schafft eine Welt des Friedens und der Schönheit. Eisen
+
+Step 315/330
+>> German - Dutch
+	Het creëert een wereld van vrede en schoonheid. ijzer
+
+Step 316/330
+>> Dutch - Maori
+	Ka hangaia e ia te ao o te rangimarie me te ataahua. aukino
+
+Step 317/330
+>> Maori - Finnish
+	Se luo rauhan ja kauneuden maailman. aukino
+
+Step 318/330
+>> Finnish - English
+	It creates a world of peace and beauty. aukino
+
+Step 319/330
+>> English - Danish
+	Det skaber en verden af fred og skønhed. aukino
+
+Step 320/330
+>> Danish - Dutch
+	Het creëert een wereld van vrede en schoonheid. aukino
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	它創造了一個和平與美麗的世界。 aukino
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Det skapar en värld av fred och skönhet. aukino
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	它創造了一個和平與美麗的世界。 aukino
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Það skapar heim friðs og fegurðar. Aukino
+
+Step 325/330
+>> Icelandic - German
+	Es schafft eine Welt des Friedens und der Schönheit. Aukino
+
+Step 326/330
+>> German - Irish
+	Cruthaíonn sé saol na síochána agus na háilleachta. Aukino
+
+Step 327/330
+>> Irish - English
+	It creates a world of peace and beauty. Aukino
+
+Step 328/330
+>> English - German
+	Es schafft eine Welt des Friedens und der Schönheit. Aukino
+
+Step 329/330
+>> German - Norwegian
+	Det skaper en verden av fred og skjønnhet. Aukino
+
+Step 330/330
+>> Norwegian - Portuguese
+	Cria um mundo de paz e beleza. Aukino
+
+
+##### RESULTS ######
+
+O grão-vizir Djafar opôs-se àquele projeto, e mostrou as suas conseqüências ao califa, sem todavia trair a qualidade do príncipe aos calandares, e dirigindo-lhe a palavra, como se fora um simples mercador: “Senhor, disse, lembrai-vos de que precisamos manter a nossa reputação. Sabeis em que condições estas damas nos receberam; sabeis que nós as aceitamos. Que diriam, se as não respeitássemos? Seríamos ainda mais censuráveis, se nos sucedesse alguma desgraça. Não é de crer que tenham exigido de nós tal promessa, sem estarem em condições de fazer com que nos arrependamos, por não respeitá-las.”
+
+Cria um mundo de paz e beleza. Aukino

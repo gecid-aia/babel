@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Mas Cheherazade, pronunciadas essas últimas palavras, interrompeu-se. O dia acabava de nascer.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Men Cheherazade, som uttalte de siste ordene, brøt ut. Dagen var bare på vei opp.
+
+Step 2/330
+>> Norwegian - German
+	Aber Cheherazade, der die letzten Worte aussprach, brach aus. Der Tag stand gerade bevor.
+
+Step 3/330
+>> German - English
+	But Cheherazade, who uttered the last words, burst out. The day was just around.
+
+Step 4/330
+>> English - Irish
+	Ach sháraigh Cheherazade, a chuir na focail deiridh in iúl, é. Bhí an lá thart.
+
+Step 5/330
+>> Irish - German
+	Aber Cheherazade, der auf die letzten Worte hinwies, verstieß dagegen. Der Tag war vorbei.
+
+Step 6/330
+>> German - Icelandic
+	En Cheherazade, sem benti á síðustu orðin, stangaðist á við. Dagurinn var liðinn.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	但Cheherazade，指著最後幾個字，是不和的。這一天結束了。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Men Cheherazade, som pekar på de sista få orden, är inte harmonisk. Den här dagen är över.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	但Cheherazade指著最後幾句話並不和諧。這一天結束了。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Maar Cheherazade wees erop dat de laatste paar woorden niet harmonieus waren. Deze dag is voorbij.
+
+Step 11/330
+>> Dutch - Danish
+	Men Cheherazade påpegede, at de sidste par ord ikke var harmoniske. Denne dag er forbi.
+
+Step 12/330
+>> Danish - English
+	But Cheherazade pointed out that the last few words were not harmonious. This day is over.
+
+Step 13/330
+>> English - Finnish
+	Mutta Cheherazade huomautti, että muutama viimeinen sana ei ollut harmoninen. Tämä päivä on ohi.
+
+Step 14/330
+>> Finnish - Maori
+	Engari ko Cheherazade te tohu ko nga kupu whakamutunga he kore kotahitanga. Kua mutu tenei ra.
+
+Step 15/330
+>> Maori - Dutch
+	Maar Cheherazade wijst erop dat de laatste woorden geen eenheid zijn. Vandaag is voorbij.
+
+Step 16/330
+>> Dutch - German
+	Cheherazade weist jedoch darauf hin, dass die letzten Worte keine Einheit sind. Heute ist vorbei.
+
+Step 17/330
+>> German - Japanese
+	しかし、チェヘラザードは、最後の言葉は統一ではないことを指摘しています。今日は終わった。
+
+Step 18/330
+>> Japanese - German
+	Cheherazade weist jedoch darauf hin, dass das letzte Wort nicht einheitlich ist. Heute ist vorbei.
+
+Step 19/330
+>> German - Luxembourgish
+	Wéi och ëmmer, Cheherazade weist datt dat lescht Wuert net konsequent ass. Haut ass et eriwwer.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	עם זאת, צ'הראזדה מציין כי המילה האחרונה אינה עקבית. היום זה נגמר.
+
+Step 21/330
+>> Hebrew - Korean
+	그러나 Chahrazade는 마지막 단어가 일치하지 않는다고 지적합니다. 오늘은 끝났습니다.
+
+Step 22/330
+>> Korean - French
+	Mais Chahrazade souligne que les derniers mots ne correspondent pas. Aujourd'hui est fini
+
+Step 23/330
+>> French - Slovenian
+	Toda Chahrazade poudarja, da se zadnje besede ne ujemajo. Danes je konec
+
+Step 24/330
+>> Slovenian - Spanish
+	Pero Chahrazade señala que las últimas palabras no coinciden. Hoy ha terminado
+
+Step 25/330
+>> Spanish - Czech
+	Chahrazade však zdůrazňuje, že poslední slova se neshodují. Dnes je konec
+
+Step 26/330
+>> Czech - Italian
+	Tuttavia, Chahrazade sottolinea che le ultime parole non corrispondono. Oggi è finita
+
+Step 27/330
+>> Italian - Maltese
+	Madankollu, Chahrazade jirrimarka li l-aħħar kliem ma jaqblux. Illum spiċċa
+
+Step 28/330
+>> Maltese - Estonian
+	Kuid Chahrazade juhib tähelepanu sellele, et viimased sõnad ei nõustu. täna lõppenud
+
+Step 29/330
+>> Estonian - Greek
+	Αλλά ο Chahrazade επισημαίνει ότι οι τελευταίες λέξεις δεν συμφωνούν. έληξε σήμερα
+
+Step 30/330
+>> Greek - Turkish
+	Ancak Chahrazade, son sözlerin aynı fikirde olmadığını belirtti. bugün sona erdi
+
+Step 31/330
+>> Turkish - Polish
+	Jednak Chahrazade powiedział, że ostatnie słowa się nie zgadzają. skończyło się dzisiaj
+
+Step 32/330
+>> Polish - Arabic
+	ومع ذلك ، قال شهرزاد أن الكلمات الأخيرة لم تتطابق. انتهى اليوم
+
+Step 33/330
+>> Arabic - Catalan
+	Tot i això, Scheherazade va dir que les últimes paraules no coincideixen. El dia s’ha acabat
+
+Step 34/330
+>> Catalan - Lithuanian
+	Vis dėlto Scheherazade teigė, kad paskutiniai žodžiai nesutampa. Diena baigėsi
+
+Step 35/330
+>> Lithuanian - Arabic
+	ومع ذلك ، قال شهرزاد أن الكلمات الأخيرة لا تتطابق. انتهى اليوم
+
+Step 36/330
+>> Arabic - Slovak
+	Scheherazade však uviedol, že posledné slová sa nezhodujú. Deň je u konca
+
+Step 37/330
+>> Slovak - Malay
+	Walau bagaimanapun, Scheherazade menyatakan bahawa perkataan terakhir tidak sepadan. Hari sudah berakhir
+
+Step 38/330
+>> Malay - Arabic
+	ومع ذلك ، يذكر شهرزاد أن الكلمة الأخيرة غير متطابقة. انتهى اليوم
+
+Step 39/330
+>> Arabic - Latvian
+	Tomēr Šeherazade paziņo, ka pēdējais vārds nesakrīt. Diena ir beigusies
+
+Step 40/330
+>> Latvian - Portuguese
+	No entanto, Shaherazade declara que a última palavra não corresponde. O dia acabou
+
+Step 41/330
+>> Portuguese - Arabic
+	ومع ذلك ، تشير شهرزاد أن الكلمة الأخيرة لا تتوافق. انتهى اليوم
+
+Step 42/330
+>> Arabic - Spanish
+	Sin embargo, Scheherazade señala que la última palabra no corresponde. Se acabo el dia
+
+Step 43/330
+>> Spanish - Hungarian
+	Scheherazade azonban rámutat, hogy az utolsó szó nem vonatkozik. A napnak vége
+
+Step 44/330
+>> Hungarian - Croatian
+	Međutim, Šeherezada ističe da se zadnja riječ ne odnosi. Dan je gotov
+
+Step 45/330
+>> Croatian - Spanish
+	Sin embargo, Scheherezada señala que la última palabra no se aplica. Se acabo el dia
+
+Step 46/330
+>> Spanish - Arabic
+	ومع ذلك ، يشير Scheherezada إلى أن الكلمة الأخيرة لا تنطبق. انتهى اليوم
+
+Step 47/330
+>> Arabic - Russian
+	Однако Шехерезада указывает, что последнее слово не относится. День окончен
+
+Step 48/330
+>> Russian - Albanian
+	Sidoqoftë, Scheherazade tregon se fjala e fundit nuk vlen. Dita ka mbaruar
+
+Step 49/330
+>> Albanian - Bulgarian
+	Scheherazade обаче посочва, че последната дума не е валидна. Денят свърши
+
+Step 50/330
+>> Bulgarian - Romanian
+	Cu toate acestea, Scheherazade subliniază că ultimul cuvânt nu este valabil. Ziua s-a terminat
+
+Step 51/330
+>> Romanian - Russian
+	Однако Шехерезада указывает, что последнее слово недействительно. День окончен
+
+Step 52/330
+>> Russian - English
+	However, Scheherazade indicates that the last word is invalid. Day is over
+
+Step 53/330
+>> English - Spanish
+	Sin embargo, Scheherazade indica que la última palabra no es válida. El día ha terminado
+
+Step 54/330
+>> Spanish - Arabic
+	ومع ذلك ، يشير شهرزاد إلى أن الكلمة الأخيرة غير صالحة. انتهى اليوم
+
+Step 55/330
+>> Arabic - Malay
+	Walau bagaimanapun, Scheherazade menunjukkan bahawa perkataan terakhir tidak sah. Hari sudah berakhir
+
+Step 56/330
+>> Malay - English
+	However, Scheherazade indicates that the last word is invalid. The day is over
+
+Step 57/330
+>> English - Kazakh
+	Алайда, Шерехерада соңғы сөздің жарамсыз екенін көрсетеді. Күн бітті
+
+Step 58/330
+>> Kazakh - Persian
+	با این حال ، حوزه نشان می دهد که کلمه آخر نامعتبر است. آفتاب تمام شد
+
+Step 59/330
+>> Persian - English
+	However, the domain indicates that the last word is invalid. The sun is over
+
+Step 60/330
+>> English - French
+	Cependant, le domaine indique que le dernier mot n'est pas valide. Le soleil est fini
+
+Step 61/330
+>> French - Spanish
+	Sin embargo, el dominio indica que la última palabra no es válida. El sol se acabo
+
+Step 62/330
+>> Spanish - Turkish
+	Ancak, etki alanı son kelimenin geçerli olmadığını gösterir. Güneş bitti
+
+Step 63/330
+>> Turkish - English
+	However, the domain indicates that the last word is not valid. The sun is over
+
+Step 64/330
+>> English - Spanish
+	Sin embargo, el dominio indica que la última palabra no es válida. El sol ha terminado
+
+Step 65/330
+>> Spanish - Serbian
+	Међутим, домен указује да последња реч није важећа. Сунце је зашло
+
+Step 66/330
+>> Serbian - Albanian
+	Sidoqoftë, domeni tregon që fjala e fundit nuk është e vlefshme. Dielli perëndoi
+
+Step 67/330
+>> Albanian - English
+	However, the domain indicates that the last word is invalid. The sun went down
+
+Step 68/330
+>> English - Georgian
+	ამასთან, დომენში მიუთითებს, რომ ბოლო სიტყვა არასწორია. მზე ჩადიოდა
+
+Step 69/330
+>> Georgian - English
+	However, the domain indicates that the last word is incorrect. The sun was setting
+
+Step 70/330
+>> English - Spanish
+	Sin embargo, el dominio indica que la última palabra es incorrecta. El sol se ponía
+
+Step 71/330
+>> Spanish - English
+	However, the domain indicates that the last word is incorrect. The sun was setting
+
+Step 72/330
+>> English - Sinhala
+	කෙසේ වෙතත්, වසම පෙන්නුම් කරන්නේ අවසාන වචනය වැරදිය. ඉර බැස යමින් තිබුණි
+
+Step 73/330
+>> Sinhala - Bosnian
+	Međutim, domena pokazuje da je zadnja riječ netačna. Sunce je zalazilo
+
+Step 74/330
+>> Bosnian - Spanish
+	Sin embargo, el dominio muestra que la última palabra es incorrecta. El sol se estaba poniendo
+
+Step 75/330
+>> Spanish - Portuguese
+	No entanto, o domínio mostra que a última palavra está incorreta. O sol estava se pondo
+
+Step 76/330
+>> Portuguese - Arabic
+	ومع ذلك ، يوضح المجال أن الكلمة الأخيرة غير صحيحة. كانت الشمس تغرب
+
+Step 77/330
+>> Arabic - Macedonian
+	Сепак, доменот наведува дека последниот збор не е точен. Сонцето заоѓаше
+
+Step 78/330
+>> Macedonian - Armenian
+	Այնուամենայնիվ, տիրույթը նշում է, որ վերջին բառը սխալ է: Արևը մայրամուտ էր
+
+Step 79/330
+>> Armenian - Thai
+	อย่างไรก็ตามโดเมนระบุว่าคำสุดท้ายไม่ถูกต้อง พระอาทิตย์กำลังตกดิน
+
+Step 80/330
+>> Thai - Arabic
+	ومع ذلك ، ينص المجال على أن الكلمة الأخيرة غير صحيحة. الشمس تغرب
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	但是，该字段表明最后一个字不正确。太阳落山了
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Sin embargo, este campo indica que la última palabra es incorrecta. El sol se esta poniendo
+
+Step 83/330
+>> Spanish - Ukrainian
+	Однак це поле вказує на те, що останнє слово неправильне. Сонце заходить
+
+Step 84/330
+>> Ukrainian - Spanish
+	Sin embargo, este campo indica que la última palabra es incorrecta. El sol se pone
+
+Step 85/330
+>> Spanish - English
+	However, this field indicates that the last word is incorrect. The sun goes down
+
+Step 86/330
+>> English - Mongolian
+	Гэсэн хэдий ч, энэ талбар нь сүүлчийн үг буруу байгааг харуулж байна. Нар мандах болно
+
+Step 87/330
+>> Mongolian - Spanish
+	Sin embargo, este campo indica que la última palabra es incorrecta. El sol saldrá
+
+Step 88/330
+>> Spanish - Arabic
+	ومع ذلك ، يشير هذا الحقل إلى أن الكلمة الأخيرة غير صحيحة. سوف تشرق الشمس
+
+Step 89/330
+>> Arabic - Kurdish
+	Lêbelê, vê qadê destnîşan dike ku peyva paşîn çewt e. Roj dê rabe
+
+Step 90/330
+>> Kurdish - English
+	However, this field indicates that the last word is incorrect. The sun will rise
+
+Step 91/330
+>> English - Dutch
+	Dit veld geeft echter aan dat het laatste woord onjuist is. De zon zal opkomen
+
+Step 92/330
+>> Dutch - English
+	However, this field indicates that the last word is incorrect. The sun will rise
+
+Step 93/330
+>> English - Samoan
+	Ae ui i lea, o lenei fanua o loʻo taʻu mai ai o le upu mulimuli e sese. O le a oso aʻe le la
+
+Step 94/330
+>> Samoan - Uzbek
+	Biroq, bu maydon oxirgi so'z noto'g'ri ekanligini ko'rsatadi. Quyosh chiqadi
+
+Step 95/330
+>> Uzbek - English
+	However, this field indicates that the last word is incorrect. The sun goes out
+
+Step 96/330
+>> English - Arabic
+	ومع ذلك ، يشير هذا الحقل إلى أن الكلمة الأخيرة غير صحيحة. الشمس تخرج
+
+Step 97/330
+>> Arabic - French
+	Cependant, ce champ indique que le dernier mot est incorrect. Le soleil se couche
+
+Step 98/330
+>> French - Spanish
+	Sin embargo, este campo indica que la última palabra es incorrecta. El sol se pone
+
+Step 99/330
+>> Spanish - Romanian
+	Cu toate acestea, acest câmp indică faptul că ultimul cuvânt este incorect. Soarele apune
+
+Step 100/330
+>> Romanian - Filipino
+	Gayunpaman, ang patlang na ito ay nagpapahiwatig na ang huling salita ay hindi tama. Ang araw ay lumulubog
+
+Step 101/330
+>> Filipino - Zulu
+	Kodwa-ke, le nkambu ibonisa ukuthi igama lokugcina alilungile. Ilanga liyashona
+
+Step 102/330
+>> Zulu - Arabic
+	ومع ذلك ، يشير هذا الحقل إلى أن الاسم الأخير غير صحيح. الشمس تغرب
+
+Step 103/330
+>> Arabic - Indonesian
+	Namun, bidang ini menunjukkan bahwa nama belakang salah. Matahari terbenam
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Tuy nhiên, trường này chỉ ra rằng tên cuối cùng không chính xác. Mặt trời lặn
+
+Step 105/330
+>> Vietnamese - Spanish
+	Sin embargo, este campo indica que el apellido es incorrecto. La puesta de sol
+
+Step 106/330
+>> Spanish - Arabic
+	ومع ذلك ، يشير هذا الحقل إلى أن الاسم الأخير غير صحيح. غروب
+
+Step 107/330
+>> Arabic - Spanish
+	Sin embargo, este campo indica que el apellido es incorrecto. Puesta de sol
+
+Step 108/330
+>> Spanish - Russian
+	Однако это поле указывает, что фамилия неверна. закат
+
+Step 109/330
+>> Russian - Arabic
+	ومع ذلك ، يشير هذا الحقل إلى أن الاسم الأخير غير صحيح. غروب
+
+Step 110/330
+>> Arabic - Spanish
+	Sin embargo, este campo indica que el apellido es incorrecto. Puesta de sol
+
+Step 111/330
+>> Spanish - Portuguese
+	No entanto, este campo indica que o sobrenome está incorreto. Pôr do sol
+
+Step 112/330
+>> Portuguese - English
+	However, this field indicates that the last name is incorrect. Sunset
+
+Step 113/330
+>> English - Spanish
+	Sin embargo, este campo indica que el apellido es incorrecto. Puesta de sol
+
+Step 114/330
+>> Spanish - English
+	However, this field indicates that the last name is incorrect. Sunset
+
+Step 115/330
+>> English - Hindi
+	हालाँकि, यह फ़ील्ड इंगित करता है कि अंतिम नाम गलत है। सूर्य का अस्त होना
+
+Step 116/330
+>> Hindi - Portuguese
+	No entanto, este campo indica que o sobrenome está incorreto. Pôr do sol
+
+Step 117/330
+>> Portuguese - Spanish
+	Sin embargo, este campo indica que el apellido es incorrecto. Puesta de sol
+
+Step 118/330
+>> Spanish - English
+	However, this field indicates that the last name is incorrect. Sunset
+
+Step 119/330
+>> English - Bengali
+	তবে এই ক্ষেত্রটি নির্দেশ করে যে শেষ নামটি ভুল। সূর্যাস্ত
+
+Step 120/330
+>> Bengali - French
+	Ce champ indique toutefois que le nom de famille est incorrect. Coucher de soleil
+
+Step 121/330
+>> French - lao
+	ເຖິງຢ່າງໃດກໍ່ຕາມ, ພາກສະ ໜາມ ນີ້ຊີ້ໃຫ້ເຫັນວ່ານາມສະກຸນບໍ່ຖືກຕ້ອງ. ຕາເວັນ
+
+Step 122/330
+>> lao - English
+	However, this field indicates that the last name is incorrect. The sun
+
+Step 123/330
+>> English - Portuguese
+	No entanto, este campo indica que o sobrenome está incorreto. O sol
+
+Step 124/330
+>> Portuguese - English
+	However, this field indicates that the last name is incorrect. The sun
+
+Step 125/330
+>> English - Portuguese
+	No entanto, este campo indica que o sobrenome está incorreto. O sol
+
+Step 126/330
+>> Portuguese - English
+	However, this field indicates that the last name is incorrect. The sun
+
+Step 127/330
+>> English - Portuguese
+	No entanto, este campo indica que o sobrenome está incorreto. O sol
+
+Step 128/330
+>> Portuguese - Burmese
+	သို့သော်ဤလယ်ကွင်းနာမတော်ကိုအမှီ ပြု. မမှန်ကန်ကြောင်းဖော်ပြသည်။ နေရောင်
+
+Step 129/330
+>> Burmese - Nepali
+	तर, यो क्षेत्र को नाम। रिपोर्ट गलत छ। घाम
+
+Step 130/330
+>> Nepali - Urdu
+	لیکن ، اس علاقے کا نام ہے۔ رپورٹ غلط ہے۔ پسینہ
+
+Step 131/330
+>> Urdu - French
+	Mais, c'est le nom de la région. Le rapport est invalide. Sueur
+
+Step 132/330
+>> French - English
+	But, that's the name of the region. The report is invalid. Sweat
+
+Step 133/330
+>> English - Swahili
+	Lakini, ndilo jina la mkoa. Ripoti hiyo sio sahihi. Jasho
+
+Step 134/330
+>> Swahili - Arabic
+	ولكن ، هذا هو اسم المنطقة. التقرير غير صحيح. عرق
+
+Step 135/330
+>> Arabic - Shona
+	Asi, izita redunhu iri. Chirevo hachina. Tsvina
+
+Step 136/330
+>> Shona - Hausa
+	Amma, sunan yankin. Hukuncin babu komai a ciki. M
+
+Step 137/330
+>> Hausa - Swahili
+	Lakini, jina la kikoa. Kesi ni tupu. M
+
+Step 138/330
+>> Swahili - English
+	But, domain name. The case is empty. M.
+
+Step 139/330
+>> English - Arabic
+	لكن اسم المجال. القضية فارغة. M.
+
+Step 140/330
+>> Arabic - Malagasy
+	Fa ny anaran'ny domain. Tsy raharahaina ny raharaha. M.
+
+Step 141/330
+>> Malagasy - Swahili
+	Lakini jina la kikoa. Kesi hiyo imepuuzwa. M.
+
+Step 142/330
+>> Swahili - French
+	Mais le nom de domaine. L'affaire a été ignorée. M.
+
+Step 143/330
+>> French - Arabic
+	لكن اسم المجال. تم تجاهل القضية. سيد
+
+Step 144/330
+>> Arabic - French
+	Mais le nom de domaine. L'affaire a été ignorée. Maître
+
+Step 145/330
+>> French - Arabic
+	لكن اسم المجال. تم تجاهل القضية. المعلم
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Men, non an domèn. Ka a te inyore. Pwofesè
+
+Step 147/330
+>> Haitian Creole - Pashto
+	مګر د ډومین نوم. قضیه له پامه غورځول شوې وه. ښوونکی
+
+Step 148/330
+>> Pashto - French
+	Mais le nom de domaine. L'affaire a été ignorée. L'enseignant
+
+Step 149/330
+>> French - Chichewa
+	Koma dzina lankhondo. Mlanduwo sunanyalanyazidwe. aphunzitsiwo
+
+Step 150/330
+>> Chichewa - Arabic
+	لكن اسم عسكري. تم تجاهل القضية. المعلمين
+
+Step 151/330
+>> Arabic - Amharic
+	ግን ወታደራዊ ስም ነው ፡፡ ጉዳዩ ችላ ተብሏል ፡፡ አስተማሪዎች።
+
+Step 152/330
+>> Amharic - English
+	But it's a military name. This issue has been ignored. Teachers.
+
+Step 153/330
+>> English - French
+	Mais c'est un nom militaire. Ce problème a été ignoré. Enseignants.
+
+Step 154/330
+>> French - Swahili
+	Lakini ni jina la jeshi. Tatizo hili limepuuzwa. Walimu.
+
+Step 155/330
+>> Swahili - Portuguese
+	Mas é um nome de host. Este problema foi ignorado. Professores.
+
+Step 156/330
+>> Portuguese - Arabic
+	لكنه اسم مضيف. تم تجاهل هذه المشكلة. المعلمين.
+
+Step 157/330
+>> Arabic - Portuguese
+	Mas é um nome de host. Este problema foi ignorado. Professores.
+
+Step 158/330
+>> Portuguese - English
+	But it is a host name. This problem has been ignored. Teachers.
+
+Step 159/330
+>> English - French
+	Mais c'est un nom d'hôte. Ce problème a été ignoré. Enseignants.
+
+Step 160/330
+>> French - English
+	But it's a host name. This problem has been ignored. Teachers.
+
+Step 161/330
+>> English - Swahili
+	Lakini ni jina la mwenyeji. Tatizo hili limepuuzwa. Walimu.
+
+Step 162/330
+>> Swahili - Arabic
+	لكنه اسم مضيف. تم تجاهل هذه المشكلة. المعلمين.
+
+Step 163/330
+>> Arabic - Arabic
+	But it's a host name. This problem has been ignored. Teachers.
+
+Step 164/330
+>> Arabic - French
+	Mais c'est un nom d'hôte. Ce problème a été ignoré. Enseignants.
+
+Step 165/330
+>> French - Hausa
+	Amma sunan rundunar ce. An yi watsi da wannan matsalar. Malamai.
+
+Step 166/330
+>> Hausa - French
+	Mais c'est le nom de l'armée. Ce problème a été ignoré. Les enseignants.
+
+Step 167/330
+>> French - Arabic
+	But that's the name of the army. This problem has been ignored. Teachers.
+
+Step 168/330
+>> Arabic - Arabic
+	ولكن هذا هو اسم الجيش. تم تجاهل هذه المشكلة. معلمون.
+
+Step 169/330
+>> Arabic - Swahili
+	Lakini hili ndilo jina la jeshi. Tatizo hili limepuuzwa. Walimu.
+
+Step 170/330
+>> Swahili - English
+	But this is the name of the army. This problem has been ignored. Teachers.
+
+Step 171/330
+>> English - French
+	Mais c'est le nom de l'armée. Ce problème a été ignoré. Enseignants.
+
+Step 172/330
+>> French - English
+	But that's the name of the army. This problem has been ignored. Teachers.
+
+Step 173/330
+>> English - Portuguese
+	Mas esse é o nome do exército. Este problema foi ignorado. Professores.
+
+Step 174/330
+>> Portuguese - Arabic
+	ولكن هذا هو اسم الجيش. تم تجاهل هذه المشكلة. المعلمين.
+
+Step 175/330
+>> Arabic - Portuguese
+	Mas este é o nome do exército. Este problema foi ignorado. Professores.
+
+Step 176/330
+>> Portuguese - Swahili
+	Lakini hili ndilo jina la jeshi. Tatizo hili limepuuzwa. Walimu.
+
+Step 177/330
+>> Swahili - French
+	Mais c'est le nom de l'armée. Ce problème a été ignoré. Les enseignants.
+
+Step 178/330
+>> French - English
+	But that's the name of the army. This problem has been ignored. Teachers.
+
+Step 179/330
+>> English - Amharic
+	ግን ያ የሰራዊቱ ስም ነው። ይህ ችግር ችላ ተብሏል። አስተማሪዎች።
+
+Step 180/330
+>> Amharic - Arabic
+	ولكن هذا هو اسم الجيش. تم تجاهل هذه المشكلة. المعلمين.
+
+Step 181/330
+>> Arabic - Chichewa
+	Koma ili ndi dzina lankhondo. Vutoli lanyalanyazidwa. Aphunzitsi.
+
+Step 182/330
+>> Chichewa - French
+	Mais c'est un nom militaire. Ce problème a été ignoré. Les enseignants.
+
+Step 183/330
+>> French - Pashto
+	مګر دا نظامي نوم دی. دا ستونزه له پامه غورځول شوې ده. ښوونکي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Men, se yon non militè. Pwoblèm sa a te inyore. Pwofesè yo.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	لكنه اسم عسكري. تم تجاهل هذه المشكلة. المعلمين.
+
+Step 186/330
+>> Arabic - French
+	Mais c'est un nom militaire. Ce problème a été ignoré. Les enseignants.
+
+Step 187/330
+>> French - Arabic
+	لكنه اسم عسكري. تم تجاهل هذه المشكلة. المعلمون.
+
+Step 188/330
+>> Arabic - French
+	Mais c'est un nom militaire. Ce problème a été ignoré. Les enseignants.
+
+Step 189/330
+>> French - Swahili
+	Lakini ni jina la jeshi. Tatizo hili limepuuzwa. Walimu.
+
+Step 190/330
+>> Swahili - Malagasy
+	Fa anarana mpampiantrano azy izany. Tsy voadinika ity olana ity. Mpampianatra.
+
+Step 191/330
+>> Malagasy - Arabic
+	إنه اسم مضيف. لم يتم تناول هذه المشكلة. المعلم.
+
+Step 192/330
+>> Arabic - English
+	It's a host name. This problem is not addressed. the teacher.
+
+Step 193/330
+>> English - Swahili
+	Ni jina la mwenyeji. Tatizo hili halijashughulikiwa. Mwalimu.
+
+Step 194/330
+>> Swahili - Hausa
+	Suna ne Ba a magance wannan matsalar ba. Malami.
+
+Step 195/330
+>> Hausa - Shona
+	Vanoti Chinetso hachigadziriswa. Mudzidzisi.
+
+Step 196/330
+>> Shona - Arabic
+	يقولون المشكلة لم تحل. المعلم.
+
+Step 197/330
+>> Arabic - Swahili
+	Wanasema shida haijatatuliwa. Mwalimu.
+
+Step 198/330
+>> Swahili - English
+	They say the problem is not solved. Teacher.
+
+Step 199/330
+>> English - French
+	Ils disent que le problème n'est pas résolu. Prof.
+
+Step 200/330
+>> French - Urdu
+	ان کا کہنا ہے کہ مسئلہ حل نہیں ہوا ہے۔ پروفیسر
+
+Step 201/330
+>> Urdu - Nepali
+	उनीहरू भन्छन कि समस्याको समाधान भएको छैन। प्राध्यापक
+
+Step 202/330
+>> Nepali - Burmese
+	သူတို့ကထိုပြဿနာကိုဖြေရှင်းမပေးကြောင်းပြောကြသည်။ ပါမောက္ခ
+
+Step 203/330
+>> Burmese - Portuguese
+	Eles não podem resolver o problema em casa. professor
+
+Step 204/330
+>> Portuguese - English
+	They cannot solve the problem at home. teacher
+
+Step 205/330
+>> English - Portuguese
+	Eles não podem resolver o problema em casa. professor
+
+Step 206/330
+>> Portuguese - English
+	They cannot solve the problem at home. teacher
+
+Step 207/330
+>> English - Portuguese
+	Eles não podem resolver o problema em casa. professor
+
+Step 208/330
+>> Portuguese - English
+	They cannot solve the problem at home. teacher
+
+Step 209/330
+>> English - lao
+	ພວກເຂົາບໍ່ສາມາດແກ້ໄຂບັນຫາຢູ່ເຮືອນໄດ້. ຄູອາຈານ
+
+Step 210/330
+>> lao - French
+	Ils ne peuvent pas résoudre le problème à la maison. Les enseignants
+
+Step 211/330
+>> French - Bengali
+	তারা বাড়িতে সমস্যা সমাধান করতে পারে না। শিক্ষক
+
+Step 212/330
+>> Bengali - English
+	They cannot solve problems at home. Teacher
+
+Step 213/330
+>> English - Spanish
+	No pueden resolver problemas en casa. Profesor
+
+Step 214/330
+>> Spanish - Portuguese
+	Eles não podem resolver problemas em casa. Professor
+
+Step 215/330
+>> Portuguese - Hindi
+	वे घर पर समस्याओं को हल नहीं कर सकते। प्रोफ़ेसर
+
+Step 216/330
+>> Hindi - English
+	They cannot solve problems at home. Professor
+
+Step 217/330
+>> English - Spanish
+	No pueden resolver problemas en casa. Profesor
+
+Step 218/330
+>> Spanish - English
+	They cannot solve problems at home. Teacher
+
+Step 219/330
+>> English - Portuguese
+	Eles não podem resolver problemas em casa. Professor
+
+Step 220/330
+>> Portuguese - Spanish
+	No pueden resolver problemas en casa. Maestro
+
+Step 221/330
+>> Spanish - Arabic
+	لا يمكنهم حل المشكلات في المنزل. سيد
+
+Step 222/330
+>> Arabic - Russian
+	Они не могут решить проблемы дома. Мистер
+
+Step 223/330
+>> Russian - Spanish
+	No pueden resolver problemas en casa. Señor
+
+Step 224/330
+>> Spanish - Arabic
+	لا يمكنهم حل المشكلات في المنزل. سيد
+
+Step 225/330
+>> Arabic - Spanish
+	No pueden resolver problemas en casa. Maestro
+
+Step 226/330
+>> Spanish - Vietnamese
+	Họ không thể giải quyết vấn đề ở nhà. Giáo viên
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Mereka tidak bisa menyelesaikan masalah di rumah. Guru
+
+Step 228/330
+>> Indonesian - Arabic
+	لا يمكنهم حل المشكلات في المنزل. معلم
+
+Step 229/330
+>> Arabic - Zulu
+	Abakwazi ukuxazulula izinkinga ekhaya. Uthisha
+
+Step 230/330
+>> Zulu - Filipino
+	Hindi nila malulutas ang mga problema sa bahay. Ang guro
+
+Step 231/330
+>> Filipino - Romanian
+	Nu pot rezolva probleme acasă. Profesorul
+
+Step 232/330
+>> Romanian - Spanish
+	No puedo resolver problemas en casa. profesor
+
+Step 233/330
+>> Spanish - French
+	Je ne peux pas résoudre les problèmes à la maison. professeur
+
+Step 234/330
+>> French - Arabic
+	لا أستطيع حل المشاكل في المنزل. أستاذ
+
+Step 235/330
+>> Arabic - English
+	I can't solve problems at home. professor
+
+Step 236/330
+>> English - Uzbek
+	Uydagi muammolarni hal qila olmayman. professor
+
+Step 237/330
+>> Uzbek - Samoan
+	E le mafai ona ou foia faafitauli i le fale. polofesa
+
+Step 238/330
+>> Samoan - English
+	I can't solve the problems at home. Professor
+
+Step 239/330
+>> English - Dutch
+	Ik kan de problemen thuis niet oplossen. Professor
+
+Step 240/330
+>> Dutch - English
+	I can't solve the problems at home. Professor
+
+Step 241/330
+>> English - Kurdish
+	Ez nikarim pirsgirêkên li malê çareser bikim. Profesor
+
+Step 242/330
+>> Kurdish - Arabic
+	لا أستطيع حل المشاكل في المنزل. أستاذ
+
+Step 243/330
+>> Arabic - Spanish
+	No puedo resolver problemas en casa. Profesor
+
+Step 244/330
+>> Spanish - Mongolian
+	Би гэртээ асуудлыг шийдэж чадахгүй байна. Багш аа
+
+Step 245/330
+>> Mongolian - English
+	I can not solve the problem at home. Teacher
+
+Step 246/330
+>> English - Spanish
+	No puedo resolver el problema en casa. Profesor
+
+Step 247/330
+>> Spanish - Ukrainian
+	Я не можу вирішити проблему вдома. Вчитель
+
+Step 248/330
+>> Ukrainian - Spanish
+	No puedo resolver el problema en casa. Maestro
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	我家里无法解决问题。主
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	لا أستطيع حل المشكلة في المنزل. ابتدائي
+
+Step 251/330
+>> Arabic - Thai
+	ฉันไม่สามารถแก้ปัญหาที่บ้านได้ ประถม
+
+Step 252/330
+>> Thai - Armenian
+	Ես չեմ կարող տանը խնդիրներ լուծել: Տարրական
+
+Step 253/330
+>> Armenian - Macedonian
+	Не можам да ги решам проблемите дома. Основно
+
+Step 254/330
+>> Macedonian - Arabic
+	لا أستطيع حل المشاكل في المنزل. تماما
+
+Step 255/330
+>> Arabic - Portuguese
+	Não consigo resolver problemas em casa. Absolutamente
+
+Step 256/330
+>> Portuguese - Spanish
+	No puedo resolver problemas en casa. Absolutamente
+
+Step 257/330
+>> Spanish - Bosnian
+	Ne mogu riješiti probleme kod kuće. Apsolutno
+
+Step 258/330
+>> Bosnian - Sinhala
+	මට නිවසේ ගැටළු විසඳිය නොහැක. නියත වශයෙන්ම
+
+Step 259/330
+>> Sinhala - English
+	I can't solve problems at home. Absolutely
+
+Step 260/330
+>> English - Spanish
+	No puedo resolver problemas en casa. Absolutamente
+
+Step 261/330
+>> Spanish - English
+	I can't solve problems at home. Absolutely
+
+Step 262/330
+>> English - Georgian
+	სახლში პრობლემების მოგვარება არ შემიძლია. აბსოლუტურად
+
+Step 263/330
+>> Georgian - English
+	I can't solve problems at home. absolutely
+
+Step 264/330
+>> English - Albanian
+	Unë nuk mund të zgjidh problemet në shtëpi. absolutisht
+
+Step 265/330
+>> Albanian - Serbian
+	Не могу решити проблеме код куће. апсолутно
+
+Step 266/330
+>> Serbian - Spanish
+	No puedo resolver problemas en casa. absolutamente
+
+Step 267/330
+>> Spanish - English
+	I can't solve problems at home. absolutely
+
+Step 268/330
+>> English - Turkish
+	Evde sorunları çözemiyorum. kesinlikle
+
+Step 269/330
+>> Turkish - Spanish
+	No puedo resolver problemas en casa. ciertamente
+
+Step 270/330
+>> Spanish - French
+	Je ne peux pas résoudre les problèmes à la maison. certainement
+
+Step 271/330
+>> French - English
+	I can not solve problems at home. certainly
+
+Step 272/330
+>> English - Persian
+	من نمی توانم در خانه مشکلات را حل کنم. قطعا
+
+Step 273/330
+>> Persian - Kazakh
+	Мен үйдегі мәселелерді шеше алмаймын. Әрине
+
+Step 274/330
+>> Kazakh - English
+	I can not solve problems at home. certainly
+
+Step 275/330
+>> English - Malay
+	Saya tidak dapat menyelesaikan masalah di rumah. pasti
+
+Step 276/330
+>> Malay - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالتأكيد
+
+Step 277/330
+>> Arabic - Spanish
+	No puedo resolver el problema en casa. Claro
+
+Step 278/330
+>> Spanish - English
+	I can't solve the problem at home. Sure
+
+Step 279/330
+>> English - Russian
+	Я не могу решить проблему дома. Конечно
+
+Step 280/330
+>> Russian - Romanian
+	Nu pot rezolva problema acasă. Desigur
+
+Step 281/330
+>> Romanian - Bulgarian
+	Не мога да реша проблема у дома. разбира се
+
+Step 282/330
+>> Bulgarian - Albanian
+	Unë nuk mund ta zgjidh problemin në shtëpi. natyrisht
+
+Step 283/330
+>> Albanian - Russian
+	Я не могу решить проблему дома. конечно
+
+Step 284/330
+>> Russian - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالطبع
+
+Step 285/330
+>> Arabic - Spanish
+	No puedo resolver el problema en casa. Por supuesto
+
+Step 286/330
+>> Spanish - Croatian
+	Ne mogu riješiti problem kod kuće. Naravno
+
+Step 287/330
+>> Croatian - Hungarian
+	Nem tudom megoldani a problémát otthon. Persze
+
+Step 288/330
+>> Hungarian - Spanish
+	No puedo resolver el problema en casa. ¡Por supuesto
+
+Step 289/330
+>> Spanish - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالطبع
+
+Step 290/330
+>> Arabic - Portuguese
+	Não consigo resolver o problema em casa. Claro
+
+Step 291/330
+>> Portuguese - Latvian
+	Es nevaru atrisināt problēmu mājās. Protams
+
+Step 292/330
+>> Latvian - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالطبع
+
+Step 293/330
+>> Arabic - Malay
+	Saya tidak dapat menyelesaikan masalah di rumah. Sudah tentu
+
+Step 294/330
+>> Malay - Slovak
+	Nemôžem vyriešiť problém doma. Samozrejme
+
+Step 295/330
+>> Slovak - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالطبع
+
+Step 296/330
+>> Arabic - Lithuanian
+	Aš negaliu išspręsti problemos namuose. Žinoma
+
+Step 297/330
+>> Lithuanian - Catalan
+	No puc resoldre el problema a casa. Per descomptat
+
+Step 298/330
+>> Catalan - Arabic
+	لا أستطيع حل المشكلة في المنزل. بالطبع
+
+Step 299/330
+>> Arabic - Polish
+	Nie mogę rozwiązać problemu w domu. Oczywiście
+
+Step 300/330
+>> Polish - Turkish
+	Sorunu evde çözemiyorum. Tabii ki
+
+Step 301/330
+>> Turkish - Greek
+	Δεν μπορώ να λύσω το πρόβλημα στο σπίτι. Φυσικά
+
+Step 302/330
+>> Greek - Estonian
+	Ma ei suuda kodus probleemi lahendada. Muidugi
+
+Step 303/330
+>> Estonian - Maltese
+	Ma nistax issolvi l-problema d-dar. Dażgur
+
+Step 304/330
+>> Maltese - Italian
+	Non riesco a risolvere il problema a casa. naturalmente
+
+Step 305/330
+>> Italian - Czech
+	Nemohu problém vyřešit doma. přirozeně
+
+Step 306/330
+>> Czech - Spanish
+	No puedo resolver el problema en casa. naturalmente
+
+Step 307/330
+>> Spanish - Slovenian
+	Težave ne morem rešiti doma. naravno
+
+Step 308/330
+>> Slovenian - French
+	Je ne peux pas résoudre le problème à la maison. bien sur
+
+Step 309/330
+>> French - Korean
+	집에서 문제를 해결할 수 없습니다. 물론입니다
+
+Step 310/330
+>> Korean - Hebrew
+	אתה לא יכול לפתור בעיות בבית. כמובן
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Dir kënnt doheem keng Problemer léisen. Natierlech
+
+Step 312/330
+>> Luxembourgish - German
+	Sie können keine Probleme zu Hause lösen. Natürlich
+
+Step 313/330
+>> German - Japanese
+	自宅では問題を解決できません。勿論
+
+Step 314/330
+>> Japanese - German
+	Ich kann das Problem zu Hause nicht lösen. Natürlich
+
+Step 315/330
+>> German - Dutch
+	Ik kan het probleem thuis niet oplossen. Natuurlijk
+
+Step 316/330
+>> Dutch - Maori
+	Kaore e taea te whakatika i te raru i te kaainga. Tuhinga o mua
+
+Step 317/330
+>> Maori - Finnish
+	Ongelmaa ei voida ratkaista kotona. OF
+
+Step 318/330
+>> Finnish - English
+	The problem cannot be solved at home. OF
+
+Step 319/330
+>> English - Danish
+	Problemet kan ikke løses derhjemme. AF
+
+Step 320/330
+>> Danish - Dutch
+	Het probleem kan thuis niet worden opgelost. VAN
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	這個問題在國內無法解決。作者：
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Det här problemet kan inte lösas i Kina. Författare:
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	這個問題在中國無法解決。作者：
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Ekki er hægt að leysa þetta vandamál í Kína. Höfundur:
+
+Step 325/330
+>> Icelandic - German
+	Dieses Problem kann in China nicht gelöst werden. Autor:
+
+Step 326/330
+>> German - Irish
+	Ní féidir an fhadhb seo a réiteach sa tSín. Author:
+
+Step 327/330
+>> Irish - English
+	This problem can not be solved in China. Author:
+
+Step 328/330
+>> English - German
+	Dieses Problem kann in China nicht gelöst werden. Autor:
+
+Step 329/330
+>> German - Norwegian
+	Dette problemet kan ikke løses i Kina. Forfatter:
+
+Step 330/330
+>> Norwegian - Portuguese
+	Este problema não pode ser resolvido na China. Autor:
+
+
+##### RESULTS ######
+
+Mas Cheherazade, pronunciadas essas últimas palavras, interrompeu-se. O dia acabava de nascer.
+
+Este problema não pode ser resolvido na China. Autor:

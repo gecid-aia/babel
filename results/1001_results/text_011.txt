@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: — Lembro, respondeu Cheherazade. E ouvirás o prosseguimento. Sire, continuou, dirigindo sempre a palavra a Chahriar, o que o rei grego acabava de dizer com respeito ao rei Sindbad aguçou a curiosidade do vizir, que lhe pediu: “Suplico-vos, Sire, perdoeis a ousadia de vos perguntar o que disse o vizir do rei Sindbad ao seu amo para o afastar da idéia de fazer morrer seu filho.” O rei grego satisfez-lhe o desejo. “Esse vizir, respondeu, após haver mostrado ao rei Sindbad que, diante da acusação de uma ogra, deveria temer praticar ato de que pudesse arrepender-se, contou-lhe a seguinte história:
+
+Step 1/330
+>> Portuguese - Norwegian
+	"Jeg husker det," sa Cheherazade. Og du vil høre fortsettelsen. Sire, fortsatte han, og ga alltid ordet til Chahriar, hva den greske kongen nettopp hadde sagt om kong Sindbad vakte nysgjerrigheten til den vizier, som spurte ham: “Jeg ber deg, Herre, tilgi frimodighet til å spørre deg hva han sa Kong Sindbads visier til sin herre for å forhindre ham fra ideen om å drepe sønnen. ”Den greske kongen oppfylte ønsket. Denne svakere, svarte han, etter å ha vist kong Sindbad at han i møte med en beskyldning om å være redd for å gjøre alt han kunne omvende seg, fortalte ham følgende historie:
+
+Step 2/330
+>> Norwegian - German
+	"Ich erinnere mich", sagte Cheherazade. Und du wirst die Fortsetzung hören. Herr, fuhr er fort und sprach immer mit Chahriar, was der griechische König gerade über König Sindbad gesagt hatte, und erweckte die Neugier des Wesirs, der ihn fragte: "Ich bitte dich, Herr, vergib die Kühnheit, dich zu fragen, was er zu König Sindbad gesagt hatte. Visionen an seinen Meister, um ihn von der Idee abzuhalten, seinen Sohn zu töten. „Der griechische König hat den Wunsch erfüllt. Dieser Schwächere, antwortete er, nachdem er König Sindbad gezeigt hatte, dass er angesichts des Vorwurfs, Angst zu haben, alles zu tun, was er bereuen konnte, die folgende Geschichte erzählte:
+
+Step 3/330
+>> German - English
+	"I remember," said Cheherazade. And you will hear the sequel. Sir, he went on, and always spoke to Khahriar what the Greek king had just said about King Sinbad, and aroused the curiosity of the vizier who asked him, "I beg of you, Lord, forgive the audacity to ask what he is Visions to his master, to prevent him from the idea of killing his son. "The Greek king has fulfilled the wish, this weaker one, he answered after showing King Sindbad that he was in the face of reproach To be afraid to do anything he could regret, the following story told:
+
+Step 4/330
+>> English - Irish
+	"Is cuimhin liom," a dúirt Cheherazade. Agus cloisfidh tú an seicheamh. Sir, lean sé air, agus labhair sé i gcónaí le Khahriar an méid a dúirt an rí Gréagach díreach faoi Rí Sinbad, agus chuir sé le fiosracht an té a chuir ceist air, "impím ortsa, a Thiarna, an t-ionracas a iarraidh ar a bhfuil sé Visions a mháistir, chun é a chosc ón smaoineamh a mhac a mharú. "Chomhlíon an rí Gréige an mian, an ceann is laige seo, d'fhreagair sé tar éis dó Rí Sindbad a thaispeáint go raibh sé i gcoinne an chrá. Is oth leis an scéal seo a leanas:
+
+Step 5/330
+>> Irish - German
+	"Ich erinnere mich", sagte Cheherazade. Und Sie werden die Sequenz hören. Sir, fuhr er fort und sprach immer mit Khahriar, was der griechische König gerade über König Sinbad gesagt hatte, und er fügte der Neugier desjenigen hinzu, der ihn fragte: "Ich bitte Sie, Herr, um die Integrität zu bitten." dem er der Meister der Visionen ist, um ihn daran zu hindern, daran zu denken, seinen Sohn zu töten. "Der griechische König erfüllte die schwächsten, die schwächsten, antwortete er, nachdem er König Sindbad gezeigt hatte, dass er gegen die war Qual. Folgendes ist bedauerlich: \ t
+
+Step 6/330
+>> German - Icelandic
+	„Ég man,“ sagði Cheherazade. Og þú munt heyra röðina. Herra, hann hélt áfram og talaði alltaf við Khahriar það sem gríska konungurinn hafði nýlega sagt um Sinbad konung og bætti við forvitni þess sem spurði hann: "Ég bið þig, herra, að biðja um ráðvendni." Hann er meistari framtíðarsýn til að koma í veg fyrir að hann hugsi um að drepa son sinn. „Gríska konungurinn fyllti þá veikustu, veikustu,“ svaraði hann, eftir að hafa sýnt Sindbad konung að hann væri á móti kvölunum. Eftirfarandi er óheppilegt:
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	“我記得，”切赫拉扎德說。你會聽到訂單。主席先生，他繼續向卡赫里講述了希臘國王最近對辛巴德國王所說的話，這增加了一個問他的人的好奇心，“先生，我問你要求誠信。”他是阻止他想殺害他兒子的遠見的捍衛者。 “希臘國王填補了最弱者，最弱者，”他回答道，他向辛巴德表示他反對這種折磨。以下是不幸的：
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	"Jag kommer ihåg," sa Cehlazad. Du kommer att höra ordningen. Herr ordförande, han fortsätter att berätta för Kahri vad den grekiska kungen har sagt till King Simba nyligen. Detta ökar nyfikenheten hos en person som frågar honom. Försvarare som dödade sin sons vision. ”Den grekiska kungen fyllde de svagaste och de svagaste,” svarade han och berättade för honom till Sinbad att han motsatte sig tortyren. Följande är olyckligt:
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	“我記得，”切拉扎德說。你會聽到訂單。主席先生，他繼續告訴Kahri希臘國王最近對辛巴國王說了些什麼。這增加了詢問他的人的好奇心。殺死兒子視力的後衛。 “希臘國王填補了最弱者和最弱者，”他回答道，告訴辛巴德他反對酷刑。以下是不幸的：
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	"Ik herinner het me," zei Chelazzard. U hoort de bestelling. Meneer de President, hij blijft Kahri de Griekse koning vertellen wat hij onlangs tegen koning Simba heeft gezegd. Dit verhoogt de nieuwsgierigheid van de persoon die hem vroeg. Dood de bewaker van het visioen van zijn zoon. "De Griekse koning vulde de zwaksten en de zwaksten," antwoordde hij en vertelde Simbad dat hij tegen marteling was. Het volgende is jammer:
+
+Step 11/330
+>> Dutch - Danish
+	”Jeg kan huske,” sagde Chelazzard. Du hører ordren. Hr. Præsident, han fortsætter med at fortælle den græske konge Kahri, hvad han for nylig sagde til kong Simba. Dette øger nysgerrigheden hos den person, der spurgte ham. Dræbe værgen for hans søns vision. ”Den græske konge fyldte de svageste og de svageste,” svarede han og fortalte Simbad, at han var imod tortur. Følgende er uheldigt:
+
+Step 12/330
+>> Danish - English
+	"I remember," Chelazzard said. You hear the order. Sir. President, he continues to tell Greek King Kahri what he recently said to King Simba. This increases the curiosity of the person who asked him. Kill the guardian for his son's vision. "The Greek king filled the weak and the weak," he replied, telling Simbad that he was against torture. The following is unfortunate:
+
+Step 13/330
+>> English - Finnish
+	"Muistan", Chelazzard sanoi. Kuulet käskyn. Hyvä herra. Presidentti, hän kertoo edelleen Kreikan kuningas Kahrille, mitä hän sanoi äskettäin kuningas Simballe. Tämä lisää häntä kysyneen henkilön uteliaisuutta. Tapa huoltaja hänen poikansa vision vuoksi. "Kreikan kuningas täytti heikot ja heikot", hän vastasi ja kertoi Simbadille vastustavansa kidutusta. Seuraava on valitettavaa:
+
+Step 14/330
+>> Finnish - Maori
+	"Kei te mahara au," ka mea a Chelazzard. Whakarongo koe ki te whakahau. E te rangatira. E te Perehitini, kei te korero tonu ia ki a Kingi Kahr o Kariki mo tana korero ki a Kingi Simba inanahi nei. Ka whakapiki ake i te pākiki o te tangata nana i pa ki a ia. Patua te kaitiaki ki te tirohanga o tana tama. "Ka whakakiia e te kingi Kariki te hunga ngoikore me te ngoikore," ka utua e ia, ka kii ki a Simbad ka patoi ia ki te whakamamae. E whai ake nei ko:
+
+Step 15/330
+>> Maori - Dutch
+	"Ik herinner het me," zei Chelazzard. Luister naar het commando. De kapitein. Meneer de President, hij praat nog steeds met koning Kahr van Griekenland over wat hij gisteren tegen koning Simba zei. Het verhoogt de nieuwsgierigheid van de persoon die het heeft aangeraakt. Dood de bewaker in de ogen van zijn zoon. "De Griekse koning zal de zwakken en de zwakken vullen", antwoordde hij en vertelde Simbad dat hij zich tegen marteling zou verzetten. De volgende zijn:
+
+Step 16/330
+>> Dutch - German
+	"Ich erinnere mich", sagte Chelazzard. Hören Sie den Befehl. Der Kapitän. Herr Präsident, er spricht immer noch mit König Kahr von Griechenland über das, was er gestern zu König Simba gesagt hat. Es erhöht die Neugier der Person, die es berührt hat. Töte die Wache in den Augen seines Sohnes. "Der griechische König wird die Schwachen und die Schwachen füllen", antwortete er und sagte Simbad, dass er der Folter widerstehen würde. Die folgenden sind:
+
+Step 17/330
+>> German - Japanese
+	「私は覚えています」とシェラザードが言った。コマンドを聞いてください。キャプテン。大統領、彼はまだ昨日シンバ王に言ったことについて、ギリシャのカー王と話している。それに触れた人の好奇心を高めます。彼の息子の目の前でガードを殺します。 「ギリシャの王は弱者と弱者を満たします」と彼は答え、拷問に抵抗するとシンバッドに語った。以下は：
+
+Step 18/330
+>> Japanese - German
+	"Ich erinnere mich", sagte Sherazade. Hören Sie den Befehl. Kapitän. Präsident, er spricht immer noch mit dem Griechen Ker über das, was er gestern König Simba erzählt hat. Erhöhen Sie die Neugier derer, die es berühren. Töte die Wache vor den Augen seines Sohnes. "Der griechische König füllt die Schwachen und die Schwachen", antwortete er und sagte Simbad, dass er sich der Folter widersetzte. Die folgenden sind:
+
+Step 19/330
+>> German - Luxembourgish
+	"Ech ka mech erënneren," sot Sherazade. Lauschtert de Kommando. Kapitän. President, hie schwätzt nach ëmmer mam griichesche Ker iwwer dat wat hie gëschter dem King Simba gesot huet. Erhéije d'Curiositéit vun deenen déi et beréiert. Killt de Wuecht an den Ae vu sengem Jong. "De griichesche Kinnek fëllt déi schwaach an déi schwaach", huet hie geäntwert an de Simbad gesot datt hie géint d'Folterung widderstoen huet. Déi folgend sinn:
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	"אני זוכר," אמר שראזדה. האזן לפקודה. קפטן. נשיא, הוא עדיין מדבר עם הבחור היווני על הדברים שאמר אתמול למלך סימבה. הגבירו את הסקרנות של מי שנוגע בה. הרוג את השומר בעיני בנו. "המלך היווני ממלא את החלשים והחלשים," הוא ענה ואמר לסימבד להתנגד לעינויים. להלן:
+
+Step 21/330
+>> Hebrew - Korean
+	라자다는 말했다. 명령을 듣습니다. 함장. 대통령, 그는 어제 심바 왕에게 말한 것에 대해 그리스 사람과 이야기하고 있습니다. 만지는 사람들의 호기심을 키우십시오. 아들의 눈에 경비원을 죽여라. "그리스 왕은 약자와 약자를 채운다"고 심 바드에게 고문에 저항하라고 말했다. 아래 :
+
+Step 22/330
+>> Korean - French
+	Lazada a dit. Écoutez la commande. Capitaine. Président, il parle avec les Grecs de ce qu'il a dit hier au roi Simba. Développez la curiosité de ceux que vous touchez. Tuez les gardes dans les yeux du fils "Le roi grec emplit les faibles et les faibles", a-t-il dit à Simbard de résister à la torture. Ci-dessous:
+
+Step 23/330
+>> French - Slovenian
+	Je rekla Lazada. Poslušajte ukaz. Kapetan. Predsednik, z Grki se pogovarja o tem, kaj je včeraj rekel kralju Simbi. Razvijte radovednost tistih, ki se jih dotaknete. Ubij stražarja v očeh sina "Grški kralj napolni šibke in šibke," je rekel Simbardu, naj se upira mučenju. spodaj:
+
+Step 24/330
+>> Slovenian - Spanish
+	Dijo Lazada. Escucha el comando. Capitán Presidente, está hablando con los griegos sobre lo que le dijo ayer al rey Simba. Desarrolla la curiosidad de aquellos que tocas. Mata al guardia a los ojos del hijo "El rey griego llena a los débiles y débiles", le dijo a Simbard que se resistiera a la tortura. abajo:
+
+Step 25/330
+>> Spanish - Czech
+	Řekla Lazada. Poslouchejte příkaz. Kapitáne prezidente, hovoříte s Řeky o tom, co jste včera řekl králi Simbovi. Rozvíjejte zvědavost těch, kterých se dotknete. Zabijte stráž v očích syna „Řecký král zaplňuje slabé a slabé,“ řekl Simbardovi, aby odolal mučení. níže:
+
+Step 26/330
+>> Czech - Italian
+	Disse Lazada. Ascolta il comando. Capitano Presidente, stai parlando ai Greci di quello che hai detto ieri al Re Simba. Sviluppa la curiosità di coloro che tocchi. Uccidi la guardia agli occhi di suo figlio "Il re di Grecia riempie i deboli e i deboli", disse a Simbard di resistere alla tortura. qui di seguito:
+
+Step 27/330
+>> Italian - Maltese
+	Qal Lazada Isma 'l-kmand. Kaptan President, qed tkellem lill-Griegi dwar dak li għedt il-bieraħ lir-Re Simba. Żviluppa l-kurżità ta 'dawk li tmiss. Oqtol il-gwardja f'għajnejn ibnu "Ir-re tal-Greċja jimla d-dgħajjef u d-dgħajjef," qal lil Simbard biex jirreżisti t-tortura. hawn taħt:
+
+Step 28/330
+>> Maltese - Estonian
+	Ütles Lazada Kuula käsk. Kapten president, räägib kreeklaste kohta, mida ma eile ütlesin, et kuningas Simba. Arendada uudishimu, kes seda puudutada. Tappa valvur silmis tema poeg "Kuningas Kreeka täidab nõrk ja vilets," ütles Simbard seista piinamine. allpool:
+
+Step 29/330
+>> Estonian - Greek
+	Είπε Λάζαδα Ακούστε την εντολή. Κύριε Πρόεδρε, μιλάς για τους Έλληνες που είπα χθες, ο Βασιλιάς Σίμπα. Αναπτύξτε μια περιέργεια για το ποιος να την αγγίξει. Σκοτώστε τον φρουρό στα μάτια του γιου του "Ο βασιλιάς της Ελλάδας εκτελεί αδύναμους και φτωχούς", δήλωσε ο Σίμπαρντ να σταθεί στα βασανιστήρια. παρακάτω:
+
+Step 30/330
+>> Greek - Turkish
+	Lazada emrini dinle dedi. Sayın Cumhurbaşkanı, dün bahsettiğim Yunanlılar hakkında konuşuyorsunuz, Kral Simba. Kime dokunacağına dair bir merak geliştir. Sibbard, işkenceyle ilgili bir duruşta, oğlunun gözünde "Yunanistan Kralı zayıf ve fakirleri yürütüyor" dedi. aşağıda:
+
+Step 31/330
+>> Turkish - Polish
+	Powiedział, słuchajcie swoich rozkazów dotyczących lasagny. Panie Prezydencie, mówisz o Grekach, o których wspominałem wczoraj, królu Simbie. Rozwiń ciekawość, kogo dotykać. „Król Grecji rządzi biednymi i biednymi” - powiedział Sibbard w zięciach. poniżej:
+
+Step 32/330
+>> Polish - Arabic
+	قال ، استمع إلى أوامر لازانيا الخاصة بك. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، الملك سيمبي. تطوير الفضول حول من للمس. وقال سيبارد في صهر "ملك اليونان يحكم الفقراء والفقراء". أدناه:
+
+Step 33/330
+>> Arabic - Catalan
+	Va dir, escolta les teves ordres de lasanya. Senyor president, estàs parlant dels grecs que has esmentat ahir, el rei Simbi. Desenvolupar curiositat sobre qui tocar. "El rei de Grècia governa els pobres i els pobres", va dir Sibard en un gendre. A continuació:
+
+Step 34/330
+>> Catalan - Lithuanian
+	Jis sakė: klausykite jūsų lazanijos užsakymų. Pone pirmininke, jūs kalbate apie vakar minėtus graikus, karalius Simbi. Ugdykite smalsumą, kam žaisti. „Graikijos karalius valdo vargšus ir vargšus“, - sakė sūnus Sibardas. Kitas:
+
+Step 35/330
+>> Lithuanian - Arabic
+	قال: استمع لأوامر اللازانيا. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، الملك سيمبي. زراعة الفضول حول من للعب مع. وقال الابن سيبارد "ملك اليونان يحكم الفقراء والفقراء". البعض:
+
+Step 36/330
+>> Arabic - Slovak
+	Povedal: Vypočujte si rozkazy lasagne. Vážený pán predsedajúci, hovoríte o Grékoch, ktorých ste včera spomenuli, kráľ Simbi. Kultivujte zvedavosť o tom, s kým si zahrať. „Grécky kráľ vládne chudobným a chudobným,“ povedal Sibard. niektorí:
+
+Step 37/330
+>> Slovak - Malay
+	Dia berkata: Dengarkan pesanan lasagne. Presiden Encik, anda bercakap tentang orang Yunani yang anda sebutkan semalam, Raja Simbi. Menanam rasa ingin tahu tentang siapa yang akan bermain. "Raja Yunani memerintah golongan miskin dan miskin," kata Sibard. beberapa:
+
+Step 38/330
+>> Malay - Arabic
+	قال: استمع لأوامر اللازانيا. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، الملك سيمبي. الفضول حول من سيلعب. وقال سيبارد "حكم اليونانيون الفقراء والفقراء." عدد:
+
+Step 39/330
+>> Arabic - Latvian
+	Viņš teica: klausieties lazanjas rīkojumus. Prezidenta kungs, jūs runājat par grieķiem, kurus jūs vakar pieminējāt, karalis Simbi. Ziņkārība par to, kurš spēlēs. "Nabadzīgi un nabadzīgi grieķi valdīja," sacīja Sibards. Skaits:
+
+Step 40/330
+>> Latvian - Portuguese
+	Ele disse: Ouça as ordens da lasanha. Senhor Presidente, você está falando dos gregos que você mencionou ontem, rei Simbi. Curiosidade sobre quem vai jogar. "Os pobres e pobres gregos governaram", disse Sibard. Número:
+
+Step 41/330
+>> Portuguese - Arabic
+	قال: استمع لأوامر اللازانيا. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، الملك سيمبي. الفضول حول من سيلعب. وقال سيبارد "حكم الفقراء واليونانيون." عدد:
+
+Step 42/330
+>> Arabic - Spanish
+	Él dijo: Escucha las órdenes de lasaña. Sr. Presidente, está hablando de los griegos que mencionó ayer, el Rey Simbi. Curiosidad sobre quién jugará. "Los pobres y los griegos gobernaban", dijo Sibard. Numero:
+
+Step 43/330
+>> Spanish - Hungarian
+	Azt mondta: Hallgassa meg a lasagna parancsait. Elnök úr, beszélsz a tegnap említett görögökről, Simbi királyról. Kíváncsi, hogy ki fog játszani. "A szegények és a görögök uralkodtak" - mondta Sibard. száma:
+
+Step 44/330
+>> Hungarian - Croatian
+	Rekao je: Poslušajte zapovijed lazanje. Gospodine predsjedniče, govorite o Grcima koje ste spomenuli jučer, kralju Zimbabvea. Pitam se tko će igrati. "Vladali su siromašni i Grci", rekao je Sibard. broj:
+
+Step 45/330
+>> Croatian - Spanish
+	Él dijo: Obedece el comando de la lasaña. Señor Presidente, está hablando de los griegos que mencionó ayer, rey de Zimbabwe. Me pregunto quién jugará. "Los pobres y los griegos gobernaban", dijo Sibard. número:
+
+Step 46/330
+>> Spanish - Arabic
+	قال: أطاع الأمر لازانيا. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، ملك زيمبابوي. وأتساءل من سيلعب. وقال سيبارد "حكم الفقراء واليونانيون." عدد:
+
+Step 47/330
+>> Arabic - Russian
+	Он сказал: повиновался лазаньи. Господин президент, вы говорите о греках, о которых вы упоминали вчера, о короле Зимбабве. Интересно, кто будет играть? «Бедные и греки правили», - сказал Сибард. Количество:
+
+Step 48/330
+>> Russian - Albanian
+	Tha: iu bind lasagna. Z. President, ju po flisni për Grekët që përmendët dje, për Mbretin e Zimbabve. Pyes veten se kush do të luajë? "Të varfërit dhe Grekët vendosën," tha Sibard. sasia:
+
+Step 49/330
+>> Albanian - Bulgarian
+	Казано: подчинете се на лазаня. Г-н председател, вие говорите за гърците, за които споменахте вчера, краля на Зимбабве. Чудя се кой ще играе? "Бедните и гърците решиха", каза Сибард. размер:
+
+Step 50/330
+>> Bulgarian - Romanian
+	Cu alte cuvinte, ascultă lasagna. Domnule președinte, vorbiți despre grecii pe care i-ați menționat ieri, regele Zimbabwe. Mă întreb cine va juca? „Săracii și grecii au decis”, a spus Sibard. dimensiune:
+
+Step 51/330
+>> Romanian - Russian
+	Другими словами, слушайте лазанью. Господин президент, вы говорите о греках, о которых вы упоминали вчера, король Зимбабве. Интересно, кто будет играть? «Бедные и греки решили», - сказал Сибард. размер:
+
+Step 52/330
+>> Russian - English
+	In other words, listen to the lasagna. Mr. President, you are talking about the Greeks that you mentioned yesterday, King of Zimbabwe. I wonder who will play? “The poor and the Greeks decided,” said Sibard. the size:
+
+Step 53/330
+>> English - Spanish
+	En otras palabras, escucha la lasaña. Sr. Presidente, está hablando de los griegos que mencionó ayer, rey de Zimbabwe. Me pregunto quién jugará. "Los pobres y los griegos decidieron", dijo Sibard. el tamaño:
+
+Step 54/330
+>> Spanish - Arabic
+	بمعنى آخر ، استمع إلى اللازانيا. سيدي الرئيس ، أنت تتحدث عن الإغريق الذين ذكرتهم بالأمس ، ملك زيمبابوي. وأتساءل من سيلعب. وقال سيبارد "لقد قرر الفقراء والإغريق". الحجم:
+
+Step 55/330
+>> Arabic - Malay
+	Dengan kata lain, dengar lasagna. Tuan Presiden, anda bercakap mengenai orang Yunani yang anda sebutkan semalam, Raja Zimbabwe. Saya tertanya-tanya siapa yang akan bermain. "Orang miskin dan orang Yunani telah memutuskan," kata Sibard. Saiz:
+
+Step 56/330
+>> Malay - English
+	In other words, listen to lasagna. Mr. President, you are talking about the Greeks you mentioned yesterday, King of Zimbabwe. I wonder who will play. "The poor and the Greeks have decided," Sibard said. Size:
+
+Step 57/330
+>> English - Kazakh
+	Басқаша айтқанда, лазаньяны тыңдаңыз. Президент мырза, сіз кеше Гриндер туралы айтып отырсыз, Зимбабве королі. Кім ойнайтыны қызық. «Кедей мен гректер шешім қабылдады», - деді Сибард. Көлемі:
+
+Step 58/330
+>> Kazakh - Persian
+	به عبارت دیگر ، لازانیا را گوش دهید. آقای رئیس جمهور ، شما دیروز در مورد گرین ها ، پادشاه زیمبابوه صحبت می کنید. چه کسی به بازی علاقه دارد؟ سیبارد گفت: "فقیر و یونانی ها تصمیمی گرفته اند." اندازه:
+
+Step 59/330
+>> Persian - English
+	In other words, listen to lasagna. Mr. President, you are talking about the Greens, King of Zimbabwe yesterday. Who's interested in the game? "The poor and the Greeks have made a decision," Sibbard said. Size:
+
+Step 60/330
+>> English - French
+	En d'autres termes, écoutez les lasagnes. Monsieur le président, vous parlez des Verts, roi du Zimbabwe hier. Qui est intéressé par le jeu? "Les pauvres et les Grecs ont pris une décision", a déclaré Sibbard. Taille:
+
+Step 61/330
+>> French - Spanish
+	En otras palabras, escucha la lasaña. Sr. Presidente, ayer habló sobre los Verdes, rey de Zimbabwe. ¿Quién está interesado en el juego? "Los pobres y los griegos tomaron una decisión", dijo Sibbard. Tamaño:
+
+Step 62/330
+>> Spanish - Turkish
+	Başka bir deyişle, lazanya dinleyin. Sayın Cumhurbaşkanı, dün Zimbabwe kralı Yeşiller hakkında konuştu. Oyuna kimler ilgi duyuyor? Sibbard, "Yoksullar ve Yunanlılar bir karar verdi." Dedi. boyutu:
+
+Step 63/330
+>> Turkish - English
+	In other words, listen to the lasagna. Mr. President, yesterday the King of Zimbabwe spoke about the Greens. Who is interested in the game? "The poor and the Greeks have made a decision," Sibbard said. Said. size:
+
+Step 64/330
+>> English - Spanish
+	En otras palabras, escucha la lasaña. Sr. Presidente, ayer el Rey de Zimbabwe habló sobre los Verdes. ¿Quién está interesado en el juego? "Los pobres y los griegos han tomado una decisión", dijo Sibbard. Dijo. Talla:
+
+Step 65/330
+>> Spanish - Serbian
+	Другим речима, слушајте лазање. Господине председниче, јуче је краљ Зимбабвеа говорио о Зеленим. Ко је заинтересован за игру? "Сиромашни и Грци донијели су одлуку", рекао је Сиббард. Рекао је. Величина:
+
+Step 66/330
+>> Serbian - Albanian
+	Me fjalë të tjera, dëgjoni lasagna. Z. President, dje Mbreti i Zimbabve foli për të Gjelbrit. Kush është i interesuar të luajë? "Të varfërit dhe Grekët morën vendimin," tha Sibbard. - tha ai. Size:
+
+Step 67/330
+>> Albanian - English
+	In other words, listen to lasagna. Mr. President, yesterday the King of Zimbabwe spoke about the Greens. Who is interested in playing? "The poor and the Greeks made the decision," Sibbard said. he said. size:
+
+Step 68/330
+>> English - Georgian
+	სხვა სიტყვებით რომ ვთქვათ, მოუსმინეთ ლაზნას. ბატონო პრეზიდენტო, გუშინ ზიმბაბვეს მეფემ ისაუბრა მწვანეთა შესახებ. ვის აინტერესებს თამაში? ”ღარიბმა და ბერძნებმა მიიღეს გადაწყვეტილება”, - თქვა ზიბარდმა. მან თქვა. ზომა:
+
+Step 69/330
+>> Georgian - English
+	In other words, listen to Lazna. Mr. President, yesterday the King of Zimbabwe talked about greens. Who cares about the game? "The poor and the Greeks made the decision," Ziebard said. she said. Size:
+
+Step 70/330
+>> English - Spanish
+	En otras palabras, escucha a Lazna. Sr. Presidente, ayer el Rey de Zimbabwe habló sobre los verdes. ¿A quién le importa el juego? "Los pobres y los griegos tomaron la decisión", dijo Ziebard. ella dijo. Talla:
+
+Step 71/330
+>> Spanish - English
+	In other words, listen to Lazna. Mr. President, yesterday the King of Zimbabwe spoke about the greens. Who cares about the game? "The poor and the Greeks made the decision," Ziebard said. she said. Size:
+
+Step 72/330
+>> English - Sinhala
+	වෙනත් වචන වලින් කිවහොත්, ලස්නාට සවන් දෙන්න. ජනාධිපතිතුමනි, ඊයේ සිම්බාබ්වේ රජු හරිතයන් ගැන කතා කළේය. ක්‍රීඩාව ගැන සැලකිලිමත් වන්නේ කවුද? "දුප්පතුන් සහ ග්‍රීකයෝ මෙම තීරණය ගත්හ" යැයි සීබාර්ඩ් පැවසීය. ඇය කිව්වා. ප්‍රමාණය:
+
+Step 73/330
+>> Sinhala - Bosnian
+	Drugim riječima, slušajte Lasnu. Gospodine predsjedniče, jučer je kralj Zimbabvea govorio o zelenima. Koga je briga za sport? "Siromašni i Grci donijeli su ovu odluku", rekao je Seabard. - rekla je. veličina:
+
+Step 74/330
+>> Bosnian - Spanish
+	En otras palabras, escucha a Lasna. Señor Presidente, ayer el Rey de Zimbabwe habló sobre los Verdes. ¿A quién le importan los deportes? "Los pobres y los griegos tomaron esta decisión", dijo Seabard. ella dijo. tamaño:
+
+Step 75/330
+>> Spanish - Portuguese
+	Em outras palavras, ouça Lasna. Senhor Presidente, ontem o rei do Zimbabué falou dos verdes. Quem se importa com esportes? "Os pobres e os gregos tomaram essa decisão", disse Seabard. ela disse. tamanho:
+
+Step 76/330
+>> Portuguese - Arabic
+	بمعنى آخر ، استمع إلى Lasna. سيدي الرئيس ، تكلم ملك زيمبابوي بالأمس عن الخضر. من يهتم بالرياضة؟ وقال سيبارد "اتخذ الفقراء واليونانيون هذا القرار." قالت. حجم:
+
+Step 77/330
+>> Arabic - Macedonian
+	Со други зборови, слушајте ја Ласна. Господине Претседател, Кралот на Зимбабве зборуваше вчера за Зелените. Кој се грижи за спортот? „Сиромашните и Грците ја донесоа оваа одлука“, рече Сибард. Рече таа. Големина:
+
+Step 78/330
+>> Macedonian - Armenian
+	Այլ կերպ ասած, լսեք եղջյուրը: Պարոն Նախագահ, Զիմբաբվեի թագավորը երեկ խոսեց Կանաչների մասին: Ո՞վ է հոգ տանում սպորտի մասին: «Աղքատներն ու հույները կայացրեցին այդ որոշումը», - ասաց Սիբբարդը: Ասաց նա: Չափը:
+
+Step 79/330
+>> Armenian - Thai
+	กล่าวอีกนัยหนึ่งฟังเสียงแตร นายประธานาธิบดี King of Zimbabwe พูดถึง Greens เมื่อวานนี้ ใครสนใจกีฬา? “ คนจนและชาวกรีกตัดสินใจอย่างนั้น” Sibbard กล่าว เขาพูดว่า ขนาด
+
+Step 80/330
+>> Thai - Arabic
+	وبعبارة أخرى ، والاستماع إلى صوت القرن تحدث رئيس ملك زيمبابوي عن الخضر بالأمس ، من يهتم بالرياضة؟ وقال سيبارد "الفقراء واليونانيون يتخذون هذا القرار."
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	换句话说，听听本世纪的声音，津巴布韦国王的总统昨天谈到了绿党，谁关心体育？ “穷人和希腊人正在做出这个决定，”西巴德说。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	En otras palabras, al escuchar la voz de este siglo, el Presidente del Rey de Zimbabwe habló ayer sobre el Partido Verde, ¿a quién le importan los deportes? "Los pobres y los griegos están tomando esta decisión", dijo Sebastián.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Іншими словами, почувши голос цього століття, президент короля Зімбабве говорив вчора про партію Зелених, яка дбає про спорт? "Бідні та греки приймають це рішення", - сказав Себастьян.
+
+Step 84/330
+>> Ukrainian - Spanish
+	En otras palabras, al escuchar la voz de este siglo, ¿el presidente del rey Zimbabwe habló ayer sobre el partido de los Verdes que se preocupa por los deportes? "Los pobres y los griegos toman esa decisión", dijo Sebastián.
+
+Step 85/330
+>> Spanish - English
+	In other words, hearing the voice of this century, did the president of King Zimbabwe speak yesterday about the Green's game that cares about sports? "The poor and the Greeks make that decision," Sebastian said.
+
+Step 86/330
+>> English - Mongolian
+	Өөрөөр хэлбэл, энэ зууны дуу хоолойг сонсоод Зимбабвегийн хаан өчигдөр спортын талаар санаа тавьдаг Ногоон тоглоомын талаар ярьсан уу? "Ядуучууд болон грекчүүд ийм шийдвэр гаргадаг" гэж Себастьян хэллээ.
+
+Step 87/330
+>> Mongolian - Spanish
+	En otras palabras, cuando escuchó la voz de este siglo, ¿el rey de Zimbabwe habló sobre el juego verde que se preocupa por el deporte ayer? "Los pobres y los griegos toman la misma decisión", dijo Sebastien.
+
+Step 88/330
+>> Spanish - Arabic
+	بمعنى آخر ، عندما سمع صوت هذا القرن ، هل تحدث ملك زيمبابوي عن اللعبة الخضراء التي تهتم بالرياضة أمس؟ وقال سيباستيان "الفقراء واليونانيون يتخذون القرار ذاته."
+
+Step 89/330
+>> Arabic - Kurdish
+	Bi gotinek din, gava wî bihîst ku dengê vê sedsalê ye, ma padîşahê Zimbabwean ji duh ve behsa lîstika kesk a sporê kir? "Xerab û Grek heman biryarê didin," Sebastian got.
+
+Step 90/330
+>> Kurdish - English
+	In other words, when he heard the sound of this century, did the Zimbabwean king talk about playing sports green yesterday? "The poor and the Greeks make the same decision," Sebastian said.
+
+Step 91/330
+>> English - Dutch
+	Met andere woorden, toen hij het geluid van deze eeuw hoorde, had de Zimbabwaanse koning gisteren het over het groen spelen van sport? "De armen en de Grieken nemen dezelfde beslissing," zei Sebastian.
+
+Step 92/330
+>> Dutch - English
+	In other words, when he heard the sound of this century, was the Zimbabwean king talking about playing green sport yesterday? "The poor and the Greeks make the same decision," Sebastian said.
+
+Step 93/330
+>> English - Samoan
+	I se isi faaupuga, ina ua ia faalogoina le leo o lenei seneturi, o le tupu Zimbabwe e talanoa e uiga i le taalo taʻalo i le aso ananafi? "O le matitiva ma le Eleni latou te faia foi lea lava filifiliga," o le tala lea a Sebastian.
+
+Step 94/330
+>> Samoan - Uzbek
+	Boshqacha qilib aytganda, bu asrning tovushini eshitgan Zimbabve qiroli kecha golf o'ynash haqida gaplashadimi? "Kambag'allar va yunonlar bir xil qaror qilishadi", dedi Sebastyan.
+
+Step 95/330
+>> Uzbek - English
+	In other words, will the King of Zimbabwe hear the sound of this century talk about playing golf last night? "The poor and the Greeks make the same decision," Sebastian said.
+
+Step 96/330
+>> English - Arabic
+	بمعنى آخر ، هل سيسمع ملك زيمبابوي صوت هذا القرن وهو يتحدث عن لعب الجولف الليلة الماضية؟ وقال سيباستيان "الفقراء واليونانيون يتخذون القرار ذاته."
+
+Step 97/330
+>> Arabic - French
+	En d'autres termes, le roi du Zimbabwe entendra-t-il le son de ce siècle parler du golf la nuit dernière? "Les pauvres et les Grecs prennent la même décision", a déclaré Sebastian.
+
+Step 98/330
+>> French - Spanish
+	En otras palabras, ¿escuchará el rey de Zimbabwe el sonido de este siglo hablando sobre golf anoche? "Los pobres y los griegos toman la misma decisión", dijo Sebastián.
+
+Step 99/330
+>> Spanish - Romanian
+	Cu alte cuvinte, va auzi regele Zimbabwe sunetul acestui secol vorbind despre golf aseară? „Săracii și grecii iau aceeași decizie”, a spus Sebastian.
+
+Step 100/330
+>> Romanian - Filipino
+	Sa madaling salita, maririnig ba ni Haring Zimbabwe ang tunog ng siglo na ito tungkol sa golf kagabi? "Ang mga mahihirap at Greeks ay gumagawa ng parehong desisyon," sabi ni Sebastian.
+
+Step 101/330
+>> Filipino - Zulu
+	Ngamanye amazwi, ingabe iNkosi yaseZimbabwe ingawuzwa umsindo waleli khulu leminyaka ngegalofu izolo? "Abampofu namaGrikhi enza isinqumo esifanayo," kusho uSebastian.
+
+Step 102/330
+>> Zulu - Arabic
+	بمعنى آخر ، هل يستطيع ملك زيمبابوي سماع أصوات هذا القرن على الجولف أمس؟ وقال سيباستيان "اتخذ الفقراء والإغريق القرار نفسه."
+
+Step 103/330
+>> Arabic - Indonesian
+	Dengan kata lain, bisakah raja Zimbabwe mendengar suara abad ini di golf kemarin? "Orang miskin dan Yunani membuat keputusan yang sama," kata Sebastian.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Nói cách khác, nhà vua của Zimbabwe có thể nghe thấy âm thanh của thế kỷ này trên sân golf ngày hôm qua không? "Người nghèo và người Hy Lạp đã đưa ra quyết định tương tự," Sebastian nói.
+
+Step 105/330
+>> Vietnamese - Spanish
+	En otras palabras, ¿puede el rey de Zimbabwe escuchar el sonido de este siglo en el campo de golf ayer? "Los pobres y los griegos tomaron la misma decisión", dijo Sebastián.
+
+Step 106/330
+>> Spanish - Arabic
+	بمعنى آخر ، هل يستطيع ملك زيمبابوي سماع صوت هذا القرن في ملعب الجولف بالأمس؟ وقال سيباستيان "اتخذ الفقراء والإغريق القرار نفسه".
+
+Step 107/330
+>> Arabic - Spanish
+	En otras palabras, ¿puede el Rey de Zimbabwe escuchar el sonido de este siglo en el campo de golf ayer? "Los pobres y los griegos tomaron la misma decisión", dijo Sebastián.
+
+Step 108/330
+>> Spanish - Russian
+	Другими словами, может ли король Зимбабве услышать вчерашний звук этого века на поле для гольфа? «Бедные и греки приняли одно и то же решение», - сказал Себастьян.
+
+Step 109/330
+>> Russian - Arabic
+	بمعنى آخر ، هل يستطيع ملك زيمبابوي سماع صوت الأمس لهذا القرن في ملعب الجولف؟ قال سيباستيان: "لقد اتخذ الفقراء والإغريق القرار نفسه".
+
+Step 110/330
+>> Arabic - Spanish
+	En otras palabras, ¿puede el rey zimbabuense escuchar el sonido del siglo pasado en el campo de golf? "Los pobres y los griegos tomaron la misma decisión", dijo Sebastián.
+
+Step 111/330
+>> Spanish - Portuguese
+	Em outras palavras, o rei do Zimbábue pode ouvir o som do século passado no campo de golfe? "Os pobres e os gregos tomaram a mesma decisão", disse Sebastian.
+
+Step 112/330
+>> Portuguese - English
+	In other words, can the king of Zimbabwe hear the sound of the last century on the golf course? "The poor and the Greeks made the same decision," said Sebastian.
+
+Step 113/330
+>> English - Spanish
+	En otras palabras, ¿puede el rey de Zimbabwe escuchar el sonido del siglo pasado en el campo de golf? "Los pobres y los griegos tomaron la misma decisión", dijo Sebastián.
+
+Step 114/330
+>> Spanish - English
+	In other words, can the king of Zimbabwe hear the sound of the last century on the golf course? "The poor and the Greeks made the same decision," Sebastian said.
+
+Step 115/330
+>> English - Hindi
+	दूसरे शब्दों में, क्या जिम्बाब्वे के राजा गोल्फ कोर्स पर पिछली सदी की आवाज सुन सकते हैं? सेबस्टियन ने कहा, "गरीबों और यूनानियों ने एक ही निर्णय लिया।"
+
+Step 116/330
+>> Hindi - Portuguese
+	Em outras palavras, o rei do Zimbábue pode ouvir o som do século passado no campo de golfe? Sebastian disse: "Os pobres e os gregos tomaram a mesma decisão".
+
+Step 117/330
+>> Portuguese - Spanish
+	En otras palabras, ¿puede el rey de Zimbabwe escuchar el sonido del siglo pasado en el campo de golf? Sebastián dijo: "Los pobres y los griegos tomaron la misma decisión".
+
+Step 118/330
+>> Spanish - English
+	In other words, can the king of Zimbabwe hear the sound of the last century on the golf course? Sebastian said: "The poor and the Greeks made the same decision."
+
+Step 119/330
+>> English - Bengali
+	অন্য কথায়, জিম্বাবুয়ের রাজা কি গল্ফ কোর্সে গত শতাব্দীর শব্দ শুনতে পাচ্ছেন? সেবাস্তিয়ান বলেছেন: "দরিদ্র এবং গ্রীকরাও একই সিদ্ধান্ত নিয়েছিল।"
+
+Step 120/330
+>> Bengali - French
+	En d'autres termes, le roi du Zimbabwe peut-il entendre les paroles du siècle dernier sur le terrain de golf? Sebastian dit: "Les pauvres et les Grecs ont pris la même décision."
+
+Step 121/330
+>> French - lao
+	ເວົ້າອີກຢ່າງ ໜຶ່ງ, ກະສັດຊິມບັບເວສາມາດໄດ້ຍິນ ຄຳ ເວົ້າຂອງສະຕະວັດທີ່ຜ່ານມາກ່ຽວກັບສະ ໜາມ ກ?ອບ? Sebastian ເວົ້າວ່າ: "ຄົນທຸກຍາກແລະຊາວກະເຣັກໄດ້ຕັດສິນໃຈດຽວກັນ."
+
+Step 122/330
+>> lao - English
+	In other words, can Zimbabweans hear the word of the last century on the field? "The poor and the Greeks made the same decision," Sebastian said.
+
+Step 123/330
+>> English - Portuguese
+	Em outras palavras, os zimbabuenses podem ouvir a palavra do século passado em campo? "Os pobres e os gregos tomaram a mesma decisão", disse Sebastian.
+
+Step 124/330
+>> Portuguese - English
+	In other words, can Zimbabweans hear the word of the last century on the field? "The poor and the Greeks made the same decision," said Sebastian.
+
+Step 125/330
+>> English - Portuguese
+	Em outras palavras, os zimbabuenses podem ouvir a palavra do século passado em campo? "Os pobres e os gregos tomaram a mesma decisão", disse Sebastian.
+
+Step 126/330
+>> Portuguese - English
+	In other words, can Zimbabweans hear the word of the last century on the field? "The poor and the Greeks made the same decision," said Sebastian.
+
+Step 127/330
+>> English - Portuguese
+	Em outras palavras, os zimbabuenses podem ouvir a palavra do século passado em campo? "Os pobres e os gregos tomaram a mesma decisão", disse Sebastian.
+
+Step 128/330
+>> Portuguese - Burmese
+	တနည်းအားဖြင့်ဇင်ဘာဘွေလယ်ပြင်၌နောက်ဆုံးရာစုအမိန့်တော်ကိုနားထောင်ကြလော့နိုင်မလဲ? "ဆင်းရဲသောသူနှင့်ဟေလသလူတူညီတဲ့ဆုံးဖြတ်ချက်," Sebastian ကဆိုသည်။
+
+Step 129/330
+>> Burmese - Nepali
+	अर्को शब्दमा, जिम्बाब्वे द्वारा क्षेत्रमा पछिल्लो शताब्दीको शब्द सुन्न सक्नुहुन्छ? "गरिब तथा एउटै निर्णय मा युनानी," सेबस्टियन बताए।
+
+Step 130/330
+>> Nepali - Urdu
+	دوسرے الفاظ میں ، کیا آپ زمبابوے کے ذریعہ اس علاقے میں پچھلی صدی کا لفظ سن سکتے ہیں؟ "ایک ہی فیصلے پر غریب اور یونانی ،" سیبسٹین نے کہا۔
+
+Step 131/330
+>> Urdu - French
+	En d'autres termes, pouvez-vous entendre le mot du siècle dernier dans cette région à travers le Zimbabwe? "Pauvre et grec sur la même décision", a déclaré Sebastian.
+
+Step 132/330
+>> French - English
+	In other words, can you hear the word of the last century in this region across Zimbabwe? "Poor and Greek on the same decision," said Sebastian.
+
+Step 133/330
+>> English - Swahili
+	Kwa maneno mengine, je! Unaweza kusikia neno la karne iliyopita katika mkoa huu kote Zimbabwe? "Maskini na Mgiriki kwa uamuzi huo," alisema Sebastian.
+
+Step 134/330
+>> Swahili - Arabic
+	بمعنى آخر ، هل هم؟ هل تستطيع سماع كلمة القرن الماضي في هذه المنطقة في جميع أنحاء زيمبابوي؟ وقال سيباستيان "ضعيف واليوناني لهذا القرار."
+
+Step 135/330
+>> Arabic - Shona
+	Mune mamwe mazwi, ndizvo here? Iwe unogona here kunzwa izwi rezana ramakore rapfuura mudunhu iri muZimbabwe yese? "Haaneta uye chiGreek sarudzo iyi," akadaro Sebastian.
+
+Step 136/330
+>> Shona - Hausa
+	A takaice dai, shin? Shin zaku iya jin muryar karni na karshe a wannan yankin duk ƙasar ta Zimbabwe? "Bai gaji ba kuma Greek ce zabi," in ji Sebastian.
+
+Step 137/330
+>> Hausa - Swahili
+	Kwa kifupi, sivyo? Je! Unaweza kusikia sauti ya karne iliyopita katika mkoa huu kote Zimbabwe? "Sio uchovu na Ugiriki ni chaguo," Sebastian alisema.
+
+Step 138/330
+>> Swahili - English
+	In short, isn't it? Is it Can you hear the sounds of the last century in this region across Zimbabwe? "Not tired and Greece is an option," Sebastian said.
+
+Step 139/330
+>> English - Arabic
+	باختصار ، أليس كذلك؟ هل يمكنك سماع أصوات القرن الماضي في هذه المنطقة عبر زيمبابوي؟ وقال سيباستيان "ليس متعبا واليونان خيار."
+
+Step 140/330
+>> Arabic - Malagasy
+	Raha tsorina dia marina? Renao ve ny feo tamin'ny taonjato farany tao amin'ity faritra eran'i Zimbabwe ity? "Tsy sasatra izy ary safidy i Gresy hoy i Sebastian.
+
+Step 141/330
+>> Malagasy - Swahili
+	Kuweka tu, sawa? Je! Umesikia sauti ya karne iliyopita katika sehemu hii ya Zimbabwe? "Hajapumzika na Ugiriki ni chaguo," Sebastian alisema.
+
+Step 142/330
+>> Swahili - French
+	En termes simples, non? Est-ce Avez-vous entendu le son du siècle dernier dans cette partie du Zimbabwe? "Il ne se repose pas et la Grèce est une option", a déclaré Sebastian.
+
+Step 143/330
+>> French - Arabic
+	بعبارات بسيطة ، لا؟ هل سمعت صوت القرن الماضي في هذا الجزء من زيمبابوي؟ وقال سيباستيان "إنه لا يستريح واليونان خيار".
+
+Step 144/330
+>> Arabic - French
+	En termes simples, non? Avez-vous entendu la voix du siècle dernier dans cette partie du Zimbabwe? "Il ne se repose pas et la Grèce est un choix", a déclaré Sebastian.
+
+Step 145/330
+>> French - Arabic
+	بعبارات بسيطة ، لا؟ هل سمعت صوت القرن الماضي في هذا الجزء من زيمبابوي؟ وقال سيباستيان "إنه لا يرتاح واليونان خيار".
+
+Step 146/330
+>> Arabic - Haitian Creole
+	An tèm senp, pa gen? Eske ou te tande vwa dènye syèk lan nan pati sa a nan Zimbabwe? "Li se alèz ak Lagrès gen yon chwa," te di Sebastian.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	په ساده شرایطو کې ، نه؟ ایا تاسو د زمبابوې په دې برخه کې د تیرې پیړۍ غږ واورید؟ سیباستیان وویل: "دا نا آرام دی او یونان یو انتخاب لري."
+
+Step 148/330
+>> Pashto - French
+	En termes simples, non? Avez-vous entendu la voix du siècle dernier dans cette partie du Zimbabwe? "C'est inconfortable et la Grèce a le choix", a déclaré Sebastian.
+
+Step 149/330
+>> French - Chichewa
+	M'mawu osavuta, ayi? Kodi mudamvapo mawu a zaka zomaliza mu gawo lino la Zimbabwe? "Sizabwino ndipo Greece ili ndi chisankho," adatero Sebastian.
+
+Step 150/330
+>> Chichewa - Arabic
+	بعبارات بسيطة ، لا؟ هل سمعت كلمات السنوات الأخيرة في هذا الجزء من زيمبابوي؟ وقال سيباستيان "هذا ليس عدلا واليونان لديها خيار".
+
+Step 151/330
+>> Arabic - Amharic
+	በቀላል አነጋገር ፣ አይሆንም? በዚህ የዚምባብዌ ክፍል ውስጥ የቅርብ ዓመታት ቃላትን ሰምተዋል? ሴባስቲያን “ይህ አግባብ ያልሆነ እና ግሪክ ምርጫ አላት” ብለዋል ፡፡
+
+Step 152/330
+>> Amharic - English
+	Simply put, no? Have you heard the words of recent years in this part of Zimbabwe? Sebastian said "this is unfair and Greece has a choice."
+
+Step 153/330
+>> English - French
+	En termes simples, non? Avez-vous entendu les paroles de ces dernières années dans cette partie du Zimbabwe? Sebastian a déclaré "c'est injuste et la Grèce a le choix".
+
+Step 154/330
+>> French - Swahili
+	Kwa maneno rahisi, hapana? Je! Umesikia maneno ya miaka ya hivi karibuni katika sehemu hii ya Zimbabwe? Sebastian alisema "sio haki na Ugiriki ina chaguo".
+
+Step 155/330
+>> Swahili - Portuguese
+	Em termos simples, não? É isso Você ouviu as palavras dos últimos anos nesta parte do Zimbábue? Sebastian disse que "não é justo e a Grécia tem uma escolha".
+
+Step 156/330
+>> Portuguese - Arabic
+	ببساطة ، لا؟ هذا كل شيء هل سمعت كلمات السنوات الأخيرة في هذا الجزء من زيمبابوي؟ وقال سيباستيان "هذا ليس عدلاً واليونان لديها خيار".
+
+Step 157/330
+>> Arabic - Portuguese
+	Simplesmente não? É isso aí Você ouviu as palavras dos últimos anos nesta parte do Zimbábue? "Isso não é justo e a Grécia tem uma escolha", disse Sebastian.
+
+Step 158/330
+>> Portuguese - English
+	Just not? That's it Did you hear the words of recent years in this part of Zimbabwe? "This is not fair and Greece has a choice," said Sebastian.
+
+Step 159/330
+>> English - French
+	Tout simplement pas? C'est ça Avez-vous entendu les mots des dernières années dans cette partie du Zimbabwe? "Ce n'est pas juste et la Grèce a le choix", a déclaré Sebastian.
+
+Step 160/330
+>> French - English
+	Just not? That's it Have you heard the words of the last years in this part of Zimbabwe? "It's not fair and Greece has a choice," said Sebastian.
+
+Step 161/330
+>> English - Swahili
+	Sio tu? Hiyo ndio Je! Umesikia maneno ya miaka iliyopita katika sehemu hii ya Zimbabwe? "Sio haki na Ugiriki ina chaguo," alisema Sebastian.
+
+Step 162/330
+>> Swahili - Arabic
+	ليس هذا فقط؟ هذا ما هو هل سمعت كلمات منذ سنوات في هذا الجزء من زيمبابوي؟ وقال سيباستيان "هذا ليس عدلا واليونان لديها خيارات".
+
+Step 163/330
+>> Arabic - Arabic
+	not only this? That's what you heard words years ago in this part of Zimbabwe? "This is not fair and Greece has options," Sebastian said.
+
+Step 164/330
+>> Arabic - French
+	pas seulement ceci? C'est ce que vous avez entendu dire il y a des années dans cette partie du Zimbabwe? "Ce n'est pas juste et la Grèce a des options", a déclaré Sebastian.
+
+Step 165/330
+>> French - Hausa
+	ba wannan kawai ba? Abin da kuka ji shekaru da yawa da suka gabata a wannan bangare na Zimbabwe? "Ba adalci bane kuma Girka na da zabin," in ji Sebastian.
+
+Step 166/330
+>> Hausa - French
+	n'est-ce pas juste? Qu'est-ce que vous avez entendu il y a de nombreuses années dans cette partie du Zimbabwe? "Ce n'est pas juste et la Grèce a le choix", a déclaré Sebastian.
+
+Step 167/330
+>> French - Arabic
+	is not it right? What did you hear many years ago in this part of Zimbabwe? "It's not fair and Greece has a choice," said Sebastian.
+
+Step 168/330
+>> Arabic - Arabic
+	أليس كذلك؟ ماذا سمعت منذ سنوات عديدة في هذا الجزء من زيمبابوي؟ وقال سيباستيان "هذا ليس عدلا واليونان لديها خيار".
+
+Step 169/330
+>> Arabic - Swahili
+	Sawa? Je! Umesikia nini miaka mingi iliyopita katika sehemu hii ya Zimbabwe? "Hii sio sawa na Ugiriki ina chaguo," Sebastian alisema.
+
+Step 170/330
+>> Swahili - English
+	OK? Is it What have you heard many years ago in this part of Zimbabwe? "This is not the same as Greece has options," Sebastian said.
+
+Step 171/330
+>> English - French
+	D'accord? Est-ce que vous avez entendu il y a de nombreuses années dans cette partie du Zimbabwe? "Ce n'est pas la même chose que la Grèce a des options", a déclaré Sebastian.
+
+Step 172/330
+>> French - English
+	Okay? Did you hear many years ago in this part of Zimbabwe? "It's not the same as Greece has options," Sebastian said.
+
+Step 173/330
+>> English - Portuguese
+	OK? Você ouviu muitos anos atrás nesta parte do Zimbábue? "Não é o mesmo que a Grécia tem opções", disse Sebastian.
+
+Step 174/330
+>> Portuguese - Arabic
+	OK؟ هل سمعت منذ سنوات عديدة في هذا الجزء من زيمبابوي؟ وقال سيباستيان: "ليس الأمر كما هو الحال في اليونان."
+
+Step 175/330
+>> Arabic - Portuguese
+	Ta bom Você já ouviu muitos anos atrás nesta parte do Zimbábue? "Não é como na Grécia", disse Sebastian.
+
+Step 176/330
+>> Portuguese - Swahili
+	Kweli Umesikia miaka mingi iliyopita katika sehemu hii ya Zimbabwe? "Sio kama Ugiriki," alisema Sebastian.
+
+Step 177/330
+>> Swahili - French
+	Avez-vous entendu parler il y a de nombreuses années dans cette partie du Zimbabwe? "Ce n'est pas comme la Grèce", a déclaré Sebastian.
+
+Step 178/330
+>> French - English
+	Did you hear about this part of Zimbabwe many years ago? "It's not like Greece," said Sebastian.
+
+Step 179/330
+>> English - Amharic
+	ስለዚህ የዚምባብዌ ክፍል ከብዙ ዓመታት በፊት ሰምተው ያውቃሉ? ሴባስቲያን “እንደ ግሪክ አይደለም” ብለዋል ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	هل سمعت ذلك الجزء من زيمبابوي قبل عدة سنوات؟ وقال سيباستيان "هذا ليس مثل اليونانية".
+
+Step 181/330
+>> Arabic - Chichewa
+	Kodi mudamva gawo la Zimbabwe zaka zingapo zapitazo? "Izi sizili ngati Greek," adatero Sebastian.
+
+Step 182/330
+>> Chichewa - French
+	Avez-vous entendu une partie du Zimbabwe il y a quelques années? "Ce n'est pas comme le grec", a déclaré Sebastian.
+
+Step 183/330
+>> French - Pashto
+	ایا تاسو څو کاله دمخه د زمبابوې یوه برخه اوریدلې؟ "دا د یونان په څیر ندي ،" سیبستیان وویل.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Eske ou te tande pati sa a nan Zimbabwe anpil ane de sa? "Se pa tankou Lagrès," Sebastian te di.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	هل سمعت هذا الجزء من زيمبابوي منذ سنوات عديدة؟ قال سيباستيان: "إنها ليست مثل اليونان".
+
+Step 186/330
+>> Arabic - French
+	Avez-vous entendu cette partie du Zimbabwe pendant de nombreuses années? "Ce n'est pas comme la Grèce", a déclaré Sebastian.
+
+Step 187/330
+>> French - Arabic
+	هل سمعت هذا الجزء من زيمبابوي لسنوات عديدة؟ قال سيباستيان: "إنها ليست مثل اليونان".
+
+Step 188/330
+>> Arabic - French
+	Avez-vous entendu cette partie du Zimbabwe pendant de nombreuses années? "Ce n'est pas comme la Grèce", a déclaré Sebastian.
+
+Step 189/330
+>> French - Swahili
+	Je! Umesikia sehemu hii ya Zimbabwe kwa miaka mingi? "Sio kama Ugiriki," alisema Sebastian.
+
+Step 190/330
+>> Swahili - Malagasy
+	Moa ve izany? Efa henonao nandritra ny taona maro ve io ampitan'i Zimbabwe io? "Tsy toa an'i Gresy izany", hoy i Sebastian.
+
+Step 191/330
+>> Malagasy - Arabic
+	هل هذا صحيح؟ هل سمعت عن هذا الجزء من زيمبابوي لسنوات عديدة؟ قال سيباستيان: "إنها ليست مثل اليونان".
+
+Step 192/330
+>> Arabic - English
+	Is that correct? Have you heard about this part of Zimbabwe for many years? "It's not like Greece," said Sebastian.
+
+Step 193/330
+>> English - Swahili
+	Hiyo ni sawa? Je! Umesikia juu ya sehemu hii ya Zimbabwe kwa miaka mingi? "Sio kama Ugiriki," alisema Sebastian.
+
+Step 194/330
+>> Swahili - Hausa
+	Shin hakan yayi daidai? Shin Shin kun ji labarin wannan bangare na Zimbabwe tsawon shekaru? "Ba kamar Girka bane," in ji Sebastian.
+
+Step 195/330
+>> Hausa - Shona
+	Ndizvozvo here? Wakambonzwa nezve chikamu ichi cheZimbabwe kwemakore here? "Hazvina kufanana neGreek," Sebastian akadaro.
+
+Step 196/330
+>> Shona - Arabic
+	هل هذا صحيح؟ هل سمعت عن هذا الجزء من زيمبابوي لسنوات؟ وقال سيباستيان "هذا ليس مثل اليونانية".
+
+Step 197/330
+>> Arabic - Swahili
+	Je! Hiyo ni kweli? Je! Umesikia juu ya sehemu hii ya Zimbabwe kwa miaka? "Hii sio kama Mgiriki," Sebastian alisema.
+
+Step 198/330
+>> Swahili - English
+	Is it Is that true? Is it Have you heard about this part of Zimbabwe for years? "This is not like a Greek," Sebastian said.
+
+Step 199/330
+>> English - French
+	Est-ce que c'est vrai? Est-ce que vous avez entendu parler de cette partie du Zimbabwe pendant des années? "Ce n'est pas comme un grec", a déclaré Sebastian.
+
+Step 200/330
+>> French - Urdu
+	کیا یہ سچ ہے؟ کیا آپ نے برسوں سے زمبابوے کے اس حصے کے بارے میں سنا ہے؟ "یہ یونانی کی طرح نہیں ہے ،" سیبسٹین نے کہا۔
+
+Step 201/330
+>> Urdu - Nepali
+	के यो सत्य हो? के तपाईले जिम्बावेको यस अंशको बारेमा वर्षौं सुन्नुभएको छ? "यो ग्रीक जस्तो छैन," सेबस्टियनले भने।
+
+Step 202/330
+>> Nepali - Burmese
+	ဤစကားမှန်ပါသလော နှစ်ပေါင်းသင်ဤအစိတ်အပိုင်းအတွက်ဇင်ဘာဘွေအကြောင်းကိုကြားသိကြသလော "ဒါဟာဂရိနဲ့တူမဟုတ်ဘူး" ဟု sebastiyanale ကဆိုသည်။
+
+Step 203/330
+>> Burmese - Portuguese
+	Isso é verdade, e anos, você já ouviu falar sobre nesta parte do Zimbabwe, "Isto não é como a Grécia", disse sebastiyanale.
+
+Step 204/330
+>> Portuguese - English
+	This is true, and years, you have heard about in this part of Zimbabwe, "This is not like Greece," said sebastiyanale.
+
+Step 205/330
+>> English - Portuguese
+	Isso é verdade e, durante anos, você já ouviu falar nesta parte do Zimbábue: "Isso não é como a Grécia", disse sebastiyanale.
+
+Step 206/330
+>> Portuguese - English
+	This is true and for years you have heard in this part of Zimbabwe: "This is not like Greece," said sebastiyanale.
+
+Step 207/330
+>> English - Portuguese
+	Isso é verdade e, durante anos, você ouviu nesta parte do Zimbábue: "Isso não é como a Grécia", disse sebastiyanale.
+
+Step 208/330
+>> Portuguese - English
+	This is true and for years you have heard in this part of Zimbabwe: "This is not like Greece," said sebastiyanale.
+
+Step 209/330
+>> English - lao
+	ນີ້ແມ່ນຄວາມຈິງແລະເປັນເວລາຫລາຍປີທີ່ທ່ານໄດ້ຍິນໃນພາກສ່ວນຂອງປະເທດຊິມບັບເວ: "ນີ້ບໍ່ຄືກັບປະເທດເກຣັກ," ທ່ານ sebastiyanale ກ່າວ.
+
+Step 210/330
+>> lao - French
+	C’est vrai et pendant de nombreuses années, vous avez entendu dans certaines parties du Zimbabwe: "Ce n’est pas comme la Grèce", a déclaré M. Sebastiyanale.
+
+Step 211/330
+>> French - Bengali
+	এটি সত্য এবং বহু বছর ধরে আপনি জিম্বাবুয়ের বিভিন্ন অংশে শুনেছেন: "এটি গ্রিসের মতো নয়," বলেছেন সেবাস্তিয়ানাল।
+
+Step 212/330
+>> Bengali - English
+	This is true and for many years you have heard in different parts of Zimbabwe: "This is not like Greece," said Sebastianal.
+
+Step 213/330
+>> English - Spanish
+	Esto es cierto y durante muchos años ha escuchado en diferentes partes de Zimbabwe: "Esto no es como Grecia", dijo Sebastianal.
+
+Step 214/330
+>> Spanish - Portuguese
+	Isso é verdade e, por muitos anos, ele ouviu em diferentes partes do Zimbábue: "Isso não é como a Grécia", disse Sebastianal.
+
+Step 215/330
+>> Portuguese - Hindi
+	यह सच है और कई सालों तक उन्होंने जिम्बाब्वे के विभिन्न हिस्सों में सुना: "यह ग्रीस की तरह नहीं है," सेबस्टियनल ने कहा।
+
+Step 216/330
+>> Hindi - English
+	This is true and for many years he heard in different parts of Zimbabwe: "It's not like Greece," Sebastianal said.
+
+Step 217/330
+>> English - Spanish
+	Esto es cierto y durante muchos años escuchó en diferentes partes de Zimbabwe: "No es como Grecia", dijo Sebastianal.
+
+Step 218/330
+>> Spanish - English
+	This is true and for many years he heard in different parts of Zimbabwe: "It's not like Greece," Sebastianal said.
+
+Step 219/330
+>> English - Portuguese
+	Isso é verdade e, por muitos anos, ele ouviu em diferentes partes do Zimbábue: "Não é como a Grécia", disse Sebastianal.
+
+Step 220/330
+>> Portuguese - Spanish
+	Esto es cierto y durante muchos años ha escuchado en diferentes partes de Zimbabwe: "No es como Grecia", dijo Sebastianal.
+
+Step 221/330
+>> Spanish - Arabic
+	هذا صحيح ولعدة سنوات سمع في أجزاء مختلفة من زيمبابوي: "ليس مثل اليونان" ، قال سيباستيانال.
+
+Step 222/330
+>> Arabic - Russian
+	Это правда, и в течение нескольких лет он слышал в разных частях Зимбабве: «Не так, как в Греции», - сказал Себастьян.
+
+Step 223/330
+>> Russian - Spanish
+	Eso es cierto, y durante varios años escuchó en diferentes partes de Zimbabwe: "No es como en Grecia", dijo Sebastián.
+
+Step 224/330
+>> Spanish - Arabic
+	هذا صحيح ، ولعدة سنوات سمع في أجزاء مختلفة من زيمبابوي: "هذا ليس مثل اليونان" ، قال سيباستيان.
+
+Step 225/330
+>> Arabic - Spanish
+	Así es, y durante varios años escuchó en diferentes partes de Zimbabwe: "Esto no es como Grecia", dijo Sebastián.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Điều đó đúng, và trong vài năm, ông đã nghe thấy ở các khu vực khác nhau của Zimbabwe: "Điều này không giống như Hy Lạp", Sebastian nói.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Itu benar, dan selama beberapa tahun ia mendengar di berbagai daerah di Zimbabwe: "Ini tidak seperti Yunani," kata Sebastian.
+
+Step 228/330
+>> Indonesian - Arabic
+	هذا صحيح ، وسمع لعدة سنوات في مناطق مختلفة من زيمبابوي: "هذا ليس مثل اليونان" ، قال سيباستيان.
+
+Step 229/330
+>> Arabic - Zulu
+	Unjalo, uzwakale iminyaka eminingi ezingxenyeni ezihlukene zeZimbabwe: "Lokhu akufani neGrisi," kusho uSebastian.
+
+Step 230/330
+>> Zulu - Filipino
+	Oo, maraming beses siyang narinig sa iba't ibang bahagi ng Zimbabwe: "Hindi ito katulad ng Greece," sinabi ni Sebastian.
+
+Step 231/330
+>> Filipino - Romanian
+	Da, a fost auzit de nenumărate ori în diferite părți din Zimbabwe: „Nu este ca Grecia”, a spus Sebastian.
+
+Step 232/330
+>> Romanian - Spanish
+	Sí, se ha escuchado innumerables veces en diferentes partes de Zimbabwe: "No es como Grecia", dijo Sebastián.
+
+Step 233/330
+>> Spanish - French
+	Oui, il a été entendu d'innombrables fois dans différentes régions du Zimbabwe: "Ce n'est pas comme la Grèce", a déclaré Sebastian.
+
+Step 234/330
+>> French - Arabic
+	نعم ، لقد سمعنا مرات لا تحصى في أجزاء مختلفة من زيمبابوي: "هذا ليس مثل اليونان" ، قال سيباستيان.
+
+Step 235/330
+>> Arabic - English
+	Yes, we have heard countless times in different parts of Zimbabwe: “This is not like Greece,” Sebastian said.
+
+Step 236/330
+>> English - Uzbek
+	Ha, biz Zimbabvening turli burchaklarida son-sanoqsiz marotaba eshitganmiz: "Bu Gretsiyaga o'xshamaydi", dedi Sebastyan.
+
+Step 237/330
+>> Uzbek - Samoan
+	Ioe, ua tatou faalogoina le tele o taimi i vaega eseese o Zimbabwe: "E le pei o Eleni," o le tala lea a Sebastian.
+
+Step 238/330
+>> Samoan - English
+	Yes, we have heard it many times in different parts of Zimbabwe: "Unlike Greece," Sebastian said.
+
+Step 239/330
+>> English - Dutch
+	Ja, we hebben het vaak gehoord in verschillende delen van Zimbabwe: "In tegenstelling tot Griekenland," zei Sebastian.
+
+Step 240/330
+>> Dutch - English
+	Yes, we have heard it often in different parts of Zimbabwe: "Unlike Greece," Sebastian said.
+
+Step 241/330
+>> English - Kurdish
+	Erê, me ew car caran li deverên cihê yên Zimbabwe bihîstiye: "Berevajî Yewnanîstan," Sebastian got.
+
+Step 242/330
+>> Kurdish - Arabic
+	نعم ، لقد سمعنا ذلك مرارًا وتكرارًا في أجزاء مختلفة من زيمبابوي: "على عكس الإغريق" ، قال سيباستيان.
+
+Step 243/330
+>> Arabic - Spanish
+	Sí, lo hemos escuchado una y otra vez en diferentes partes de Zimbabwe: "A diferencia de los griegos", dijo Sebastián.
+
+Step 244/330
+>> Spanish - Mongolian
+	Тийм ээ, бид Зимбабвегийн янз бүрийн хэсэгт үүнийг дахин дахин сонссон: "Грекчүүдээс ялгаатай нь" гэж Себастьян хэлэв.
+
+Step 245/330
+>> Mongolian - English
+	Yes, we have heard it again in different parts of Zimbabwe: "Unlike the Greeks," Sebastian said.
+
+Step 246/330
+>> English - Spanish
+	Sí, lo hemos escuchado nuevamente en diferentes partes de Zimbabwe: "A diferencia de los griegos", dijo Sebastián.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Так, ми знову почули це в різних районах Зімбабве: "На відміну від греків", - сказав Себастьян.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Sí, lo escuchamos nuevamente en diferentes partes de Zimbabwe: "A diferencia de los griegos", dijo Sebastián.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	是的，我们在津巴布韦的不同地区再次听到：“与希腊人不同，”塞巴斯蒂安说。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	نعم ، سمعنا مرة أخرى في أجزاء مختلفة من زيمبابوي: "إنه مختلف عن الإغريق" ، قال سيباستيان.
+
+Step 251/330
+>> Arabic - Thai
+	ใช่เราได้ยินอีกครั้งในส่วนต่าง ๆ ของซิมบับเว: "มันแตกต่างจากชาวกรีก" เซบาสเตียนกล่าว
+
+Step 252/330
+>> Thai - Armenian
+	Այո, մենք այն կրկին լսում ենք Զիմբաբվեի տարբեր մասերում. «Դա տարբերվում է հույներից», - ասաց Սեբաստիան:
+
+Step 253/330
+>> Armenian - Macedonian
+	Да, го слушаме повторно во различни делови на Зимбабве. „Тоа е различно од Грците“, рече Себастија.
+
+Step 254/330
+>> Macedonian - Arabic
+	نعم ، نسمعها مرة أخرى في أجزاء مختلفة من زيمبابوي. وقال سيباستيا "الأمر مختلف عن اليونانيين".
+
+Step 255/330
+>> Arabic - Portuguese
+	Sim, ouvimos novamente em diferentes partes do Zimbábue. "É diferente dos gregos", disse Sebastia.
+
+Step 256/330
+>> Portuguese - Spanish
+	Sí, escuchamos nuevamente en diferentes partes de Zimbabwe. "Es diferente de los griegos", dijo Sebastia.
+
+Step 257/330
+>> Spanish - Bosnian
+	Da, ponovo čujemo u različitim dijelovima Zimbabvea. "Drugačija je od Grka", reče Sebastija.
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඔව්, සිම්බාබ්වේහි විවිධ ප්‍රදේශවල අපට නැවත අසන්නට ලැබේ. "එය ග්‍රීකයන්ට වඩා වෙනස් ය," සෙබස්තිය පැවසීය.
+
+Step 259/330
+>> Sinhala - English
+	Yes, we hear again in different parts of Zimbabwe. "It's different from the Greeks," Sebastian said.
+
+Step 260/330
+>> English - Spanish
+	Sí, escuchamos nuevamente en diferentes partes de Zimbabwe. "Es diferente de los griegos", dijo Sebastián.
+
+Step 261/330
+>> Spanish - English
+	Yes, we hear again in different parts of Zimbabwe. "It's different from the Greeks," Sebastian said.
+
+Step 262/330
+>> English - Georgian
+	დიახ, ჩვენ ისევ გვესმის ზიმბაბვეს სხვადასხვა ნაწილში. ”ეს განსხვავდება ბერძნებისგან” - თქვა სებასტიანმა.
+
+Step 263/330
+>> Georgian - English
+	Yes, we still hear it in different parts of Zimbabwe. "It's different from the Greeks," Sebastian said.
+
+Step 264/330
+>> English - Albanian
+	Po, ne ende e dëgjojmë në pjesë të ndryshme të Zimbabve. "It'sshtë ndryshe nga Grekët," tha Sebastian.
+
+Step 265/330
+>> Albanian - Serbian
+	Да, и даље га чујемо у различитим деловима Зимбабвеа. "То је другачије од Грка", рече Себастијан.
+
+Step 266/330
+>> Serbian - Spanish
+	Sí, todavía lo escuchamos en diferentes partes de Zimbabwe. "Es diferente de los griegos", dijo Sebastián.
+
+Step 267/330
+>> Spanish - English
+	Yes, we still hear it in different parts of Zimbabwe. "It's different from the Greeks," Sebastian said.
+
+Step 268/330
+>> English - Turkish
+	Evet, Zimbabwe'nin farklı yerlerinde hala duyuyoruz. “Yunanlılardan farklı,” dedi Sebastian.
+
+Step 269/330
+>> Turkish - Spanish
+	Sí, todavía lo escuchamos en diferentes partes de Zimbabwe. Farklı Diferente de los griegos, dijo Sebastián Sebastián.
+
+Step 270/330
+>> Spanish - French
+	Oui, on l'entend encore dans différentes parties du Zimbabwe. Farkli Différent des Grecs, a déclaré Sebastián Sebastián.
+
+Step 271/330
+>> French - English
+	Yes, it is still heard in different parts of Zimbabwe. Farkli Different from the Greeks, Sebastián Sebastián said.
+
+Step 272/330
+>> English - Persian
+	بله ، هنوز هم در مناطق مختلف زیمبابوه شنیده می شود. سباستین سباستین گفت: فاركلی با یونانیان متفاوت است.
+
+Step 273/330
+>> Persian - Kazakh
+	Ия, бұл әлі де Зимбабвенің әртүрлі аймақтарында естіледі. Себастьян Себастьян: Фаркли гректерден ерекшеленеді.
+
+Step 274/330
+>> Kazakh - English
+	Yes, it is still heard in different parts of Zimbabwe. Sebastian Sebastian: Farkli differs from the Greeks.
+
+Step 275/330
+>> English - Malay
+	Ya, ia masih didengar di berbagai tempat di Zimbabwe. Sebastian Sebastian: Farkli berbeza dari orang Yunani.
+
+Step 276/330
+>> Malay - Arabic
+	نعم ، ما زال يسمع في أماكن كثيرة في زيمبابوي. سيباستيان سيباستيان: فاركلي يختلف عن الإغريق.
+
+Step 277/330
+>> Arabic - Spanish
+	Sí, todavía se escucha en muchos lugares de Zimbabwe. Sebastian Sebastian: Varkley es diferente de los griegos.
+
+Step 278/330
+>> Spanish - English
+	Yes, it is still heard in many places in Zimbabwe. Sebastian Sebastian: Varkley is different from the Greeks.
+
+Step 279/330
+>> English - Russian
+	Да, это все еще слышно во многих местах в Зимбабве. Себастьян Себастьян: Варкли отличается от греков.
+
+Step 280/330
+>> Russian - Romanian
+	Da, se mai aude în multe locuri din Zimbabwe. Sebastian Sebastian: Warkley este diferit de greci.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Да, чува се на много места в Зимбабве. Себастиан Себастиан: Уоркли е различен от гърците.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Po, dëgjohet në shumë vende në Zimbabve. Sebastian Sebastian: Workley është i ndryshëm nga Grekët.
+
+Step 283/330
+>> Albanian - Russian
+	Да, это слышно во многих местах в Зимбабве. Себастьян Себастьян: Workley отличается от греков.
+
+Step 284/330
+>> Russian - Arabic
+	نعم ، يسمع في أماكن كثيرة في زيمبابوي. سيباستيان سيباستيان: Workley يختلف عن الإغريق.
+
+Step 285/330
+>> Arabic - Spanish
+	Sí, escuchado en muchos lugares en Zimbabwe. Sebastian Sebastian: Workley es diferente de los griegos.
+
+Step 286/330
+>> Spanish - Croatian
+	Da, čuo se na mnogim mjestima Zimbabvea. Sebastian Sebastian: Workley se razlikuje od Grka.
+
+Step 287/330
+>> Croatian - Hungarian
+	Igen, Zimbabwéban sok helyen hallották. Sebastian Sebastian: A Workley különbözik a görögöktől.
+
+Step 288/330
+>> Hungarian - Spanish
+	Sí, lo han escuchado en muchos lugares de Zimbabwe. Sebastian Sebastian: Workley es diferente de los griegos.
+
+Step 289/330
+>> Spanish - Arabic
+	نعم ، لقد سمعوا ذلك في أماكن كثيرة في زيمبابوي. سيباستيان سيباستيان: Workley يختلف عن الإغريق.
+
+Step 290/330
+>> Arabic - Portuguese
+	Sim, eles ouviram isso em muitos lugares no Zimbábue. Sebastian Sebastian: Workley é diferente dos gregos.
+
+Step 291/330
+>> Portuguese - Latvian
+	Jā, viņi to ir dzirdējuši daudzās Zimbabves vietās. Sebastians Sebastians: Darblijs atšķiras no grieķiem.
+
+Step 292/330
+>> Latvian - Arabic
+	نعم ، لقد سمعوا ذلك في أجزاء كثيرة من زيمبابوي. سيباستيان سيباستيان: داربي يختلف عن الإغريق.
+
+Step 293/330
+>> Arabic - Malay
+	Ya, mereka telah mendengarnya di banyak tempat di Zimbabwe. Sebastian Sebastian: Darby berbeza daripada orang Yunani.
+
+Step 294/330
+>> Malay - Slovak
+	Áno, počuli to na mnohých miestach v Zimbabwe. Sebastian Sebastian: Darby sa líši od Grékov.
+
+Step 295/330
+>> Slovak - Arabic
+	نعم ، لقد سمعوا ذلك في أماكن كثيرة في زيمبابوي. سيباستيان سيباستيان: داربي يختلف عن الإغريق.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Taip, jie tai girdėjo daugelyje Zimbabvės vietų. Sebastianas Sebastianas: Darbis skiriasi nuo graikų.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Sí, ho han sentit a moltes parts del Zimbabwe. Sebastian Sebastian: El treball és diferent del grec.
+
+Step 298/330
+>> Catalan - Arabic
+	نعم ، لقد سمعوا ذلك في أجزاء كثيرة من زيمبابوي. سيباستيان سيباستيان: العمل مختلف عن اليونانية.
+
+Step 299/330
+>> Arabic - Polish
+	Tak, słyszeli to w wielu częściach Zimbabwe. Sebastian Sebastian: Praca różni się od greckiej.
+
+Step 300/330
+>> Polish - Turkish
+	Evet, Zimbabwe'nin birçok yerinde duydular. Sebastian Sebastian: İş Yunanca'dan farklıdır.
+
+Step 301/330
+>> Turkish - Greek
+	Ναι, το άκουσαν σε πολλά μέρη της Ζιμπάμπουε. Sebastian Sebastian: Η επιχείρηση είναι διαφορετική από την ελληνική.
+
+Step 302/330
+>> Greek - Estonian
+	Jah, nad on seda kuulnud paljudes Zimbabwe piirkondades. Sebastian Sebastian: Äri erineb kreeka ettevõttest.
+
+Step 303/330
+>> Estonian - Maltese
+	Iva, smajtha f'ħafna żoni taż-Żimbabwe. Sebastian Sebastian: In-negozju huwa differenti minn kumpanija Griega.
+
+Step 304/330
+>> Maltese - Italian
+	Sì, smajtha molte aree dello Zimbabwe. Sebastian Sebastian: L'azienda è diversa da una società greca.
+
+Step 305/330
+>> Italian - Czech
+	Ano, smajtha mnoho oblastí Zimbabwe. Sebastian Sebastian: Společnost se liší od řecké společnosti.
+
+Step 306/330
+>> Czech - Spanish
+	Sí, smajtha muchas áreas de Zimbabwe. Sebastian Sebastian: La sociedad difiere de la sociedad griega.
+
+Step 307/330
+>> Spanish - Slovenian
+	Da, smajtha številna območja Zimbabveja. Sebastian Sebastian: Družba se razlikuje od grške družbe.
+
+Step 308/330
+>> Slovenian - French
+	Oui, il y a beaucoup de régions du Zimbabwe. Sebastian Sebastian: La société est différente de la société grecque.
+
+Step 309/330
+>> French - Korean
+	예, 짐바브웨에는 많은 부분이 있습니다. Sebastian Sebastian : 사회는 그리스 사회와 다릅니다.
+
+Step 310/330
+>> Korean - Hebrew
+	כן, ישנם חלקים רבים בזימבבואה. סבסטיאן סבסטיאן: החברה שונה מהחברה היוונית
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Jo, et gi vill Deeler vun Simbabwe. Sebastian Sebastian: D'Firma ass anescht wéi déi griichesch Gesellschaft
+
+Step 312/330
+>> Luxembourgish - German
+	Ja, es gibt viele Teile von Simbabwe. Sebastian Sebastian: Das Unternehmen unterscheidet sich von der griechischen Gesellschaft
+
+Step 313/330
+>> German - Japanese
+	はい、ジンバブエには多くの部分があります。セバスチャンセバスチャン：会社はギリシャ社会とは違う
+
+Step 314/330
+>> Japanese - German
+	Ja, Simbabwe hat viele Teile. Sebastian Sebastian: Das Unternehmen unterscheidet sich von der griechischen Gesellschaft
+
+Step 315/330
+>> German - Dutch
+	Ja, Zimbabwe heeft veel delen. Sebastian Sebastian: Het bedrijf verschilt van de Griekse samenleving
+
+Step 316/330
+>> Dutch - Maori
+	Ae, he maha nga waahanga o Zimbabwe. Sebastian Sebastian: He rereke te kamupene ki te hapori Kariki
+
+Step 317/330
+>> Maori - Finnish
+	Kyllä, Zimbabwesta on monia osia. Sebastian Sebastian: Yhtiö on erilainen kuin kreikkalainen yhteisö
+
+Step 318/330
+>> Finnish - English
+	Yes, there are many parts of Zimbabwe. Sebastian Sebastian: The company is different from the Greek community
+
+Step 319/330
+>> English - Danish
+	Ja, der er mange dele af Zimbabwe. Sebastian Sebastian: Virksomheden adskiller sig fra det græske samfund
+
+Step 320/330
+>> Danish - Dutch
+	Ja, er zijn veel delen van Zimbabwe. Sebastian Sebastian: Het bedrijf verschilt van de Griekse samenleving
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	是的，津巴布韋有很多地方。 Sebastian Sebastian：公司與希臘社會不同
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Ja, det finns många platser i Zimbabwe. Sebastian Sebastian: Företaget skiljer sig från det grekiska samhället
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	是的，津巴布韋有很多地方。 Sebastian Sebastian：公司與希臘社會不同
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Já, það eru margir staðir í Simbabve. Sebastian Sebastian: Fyrirtækið er frábrugðið gríska samfélaginu
+
+Step 325/330
+>> Icelandic - German
+	Ja, es gibt viele Orte in Simbabwe. Sebastian Sebastian: Das Unternehmen unterscheidet sich von der griechischen Community
+
+Step 326/330
+>> German - Irish
+	Tá, tá go leor áiteanna sa tSiombáib. Sebastian Sebastian: Tá an chuideachta difriúil ó phobal na Gréige
+
+Step 327/330
+>> Irish - English
+	Yes, there are many places in Zimbabwe. Sebastian Sebastian: The company is different from the Greek community
+
+Step 328/330
+>> English - German
+	Ja, es gibt viele Orte in Simbabwe. Sebastian Sebastian: Das Unternehmen unterscheidet sich von der griechischen Community
+
+Step 329/330
+>> German - Norwegian
+	Ja, det er mange steder i Zimbabwe. Sebastian Sebastian: Selskapet er forskjellig fra det greske samfunnet
+
+Step 330/330
+>> Norwegian - Portuguese
+	Sim, existem muitos lugares no Zimbábue. Sebastian Sebastian: A empresa é diferente da sociedade grega
+
+
+##### RESULTS ######
+
+— Lembro, respondeu Cheherazade. E ouvirás o prosseguimento. Sire, continuou, dirigindo sempre a palavra a Chahriar, o que o rei grego acabava de dizer com respeito ao rei Sindbad aguçou a curiosidade do vizir, que lhe pediu: “Suplico-vos, Sire, perdoeis a ousadia de vos perguntar o que disse o vizir do rei Sindbad ao seu amo para o afastar da idéia de fazer morrer seu filho.” O rei grego satisfez-lhe o desejo. “Esse vizir, respondeu, após haver mostrado ao rei Sindbad que, diante da acusação de uma ogra, deveria temer praticar ato de que pudesse arrepender-se, contou-lhe a seguinte história:
+
+Sim, existem muitos lugares no Zimbábue. Sebastian Sebastian: A empresa é diferente da sociedade grega

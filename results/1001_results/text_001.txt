@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Após um reinado tão longo quão glorioso, morreu o rei, e Chahriar subiu ao trono. Chahzenã, excluído de qualquer direito pelas leis do império, e obrigado a viver como particular, em vez de invejar a felicidade do irmão, cuidou diligentemente de lhe agradar.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Etter en så lang og strålende regjering døde kongen, og Chahriar steg opp tronen. Chahzenã, ekskludert fra enhver rett ved lovene i imperiet, og tvunget til å leve privat i stedet for å misunne sin brors lykke, glede ham flittig.
+
+Step 2/330
+>> Norwegian - German
+	Nach einer so langen und glorreichen Regierungszeit starb der König und Chahriar bestieg den Thron. Chahzenã, der nach den Gesetzen des Imperiums von allen Rechten ausgeschlossen war und gezwungen war, privat zu leben, anstatt das Glück seines Bruders zu beneiden, freute ihn fleißig.
+
+Step 3/330
+>> German - English
+	After such a long and glorious reign, the king died and Khahriar ascended the throne. Chahzenã, who, according to the laws of the Empire, was excluded from all rights and forced to live privately rather than to envy his brother's happiness, pleased him.
+
+Step 4/330
+>> English - Irish
+	Tar éis réimeas fada agus glórach, fuair an rí bás agus d’éirigh Khahriar leis an ríchathaoir. Bhí Chahzenã, a bhí, de réir dhlíthe na hImpireachta, eisiata ó gach ceart agus a raibh iallach air maireachtáil go príobháideach seachas a bheith sona ar sonas a dheartháir, sásta leis.
+
+Step 5/330
+>> Irish - German
+	Nach einer langen und lauten Regierungszeit starb der König und Khahriar gelang es, den Thron zu besteigen. Chahzenã, der nach den Gesetzen des Imperiums von allen Rechten ausgeschlossen war und gezwungen war, privat zu leben, anstatt mit dem Glück seines Bruders glücklich zu sein.
+
+Step 6/330
+>> German - Icelandic
+	Eftir langa og háa stjórnartíð dó konungur og tókst Khahriar að stíga upp í hásætið. Chahzenã, sem samkvæmt lögum heimsveldisins var útilokaður frá öllum réttindum og neyddur til að lifa einslega en að vera ánægður með hamingju bróður síns.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	在長期和高位統治之後，國王死了，Khahri成功地登上了王位。 Chahzenã，根據帝國的法律被禁止所有權利，被迫獨自生活，但對他兄弟的幸福感到高興。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Efter den långa och höga regeringen dog kungen och Khahri landade framgångsrikt på tronen. Chahzenã, som var förbjuden från alla rättigheter enligt lagarna i kejsardömet, tvingades leva ensam, men var nöjd med lyckan från sin bror.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	在長期和高位統治之後，國王死了，Khahri成功地登上了王位。根據帝國法律禁止所有權利的Chahzenã被迫獨自生活，但對他兄弟的幸福感到滿意。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Na de lange en hoge heerschappij stierf de koning en landde Khahri met succes op de troon. Chahzenã, die alle rechten onder de keizerlijke wet verbood, werd gedwongen alleen te leven, maar was tevreden met het geluk van zijn broer.
+
+Step 11/330
+>> Dutch - Danish
+	Efter lang og høj styre døde kongen, og Khahri landede med succes på tronen. Chahzenã, der forbød alle rettigheder i henhold til kejserlig lov, blev tvunget til at bo alene, men var tilfreds med sin brors lykke.
+
+Step 12/330
+>> Danish - English
+	After long and high rule, the king died and Khahri successfully landed on the throne. Chahzenã, who banned all rights under imperial law, was forced to live alone, but was content with his brother's happiness.
+
+Step 13/330
+>> English - Finnish
+	Pitkän ja korkean hallinnon jälkeen kuningas kuoli ja Khahri laski onnistuneesti valtaistuimelle. Chahzenã, joka kielsi kaikki imperialisen lain mukaiset oikeudet, pakotettiin elämään yksin, mutta oli tyytyväinen veljensä onneen.
+
+Step 14/330
+>> Finnish - Maori
+	Ka mutu te roa o te rangatiratanga ka mate, ka mate te kingi ka angitu a Khahri ki te torona. Ko Chahzenã, i whakakahore i nga mana katoa i raro i te ture emepaea, i kaha maia kia noho ko ia anake, engari i hari ki te koa o tona tuakana.
+
+Step 15/330
+>> Maori - Dutch
+	Na een lange heerschappij stierf de koning en slaagde Khahri op de troon. Chahzenã, die alle autoriteit onder keizerlijke heerschappij ontkende, was dapper genoeg om alleen te zijn, maar was gelukkig voor het geluk van zijn broer.
+
+Step 16/330
+>> Dutch - German
+	Nach einer langen Regierungszeit starb der König und Khahri gelang es, den Thron zu besteigen. Chahzenã, der unter kaiserlicher Herrschaft jegliche Autorität verweigerte, war mutig genug, allein zu sein, freute sich aber über das Glück seines Bruders.
+
+Step 17/330
+>> German - Japanese
+	長い治世の後、王は亡くなり、カーリーは王位に就くことに成功しました。皇帝の統治下で権威を行使することを拒否したチャズナンは、一人でいるのに十分勇気がありましたが、彼の兄弟の幸福を喜んでいました。
+
+Step 18/330
+>> Japanese - German
+	Nach langer Regierungszeit starb der König und Carly gelang es, den Thron zu besteigen. Chaznan, der sich unter der Herrschaft des Kaisers weigerte, Autorität auszuüben, war mutig genug, um allein zu sein, freute sich aber über das Glück seines Bruders.
+
+Step 19/330
+>> German - Luxembourgish
+	No enger laanger Herrschaft ass de Kinnek gestuerwen an de Carly ass dem Troun eropgaang. Den Chaznan, dee refuséiert huet Autoritéit ënner dem Keeser Herrschaft ze maachen, war dapere genuch fir eleng ze sinn, awer war frou vu sengem Brudder Gléck.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	לאחר שלטון ארוך, המלך נפטר וקארלי עלה על כס המלוכה. חזנאן, שסירב להפעיל סמכות תחת שלטון אימפריאלי, היה אמיץ מספיק כדי להיות לבד, אך שמח מאושרו של אחיו.
+
+Step 21/330
+>> Hebrew - Korean
+	오랜 통치 끝에 왕은 죽었고 칼리는 왕위에 올랐다. 제국의 통치 아래 권위를 행사하기를 거부 한 하사 난은 혼자있을만큼 용감했지만 동생의 행복에 만족했다.
+
+Step 22/330
+>> Korean - French
+	Après un long règne, le roi mourut et Cali accéda au trône. Hasanaan, qui a refusé d'exercer son autorité sous l'empire, a eu le courage de rester seul, mais était heureux du bonheur de son frère.
+
+Step 23/330
+>> French - Slovenian
+	Po dolgem vladanju je kralj umrl, Cali pa je stopil na prestol. Hasanaan, ki ni hotel izvrševati svoje oblasti v imperiju, je imel pogum, da ostane sam, a je bil srečen z bratom.
+
+Step 24/330
+>> Slovenian - Spanish
+	Después de un largo reinado, el rey murió y Cali ascendió al trono. Hasanaan, quien se negó a ejercer su autoridad en el imperio, tuvo el coraje de permanecer solo pero estaba feliz con su hermano.
+
+Step 25/330
+>> Spanish - Czech
+	Po dlouhé vládě král zemřel a Cali vystoupil na trůn. Hasanaan, který odmítl vykonávat svou moc v říši, měl odvahu zůstat sám, ale byl spokojený se svým bratrem.
+
+Step 26/330
+>> Czech - Italian
+	Dopo un lungo regno il re morì e Cali salì al trono. Hasanaan, che si rifiutò di esercitare il suo potere nell'impero, ebbe il coraggio di rimanere solo, ma si accontentò di suo fratello.
+
+Step 27/330
+>> Italian - Maltese
+	Wara renju twil ir-re miet u Cali tela 't-tron. Hasanaan, li rrifjuta li jeżerċita l-poter tiegħu fl-imperu, kellu l-kuraġġ li jibqa 'waħdu, iżda kien kuntent ma' ħuh.
+
+Step 28/330
+>> Maltese - Estonian
+	Pärast pikka valitsemisaega kuningas suri ja Cali troonile. Hasanaan, kes keeldus teostama oma võimu impeeriumi oli julgust jääda üksi, kuid oli rahul tema vend.
+
+Step 29/330
+>> Estonian - Greek
+	Μετά από μια μακρά βασιλεία, ο βασιλιάς πέθανε επίσης στο θρόνο του Cali. Ο Χασάναν, ο οποίος αρνήθηκε να ασκήσει την εξουσία του στην αυτοκρατορία, είχε το θάρρος να είναι μόνος, αλλά ήταν ευχαριστημένος με τον αδελφό του.
+
+Step 30/330
+>> Greek - Turkish
+	Uzun bir saltanattan sonra, kral Cali tahtında da öldü. İmparatorluğundaki gücünü kullanmayı reddeden Hassan, yalnız olma cesaretine sahipti, ama kardeşinden memnun kaldı.
+
+Step 31/330
+>> Turkish - Polish
+	Po długim panowaniu król umarł na tronie Cali. Odmawiając użycia swojej władzy w swoim imperium, Hassan miał odwagę być sam, ale był zadowolony z brata.
+
+Step 32/330
+>> Polish - Arabic
+	بعد حكم طويل ، توفي الملك على عرش كالي. من خلال رفضه استخدام سلطته في إمبراطوريته ، امتلك حسن الشجاعة ليكون وحده ، لكنه كان سعيدًا بأخيه.
+
+Step 33/330
+>> Arabic - Catalan
+	Després d’un llarg regnat, el rei va morir al tron de Cali. En negar-se a utilitzar el seu poder al seu imperi, Hassan va tenir el coratge d'estar sol, però estava feliç amb el seu germà.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Po ilgo viešpatavimo karalius mirė Cali soste. Atsisakydamas jėgų savo imperijoje, Hassanas turėjo drąsos būti vienas, tačiau džiaugėsi savo broliu.
+
+Step 35/330
+>> Lithuanian - Arabic
+	بعد حكم طويل ، توفي الملك على عرش كالي. حسن كان لديه الشجاعة ليكون وحده في حين تخلى عن السلطة في امبراطوريته ، لكنه استمتع بأخيه.
+
+Step 36/330
+>> Arabic - Slovak
+	Po dlhej vláde zomrel kráľ na tróne Cali. Hassan mal odvahu byť sám, zatiaľ čo sa vzdal moci vo svojej ríši, ale jeho brat si užíval.
+
+Step 37/330
+>> Slovak - Malay
+	Selepas pemerintahan yang panjang raja itu mati di atas takhta Cali. Hassan mempunyai keberanian untuk bersendirian sementara kuasa menyerah di empayarnya, tetapi saudaranya sedang menikmati dirinya.
+
+Step 38/330
+>> Malay - Arabic
+	بعد فترة طويلة توفي الملك على عرش كالي. حسن كان لديه الشجاعة ليكون وحده في حين استسلمت السلطة في امبراطوريته ، ولكن شقيقه كان يتمتع نفسه.
+
+Step 39/330
+>> Arabic - Latvian
+	Ilgi pēc tam, kad karalis nomira uz Kali troņa. Hasanam bija drosme būt vienam, nododot varu savā impērijā, bet brālis baudīja sevi.
+
+Step 40/330
+>> Latvian - Portuguese
+	Muito tempo depois o rei morreu no trono de Kali. Hasan teve a coragem de ficar sozinho na transferência de poder em seu império, mas seu irmão se divertiu.
+
+Step 41/330
+>> Portuguese - Arabic
+	بعد فترة طويلة من وفاة الملك على عرش كالي. كان لدى حسن الشجاعة ليكون وحده في نقل السلطة في إمبراطوريته ، لكن شقيقه كان يستمتع.
+
+Step 42/330
+>> Arabic - Spanish
+	Mucho después de la muerte del rey en el trono de Cali. Hassan tuvo el coraje de estar solo en la transferencia de poder en su imperio, pero su hermano estaba disfrutando.
+
+Step 43/330
+>> Spanish - Hungarian
+	Sokáig a király halála után, Cali trónján. Hassan bátorsággal büszke volt arra, hogy birodalmában egyedül maradjon a hatalomátadásban, de testvére élvezte magát.
+
+Step 44/330
+>> Hungarian - Croatian
+	Dugo nakon kraljeve smrti, na prijestolju Kali. Hassan je bio dovoljno hrabar da ostane sam na miru u prijenosu moći u svom carstvu, ali brat je uživao.
+
+Step 45/330
+>> Croatian - Spanish
+	Mucho después de la muerte del rey, en el trono de Kali. Hassan fue lo suficientemente valiente como para quedarse solo en la transferencia de poder en su imperio, pero su hermano lo disfrutó.
+
+Step 46/330
+>> Spanish - Arabic
+	بعد وقت طويل من وفاة الملك ، على عرش كالي. كان حسن شجاعًا بما يكفي ليتم تركه بمفرده في نقل السلطة في إمبراطوريته ، لكن شقيقه استمتع بها.
+
+Step 47/330
+>> Arabic - Russian
+	Вскоре после смерти царя на троне Кали. Хасан был достаточно смел, чтобы остаться один, чтобы передать власть в своей империи, но его брату это понравилось.
+
+Step 48/330
+>> Russian - Albanian
+	Menjëherë pas vdekjes së mbretit në fronin e Kali. Hassan ishte mjaft i guximshëm për të mbetur i vetëm për të transferuar pushtetin në perandorinë e tij, por vëllai i tij e pëlqeu.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Малко след смъртта на краля на трона на Кали. Хасан беше достатъчно смел, за да остане сам, за да прехвърли властта на империята си, но брат му го хареса.
+
+Step 50/330
+>> Bulgarian - Romanian
+	La scurt timp după moartea regelui pe tronul Cali. Hassan a fost suficient de curajos pentru a fi lăsat singur pentru a transfera puterea în imperiul său, dar fratelui său i-a plăcut.
+
+Step 51/330
+>> Romanian - Russian
+	Вскоре после смерти царя на троне Кали. Хасан был достаточно смел, чтобы остаться один, чтобы передать власть своей империи, но ему нравился его брат.
+
+Step 52/330
+>> Russian - English
+	Shortly after the death of the king on the throne of Kali. Hassan was brave enough to be left alone to transfer power to his empire, but he liked his brother.
+
+Step 53/330
+>> English - Spanish
+	Poco después de la muerte del rey en el trono de Kali. Hassan fue lo suficientemente valiente como para quedarse solo para transferir el poder a su imperio, pero le caía bien su hermano.
+
+Step 54/330
+>> Spanish - Arabic
+	بعد وقت قصير من وفاة الملك على عرش كالي. كان حسن شجاعًا بما يكفي للبقاء وحيدا لنقل السلطة إلى إمبراطوريته ، لكنه كان يحب شقيقه.
+
+Step 55/330
+>> Arabic - Malay
+	Tidak lama selepas kematian raja di atas takhta Cali. Hassan cukup berani untuk tetap sendirian untuk memindahkan kuasa ke empayarnya, tetapi dia mencintai saudaranya.
+
+Step 56/330
+>> Malay - English
+	Shortly after the death of the king on the throne of Cali. Hassan was brave enough to remain alone to transfer power to his empire, but he loved his brother.
+
+Step 57/330
+>> English - Kazakh
+	Кали тағында патша қайтыс болғаннан кейін көп ұзамай. Хасан билікті өз империясына беру үшін жалғыз қалуға батылдық танытты, бірақ ол ағасын жақсы көрді.
+
+Step 58/330
+>> Kazakh - Persian
+	اندکی پس از درگذشت شاه ، بر تخت سلطنتی کالیا قرار گرفت. حسن شجاعت این را داشت که تنها برای ایستادن قدرت به امپراطوری خود بایستد ، اما او عاشق برادرش بود.
+
+Step 59/330
+>> Persian - English
+	Shortly after the king's death, he was placed on the royal throne of Kalaya. Hassan had the courage to stand up to his empire just to stand up to power, but he loved his brother.
+
+Step 60/330
+>> English - French
+	Peu de temps après la mort du roi, il fut placé sur le trône royal de Kalaya. Hassan a eu le courage de tenir tête à son empire juste pour tenir le pouvoir, mais il aimait son frère.
+
+Step 61/330
+>> French - Spanish
+	Poco después de la muerte del rey, fue colocado en el trono real de Kalaya. Hassan tuvo el coraje de enfrentarse a su imperio solo para mantener el poder, pero amaba a su hermano.
+
+Step 62/330
+>> Spanish - Turkish
+	Kralın ölümünden kısa bir süre sonra Kalaya kraliyet tahtına yerleştirildi. Hassan, sadece iktidarını sürdürmek için imparatorluğuyla yüzleşme cesaretine sahipti, ama kardeşini sevdi.
+
+Step 63/330
+>> Turkish - English
+	Shortly after the king's death, Kalaya was placed on the royal throne. Hassan had the courage to confront his empire only to maintain power, but he loved his brother.
+
+Step 64/330
+>> English - Spanish
+	Poco después de la muerte del rey, Kalaya fue colocado en el trono real. Hassan tuvo el coraje de enfrentarse a su imperio solo para mantener el poder, pero amaba a su hermano.
+
+Step 65/330
+>> Spanish - Serbian
+	Убрзо након краљеве смрти Калаја је постављен на краљевски трон. Хасан је имао храбрости да се суочи са својим царством само зато да одржи моћ, али волео је свог брата.
+
+Step 66/330
+>> Serbian - Albanian
+	Menjëherë pas vdekjes së mbretit, Tin u vendos në fronin mbretëror. Hasani pati guximin të përballet me perandorinë e tij vetëm për të ruajtur fuqinë, por ai e donte vëllanë e tij.
+
+Step 67/330
+>> Albanian - English
+	Shortly after the king's death, Tin was enthroned. Hasan had the courage to face his empire just to maintain power, but he loved his brother.
+
+Step 68/330
+>> English - Georgian
+	მეფის გარდაცვალებიდან ცოტა ხნის შემდეგ, თინი შეეფარდა. ჰასანს გამბედაობა ჰქონდა ემხრობოდა თავის იმპერიას მხოლოდ ძალაუფლების შესანარჩუნებლად, მაგრამ უყვარდა ძმა.
+
+Step 69/330
+>> Georgian - English
+	Shortly after the king's death, Tin was sentenced. Hassan had the courage to support his empire only to maintain power, but he loved his brother.
+
+Step 70/330
+>> English - Spanish
+	Poco después de la muerte del rey, Tin fue sentenciado. Hassan tuvo el coraje de apoyar a su imperio solo para mantener el poder, pero amaba a su hermano.
+
+Step 71/330
+>> Spanish - English
+	Shortly after the king's death, Tin was sentenced. Hassan had the courage to support his empire just to maintain power, but he loved his brother.
+
+Step 72/330
+>> English - Sinhala
+	රජුගේ මරණයෙන් ටික කලකට පසු ටින්ට ද .ුවම් නියම විය. බලය පවත්වා ගැනීම සඳහා තම අධිරාජ්‍යයට සහයෝගය දැක්වීමට හසන්ට ධෛර්යයක් තිබුණද ඔහු තම සහෝදරයාට ආදරය කළේය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Ubrzo nakon kraljeve smrti Tin je takođe osuđen. Iako je Hassan imao hrabrosti podržati svoje carstvo za održavanje moći, volio je brata.
+
+Step 74/330
+>> Bosnian - Spanish
+	Poco después de la muerte de King, Tin también fue condenado. Aunque Hassan tuvo el coraje de apoyar a su imperio para mantener el poder, amaba a su hermano.
+
+Step 75/330
+>> Spanish - Portuguese
+	Logo após a morte de King, Tin também foi condenado. Embora Hassan tivesse a coragem de apoiar seu império para manter o poder, ele amava seu irmão.
+
+Step 76/330
+>> Portuguese - Arabic
+	بعد وقت قصير من وفاة الملك ، أدين تين أيضًا. رغم أن حسن كان لديه الشجاعة لدعم إمبراطوريته للحفاظ على السلطة ، إلا أنه كان يحب شقيقه.
+
+Step 77/330
+>> Arabic - Macedonian
+	Набргу по смртта на кралот, Тин исто така беше осуден. Иако Хасан имал храброст да ја поддржува својата империја да ја одржи моќта, тој го сакал својот брат.
+
+Step 78/330
+>> Macedonian - Armenian
+	Թագավորի մահից կարճ ժամանակ անց Թին նույնպես դատապարտվեց: Չնայած Հասանը քաջություն ուներ աջակցելու իր կայսրությանը իշխանությունը պահպանելու համար, նա սիրում էր եղբորը:
+
+Step 79/330
+>> Armenian - Thai
+	ไม่นานหลังจากที่กษัตริย์สิ้นพระชนม์ติก็ถูกประณามเช่นกัน แม้ว่า Hasan มีความกล้าหาญที่จะสนับสนุนอาณาจักรของเขาเพื่อรักษาอำนาจ แต่เขาก็รักพี่ชายของเขา
+
+Step 80/330
+>> Thai - Arabic
+	بعد وقت قصير من وفاة الملك ، تم إدانته أيضًا ، رغم أن حسن كان لديه الشجاعة لدعم مملكته من أجل الحفاظ على السلطة. لكنه يحب شقيقه
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	在国王去世后不久，他也被定罪，尽管哈桑有勇气支持他的王国以维持权力。但他爱他的兄弟
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Poco después de la muerte del rey, también fue condenado, aunque Hassan tuvo el coraje de apoyar a su reino para mantener el poder. Pero el ama a su hermano
+
+Step 83/330
+>> Spanish - Ukrainian
+	Незабаром після смерті короля його також засудили, хоча Хасан мав сміливість підтримувати своє королівство для підтримки влади. Але він любить свого брата
+
+Step 84/330
+>> Ukrainian - Spanish
+	También fue sentenciado poco después de la muerte del rey, aunque Hassan tuvo el coraje de apoyar a su reino en apoyo del poder. Pero el ama a su hermano
+
+Step 85/330
+>> Spanish - English
+	He was also sentenced shortly after the king's death, although Hassan had the courage to support his kingdom in support of power. But he loves his brother
+
+Step 86/330
+>> English - Mongolian
+	Хасаныг хаан нас барснаас хойш удалгүй ялласан боловч Хассан хүчийг нь дэмжиж хаант улсаа дэмжих зоригтой байсан. Гэхдээ тэр ахдаа хайртай
+
+Step 87/330
+>> Mongolian - Spanish
+	Pronto fue demandado después de la muerte del rey, pero tuvo el coraje de apoyar el poder de Hassan. Pero el ama a su hermano
+
+Step 88/330
+>> Spanish - Arabic
+	سرعان ما تم رفع دعوى ضده بعد وفاة الملك ، ولكن كان لديه الشجاعة لدعم قوة حسن. لكنه يحب شقيقه
+
+Step 89/330
+>> Arabic - Kurdish
+	Ew di demek kurt de piştî mirina padîşah hate dadgeh kirin, lê wê cesaret heye ku piştgiriya hêza Hesen bike. Lê ew ji birayê xwe hez dike
+
+Step 90/330
+>> Kurdish - English
+	She was put on trial shortly after the king's death, but has the courage to back Hassan's power. But he loves his brother
+
+Step 91/330
+>> English - Dutch
+	Ze werd berecht kort na de dood van de koning, maar heeft de moed om Hassan's macht te steunen. Maar hij houdt van zijn broer
+
+Step 92/330
+>> Dutch - English
+	She was tried shortly after the king's death, but has the courage to support Hassan's power. But he loves his brother
+
+Step 93/330
+>> English - Samoan
+	Na tofotofoina o ia i le taimi lava na maliu ai le tupu, ae ia te ia le lototele e lagolago ai le malosi o Hassan. Ae e alofa o ia i lona tuagane
+
+Step 94/330
+>> Samoan - Uzbek
+	U podshohning vafotidan so'ng darhol sudga tortildi, ammo Hassanning kuchini qo'llab-quvvatlashga jasorat ko'rsatdi. Ammo u akasini yaxshi ko'radi
+
+Step 95/330
+>> Uzbek - English
+	He was put on trial immediately after the king's death, but he had the courage to support Hassan's power. But she loves her brother
+
+Step 96/330
+>> English - Arabic
+	تم تقديمه للمحاكمة بعد وفاة الملك مباشرة ، ولكن كان لديه الشجاعة لدعم سلطة حسن. لكنها تحب شقيقها
+
+Step 97/330
+>> Arabic - French
+	Il fut jugé peu de temps après la mort du roi, mais il eut le courage de défendre l'autorité de Hassan. Mais elle aime son frère
+
+Step 98/330
+>> French - Spanish
+	Fue juzgado poco después de la muerte del rey, pero tuvo el coraje de defender la autoridad de Hassan. Pero ella ama a su hermano
+
+Step 99/330
+>> Spanish - Romanian
+	El a fost judecat la scurt timp după moartea regelui, dar a avut curajul să apere autoritatea lui Hassan. Dar iubește fratele ei
+
+Step 100/330
+>> Romanian - Filipino
+	Siya ay sinubukan sa ilang sandali pagkamatay ng hari, ngunit siya ay may lakas ng loob na ipagtanggol ang awtoridad ni Hassan. Ngunit mahal niya ang kanyang kapatid
+
+Step 101/330
+>> Filipino - Zulu
+	Wazama ukuqulwa nje ngemuva kokushona kwenkosi, kepha waba nesibindi sokuvikela igunya likaHasry. Kepha wayemthanda umfowabo
+
+Step 102/330
+>> Zulu - Arabic
+	حاول أن يحاكم بعد وقت قصير من وفاة الملك ، لكنه كان لديه الشجاعة للدفاع عن سلطة حسري. لكنه أحب شقيقه
+
+Step 103/330
+>> Arabic - Indonesian
+	Dia mencoba diadili tak lama setelah kematian raja, tetapi dia berani mempertahankan otoritas Husri. Tapi dia mencintai saudaranya
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Anh ta đã cố gắng để được xét xử ngay sau cái chết của nhà vua, nhưng anh ta dám bảo vệ quyền lực của Husri. Nhưng anh yêu anh trai mình.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Intentó ser juzgado justo después de la muerte del rey, pero se atrevió a defender el poder de Husri. Pero él amaba a su hermano.
+
+Step 106/330
+>> Spanish - Arabic
+	حاول أن يحاكم بعد وفاة الملك ، لكنه تجرأ على الدفاع عن سلطة الحصري. لكنه أحب شقيقه.
+
+Step 107/330
+>> Arabic - Spanish
+	Intentó ser juzgado después de la muerte del rey, pero se atrevió a defender la autoridad exclusiva. Pero él amaba a su hermano.
+
+Step 108/330
+>> Spanish - Russian
+	Он пытался предстать перед судом после смерти короля, но осмелился защищать исключительную власть. Но он любил своего брата.
+
+Step 109/330
+>> Russian - Arabic
+	حاول المثول أمام المحكمة بعد وفاة الملك ، لكنه تجرأ على الدفاع عن السلطة الحصرية. لكنه أحب شقيقه.
+
+Step 110/330
+>> Arabic - Spanish
+	Trató de comparecer ante el tribunal después de la muerte del rey, pero se atrevió a defender el poder exclusivo. Pero él amaba a su hermano.
+
+Step 111/330
+>> Spanish - Portuguese
+	Ele tentou comparecer perante a corte após a morte do rei, mas ousou defender o poder exclusivo. Mas ele amava o irmão.
+
+Step 112/330
+>> Portuguese - English
+	He tried to appear before the court after the king's death, but dared to defend exclusive power. But he loved his brother.
+
+Step 113/330
+>> English - Spanish
+	Trató de comparecer ante la corte después de la muerte del rey, pero se atrevió a defender el poder exclusivo. Pero él amaba a su hermano.
+
+Step 114/330
+>> Spanish - English
+	He tried to appear before the court after the death of the king, but dared to defend the exclusive power. But he loved his brother.
+
+Step 115/330
+>> English - Hindi
+	उसने राजा की मृत्यु के बाद अदालत में पेश होने की कोशिश की, लेकिन विशेष शक्ति का बचाव करने का साहस किया। लेकिन वह अपने भाई से प्यार करता था।
+
+Step 116/330
+>> Hindi - Portuguese
+	Ele tentou comparecer ao tribunal após a morte do rei, mas ousou defender o poder especial. Mas ele estava apaixonado por seu irmão.
+
+Step 117/330
+>> Portuguese - Spanish
+	Trató de comparecer ante el tribunal después de la muerte del rey, pero se atrevió a defender el poder especial. Pero él estaba enamorado de su hermano.
+
+Step 118/330
+>> Spanish - English
+	He tried to appear before the court after the death of the king, but dared to defend the special power. But he was in love with his brother.
+
+Step 119/330
+>> English - Bengali
+	তিনি রাজার মৃত্যুর পরে আদালতে হাজির হওয়ার চেষ্টা করেছিলেন, কিন্তু বিশেষ ক্ষমতা রক্ষার সাহস করেছিলেন। তবে সে তার ভাইয়ের প্রেমে পড়েছিল।
+
+Step 120/330
+>> Bengali - French
+	Il a tenté de comparaître devant le tribunal après la mort du roi, mais a osé défendre des pouvoirs spéciaux. Mais il est tombé amoureux de son frère.
+
+Step 121/330
+>> French - lao
+	ລາວພະຍາຍາມໄປປະກົດຕົວຢູ່ສານຫລັງຈາກກະສັດໄດ້ສິ້ນຊີວິດ, ແຕ່ບໍ່ກ້າທີ່ຈະປົກປ້ອງ ອຳ ນາດພິເສດ. ແຕ່ລາວຕົກຫລຸມຮັກອ້າຍຂອງລາວ.
+
+Step 122/330
+>> lao - English
+	He tried to appear before the king, but did not dare to defend his authority. But he fell in love with his brother.
+
+Step 123/330
+>> English - Portuguese
+	Ele tentou comparecer perante o rei, mas não se atreveu a defender sua autoridade. Mas ele se apaixonou por seu irmão.
+
+Step 124/330
+>> Portuguese - English
+	He tried to appear before the king, but did not dare to defend his authority. But he fell in love with his brother.
+
+Step 125/330
+>> English - Portuguese
+	Ele tentou comparecer perante o rei, mas não se atreveu a defender sua autoridade. Mas ele se apaixonou por seu irmão.
+
+Step 126/330
+>> Portuguese - English
+	He tried to appear before the king, but did not dare to defend his authority. But he fell in love with his brother.
+
+Step 127/330
+>> English - Portuguese
+	Ele tentou comparecer perante o rei, mas não se atreveu a defender sua autoridade. Mas ele se apaixonou por seu irmão.
+
+Step 128/330
+>> Portuguese - Burmese
+	သူဟာရှင်ဘုရင်ရှေ့တော်၌ပေါ်လာဖို့ကြိုးစားခဲ့ပေမယ့်သူတို့ရဲ့အခွင့်အာဏာကိုခုခံကာကွယ်ဖို့ဝံ့ကြဘူး။ ဒါပေမယ့်သူကသူ့အစ်ကိုနှင့်အတူမေတ္တာ၌ကျဆင်းခဲ့သည်။
+
+Step 129/330
+>> Burmese - Nepali
+	उहाँले राजा आफ्नो अधिकार रक्षा गर्न हिम्मत गरेनन् अघि देखा पर्न प्रयास हुनत। तर उहाँले आफ्नो भाइ संग प्रेम गरे।
+
+Step 130/330
+>> Nepali - Urdu
+	اگرچہ اس کی پیش کش کرنے سے پہلے ، بادشاہ سے اپنے حقوق کا دفاع کرنے کی ہمت نہیں تھی۔ لیکن اسے اپنے بھائی سے پیار ہوگیا۔
+
+Step 131/330
+>> Urdu - French
+	Avant de l'offrir, toutefois, le roi n'osa pas défendre ses droits. Mais il est tombé amoureux de son frère.
+
+Step 132/330
+>> French - English
+	Before offering it, however, the king did not dare defend his rights. But he fell in love with his brother.
+
+Step 133/330
+>> English - Swahili
+	Kabla ya kuitoa, hata hivyo, mfalme hakuthubutu kutetea haki zake. Lakini aliwapenda kaka yake.
+
+Step 134/330
+>> Swahili - Arabic
+	لكن قبل إصداره ، لم يجرؤ الملك على الدفاع عن حقوقه. لكنه أحب شقيقه.
+
+Step 135/330
+>> Arabic - Shona
+	Asi isati yasunungurwa, mambo haana kushinga kurwira kodzero yake. Asi aida hama yake.
+
+Step 136/330
+>> Shona - Hausa
+	Amma kafin fitowar sa, sarkin bai yi gwagwarmaya don neman hakkin sa ba. Amma ya ƙaunaci ɗan'uwansa.
+
+Step 137/330
+>> Hausa - Swahili
+	Lakini kabla ya kuondoka kwake, mfalme hakupigania haki yake. Lakini alimpenda kaka yake.
+
+Step 138/330
+>> Swahili - English
+	But before he left, the king did not fight for his right. But he loved his brother.
+
+Step 139/330
+>> English - Arabic
+	لكن قبل مغادرته ، لم يقاتل الملك من أجل يمينه. لكنه أحب شقيقه.
+
+Step 140/330
+>> Arabic - Malagasy
+	Saingy talohan'ny nandehanany dia tsy niady ho an'ny zony ny mpanjaka. Tiany anefa ny rahalahiny.
+
+Step 141/330
+>> Malagasy - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini alimpenda kaka yake.
+
+Step 142/330
+>> Swahili - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aimait son frère.
+
+Step 143/330
+>> French - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقه. لكنه أحب شقيقه.
+
+Step 144/330
+>> Arabic - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aimait son frère.
+
+Step 145/330
+>> French - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقه. لكنه أحب شقيقه.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Men, anvan yo kite, wa a pa t goumen pou dwa li. Men, li te renmen frè li.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	مګر د وتلو دمخه ، پاچا د خپلو حقونو لپاره مبارزه نه وه کړې. مګر هغه خپل ورور خوښ کړ.
+
+Step 148/330
+>> Pashto - French
+	Mais avant de partir, le roi ne s'est pas battu pour ses droits. Mais il aimait son frère.
+
+Step 149/330
+>> French - Chichewa
+	Koma asanachoke, mfumuyo sinamenyerere ufulu wake. Koma ankakonda m'bale wake.
+
+Step 150/330
+>> Chichewa - Arabic
+	لكن قبل مغادرته ، لم يحارب الملك من أجل حقوقه. لكنه أحب شقيقه.
+
+Step 151/330
+>> Arabic - Amharic
+	ግን ከመሄዱ በፊት ንጉ king ለመብቶቹ አልተዋጋም ፡፡ ግን ወንድሙን ይወዳል ፡፡
+
+Step 152/330
+>> Amharic - English
+	But before he left, the king did not fight for his rights. But he loves his brother.
+
+Step 153/330
+>> English - French
+	Mais avant de partir, le roi ne s'est pas battu pour ses droits. Mais il aime son frère.
+
+Step 154/330
+>> French - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini anapenda kaka yake.
+
+Step 155/330
+>> Swahili - Portuguese
+	Mas antes de partir, o rei não lutou por sua direita. Mas ele ama o irmão.
+
+Step 156/330
+>> Portuguese - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقه. لكنه يحب شقيقه.
+
+Step 157/330
+>> Arabic - Portuguese
+	Mas antes de partir, o rei não lutou por seu direito. Mas ele ama o irmão.
+
+Step 158/330
+>> Portuguese - English
+	But before leaving, the king did not fight for his right. But he loves his brother.
+
+Step 159/330
+>> English - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aime son frère.
+
+Step 160/330
+>> French - English
+	But before leaving, the king did not fight for his right. But he loves his brother.
+
+Step 161/330
+>> English - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini anapenda kaka yake.
+
+Step 162/330
+>> Swahili - Arabic
+	لكن قبل مغادرته ، لم يقاتل الملك من أجل يمينه. لكنه يحب شقيقه.
+
+Step 163/330
+>> Arabic - Arabic
+	But before he left, the king did not fight for his right. But he loves his brother.
+
+Step 164/330
+>> Arabic - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aime son frère.
+
+Step 165/330
+>> French - Hausa
+	Amma kafin ya tafi, sarki bai yi fada don neman hakkin sa ba. Amma yana ƙaunar ɗan'uwansa.
+
+Step 166/330
+>> Hausa - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aime son frère.
+
+Step 167/330
+>> French - Arabic
+	But before leaving, the king did not fight for his right. But he loves his brother.
+
+Step 168/330
+>> Arabic - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقه. لكنه يحب شقيقه.
+
+Step 169/330
+>> Arabic - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini anapenda kaka yake.
+
+Step 170/330
+>> Swahili - English
+	But before he left, the king did not fight for his right. But he loves his brother.
+
+Step 171/330
+>> English - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aime son frère.
+
+Step 172/330
+>> French - English
+	But before leaving, the king did not fight for his right. But he loves his brother.
+
+Step 173/330
+>> English - Portuguese
+	Mas antes de partir, o rei não lutou por seu direito. Mas ele ama o irmão.
+
+Step 174/330
+>> Portuguese - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقه. لكنه يحب شقيقه.
+
+Step 175/330
+>> Arabic - Portuguese
+	Mas antes de partir, o rei não lutou por seu direito. Mas ele ama o irmão.
+
+Step 176/330
+>> Portuguese - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini anapenda kaka yake.
+
+Step 177/330
+>> Swahili - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aime son frère.
+
+Step 178/330
+>> French - English
+	But before leaving, the king did not fight for his right. But he loves his brother.
+
+Step 179/330
+>> English - Amharic
+	ግን ከመሄዱ በፊት ንጉሱ ለእራሱ መብት አልተዋጋም ፡፡ ወንድሙን ግን ይወዳል ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	لكن قبل مغادرته ، لم يحارب الملك من أجل حقوقه. لكنه يحب شقيقه.
+
+Step 181/330
+>> Arabic - Chichewa
+	Koma asanachoke, mfumuyo sinamenyerere ufulu wake. Koma amakonda m'bale wake.
+
+Step 182/330
+>> Chichewa - French
+	Mais avant de partir, le roi ne s'est pas battu pour ses droits. Mais il aime son frère.
+
+Step 183/330
+>> French - Pashto
+	مګر د وتلو دمخه ، پاچا د خپلو حقونو لپاره مبارزه نه وه کړې. مګر هغه خپل ورور خوښوي.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Men, anvan yo kite, wa a pa t 'goumen pou dwa li yo. Men, li renmen frè l 'yo.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقوقه. لكنه يحب اخوته.
+
+Step 186/330
+>> Arabic - French
+	Mais avant de partir, le roi ne s'est pas battu pour ses droits. Mais il aime ses frères.
+
+Step 187/330
+>> French - Arabic
+	لكن قبل المغادرة ، لم يحارب الملك من أجل حقوقه. لكنه يحب اخوته.
+
+Step 188/330
+>> Arabic - French
+	Mais avant de partir, le roi ne s'est pas battu pour ses droits. Mais il aime ses frères.
+
+Step 189/330
+>> French - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini anapenda kaka zake.
+
+Step 190/330
+>> Swahili - Malagasy
+	Saingy talohan'ny nandehanany dia tsy niady ho an'ny zony ny mpanjaka. Tiany anefa ireo rahalahiny.
+
+Step 191/330
+>> Malagasy - Arabic
+	لكن قبل مغادرته ، لم يحارب الملك من أجل حقوقه. لكنه أحب إخوته.
+
+Step 192/330
+>> Arabic - English
+	But before he left, the king did not fight for his rights. But he loved his brothers.
+
+Step 193/330
+>> English - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini aliwapenda ndugu zake.
+
+Step 194/330
+>> Swahili - Hausa
+	Amma kafin ya tafi, sarki bai yi fada don neman hakkin sa ba. Amma ya ƙaunaci 'yan'uwansa.
+
+Step 195/330
+>> Hausa - Shona
+	Asi asati aenda, mambo haana kurwira kodzero yake. Asi aida hama dzake.
+
+Step 196/330
+>> Shona - Arabic
+	لكن قبل مغادرته ، لم يقاتل الملك من أجل يمينه. لكنه أحب إخوته.
+
+Step 197/330
+>> Arabic - Swahili
+	Lakini kabla ya kuondoka, mfalme hakupigania haki yake. Lakini aliwapenda ndugu zake.
+
+Step 198/330
+>> Swahili - English
+	But before he left, the king did not fight for his right. But he loved his brothers.
+
+Step 199/330
+>> English - French
+	Mais avant de partir, le roi ne s'est pas battu pour sa droite. Mais il aimait ses frères.
+
+Step 200/330
+>> French - Urdu
+	لیکن جانے سے پہلے ، بادشاہ نے اپنے حق کے لئے جنگ نہیں کی۔ لیکن وہ اپنے بھائیوں سے پیار کرتا تھا۔
+
+Step 201/330
+>> Urdu - Nepali
+	तर उनी जानु भन्दा अघि राजाले आफ्नो हकका लागि स fight्घर्ष गरेनन्। तर उसले आफ्ना भाइहरूलाई माया गर्‍यो।
+
+Step 202/330
+>> Nepali - Burmese
+	သို့သော်မတိုင်မီသူကို C gharsa ဘူးတိုက်ခြင်းမှလက်ျာဘက်ရှင်ဘုရင်၏မြို့သို့သွား၏။ ဒါပေမယ့်သူကသူ့အစ်ကိုတွေကိုချစ်ကိုပြု၏။
+
+Step 203/330
+>> Burmese - Portuguese
+	No entanto, antes do gharsa C foi para a mão direita do rei. Mas ele amava seus irmãos.
+
+Step 204/330
+>> Portuguese - English
+	However, before the gharsa C went to the right hand of the king. But he loved his brothers.
+
+Step 205/330
+>> English - Portuguese
+	No entanto, antes que o gharsa C fosse para a mão direita do rei. Mas ele amava seus irmãos.
+
+Step 206/330
+>> Portuguese - English
+	However, before Gharsa C went to the king's right hand. But he loved his brothers.
+
+Step 207/330
+>> English - Portuguese
+	No entanto, antes de Gharsa C ir para a mão direita do rei. Mas ele amava seus irmãos.
+
+Step 208/330
+>> Portuguese - English
+	However, before Gharsa C went to the king's right hand. But he loved his brothers.
+
+Step 209/330
+>> English - lao
+	ເຖິງຢ່າງໃດກໍ່ຕາມ, ກ່ອນທີ່ Gharsa C ໄປມືຂວາຂອງກະສັດ. ແຕ່ລາວຮັກອ້າຍລາວ.
+
+Step 210/330
+>> lao - French
+	Cependant, avant que Gharsa C ne se rende à la droite du roi. Mais il aime son frère.
+
+Step 211/330
+>> French - Bengali
+	তবে ঘরসা সি এর আগে রাজার ডানদিকে যায়। তবে সে তার ভাইকে ভালবাসে।
+
+Step 212/330
+>> Bengali - English
+	However, Ghorsea goes to the king's right before C. But he loves his brother.
+
+Step 213/330
+>> English - Spanish
+	Sin embargo, Ghorsea va a la derecha del rey antes de C. Pero él ama a su hermano.
+
+Step 214/330
+>> Spanish - Portuguese
+	No entanto, Ghorsea vai à direita do rei antes de C. Mas ele ama seu irmão.
+
+Step 215/330
+>> Portuguese - Hindi
+	हालाँकि, घोरसिया सी। से पहले राजा के अधिकार में जाता है लेकिन वह अपने भाई से प्यार करता है।
+
+Step 216/330
+>> Hindi - English
+	However, Ghoresia c. Before goes to the king's authority but he falls in love with his brother.
+
+Step 217/330
+>> English - Spanish
+	Sin embargo, la ghoresia c. Antes va a la autoridad del rey pero se enamora de su hermano.
+
+Step 218/330
+>> Spanish - English
+	However, ghoresia c. Before he goes to the authority of the king but falls in love with his brother.
+
+Step 219/330
+>> English - Portuguese
+	No entanto, ghoresia c. Antes que ele vá à autoridade do rei, mas se apaixona por seu irmão.
+
+Step 220/330
+>> Portuguese - Spanish
+	Sin embargo, la ghoresia c. Antes de ir a la autoridad del rey, pero se enamora de su hermano.
+
+Step 221/330
+>> Spanish - Arabic
+	ومع ذلك ، غوريسيا ج. قبل الذهاب إلى سلطة الملك ، ولكن يقع في حب أخيه.
+
+Step 222/330
+>> Arabic - Russian
+	Тем не менее, Гориция c. Прежде чем перейти к власти короля, но влюбляется в его брата.
+
+Step 223/330
+>> Russian - Spanish
+	Sin embargo, Gorizia c. Antes de pasar al poder del rey, se enamora de su hermano.
+
+Step 224/330
+>> Spanish - Arabic
+	ومع ذلك ، غوريزيا ج. قبل الذهاب إلى سلطة الملك ، يقع في حب أخيه.
+
+Step 225/330
+>> Arabic - Spanish
+	Sin embargo, Gorizia c. Antes de ir a la autoridad del rey, se enamora de su hermano.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Tuy nhiên, Gorizia c. Trước khi đến nhà vua, anh ta phải lòng anh trai mình.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Namun, Gorizia c. Sebelum pergi ke raja, dia naksir kakaknya.
+
+Step 228/330
+>> Indonesian - Arabic
+	ومع ذلك ، غوريزيا ج. قبل الذهاب إلى الملك ، لديه سحق على أخيه.
+
+Step 229/330
+>> Arabic - Zulu
+	Noma kunjalo, iGorizia c. Ngaphambi kokuthi aye enkosini, wayecindezelwa umfowabo.
+
+Step 230/330
+>> Zulu - Filipino
+	Gayunpaman, Gorizia c. Bago siya pumunta sa hari, pinilit siya ng kanyang kapatid.
+
+Step 231/330
+>> Filipino - Romanian
+	Cu toate acestea, Gorizia c. Înainte de a putea merge la rege, fratele său l-a forțat.
+
+Step 232/330
+>> Romanian - Spanish
+	Sin embargo, Gorizia v. Antes de poder ir al rey, su hermano lo obligó.
+
+Step 233/330
+>> Spanish - French
+	Cependant, Gorizia v. Avant de pouvoir aller voir le roi, son frère le força.
+
+Step 234/330
+>> French - Arabic
+	ومع ذلك ، غوريزيا ج. قبل أن يتمكن من الذهاب لرؤية الملك ، أجبره أخوه.
+
+Step 235/330
+>> Arabic - English
+	However, Gorizia c. Before he could go see the king, his brother forced him.
+
+Step 236/330
+>> English - Uzbek
+	Biroq, Goriziya v. U shohni ko'rishga borishdan oldin, ukasi uni majburlagan.
+
+Step 237/330
+>> Uzbek - Samoan
+	Peitai, Goriziya c. Na faamalosia o ia e lona uso ao le i alu e vaai i le tupu.
+
+Step 238/330
+>> Samoan - English
+	However, Goriziya c. His brother strengthened him before going to see the king.
+
+Step 239/330
+>> English - Dutch
+	Goriziya c. Zijn broer versterkte hem voordat hij de koning ging bezoeken.
+
+Step 240/330
+>> Dutch - English
+	Goriziya c. His brother fortified him before he went to visit the king.
+
+Step 241/330
+>> English - Kurdish
+	Goriziya c. Berê wî birayê wî zexm kir pêşî ku çû cem padîşah.
+
+Step 242/330
+>> Kurdish - Arabic
+	غوريزيا ج. في وقت سابق ، جعل شقيقه من الصعب عليه أن يذهب إلى الملك.
+
+Step 243/330
+>> Arabic - Spanish
+	Gorizia G. Anteriormente, su hermano le dificultaba ir al rey.
+
+Step 244/330
+>> Spanish - Mongolian
+	Горизия Г. Өмнө нь дүү нь түүнийг хаан дээр очиход хэцүү байсан.
+
+Step 245/330
+>> Mongolian - English
+	Горизия Г. He had previously had a brother to go to the king.
+
+Step 246/330
+>> English - Spanish
+	Горизия Г. Anteriormente había tenido un hermano para ir al rey.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Горизія Г. Раніше він мав брата, щоб поїхати до короля.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Gorizia G. Solía tener un hermano para ir al rey.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	戈里齐亚G.我曾经有一个兄弟去国王。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	غوريزيا ج. اعتدت أن يكون لدي أخ لأذهب إلى الملك.
+
+Step 251/330
+>> Arabic - Thai
+	กอริเซียค. ฉันเคยมีพี่ชายคนหนึ่งไปหาราชา
+
+Step 252/330
+>> Thai - Armenian
+	Գորիզիա C. Ես նախկինում ունեի եղբայր ՝ տեսնելու թագավորին:
+
+Step 253/330
+>> Armenian - Macedonian
+	Гориција Ц. Јас претходно имав брат да го видам кралот.
+
+Step 254/330
+>> Macedonian - Arabic
+	غوريزيا ف. كان لدي أخ قبل أن أرى الملك.
+
+Step 255/330
+>> Arabic - Portuguese
+	Gorizia F. Eu tinha um irmão antes de ver o rei.
+
+Step 256/330
+>> Portuguese - Spanish
+	Gorizia F. Tenía un hermano antes de ver al rey.
+
+Step 257/330
+>> Spanish - Bosnian
+	Gorica F. Imao je brata prije nego što je vidio kralja.
+
+Step 258/330
+>> Bosnian - Sinhala
+	ගෝරිකා එෆ්. රජු දැකීමට පෙර ඔහුට සහෝදරයෙක් සිටියේය.
+
+Step 259/330
+>> Sinhala - English
+	Gorica F. Before he could see the king, he had a brother.
+
+Step 260/330
+>> English - Spanish
+	Gorica F. Antes de poder ver al rey, tenía un hermano.
+
+Step 261/330
+>> Spanish - English
+	Gorica F. Before he could see the king, he had a brother.
+
+Step 262/330
+>> English - Georgian
+	გორიკა ფ. სანამ მეფეს დაინახავდა, ძმა ჰყავდა.
+
+Step 263/330
+>> Georgian - English
+	Gorika F. Before the king saw him, he had a brother.
+
+Step 264/330
+>> English - Albanian
+	Gorika F. Para se ta shikonte mbreti, ai kishte një vëlla.
+
+Step 265/330
+>> Albanian - Serbian
+	Горика Ф. Пре него што га је краљ погледао, имао је брата.
+
+Step 266/330
+>> Serbian - Spanish
+	Gorika F. Antes de que el rey lo mirara, tenía un hermano.
+
+Step 267/330
+>> Spanish - English
+	Gorika F. Before the king looked at him, he had a brother.
+
+Step 268/330
+>> English - Turkish
+	Gorika F. Kral ona bakmadan önce bir kardeşi vardı.
+
+Step 269/330
+>> Turkish - Spanish
+	Gorika F. tenía un hermano antes de que King lo mirara.
+
+Step 270/330
+>> Spanish - French
+	Gorika F. avait un frère avant que King ne le regarde.
+
+Step 271/330
+>> French - English
+	Gorika F. had a brother before King looked at him.
+
+Step 272/330
+>> English - Persian
+	قبل از اینکه کینگ به او نگاه کند ، Gorika F. یک برادر داشت.
+
+Step 273/330
+>> Persian - Kazakh
+	Кинг оған қарамағанша, Горика Ф.дың ағасы болған.
+
+Step 274/330
+>> Kazakh - English
+	Until King did not look at him, Gorica was the brother of F..
+
+Step 275/330
+>> English - Malay
+	Sehingga Raja tidak melihatnya, Gorica adalah abang F ..
+
+Step 276/330
+>> Malay - Arabic
+	لذلك الملك لا يراه ، غوريكا هو واو
+
+Step 277/330
+>> Arabic - Spanish
+	Entonces el rey no lo ve, Gorica es Wow
+
+Step 278/330
+>> Spanish - English
+	So the king doesn't see it, Gorica is Wow
+
+Step 279/330
+>> English - Russian
+	Так что король не видит этого, Горица - это Вау
+
+Step 280/330
+>> Russian - Romanian
+	Deci regele nu vede asta, Goritsa este Wow
+
+Step 281/330
+>> Romanian - Bulgarian
+	Така че царят не вижда това, Горица е Уау
+
+Step 282/330
+>> Bulgarian - Albanian
+	Kështu që mbreti nuk e sheh këtë, Gorizia është Wow
+
+Step 283/330
+>> Albanian - Russian
+	Так что король не видит этого, Гориция - это Вау
+
+Step 284/330
+>> Russian - Arabic
+	لذلك الملك لا يرى ذلك ، غوريزيا واو
+
+Step 285/330
+>> Arabic - Spanish
+	Entonces el rey no lo vio, F. Gorizia
+
+Step 286/330
+>> Spanish - Croatian
+	Tada ga kralj nije vidio, F. Gorica
+
+Step 287/330
+>> Croatian - Hungarian
+	Akkor a király nem látta őt, F. Goricát
+
+Step 288/330
+>> Hungarian - Spanish
+	Entonces el rey no lo vio, F. Gorica
+
+Step 289/330
+>> Spanish - Arabic
+	ثم لم يره الملك ف. غوريكا
+
+Step 290/330
+>> Arabic - Portuguese
+	Então o rei não o viu. Gorica
+
+Step 291/330
+>> Portuguese - Latvian
+	Tad ķēniņš viņu neredzēja. Gorica
+
+Step 292/330
+>> Latvian - Arabic
+	فلم يره الملك. جوريكا
+
+Step 293/330
+>> Arabic - Malay
+	Dan raja tidak melihatnya. Gorica
+
+Step 294/330
+>> Malay - Slovak
+	A kráľ to nevidel. Gorica
+
+Step 295/330
+>> Slovak - Arabic
+	ولم ير الملك ذلك. جوريكا
+
+Step 296/330
+>> Arabic - Lithuanian
+	Karalius to nematė. Gorica
+
+Step 297/330
+>> Lithuanian - Catalan
+	El rei no ho va veure. Gorica
+
+Step 298/330
+>> Catalan - Arabic
+	لم يرها الملك. جوريكا
+
+Step 299/330
+>> Arabic - Polish
+	Król jej nie widział. Gorica
+
+Step 300/330
+>> Polish - Turkish
+	Kral onu görmedi. Gorica
+
+Step 301/330
+>> Turkish - Greek
+	Ο βασιλιάς δεν τον είδε. Gorica
+
+Step 302/330
+>> Greek - Estonian
+	Kuningas teda ei näinud. Gorica
+
+Step 303/330
+>> Estonian - Maltese
+	Ir-re ma rahx. Gorica
+
+Step 304/330
+>> Maltese - Italian
+	Il re con rahx. Gorica
+
+Step 305/330
+>> Italian - Czech
+	Král s rahxem. Gorica
+
+Step 306/330
+>> Czech - Spanish
+	Rey con rahx. Gorica
+
+Step 307/330
+>> Spanish - Slovenian
+	Kralj z rahxom. Gorica
+
+Step 308/330
+>> Slovenian - French
+	Roi avec Rahx. Gorica
+
+Step 309/330
+>> French - Korean
+	Rahx와 왕. 고리 차
+
+Step 310/330
+>> Korean - Hebrew
+	רחקס והמלך. מכונית טבעת
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Rex an de Kinnek. Ring Auto
+
+Step 312/330
+>> Luxembourgish - German
+	Rex und der König. Rufen Sie Auto auf
+
+Step 313/330
+>> German - Japanese
+	レックスと王。車に電話する
+
+Step 314/330
+>> Japanese - German
+	Rex und der König. Ruf das Auto an
+
+Step 315/330
+>> German - Dutch
+	Rex en de koning. Bel de auto
+
+Step 316/330
+>> Dutch - Maori
+	Rex me te kingi. Karangahia te motokā
+
+Step 317/330
+>> Maori - Finnish
+	Rex ja kuningas. Soita autolle
+
+Step 318/330
+>> Finnish - English
+	Rex and the king. Call the car
+
+Step 319/330
+>> English - Danish
+	Rex og kongen. Ring til bilen
+
+Step 320/330
+>> Danish - Dutch
+	Rex en de koning. Bel de auto
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	雷克斯和國王。打電話給車
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Rex och kungen. Ring bilen
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	雷克斯和國王。打電話給車
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Rex og konungurinn. Hringdu í bílinn
+
+Step 325/330
+>> Icelandic - German
+	Rex und der König. Ruf das Auto an
+
+Step 326/330
+>> German - Irish
+	Rex agus an rí. Cuir glaoch ar an gcarr
+
+Step 327/330
+>> Irish - English
+	Rex and the king. Call the car
+
+Step 328/330
+>> English - German
+	Rex und der König. Ruf das Auto an
+
+Step 329/330
+>> German - Norwegian
+	Rex og kongen. Ring bilen
+
+Step 330/330
+>> Norwegian - Portuguese
+	Rex e o rei. Ligue para o carro
+
+
+##### RESULTS ######
+
+Após um reinado tão longo quão glorioso, morreu o rei, e Chahriar subiu ao trono. Chahzenã, excluído de qualquer direito pelas leis do império, e obrigado a viver como particular, em vez de invejar a felicidade do irmão, cuidou diligentemente de lhe agradar.
+
+Rex e o rei. Ligue para o carro

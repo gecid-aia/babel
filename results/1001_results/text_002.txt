@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O rei da Tartária recebeu-o com grandes demonstrações de júbilo e pediu-lhe, em primeiro lugar, novas do sultão.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Kongen av tannsten mottok ham med store uttrykk for glede og ba ham først om nyheter fra sultanen.
+
+Step 2/330
+>> Norwegian - German
+	Der König von Tartar empfing ihn mit großer Freude und bat ihn zuerst um Neuigkeiten vom Sultan.
+
+Step 3/330
+>> German - English
+	The king of Tartar received him with great joy and first asked him for news of the sultan.
+
+Step 4/330
+>> English - Irish
+	Fuair rí Tartar an-áthas air agus d’iarr sé air an nuacht a fháil ar an mbreacán.
+
+Step 5/330
+>> Irish - German
+	Der König von Tartar war sehr erfreut und bat ihn, die Nachricht über den Mohn zu erfahren.
+
+Step 6/330
+>> German - Icelandic
+	Tartar konungur var mjög ánægður og bað hann að heyra fréttirnar um Poppann.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	韃靼國王非常高興，並請他聽聽有關Poppan的消息。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Kungen är väldigt glad och ber honom höra om Poppan.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	國王非常高興並要求他聽聽Poppan的消息。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	De koning was erg blij en vroeg hem te horen over Poppan.
+
+Step 11/330
+>> Dutch - Danish
+	Kongen var meget glad og bad om at høre om Poppan.
+
+Step 12/330
+>> Danish - English
+	The king was very happy and asked to hear about Poppan.
+
+Step 13/330
+>> English - Finnish
+	Kuningas oli erittäin onnellinen ja pyysi kuulemaan Poppanista.
+
+Step 14/330
+>> Finnish - Maori
+	I tino hari te kingi, ka tono ki te rongo mo Poppan.
+
+Step 15/330
+>> Maori - Dutch
+	De koning was dolblij en vroeg om over Poppan te horen.
+
+Step 16/330
+>> Dutch - German
+	Der König war überglücklich und fragte nach Poppan.
+
+Step 17/330
+>> German - Japanese
+	王様は大喜びでポッパンを求めました。
+
+Step 18/330
+>> Japanese - German
+	Der König forderte Poppan mit großer Freude.
+
+Step 19/330
+>> German - Luxembourgish
+	De Kinnek huet de Poppan mat grousser Freed erausgefuerdert.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	המלך אתגר את הפופן בהנאה רבה.
+
+Step 21/330
+>> Hebrew - Korean
+	왕은 큰 기쁨으로 퍼핀에게 도전했습니다.
+
+Step 22/330
+>> Korean - French
+	Le roi a défié Macareux avec une grande joie.
+
+Step 23/330
+>> French - Slovenian
+	Kralj je izzval Puffina z velikim veseljem.
+
+Step 24/330
+>> Slovenian - Spanish
+	El rey desafió a Puffin con gran alegría.
+
+Step 25/330
+>> Spanish - Czech
+	Král vyzval Puffina s velkou radostí.
+
+Step 26/330
+>> Czech - Italian
+	Il re sfidò Puffin con grande gioia.
+
+Step 27/330
+>> Italian - Maltese
+	Ir-re sfida lil Puffin b'ferħ kbir.
+
+Step 28/330
+>> Maltese - Estonian
+	Kuningas väljakutse Puffini suurt rõõmu.
+
+Step 29/330
+>> Estonian - Greek
+	King Challenge Puffin με μεγάλη χαρά.
+
+Step 30/330
+>> Greek - Turkish
+	Kral Challenge Puffin büyük sevinçle.
+
+Step 31/330
+>> Turkish - Polish
+	Maskonur King Challenge z wielką radością.
+
+Step 32/330
+>> Polish - Arabic
+	ملك تحدي البفن بفرح عظيم.
+
+Step 33/330
+>> Arabic - Catalan
+	Desafia el rei Puffin amb molta alegria.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Karalius Puffinas meta jam iššūkį su dideliu džiaugsmu.
+
+Step 35/330
+>> Lithuanian - Arabic
+	الملك بفن يتحداه بفرح عظيم.
+
+Step 36/330
+>> Arabic - Slovak
+	Kráľ s umením ho vzdoruje s veľkou radosťou.
+
+Step 37/330
+>> Slovak - Malay
+	Raja Seni menentangnya dengan kegembiraan yang besar.
+
+Step 38/330
+>> Malay - Arabic
+	عارض ملك الفن ذلك بفرح عظيم.
+
+Step 39/330
+>> Arabic - Latvian
+	Mākslas karalis pret to iebilda ar lielu prieku.
+
+Step 40/330
+>> Latvian - Portuguese
+	O rei da arte se opôs com grande alegria.
+
+Step 41/330
+>> Portuguese - Arabic
+	ملك الفن معارض بفرح عظيم.
+
+Step 42/330
+>> Arabic - Spanish
+	El rey del arte muestra con gran alegría.
+
+Step 43/330
+>> Spanish - Hungarian
+	A művészet királya nagy örömmel mutatja be.
+
+Step 44/330
+>> Hungarian - Croatian
+	Kralj umjetnosti to rado prezentira.
+
+Step 45/330
+>> Croatian - Spanish
+	El Rey del Arte se complace en presentar esto.
+
+Step 46/330
+>> Spanish - Arabic
+	يسر ملك الفن أن يقدم هذا.
+
+Step 47/330
+>> Arabic - Russian
+	Король искусства рад предложить это.
+
+Step 48/330
+>> Russian - Albanian
+	Mbreti i artit është i lumtur që e ofron këtë.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Кралят на изкуството с удоволствие предлага това.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Regele Artei este încântat să ofere acest lucru.
+
+Step 51/330
+>> Romanian - Russian
+	Король искусства рад предложить это.
+
+Step 52/330
+>> Russian - English
+	The king of art is pleased to offer this.
+
+Step 53/330
+>> English - Spanish
+	El rey del arte se complace en ofrecer esto.
+
+Step 54/330
+>> Spanish - Arabic
+	يسر ملك الفن أن يقدم هذا.
+
+Step 55/330
+>> Arabic - Malay
+	Raja Seni dengan sukacitanya menawarkan ini.
+
+Step 56/330
+>> Malay - English
+	The King of Art is pleased to offer this.
+
+Step 57/330
+>> English - Kazakh
+	Өнер королі мұны ұсынуға қуанышты.
+
+Step 58/330
+>> Kazakh - Persian
+	آرت کینگ از ارائه آن خوشحال است.
+
+Step 59/330
+>> Persian - English
+	Art King is happy to present it.
+
+Step 60/330
+>> English - French
+	Art King est heureux de le présenter.
+
+Step 61/330
+>> French - Spanish
+	Art King se complace en presentarlo.
+
+Step 62/330
+>> Spanish - Turkish
+	Sanat Kralı sunmaktan mutluluk duyar.
+
+Step 63/330
+>> Turkish - English
+	The King of Arts is pleased to present.
+
+Step 64/330
+>> English - Spanish
+	El Rey de las Artes se complace en presentar.
+
+Step 65/330
+>> Spanish - Serbian
+	Краљ уметности са задовољством представља.
+
+Step 66/330
+>> Serbian - Albanian
+	Mbreti i Artit është i kënaqur të paraqesë.
+
+Step 67/330
+>> Albanian - English
+	The King of Art is pleased to present.
+
+Step 68/330
+>> English - Georgian
+	ხელოვნების მეფე სიამოვნებით წარმოგიდგენთ.
+
+Step 69/330
+>> Georgian - English
+	The King of Arts is pleased to present you.
+
+Step 70/330
+>> English - Spanish
+	El Rey de las Artes se complace en presentarte.
+
+Step 71/330
+>> Spanish - English
+	The King of the Arts is pleased to introduce you.
+
+Step 72/330
+>> English - Sinhala
+	ඔබව හඳුන්වා දීමට කලා රජු සතුටු වේ.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Art King sa zadovoljstvom vas predstavlja.
+
+Step 74/330
+>> Bosnian - Spanish
+	Art King se complace en presentarte.
+
+Step 75/330
+>> Spanish - Portuguese
+	Art King tem o prazer de apresentá-lo.
+
+Step 76/330
+>> Portuguese - Arabic
+	يسر آرت كينج أن يعرضك.
+
+Step 77/330
+>> Arabic - Macedonian
+	Арт Кинг е задоволство да ви понуди.
+
+Step 78/330
+>> Macedonian - Armenian
+	Art King- ը ուրախ է ձեզ առաջարկել:
+
+Step 79/330
+>> Armenian - Thai
+	อาร์ทคิงยินดีที่จะเสนอคุณ
+
+Step 80/330
+>> Thai - Arabic
+	يسر آرت كينج أن يقدم لك.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	Art King很高兴为您呈现。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Art King se complace en presentarlo.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Art King із задоволенням представляє його.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Art King se complace en presentarlo.
+
+Step 85/330
+>> Spanish - English
+	Art King is pleased to present it.
+
+Step 86/330
+>> English - Mongolian
+	Арт Кинг үүнийг толилуулж байгаадаа баяртай байна.
+
+Step 87/330
+>> Mongolian - Spanish
+	Art King se complace en presentarlo.
+
+Step 88/330
+>> Spanish - Arabic
+	يسر آرت كينج أن يقدمها.
+
+Step 89/330
+>> Arabic - Kurdish
+	King King kêfxweş e ku ew pêşkêş dike.
+
+Step 90/330
+>> Kurdish - English
+	The King is pleased to offer it.
+
+Step 91/330
+>> English - Dutch
+	De koning biedt het graag aan.
+
+Step 92/330
+>> Dutch - English
+	The king is happy to offer it.
+
+Step 93/330
+>> English - Samoan
+	E fiafia le tupu e ofoina atu.
+
+Step 94/330
+>> Samoan - Uzbek
+	Podshoh buni taklif qilishdan mamnun.
+
+Step 95/330
+>> Uzbek - English
+	The king is pleased to offer it.
+
+Step 96/330
+>> English - Arabic
+	يسر الملك أن يقدمها.
+
+Step 97/330
+>> Arabic - French
+	Le roi est heureux de le présenter.
+
+Step 98/330
+>> French - Spanish
+	El rey está feliz de presentarlo.
+
+Step 99/330
+>> Spanish - Romanian
+	Regele este fericit să-l prezinte.
+
+Step 100/330
+>> Romanian - Filipino
+	Masaya na ipinakilala sa kanya ng hari.
+
+Step 101/330
+>> Filipino - Zulu
+	Inkosi yamazisa ngenjabulo.
+
+Step 102/330
+>> Zulu - Arabic
+	أعلن الملك بسرور.
+
+Step 103/330
+>> Arabic - Indonesian
+	Raja mengumumkan dengan senang hati.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Nhà vua vui mừng tuyên bố.
+
+Step 105/330
+>> Vietnamese - Spanish
+	El rey se regocijó.
+
+Step 106/330
+>> Spanish - Arabic
+	ابتهج الملك.
+
+Step 107/330
+>> Arabic - Spanish
+	El rey se regocijó.
+
+Step 108/330
+>> Spanish - Russian
+	Царь радовался.
+
+Step 109/330
+>> Russian - Arabic
+	ابتهج الملك.
+
+Step 110/330
+>> Arabic - Spanish
+	El rey se regocijó.
+
+Step 111/330
+>> Spanish - Portuguese
+	O rei se alegrou.
+
+Step 112/330
+>> Portuguese - English
+	The king rejoiced.
+
+Step 113/330
+>> English - Spanish
+	El rey se regocijó.
+
+Step 114/330
+>> Spanish - English
+	The king rejoiced.
+
+Step 115/330
+>> English - Hindi
+	राजा आनन्दित हुआ।
+
+Step 116/330
+>> Hindi - Portuguese
+	O rei se alegrou.
+
+Step 117/330
+>> Portuguese - Spanish
+	El rey se regocijó.
+
+Step 118/330
+>> Spanish - English
+	The king rejoiced.
+
+Step 119/330
+>> English - Bengali
+	রাজা আনন্দ করল।
+
+Step 120/330
+>> Bengali - French
+	Le roi se réjouit.
+
+Step 121/330
+>> French - lao
+	ກະສັດມີຄວາມປິຕິຍິນດີ.
+
+Step 122/330
+>> lao - English
+	The king rejoices.
+
+Step 123/330
+>> English - Portuguese
+	O rei se alegra.
+
+Step 124/330
+>> Portuguese - English
+	The king rejoices.
+
+Step 125/330
+>> English - Portuguese
+	O rei se alegra.
+
+Step 126/330
+>> Portuguese - English
+	The king rejoices.
+
+Step 127/330
+>> English - Portuguese
+	O rei se alegra.
+
+Step 128/330
+>> Portuguese - Burmese
+	ရှငျဘုရငျကိုဝမ်းမြောက်ခြင်းရှိ၏။
+
+Step 129/330
+>> Burmese - Nepali
+	राजा rejoices।
+
+Step 130/330
+>> Nepali - Urdu
+	بادشاہ خوش ہوا۔
+
+Step 131/330
+>> Urdu - French
+	Le roi était content.
+
+Step 132/330
+>> French - English
+	The king was happy.
+
+Step 133/330
+>> English - Swahili
+	Mfalme alifurahi.
+
+Step 134/330
+>> Swahili - Arabic
+	كان الملك سعيدا.
+
+Step 135/330
+>> Arabic - Shona
+	Mambo akafara.
+
+Step 136/330
+>> Shona - Hausa
+	Sarki ya yi murna.
+
+Step 137/330
+>> Hausa - Swahili
+	Mfalme anafurahi.
+
+Step 138/330
+>> Swahili - English
+	The king is happy.
+
+Step 139/330
+>> English - Arabic
+	الملك سعيد.
+
+Step 140/330
+>> Arabic - Malagasy
+	Sambatra Mpanjaka.
+
+Step 141/330
+>> Malagasy - Swahili
+	Furaha Mfalme.
+
+Step 142/330
+>> Swahili - French
+	Roi heureux
+
+Step 143/330
+>> French - Arabic
+	ملك سعيد
+
+Step 144/330
+>> Arabic - French
+	Roi heureux
+
+Step 145/330
+>> French - Arabic
+	ملك سعيد
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Kè kontan wa
+
+Step 147/330
+>> Haitian Creole - Pashto
+	مبارک پاچا
+
+Step 148/330
+>> Pashto - French
+	Roi heureux
+
+Step 149/330
+>> French - Chichewa
+	Mfumu yosangalala
+
+Step 150/330
+>> Chichewa - Arabic
+	الملك السعيد
+
+Step 151/330
+>> Arabic - Amharic
+	ደስተኛ ንጉስ።
+
+Step 152/330
+>> Amharic - English
+	Happy King.
+
+Step 153/330
+>> English - French
+	Roi heureux.
+
+Step 154/330
+>> French - Swahili
+	Furaha mfalme.
+
+Step 155/330
+>> Swahili - Portuguese
+	Rei feliz.
+
+Step 156/330
+>> Portuguese - Arabic
+	ملك سعيد.
+
+Step 157/330
+>> Arabic - Portuguese
+	Rei feliz.
+
+Step 158/330
+>> Portuguese - English
+	Happy king.
+
+Step 159/330
+>> English - French
+	Roi heureux.
+
+Step 160/330
+>> French - English
+	Happy king.
+
+Step 161/330
+>> English - Swahili
+	Furaha mfalme.
+
+Step 162/330
+>> Swahili - Arabic
+	ملك سعيد.
+
+Step 163/330
+>> Arabic - Arabic
+	Happy King.
+
+Step 164/330
+>> Arabic - French
+	Roi heureux.
+
+Step 165/330
+>> French - Hausa
+	Sarki mai farin ciki.
+
+Step 166/330
+>> Hausa - French
+	Roi heureux
+
+Step 167/330
+>> French - Arabic
+	Happy king
+
+Step 168/330
+>> Arabic - Arabic
+	ملك سعيد
+
+Step 169/330
+>> Arabic - Swahili
+	Furaha Mfalme
+
+Step 170/330
+>> Swahili - English
+	Happy King
+
+Step 171/330
+>> English - French
+	Roi heureux
+
+Step 172/330
+>> French - English
+	Happy king
+
+Step 173/330
+>> English - Portuguese
+	Rei feliz
+
+Step 174/330
+>> Portuguese - Arabic
+	ملك سعيد
+
+Step 175/330
+>> Arabic - Portuguese
+	Rei feliz
+
+Step 176/330
+>> Portuguese - Swahili
+	Furaha mfalme
+
+Step 177/330
+>> Swahili - French
+	Roi heureux
+
+Step 178/330
+>> French - English
+	Happy king
+
+Step 179/330
+>> English - Amharic
+	መልካም ንጉስ።
+
+Step 180/330
+>> Amharic - Arabic
+	ملك جيد
+
+Step 181/330
+>> Arabic - Chichewa
+	Mfumu yabwino
+
+Step 182/330
+>> Chichewa - French
+	Bon roi
+
+Step 183/330
+>> French - Pashto
+	ښه پاچا
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Bon wa
+
+Step 185/330
+>> Haitian Creole - Arabic
+	ملك جيد
+
+Step 186/330
+>> Arabic - French
+	Bon roi
+
+Step 187/330
+>> French - Arabic
+	ملك جيد
+
+Step 188/330
+>> Arabic - French
+	Bon roi
+
+Step 189/330
+>> French - Swahili
+	Mfalme mzuri
+
+Step 190/330
+>> Swahili - Malagasy
+	Mpanjaka tsara
+
+Step 191/330
+>> Malagasy - Arabic
+	ملك جيد
+
+Step 192/330
+>> Arabic - English
+	Good king
+
+Step 193/330
+>> English - Swahili
+	Mfalme mzuri
+
+Step 194/330
+>> Swahili - Hausa
+	Sarki nagari
+
+Step 195/330
+>> Hausa - Shona
+	Mambo akanaka
+
+Step 196/330
+>> Shona - Arabic
+	ملك جيد
+
+Step 197/330
+>> Arabic - Swahili
+	Mfalme mzuri
+
+Step 198/330
+>> Swahili - English
+	A good king
+
+Step 199/330
+>> English - French
+	Un bon roi
+
+Step 200/330
+>> French - Urdu
+	ایک اچھا بادشاہ۔
+
+Step 201/330
+>> Urdu - Nepali
+	एक राम्रो राजा
+
+Step 202/330
+>> Nepali - Burmese
+	A ကောင်းဆုံးညျရှငျဘုရငျ
+
+Step 203/330
+>> Burmese - Portuguese
+	Um bom rei
+
+Step 204/330
+>> Portuguese - English
+	A good king
+
+Step 205/330
+>> English - Portuguese
+	Um bom rei
+
+Step 206/330
+>> Portuguese - English
+	A good king
+
+Step 207/330
+>> English - Portuguese
+	Um bom rei
+
+Step 208/330
+>> Portuguese - English
+	A good king
+
+Step 209/330
+>> English - lao
+	ເປັນກະສັດທີ່ດີ
+
+Step 210/330
+>> lao - French
+	Un bon roi
+
+Step 211/330
+>> French - Bengali
+	একজন ভাল রাজা
+
+Step 212/330
+>> Bengali - English
+	A good king
+
+Step 213/330
+>> English - Spanish
+	Un buen rey
+
+Step 214/330
+>> Spanish - Portuguese
+	Um bom rei
+
+Step 215/330
+>> Portuguese - Hindi
+	एक अच्छा राजा
+
+Step 216/330
+>> Hindi - English
+	A good king
+
+Step 217/330
+>> English - Spanish
+	Un buen rey
+
+Step 218/330
+>> Spanish - English
+	A good king
+
+Step 219/330
+>> English - Portuguese
+	Um bom rei
+
+Step 220/330
+>> Portuguese - Spanish
+	Un buen rey
+
+Step 221/330
+>> Spanish - Arabic
+	ملك جيد
+
+Step 222/330
+>> Arabic - Russian
+	Добрый король
+
+Step 223/330
+>> Russian - Spanish
+	Buen rey
+
+Step 224/330
+>> Spanish - Arabic
+	ملك جيد
+
+Step 225/330
+>> Arabic - Spanish
+	Buen rey
+
+Step 226/330
+>> Spanish - Vietnamese
+	Vua tốt
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Raja yang baik
+
+Step 228/330
+>> Indonesian - Arabic
+	ملك جيد
+
+Step 229/330
+>> Arabic - Zulu
+	Inkosi enhle
+
+Step 230/330
+>> Zulu - Filipino
+	Mabuting master
+
+Step 231/330
+>> Filipino - Romanian
+	Bun stăpân
+
+Step 232/330
+>> Romanian - Spanish
+	Buen maestro
+
+Step 233/330
+>> Spanish - French
+	Bon prof
+
+Step 234/330
+>> French - Arabic
+	معلم جيد
+
+Step 235/330
+>> Arabic - English
+	good teacher
+
+Step 236/330
+>> English - Uzbek
+	yaxshi o'qituvchi
+
+Step 237/330
+>> Uzbek - Samoan
+	lelei faiaoga
+
+Step 238/330
+>> Samoan - English
+	good teachers
+
+Step 239/330
+>> English - Dutch
+	goede leraren
+
+Step 240/330
+>> Dutch - English
+	good teachers
+
+Step 241/330
+>> English - Kurdish
+	mamosteyên baş
+
+Step 242/330
+>> Kurdish - Arabic
+	المعلمين الجيد
+
+Step 243/330
+>> Arabic - Spanish
+	Buenos profesores
+
+Step 244/330
+>> Spanish - Mongolian
+	Сайн багш нар байна
+
+Step 245/330
+>> Mongolian - English
+	Good teachers
+
+Step 246/330
+>> English - Spanish
+	Buenos profesores
+
+Step 247/330
+>> Spanish - Ukrainian
+	Хороші вчителі
+
+Step 248/330
+>> Ukrainian - Spanish
+	Buenos profesores
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	好老师
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	معلم جيد
+
+Step 251/330
+>> Arabic - Thai
+	ครูที่ดี
+
+Step 252/330
+>> Thai - Armenian
+	Լավ ուսուցիչ
+
+Step 253/330
+>> Armenian - Macedonian
+	Добар учител
+
+Step 254/330
+>> Macedonian - Arabic
+	معلم جيد
+
+Step 255/330
+>> Arabic - Portuguese
+	Bom professor
+
+Step 256/330
+>> Portuguese - Spanish
+	Buen maestro
+
+Step 257/330
+>> Spanish - Bosnian
+	Dobar učitelj
+
+Step 258/330
+>> Bosnian - Sinhala
+	හොඳ ගුරුවරයා
+
+Step 259/330
+>> Sinhala - English
+	Good teacher
+
+Step 260/330
+>> English - Spanish
+	Buen profesor
+
+Step 261/330
+>> Spanish - English
+	Great teacher
+
+Step 262/330
+>> English - Georgian
+	დიდი მასწავლებელი
+
+Step 263/330
+>> Georgian - English
+	Great teacher
+
+Step 264/330
+>> English - Albanian
+	Mësues i shkëlqyer
+
+Step 265/330
+>> Albanian - Serbian
+	Одличан учитељ
+
+Step 266/330
+>> Serbian - Spanish
+	Gran maestro
+
+Step 267/330
+>> Spanish - English
+	Great master
+
+Step 268/330
+>> English - Turkish
+	Büyük usta
+
+Step 269/330
+>> Turkish - Spanish
+	Gran maestro
+
+Step 270/330
+>> Spanish - French
+	Grand maître
+
+Step 271/330
+>> French - English
+	Grand Master
+
+Step 272/330
+>> English - Persian
+	استاد بزرگ
+
+Step 273/330
+>> Persian - Kazakh
+	Ұлы шебер
+
+Step 274/330
+>> Kazakh - English
+	Great master
+
+Step 275/330
+>> English - Malay
+	Tuan yang hebat
+
+Step 276/330
+>> Malay - Arabic
+	السيد العظيم
+
+Step 277/330
+>> Arabic - Spanish
+	Gran señor
+
+Step 278/330
+>> Spanish - English
+	Great Sir
+
+Step 279/330
+>> English - Russian
+	Великий сэр
+
+Step 280/330
+>> Russian - Romanian
+	Mare domnule
+
+Step 281/330
+>> Romanian - Bulgarian
+	Страхотен сър
+
+Step 282/330
+>> Bulgarian - Albanian
+	Zotëri i madh
+
+Step 283/330
+>> Albanian - Russian
+	Великий сэр
+
+Step 284/330
+>> Russian - Arabic
+	سيدي العظيم
+
+Step 285/330
+>> Arabic - Spanish
+	Gran señor
+
+Step 286/330
+>> Spanish - Croatian
+	Veliki gospodar
+
+Step 287/330
+>> Croatian - Hungarian
+	Nagymester
+
+Step 288/330
+>> Hungarian - Spanish
+	Gran Maestro
+
+Step 289/330
+>> Spanish - Arabic
+	غراند ماستر
+
+Step 290/330
+>> Arabic - Portuguese
+	Grão-mestre
+
+Step 291/330
+>> Portuguese - Latvian
+	Lielmeistars
+
+Step 292/330
+>> Latvian - Arabic
+	الأستاذ الكبير
+
+Step 293/330
+>> Arabic - Malay
+	Profesor Besar
+
+Step 294/330
+>> Malay - Slovak
+	large Professor
+
+Step 295/330
+>> Slovak - Arabic
+	أستاذ كبير
+
+Step 296/330
+>> Arabic - Lithuanian
+	Vyresnysis profesorius
+
+Step 297/330
+>> Lithuanian - Catalan
+	Professor superior
+
+Step 298/330
+>> Catalan - Arabic
+	مدرس متفوق
+
+Step 299/330
+>> Arabic - Polish
+	Przełożony nauczyciel
+
+Step 300/330
+>> Polish - Turkish
+	Öğretmen amiri
+
+Step 301/330
+>> Turkish - Greek
+	Διδάσκαλος καθηγητή
+
+Step 302/330
+>> Greek - Estonian
+	Professor õpetaja
+
+Step 303/330
+>> Estonian - Maltese
+	Professur għalliem
+
+Step 304/330
+>> Maltese - Italian
+	maestro, il professor
+
+Step 305/330
+>> Italian - Czech
+	učitel, profesor
+
+Step 306/330
+>> Czech - Spanish
+	profesor profesor
+
+Step 307/330
+>> Spanish - Slovenian
+	učitelj učitelj
+
+Step 308/330
+>> Slovenian - French
+	enseignant enseignant
+
+Step 309/330
+>> French - Korean
+	선생 선생
+
+Step 310/330
+>> Korean - Hebrew
+	מורה למורה
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Léierin zu Léierpersonal
+
+Step 312/330
+>> Luxembourgish - German
+	Lehrer zu Lehrer
+
+Step 313/330
+>> German - Japanese
+	先生から先生へ
+
+Step 314/330
+>> Japanese - German
+	Von Lehrer zu Lehrer
+
+Step 315/330
+>> German - Dutch
+	Van leraar tot leraar
+
+Step 316/330
+>> Dutch - Maori
+	Mai i te kaiwhakaako ki te kaiako
+
+Step 317/330
+>> Maori - Finnish
+	Opettajalta opettajalle
+
+Step 318/330
+>> Finnish - English
+	From teacher to teacher
+
+Step 319/330
+>> English - Danish
+	Fra lærer til lærer
+
+Step 320/330
+>> Danish - Dutch
+	Van leraar tot leraar
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	從老師到老師
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Från lärare till lärare
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	從老師到老師
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Frá kennara til kennara
+
+Step 325/330
+>> Icelandic - German
+	Von Lehrer zu Lehrer
+
+Step 326/330
+>> German - Irish
+	Ó mhúinteoir go múinteoir
+
+Step 327/330
+>> Irish - English
+	From teacher to teacher
+
+Step 328/330
+>> English - German
+	Von Lehrer zu Lehrer
+
+Step 329/330
+>> German - Norwegian
+	Fra lærer til lærer
+
+Step 330/330
+>> Norwegian - Portuguese
+	De professor para professor
+
+
+##### RESULTS ######
+
+O rei da Tartária recebeu-o com grandes demonstrações de júbilo e pediu-lhe, em primeiro lugar, novas do sultão.
+
+De professor para professor

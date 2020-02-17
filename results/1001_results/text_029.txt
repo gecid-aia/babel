@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: O dia que estava nascendo impediu que Cheherazade continuasse a sua história. Prosseguiu-a, porém, no dia seguinte.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Den stigende dagen forhindret Cheherazade fra å fortsette sin historie. Men det fortsatte dagen etter.
+
+Step 2/330
+>> Norwegian - German
+	Der aufgehende Tag verhinderte, dass Cheherazade seine Geschichte fortsetzte. Aber am nächsten Tag ging es weiter.
+
+Step 3/330
+>> German - English
+	The rising day prevented Cheherazade from continuing his story. But the next day it went on.
+
+Step 4/330
+>> English - Irish
+	Chuir an lá ag ardú cosc ar Cheherazade leanúint lena scéal. Ach an chéad lá eile chuaigh sé ar aghaidh.
+
+Step 5/330
+>> Irish - German
+	Der aufgehende Tag verhinderte, dass Cheherazade seine Geschichte fortsetzte. Aber am nächsten Tag ging er weiter.
+
+Step 6/330
+>> German - Icelandic
+	Upprisinn kom í veg fyrir að Cheherazade héldi áfram sögu sinni. En daginn eftir hélt hann áfram.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	復活阻止了切赫拉扎德繼續其歷史。但第二天，他繼續說道。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Uppståndelsen hindrade Cechlazzard från att fortsätta sin historia. Men nästa dag fortsatte han.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	復活阻止了Cechlazzard繼續他的故事。但第二天他繼續說道。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	De opstanding belette Cechlazzard zijn verhaal voort te zetten. Maar hij ging de volgende dag verder.
+
+Step 11/330
+>> Dutch - Danish
+	Opstandelsen forhindrede Cechlazzard i at fortsætte sin historie. Men han fortsatte næste dag.
+
+Step 12/330
+>> Danish - English
+	The resurrection prevented Cechlazzard from continuing his story. But he continued the next day.
+
+Step 13/330
+>> English - Finnish
+	Ylösnousemus esti Cechlazzardia jatkamasta tarinansa. Mutta hän jatkoi seuraavana päivänä.
+
+Step 14/330
+>> Finnish - Maori
+	Ko te aranga i aukati ia Cechlazzard i te haere tonu o ana korero. Engari ka haere tonu ia i te aonga ake.
+
+Step 15/330
+>> Maori - Dutch
+	De opstanding belette Cechlazzard zijn gesprekken voort te zetten. Maar hij ging de volgende dag verder.
+
+Step 16/330
+>> Dutch - German
+	Die Auferstehung verhinderte, dass Cechlazzard seine Gespräche fortsetzte. Aber er fuhr am nächsten Tag fort.
+
+Step 17/330
+>> German - Japanese
+	復活により、セクラザードは彼の話を続けることができなかった。しかし、彼は翌日出発した。
+
+Step 18/330
+>> Japanese - German
+	Wegen der Auferstehung konnte Seclazado seine Geschichte nicht fortsetzen. Aber er ging am nächsten Tag.
+
+Step 19/330
+>> German - Luxembourgish
+	Wéinst der Operstéiung konnt Seclazado net seng Geschicht weiderféieren. Awer hien ass den nächsten Dag fort.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	בגלל התחייה, סקלזאדו לא יכול היה להמשיך את סיפורו. אבל הוא עזב למחרת.
+
+Step 21/330
+>> Hebrew - Korean
+	부흥 때문에 Scalzado는 그의 이야기를 계속할 수 없었습니다. 그러나 그는 다음날 떠났다.
+
+Step 22/330
+>> Korean - French
+	En raison de la renaissance, Scalzado ne pouvait pas continuer son histoire. Mais il est parti le lendemain.
+
+Step 23/330
+>> French - Slovenian
+	Zaradi ponovnega rojstva Scalzado ni mogel nadaljevati svoje zgodbe. Toda odšel je naslednji dan.
+
+Step 24/330
+>> Slovenian - Spanish
+	Debido al renacimiento, Scalzado no pudo continuar su historia. Pero se fue al día siguiente.
+
+Step 25/330
+>> Spanish - Czech
+	Kvůli znovuzrození nemohl Scalzado pokračovat ve svém příběhu. Ale další den odešel.
+
+Step 26/330
+>> Czech - Italian
+	A causa della rinascita, Scalzado non ha potuto continuare la sua storia. Ma il giorno dopo se ne andò.
+
+Step 27/330
+>> Italian - Maltese
+	Minħabba r-rebirth, Scalzado ma setax ikompli l-istorja tiegħu. Imma l-għada telaq.
+
+Step 28/330
+>> Maltese - Estonian
+	Kuna taassünni, Scalzado ei ole võimalik jätkata oma lugu. Aga järgmisel päeval ta lahkus.
+
+Step 29/330
+>> Estonian - Greek
+	Από την αναγέννηση, ο Scalzado δεν μπόρεσε να συνεχίσει την ιστορία του. Αλλά την επόμενη μέρα έφυγε.
+
+Step 30/330
+>> Greek - Turkish
+	Rönesanstan bu yana Scalzado hikayesine devam edemedi. Ama ertesi gün ayrıldı.
+
+Step 31/330
+>> Turkish - Polish
+	Scalzado nie był w stanie kontynuować swojej historii od czasów renesansu. Ale wyszedł następnego dnia.
+
+Step 32/330
+>> Polish - Arabic
+	لم تتمكن سكالزادو من مواصلة تاريخها منذ عصر النهضة. لكنه خرج في اليوم التالي.
+
+Step 33/330
+>> Arabic - Catalan
+	Scalzado no ha pogut continuar la seva història des del Renaixement. Però va sortir l’endemà.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Scalzado negalėjo tęsti savo istorijos nuo Renesanso laikų. Bet jis išvyko kitą dieną.
+
+Step 35/330
+>> Lithuanian - Arabic
+	لم يتمكن سكالزادو من متابعة قصته منذ عصر النهضة. لكنه غادر في اليوم التالي.
+
+Step 36/330
+>> Arabic - Slovak
+	Scalzado nedokázal sledovať jeho príbeh od renesancie. Ale nasledujúci deň odišiel.
+
+Step 37/330
+>> Slovak - Malay
+	Scalzado gagal mengikuti ceritanya dari Renaissance. Tetapi keesokan harinya dia pergi.
+
+Step 38/330
+>> Malay - Arabic
+	فشل Scalzado في متابعة قصته من عصر النهضة. لكن في اليوم التالي غادر.
+
+Step 39/330
+>> Arabic - Latvian
+	Scalzado nespēja sekot viņa stāstam par renesansi. Bet nākamajā dienā viņš aizgāja.
+
+Step 40/330
+>> Latvian - Portuguese
+	Scalzado não pôde acompanhar sua história do Renascimento. Mas no dia seguinte ele partiu.
+
+Step 41/330
+>> Portuguese - Arabic
+	لم يتمكن سكالزادو من مواكبة تاريخه في عصر النهضة. لكن في اليوم التالي غادر.
+
+Step 42/330
+>> Arabic - Spanish
+	Scalzado no pudo seguir el ritmo de su historia renacentista. Pero al día siguiente se fue.
+
+Step 43/330
+>> Spanish - Hungarian
+	Scalzado nem tudott lépést tartani a reneszánsz történelmével. De másnap elment.
+
+Step 44/330
+>> Hungarian - Croatian
+	Scalzado nije mogao ići u korak s poviješću renesanse. Ali sutradan je otišao.
+
+Step 45/330
+>> Croatian - Spanish
+	Scalzado no pudo mantenerse al día con la historia del Renacimiento. Pero se fue al día siguiente.
+
+Step 46/330
+>> Spanish - Arabic
+	لم يتمكن سكالزادو من مواكبة تاريخ النهضة. لكنه غادر في اليوم التالي.
+
+Step 47/330
+>> Arabic - Russian
+	Скальзадо не мог идти в ногу с историей эпохи Возрождения. Но он ушел на следующий день.
+
+Step 48/330
+>> Russian - Albanian
+	Scalzado nuk mund të vazhdonte me historinë e Rilindjes. Por ai u largua të nesërmen.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Скалзадо не можеше да бъде в крак с историята на Ренесанса. Но той си тръгна на следващия ден.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Scalzado nu a putut ține pasul cu istoria Renașterii. Dar a plecat a doua zi.
+
+Step 51/330
+>> Romanian - Russian
+	Скальзадо не мог идти в ногу с историей эпохи Возрождения. Но он ушел на следующий день.
+
+Step 52/330
+>> Russian - English
+	Scalzado could not keep up with the history of the Renaissance. But he left the next day.
+
+Step 53/330
+>> English - Spanish
+	Scalzado no pudo mantenerse al día con la historia del Renacimiento. Pero se fue al día siguiente.
+
+Step 54/330
+>> Spanish - Arabic
+	لم يتمكن سكالزادو من مواكبة تاريخ النهضة. لكنه غادر في اليوم التالي.
+
+Step 55/330
+>> Arabic - Malay
+	Scalzado tidak dapat bersaing dengan sejarah Renaissance. Tetapi dia pergi keesokan harinya.
+
+Step 56/330
+>> Malay - English
+	Scalzado could not compete with Renaissance history. But he left the next day.
+
+Step 57/330
+>> English - Kazakh
+	Скалзадо Ренессанс тарихымен бәсекеге түсе алмады. Бірақ ол келесі күні кетіп қалды.
+
+Step 58/330
+>> Kazakh - Persian
+	اسکالزادو نتوانست با تاریخ رنسانس رقابت کند. اما روز دیگر او را ترک کرد.
+
+Step 59/330
+>> Persian - English
+	Scaladzu could not compete with Renaissance history. But the next day he left.
+
+Step 60/330
+>> English - French
+	Scaladzu ne pouvait pas rivaliser avec l'histoire de la Renaissance. Mais le lendemain, il est parti.
+
+Step 61/330
+>> French - Spanish
+	Scaladzu no pudo competir con la historia del Renacimiento. Pero al día siguiente se fue.
+
+Step 62/330
+>> Spanish - Turkish
+	Scaladzu Rönesans tarihi ile rekabet edemedi. Ama ertesi gün ayrıldı.
+
+Step 63/330
+>> Turkish - English
+	Scaladzu could not compete with Renaissance history. But he left the next day.
+
+Step 64/330
+>> English - Spanish
+	Scaladzu no pudo competir con la historia del Renacimiento. Pero se fue al día siguiente.
+
+Step 65/330
+>> Spanish - Serbian
+	Сцаладзу се није могао такмичити са историјом ренесансе. Али отишао је сутрадан.
+
+Step 66/330
+>> Serbian - Albanian
+	Scaladzu nuk mund të garonte me historinë e Rilindjes. Por ai u largua të nesërmen.
+
+Step 67/330
+>> Albanian - English
+	Scaladzu could not compete with Renaissance history. But he left the next day.
+
+Step 68/330
+>> English - Georgian
+	სკალდაზუ ვერ შეჯიბრდებოდა რენესანსის ისტორიასთან. მაგრამ მან დატოვა მეორე დღეს.
+
+Step 69/330
+>> Georgian - English
+	Scaldazu could not compete with Renaissance history. But he left the next day.
+
+Step 70/330
+>> English - Spanish
+	Scaldazu no pudo competir con la historia del Renacimiento. Pero se fue al día siguiente.
+
+Step 71/330
+>> Spanish - English
+	Scaldazu could not compete with the history of the Renaissance. But he left the next day.
+
+Step 72/330
+>> English - Sinhala
+	ස්කල්ඩාසුට පුනරුදයේ ඉතිහාසය සමඟ තරඟ කිරීමට නොහැකි විය. නමුත් ඔහු පසුදා පිටත්ව ගියේය.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Skaldasu se nije mogao takmičiti sa renesansnom istorijom. Ali otišao je sutradan.
+
+Step 74/330
+>> Bosnian - Spanish
+	Skaldas no pudo competir con la historia del Renacimiento. Pero se fue al día siguiente.
+
+Step 75/330
+>> Spanish - Portuguese
+	Skaldas não poderia competir com a história do Renascimento. Mas ele saiu no dia seguinte.
+
+Step 76/330
+>> Portuguese - Arabic
+	Skaldas لا يمكن أن تتنافس مع تاريخ النهضة. لكنه غادر في اليوم التالي.
+
+Step 77/330
+>> Arabic - Macedonian
+	Скалдас не може да се натпреварува со историјата на ренесансата. Но, тој замина следниот ден.
+
+Step 78/330
+>> Macedonian - Armenian
+	Սկալդան չի կարող մրցել Վերածննդի պատմության հետ: Բայց նա հեռացավ հաջորդ օրը:
+
+Step 79/330
+>> Armenian - Thai
+	Scalda ไม่สามารถแข่งขันกับเรื่องราวยุคฟื้นฟูศิลปวิทยา แต่เขาออกไปในวันถัดไป
+
+Step 80/330
+>> Thai - Arabic
+	لا يمكن أن تتنافس سكالدا مع قصة النهضة. لكنه خرج في اليوم التالي
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	斯卡尔达无法与文艺复兴时期的故事竞争。但他第二天就出来了
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Skalda no pudo competir con la historia del Renacimiento. Pero salió al día siguiente.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Скальда не міг конкурувати з історією Відродження. Але це вийшло на наступний день.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Sculda no pudo competir con la historia del Renacimiento. Pero salió al día siguiente.
+
+Step 85/330
+>> Spanish - English
+	Sculda could not compete with the history of the Renaissance. But it came out the next day.
+
+Step 86/330
+>> English - Mongolian
+	Скулда Сэргэн мандалтын үеийн түүхтэй өрсөлдөж чадахгүй байв. Гэхдээ маргааш нь гарч ирэв.
+
+Step 87/330
+>> Mongolian - Spanish
+	Sculda no pudo competir con la historia del Renacimiento. Pero al día siguiente.
+
+Step 88/330
+>> Spanish - Arabic
+	لم يكن بإمكان Sculda منافسة تاريخ النهضة. لكن في اليوم التالي.
+
+Step 89/330
+>> Arabic - Kurdish
+	Sculda nikarîbû bi dîroka Renaissance re pêşbaziyê bike. Lê roja din.
+
+Step 90/330
+>> Kurdish - English
+	Sculda could not compete with Renaissance history. But the next day.
+
+Step 91/330
+>> English - Dutch
+	Sculda kon niet concurreren met de Renaissance-geschiedenis. Maar de volgende dag.
+
+Step 92/330
+>> Dutch - English
+	Sculda could not compete with Renaissance history. But the next day.
+
+Step 93/330
+>> English - Samoan
+	Sculda e le mafai ona tauva ma le talafaasolopito o le Renaissance. Ae o le aso e sosoo ai.
+
+Step 94/330
+>> Samoan - Uzbek
+	Sculda Uyg'onish tarixi bilan raqobatlasha olmadi. Ammo ertasi kuni.
+
+Step 95/330
+>> Uzbek - English
+	Sculda could not compete with Renaissance history. But the next day.
+
+Step 96/330
+>> English - Arabic
+	لم يتمكن سكولدا من منافسة تاريخ النهضة. لكن في اليوم التالي.
+
+Step 97/330
+>> Arabic - French
+	Skolda ne pouvait pas rivaliser avec l'histoire de la Renaissance. Mais le lendemain.
+
+Step 98/330
+>> French - Spanish
+	Skolda no pudo competir con la historia del Renacimiento. Pero al día siguiente.
+
+Step 99/330
+>> Spanish - Romanian
+	Skolda nu a putut concura cu istoria Renașterii. Dar a doua zi.
+
+Step 100/330
+>> Romanian - Filipino
+	Hindi maaaring makipagkumpetensya si Skolda sa kasaysayan ng Renaissance. Ngunit sa susunod na araw.
+
+Step 101/330
+>> Filipino - Zulu
+	ISkolda ayikwazi ukuncintisana nomlando weRenaissance. Kepha ngakusasa.
+
+Step 102/330
+>> Zulu - Arabic
+	لا يستطيع الكونغرس منافسة تاريخ النهضة. لكن في اليوم التالي.
+
+Step 103/330
+>> Arabic - Indonesian
+	Kongres tidak dapat bersaing dengan sejarah Renaissance. Tapi hari berikutnya.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Quốc hội không thể cạnh tranh với lịch sử của thời Phục hưng. Nhưng ngày hôm sau.
+
+Step 105/330
+>> Vietnamese - Spanish
+	El Congreso no pudo competir con la historia del Renacimiento. Pero al día siguiente.
+
+Step 106/330
+>> Spanish - Arabic
+	لم يستطع الكونغرس منافسة تاريخ النهضة. لكن في اليوم التالي.
+
+Step 107/330
+>> Arabic - Spanish
+	El Congreso no pudo competir con la historia del Renacimiento. Pero al día siguiente.
+
+Step 108/330
+>> Spanish - Russian
+	Конгресс не мог сравниться с историей эпохи Возрождения. Но на следующий день.
+
+Step 109/330
+>> Russian - Arabic
+	لم يستطع الكونغرس مقارنة تاريخ النهضة. لكن في اليوم التالي.
+
+Step 110/330
+>> Arabic - Spanish
+	El Congreso no pudo comparar la historia del Renacimiento. Pero al día siguiente.
+
+Step 111/330
+>> Spanish - Portuguese
+	O congresso não pôde comparar a história do Renascimento. Mas no dia seguinte.
+
+Step 112/330
+>> Portuguese - English
+	Congress could not compare the history of the Renaissance. But the next day.
+
+Step 113/330
+>> English - Spanish
+	El Congreso no pudo comparar la historia del Renacimiento. Pero al día siguiente.
+
+Step 114/330
+>> Spanish - English
+	Congress could not compare the history of the Renaissance. But the next day.
+
+Step 115/330
+>> English - Hindi
+	कांग्रेस पुनर्जागरण के इतिहास की तुलना नहीं कर सकती थी। लेकिन अगले दिन।
+
+Step 116/330
+>> Hindi - Portuguese
+	O Congresso não pôde comparar a história do Renascimento. Mas no dia seguinte.
+
+Step 117/330
+>> Portuguese - Spanish
+	El Congreso no pudo comparar la historia del Renacimiento. Pero al día siguiente.
+
+Step 118/330
+>> Spanish - English
+	Congress could not compare the history of the Renaissance. But the next day.
+
+Step 119/330
+>> English - Bengali
+	কংগ্রেস নবজাগরণের ইতিহাসের তুলনা করতে পারেনি। তবে পরের দিন।
+
+Step 120/330
+>> Bengali - French
+	Le Congrès n'a pas pu comparer l'histoire de la Renaissance. Mais le lendemain.
+
+Step 121/330
+>> French - lao
+	ກອງປະຊຸມບໍ່ສາມາດປຽບທຽບປະຫວັດສາດຂອງ Renaissance ໄດ້. ແຕ່ໃນມື້ຕໍ່ມາ.
+
+Step 122/330
+>> lao - English
+	The conference could not compare the history of the Renaissance. But the next day.
+
+Step 123/330
+>> English - Portuguese
+	A conferência não pôde comparar a história do Renascimento. Mas no dia seguinte.
+
+Step 124/330
+>> Portuguese - English
+	The conference could not compare the history of the Renaissance. But the next day.
+
+Step 125/330
+>> English - Portuguese
+	A conferência não pôde comparar a história do Renascimento. Mas no dia seguinte.
+
+Step 126/330
+>> Portuguese - English
+	The conference could not compare the history of the Renaissance. But the next day.
+
+Step 127/330
+>> English - Portuguese
+	A conferência não pôde comparar a história do Renascimento. Mas no dia seguinte.
+
+Step 128/330
+>> Portuguese - Burmese
+	အဆိုပါကွန်ဖရသည့် Renaissance ၏သမိုင်းခိုင်းနှိုင်းလို့မရဘူး။ ဒါပေမယ့်လာမယ့်နေ့က။
+
+Step 129/330
+>> Burmese - Nepali
+	यो सम्मेलन को पुनर्जागरण को इतिहास तुलना गर्न सकिँदैन। तर अर्को दिन।
+
+Step 130/330
+>> Nepali - Urdu
+	اس کانفرنس کی نشا. ثانیہ کی تاریخ کا موازنہ نہیں کیا جاسکتا۔ لیکن اگلے دن۔
+
+Step 131/330
+>> Urdu - French
+	L'ivresse de cette conférence. L'histoire du secondaire ne peut être comparée. Mais le lendemain.
+
+Step 132/330
+>> French - English
+	The drunkenness of this conference. The history of high school can not be compared. But the next day.
+
+Step 133/330
+>> English - Swahili
+	Ulevi wa mkutano huu. Historia ya shule ya upili haiwezi kulinganishwa. Lakini siku iliyofuata.
+
+Step 134/330
+>> Swahili - Arabic
+	إدمان الكحول في هذا المؤتمر. لا يمكن مقارنة تاريخ المدرسة الثانوية. لكن في اليوم التالي.
+
+Step 135/330
+>> Arabic - Shona
+	Kudhakwa pamusangano uyu. Haikwanisi kuenzanisa nhoroondo yechikoro chepamusoro. Asi zuva rinotevera.
+
+Step 136/330
+>> Shona - Hausa
+	Bugun a wannan taron. Ba za a iya daidaita tarihin makarantar sakandare ba. Amma washegari.
+
+Step 137/330
+>> Hausa - Swahili
+	Prints katika hafla hii. Historia ya shule ya upili haiwezi kusawazisha Lakini siku iliyofuata.
+
+Step 138/330
+>> Swahili - English
+	Prints on this occasion. High school history can't equal But the next day.
+
+Step 139/330
+>> English - Arabic
+	يطبع في هذه المناسبة. تاريخ المدرسة الثانوية لا يمكن أن يساوي لكن في اليوم التالي.
+
+Step 140/330
+>> Arabic - Malagasy
+	Hetsika amin'ity tranga ity. Tsy nisy fitoviana ny tantaran'ny lisea fa ny ampitson'iny.
+
+Step 141/330
+>> Malagasy - Swahili
+	Kitendo katika kesi hii. Historia ya shule ya upili haikuwa tofauti lakini siku iliyofuata.
+
+Step 142/330
+>> Swahili - French
+	Agir dans ce cas. L'histoire du lycée n'était pas différente mais le lendemain.
+
+Step 143/330
+>> French - Arabic
+	تصرف في هذه الحالة. تاريخ المدرسة الثانوية لم يكن مختلفا ولكن في اليوم التالي.
+
+Step 144/330
+>> Arabic - French
+	Agi dans ce cas. L'histoire du lycée n'était pas différente mais le lendemain.
+
+Step 145/330
+>> French - Arabic
+	تصرف في هذه الحالة. تاريخ المدرسة الثانوية لم يكن مختلفا ولكن في اليوم التالي.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Aksé nan ka sa a. Istwa lekòl segondè a pa diferan men nan denmen.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	پدې قضیه کې لاسرسی شوی. د عالي لیسې تاریخ بل ورځ نه بل څه توپیر لري.
+
+Step 148/330
+>> Pashto - French
+	Consulté dans ce cas. L'histoire du lycée n'est pas différente de n'importe quel autre jour.
+
+Step 149/330
+>> French - Chichewa
+	Adafunsidwa pankhaniyi. Mbiri yaku sukulu yasekondale siyosiyana ndi tsiku lina lililonse.
+
+Step 150/330
+>> Chichewa - Arabic
+	طلب في هذا الصدد. تاريخ المدرسة الثانوية لا يختلف عن أي يوم آخر.
+
+Step 151/330
+>> Arabic - Amharic
+	በዚህ ረገድ ጥያቄ ፡፡ የሁለተኛ ደረጃ ትምህርት ቤት ታሪክ ከማንኛውም ቀን የተለየ ነው ፡፡
+
+Step 152/330
+>> Amharic - English
+	Question in this regard. High school history is different than any other day.
+
+Step 153/330
+>> English - French
+	Question à cet égard. L'histoire du lycée est différente de tout autre jour.
+
+Step 154/330
+>> French - Swahili
+	Kuuliza katika suala hili. Historia ya shule ya upili ni tofauti na siku nyingine yoyote.
+
+Step 155/330
+>> Swahili - Portuguese
+	Pergunte a este respeito. A história do ensino médio é diferente de qualquer outro dia.
+
+Step 156/330
+>> Portuguese - Arabic
+	اسأل عن هذا. تاريخ المدرسة الثانوية لا يشبه أي يوم آخر.
+
+Step 157/330
+>> Arabic - Portuguese
+	Pergunte sobre isso. A história do ensino médio é diferente de qualquer outro dia.
+
+Step 158/330
+>> Portuguese - English
+	Ask about it. The history of high school is unlike any other day.
+
+Step 159/330
+>> English - French
+	Demandez à ce sujet. L'histoire du lycée ne ressemble à aucun autre jour.
+
+Step 160/330
+>> French - English
+	Ask about it. The history of high school is unlike any other day.
+
+Step 161/330
+>> English - Swahili
+	Uliza juu yake. Historia ya shule ya upili ni kama siku nyingine yoyote.
+
+Step 162/330
+>> Swahili - Arabic
+	اسأل عن ذلك. يشبه تاريخ المدرسة الثانوية مثل أي يوم آخر.
+
+Step 163/330
+>> Arabic - Arabic
+	Ask about it. It's like high school history like any other day.
+
+Step 164/330
+>> Arabic - French
+	Demandez à ce sujet. C'est comme l'histoire du lycée comme n'importe quel autre jour.
+
+Step 165/330
+>> French - Hausa
+	Tambaye shi. Kamar tarihin makarantar sakandare kamar kowace rana.
+
+Step 166/330
+>> Hausa - French
+	Demandez lui. J'aime l'histoire du lycée comme chaque jour.
+
+Step 167/330
+>> French - Arabic
+	Ask him. I like high school history like every day.
+
+Step 168/330
+>> Arabic - Arabic
+	اسأله. أحب تاريخ المدرسة الثانوية مثل كل يوم.
+
+Step 169/330
+>> Arabic - Swahili
+	Muulize. Ninapenda historia ya shule ya upili kama kila siku.
+
+Step 170/330
+>> Swahili - English
+	Ask him. I love high school history just like every day.
+
+Step 171/330
+>> English - French
+	Demande lui. J'aime l'histoire du lycée, comme chaque jour.
+
+Step 172/330
+>> French - English
+	Ask him. I like high school history, like every day.
+
+Step 173/330
+>> English - Portuguese
+	Pergunte a ele. Eu gosto da história do ensino médio, como todos os dias.
+
+Step 174/330
+>> Portuguese - Arabic
+	اسأله. أحب تاريخ المدرسة الثانوية ، مثل كل يوم.
+
+Step 175/330
+>> Arabic - Portuguese
+	Pergunte a ele. Eu amo a história do ensino médio, como todos os dias.
+
+Step 176/330
+>> Portuguese - Swahili
+	Muulize. Ninapenda historia ya shule ya upili, kama kila siku.
+
+Step 177/330
+>> Swahili - French
+	Demandez lui. J'aime l'histoire du lycée, comme chaque jour.
+
+Step 178/330
+>> French - English
+	Ask him. I like high school history, like every day.
+
+Step 179/330
+>> English - Amharic
+	ይጠይቁት ፡፡ የሁለተኛ ደረጃ ት / ቤት ታሪክን እንደየእለቱ ሁሉ እወዳለሁ ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	اسأله. أحب تاريخ المدرسة الثانوية كما هو الحال دائمًا.
+
+Step 181/330
+>> Arabic - Chichewa
+	Mufunseni. Ndimakonda mbiri ya sekondale monga nthawi zonse.
+
+Step 182/330
+>> Chichewa - French
+	Demandez lui. J'aime l'histoire du lycée comme toujours.
+
+Step 183/330
+>> French - Pashto
+	له هغه پوښتنه وکړه. زه د تل په شان د عالي لیسې تاریخ خوښوم.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Mande li Mwen toujou renmen istwa lekòl segondè.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	اسألني ما زلت أحب تاريخ المدرسة الثانوية.
+
+Step 186/330
+>> Arabic - French
+	Demandez-moi j'aime toujours l'histoire du lycée.
+
+Step 187/330
+>> French - Arabic
+	اسألني ما زلت أحب تاريخ المدرسة الثانوية.
+
+Step 188/330
+>> Arabic - French
+	Demandez-moi j'aime toujours l'histoire du lycée.
+
+Step 189/330
+>> French - Swahili
+	Niulize bado ninapenda historia ya shule ya upili.
+
+Step 190/330
+>> Swahili - Malagasy
+	Anontanio aho fa tiako ny tantaran'ny lisea.
+
+Step 191/330
+>> Malagasy - Arabic
+	اسألني إذا كنت أحب تاريخ المدرسة الثانوية.
+
+Step 192/330
+>> Arabic - English
+	Ask me if you like high school history.
+
+Step 193/330
+>> English - Swahili
+	Niulize ikiwa unapenda historia ya shule ya upili.
+
+Step 194/330
+>> Swahili - Hausa
+	Tambaye ni ko kuna son tarihin makarantar sakandare.
+
+Step 195/330
+>> Hausa - Shona
+	Ndibvunze kana iwe uchida nhoroondo yechikoro chesekondari.
+
+Step 196/330
+>> Shona - Arabic
+	اسألني إذا كنت تحب تاريخ المدرسة الثانوية.
+
+Step 197/330
+>> Arabic - Swahili
+	Niulize ikiwa unapenda historia ya shule ya upili.
+
+Step 198/330
+>> Swahili - English
+	Ask me if you like high school history.
+
+Step 199/330
+>> English - French
+	Demandez-moi si vous aimez l'histoire du lycée.
+
+Step 200/330
+>> French - Urdu
+	مجھ سے پوچھیں کہ کیا آپ کو ہائی اسکول کی تاریخ پسند ہے؟
+
+Step 201/330
+>> Urdu - Nepali
+	मलाई सोध्नुहोस् के तपाईलाई हाई स्कूलको ईतिहास मन पर्छ?
+
+Step 202/330
+>> Nepali - Burmese
+	သငျသညျအကြှနျုပျကိုအထက်တန်းကျောင်းသမိုင်းကိုမေးလိုပါသလား
+
+Step 203/330
+>> Burmese - Portuguese
+	Você quer me perguntar, uma história do ensino médio
+
+Step 204/330
+>> Portuguese - English
+	You wanna ask me a high school story
+
+Step 205/330
+>> English - Portuguese
+	Você quer me perguntar uma história do ensino médio
+
+Step 206/330
+>> Portuguese - English
+	Do you want to ask me a high school story
+
+Step 207/330
+>> English - Portuguese
+	Você quer me perguntar uma história do ensino médio
+
+Step 208/330
+>> Portuguese - English
+	Do you want to ask me a high school story
+
+Step 209/330
+>> English - lao
+	ເຈົ້າຢາກຖາມຂ້ອຍເລື່ອງຊັ້ນສູງບໍ?
+
+Step 210/330
+>> lao - French
+	Voulez-vous me poser des questions sur le lycée?
+
+Step 211/330
+>> French - Bengali
+	আপনি কি আমাকে হাই স্কুল সম্পর্কে জিজ্ঞাসা করতে চান?
+
+Step 212/330
+>> Bengali - English
+	Do you want to ask me about high school?
+
+Step 213/330
+>> English - Spanish
+	¿Quieres preguntarme sobre la secundaria?
+
+Step 214/330
+>> Spanish - Portuguese
+	Quer me perguntar sobre o ensino médio?
+
+Step 215/330
+>> Portuguese - Hindi
+	मुझे हाई स्कूल के बारे में पूछना चाहते हैं?
+
+Step 216/330
+>> Hindi - English
+	Want to ask me about high school?
+
+Step 217/330
+>> English - Spanish
+	¿Quieres preguntarme sobre la secundaria?
+
+Step 218/330
+>> Spanish - English
+	Want to ask me about high school?
+
+Step 219/330
+>> English - Portuguese
+	Quer me perguntar sobre o ensino médio?
+
+Step 220/330
+>> Portuguese - Spanish
+	¿Quieres preguntarme sobre la secundaria?
+
+Step 221/330
+>> Spanish - Arabic
+	تريد أن تسألني عن المدرسة الثانوية؟
+
+Step 222/330
+>> Arabic - Russian
+	Хотите спросить меня о средней школе?
+
+Step 223/330
+>> Russian - Spanish
+	¿Quieres preguntarme sobre la secundaria?
+
+Step 224/330
+>> Spanish - Arabic
+	تريد أن تسألني عن المدرسة الثانوية؟
+
+Step 225/330
+>> Arabic - Spanish
+	¿Quieres preguntarme sobre la secundaria?
+
+Step 226/330
+>> Spanish - Vietnamese
+	Bạn muốn hỏi tôi về trường trung học?
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Ingin bertanya tentang sekolah menengah?
+
+Step 228/330
+>> Indonesian - Arabic
+	تريد أن تسأل عن المدرسة المتوسطة؟
+
+Step 229/330
+>> Arabic - Zulu
+	Ufuna ukubuza mayelana nesikole esiphakathi?
+
+Step 230/330
+>> Zulu - Filipino
+	Nais bang magtanong tungkol sa gitnang paaralan?
+
+Step 231/330
+>> Filipino - Romanian
+	Vrei să pui întrebări despre școala medie?
+
+Step 232/330
+>> Romanian - Spanish
+	¿Quieres hacer preguntas sobre la escuela secundaria?
+
+Step 233/330
+>> Spanish - French
+	Voulez-vous poser des questions sur le lycée?
+
+Step 234/330
+>> French - Arabic
+	هل تريد طرح أسئلة حول المدرسة الثانوية؟
+
+Step 235/330
+>> Arabic - English
+	Want to ask questions about high school?
+
+Step 236/330
+>> English - Uzbek
+	O'rta maktab haqida savollar bermoqchimisiz?
+
+Step 237/330
+>> Uzbek - Samoan
+	Manao e fai ni fesili e uiga i le aoga maualuga?
+
+Step 238/330
+>> Samoan - English
+	Want to ask questions about high school?
+
+Step 239/330
+>> English - Dutch
+	Wil je vragen stellen over de middelbare school?
+
+Step 240/330
+>> Dutch - English
+	Do you want to ask questions about high school?
+
+Step 241/330
+>> English - Kurdish
+	Ma hûn dixwazin li ser dibistana bilind pirsan bipirsin?
+
+Step 242/330
+>> Kurdish - Arabic
+	هل تريد طرح أسئلة حول المدرسة الثانوية؟
+
+Step 243/330
+>> Arabic - Spanish
+	¿Quieres hacer preguntas sobre la escuela secundaria?
+
+Step 244/330
+>> Spanish - Mongolian
+	Ахлах сургуулийн талаар асуулт асуумаар байна уу?
+
+Step 245/330
+>> Mongolian - English
+	Want to ask questions about high school?
+
+Step 246/330
+>> English - Spanish
+	¿Quieres hacer preguntas sobre la escuela secundaria?
+
+Step 247/330
+>> Spanish - Ukrainian
+	Хочете задати питання про середню школу?
+
+Step 248/330
+>> Ukrainian - Spanish
+	¿Quieres hacer una pregunta sobre la escuela secundaria?
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	想问一个关于高中的问题？
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	هل تريد طرح سؤال حول المدرسة الثانوية؟
+
+Step 251/330
+>> Arabic - Thai
+	ถามคำถามเกี่ยวกับโรงเรียนมัธยม?
+
+Step 252/330
+>> Thai - Armenian
+	Հարցեր եք տալիս ավագ դպրոցի մասին:
+
+Step 253/330
+>> Armenian - Macedonian
+	Прашања за средно училиште?
+
+Step 254/330
+>> Macedonian - Arabic
+	أسئلة للمدرسة الثانوية؟
+
+Step 255/330
+>> Arabic - Portuguese
+	Perguntas para o ensino médio?
+
+Step 256/330
+>> Portuguese - Spanish
+	¿Preguntas para la secundaria?
+
+Step 257/330
+>> Spanish - Bosnian
+	Pitanja za srednju školu?
+
+Step 258/330
+>> Bosnian - Sinhala
+	උසස් පාසල සඳහා ප්‍රශ්න?
+
+Step 259/330
+>> Sinhala - English
+	Questions for high school?
+
+Step 260/330
+>> English - Spanish
+	¿Preguntas para la secundaria?
+
+Step 261/330
+>> Spanish - English
+	Questions for high school?
+
+Step 262/330
+>> English - Georgian
+	კითხვები საშუალო სკოლისთვის?
+
+Step 263/330
+>> Georgian - English
+	Questions for high school?
+
+Step 264/330
+>> English - Albanian
+	Pyetje për shkollën e mesme?
+
+Step 265/330
+>> Albanian - Serbian
+	Питања о средњој школи?
+
+Step 266/330
+>> Serbian - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 267/330
+>> Spanish - English
+	Questions about high school?
+
+Step 268/330
+>> English - Turkish
+	Lise hakkındaki sorularınız için;
+
+Step 269/330
+>> Turkish - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 270/330
+>> Spanish - French
+	Des questions sur le lycée?
+
+Step 271/330
+>> French - English
+	Questions about high school?
+
+Step 272/330
+>> English - Persian
+	سوال در مورد دبیرستان؟
+
+Step 273/330
+>> Persian - Kazakh
+	Орта мектеп туралы сұрақтар?
+
+Step 274/330
+>> Kazakh - English
+	Questions about high school?
+
+Step 275/330
+>> English - Malay
+	Soalan mengenai sekolah menengah?
+
+Step 276/330
+>> Malay - Arabic
+	أسئلة حول المدرسة الثانوية؟
+
+Step 277/330
+>> Arabic - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 278/330
+>> Spanish - English
+	Questions about high school?
+
+Step 279/330
+>> English - Russian
+	Вопросы о старшей школе?
+
+Step 280/330
+>> Russian - Romanian
+	Intrebari despre liceu?
+
+Step 281/330
+>> Romanian - Bulgarian
+	Въпроси относно гимназията?
+
+Step 282/330
+>> Bulgarian - Albanian
+	Pyetje për shkollën e mesme?
+
+Step 283/330
+>> Albanian - Russian
+	Вопросы о старшей школе?
+
+Step 284/330
+>> Russian - Arabic
+	أسئلة حول المدرسة الثانوية؟
+
+Step 285/330
+>> Arabic - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 286/330
+>> Spanish - Croatian
+	Pitanja o srednjoj školi?
+
+Step 287/330
+>> Croatian - Hungarian
+	Kérdések a középiskoláról?
+
+Step 288/330
+>> Hungarian - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 289/330
+>> Spanish - Arabic
+	أسئلة حول المدرسة الثانوية؟
+
+Step 290/330
+>> Arabic - Portuguese
+	Dúvidas sobre o ensino médio?
+
+Step 291/330
+>> Portuguese - Latvian
+	Jautājumi par vidusskolu?
+
+Step 292/330
+>> Latvian - Arabic
+	أسئلة حول المدرسة الثانوية؟
+
+Step 293/330
+>> Arabic - Malay
+	Soalan mengenai sekolah menengah?
+
+Step 294/330
+>> Malay - Slovak
+	Máte otázky týkajúce sa strednej školy?
+
+Step 295/330
+>> Slovak - Arabic
+	أسئلة حول المدرسة الثانوية؟
+
+Step 296/330
+>> Arabic - Lithuanian
+	Klausimai apie vidurinę mokyklą?
+
+Step 297/330
+>> Lithuanian - Catalan
+	Té alguna pregunta sobre l'escola secundària?
+
+Step 298/330
+>> Catalan - Arabic
+	هل لديك أي أسئلة حول المدرسة الثانوية؟
+
+Step 299/330
+>> Arabic - Polish
+	Czy masz jakieś pytania dotyczące liceum?
+
+Step 300/330
+>> Polish - Turkish
+	Lise hakkında herhangi bir sorunuz var mı?
+
+Step 301/330
+>> Turkish - Greek
+	Έχετε ερωτήσεις σχετικά με το λύκειο;
+
+Step 302/330
+>> Greek - Estonian
+	Kas teil on keskkooli kohta küsimusi?
+
+Step 303/330
+>> Estonian - Maltese
+	Għandek mistoqsijiet dwar l-iskola sekondarja?
+
+Step 304/330
+>> Maltese - Italian
+	Hai domande su scuola secondaria?
+
+Step 305/330
+>> Italian - Czech
+	Máte otázky ohledně střední školy?
+
+Step 306/330
+>> Czech - Spanish
+	¿Preguntas sobre la escuela secundaria?
+
+Step 307/330
+>> Spanish - Slovenian
+	Vprašanja o srednji šoli?
+
+Step 308/330
+>> Slovenian - French
+	Des questions sur le lycée?
+
+Step 309/330
+>> French - Korean
+	고등학교에 대한 질문?
+
+Step 310/330
+>> Korean - Hebrew
+	שאלות על תיכון?
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Froen iwwer de Lycée?
+
+Step 312/330
+>> Luxembourgish - German
+	Fragen zur Realschule?
+
+Step 313/330
+>> German - Japanese
+	中学校について質問がありますか？
+
+Step 314/330
+>> Japanese - German
+	Hast du eine Frage über junior high school?
+
+Step 315/330
+>> German - Dutch
+	Heb je een vraag over de middelbare school?
+
+Step 316/330
+>> Dutch - Maori
+	Kei a koe tetahi patai mo te kura tuarua?
+
+Step 317/330
+>> Maori - Finnish
+	Onko sinulla kysymyksiä lukiosta?
+
+Step 318/330
+>> Finnish - English
+	Got questions about high school?
+
+Step 319/330
+>> English - Danish
+	Har du spørgsmål om gymnasiet?
+
+Step 320/330
+>> Danish - Dutch
+	Heeft u vragen over de middelbare school?
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	你對高中有疑問嗎？
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Har du frågor om gymnasiet?
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	你對高中有疑問嗎？
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Ertu með spurningar um menntaskóla?
+
+Step 325/330
+>> Icelandic - German
+	Haben Sie Fragen zur High School?
+
+Step 326/330
+>> German - Irish
+	An bhfuil ceisteanna agat faoin scoil ard?
+
+Step 327/330
+>> Irish - English
+	Do you have questions about high school?
+
+Step 328/330
+>> English - German
+	Haben Sie Fragen zur High School?
+
+Step 329/330
+>> German - Norwegian
+	Har du spørsmål om videregående skole?
+
+Step 330/330
+>> Norwegian - Portuguese
+	Tem dúvidas sobre o ensino médio?
+
+
+##### RESULTS ######
+
+O dia que estava nascendo impediu que Cheherazade continuasse a sua história. Prosseguiu-a, porém, no dia seguinte.
+
+Tem dúvidas sobre o ensino médio?

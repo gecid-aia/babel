@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Havia no país de Zumã, na Pérsia, um rei cujos súditos eram gregos originariamente. Esse rei estava coberto de lepra, e os seus médicos, após terem empregado inutilmente todos os remédios para curá-lo, já não sabiam o que prescrever-lhe, quando chegou à corte um médico muito competente, chamado Dubã.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Det var en konge i Zumman, Persia, hvis undersåtter opprinnelig var grekere. Denne kongen var dekket av spedalskhet, og legene hans, etter å ha brukt futeløst alle rettsmidler for å kurere ham, visste ikke lenger hva de skulle forskrive, da en meget kompetent lege ved navn Duban kom til retten.
+
+Step 2/330
+>> Norwegian - German
+	Es gab einen König in Zumman, Persien, dessen Untertanen ursprünglich Griechen waren. Dieser König war mit Lepra überzogen, und seine Ärzte wussten nicht mehr, was sie vorschreiben sollten, als ein sehr kompetenter Arzt namens Duban vor Gericht kam, da sie alle Mittel zur Heilung verwendeten.
+
+Step 3/330
+>> German - English
+	There was a king in Zumman, Persia, whose subjects were originally Greeks. This king was covered in leprosy, and his doctors did not know what to say when a very competent doctor named Duban came to court, using all means to heal.
+
+Step 4/330
+>> English - Irish
+	Bhí rí i Zumman, Persia, a raibh na hábhair ina nGréagaigh ar dtús. Bhí an rí seo clúdaithe le lobhra, agus ní raibh a fhios ag a dhochtúirí cad ba chóir a rá nuair a tháinig dochtúir an-inniúil darb ainm Duban chun na cúirte, ag baint úsáide as gach modh chun leigheas a fháil.
+
+Step 5/330
+>> Irish - German
+	Es gab einen König in Zumman, Persien, dessen erste Untertanen Griechen waren. Dieser König war mit Lepra übersät, und seine Ärzte wussten nicht, was sie sagen sollten, als ein sehr kompetenter Arzt namens Duban mit allen Heilmethoden vor Gericht kam.
+
+Step 6/330
+>> German - Icelandic
+	Það var konungur í Zumman í Persíu, en fyrstu þegnar hans voru Grikkir. Þessi konungur var full af líkþrá og læknar hans vissu ekki hvað ég átti að segja þegar mjög bær læknir að nafni Duban kom fyrir dómstóla með allar lækningaraðferðir.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	在波斯有一位祖曼的國王，他的第一個科目是希臘人。這位國王充滿了麻風病，當一位名叫杜班的非常稱職的醫生帶著所有治療方法來到法庭時，他的醫生不知道該說些什麼。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Det finns en kung av Zulman i Persien, hans första ämne är det grekiska. Kungen var full av spetälska. När en mycket kompetent läkare med namnet Duban kom till domstolen med alla behandlingar visste hans läkare inte vad han skulle säga.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	波斯有一位祖爾曼國王，他的第一個主題是希臘人。國王充滿了麻風病。當一位名叫杜班的非常稱職的醫生帶著所有治療方法來到法庭時，他的醫生不知道該說些什麼。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Perzië heeft een koning van Zulman, zijn eerste thema is de Grieken. De koning is vol melaatsheid. Toen een zeer bekwame arts met de naam Duban naar de rechtbank kwam met alle behandelingen, wist zijn arts niet wat hij moest zeggen.
+
+Step 11/330
+>> Dutch - Danish
+	Persien har en konge af Zulman, hans første tema er grækerne. Kongen er fuld af spedalskhed. Da en meget dygtig læge ved navn Duban kom til retten med alle behandlinger, vidste hans læge ikke, hvad han skulle sige.
+
+Step 12/330
+>> Danish - English
+	Persia has a king of Zulman, his first theme being the Greeks. The king is full of leprosy. When a very capable doctor named Duban came to court with all treatments, his doctor did not know what to say.
+
+Step 13/330
+>> English - Finnish
+	Persialla on Zulmanin kuningas, jonka ensimmäinen teema oli kreikkalaiset. Kuningas on täynnä spitaalia. Kun erittäin kykevä lääkäri nimeltä Duban tuli oikeuden eteen kaikilla hoidoilla, hänen lääkärinsä ei tiennyt mitä sanoa.
+
+Step 14/330
+>> Finnish - Maori
+	Ko Persia te kingi o Zulman, tona kaupapa tuatahi ko nga Kariki. Ki tonu te kingi i te repera. I te wa i haere mai tetahi taakuta mohio ki a Duban ki te kooti me nga maimoatanga katoa, kaore te maakuta i mohio ki nga korero.
+
+Step 15/330
+>> Maori - Dutch
+	Perzië was de koning van Zulman, zijn belangrijkste doelwit was de Grieken. De koning was vol melaatsheid. Toen een ervaren arts Duban voor de rechtbank benaderde met alle behandelingen, wist de arts niet wat hij moest zeggen.
+
+Step 16/330
+>> Dutch - German
+	Persien war der König von Zulman, sein Hauptziel waren die Griechen. Der König war voller Lepra. Als sich ein erfahrener Arzt mit allen Behandlungen vor Gericht an Duban wandte, wusste der Arzt nicht, was er sagen sollte.
+
+Step 17/330
+>> German - Japanese
+	ペルシャはズルマンの王であり、彼の主な標的はギリシャ人でした。王はらい病でいっぱいだった。経験豊富な医師が法廷ですべての治療を受けてデュバンに目を向けたとき、医師は何を言うべきか分からなかった。
+
+Step 18/330
+>> Japanese - German
+	Persien war der König von Zulman und sein Hauptziel waren die Griechen. Der König war voller Lepra. Als ein erfahrener Arzt alle Behandlungen vor Gericht erhielt und Duban ansah, wusste der Arzt nicht, was er sagen sollte.
+
+Step 19/330
+>> German - Luxembourgish
+	Persien war de Kinnek vum Zulman an hir Haaptzil war d'Griichen. De Kinnek war voll mat Lepra. Wann en erfahrenen Dokter all d'Behandlungen viru Geriicht krut an den Duban gekuckt huet, wousst den Dokter net wat ze soen.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	פרס הייתה מלך זולמן ומטרתה העיקרית הייתה היוונים. המלך היה מלא בצרעת. כאשר רופא מנוסה קיבל את כל הטיפולים וצפה בדובן, הרופא לא ידע מה לומר.
+
+Step 21/330
+>> Hebrew - Korean
+	페레스는 줄만의 왕이었고 주요 목적은 그리스인이었습니다. 왕은 나병으로 가득했습니다. 숙련 된 의사가 모든 치료를 받고 Duban을 보았을 때 의사는 무엇을 말할지 몰랐습니다.
+
+Step 22/330
+>> Korean - French
+	Peres était le roi de Zulman et son objectif principal était les Grecs. Le roi était plein de lèpre. Lorsqu'un médecin expérimenté recevait tout le traitement et voyait Duban, il ne savait pas quoi dire.
+
+Step 23/330
+>> French - Slovenian
+	Peres je bil kralj Zulmana in njegov glavni cilj so bili Grki. Kralj je bil poln gobavosti. Ko je izkušeni zdravnik prejel vse zdravljenje in videl Dubana, ni vedel, kaj bi povedal.
+
+Step 24/330
+>> Slovenian - Spanish
+	Pens era el Rey de Zulman y su objetivo principal eran los griegos. El rey estaba lleno de lepra. Cuando el médico experimentado recibió todo el tratamiento y vio a Duban, no sabía qué decir.
+
+Step 25/330
+>> Spanish - Czech
+	Pera byla králem Zulmana a jeho hlavním cílem byli Řekové. Král byl plný malomocenství. Když zkušený lékař podstoupil veškeré ošetření a viděl Dubana, nevěděl, co říct.
+
+Step 26/330
+>> Czech - Italian
+	Pen era il re di Zulman e il suo obiettivo principale erano i greci. Il re era pieno di lebbra. Dopo aver visto Duban, il medico esperto non sapeva cosa dire.
+
+Step 27/330
+>> Italian - Maltese
+	Pinna kien is-sultan ta ’Zulman u l-għan ewlieni tiegħu kien il-Griegi. Ir-re kien mimli lebbra. Wara li ra lil Duban, it-tabib b'esperjenza ma kienx jaf x'għandu jgħid.
+
+Step 28/330
+>> Maltese - Estonian
+	Pen oli kuningas Zulman ja selle peamine eesmärk oli kreeklaste. Kuningas oli täis pidalitõbi. Võttes arvesse Duban, kogenud arst ei tea, mida öelda.
+
+Step 29/330
+>> Estonian - Greek
+	Το στυλό ήταν βασιλιάς Ζουλμάν και ο κύριος σκοπός του ήταν οι Έλληνες. Ο βασιλιάς ήταν γεμάτος λέπρα. Δεδομένου του Duban, ένας έμπειρος γιατρός δεν ξέρει τι να πει.
+
+Step 30/330
+>> Greek - Turkish
+	Kalem Kral Zulman'dı ve asıl amacı Yunanlılardı. Kral cüzzam doluydu. Verilen Duban, deneyimli bir doktor ne söyleyeceğini bilmiyor.
+
+Step 31/330
+>> Turkish - Polish
+	Piórem był król Zulman, a jego głównym celem byli Grecy. Król był pełen trądu. Biorąc pod uwagę Duban, doświadczony lekarz nie wie, co powiedzieć.
+
+Step 32/330
+>> Polish - Arabic
+	كان الملك زولمان ريشة وكان الهدف الرئيسي لليونانيين. كان الملك ممتلئاً بالجذام. بالنظر إلى دوبان ، فإن الطبيب المتمرس لا يعرف ماذا يقول.
+
+Step 33/330
+>> Arabic - Catalan
+	El rei Zulman era una ploma i era el principal objectiu dels grecs. El rei estava ple de lepra. Mirant Doban, el metge experimentat no sap què dir.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Karalius Zulmanas buvo plunksna ir buvo pagrindinis graikų taikinys. Karalius buvo kupinas raupsų. Žvelgdamas į Dobaną, patyręs gydytojas nežino, ką pasakyti.
+
+Step 35/330
+>> Lithuanian - Arabic
+	كان الملك زولمان ريشة وكان الهدف الرئيسي لليونانيين. وكان الملك مليئا بالجذام. عند النظر إلى دوبان ، فإن الطبيب المتمرس لا يعرف ماذا يقول.
+
+Step 36/330
+>> Arabic - Slovak
+	Kráľ Zulman bol perím a bol hlavným cieľom Grékov. Kráľ bol plný malomocenstva. Skúsený lekár pri pohľade na Dobana nevie, čo povedať.
+
+Step 37/330
+>> Slovak - Malay
+	Raja Zulman adalah bulu dan sasaran utama orang Yunani. Raja penuh dengan kusta. Doktor berpengalaman yang melihat Doban tidak tahu apa yang hendak dikatakan.
+
+Step 38/330
+>> Malay - Arabic
+	كان الملك زولمان الهدف الرئيسي لليونانيين وهدفهم. الملك مليء بالجذام. الطبيب ذو الخبرة الذي رأى دوبان لم يكن يعرف ماذا يقول.
+
+Step 39/330
+>> Arabic - Latvian
+	Karalis Zulmans bija grieķu galvenais mērķis un mērķis. Karalis ir spitālības pilns. Pieredzējušais ārsts, kurš redzēja Dupānu, nezināja, ko teikt.
+
+Step 40/330
+>> Latvian - Portuguese
+	O rei Zulman era o principal objetivo e objetivo dos gregos. O rei está cheio de lepra. Um médico experiente que viu Dupan não sabia o que dizer.
+
+Step 41/330
+>> Portuguese - Arabic
+	كان الملك زلمان الهدف والهدف الرئيسي لليونانيين. الملك مليء بالجذام. الطبيب المتمرس الذي رأى دوبان لم يكن يعرف ماذا يقول.
+
+Step 42/330
+>> Arabic - Spanish
+	El rey Zalman fue el objetivo principal y la meta de los griegos. El rey está lleno de lepra. El médico experimentado que vio a Dupan no sabía qué decir.
+
+Step 43/330
+>> Spanish - Hungarian
+	Zalman király volt a görögök fő célja és célja. A király tele van leprával. A tapasztalt orvos, aki látta Dupant, nem tudta, mit mondjon.
+
+Step 44/330
+>> Hungarian - Croatian
+	Kralj Zalman bio je glavni cilj i cilj Grka. Kralj je pun lepre. Iskusni liječnik koji je vidio Dupan nije znao što bi rekao.
+
+Step 45/330
+>> Croatian - Spanish
+	El rey Zalman fue el principal y el objetivo de los griegos. El rey está lleno de lepra. El médico experimentado que vio a Dupan no sabía qué decir.
+
+Step 46/330
+>> Spanish - Arabic
+	وكان الملك زلمان الرئيسي والهدف من الإغريق. الملك مليء بالجذام. الطبيب المتمرس الذي رأى دوبان لم يكن يعرف ماذا يقول.
+
+Step 47/330
+>> Arabic - Russian
+	Царь Залман был главным и мишенью греков. Король полон проказы. Опытный доктор, который видел Дюпана, не знал, что сказать.
+
+Step 48/330
+>> Russian - Albanian
+	Mbreti Zalman ishte kryesori dhe objektivi i Grekëve. Mbreti është plot lebra. Mjeku me përvojë që pa Dupan nuk dinte çfarë të thoshte.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Цар Залман бил вожд и мишена на гърците. Царят е пълен с проказа. Опитният лекар, който видя Дупан, не знаеше какво да каже.
+
+Step 50/330
+>> Bulgarian - Romanian
+	Regele Zalman era liderul și ținta grecilor. Regele este plin de lepră. Medicul cu experiență care l-a văzut pe Dupan nu știa ce să spună.
+
+Step 51/330
+>> Romanian - Russian
+	Царь Залман был вождем и целью греков. Король полон проказы. Опытный доктор, который видел Дюпана, не знал, что сказать.
+
+Step 52/330
+>> Russian - English
+	King Zalman was the leader and target of the Greeks. The king is full of leprosy. The experienced doctor who saw Dupan did not know what to say.
+
+Step 53/330
+>> English - Spanish
+	El rey Zalman fue el líder y el objetivo de los griegos. El rey está lleno de lepra. El médico experimentado que vio a Dupan no sabía qué decir.
+
+Step 54/330
+>> Spanish - Arabic
+	كان الملك زلمان القائد والهدف من الإغريق. الملك مليء بالجذام. الطبيب المتمرس الذي رأى دوبان لم يكن يعرف ماذا يقول.
+
+Step 55/330
+>> Arabic - Malay
+	Raja Zalman adalah pemimpin dan sasaran orang-orang Yunani. Raja penuh dengan kusta. Doktor yang berpengalaman yang melihat Dupan tidak tahu apa yang hendak dikatakan.
+
+Step 56/330
+>> Malay - English
+	King Zalman was the leader and target of the Greeks. The king is full of leprosy. Experienced doctors who see Dupan don't know what to say.
+
+Step 57/330
+>> English - Kazakh
+	Патша Залман гректердің жетекшісі және нысаны болды. Патша алапеске толы. Дюпанды көрген тәжірибелі дәрігерлер не айтарын білмейді.
+
+Step 58/330
+>> Kazakh - Persian
+	شاه زالمان رهبر و شکل یونانیان شد. شاه پر از جذام است. پزشکان باتجربه که نسخه تکراری را می بینند ، نمی دانند چه بگویند.
+
+Step 59/330
+>> Persian - English
+	King Zalman became the leader and figure of the Greeks. The king is full of leprosy. Experienced doctors who see duplicates do not know what to say.
+
+Step 60/330
+>> English - French
+	Le roi Zalman est devenu le leader et la figure des Grecs. Le roi est plein de lèpre. Les médecins expérimentés qui voient des doublons ne savent pas quoi dire.
+
+Step 61/330
+>> French - Spanish
+	El rey Zalman se convirtió en el líder y figura de los griegos. El rey está lleno de lepra. Los médicos con experiencia que ven duplicados no saben qué decir.
+
+Step 62/330
+>> Spanish - Turkish
+	Kral Zalman, Yunanlıların lideri ve figürü oldu. Kral cüzzam dolu. Kopyaları gören deneyimli doktorlar ne söyleyeceğini bilmiyor.
+
+Step 63/330
+>> Turkish - English
+	King Zalman became the leader and figure of the Greeks. The king is full of leprosy. Experienced doctors who see the copies don't know what to say.
+
+Step 64/330
+>> English - Spanish
+	El rey Zalman se convirtió en el líder y figura de los griegos. El rey está lleno de lepra. Los médicos con experiencia que ven las copias no saben qué decir.
+
+Step 65/330
+>> Spanish - Serbian
+	Краљ Залман постао је вођа и лик Грка. Краљ је пун гоба. Искусни љекари који виде копије не знају шта да кажу.
+
+Step 66/330
+>> Serbian - Albanian
+	Mbreti Zalman u bë udhëheqësi dhe figura e Grekëve. Mbreti është plot me kërpudha. Mjekët me përvojë që shohin kopje nuk dinë të thonë.
+
+Step 67/330
+>> Albanian - English
+	King Zalman became the leader and figure of the Greeks. The king is full of mushrooms. Experienced doctors who see copies do not know how to say.
+
+Step 68/330
+>> English - Georgian
+	მეფე ზალმანი გახდა ბერძნების ლიდერი და ფიგურა. მეფე სავსეა სოკოთი. გამოცდილი ექიმები, რომლებიც ასლებს ხედავენ, არ იციან როგორ თქვან.
+
+Step 69/330
+>> Georgian - English
+	King Zalman became the leader and figure of the Greeks. The king is full of mushrooms. Experienced doctors who see copies do not know how to tell.
+
+Step 70/330
+>> English - Spanish
+	El rey Zalman se convirtió en el líder y figura de los griegos. El rey está lleno de hongos. Los médicos con experiencia que ven copias no saben cómo contar.
+
+Step 71/330
+>> Spanish - English
+	King Zalman became the leader and figure of the Greeks. The king is full of mushrooms. Experienced doctors who see copies do not know how to count.
+
+Step 72/330
+>> English - Sinhala
+	සල්මන් රජ ග්‍රීකයන්ගේ නායකයා හා චරිතය බවට පත්විය. රජතුමා හතු වලින් පිරී ඇත. පිටපත් දකින පළපුරුදු වෛද්‍යවරු ගණන් කරන්නේ කෙසේදැයි නොදනිති.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Kralj Salman postao je vođa i lik Grka. Kralj je pun gljiva. Iskusni ljekari koji vide skripte ne znaju kako da broje.
+
+Step 74/330
+>> Bosnian - Spanish
+	El rey Salman se convirtió en el líder y figura de los griegos. El rey está lleno de hongos. Los médicos con experiencia que ven guiones no saben contar.
+
+Step 75/330
+>> Spanish - Portuguese
+	O rei Salman tornou-se o líder e a figura dos gregos. O rei está cheio de cogumelos. Médicos experientes que veem scripts não sabem contar.
+
+Step 76/330
+>> Portuguese - Arabic
+	أصبح الملك سلمان قائدًا وشخصًا لليونانيين. الملك مليء الفطر. لا يمكن للأطباء ذوي الخبرة الذين يرون النصوص أن يخبروا.
+
+Step 77/330
+>> Arabic - Macedonian
+	Кралот Салман стана водач и личност на Грците. Кралот е полн со печурки. Искусните лекари кои ги гледаат текстовите не можат да кажат.
+
+Step 78/330
+>> Macedonian - Armenian
+	Թագավոր Սալմանը դարձավ հույների առաջնորդն ու անձնավորությունը: Թագավորը լի է սնկով: Փորձառու բժիշկները, ովքեր նայում են տեքստերին, չեն կարող ասել:
+
+Step 79/330
+>> Armenian - Thai
+	King Salman เป็นผู้นำและบุคลิกภาพของชาวกรีก กษัตริย์เต็มไปด้วยเห็ด แพทย์ที่มีประสบการณ์ที่ดูตำราไม่สามารถบอกได้
+
+Step 80/330
+>> Thai - Arabic
+	الملك سلمان هو زعيم وشخصية يونانية. الملك مليء الفطر لا يمكن للأطباء ذوي الخبرة الذين ينظرون إلى الكتب المدرسية معرفة ذلك.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	萨勒曼国王是希腊的领导者和人物。国王充满蘑菇有经验的医生看着教科书找不到。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	El rey Salman es el líder y figura de Grecia. El rey está lleno de hongos y los médicos experimentados no pueden encontrar los libros de texto.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Король Салман - лідер і діяч Греції. У короля повно грибів, а досвідчені лікарі не можуть знайти підручники.
+
+Step 84/330
+>> Ukrainian - Spanish
+	El rey Salman es el líder y figura de Grecia. El rey está lleno de hongos, y los médicos experimentados no pueden encontrar libros de texto.
+
+Step 85/330
+>> Spanish - English
+	King Salman is the leader and figure of Greece. The king is full of mushrooms, and experienced doctors cannot find textbooks.
+
+Step 86/330
+>> English - Mongolian
+	Хаан Салман бол Грекийн удирдагч, дүр юм. Хаан мөөгөөр дүүрэн байдаг тул туршлагатай эмч нар сурах бичиг олж чаддаггүй.
+
+Step 87/330
+>> Mongolian - Spanish
+	El rey Salman es un líder griego. Como el rey está lleno de hongos, los médicos experimentados no pueden encontrar libros de texto.
+
+Step 88/330
+>> Spanish - Arabic
+	الملك سلمان زعيم يوناني. نظرًا لأن الملك مليء بالفطريات ، لا يمكن للأطباء ذوي الخبرة العثور على كتب مدرسية.
+
+Step 89/330
+>> Arabic - Kurdish
+	Qral Salman rêberê Yewnanî ye. Ji ber ku padîşah tijî fungî ye, bijîjkên tecrûbir nekarîne pirtûkên dersê bibînin.
+
+Step 90/330
+>> Kurdish - English
+	King Salman is the Greek leader. Because the king is full of fungi, experienced physicians have been unable to find textbooks.
+
+Step 91/330
+>> English - Dutch
+	Koning Salman is de Griekse leider. Omdat de koning vol zit met schimmels, hebben ervaren artsen geen studieboeken kunnen vinden.
+
+Step 92/330
+>> Dutch - English
+	King Salman is the Greek leader. Because the king is full of fungi, experienced doctors have been unable to find study books.
+
+Step 93/330
+>> English - Samoan
+	O le Tupu Salman o le taitai Eleni. Talu ai ona o le tupu ua tumu i mea malie, ua le mafai ona maua e fomai ni tusi suesue.
+
+Step 94/330
+>> Samoan - Uzbek
+	Qirol Salmon yunon rahbari edi. Qirol juda quvnoq bo'lganligi sababli, shifokorlar hech qanday tadqiqot materiallarini ololmaydilar.
+
+Step 95/330
+>> Uzbek - English
+	King Salman was the Greek leader. Because King is so cheerful, doctors don't get any research material.
+
+Step 96/330
+>> English - Arabic
+	كان الملك سلمان هو الزعيم اليوناني. لأن كينج بهيج للغاية ، لا يحصل الأطباء على أي مواد بحثية.
+
+Step 97/330
+>> Arabic - French
+	Le roi Salman était le chef grec. Parce que King est si joyeux, les médecins ne reçoivent aucun matériel de recherche.
+
+Step 98/330
+>> French - Spanish
+	El rey Salman era el jefe griego. Como King está tan feliz, los médicos no reciben ningún material de investigación.
+
+Step 99/330
+>> Spanish - Romanian
+	Regele Salman era șeful grec. Deoarece King este atât de fericit, medicii nu primesc niciun material de cercetare.
+
+Step 100/330
+>> Romanian - Filipino
+	Si Haring Salman ay ang pinuno ng Greek. Dahil napakasaya ni King, ang mga doktor ay hindi tumatanggap ng anumang materyal na pananaliksik.
+
+Step 101/330
+>> Filipino - Zulu
+	INkosi uSaliman yayingumbusi wamaGrikhi. Ngenxa yokuthi iKings ijabule kakhulu, odokotela abazemukeli noma yiziphi izinto zocwaningo.
+
+Step 102/330
+>> Zulu - Arabic
+	كان الملك سالم إمبراطورًا يونانيًا. لأن الملوك متحمس جدًا ، لا يقبل الأطباء أي مواد بحثية.
+
+Step 103/330
+>> Arabic - Indonesian
+	Raja Salem adalah seorang kaisar Yunani. Karena raja sangat antusias, dokter tidak menerima bahan penelitian.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Vua Salem là một hoàng đế Hy Lạp. Vì nhà vua rất nhiệt tình, bác sĩ không nhận được tài liệu nghiên cứu.
+
+Step 105/330
+>> Vietnamese - Spanish
+	El rey Salem fue un emperador griego. Como el rey estaba muy entusiasmado, el médico no recibió materiales de investigación.
+
+Step 106/330
+>> Spanish - Arabic
+	كان الملك سالم إمبراطورًا يونانيًا. وبما أن الملك كان متحمسًا جدًا ، لم يتلق الطبيب مواد بحثية.
+
+Step 107/330
+>> Arabic - Spanish
+	El rey Salem fue un emperador griego. Como el rey estaba muy entusiasmado, el médico no recibió material de investigación.
+
+Step 108/330
+>> Spanish - Russian
+	Король Салем был греческим императором. Поскольку король был в восторге, доктор не получил исследовательский материал.
+
+Step 109/330
+>> Russian - Arabic
+	كان الملك سالم إمبراطورًا يونانيًا. منذ أن كان الملك مسروراً ، لم يتلق الطبيب مواد بحثية.
+
+Step 110/330
+>> Arabic - Spanish
+	El rey Salem fue un emperador griego. Como el rey estaba encantado, el médico no ha recibido material de investigación.
+
+Step 111/330
+>> Spanish - Portuguese
+	O rei Salém era um imperador grego. Como o rei ficou encantado, o médico não recebeu material de pesquisa.
+
+Step 112/330
+>> Portuguese - English
+	King Salem was a Greek emperor. As the king was delighted, the doctor received no research material.
+
+Step 113/330
+>> English - Spanish
+	El rey Salem fue un emperador griego. Como el rey estaba encantado, el médico no recibió material de investigación.
+
+Step 114/330
+>> Spanish - English
+	King Salem was a Greek emperor. As the king was delighted, the doctor did not receive research material.
+
+Step 115/330
+>> English - Hindi
+	राजा सलेम एक यूनानी सम्राट था। जैसा कि राजा प्रसन्न था, डॉक्टर को अनुसंधान सामग्री नहीं मिली।
+
+Step 116/330
+>> Hindi - Portuguese
+	O rei Salém era um imperador grego. Como o rei estava satisfeito, o médico não recebeu material de pesquisa.
+
+Step 117/330
+>> Portuguese - Spanish
+	El rey Salem fue un emperador griego. Como el rey estaba complacido, el médico no recibió material de investigación.
+
+Step 118/330
+>> Spanish - English
+	King Salem was a Greek emperor. As the king was pleased, the doctor did not receive research material.
+
+Step 119/330
+>> English - Bengali
+	রাজা সালেম ছিলেন গ্রীক সম্রাট। রাজা খুশী হওয়ায় ডাক্তার গবেষণার সামগ্রী পান নি।
+
+Step 120/330
+>> Bengali - French
+	Le roi Salem était un empereur grec. Le médecin n'a pas trouvé le matériel de recherche parce que le roi était content.
+
+Step 121/330
+>> French - lao
+	King Salem ແມ່ນຈັກກະພັດກະເຣັກ. ທ່ານ ໝໍ ບໍ່ໄດ້ຊອກຫາເອກະສານຄົ້ນຄວ້າເພາະວ່າກະສັດມີຄວາມສຸກ.
+
+Step 122/330
+>> lao - English
+	King Salem was a Greek emperor. Doctors did not search the research papers because the king was happy.
+
+Step 123/330
+>> English - Portuguese
+	O rei Salém era um imperador grego. Os médicos não procuraram nos documentos de pesquisa porque o rei estava feliz.
+
+Step 124/330
+>> Portuguese - English
+	King Salem was a Greek emperor. The doctors did not search the research papers because the king was happy.
+
+Step 125/330
+>> English - Portuguese
+	O rei Salém era um imperador grego. Os médicos não procuraram nos documentos de pesquisa porque o rei estava feliz.
+
+Step 126/330
+>> Portuguese - English
+	King Salem was a Greek emperor. The doctors did not search the research papers because the king was happy.
+
+Step 127/330
+>> English - Portuguese
+	O rei Salém era um imperador grego. Os médicos não procuraram nos documentos de pesquisa porque o rei estava feliz.
+
+Step 128/330
+>> Portuguese - Burmese
+	ရှငျဘုရငျကလမ်ကဂရိဧကရာဇ်ဖြစ်ခဲ့သည်။ အဆိုပါဆရာဝန်များကရှင်ဘုရင်အဘို့ရှာဖွေရေးအတွက်စာရွက်စာတမ်းများကိုမရှာခဲ့ဘူးပျော်ရွှင်ခဲ့ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	राजा ग्रीक सम्राट जवाफ दिनुभयो। कागजात खोजी थिएन डाक्टर राजा लागि खोज खुसी थियो।
+
+Step 130/330
+>> Nepali - Urdu
+	بادشاہ نے یونانی شہنشاہ کو جواب دیا۔ ڈاکٹر کی تلاش نہیں کی گئی ڈاکٹر کنگ کی تلاش خوش تھی۔
+
+Step 131/330
+>> Urdu - French
+	Le roi répondit à l'empereur grec. Ne pas trouver un docteur, le Dr King était heureux de le découvrir.
+
+Step 132/330
+>> French - English
+	The king answered the Greek emperor. Not finding a doctor, Dr. King was happy to find out.
+
+Step 133/330
+>> English - Swahili
+	Mfalme akamjibu Mfalme wa Uigiriki. Hakupata daktari, Dk King alifurahi kujua.
+
+Step 134/330
+>> Swahili - Arabic
+	أجاب الملك ملك اليونان. لعدم الحصول على طبيب ، كان الدكتور كنغ سعيدًا بمعرفته.
+
+Step 135/330
+>> Arabic - Shona
+	Mambo vakapindura mambo weGreek. Nekusawana chiremba, Dr King vakafara kumuziva.
+
+Step 136/330
+>> Shona - Hausa
+	Sarki ya amsa wa Sarkin Girka. Ta rashin samun likita, Dr King yayi farin cikin sanin shi.
+
+Step 137/330
+>> Hausa - Swahili
+	Mfalme akamjibu mfalme wa Ugiriki. Kwa kutokuwa na daktari, Dk King alifurahi kumjua.
+
+Step 138/330
+>> Swahili - English
+	The king answered the king of Greece. With no doctor, Dr. King was glad to know him.
+
+Step 139/330
+>> English - Arabic
+	أجاب الملك ملك اليونان. مع عدم وجود طبيب ، كان الدكتور كينج سعيدًا بمعرفته.
+
+Step 140/330
+>> Arabic - Malagasy
+	Namaly ny mpanjaka tany Gresy ny mpanjaka. Raha tsy nisy ny dokotera dia faly nahafantatra azy ny Dr. King.
+
+Step 141/330
+>> Malagasy - Swahili
+	Mfalme akamjibu mfalme huko Ugiriki. Bila daktari, Dk alifurahi kumjua. Mfalme.
+
+Step 142/330
+>> Swahili - French
+	Le roi a répondu au roi en Grèce. Sans médecin, le docteur était heureux de le connaître. Roi
+
+Step 143/330
+>> French - Arabic
+	أجاب الملك الملك في اليونان. بدون طبيب ، كان الطبيب سعيدًا بمعرفته. ملك
+
+Step 144/330
+>> Arabic - French
+	Le roi a répondu le roi en Grèce. Sans médecin, le médecin était heureux de le connaître. Le roi
+
+Step 145/330
+>> French - Arabic
+	أجاب الملك الملك في اليونان. بدون طبيب ، كان الطبيب سعيدًا بمعرفته. الملك
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Wa a reponn wa a nan Lagrès. San yon doktè, doktè a te kontan konnen li. Wa a
+
+Step 147/330
+>> Haitian Creole - Pashto
+	پاچا د یونان پاچا ځواب ورکړ. د ډاکټر پرته ، ډاکټر خوښ و چې پدې پوهیږي. پاچا
+
+Step 148/330
+>> Pashto - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin aurait aimé savoir. Le roi
+
+Step 149/330
+>> French - Chichewa
+	Mfumu ya Greece idayankha. Popanda dokotala, adotolo akadakonda kudziwa. Mfumu
+
+Step 150/330
+>> Chichewa - Arabic
+	ورد ملك اليونان. بدون طبيب ، سيكون الطبيب فضوليًا. ملك
+
+Step 151/330
+>> Arabic - Amharic
+	የግሪክ ንጉሥ መለሰ ፡፡ ያለ ሐኪም ፣ ሐኪሙ የማወቅ ጉጉት ይኖረዋል። ንጉስ።
+
+Step 152/330
+>> Amharic - English
+	The king of Greece replied. Without a doctor, the doctor would be curious. King.
+
+Step 153/330
+>> English - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin serait curieux. Roi.
+
+Step 154/330
+>> French - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, daktari angekuwa na hamu ya kujua. King.
+
+Step 155/330
+>> Swahili - Portuguese
+	O rei da Grécia respondeu. Sem médico, o médico ficaria curioso. King.
+
+Step 156/330
+>> Portuguese - Arabic
+	أجاب ملك اليونان. بدون طبيب ، سيكون الطبيب فضوليًا. الملك.
+
+Step 157/330
+>> Arabic - Portuguese
+	O rei da Grécia respondeu. Sem médico, o médico ficará curioso. O rei
+
+Step 158/330
+>> Portuguese - English
+	The king of Greece answered. Without a doctor, the doctor will be curious. King
+
+Step 159/330
+>> English - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin sera curieux. Roi
+
+Step 160/330
+>> French - English
+	The King of Greece replied. Without a doctor, the doctor will be curious. King
+
+Step 161/330
+>> English - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, daktari atakuwa na hamu ya kujua. Mfalme
+
+Step 162/330
+>> Swahili - Arabic
+	أجاب ملك اليونان. بدون طبيب ، سيكون الطبيب فضوليًا. ملك
+
+Step 163/330
+>> Arabic - Arabic
+	The King of Greece replied. Without a doctor, the doctor will be curious. king
+
+Step 164/330
+>> Arabic - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin sera curieux. Roi
+
+Step 165/330
+>> French - Hausa
+	Sarkin Girka ya amsa. Ba tare da likita ba, likita zai zama mai sha'awar bincike. Sarkin
+
+Step 166/330
+>> Hausa - French
+	Le roi de Grèce a répondu. Sans médecin, un médecin serait intéressé par la recherche. Le roi
+
+Step 167/330
+>> French - Arabic
+	The King of Greece replied. Without a doctor, a doctor would be interested in research. The king
+
+Step 168/330
+>> Arabic - Arabic
+	أجاب ملك اليونان. بدون طبيب ، سيكون الطبيب مهتمًا بالبحث. الملك
+
+Step 169/330
+>> Arabic - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, daktari atapendezwa na utafiti. Mfalme
+
+Step 170/330
+>> Swahili - English
+	The king of Greece answered. Without a doctor, the doctor would be interested in the study. King
+
+Step 171/330
+>> English - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin serait intéressé par l'étude. Roi
+
+Step 172/330
+>> French - English
+	The King of Greece replied. Without a doctor, the doctor would be interested in the study. King
+
+Step 173/330
+>> English - Portuguese
+	O rei da Grécia respondeu. Sem um médico, o médico estaria interessado no estudo. Rei
+
+Step 174/330
+>> Portuguese - Arabic
+	أجاب ملك اليونان. بدون طبيب ، سيكون الطبيب مهتمًا بالدراسة. ملك
+
+Step 175/330
+>> Arabic - Portuguese
+	O rei da Grécia respondeu. Sem médico, o médico estará interessado em estudar. King
+
+Step 176/330
+>> Portuguese - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, daktari atakuwa na hamu ya kusoma. Mfalme
+
+Step 177/330
+>> Swahili - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin serait intéressé à étudier. Le roi
+
+Step 178/330
+>> French - English
+	The King of Greece replied. Without a doctor, the doctor would be interested in studying. The king
+
+Step 179/330
+>> English - Amharic
+	የግሪክ ንጉሥ መለሰ ፡፡ ያለ ሐኪም ፣ ሐኪሙ ለማጥናት ፍላጎት ይኖረዋል ፡፡ ንጉሡ
+
+Step 180/330
+>> Amharic - Arabic
+	أجاب ملك اليونان. بدون طبيب ، سيكون الطبيب مهتمًا بالدراسة. الملك
+
+Step 181/330
+>> Arabic - Chichewa
+	Mfumu ya Greece idayankha. Popanda dokotala, adokotala angakonde kuphunzira. Mfumu
+
+Step 182/330
+>> Chichewa - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin préfère étudier. Le roi
+
+Step 183/330
+>> French - Pashto
+	د یونان پاچا ځواب ورکړ. د ډاکټر پرته ، ډاکټر مطالعې ته ترجیع ورکوي. پاچا
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Wa peyi Lagrès te reponn. San yon doktè, doktè a pwefere etid. Wa
+
+Step 185/330
+>> Haitian Creole - Arabic
+	أجاب ملك اليونان. بدون طبيب ، يفضل الطبيب الدراسة. الملوك
+
+Step 186/330
+>> Arabic - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin préfère étudier. Rois
+
+Step 187/330
+>> French - Arabic
+	أجاب ملك اليونان. بدون طبيب ، يفضل الطبيب الدراسة. الملوك
+
+Step 188/330
+>> Arabic - French
+	Le roi de Grèce a répondu. Sans médecin, le médecin préfère étudier. Rois
+
+Step 189/330
+>> French - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, daktari anapendelea kusoma. wafalme
+
+Step 190/330
+>> Swahili - Malagasy
+	Namaly ny mpanjakan'i Gresy. Raha tsy misy ny dokotera dia aleony mianatra ny dokotera. Mpanjaka
+
+Step 191/330
+>> Malagasy - Arabic
+	أجاب ملك اليونان. بدون طبيب ، فإنهم يفضلون الدراسة مع الطبيب. الملوك
+
+Step 192/330
+>> Arabic - English
+	The King of Greece replied. Without a doctor, they prefer to study with a doctor. Kings
+
+Step 193/330
+>> English - Swahili
+	Mfalme wa Ugiriki akajibu. Bila daktari, wanapendelea kusoma na daktari. Wafalme
+
+Step 194/330
+>> Swahili - Hausa
+	Sarkin Girka ya amsa. Ba tare da likita ba, sun fi son yin karatu tare da likita. Sarakuna
+
+Step 195/330
+>> Hausa - Shona
+	Mambo weGreek vakapindura. Pasina chiremba, ivo vanofarira kudzidza nachiremba. Madzimambo
+
+Step 196/330
+>> Shona - Arabic
+	أجاب الملك اليوناني. بدون طبيب ، فإنهم مهتمون أكثر بالدراسة مع الطبيب. الملوك
+
+Step 197/330
+>> Arabic - Swahili
+	Mfalme wa Uigiriki akajibu. Bila daktari, wanavutiwa zaidi na kusoma na daktari. Wafalme
+
+Step 198/330
+>> Swahili - English
+	The king of Greece answered. Without a doctor, they are more interested in studying with a doctor. Kings
+
+Step 199/330
+>> English - French
+	Le roi de Grèce a répondu. Sans médecin, ils sont plus intéressés à étudier avec un médecin. rois
+
+Step 200/330
+>> French - Urdu
+	یونان کے بادشاہ نے جواب دیا۔ ڈاکٹر کے بغیر ، وہ ڈاکٹر کے ساتھ مطالعہ میں زیادہ دلچسپی رکھتے ہیں۔ بادشاہوں
+
+Step 201/330
+>> Urdu - Nepali
+	ग्रीसका राजाले जवाफ दिए। एक डाक्टर बिना, तिनीहरू एक डाक्टर संग अध्ययन मा अधिक चासो छ। राजाहरू
+
+Step 202/330
+>> Nepali - Burmese
+	ဂရိနိုင်ငံဘုရင်ကပြောခဲ့သည်။ ဆရာဝန်တစ်ဦးသာမရှိရင်သူတို့တစ်တွေဆရာဝန်နှင့်အတူလေ့လာမှုတွင်ပိုမိုစိတ်ဝင်စားဖြစ်ကြသည်။ ရှငျဘုရငျတို့
+
+Step 203/330
+>> Burmese - Portuguese
+	Grécia King disse. Sem um médico, eles estão interessados em estudos posteriores com um médico. reis
+
+Step 204/330
+>> Portuguese - English
+	Greece King said. Without a doctor, they are interested in further studies with a doctor. kings
+
+Step 205/330
+>> English - Portuguese
+	Disse o rei da Grécia. Sem médico, eles estão interessados em mais estudos com um médico. reis
+
+Step 206/330
+>> Portuguese - English
+	Said the king of Greece. Without a doctor, they are interested in further studies with a doctor. kings
+
+Step 207/330
+>> English - Portuguese
+	Disse o rei da Grécia. Sem médico, eles estão interessados em mais estudos com um médico. reis
+
+Step 208/330
+>> Portuguese - English
+	Said the king of Greece. Without a doctor, they are interested in further studies with a doctor. kings
+
+Step 209/330
+>> English - lao
+	ກະສັດຂອງປະເທດເກຣັກກ່າວ. ຖ້າບໍ່ມີທ່ານ ໝໍ, ພວກເຂົາສົນໃຈຢາກຮຽນຕໍ່ທ່ານ ໝໍ ຕື່ມອີກ. ກະສັດ
+
+Step 210/330
+>> lao - French
+	Le roi de Grèce a dit. Sans médecin, ils seraient intéressés à en apprendre davantage sur le médecin. Le roi
+
+Step 211/330
+>> French - Bengali
+	গ্রিসের রাজা ড। ডাক্তার না থাকলে তারা চিকিত্সক সম্পর্কে আরও জানার আগ্রহী হবে। রাজা
+
+Step 212/330
+>> Bengali - English
+	King of Greece. Without a doctor, they would be interested to know more about the physician. King
+
+Step 213/330
+>> English - Spanish
+	Rey de Grecia Sin un médico, estarían interesados en saber más sobre el médico. Rey
+
+Step 214/330
+>> Spanish - Portuguese
+	Rei da Grécia Sem médico, eles estariam interessados em saber mais sobre o médico. King
+
+Step 215/330
+>> Portuguese - Hindi
+	ग्रीस के राजा एक डॉक्टर के बिना, वे डॉक्टर के बारे में अधिक जानने के लिए इच्छुक होंगे। राजा
+
+Step 216/330
+>> Hindi - English
+	Without a doctor, the king of Greece, they would be inclined to learn more about the doctor. King
+
+Step 217/330
+>> English - Spanish
+	Sin un médico, el rey de Grecia, se sentirían inclinados a aprender más sobre el médico. Rey
+
+Step 218/330
+>> Spanish - English
+	Without a doctor, the king of Greece, they would feel inclined to learn more about the doctor. King
+
+Step 219/330
+>> English - Portuguese
+	Sem um médico, o rei da Grécia, eles se sentiriam inclinados a aprender mais sobre o médico. Rei
+
+Step 220/330
+>> Portuguese - Spanish
+	Sin un médico, el rey de Grecia, se sentirían inclinados a aprender más sobre el médico. Rey
+
+Step 221/330
+>> Spanish - Arabic
+	بدون طبيب ، ملك اليونان ، سيشعرون بالميل إلى معرفة المزيد عن الطبيب. ملك
+
+Step 222/330
+>> Arabic - Russian
+	Без доктора, короля Греции, они чувствовали бы склонность узнать больше о докторе. король
+
+Step 223/330
+>> Russian - Spanish
+	Sin el médico, el rey de Grecia, se sentirían inclinados a aprender más sobre el médico. el rey
+
+Step 224/330
+>> Spanish - Arabic
+	بدون الطبيب ، ملك اليونان ، كانوا يميلون إلى معرفة المزيد عن الطبيب. الملك
+
+Step 225/330
+>> Arabic - Spanish
+	Sin el médico, el rey de Grecia, tenderían a saber más sobre el médico. El rey
+
+Step 226/330
+>> Spanish - Vietnamese
+	Không có bác sĩ, vua của Hy Lạp, họ sẽ có xu hướng biết nhiều hơn về bác sĩ. Vua
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Tanpa dokter, raja Yunani, mereka akan cenderung tahu lebih banyak tentang dokter. Raja
+
+Step 228/330
+>> Indonesian - Arabic
+	بدون أطباء ، ملوك يونانيون ، يميلون إلى معرفة المزيد عن الأطباء. الملك
+
+Step 229/330
+>> Arabic - Zulu
+	Ngaphandle kodokotela, amakhosi amaGrikhi, bavame ukufunda okuningi ngodokotela. Inkosi
+
+Step 230/330
+>> Zulu - Filipino
+	Bukod sa mga doktor, Greek masters, madalas silang natututo tungkol sa mga doktor. Ang hari
+
+Step 231/330
+>> Filipino - Romanian
+	Pe lângă medici, maeștri greci, ei învață adesea despre medici. Regele
+
+Step 232/330
+>> Romanian - Spanish
+	Además de los médicos, maestros griegos, a menudo aprenden sobre los médicos. rey
+
+Step 233/330
+>> Spanish - French
+	En plus des médecins, les enseignants grecs apprennent souvent à connaître les médecins. le roi
+
+Step 234/330
+>> French - Arabic
+	بالإضافة إلى الأطباء ، يتعرف المعلمون اليونانيون على الأطباء. الملك
+
+Step 235/330
+>> Arabic - English
+	In addition to doctors, Greek teachers get to know doctors. The King
+
+Step 236/330
+>> English - Uzbek
+	Shifokorlardan tashqari, yunon o'qituvchilari shifokorlar bilan tanishadilar. Qirol
+
+Step 237/330
+>> Uzbek - Samoan
+	I le faaopoopo atu i fomaʻi, o faiaoga Eleni e feiloai i fomai. Tupu
+
+Step 238/330
+>> Samoan - English
+	In addition to doctors, Greek teachers meet doctors. It happens
+
+Step 239/330
+>> English - Dutch
+	Naast artsen ontmoeten Griekse leraren ook artsen. Het gebeurt
+
+Step 240/330
+>> Dutch - English
+	In addition to doctors, Greek teachers also meet doctors. It happens
+
+Step 241/330
+>> English - Kurdish
+	Digel bijîjkan, mamosteyên Yewnanî jî bi doktoran re hevdîtin dikin. Ew dibe
+
+Step 242/330
+>> Kurdish - Arabic
+	جنبا إلى جنب مع الأطباء ، يجتمع المدرسون اليونانيون أيضًا مع الأطباء. هذا يحدث
+
+Step 243/330
+>> Arabic - Spanish
+	Junto con los médicos, los maestros griegos también se reúnen con los médicos. Esto pasa
+
+Step 244/330
+>> Spanish - Mongolian
+	Эмч нараас гадна Грекийн багш нар эмч нартай уулздаг. Ийм зүйл тохиолддог
+
+Step 245/330
+>> Mongolian - English
+	In addition to doctors, Greek teachers meet with doctors. This happens
+
+Step 246/330
+>> English - Spanish
+	Además de los médicos, los maestros griegos se reúnen con los médicos. Esto pasa
+
+Step 247/330
+>> Spanish - Ukrainian
+	Крім лікарів, грецькі вчителі зустрічаються з лікарями. Це трапляється
+
+Step 248/330
+>> Ukrainian - Spanish
+	Además de los médicos, los maestros griegos se reúnen con los médicos. Sucede
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	除了医生，希腊老师还会与医生见面。它发生了
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	بالإضافة إلى الطبيب ، سوف يجتمع المعلم اليوناني أيضًا مع الطبيب. لقد حدث ذلك
+
+Step 251/330
+>> Arabic - Thai
+	นอกจากแพทย์แล้วอาจารย์ชาวกรีกจะได้พบแพทย์ มันเกิดขึ้น
+
+Step 252/330
+>> Thai - Armenian
+	Բացի բժիշկներից, հույն ուսուցիչները կարող են տեսնել բժիշկներ, դա տեղի է ունեցել:
+
+Step 253/330
+>> Armenian - Macedonian
+	Покрај докторите, грчките наставници можат да видат и лекари, тоа се случи и.
+
+Step 254/330
+>> Macedonian - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمدرسين اليونانيين رؤية الأطباء أيضًا.
+
+Step 255/330
+>> Arabic - Portuguese
+	Além dos médicos, os professores gregos também podem consultar os médicos.
+
+Step 256/330
+>> Portuguese - Spanish
+	Además de los médicos, los maestros griegos también pueden consultar a los médicos.
+
+Step 257/330
+>> Spanish - Bosnian
+	Pored lekara, grčki učitelji mogu se savetovati i sa lekarima.
+
+Step 258/330
+>> Bosnian - Sinhala
+	වෛද්‍යවරුන්ට අමතරව ග්‍රීක ගුරුවරුන්ට වෛද්‍යවරුන්ගෙන් උපදෙස් ලබා ගත හැකිය.
+
+Step 259/330
+>> Sinhala - English
+	In addition to doctors, Greek teachers can consult doctors.
+
+Step 260/330
+>> English - Spanish
+	Además de los médicos, los maestros griegos pueden consultar a los médicos.
+
+Step 261/330
+>> Spanish - English
+	In addition to doctors, Greek teachers can consult doctors.
+
+Step 262/330
+>> English - Georgian
+	ექიმების გარდა, ბერძნულ მასწავლებლებს შეუძლიათ ექიმების კონსულტაციაც.
+
+Step 263/330
+>> Georgian - English
+	In addition to doctors, Greek teachers can also consult doctors.
+
+Step 264/330
+>> English - Albanian
+	Përveç mjekëve, mësuesit grekë mund të konsultohen edhe me mjekë.
+
+Step 265/330
+>> Albanian - Serbian
+	Поред лекара, грчки наставници се такође могу консултовати са лекарима.
+
+Step 266/330
+>> Serbian - Spanish
+	Además de los médicos, los maestros griegos también pueden consultar con los médicos.
+
+Step 267/330
+>> Spanish - English
+	In addition to doctors, Greek teachers can also consult with doctors.
+
+Step 268/330
+>> English - Turkish
+	Doktorlara ek olarak, Yunanca öğretmenleri de doktorlara danışabilir.
+
+Step 269/330
+>> Turkish - Spanish
+	Además de los médicos, los maestros griegos también pueden consultar a los médicos.
+
+Step 270/330
+>> Spanish - French
+	En plus des médecins, les enseignants grecs peuvent également consulter des médecins.
+
+Step 271/330
+>> French - English
+	In addition to doctors, Greek teachers can also consult doctors.
+
+Step 272/330
+>> English - Persian
+	علاوه بر پزشکان ، معلمان یونانی نیز می توانند با پزشکان مشورت کنند.
+
+Step 273/330
+>> Persian - Kazakh
+	Дәрігерлермен қатар грек мұғалімдері дәрігерлерден де кеңес ала алады.
+
+Step 274/330
+>> Kazakh - English
+	In addition to doctors, Greek teachers can also consult with doctors.
+
+Step 275/330
+>> English - Malay
+	Sebagai tambahan kepada doktor, guru Greek juga boleh berunding dengan doktor.
+
+Step 276/330
+>> Malay - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمعلمين اليونانيين أيضًا استشارة الأطباء.
+
+Step 277/330
+>> Arabic - Spanish
+	Además de los médicos, los maestros griegos también pueden consultar a los médicos.
+
+Step 278/330
+>> Spanish - English
+	In addition to doctors, Greek teachers can also consult doctors.
+
+Step 279/330
+>> English - Russian
+	Помимо врачей, греческие учителя также могут консультировать врачей.
+
+Step 280/330
+>> Russian - Romanian
+	Pe lângă medici, profesorii greci pot consilia și medicii.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Освен лекарите, гръцките учители могат да съветват и лекарите.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Përveç mjekëve, mësuesit grekë gjithashtu mund të këshillojnë mjekët.
+
+Step 283/330
+>> Albanian - Russian
+	Помимо врачей, греческие учителя также могут консультировать врачей.
+
+Step 284/330
+>> Russian - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمدرسين اليونانيين أيضًا تقديم المشورة للأطباء.
+
+Step 285/330
+>> Arabic - Spanish
+	Además de los médicos, los maestros griegos también pueden asesorar a los médicos.
+
+Step 286/330
+>> Spanish - Croatian
+	Osim liječnika, grčki učitelji mogu savjetovati i liječnike.
+
+Step 287/330
+>> Croatian - Hungarian
+	Az orvosokon kívül a görög tanárok is tanácsot adhatnak az orvosoknak.
+
+Step 288/330
+>> Hungarian - Spanish
+	Además de los médicos, los maestros griegos también pueden asesorar a los médicos.
+
+Step 289/330
+>> Spanish - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمدرسين اليونانيين تقديم المشورة للأطباء.
+
+Step 290/330
+>> Arabic - Portuguese
+	Além dos médicos, os professores gregos podem aconselhar os médicos.
+
+Step 291/330
+>> Portuguese - Latvian
+	Papildus ārstiem grieķu skolotāji var konsultēt ārstus.
+
+Step 292/330
+>> Latvian - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمعلمين اليونانيين استشارة الأطباء.
+
+Step 293/330
+>> Arabic - Malay
+	Sebagai tambahan kepada doktor, guru bahasa Yunani boleh berunding dengan doktor.
+
+Step 294/330
+>> Malay - Slovak
+	Okrem lekárov môžu grécki učitelia konzultovať s lekármi.
+
+Step 295/330
+>> Slovak - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمعلمين اليونانيين استشارة الأطباء.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Be gydytojų, gydytojai gali konsultuoti ir Graikijos mokytojai.
+
+Step 297/330
+>> Lithuanian - Catalan
+	A més dels metges, els professors grecs també poden consultar els metges.
+
+Step 298/330
+>> Catalan - Arabic
+	بالإضافة إلى الأطباء ، يمكن للمدرسين اليونانيين أيضًا استشارة الأطباء.
+
+Step 299/330
+>> Arabic - Polish
+	Oprócz lekarzy greccy nauczyciele mogą również konsultować się z lekarzami.
+
+Step 300/330
+>> Polish - Turkish
+	Hekimlere ek olarak, Yunanca öğretmenleri de hekimlere başvurabilirler.
+
+Step 301/330
+>> Turkish - Greek
+	Εκτός από τους γιατρούς, οι Έλληνες εκπαιδευτικοί μπορούν επίσης να απευθυνθούν σε γιατρούς.
+
+Step 302/330
+>> Greek - Estonian
+	Lisaks arstidele saavad Kreeka õpetajad pöörduda ka arstide poole.
+
+Step 303/330
+>> Estonian - Maltese
+	Minbarra t-tobba, l-għalliema Griegi jistgħu wkoll jirrikorru għand it-tobba.
+
+Step 304/330
+>> Maltese - Italian
+	Inoltre i medici, gli insegnanti greci potrebbero anche rivolgersi a medici.
+
+Step 305/330
+>> Italian - Czech
+	Kromě toho se lékaři a učitelé Řecka mohli také poradit s lékaři.
+
+Step 306/330
+>> Czech - Spanish
+	Además, los médicos y maestros griegos también podrían consultar con los médicos.
+
+Step 307/330
+>> Spanish - Slovenian
+	Poleg tega se lahko grški zdravniki in učitelji posvetujejo tudi z zdravniki.
+
+Step 308/330
+>> Slovenian - French
+	En outre, les médecins et les enseignants grecs peuvent également consulter des médecins.
+
+Step 309/330
+>> French - Korean
+	또한 그리스 의사와 교사도 의사와 상담 할 수 있습니다.
+
+Step 310/330
+>> Korean - Hebrew
+	בנוסף, רופאים ומורים יוונים יכולים גם להתייעץ עם רופאים.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Zousätzlech kënne griichesch Dokteren an Enseignanten och Dokteren konsultéieren.
+
+Step 312/330
+>> Luxembourgish - German
+	Darüber hinaus können griechische Ärzte und Lehrer auch Ärzte konsultieren.
+
+Step 313/330
+>> German - Japanese
+	さらに、ギリシャの医師と教師は医師に相談することもできます。
+
+Step 314/330
+>> Japanese - German
+	Darüber hinaus können griechische Ärzte und Lehrer Ärzte konsultieren.
+
+Step 315/330
+>> German - Dutch
+	Bovendien kunnen Griekse artsen en leraren artsen raadplegen.
+
+Step 316/330
+>> Dutch - Maori
+	I tua atu, ka taea e nga taakuta Kariki me nga kaiako te korero ki nga taote.
+
+Step 317/330
+>> Maori - Finnish
+	Lisäksi kreikkalaiset lääkärit ja opettajat voivat puhua lääkäreiden kanssa.
+
+Step 318/330
+>> Finnish - English
+	In addition, Greek doctors and teachers can talk to doctors.
+
+Step 319/330
+>> English - Danish
+	Derudover kan græske læger og lærere tale med læger.
+
+Step 320/330
+>> Danish - Dutch
+	Bovendien kunnen Griekse artsen en leraren met artsen praten.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	此外，希臘醫生和教師可以與醫生交談。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Dessutom kan grekiska läkare och lärare prata med läkare.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	此外，希臘醫生和教師可以與醫生交談。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Að auki geta grískir læknar og kennarar talað við lækna.
+
+Step 325/330
+>> Icelandic - German
+	Außerdem können griechische Ärzte und Lehrer mit Ärzten sprechen.
+
+Step 326/330
+>> German - Irish
+	Ina theannta sin, is féidir le dochtúirí agus múinteoirí na Gréige labhairt le dochtúirí.
+
+Step 327/330
+>> Irish - English
+	In addition, Greek doctors and teachers can talk to doctors.
+
+Step 328/330
+>> English - German
+	Außerdem können griechische Ärzte und Lehrer mit Ärzten sprechen.
+
+Step 329/330
+>> German - Norwegian
+	I tillegg kan greske leger og lærere snakke med leger.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Além disso, médicos e professores gregos podem conversar com médicos.
+
+
+##### RESULTS ######
+
+Havia no país de Zumã, na Pérsia, um rei cujos súditos eram gregos originariamente. Esse rei estava coberto de lepra, e os seus médicos, após terem empregado inutilmente todos os remédios para curá-lo, já não sabiam o que prescrever-lhe, quando chegou à corte um médico muito competente, chamado Dubã.
+
+Além disso, médicos e professores gregos podem conversar com médicos.

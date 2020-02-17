@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: Sire, no reinado do mesmo califa Harun al-Rachid, de que acabo de falar, havia em Bagdá um pobre carregador chamado Hindbá. Um dia de calor excessivo, transportava ele pesadíssima carga de uma porta a outra da cidade. Cansado da caminhada já feita, e, restando-lhe ainda longo percurso, chegou a uma rua onde soprava suave brisa, e cujo calçamento fora banhado com água de rosas. Não podendo desejar vento mais favorável para descansar e refazer um pouco as forças, colocou a carga no chão, e sentou-se sobre ela, perto de uma grande e linda residência.
+
+Step 1/330
+>> Portuguese - Norwegian
+	Sire hadde under den samme kalifen Harun al-Rachid, som jeg nettopp har snakket om, en fattig portør som het Hindba i Bagdad. En dag med overdreven varme bar han en tung last fra en dør til en annen i byen. Lei av fotturen han allerede hadde gjort, og med ham fortsatt en lang vei å komme, kom han til en gate der det blåste en svak bris og hvis fortau hadde blitt badet i rosevann. Ikke i stand til å ønske at en mer gunstig vind skulle hvile og gjenoppbygge styrkene sine litt, satte han belastningen på bakken og satte seg på den, i nærheten av en stor og vakker bolig.
+
+Step 2/330
+>> Norwegian - German
+	Vater, unter demselben Kalifen Harun al-Rachid, über den ich gerade gesprochen habe, hatte einen armen Träger namens Hindba in Bagdad. An einem Tag mit übermäßiger Hitze trug er eine schwere Ladung von einer Tür zur nächsten in der Stadt. Müde von der Wanderung, die er bereits unternommen hatte, und mit ihm noch ein langer Weg, kam er zu einer Straße, in der eine leichte Brise wehte und deren Pflaster in Rosenwasser gebadet worden war. Da er nicht wollte, dass sich ein günstigerer Wind ausruhte und seine Kräfte ein wenig aufbaute, belastete er den Boden und setzte sich darauf, in der Nähe einer großen und schönen Wohnung.
+
+Step 3/330
+>> German - English
+	Father, under the same Caliph Harun al-Rachid, whom I have just talked about, had a poor bearer named Hindba in Baghdad. On a day of excessive heat, he carried a heavy load from one door to the next in the city. Tired of the hike he had already made, and with him still a long way to go, he came to a street where a light breeze had blown and its pavement bathed in rosewater. Since he did not want a more favorable wind to rest and build up his strength, he buried the ground and sat on it, near a large and beautiful apartment.
+
+Step 4/330
+>> English - Irish
+	Athair, faoin Caliph Harun al-Rachid céanna, a bhfuil mé díreach tar éis labhairt fúithi, an raibh an t-iompróir bocht darb ainm Hindba i Bagdad. Ar lá de theas iomarcach, thug sé ualach trom ó dhoras amháin go dtí an chéad cheann eile sa chathair. Tuirseach den fhánaíocht a bhí déanta aige cheana féin, agus bealach fada le dul leis fós, tháinig sé go dtí an tsráid áit a raibh gaoth éadrom blownta agus a chosán buailte i rosewater. Ós rud é nár theastaigh uaithi go mbeadh gaoth níos fabhraí ann agus go neartódh sé a neart, chuir sé an talamh faoi thalamh agus shuigh sé air, in aice le árasán mór agus álainn.
+
+Step 5/330
+>> Irish - German
+	Vater, unter demselben Kalifen Harun al-Rachid, über den ich gerade gesprochen habe, war der arme Träger namens Hindba in Bagdad. An einem Tag übermäßiger Hitze gab er eine schwere Bürde von einer Tür zur nächsten in der Stadt. Er hatte es satt, durch die Gegend zu streifen, die er bereits hinter sich gebracht hatte, und war nach einem langen Weg auf die Straße gekommen, auf der ein leichter Wind wehte und sein Weg mit Rosenwasser beschlagen war. Da sie keinen günstigeren Wind wollte und ihre Kraft stärkte, vergrub er den Boden und setzte sich darauf, in der Nähe einer großen und schönen Wohnung.
+
+Step 6/330
+>> German - Icelandic
+	Faðir, undir sama kalíf Harun al-Rachid, sem ég hef nú aðeins rætt um, var fátæki burðarmaðurinn sem hét Hindba í Bagdad. Á degi of mikils hita lagði hann þungar byrðar frá einni hurðinni til þeirra næstu í borginni. Hann var þreyttur á því að bursta um svæðið sem hann hafði þegar farið framhjá og eftir langan göngutúr á veginum blés létt gola og slóð hans var glórulaus með rósavatni. Þar sem hún vildi ekki hagstæðari vind og styrkja styrk hennar, jarðaði hann jörðina og settist á það, nálægt stórri og fallegri íbúð.
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	父親，在我剛剛討論過的同一個哈里發哈倫·拉希德（Harun al-Rachid）的統治下，他是巴格達的一位名叫辛巴的可憐的搬運工。在一個過熱的日子裡，他從城市的一扇門到另一扇門承受了沉重的負擔。他厭倦了在他已經經過的區域周圍刷牙，在路上長途跋涉之後，微風吹過，他的踪跡與玫瑰水一起沒有得分。他不想要更有利的風和增強她的力量，他埋葬了大地並在一個大而美麗的公寓附近定居。
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	Pappa, under samma kalif Harun al-Rachid som jag just diskuterade, var han en fattig portör med namnet Sinba i Bagdad. På en överhettad dag tog han en tung börda från en dörr till en annan i staden. Han var trött på att borsta tänderna runt det område som han hade passerat, och efter en lång resa på vägen blåste vinden, och hans spår gjorde inte poäng med rosvattnet. Han ville inte ha en mer gynnsam vind och förstärkte hennes styrka. Han begravde landet och bosatte sig nära en stor och vacker lägenhet.
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	爸爸，在我剛才討論過的哈里德·拉希德（Harun al-Rachid）的統治下，他是巴格達一位名叫辛巴的可憐的搬運工。在一個過熱的日子裡，他在城裡從一扇門到另一扇門承擔了沉重的負擔。他厭倦了在他經過的地方刷牙，經過漫長的旅程後，風吹過，他的踪跡並沒有隨著玫瑰水而得分。他不想要更有利的風並增強她的力量。他埋葬了土地，在一個漂亮的大公寓附近定居。
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	Pa, onder het bewind van Harun al-Rachid, waarover ik zojuist heb gesproken, is een arme portier genaamd Bagdad in Simbah. Op een oververhitte dag nam hij een zware last van de ene deur naar de andere in de stad. Hij was het zat om zijn tanden te poetsen waar hij passeerde, en na een lange reis waaide de wind en scoorde zijn spoor niet met het rozenwater. Hij wil geen gunstiger wind en versterkt haar kracht. Hij begroef het land en vestigde zich in de buurt van een prachtig groot appartement.
+
+Step 11/330
+>> Dutch - Danish
+	Far, under Harun al-Rachids regering, som jeg netop har talt om, er en fattig portier ved navn Bagdad i Simbah. På en overophedet dag tog han en tung belastning fra den ene dør til den anden i byen. Han var træt af at børste tænderne, hvor han gik forbi, og efter en lang rejse blæste vinden og scorede ikke sit præg med rosevandet. Han ønsker ikke en mere gunstig vind og styrker hendes styrke. Han begravede jorden og bosatte sig i nærheden af en smuk stor lejlighed.
+
+Step 12/330
+>> Danish - English
+	Dad, under Harun al-Rachid's government, which I just talked about, is a poor porter named Baghdad in Simbah. On an overheated day he took a heavy load from one door to the other in town. He was tired of brushing his teeth as he passed, and after a long journey the wind blew and did not score his mark with the rose water. He does not want a more favorable wind and strengthens her strength. He buried the ground and settled near a pretty big apartment.
+
+Step 13/330
+>> English - Finnish
+	Isä on Harun al-Rachidin hallituksen alaisena, josta juuri puhuin, Simbahissa oleva huono kantaja, nimeltään Bagdad. Ylikuumentuneena päivänä hän vei raskaan taakan kaupungin yhdestä ovesta toiseen. Hän oli kyllästynyt harjaamaan hampaitaan ohikulkiessaan. Pitkän matkan jälkeen tuuli puhalsi eikä pistänyt jälkeensä ruusuvedellä. Hän ei halua suotuisampaa tuulta ja vahvistaa hänen voimaansa. Hän hautasi maan ja asettui melko suuren asunnon lähelle.
+
+Step 14/330
+>> Finnish - Maori
+	Ko te papa kei raro i te kawanatanga a Harun al-Rachid, nana nei ahau i korero ai, he kaihoroi rawakore i Simbah, e kiia nei ko Baghdad. I te ra e tino mahana ana, ka kawea e ia he taumaha mai i tetahi tatau ki tetahi atu i te taone nui. Ka ngenge i te tarai o ona niho i a ia e whiti ana. I muri i te haerenga roa, ka pupuhi te hau, kaore hoki i ruarua i te wai maana. Kaore ia e hiahia ki tetahi koiora pai atu ka whakakaha i tona mana. I whakatokia e ia te whenua, a noho ana ki te taha o tetahi kainga nui.
+
+Step 15/330
+>> Maori - Dutch
+	De vader staat onder de regering van Harun al-Rachid, naar wie ik verwijs, een arme wandelaar in Simbah, nu Bagdad genoemd. Op een bijzonder warme dag draagt hij ladingen van de ene deur naar de andere in het stadscentrum. Ze was het zat om op haar tanden te knarsen terwijl ze overstak. Na een lange reis waaide de wind en er was geen twijfel over warm water. Hij wil geen beter leven dat zijn positie zal versterken. Hij plantte het land en vestigde zich in de buurt van een groot dorp.
+
+Step 16/330
+>> Dutch - German
+	Der Vater untersteht der Regierung von Harun al-Rachid, von dem ich spreche, einem armen Wanderer in Simbah, der jetzt Bagdad heißt. An einem besonders heißen Tag trägt er Lasten von einer Tür zur anderen in der Innenstadt. Sie hatte es satt, beim Überqueren die Zähne zu knirschen. Nach einer langen Reise wehte der Wind und an heißem Wasser bestand kein Zweifel. Er will kein besseres Leben, das seine Position stärkt. Er pflanzte das Land und ließ sich in der Nähe eines großen Dorfes nieder.
+
+Step 17/330
+>> German - Japanese
+	父親は、私が話すハルン・アル・ラヒド政府に報告する。シンバの貧しい放浪者で、現在はバグダッドと呼ばれている。特に暑い日に、彼は市内中心部のあるドアから別のドアに荷物を運びます。彼女は交差するときに歯を磨くのにうんざりしていました。長い旅の後、風が吹いて、お湯に疑いの余地はありませんでした。彼は自分の立場を強化するより良い人生を望んでいません。彼は土地を植え、大きな村の近くに定住しました。
+
+Step 18/330
+>> Japanese - German
+	Der Vater berichtet der Regierung von Harun al-Rahid, dass ich spreche. Simbas armer Wanderer, jetzt Bagdad genannt. Besonders an heißen Tagen transportiert er Gepäck von einer Tür in der Innenstadt zur nächsten. Sie war es leid, sich beim Überqueren die Zähne zu putzen. Nach einer langen Reise wehte der Wind und es gab keinen Zweifel über das heiße Wasser. Er möchte nicht, dass ein besseres Leben seine Position stärkt. Er pflanzte Land und ließ sich in der Nähe eines großen Dorfes nieder.
+
+Step 19/330
+>> German - Luxembourgish
+	De Papp mellt d'Regierung vum Harun al-Rahid datt ech schwätzen. Dem Simba säin aarme Wanderer, elo Bagdad genannt. Besonnesch op waarmen Deeg transportéiert hien Gepäck vun enger Dier an der Stad an déi nächst. Si war midd vun Zänn gebastelen wéi si sech duerchgestrachenem. No enger laanger Rees, huet de Wand geblosen an et war keen Zweiwel iwwer d'waarmt Waasser. Hie wëll net e bessert Liewen fir seng Positioun ze stäerken. Hien huet Land gepflanzt an an engem groussen Duerf etabléiert.
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	אבא מדווח לממשלת הרון אל-רחיד שאני מדבר. המשוטט האומלל של סימבה, שכונה עכשיו בגדאד. במיוחד בימים חמים, הוא נושא מטען מדלת אחת לעיר. נמאס לה לצחצח שיניים כשהיא מתוחה. לאחר מסע ארוך הרוח נשבה ולא היה ספק לגבי המים החמים. הוא לא רוצה שחיים טובים יותר יחזקו את מעמדו. הוא שתל אדמות והתיישב בכפר גדול.
+
+Step 21/330
+>> Hebrew - Korean
+	아빠는 내가 말하는 것을 헤론 알라 히드 정부에보고합니다. 심바의 불행한 방랑자는 이제 바그다드라고 불립니다. 특히 더운 날에는 한 문에서 도시까지 요금이 부과됩니다. 그녀는 긴장할 때 양치질에 지쳤다. 긴 여행 후 바람이 불고 뜨거운 물에 대해서는 의심의 여지가 없었습니다. 그는 자신의 지위를 강화하기 위해 더 나은 삶을 원하지 않습니다. 그는 땅을 심고 큰 마을에 정착했다.
+
+Step 22/330
+>> Korean - French
+	Papa rapporte au gouvernement Heron Alahid ce que je dis. Le malheureux vagabond de Simba s'appelle maintenant Bagdad. Par temps chaud, les tarifs sont facturés d'une porte à la ville. Elle était fatiguée de se brosser les dents quand elle était nerveuse. Il n'y avait aucun doute sur le vent et l'eau chaude après un long voyage. Il ne veut pas d'une vie meilleure pour renforcer sa position. Il a planté des terres et s'est installé dans un grand village.
+
+Step 23/330
+>> French - Slovenian
+	Oče poroča vladi Heron Alahid, kaj rečem. Zlobni vagabond Simbe se zdaj imenuje Bagdad. V vročem vremenu se cene zaračunavajo od enega do drugega mesta. Bila je utrujena od umivanja zob, ko je bila nervozna. Po vetru in vroči vodi po dolgem potovanju ni bilo dvoma. Ne želi si boljšega življenja, da bi okrepil svoj položaj. Zasadil je zemljo in se naselil v veliki vasi.
+
+Step 24/330
+>> Slovenian - Spanish
+	Papá informa al gobernador Heron Allahid lo que yo digo. El malvado vagabundo Simba ahora se llama Bagdad. En climas cálidos, los precios se cobran de un lugar a otro. Estaba cansada de lavarse los dientes cuando estaba nerviosa. No había duda sobre el viento y el agua caliente después de un largo viaje. No quiere una vida mejor para fortalecer su posición. Él plantó tierra y se estableció en un gran pueblo.
+
+Step 25/330
+>> Spanish - Czech
+	Táta informuje guvernéra Herona Allaha, co říkám. Zlý tramp Simba se nyní nazývá Bagdád. V horkém podnebí jsou ceny účtovány z jednoho místa na druhé. Byl jsem unavený z čištění zubů, když jsem byl nervózní. Po dlouhé cestě nebylo pochyb o větru a horké vodě. Nechce, aby jeho život posílil lepší život. Vysadil půdu a usadil se ve velkém městě.
+
+Step 26/330
+>> Czech - Italian
+	Papà dice al Governatore Heron Allah cosa sto dicendo. Il malvagio escursionista Simba ora si chiama Baghdad. Nei climi caldi, i prezzi vengono addebitati da una posizione a altra. Ero stanco di lavarmi i denti quando ero nervoso. Dopo un lungo viaggio, non c'erano dubbi sul vento e sull'acqua calda. Non vuole che la sua vita rafforzi una vita migliore. Piantò la terra e si stabilì in una grande città.
+
+Step 27/330
+>> Italian - Maltese
+	Il-papà jgħid lill-Gvernatur Heron Allah dak li qed ngħid. Il-mixi ħażin Simba issa jissejjaħ Bagdad. Fi klimi sħan, il-prezzijiet jintalbu minn post għall-ieħor. I kien għajjien biex tfarfir snien tiegħi meta kont nervuża. Wara vjaġġ twil, ma kien hemm l-ebda dubju dwar ir-riħ u l-ilma sħun. Hu ma jridx li ħajtu ssaħħaħ ħajja aħjar. Huwa ħawwel l-art u stabbilixxa fi belt kbira.
+
+Step 28/330
+>> Maltese - Estonian
+	Paavst ütleb kuberner Heron Jumal, mida sa ütled. Walking vale Simba nüüdsest Bagdadi. Kuumas kliimas hinnad ühest kohast teise. Ma olin väsinud harjamise mu hambad kui ma närvis. Pärast pikka reisi, ei olnud kahtlust tuul ja sooja veega. Ta ei taha oma elu suurendab paremat elu. Ta istutatud maa ja komplekt suur linn.
+
+Step 29/330
+>> Estonian - Greek
+	Ο Πάπας λέει στον κυβερνήτη Heron God τι λέτε. Περπατώντας το λανθασμένο Simba από τώρα και στο εξής στη Βαγδάτη. Σε ζεστά κλίματα τιμές από το ένα μέρος στο άλλο. Ήμουν κουρασμένος να βουρτσίζω τα δόντια μου όταν ήμουν νευρικός. Μετά από ένα μακρύ ταξίδι, δεν υπήρχε καμία αμφιβολία για τον άνεμο και το ζεστό νερό. Δεν θέλει τη ζωή του να ενισχύσει μια καλύτερη ζωή. Φύτεψε γη και έθεσε μια μεγάλη πόλη.
+
+Step 30/330
+>> Greek - Turkish
+	Papa, Vali Heron Tanrı'ya ne dediğini anlatıyor. Bundan sonra yanlış Simba'yı Bağdat'ta yürümek. Sıcak iklimlerde fiyatları bir yerden diğerine. Sinirlendiğim zaman dişlerimi fırçalamaktan bıkmıştım. Uzun bir yolculuktan sonra, rüzgar ve sıcak su hakkında hiç şüphe yoktu. Hayatının daha iyi bir yaşam sürmesini istemiyor. Toprak dikti ve büyük bir şehir kurdu.
+
+Step 31/330
+>> Turkish - Polish
+	Papież, Heron gubernator mówi Bogu, co powiedział. Potem idziesz niewłaściwą Simbą w Bagdadzie. W gorącym klimacie ceny są z jednego miejsca do drugiego. Zmęczyło mnie mycie zębów, kiedy się zdenerwowałem. Po długiej podróży nie było wątpliwości co do wiatru i ciepłej wody. Nie chce, aby jego życie wiodło lepsze życie. Zasadził ziemię i zbudował duże miasto.
+
+Step 32/330
+>> Polish - Arabic
+	البابا حاكم هيرون يخبر الله بما قاله. ثم تذهب سيمبا الخطأ في بغداد. في المناخ الحار ، تكون الأسعار من مكان إلى آخر. لقد سئمت من تفريش أسناني عندما انزعجت. بعد رحلة طويلة ، لم يكن هناك شك في الريح والماء الساخن. لا أريد أن تعيش حياته حياة أفضل. زرع الأرض وبنى مدينة كبيرة.
+
+Step 33/330
+>> Arabic - Catalan
+	El papa governador Heron li diu a Déu què va dir. Aleshores Simba s’equivoca a Bagdad. En un clima càlid, els preus van d'un lloc a un altre. Estava cansat de raspallar-me les dents quan em vaig enfadar. Després d’un llarg viatge, el vent i l’aigua calenta no hi havia dubtes. No vull viure una vida millor. Va plantar les terres i va construir una gran ciutat.
+
+Step 34/330
+>> Catalan - Lithuanian
+	Valdantis popiežius Heronas pasako Dievui, ką jis pasakė. Tada Simba klysta Bagdade. Šiltu klimatu kainos eina iš vienos vietos į kitą. Kai pavargau, buvau pavargusi valytis dantis. Po ilgos kelionės vėjas ir karštas vanduo nekėlė abejonių. Aš nenoriu gyventi geresnio gyvenimo. Jis pasodino žemę ir pastatė didelį miestą.
+
+Step 35/330
+>> Lithuanian - Arabic
+	البابا هيرون الحاكم يخبر الله بما قاله. ثم سيمبا يخطئ في بغداد. في المناخ الدافئ ، تنتقل الأسعار من مكان إلى آخر. عندما تعبت ، تعبت من تفريش أسناني. بعد رحلة طويلة ، كانت الريح والماء الساخن بلا شك. لا أريد أن أعيش حياة أفضل. زرع الأرض وبنى مدينة كبيرة.
+
+Step 36/330
+>> Arabic - Slovak
+	Vládca pápeža Herona hovorí Bohu, čo povedal. Potom Simba urobí chybu v Bagdade. V teplom podnebí sa ceny pohybujú od miesta k miestu. Keď som bol unavený, bol som unavený čistiť si zuby. Po dlhej ceste bol bezpochyby vietor a horúca voda. Nechcem žiť lepší život. Vysadil zem a postavil veľké mesto.
+
+Step 37/330
+>> Slovak - Malay
+	Penguasa Pope Heron memberitahu Tuhan apa yang dikatakannya. Kemudian Simba membuat kesilapan di Baghdad. Dalam iklim panas, harga berbeza dari satu tempat ke tempat. Apabila saya letih, saya letih untuk menyikat gigi saya. Tidak ada keraguan angin dan air panas sepanjang jalan panjang. Saya tidak mahu menjalani kehidupan yang lebih baik. Dia menanam bumi dan membina sebuah kota besar.
+
+Step 38/330
+>> Malay - Arabic
+	أخبر حاكم البابا هيرون الله بما قاله. ثم ارتكبت سيمبا خطأ في بغداد. في المناخات الحارة ، تختلف الأسعار من مكان إلى آخر. عندما أكون متعبة ، تعبت من تنظيف أسناني. ليس هناك شك في الرياح والمياه الساخنة على طول الطريق. لا أريد أن أعيش حياة أفضل. زرع الأرض وبنى مدينة كبيرة.
+
+Step 39/330
+>> Arabic - Latvian
+	Pāvesta gubernators Herons stāstīja Dievam, ko viņš bija teicis. Tad Simba kļūdījās Bagdādē. Karstā klimatā cenas dažādās vietās atšķiras. Kad esmu noguris, man ir apnicis tīrīt zobus. Bez šaubām, pa ceļam ir vējš un karsts ūdens. Es nevēlos dzīvot labāku dzīvi. Viņš iestādīja zemi un uzcēla lielu pilsētu.
+
+Step 40/330
+>> Latvian - Portuguese
+	Heron, o governador do papa, disse a Deus o que ele havia dito. Então Simba cometeu um erro em Bagdá. Em climas quentes, os preços variam de um lugar para outro. Quando estou cansado, estou cansado de escovar os dentes. Sem dúvida, há vento e água quente no caminho. Eu não quero viver uma vida melhor. Ele plantou terras e construiu uma cidade grande.
+
+Step 41/330
+>> Portuguese - Arabic
+	أخبر هيرون ، حاكم البابا ، الله بما قاله. لذا ارتكبت سيمبا خطأ في بغداد. في المناخات الحارة ، تختلف الأسعار من مكان إلى آخر. عندما أكون متعبة ، تعبت من تنظيف أسناني. لا شك أن الرياح والماء الساخن في الطريق. لا أريد أن أعيش حياة أفضل. زرع الأرض وبنى مدينة كبيرة.
+
+Step 42/330
+>> Arabic - Spanish
+	Heron, el gobernador del Papa, le dijo a Dios lo que había dicho. Entonces Simba cometió un error en Bagdad. En climas cálidos, los precios varían de un lugar a otro. Cuando estoy cansado, estoy cansado de lavarme los dientes. Sin duda el viento y el agua caliente están en camino. No quiero vivir una vida mejor. Él plantó la tierra y construyó una gran ciudad.
+
+Step 43/330
+>> Spanish - Hungarian
+	Heron, a pápa kormányzója elmondta Istennek, amit mondott. Aztán Simba hibázott Bagdadban. Forró éghajlati viszonyok között az árak eltérőek. Amikor fáradt vagyok, fáradt vagyok a fogmosásról. Kétségtelen, hogy a szél és a forró víz úton vannak. Nem akarok jobb életet élni. Ültette a földet és nagy várost épített.
+
+Step 44/330
+>> Hungarian - Croatian
+	Heron, papin upravitelj, rekao je Bogu što je rekao. Tada je Simba pogriješio u Bagdadu. Cijene variraju u vrućim klimama. Kad sam umorna, umorna sam od pranja zuba. Bez sumnje su vjetar i topla voda na putu. Ne želim živjeti bolji život. On je zasadio zemlju i sagradio veliki grad.
+
+Step 45/330
+>> Croatian - Spanish
+	Heron, el mayordomo del papa, le dijo a Dios lo que había dicho. Simba cometió un error en Bagdad. Los precios varían en climas cálidos. Cuando estoy cansado, estoy cansado de lavarme los dientes. Sin duda el viento y el agua caliente están en camino. No quiero vivir una vida mejor. Él plantó la tierra y construyó una gran ciudad.
+
+Step 46/330
+>> Spanish - Arabic
+	أخبر هيرون ، خدم البابا ، الله بما قاله. ارتكبت سيمبا خطأ في بغداد. تختلف الأسعار في المناخات الحارة. عندما أكون متعبة ، تعبت من تنظيف أسناني. لا شك أن الرياح والماء الساخن في طريقهم. لا أريد أن أعيش حياة أفضل. لقد زرع الأرض وبنى مدينة عظيمة.
+
+Step 47/330
+>> Arabic - Russian
+	Он сказал Герону, слуге Папы, Богу, что он сказал. Симба допустил ошибку в Багдаде. Цены варьируются в жарком климате. Когда я устал, я устал чистить зубы. Без сомнения, ветер и горячая вода уже в пути. Я не хочу жить лучше. Он посадил землю и построил великий город.
+
+Step 48/330
+>> Russian - Albanian
+	Ai i tha Heronit, shërbëtorit të Papës, Zotit atë që kishte thënë. Simba bëri një gabim në Bagdad. Mimet ndryshojnë në klimat e nxehta. Kur jam lodhur, jam lodhur të laj dhëmbët. Pa dyshim, era dhe uji i nxehtë janë në rrugën e tyre. Nuk dua të jetoj më mirë. Ai mbolli tokë dhe ndërtoi një qytet të shkëlqyeshëm.
+
+Step 49/330
+>> Albanian - Bulgarian
+	Той каза на слугата на Херона Папата Господ какво е казал. Симба направи грешка в Багдад. Цените варират в горещия климат. Когато съм уморен, ми омръзна да мия зъбите. Без съмнение, вятърът и топлата вода са на път. Не искам да живея по-добре. Засади земя и построи хубав град.
+
+Step 50/330
+>> Bulgarian - Romanian
+	El i-a spus slujitorului lui Heron, Papa Domnului, ce a spus. Simba a făcut o greșeală în Bagdad. Prețurile variază în condiții de climă caldă. Când sunt obosit, m-am săturat să mă spăl pe dinți. Fără îndoială, vântul și apa caldă sunt pe drum. Nu vreau să trăiesc mai bine. Plantează pământul și construiește un oraș frumos.
+
+Step 51/330
+>> Romanian - Russian
+	Он рассказал слуге цапли, папе, что он сказал Симба допустил ошибку в Багдаде. Цены варьируются в жарких погодных условиях. Когда я устал, я устал чистить зубы. Без сомнения, ветер и горячая вода уже в пути. Я не хочу жить лучше. Посади землю и построй красивый город.
+
+Step 52/330
+>> Russian - English
+	He told the heron's servant, dad, that he said Simba made a mistake in Baghdad. Prices vary in hot weather. When I'm tired, I'm tired of brushing my teeth. No doubt, wind and hot water are on their way. I do not want to live better. Plant the land and build a beautiful city.
+
+Step 53/330
+>> English - Spanish
+	Le dijo al criado de la garza, papá, que dijo que Simba cometió un error en Bagdad. Los precios varían en climas cálidos. Cuando estoy cansado, estoy cansado de lavarme los dientes. Sin duda, el viento y el agua caliente están en camino. No quiero vivir mejor. Planta la tierra y construye una hermosa ciudad.
+
+Step 54/330
+>> Spanish - Arabic
+	أخبر خادم الحزين يا أبي أنه قال إن سيمبا ارتكب خطأ في بغداد. تختلف الأسعار في المناخات الحارة. عندما أكون متعبة ، تعبت من تنظيف أسناني. بلا شك ، الرياح والمياه الساخنة في طريقهم. لا أريد أن أعيش حياة أفضل. زرع الأرض وبناء مدينة جميلة.
+
+Step 55/330
+>> Arabic - Malay
+	Hamba yang menyedihkan memberitahu Dad bahawa dia berkata Simba telah membuat kesilapan di Baghdad. Harga berbeza di dalam iklim panas. Apabila saya letih, saya bosan menyikat gigi saya. Tidak dinafikan, angin dan air panas sedang dalam perjalanan. Saya tidak mahu menjalani kehidupan yang lebih baik. Menanam tanah dan membina sebuah bandar yang indah.
+
+Step 56/330
+>> Malay - English
+	The sad servant tells Dad that he said Simba had made a mistake in Baghdad. Prices vary in hot climates. When I'm tired, I'm tired of brushing my teeth. No doubt, the wind and hot water are on the way. I don't want to live a better life. Planting land and building a beautiful city.
+
+Step 57/330
+>> English - Kazakh
+	Қайғылы қызметші әкеме Симба Бағдадта қателік жібергенін айтты. Бағасы ыстық климатта өзгереді. Шаршап жатқанда тісімді щеткадан шаршадым. Жел мен ыстық су жолда екені даусыз. Мен жақсы өмір сүргім келмейді. Жер отырғызып, әдемі қала салу.
+
+Step 58/330
+>> Kazakh - Persian
+	بنده ناراحت کننده به من گفت كه پدرم با سیمبا بغداد اشتباه كرده است. تغییرات قیمت در آب و هوای گرم. وقتی خسته شدم از مسواک خسته شدم. باد و آب گرم آشکارا در راه است. من نمی خواهم زندگی خوبی داشته باشم. کاشت یک زمین و ساختن یک شهر زیبا.
+
+Step 59/330
+>> Persian - English
+	The upset servant told me that my father was wrong with Simba in Baghdad. Price changes in warm climate. When I got tired I got tired of the toothbrush. Wind and warm water are clearly on the way. I don't want to have a good life. Plant a land and build a beautiful city.
+
+Step 60/330
+>> English - French
+	Le serviteur contrarié m'a dit que mon père avait tort avec Simba à Bagdad. Changements de prix dans le climat chaud. Quand je suis fatigué, je suis fatigué de la brosse à dents. Le vent et l'eau chaude sont clairement sur le chemin. Je ne veux pas avoir une bonne vie. Plantez un terrain et construisez une belle ville.
+
+Step 61/330
+>> French - Spanish
+	El criado molesto me dijo que mi padre estaba equivocado con Simba en Bagdad. Cambios de precios en el clima cálido. Cuando estoy cansado, estoy cansado del cepillo de dientes. El viento y el agua caliente están claramente en camino. No quiero tener una buena vida. Planta un pedazo de tierra y construye una hermosa ciudad.
+
+Step 62/330
+>> Spanish - Turkish
+	Sinir bozucu hizmetçi, babamın Bağdat'taki Simba'da yanıldığını söyledi. Sıcak havalarda fiyat değişiklikleri. Yorgun olduğumda, diş fırçasından bıktım. Rüzgar ve sıcak su açıkça yolda. İyi bir hayat yaşamak istemiyorum. Bir toprak parçası dik ve güzel bir şehir kur.
+
+Step 63/330
+>> Turkish - English
+	The annoying maid said my father was wrong in Simba in Baghdad. Price changes in hot weather. I'm tired of the toothbrush when I'm tired. Wind and hot water clearly on the road. I don't want to live a good life. Set up a steep and beautiful city.
+
+Step 64/330
+>> English - Spanish
+	La molesta mucama dijo que mi padre estaba equivocado en Simba, Bagdad. Cambios de precios en climas cálidos. Estoy cansado del cepillo de dientes cuando estoy cansado. Viento y agua caliente claramente en el camino. No quiero vivir una buena vida. Establece una ciudad empinada y hermosa.
+
+Step 65/330
+>> Spanish - Serbian
+	Досадна слушкиња рекла је да мој отац није био у Симби у Багдаду. Промене цена у врућим климама. Уморна сам од четкице за зубе кад сам уморна. Ветар и топла вода јасно на путу. Не желим да живим леп живот. Успоставите стрми и леп град.
+
+Step 66/330
+>> Serbian - Albanian
+	Një shërbëtore e bezdisshme tha që babai im nuk ishte në Simba të Bagdadit. Ndryshimet e çmimeve në klimat e nxehta. Jam lodhur nga furça e dhëmbëve kur jam lodhur. Era dhe uji i ngrohtë qartë në rrugë të mbarë. Nuk dua të jetoj një jetë të bukur. Vendosni një qytet të pjerrët dhe të bukur.
+
+Step 67/330
+>> Albanian - English
+	An annoying maid said my father was not in Simba, Baghdad. Price changes in hot climates. I'm tired of my toothbrush when I'm tired. Wind and warm water clearly on the way. I don't want to live a beautiful life. Set up a steep and beautiful city.
+
+Step 68/330
+>> English - Georgian
+	შემაშფოთებელი მოახლე ამბობს, რომ მამაჩემი ბაღდადში, სიმბაში არ იმყოფებოდა. ფასების ცვლილებები ცხელ კლიმატში. დავიღალე კბილის ჯაგრისით, როდესაც დავიღალე. გზაში აშკარად ქარი და თბილი წყალი. არ მსურს ლამაზი ცხოვრება. ჩამოაყალიბეთ ციცაბო და ლამაზი ქალაქი.
+
+Step 69/330
+>> Georgian - English
+	The annoying maid says that my father was not in Baghdad, Simba. Price changes in hot climate. I got tired of toothbrushes when I got tired. On the way there is clearly wind and warm water. I do not want to live a beautiful life. Build a steep and beautiful city.
+
+Step 70/330
+>> English - Spanish
+	La molesta mucama dice que mi padre no estaba en Bagdad, Simba. Cambios de precios en climas cálidos. Me cansé de los cepillos de dientes cuando me cansé. En el camino claramente hay viento y agua tibia. No quiero vivir una vida hermosa. Construye una ciudad empinada y hermosa.
+
+Step 71/330
+>> Spanish - English
+	The annoying maid says that my father was not in Baghdad, Simba. Price changes in hot climates. I got tired of toothbrushes when I got tired. On the road there is clearly wind and warm water. I do not want to live a beautiful life. Build a steep and beautiful city.
+
+Step 72/330
+>> English - Sinhala
+	කරදරකාරී සේවිකාව පවසන්නේ මගේ පියා සිම්බා හි බැග්ඩෑඩ්හි නොසිටි බවයි. උණුසුම් දේශගුණයේ මිල වෙනස් වීම. මට මහන්සියි දත් බුරුසු වලින් මහන්සියි. පාරේ පැහැදිලිවම සුළඟ හා උණුසුම් ජලය ඇත. සුන්දර ජීවිතයක් ගත කිරීමට මට අවශ්‍ය නැත. බෑවුම් සහිත ලස්සන නගරයක් ගොඩනඟන්න.
+
+Step 73/330
+>> Sinhala - Bosnian
+	Problematičar kaže da moj otac nije bio u Bagdadu, u Simbi. Cene se mijenjaju u toplijim klimama. Umorna sam od četkica za zube. Put je jasno vjetrovit i topla voda. Ne želim da živim lep život. Izgradite prekrasan grad sa padinama.
+
+Step 74/330
+>> Bosnian - Spanish
+	El alborotador dice que mi padre no estaba en Bagdad, Simba. Los precios cambian en climas más cálidos. Estoy cansado de los cepillos de dientes. El camino es claramente ventoso y agua tibia. No quiero vivir una buena vida. Construye una hermosa ciudad con pendientes.
+
+Step 75/330
+>> Spanish - Portuguese
+	O encrenqueiro diz que meu pai não estava em Bagdá, Simba. Os preços mudam em climas mais quentes. Estou cansado de escovas de dente. A estrada é claramente de vento e água quente. Eu não quero viver uma vida boa. Construa uma bela cidade com encostas.
+
+Step 76/330
+>> Portuguese - Arabic
+	يقول مثيري الشغب والدي لم يكن في بغداد ، سيمبا. تتغير الأسعار في المناخات الدافئة. لقد تعبت من فرشاة الأسنان. الطريق واضح الرياح والمياه الساخنة. أنا لا أريد أن أعيش حياة جيدة. بناء مدينة جميلة مع المنحدرات.
+
+Step 77/330
+>> Arabic - Macedonian
+	Немирите велат дека татко ми не бил во Багдад, Симба. Цените се менуваат во топлите клими. Уморен сум од четки за заби. Патен ветер и топла вода. Не сакам да живеам добар живот. Изградете прекрасен град со падини.
+
+Step 78/330
+>> Macedonian - Armenian
+	Անհանգստությունները ասում են, որ հայրս Բաղդադում չի եղել, Սիմբա: Գները փոխվում են տաք կլիմայի պայմաններում: Ես հոգնել եմ ատամի խոզանակներից: Roadանապարհի քամի և տաք ջուր: Ես չեմ ուզում լավ կյանք ապրել: Կառուցեք մի գեղեցիկ քաղաք լանջերով:
+
+Step 79/330
+>> Armenian - Thai
+	กังวลว่าพ่อของฉันไม่ได้อยู่ในแบกแดดซิมบ้า ราคากำลังเปลี่ยนแปลงในสภาพอากาศร้อน ฉันเบื่อแปรงสีฟัน ลมถนนและน้ำร้อน ฉันไม่ต้องการมีชีวิตที่ดี สร้างเมืองที่สวยงามบนเนินเขา
+
+Step 80/330
+>> Thai - Arabic
+	قلق من أن أبي ليس في بغداد سيمبا الأسعار تتغير في الطقس الحار. أشعر بالملل من فرشاة الأسنان ريح الشوارع والماء الساخن لا أريد أن أحصل على حياة جيدة بناء مدينة جميلة على التلال.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	担心我的父亲不在巴格达辛巴的价格在炎热的天气变化。我对街头风牙刷感到厌倦，热水不想在山上建立一个美丽的城市。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	Preocupado de que mi padre no haya cambiado los precios en Bagdad Simba cuando hace calor. Estoy cansado de los cepillos de dientes de viento de la calle, el agua caliente no quiere construir una hermosa ciudad en la montaña.
+
+Step 83/330
+>> Spanish - Ukrainian
+	Стурбований тим, що мій батько не змінив ціни в Багдаді Сімбі в жарку погоду. Я втомився від вітру зубними щітками вулиці, гаряча вода не хоче будувати на горі гарне місто.
+
+Step 84/330
+>> Ukrainian - Spanish
+	Preocupado porque mi padre no cambió el precio en Bagdad Simba cuando hace calor. Estoy cansado del viento con los cepillos de dientes de la calle, el agua caliente no quiere construir una hermosa ciudad en la montaña.
+
+Step 85/330
+>> Spanish - English
+	Worried because my father did not change the price in Baghdad Simba in hot weather. I'm tired of the wind with toothbrushes from the street, hot water does not want to build a beautiful city in the mountains.
+
+Step 86/330
+>> English - Mongolian
+	Аав маань халуун цаг агаарт Багдад Симба дахь үнийг өөрчлөөгүй тул санаа зовов. Гудамжинд гарсан шүдний сойзоор салхинд залхаж байна, халуун ус ууланд үзэсгэлэнтэй хот байгуулахыг хүсэхгүй байна.
+
+Step 87/330
+>> Mongolian - Spanish
+	Mi padre estaba preocupado porque no cambió el precio en Bagdad por el clima cálido. Cansado del parabrisas con un cepillo de dientes en la calle, no quiero agua caliente para construir una ciudad hermosa.
+
+Step 88/330
+>> Spanish - Arabic
+	كان والدي يشعر بالقلق لأن السعر في بغداد لم يتغير بسبب الطقس الدافئ. تعبت من الزجاج الأمامي مع فرشاة الأسنان في الشارع ، لا أريد الماء الساخن لبناء مدينة جميلة.
+
+Step 89/330
+>> Arabic - Kurdish
+	Bavê min xemgîn bû ku ji ber ku hewa germ nebe buhayê li Bexdayê neguheze. Xwarziyê bi beroşiya diranê ya li ser cadeyê têr, naxwazin ava germ ji bo avakirina bajarek xweşik.
+
+Step 90/330
+>> Kurdish - English
+	My father was worried that the price would not change in Baghdad due to the warm weather. Food with enough toothpaste on the caddy do not want hot water to build a beautiful city.
+
+Step 91/330
+>> English - Dutch
+	Mijn vader was bang dat de prijs in Bagdad niet zou veranderen door het warme weer. Voedsel met voldoende tandpasta op de caddy wil niet dat warm water een prachtige stad bouwt.
+
+Step 92/330
+>> Dutch - English
+	My father was afraid that the price in Baghdad would not change due to the warm weather. Food with sufficient toothpaste on the caddy does not want hot water to build a beautiful city.
+
+Step 93/330
+>> English - Samoan
+	Na fefe loʻu tama e le suia le tau i Baghdad ona o le mafanafana o le tau. O meaai e lava le tollpasta i luga o le tama e le manao i le vai vevela e fausia se aai matagofie.
+
+Step 94/330
+>> Samoan - Uzbek
+	Dadam, iliq ob-havo tufayli Bag'doddagi ob-havo o'zgarmasligidan qo'rqardi. Bolaga go'zal shahar qurish uchun issiq suv istamasligi uchun oziq-ovqat to'laqonli.
+
+Step 95/330
+>> Uzbek - English
+	My father was worried that the weather in Baghdad would not change because of the warm weather. Food is full so that the child does not want hot water to build a beautiful city.
+
+Step 96/330
+>> English - Arabic
+	كان والدي يشعر بالقلق من أن الطقس في بغداد لن يتغير بسبب الطقس الدافئ. الطعام ممتلئ حتى لا يرغب الطفل في الحصول على مياه ساخنة لمدينة جميلة.
+
+Step 97/330
+>> Arabic - French
+	Mon père craignait que le temps qu'il fait à Bagdad ne change pas à cause du temps chaud. La nourriture est pleine pour que l'enfant ne veuille pas d'eau chaude pour une belle ville.
+
+Step 98/330
+>> French - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está llena para que el niño no quiera agua caliente para una ciudad hermosa.
+
+Step 99/330
+>> Spanish - Romanian
+	Tatăl meu era îngrijorat că vremea din Bagdad nu se va schimba din cauza vremii călduroase. Mâncarea este plină, astfel încât copilul să nu dorească apă caldă pentru un oraș frumos.
+
+Step 100/330
+>> Romanian - Filipino
+	Nag-aalala ang aking ama na ang panahon sa Baghdad ay hindi magbabago dahil sa mainit na panahon. Puno ang pagkain kaya ayaw ng bata ng mainit na tubig para sa isang magandang lungsod.
+
+Step 101/330
+>> Filipino - Zulu
+	Ubaba wayekhathazekile ukuthi isimo sezulu eBaghdad ngeke sishintshe ngenxa yesimo sezulu esishisayo. Ukudla kugcwele kangangokuba ingane ayifuni amanzi ashisayo wedolobha elihle.
+
+Step 102/330
+>> Zulu - Arabic
+	كان والدي يشعر بالقلق من أن الطقس في بغداد لن يتغير بسبب الطقس الحار. الطعام ممتلئ إلى درجة أن الطفل لا يريد الماء الساخن لمدينة جميلة.
+
+Step 103/330
+>> Arabic - Indonesian
+	Ayah saya khawatir bahwa cuaca di Baghdad tidak akan berubah karena cuaca yang panas. Makanannya begitu penuh sehingga anak tidak ingin air panas untuk kota yang indah.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Cha tôi đã lo lắng rằng thời tiết ở Baghdad sẽ không thay đổi vì thời tiết nóng. Thức ăn đầy đến mức trẻ em không muốn có nước nóng cho một thành phố xinh đẹp.
+
+Step 105/330
+>> Vietnamese - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está tan llena que los niños no quieren agua caliente para una ciudad hermosa.
+
+Step 106/330
+>> Spanish - Arabic
+	كان والدي يشعر بالقلق من أن الطقس في بغداد لن يتغير بسبب الطقس الدافئ. الطعام ممتلئ إلى درجة أن الأطفال لا يريدون مياه ساخنة لمدينة جميلة.
+
+Step 107/330
+>> Arabic - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está tan llena que los niños no quieren agua caliente para una ciudad hermosa.
+
+Step 108/330
+>> Spanish - Russian
+	Мой отец волновался, что погода в Багдаде не изменится из-за теплой погоды. Еда настолько полная, что дети не хотят горячей воды для красивого города.
+
+Step 109/330
+>> Russian - Arabic
+	كان والدي قلقًا من أن الطقس في بغداد لن يتغير بسبب الطقس الدافئ. الطعام كامل لدرجة أن الأطفال لا يريدون مياه ساخنة لمدينة جميلة.
+
+Step 110/330
+>> Arabic - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está tan llena que los niños no quieren agua caliente para una ciudad hermosa.
+
+Step 111/330
+>> Spanish - Portuguese
+	Meu pai estava preocupado que o tempo em Bagdá não mudasse devido ao clima quente. A comida é tão cheia que as crianças não querem água quente para uma cidade bonita.
+
+Step 112/330
+>> Portuguese - English
+	My father was concerned that the weather in Baghdad would not change due to the hot weather. The food is so crowded that kids don't want hot water for a beautiful city.
+
+Step 113/330
+>> English - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está tan llena que los niños no quieren agua caliente para una ciudad hermosa.
+
+Step 114/330
+>> Spanish - English
+	My father was worried that the weather in Baghdad would not change due to the warm weather. The food is so full that children do not want hot water for a beautiful city.
+
+Step 115/330
+>> English - Hindi
+	मेरे पिता चिंतित थे कि गर्म मौसम के कारण बगदाद में मौसम नहीं बदलेगा। भोजन इतना भर है कि बच्चे एक सुंदर शहर के लिए गर्म पानी नहीं चाहते हैं।
+
+Step 116/330
+>> Hindi - Portuguese
+	Meu pai estava preocupado que o tempo em Bagdá não mudasse devido ao clima quente. A comida é tão cheia que as crianças não querem água quente para uma cidade bonita.
+
+Step 117/330
+>> Portuguese - Spanish
+	A mi padre le preocupaba que el clima en Bagdad no cambiara debido al clima cálido. La comida está tan llena que los niños no quieren agua caliente para una ciudad hermosa.
+
+Step 118/330
+>> Spanish - English
+	My father was worried that the weather in Baghdad would not change due to the warm weather. The food is so full that children do not want hot water for a beautiful city.
+
+Step 119/330
+>> English - Bengali
+	আব্বা ভয় পেয়েছিলেন যে উষ্ণ আবহাওয়ার কারণে বাগদাদে আবহাওয়া পরিবর্তিত হবে না। খাবার এতটাই পূর্ণ যে বাচ্চারা কোনও সুন্দর শহরের জন্য গরম জল চায় না।
+
+Step 120/330
+>> Bengali - French
+	Abba craignait que le temps ne change pas à Bagdad à cause du temps plus clément. La nourriture est tellement copieuse que les enfants ne veulent pas d'eau chaude pour une belle ville.
+
+Step 121/330
+>> French - lao
+	ທ່ານ Abba ຢ້ານວ່າເວລາຈະບໍ່ປ່ຽນແປງຢູ່ Baghdad ຍ້ອນສະພາບອາກາດບໍ່ຮຸນແຮງ. ອາຫານການກິນກໍ່ພໍສົມຄວນທີ່ເດັກນ້ອຍບໍ່ຕ້ອງການນໍ້າຮ້ອນ ສຳ ລັບເມືອງງາມ.
+
+Step 122/330
+>> lao - English
+	Abba fears that the time will not change in Baghdad due to the mild climate. The food is so nutritious that kids don't need hot water for a nice city.
+
+Step 123/330
+>> English - Portuguese
+	Abba teme que o tempo não mude em Bagdá devido ao clima ameno. A comida é tão nutritiva que as crianças não precisam de água quente para uma cidade agradável.
+
+Step 124/330
+>> Portuguese - English
+	Abba fears that the weather will not change in Baghdad due to the mild climate. The food is so nutritious that children do not need hot water for a pleasant city.
+
+Step 125/330
+>> English - Portuguese
+	Abba teme que o tempo não mude em Bagdá devido ao clima ameno. A comida é tão nutritiva que as crianças não precisam de água quente para uma cidade agradável.
+
+Step 126/330
+>> Portuguese - English
+	Abba fears that the weather will not change in Baghdad due to the mild climate. The food is so nutritious that children do not need hot water for a pleasant city.
+
+Step 127/330
+>> English - Portuguese
+	Abba teme que o tempo não mude em Bagdá devido ao clima ameno. A comida é tão nutritiva que as crianças não precisam de água quente para uma cidade agradável.
+
+Step 128/330
+>> Portuguese - Burmese
+	အဗ္ဗရာသီဥတုကြောင့်အပျော့စားရာသီဥတုဖို့ဘဂ္ဂဒက်အတွက်မပြောင်းမကြောက်ရွံ့။ အစားအစာလေးတွေကောင်းတဲ့မြို့အဘို့ရေပူမလိုအပ်ပါဘူးဒါကြောင့်အာဟာရဖြစ်ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	बग्दाद मा परिवर्तन डर अब्बा नम्र मौसम जलवायु। तातो पदार्थ शहर को लागि राम्रो हो, त्यसैले यसलाई पूरक आवश्यकता छैन।
+
+Step 130/330
+>> Nepali - Urdu
+	بغداد میں تبدیلیوں سے ابا مرطوب آب و ہوا کا خوف۔ گرم کھانے کی چیزیں شہر کے ل good اچھ areی ہیں ، لہذا اس کو سپلیمنٹس کی ضرورت نہیں ہے۔
+
+Step 131/330
+>> Urdu - French
+	Craintes d'un climat humide en raison des changements à Bagdad. Les aliments chauds sont bons pour la ville, ils n'ont donc pas besoin de suppléments.
+
+Step 132/330
+>> French - English
+	Fears of a humid climate due to changes in Baghdad. Hot foods are good for the city, so they do not need supplements.
+
+Step 133/330
+>> English - Swahili
+	Hofu ya hali ya hewa ya unyevu kwa sababu ya mabadiliko huko Baghdad. Vyakula vya moto ni nzuri kwa jiji, kwa hivyo haziitaji virutubisho.
+
+Step 134/330
+>> Swahili - Arabic
+	الخوف من الطقس الرطب بسبب التغيرات في بغداد. الطعام الساخن مفيد للمدينة ، لذلك لا يحتاج إلى مكملات غذائية.
+
+Step 135/330
+>> Arabic - Shona
+	Kutya kwemvura inonaya nekuda kwekuchinja muBaghdad. Chikafu chinopisa chinobatsira dhorobha, saka hazvidi ma supplements.
+
+Step 136/330
+>> Shona - Hausa
+	Tsoron tsananin ruwan sama sakamakon canje-canje a Baghdad. Abinci mai zafi yana taimakawa cikin gari, saboda haka baya buƙatar kayan abinci.
+
+Step 137/330
+>> Hausa - Swahili
+	Hofu ya mvua nzito kwa sababu ya mabadiliko huko Baghdad. Chakula cha moto pia husaidia magharibi, kwa hivyo haiitaji virutubishi.
+
+Step 138/330
+>> Swahili - English
+	Fears of heavy rainfall due to changes in Baghdad. Hot food also helps in the west, so it does not require nutrients.
+
+Step 139/330
+>> English - Arabic
+	مخاوف من هطول الأمطار الغزيرة بسبب التغيرات في بغداد. يساعد الطعام الساخن أيضًا في الغرب ، لذلك لا يحتاج إلى مواد غذائية.
+
+Step 140/330
+>> Arabic - Malagasy
+	Matahotra ny orana mivatravatra noho ny fiovan'ny Baghdad. Ny sakafo mafana koa dia manampy any Andrefana, ka tsy mila sakafo izy.
+
+Step 141/330
+>> Malagasy - Swahili
+	Inaogopa mvua nzito kutokana na mabadiliko ya Baghdad. Chakula cha moto pia husaidia katika nchi za Magharibi, kwa hivyo haiitaji chakula.
+
+Step 142/330
+>> Swahili - French
+	Il a peur des fortes pluies dues à la révolution de Bagdad. Les plats chauds sont également utiles dans les pays occidentaux, ils ne nécessitent donc pas de nourriture.
+
+Step 143/330
+>> French - Arabic
+	يخاف من هطول أمطار غزيرة بسبب ثورة بغداد. تعد الأطباق الساخنة مفيدة أيضًا في الدول الغربية ، لذا فهي لا تحتاج إلى طعام.
+
+Step 144/330
+>> Arabic - French
+	Peur de fortes pluies à cause de la révolution de Bagdad. Les plats chauds sont également utiles dans les pays occidentaux, ils n'ont donc pas besoin de nourriture.
+
+Step 145/330
+>> French - Arabic
+	الخوف من الأمطار الغزيرة بسبب ثورة بغداد. تعد الأطباق الساخنة مفيدة أيضًا في الدول الغربية ، لذا فهي لا تحتاج إلى طعام.
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Laperèz pou gwo lapli poutèt revolisyon Bagdad la. Asyèt cho yo itil tou nan peyi oksidantal yo, kidonk yo pa bezwen manje.
+
+Step 147/330
+>> Haitian Creole - Pashto
+	د بغداد انقلاب له امله د سخت باران ویره. ګرمې خواړه په غربي هیوادونو کې هم ګټور دي ، نو ځکه دوی خواړه ته اړتیا نلري.
+
+Step 148/330
+>> Pashto - French
+	Crainte de fortes pluies en raison de la révolution de Bagdad. Les aliments chauds sont également utiles dans les pays occidentaux, ils n'ont donc pas besoin de nourriture.
+
+Step 149/330
+>> French - Chichewa
+	Kuopa kugwa kwamvula yamphamvu chifukwa cha kusinthaku kwa Baghdad. Zakudya zotentha ndizothandizanso ku maiko aku Western, chifukwa sizifunikira chakudya.
+
+Step 150/330
+>> Chichewa - Arabic
+	الخوف من هطول الأمطار الغزيرة بسبب هذا التغيير في بغداد. الأطعمة الساخنة مفيدة أيضًا في الدول الغربية لأنها لا تحتاج إلى طعام.
+
+Step 151/330
+>> Arabic - Amharic
+	በባግዳድ ውስጥ በተደረገው በዚህ ለውጥ የተነሳ ከባድ ዝናብ መፍራት ፡፡ ትኩስ ምግቦች በምግብ ምዕራብ አገሮች ምግብም አይፈልጉም ፡፡
+
+Step 152/330
+>> Amharic - English
+	Fear of heavy rain as a result of this change in Baghdad. Hot foods do not want food in western countries.
+
+Step 153/330
+>> English - French
+	Crainte de fortes pluies à la suite de ce changement à Bagdad. Les aliments chauds ne veulent pas de nourriture dans les pays occidentaux.
+
+Step 154/330
+>> French - Swahili
+	Hofu ya mvua nzito kwa sababu ya mabadiliko haya huko Baghdad. Vyakula vya moto havitaki chakula katika nchi za magharibi.
+
+Step 155/330
+>> Swahili - Portuguese
+	Medos de fortes chuvas são devidos a essas mudanças em Bagdá. Alimentos quentes não requerem comida nos países ocidentais.
+
+Step 156/330
+>> Portuguese - Arabic
+	وترجع المخاوف من هطول الأمطار الغزيرة إلى هذه التغييرات في بغداد. الأطعمة الساخنة لا تحتاج إلى طعام في الدول الغربية.
+
+Step 157/330
+>> Arabic - Portuguese
+	Os temores de fortes chuvas são devidos a essas mudanças em Bagdá. Alimentos quentes não requerem comida nos países ocidentais.
+
+Step 158/330
+>> Portuguese - English
+	Fears of heavy rains are due to these changes in Baghdad. Hot foods do not require food in western countries.
+
+Step 159/330
+>> English - French
+	Les craintes de fortes pluies sont dues à ces changements à Bagdad. Les aliments chauds ne nécessitent pas de nourriture dans les pays occidentaux.
+
+Step 160/330
+>> French - English
+	Fears of heavy rains are due to these changes in Baghdad. Hot foods do not require food in Western countries.
+
+Step 161/330
+>> English - Swahili
+	Hofu ya mvua nzito ni kwa sababu ya mabadiliko haya huko Baghdad. Chakula cha moto hauhitaji chakula katika nchi za Magharibi.
+
+Step 162/330
+>> Swahili - Arabic
+	الخوف من الأمطار الغزيرة يرجع إلى هذه التغييرات في بغداد. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 163/330
+>> Arabic - Arabic
+	Fear of heavy rains is due to these changes in Baghdad. Hot food does not require food in Western countries.
+
+Step 164/330
+>> Arabic - French
+	La peur des fortes pluies est due à ces changements à Bagdad. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 165/330
+>> French - Hausa
+	Tsoron ruwan sama mai karfin gaske sakamakon wadannan canje-canje a Bagadaza. Abinci mai zafi baya buƙatar abinci a ƙasashen Yammaci.
+
+Step 166/330
+>> Hausa - French
+	La peur des fortes pluies est le résultat de ces changements à Bagdad. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 167/330
+>> French - Arabic
+	The fear of heavy rains is the result of these changes in Baghdad. Hot food does not require food in Western countries.
+
+Step 168/330
+>> Arabic - Arabic
+	الخوف من الأمطار الغزيرة هو نتيجة هذه التغييرات في بغداد. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 169/330
+>> Arabic - Swahili
+	Kuogopa mvua nzito ni matokeo ya mabadiliko haya huko Baghdad. Chakula cha moto hauhitaji chakula katika nchi za Magharibi.
+
+Step 170/330
+>> Swahili - English
+	Fears of heavy rainfall are the result of this change in Baghdad. Hot food does not require food in Western countries.
+
+Step 171/330
+>> English - French
+	Les craintes de fortes pluies sont le résultat de ce changement à Bagdad. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 172/330
+>> French - English
+	Fears of heavy rains are the result of this change in Baghdad. Hot food does not require food in Western countries.
+
+Step 173/330
+>> English - Portuguese
+	Medos de fortes chuvas são o resultado dessa mudança em Bagdá. Comida quente não requer comida nos países ocidentais.
+
+Step 174/330
+>> Portuguese - Arabic
+	المخاوف من هطول الأمطار الغزيرة هي نتيجة هذا التغيير في بغداد. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 175/330
+>> Arabic - Portuguese
+	Medos de fortes chuvas são o resultado dessa mudança em Bagdá. Comida quente não requer comida nos países ocidentais.
+
+Step 176/330
+>> Portuguese - Swahili
+	Hofu ya mvua nzito ni matokeo ya mabadiliko haya huko Baghdad. Chakula cha moto hauhitaji chakula katika nchi za magharibi.
+
+Step 177/330
+>> Swahili - French
+	Les craintes de fortes pluies sont le résultat de ces changements à Bagdad. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 178/330
+>> French - English
+	Fears of heavy rains are the result of these changes in Baghdad. Hot food does not require food in Western countries.
+
+Step 179/330
+>> English - Amharic
+	በባግዳድ የእነዚህ ለውጦች ውጤት ፍራቻዎች ናቸው ፡፡ ትኩስ ምግብ በምዕራባውያን አገሮች ምግብ አይፈልግም ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	في بغداد ، فإن عواقب هذه التغييرات هي مخاوف. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 181/330
+>> Arabic - Chichewa
+	Ku Baghdad, zotsatira za kusintha izi ndi mantha. Chakudya chotentha sichimafunikira chakudya ku mayiko a Azungu.
+
+Step 182/330
+>> Chichewa - French
+	À Bagdad, le résultat de ce changement est la peur. La nourriture chaude n'a pas besoin de nourriture dans les pays occidentaux.
+
+Step 183/330
+>> French - Pashto
+	په بغداد کې ، د دې بدلون پایله ویره ده. ګرم خواړه غربي هیوادونو کې خواړو ته اړتیا نلري.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Nan Bagdad, rezilta chanjman sa a se pè. Manje cho pa mande pou manje nan peyi oksidantal yo.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	في بغداد ، نتيجة هذا التغيير مخيفة. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 186/330
+>> Arabic - French
+	À Bagdad, le résultat de ce changement est effrayant. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 187/330
+>> French - Arabic
+	في بغداد ، نتيجة هذا التغيير مخيفة. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 188/330
+>> Arabic - French
+	À Bagdad, le résultat de ce changement est effrayant. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 189/330
+>> French - Swahili
+	Huko Baghdad, matokeo ya mabadiliko haya ni ya kutisha. Chakula cha moto hauhitaji chakula katika nchi za Magharibi.
+
+Step 190/330
+>> Swahili - Malagasy
+	Ao Baghdad, manaitra ny vokatr'ity fanovana ity. Ny sakafo mafana dia tsy mitaky sakafo any amin'ny firenena tandrefana.
+
+Step 191/330
+>> Malagasy - Arabic
+	في بغداد ، نتائج هذا التغيير مروعة. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 192/330
+>> Arabic - English
+	In Baghdad, the results of this change are appalling. Hot food does not require food in Western countries.
+
+Step 193/330
+>> English - Swahili
+	Huko Baghdad, matokeo ya mabadiliko haya ni ya kutisha. Chakula cha moto hauhitaji chakula katika nchi za Magharibi.
+
+Step 194/330
+>> Swahili - Hausa
+	A Bagadaza, sakamakon wannan canjin yana da ban tsoro. Abinci mai zafi baya buƙatar abinci a ƙasashen Yammaci.
+
+Step 195/330
+>> Hausa - Shona
+	MuBaghdad, mhedzisiro yekuchinja iyi inosiririsa. Chikafu chinopisa hachidi chikafu munyika dzekuMadokero.
+
+Step 196/330
+>> Shona - Arabic
+	في بغداد ، عواقب هذا التغيير مأساوية. الطعام الساخن لا يحتاج إلى طعام في الدول الغربية.
+
+Step 197/330
+>> Arabic - Swahili
+	Huko Baghdad, matokeo ya mabadiliko haya ni mabaya. Chakula cha moto hauhitaji chakula katika nchi za Magharibi.
+
+Step 198/330
+>> Swahili - English
+	In Baghdad, the consequences of this change are disastrous. Hot food does not require food in Western countries.
+
+Step 199/330
+>> English - French
+	À Bagdad, les conséquences de ce changement sont désastreuses. La nourriture chaude ne nécessite pas de nourriture dans les pays occidentaux.
+
+Step 200/330
+>> French - Urdu
+	بغداد میں ، اس تبدیلی کے نتائج تباہ کن ہیں۔ مغربی ممالک میں گرم کھانے کی ضرورت نہیں ہے۔
+
+Step 201/330
+>> Urdu - Nepali
+	बगदादमा यस परिवर्तनको नतिजा विनाशकारी छ। पश्चिमी देशहरूलाई तातो खानाको आवश्यकता छैन।
+
+Step 202/330
+>> Nepali - Burmese
+	ဘဂ္ဂဒက်ဒီပြောင်းလဲမှုကြီးကျယ်သောအကျိုးဆက်များရှိပါတယ်။ အနောက်တိုင်းနိုင်ငံများကပူပြင်းတဲ့မုန့်ညက်မလိုအပ်ပါဘူး။
+
+Step 203/330
+>> Burmese - Portuguese
+	Esta mudança em Bagdá tem grandes consequências. Os países ocidentais não precisa de uma farinha quente.
+
+Step 204/330
+>> Portuguese - English
+	This change in Baghdad has major consequences. Western countries do not need a hot flour.
+
+Step 205/330
+>> English - Portuguese
+	Essa mudança em Bagdá tem grandes consequências. Os países ocidentais não precisam de farinha quente.
+
+Step 206/330
+>> Portuguese - English
+	This change in Baghdad has major consequences. Western countries do not need hot flour.
+
+Step 207/330
+>> English - Portuguese
+	Essa mudança em Bagdá tem grandes consequências. Os países ocidentais não precisam de farinha quente.
+
+Step 208/330
+>> Portuguese - English
+	This change in Baghdad has major consequences. Western countries do not need hot flour.
+
+Step 209/330
+>> English - lao
+	ການປ່ຽນແປງນີ້ຢູ່ແບກແດດມີຜົນສະທ້ອນໃຫຍ່. ບັນດາປະເທດຕາເວັນຕົກບໍ່ຕ້ອງການແປ້ງຮ້ອນ.
+
+Step 210/330
+>> lao - French
+	Ce changement à Bagdad a des conséquences majeures. Les pays occidentaux n'ont pas besoin de farine chaude.
+
+Step 211/330
+>> French - Bengali
+	বাগদাদের এই পরিবর্তনের বড় পরিণতি রয়েছে has পশ্চিমা দেশগুলিতে গরম ময়দার প্রয়োজন নেই।
+
+Step 212/330
+>> Bengali - English
+	The change in Baghdad has major implications for western countries that do not need hot flour.
+
+Step 213/330
+>> English - Spanish
+	El cambio en Bagdad tiene implicaciones importantes para los países occidentales que no necesitan harina caliente.
+
+Step 214/330
+>> Spanish - Portuguese
+	A mudança em Bagdá tem implicações importantes para os países ocidentais que não precisam de farinha quente.
+
+Step 215/330
+>> Portuguese - Hindi
+	बगदाद में बदलाव का पश्चिमी देशों के लिए महत्वपूर्ण प्रभाव है, जिन्हें गर्म आटे की आवश्यकता नहीं है।
+
+Step 216/330
+>> Hindi - English
+	The change in Baghdad has significant implications for Western countries, which do not require hot flour.
+
+Step 217/330
+>> English - Spanish
+	El cambio en Bagdad tiene implicaciones significativas para los países occidentales, que no requieren harina caliente.
+
+Step 218/330
+>> Spanish - English
+	The change in Baghdad has significant implications for Western countries, which do not require hot flour.
+
+Step 219/330
+>> English - Portuguese
+	A mudança em Bagdá tem implicações significativas para os países ocidentais, que não precisam de farinha quente.
+
+Step 220/330
+>> Portuguese - Spanish
+	El cambio en Bagdad tiene implicaciones significativas para los países occidentales, que no necesitan harina caliente.
+
+Step 221/330
+>> Spanish - Arabic
+	إن التغيير في بغداد له تداعيات مهمة على الدول الغربية التي لا تحتاج إلى دقيق ساخن.
+
+Step 222/330
+>> Arabic - Russian
+	Изменения в Багдаде имеют важные последствия для западных стран, которым не нужна горячая мука.
+
+Step 223/330
+>> Russian - Spanish
+	Los cambios en Bagdad tienen implicaciones importantes para los países occidentales que no necesitan harina caliente.
+
+Step 224/330
+>> Spanish - Arabic
+	للتغيرات في بغداد آثار مهمة على الدول الغربية التي لا تحتاج إلى دقيق ساخن.
+
+Step 225/330
+>> Arabic - Spanish
+	Los cambios en Bagdad tienen implicaciones importantes para los países occidentales que no necesitan harina caliente.
+
+Step 226/330
+>> Spanish - Vietnamese
+	Những thay đổi ở Baghdad có ý nghĩa quan trọng đối với các nước phương Tây không cần bột nóng.
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Perubahan di Baghdad penting bagi negara-negara Barat yang tidak membutuhkan bubuk panas.
+
+Step 228/330
+>> Indonesian - Arabic
+	تعتبر التغييرات في بغداد مهمة بالنسبة للدول الغربية التي لا تحتاج إلى مسحوق ساخن.
+
+Step 229/330
+>> Arabic - Zulu
+	Izinguquko eziseBaghdad zibalulekile emazweni aseNtshonalanga angadingi i-hot hot.
+
+Step 230/330
+>> Zulu - Filipino
+	Ang mga pagbabago sa Baghdad ay mahalaga sa mga bansang Kanluran na hindi nangangailangan ng isang mainit na paglubog.
+
+Step 231/330
+>> Filipino - Romanian
+	Schimbările din Bagdad sunt importante în țările occidentale care nu necesită o scufundare la cald.
+
+Step 232/330
+>> Romanian - Spanish
+	Los cambios en Bagdad son importantes en los países occidentales que no requieren un baño caliente.
+
+Step 233/330
+>> Spanish - French
+	Les changements à Bagdad sont importants dans les pays occidentaux qui n'exigent pas de bain chaud.
+
+Step 234/330
+>> French - Arabic
+	التغييرات في بغداد مهمة في الدول الغربية التي لا تحتاج إلى حمام ساخن.
+
+Step 235/330
+>> Arabic - English
+	The changes in Baghdad are important in Western countries that do not need a hot bath.
+
+Step 236/330
+>> English - Uzbek
+	Bog'doddagi o'zgarishlar issiq hammomga muhtoj bo'lmagan G'arb mamlakatlarida muhimdir.
+
+Step 237/330
+>> Uzbek - Samoan
+	O suiga i Baghdad e taua i atunuu i Sisifo e le manaʻomia se taele vevela.
+
+Step 238/330
+>> Samoan - English
+	The changes in Baghdad that are important to Western countries do not require a hot bath.
+
+Step 239/330
+>> English - Dutch
+	De veranderingen in Bagdad die belangrijk zijn voor westerse landen vereisen geen warm bad.
+
+Step 240/330
+>> Dutch - English
+	The changes in Baghdad that are important for Western countries do not require a hot bath.
+
+Step 241/330
+>> English - Kurdish
+	Guhertinên li Bexdayê yên ku ji bo welatên rojavayî re girîng in, hewce nake ku serşokek germ bibe.
+
+Step 242/330
+>> Kurdish - Arabic
+	التغييرات في بغداد المهمة بالنسبة إلى الدول الغربية لا تحتاج لأن تكون حمامًا ساخنًا.
+
+Step 243/330
+>> Arabic - Spanish
+	Los cambios en Bagdad que son importantes para los países occidentales no necesitan ser un jacuzzi.
+
+Step 244/330
+>> Spanish - Mongolian
+	Өрнөдийн орнуудын хувьд чухал ач холбогдолтой Багдад дахь өөрчлөлтүүд нь джакузи байх албагүй.
+
+Step 245/330
+>> Mongolian - English
+	The changes in Baghdad's significance to the Western countries do not necessarily need to be jakuzi.
+
+Step 246/330
+>> English - Spanish
+	Los cambios en la importancia de Bagdad para los países occidentales no necesariamente tienen que ser jakuzi.
+
+Step 247/330
+>> Spanish - Ukrainian
+	Зміни у важливості Багдаду для західних країн не обов'язково повинні бути джакузі.
+
+Step 248/330
+>> Ukrainian - Spanish
+	Los cambios en la importancia de Bagdad para los países occidentales no tienen por qué ser un jacuzzi.
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	巴格达对西方国家重要性的变化不一定是按摩浴缸。
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	إن التغيير في أهمية بغداد بالنسبة إلى الدول الغربية ليس بالضرورة جاكوزي.
+
+Step 251/330
+>> Arabic - Thai
+	การเปลี่ยนแปลงความสำคัญของแบกแดดต่อประเทศตะวันตกไม่จำเป็นต้องเป็นจากุซซี่
+
+Step 252/330
+>> Thai - Armenian
+	Բաղդադի նշանակությունը արևմտյան երկրներին փոխելը պետք չէ ջակուզի լինել:
+
+Step 253/330
+>> Armenian - Macedonian
+	Промената на значењето на Багдад кон западните земји не треба да претставува шега.
+
+Step 254/330
+>> Macedonian - Arabic
+	إن تغيير معنى بغداد إلى الدول الغربية يجب ألا يكون مزحة.
+
+Step 255/330
+>> Arabic - Portuguese
+	Mudar o significado de Bagdá para países ocidentais não deve ser uma piada.
+
+Step 256/330
+>> Portuguese - Spanish
+	Cambiar el significado de Bagdad a los países occidentales no debería ser una broma.
+
+Step 257/330
+>> Spanish - Bosnian
+	Promjena značenja Bagdada u zapadnim zemljama ne bi trebala biti šala.
+
+Step 258/330
+>> Bosnian - Sinhala
+	බටහිර රටවල බැග්ඩෑඩ්හි අර්ථය වෙනස් කිරීම විහිළුවක් නොවිය යුතුය.
+
+Step 259/330
+>> Sinhala - English
+	Changing the meaning of Baghdad in the West should not be a joke.
+
+Step 260/330
+>> English - Spanish
+	Cambiar el significado de Bagdad en Occidente no debería ser una broma.
+
+Step 261/330
+>> Spanish - English
+	Changing the meaning of Baghdad in the West should not be a joke.
+
+Step 262/330
+>> English - Georgian
+	დასავლეთში ბაღდადის მნიშვნელობის შეცვლა არ უნდა იყოს ხუმრობა.
+
+Step 263/330
+>> Georgian - English
+	Changing the meaning of Baghdad in the West should not be a joke.
+
+Step 264/330
+>> English - Albanian
+	Ndryshimi i kuptimit të Bagdadit në Perëndim nuk duhet të jetë shaka.
+
+Step 265/330
+>> Albanian - Serbian
+	Промјена значења Багдада на западу не би требала бити шала.
+
+Step 266/330
+>> Serbian - Spanish
+	Cambiar el significado de Bagdad en el oeste no debería ser una broma.
+
+Step 267/330
+>> Spanish - English
+	Changing the meaning of Baghdad in the west shouldn't be a joke.
+
+Step 268/330
+>> English - Turkish
+	Batıda Bağdat'ın anlamını değiştirmek şaka olmamalıdır.
+
+Step 269/330
+>> Turkish - Spanish
+	Cambiar el significado de Bagdad en Occidente no debería ser una broma.
+
+Step 270/330
+>> Spanish - French
+	Changer le sens de Bagdad en Occident ne devrait pas être une blague.
+
+Step 271/330
+>> French - English
+	To change the meaning of Baghdad in the West should not be a joke.
+
+Step 272/330
+>> English - Persian
+	تغییر معنای بغداد در غرب نباید یک شوخی باشد.
+
+Step 273/330
+>> Persian - Kazakh
+	Батыста Бағдаттың мағынасын өзгерту әзіл болмауы керек.
+
+Step 274/330
+>> Kazakh - English
+	Changing the meaning of Baghdad in the West should not be humorous.
+
+Step 275/330
+>> English - Malay
+	Mengubah makna Baghdad di Barat tidak boleh menjadi lucu.
+
+Step 276/330
+>> Malay - Arabic
+	تغيير معنى بغداد في الغرب لا يمكن أن يكون مضحكا.
+
+Step 277/330
+>> Arabic - Spanish
+	Cambiar el significado de Bagdad en Occidente no puede ser divertido.
+
+Step 278/330
+>> Spanish - English
+	Changing the meaning of Baghdad in the West cannot be fun.
+
+Step 279/330
+>> English - Russian
+	Изменение значения Багдада на Западе не может быть забавным.
+
+Step 280/330
+>> Russian - Romanian
+	Schimbarea sensului Bagdadului în Occident nu poate fi distractivă.
+
+Step 281/330
+>> Romanian - Bulgarian
+	Промяната на значението на Багдад на Запад не може да бъде забавна.
+
+Step 282/330
+>> Bulgarian - Albanian
+	Ndryshimi i kuptimit të Bagdadit në Perëndim nuk mund të jetë kënaqësi.
+
+Step 283/330
+>> Albanian - Russian
+	Изменение смысла Багдада на Западе не может быть удовольствием.
+
+Step 284/330
+>> Russian - Arabic
+	لا يمكن أن يكون تغيير معنى بغداد في الغرب من دواعي سروري.
+
+Step 285/330
+>> Arabic - Spanish
+	Cambiar el significado de Bagdad en Occidente no puede ser un placer.
+
+Step 286/330
+>> Spanish - Croatian
+	Promjena značenja Bagdada na Zapadu ne može biti zadovoljstvo.
+
+Step 287/330
+>> Croatian - Hungarian
+	Bagdadnak a nyugaton jelentésének megváltoztatása nem lehet öröm.
+
+Step 288/330
+>> Hungarian - Spanish
+	Cambiar el significado de Bagdad en Occidente no puede ser una alegría.
+
+Step 289/330
+>> Spanish - Arabic
+	تغيير معنى بغداد في الغرب لا يمكن أن يكون فرحًا.
+
+Step 290/330
+>> Arabic - Portuguese
+	Mudar o significado de Bagdá no Ocidente não pode ser uma alegria.
+
+Step 291/330
+>> Portuguese - Latvian
+	Bagdādes nozīmes maiņa Rietumos nevar būt prieks.
+
+Step 292/330
+>> Latvian - Arabic
+	تغيير دور بغداد في الغرب لا يمكن أن يكون فرحًا.
+
+Step 293/330
+>> Arabic - Malay
+	Menukar peranan Baghdad di Barat tidak boleh menjadi kegembiraan.
+
+Step 294/330
+>> Malay - Slovak
+	Zmena úlohy Bagdadu na Západe nemôže byť radosťou.
+
+Step 295/330
+>> Slovak - Arabic
+	تغيير دور بغداد في الغرب لا يمكن أن يكون فرحًا.
+
+Step 296/330
+>> Arabic - Lithuanian
+	Bagdado vaidmens Vakaruose keitimas negali teikti džiaugsmo.
+
+Step 297/330
+>> Lithuanian - Catalan
+	Canviar el paper de Bagdad a Occident no pot provocar alegria.
+
+Step 298/330
+>> Catalan - Arabic
+	تغيير دور بغداد في الغرب لا يمكن أن يسبب الفرح.
+
+Step 299/330
+>> Arabic - Polish
+	Zmiana roli Bagdadu na Zachodzie nie może powodować radości.
+
+Step 300/330
+>> Polish - Turkish
+	Bağdat’ın Batı’daki rolünü değiştirmek neşeye neden olamaz.
+
+Step 301/330
+>> Turkish - Greek
+	Η αλλαγή του ρόλου της Βαγδάτης στη Δύση δεν μπορεί να οδηγήσει στη χαρά.
+
+Step 302/330
+>> Greek - Estonian
+	Bagdadi rolli muutmine läänes ei saa rõõmu tekitada.
+
+Step 303/330
+>> Estonian - Maltese
+	Li nibdlu r-rwol ta 'Bagdad fil-Punent ma jistax ikun ferħ.
+
+Step 304/330
+>> Maltese - Italian
+	Per modificare il ruolo di Baghdad in Occidente non può essere gioia.
+
+Step 305/330
+>> Italian - Czech
+	Změnit roli Bagdádu na Západě nemůže být radost.
+
+Step 306/330
+>> Czech - Spanish
+	Cambiar el papel de Bagdad en Occidente no puede ser un placer.
+
+Step 307/330
+>> Spanish - Slovenian
+	Spreminjanje vloge Bagdada na Zahodu ne more biti užitek.
+
+Step 308/330
+>> Slovenian - French
+	Changer le rôle de Bagdad en Occident ne peut être un plaisir.
+
+Step 309/330
+>> French - Korean
+	서쪽에서 바그다드의 역할을 바꾸는 것은 즐거움이 될 수 없습니다.
+
+Step 310/330
+>> Korean - Hebrew
+	שינוי תפקידו של בגדאד במערב לא יכול להיות תענוג.
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Eng Roll vun Bagdad am Westen ze änneren kann net e Genoss sinn.
+
+Step 312/330
+>> Luxembourgish - German
+	Es mag kein Vergnügen sein, die Rolle des Bagdad im Westen zu wechseln.
+
+Step 313/330
+>> German - Japanese
+	西側でバグダッドの役割を変えることは、喜びではないかもしれません。
+
+Step 314/330
+>> Japanese - German
+	Die Rolle Bagdads im Westen zu wechseln, mag kein Vergnügen sein.
+
+Step 315/330
+>> German - Dutch
+	Het veranderen van de rol van Bagdad in het Westen is misschien niet leuk.
+
+Step 316/330
+>> Dutch - Maori
+	Ko te whakarereke i te mahi a Baghdad i te Hauauru kaore pea he ngahau.
+
+Step 317/330
+>> Maori - Finnish
+	Bagdadin roolin muuttaminen lännessä ei ehkä ole hauskaa.
+
+Step 318/330
+>> Finnish - English
+	Changing the role of Baghdad in the West may not be fun.
+
+Step 319/330
+>> English - Danish
+	Det er måske ikke sjovt at ændre Bagdads rolle i Vesten.
+
+Step 320/330
+>> Danish - Dutch
+	Het is misschien niet leuk om de rol van Bagdad in het Westen te veranderen.
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	改變巴格達在西方的角色可能並不好玩。
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	Att ändra rollen som Bagdad i väst kanske inte är kul.
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	改變巴格達在西方的角色可能並不好玩。
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Að breyta hlutverki Bagdad á Vesturlöndum er kannski ekki skemmtilegt.
+
+Step 325/330
+>> Icelandic - German
+	Die Rolle von Bagdad im Westen zu ändern, könnte keinen Spaß machen.
+
+Step 326/330
+>> German - Irish
+	Ní fhéadfadh sé go mbeadh spraoi ag athrú ról Baghdad san Iarthar.
+
+Step 327/330
+>> Irish - English
+	It may not be fun changing the role of Baghdad in the West.
+
+Step 328/330
+>> English - German
+	Es mag keinen Spaß machen, die Rolle von Bagdad im Westen zu ändern.
+
+Step 329/330
+>> German - Norwegian
+	Det kan ikke være morsomt å endre rollen som Bagdad i Vesten.
+
+Step 330/330
+>> Norwegian - Portuguese
+	Mudar o papel de Bagdá no Ocidente não pode ser divertido.
+
+
+##### RESULTS ######
+
+Sire, no reinado do mesmo califa Harun al-Rachid, de que acabo de falar, havia em Bagdá um pobre carregador chamado Hindbá. Um dia de calor excessivo, transportava ele pesadíssima carga de uma porta a outra da cidade. Cansado da caminhada já feita, e, restando-lhe ainda longo percurso, chegou a uma rua onde soprava suave brisa, e cujo calçamento fora banhado com água de rosas. Não podendo desejar vento mais favorável para descansar e refazer um pouco as forças, colocou a carga no chão, e sentou-se sobre ela, perto de uma grande e linda residência.
+
+Mudar o papel de Bagdá no Ocidente não pode ser divertido.

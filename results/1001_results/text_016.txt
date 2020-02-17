@@ -1,0 +1,1329 @@
+Translation chain: no - de - en - ga - de - is - zh-TW - sv - zh-TW - nl - da - en - en - en - fi - mi - nl - de - ja - de - lb - he - ko - fr - sl - es - cs - it - mt - et - el - tr - pl - ar - ca - lt - ar - sk - ms - ar - lv - pt - ar - es - hu - hr - es - ar - ru - sq - bg - ro - ru - en - es - ar - ms - en - kk - fa - en - fr - es - tr - en - es - sr - sq - en - en - ka - en - es - es - en - si - bs - es - pt - ar - mk - hy - th - ar - zh - es - uk - es - es - en - en - mn - es - ar - ku - en - en - en - nl - en - en - sm - uz - en - en - ar - fr - es - ro - tl - zu - ar - id - vi - es - ar - ar - es - ru - ar - es - pt - en - es - en - hi - pt - es - en - bn - fr - fr - lo - en - pt - en - pt - en - pt - my - ne - ur - fr - en - en - sw - ar - sn - ha - sw - en - ar - mg - sw - fr - fr - ar - fr - ar - ht - ps - fr - ny - ar - am - en - fr - sw - pt - ar - pt - en - fr - fr - en - sw - ar - en - fr - ha.
+Input text: — Em nome de Deus, minha irmã, rogo-te que nos contes o que fizeram as três belas damas com todas as provisões compradas por Amina.
+
+Step 1/330
+>> Portuguese - Norwegian
+	“I Guds navn, søsteren min, ber jeg deg fortelle hva de tre vakre damene gjorde med alle de forsyningene Amina kjøpte.
+
+Step 2/330
+>> Norwegian - German
+	„Im Namen Gottes, meine Schwester, erzähl mir bitte, was die drei schönen Damen mit all den Vorräten gemacht haben, die Amina gekauft hat.
+
+Step 3/330
+>> German - English
+	"In the name of God, my sister, please tell me what the three beautiful ladies did with all the supplies Amina bought.
+
+Step 4/330
+>> English - Irish
+	"In ainm Dé, mo dheirfiúr, inis dom cad a rinne na trí bhean álainn leis na soláthairtí uile a cheannaigh Amina.
+
+Step 5/330
+>> Irish - German
+	"Sag mir im Namen Gottes, meine Schwester, was die drei schönen Frauen mit all den Vorräten gemacht haben, die Amina gekauft hat."
+
+Step 6/330
+>> German - Icelandic
+	„Segðu mér í nafni Guðs, systir mín, hvað fallegu konurnar þrjár gerðu með allar birgðir sem Amina keypti.“
+
+Step 7/330
+>> Icelandic - Chinese (Traditional)
+	“以上帝的名義告訴我，我的妹妹，三位美女在阿米娜購買的所有用品上做了什麼。”
+
+Step 8/330
+>> Chinese (Traditional) - Swedish
+	"Berätta i Guds namn, min syster, vad de tre vackra kvinnorna gjorde på alla förnödenheter som Amina köpte."
+
+Step 9/330
+>> Swedish - Chinese (Traditional)
+	“以上帝的名義告訴我，我的妹妹，三位美女在阿米娜購買的所有用品上做了什麼。”
+
+Step 10/330
+>> Chinese (Traditional) - Dutch
+	'Vertel me in de naam van God, mijn zuster, wat de drie mooie vrouwen hebben gedaan met alle benodigdheden die Amina heeft gekocht.'
+
+Step 11/330
+>> Dutch - Danish
+	"I Guds navn, min søster, fortæl mig, hvad de tre smukke kvinder har gjort med alle de fornødenheder, Amina har købt."
+
+Step 12/330
+>> Danish - English
+	"In the name of God, my sister, tell me what the three beautiful women have done with all the necessities Amina has purchased."
+
+Step 13/330
+>> English - Finnish
+	"Kerro minulle sisareni Jumalan nimessä, mitä kolme kaunista naista ovat tehneet kaikilla tarvikkeilla, joita Amina on ostanut."
+
+Step 14/330
+>> Finnish - Maori
+	"Korerotia mai ki ahau i runga i te ingoa o toku tuahine, te Atua nga mahi a nga wahine ataahua e toru me nga taonga katoa i hokona e Amina."
+
+Step 15/330
+>> Maori - Dutch
+	"Vertel me in de naam van mijn zus, God, het werk van drie mooie vrouwen en alle goederen die Amina kocht."
+
+Step 16/330
+>> Dutch - German
+	"Sag mir im Namen meiner Schwester, Gott, das Werk von drei schönen Frauen und all die Waren, die Amina gekauft hat."
+
+Step 17/330
+>> German - Japanese
+	「私の妹、神、3人の美しい女性の仕事とアミナが買ったすべての品物を代表して私に話してください。」
+
+Step 18/330
+>> Japanese - German
+	"Sprich zu mir im Namen meiner Schwester, Gott, des Werkes dreier schöner Frauen und aller Waren, die Amina gekauft hat."
+
+Step 19/330
+>> German - Luxembourgish
+	"Schwätzt mat mir am Numm vu menger Schwëster, Gott, d'Aarbecht vun dräi schéine Fraen an all d'Wueren déi d'Amina kaaft huet."
+
+Step 20/330
+>> Luxembourgish - Hebrew
+	"דבר איתי בשם אחותי, אלוהים, עבודתן של שלוש נשים יפות וכל הסחורה שקנתה אמינה."
+
+Step 21/330
+>> Hebrew - Korean
+	"언니, 하나님을 대신하여 내게 이야기하십시오. 세 명의 아름다운 여성들의 작품과 그들이 사온 모든 물건은 신뢰할 만합니다."
+
+Step 22/330
+>> Korean - French
+	"Sœur, parle-moi au nom de Dieu. Le travail de trois belles femmes et tout ce qu'elles ont acheté sont fiables."
+
+Step 23/330
+>> French - Slovenian
+	"Sestra, govorite mi v imenu Boga, delo treh lepih žensk in vse, kar so kupili, je zanesljivo."
+
+Step 24/330
+>> Slovenian - Spanish
+	"Hermana, háblame en nombre de Dios. El trabajo de tres hermosas mujeres y todo lo que compraron es confiable".
+
+Step 25/330
+>> Spanish - Czech
+	„Sestro, mluv se mnou ve jménu Božím. Práce tří krásných žen a vše, co si koupili, je spolehlivé.“
+
+Step 26/330
+>> Czech - Italian
+	“Sorella, parlami nel nome di Dio. Il lavoro delle tre bellissime donne e tutto ciò che hanno comprato è affidabile. "
+
+Step 27/330
+>> Italian - Maltese
+	"Oħti, tkellimni f'isem Alla. Ix-xogħol tat-tliet nisa sbieħ u dak kollu li xtraw huwa affidabbli. "
+
+Step 28/330
+>> Maltese - Estonian
+	"Õde, tkellimni nimel Jumala. Töö kolmest ilusad naised ja kõik, kes on ostnud ta usaldusväärne."
+
+Step 29/330
+>> Estonian - Greek
+	"Αδελφή, tkellimni στο όνομα του Θεού. Εργασία τριών όμορφων γυναικών και όσων το αγόρασαν αξιόπιστα".
+
+Step 30/330
+>> Greek - Turkish
+	“Rahibe, Tanrı adına tkellimni. Üç güzel kadın ve onu güvenilir bir şekilde satın alanların çalışmaları.”
+
+Step 31/330
+>> Turkish - Polish
+	„Siostro, tkellimni w imię Boga. Praca trzech pięknych kobiet i tych, które rzetelnie ją kupiły. ”
+
+Step 32/330
+>> Polish - Arabic
+	"أخت ، نحن باسم الله. عمل ثلاث نساء جميلات وأولئك اللاتي اشتراها بصدق. "
+
+Step 33/330
+>> Arabic - Catalan
+	"Germana, estem en nom de Déu. Va treballar tres dones belles i qui ho va comprar sincerament".
+
+Step 34/330
+>> Catalan - Lithuanian
+	"Sesuo, mes esame Dievo vardu. Trys gražios moterys dirbo ir jos nuoširdžiai pirko."
+
+Step 35/330
+>> Lithuanian - Arabic
+	"أخت ، نحن باسم الله. ثلاث نساء جميلات كن يعملن وكانوا يشترون بإخلاص".
+
+Step 36/330
+>> Arabic - Slovak
+	"Sestra, sme v mene Božom."
+
+Step 37/330
+>> Slovak - Malay
+	"Kakak, kita ada dalam nama Tuhan."
+
+Step 38/330
+>> Malay - Arabic
+	"أخي ، نحن باسم الله".
+
+Step 39/330
+>> Arabic - Latvian
+	"Brāli, mēs esam Dieva vārdā."
+
+Step 40/330
+>> Latvian - Portuguese
+	"Irmão, nós estamos em nome de Deus."
+
+Step 41/330
+>> Portuguese - Arabic
+	"أخي ، نحن باسم الله".
+
+Step 42/330
+>> Arabic - Spanish
+	"Hermano, estamos en el nombre de Dios".
+
+Step 43/330
+>> Spanish - Hungarian
+	"Testvér, Isten nevében vagyunk."
+
+Step 44/330
+>> Hungarian - Croatian
+	"Brate, u ime smo Boga."
+
+Step 45/330
+>> Croatian - Spanish
+	"Hermano, estamos en el nombre de Dios".
+
+Step 46/330
+>> Spanish - Arabic
+	"أخي ، نحن باسم الله".
+
+Step 47/330
+>> Arabic - Russian
+	«Брат, мы во имя Бога».
+
+Step 48/330
+>> Russian - Albanian
+	"Vëlla, ne jemi në emër të Zotit".
+
+Step 49/330
+>> Albanian - Bulgarian
+	"Брат, ние сме в името на Бог."
+
+Step 50/330
+>> Bulgarian - Romanian
+	„Frate, suntem în numele lui Dumnezeu”.
+
+Step 51/330
+>> Romanian - Russian
+	«Брат, мы во имя Бога».
+
+Step 52/330
+>> Russian - English
+	"Brother, we are in the name of God."
+
+Step 53/330
+>> English - Spanish
+	"Hermano, estamos en el nombre de Dios".
+
+Step 54/330
+>> Spanish - Arabic
+	"أخي ، نحن باسم الله".
+
+Step 55/330
+>> Arabic - Malay
+	"Saudara, kita ada dalam nama Tuhan."
+
+Step 56/330
+>> Malay - English
+	"Brother, we are in the name of God."
+
+Step 57/330
+>> English - Kazakh
+	- Аға, біз Құдайдың атындамыз.
+
+Step 58/330
+>> Kazakh - Persian
+	"برادر ، ما به نام خدا هستیم.
+
+Step 59/330
+>> Persian - English
+	"Brother, we are in the name of God.
+
+Step 60/330
+>> English - French
+	"Frère, nous sommes au nom de Dieu.
+
+Step 61/330
+>> French - Spanish
+	"Hermano, estamos en el nombre de Dios.
+
+Step 62/330
+>> Spanish - Turkish
+	"Kardeşim, biz Tanrı adınayız.
+
+Step 63/330
+>> Turkish - English
+	"Brother, we are in the name of God.
+
+Step 64/330
+>> English - Spanish
+	"Hermano, estamos en el nombre de Dios.
+
+Step 65/330
+>> Spanish - Serbian
+	"Брате, ми смо у име Бога.
+
+Step 66/330
+>> Serbian - Albanian
+	"Vëlla, ne jemi në emër të Zotit.
+
+Step 67/330
+>> Albanian - English
+	"Brother, we are in the name of the Lord.
+
+Step 68/330
+>> English - Georgian
+	„ძმაო, ჩვენ უფლის სახელით ვართ.
+
+Step 69/330
+>> Georgian - English
+	“Brother, we are in the name of the Lord.
+
+Step 70/330
+>> English - Spanish
+	“Hermano, estamos en el nombre del Señor.
+
+Step 71/330
+>> Spanish - English
+	“Brother, we are in the name of the Lord.
+
+Step 72/330
+>> English - Sinhala
+	“සහෝදරයා, අපි ඉන්නේ ස්වාමින්ගේ නාමයෙන්.
+
+Step 73/330
+>> Sinhala - Bosnian
+	„Brate, mi smo u Gospodinovo ime.
+
+Step 74/330
+>> Bosnian - Spanish
+	"Hermano, estamos en el nombre del Señor.
+
+Step 75/330
+>> Spanish - Portuguese
+	"Irmão, nós estamos em nome do Senhor.
+
+Step 76/330
+>> Portuguese - Arabic
+	"يا أخي ، نحن باسم الرب.
+
+Step 77/330
+>> Arabic - Macedonian
+	„Брат, ние сме во името на Господ.
+
+Step 78/330
+>> Macedonian - Armenian
+	«Եղբայր, մենք Տիրոջ անունով ենք:
+
+Step 79/330
+>> Armenian - Thai
+	“ พี่ชายเราอยู่ในพระนามของพระเจ้า
+
+Step 80/330
+>> Thai - Arabic
+	"أخي باسم الرب.
+
+Step 81/330
+>> Arabic - Chinese (Simplified)
+	“我的兄弟奉主的名。
+
+Step 82/330
+>> Chinese (Simplified) - Spanish
+	"Mi hermano está en el nombre del Señor.
+
+Step 83/330
+>> Spanish - Ukrainian
+	"Мій брат в ім'я Господа.
+
+Step 84/330
+>> Ukrainian - Spanish
+	"Mi hermano en el nombre del Señor.
+
+Step 85/330
+>> Spanish - English
+	"My brother in the name of the Lord.
+
+Step 86/330
+>> English - Mongolian
+	"Эзэний нэрээр ах минь.
+
+Step 87/330
+>> Mongolian - Spanish
+	"Hermano en el nombre del Señor.
+
+Step 88/330
+>> Spanish - Arabic
+	"أخي باسم الرب.
+
+Step 89/330
+>> Arabic - Kurdish
+	"Birayê min bi navê Xudan.
+
+Step 90/330
+>> Kurdish - English
+	“My brother in the name of the Lord.
+
+Step 91/330
+>> English - Dutch
+	'Mijn broer in de naam van de Heer.
+
+Step 92/330
+>> Dutch - English
+	"My brother in the name of the Lord.
+
+Step 93/330
+>> English - Samoan
+	"Loʻu tuagane i le suafa o le Alii.
+
+Step 94/330
+>> Samoan - Uzbek
+	"Rabbim nomi bilan akam.
+
+Step 95/330
+>> Uzbek - English
+	“My brother in the name of the Lord.
+
+Step 96/330
+>> English - Arabic
+	أخي باسم الرب.
+
+Step 97/330
+>> Arabic - French
+	Mon frère au nom du Seigneur.
+
+Step 98/330
+>> French - Spanish
+	Mi hermano en el nombre del Señor.
+
+Step 99/330
+>> Spanish - Romanian
+	Fratele meu în numele Domnului.
+
+Step 100/330
+>> Romanian - Filipino
+	Ang aking kapatid sa pangalan ng Panginoon.
+
+Step 101/330
+>> Filipino - Zulu
+	Mfowethu egameni leNkosi.
+
+Step 102/330
+>> Zulu - Arabic
+	أخي باسم الرب.
+
+Step 103/330
+>> Arabic - Indonesian
+	Saudaraku dalam nama Tuhan.
+
+Step 104/330
+>> Indonesian - Vietnamese
+	Anh tôi nhân danh Chúa.
+
+Step 105/330
+>> Vietnamese - Spanish
+	Mi hermano en nombre de Dios.
+
+Step 106/330
+>> Spanish - Arabic
+	أخي باسم الله.
+
+Step 107/330
+>> Arabic - Spanish
+	Mi hermano en nombre de Dios.
+
+Step 108/330
+>> Spanish - Russian
+	Мой брат во имя Бога.
+
+Step 109/330
+>> Russian - Arabic
+	أخي باسم الله.
+
+Step 110/330
+>> Arabic - Spanish
+	Mi hermano en nombre de Dios.
+
+Step 111/330
+>> Spanish - Portuguese
+	Meu irmão em nome de Deus.
+
+Step 112/330
+>> Portuguese - English
+	My brother in the name of God.
+
+Step 113/330
+>> English - Spanish
+	Mi hermano en nombre de Dios.
+
+Step 114/330
+>> Spanish - English
+	My brother in the name of God.
+
+Step 115/330
+>> English - Hindi
+	भगवान के नाम पर मेरा भाई।
+
+Step 116/330
+>> Hindi - Portuguese
+	Meu irmão em nome de Deus.
+
+Step 117/330
+>> Portuguese - Spanish
+	Mi hermano en nombre de Dios.
+
+Step 118/330
+>> Spanish - English
+	My brother in the name of God.
+
+Step 119/330
+>> English - Bengali
+	Brotherশ্বরের নামে আমার ভাই।
+
+Step 120/330
+>> Bengali - French
+	Mon frère du nom de frère Shavar.
+
+Step 121/330
+>> French - lao
+	ນ້ອງຊາຍຂອງຂ້ອຍຊື່ອ້າຍ Shavar.
+
+Step 122/330
+>> lao - English
+	My brother's name is Shavar.
+
+Step 123/330
+>> English - Portuguese
+	O nome do meu irmão é Shavar.
+
+Step 124/330
+>> Portuguese - English
+	My brother's name is Shavar.
+
+Step 125/330
+>> English - Portuguese
+	O nome do meu irmão é Shavar.
+
+Step 126/330
+>> Portuguese - English
+	My brother's name is Shavar.
+
+Step 127/330
+>> English - Portuguese
+	O nome do meu irmão é Shavar.
+
+Step 128/330
+>> Portuguese - Burmese
+	ငါ့အစ်ကို၏နာမတော် Shavar ဖြစ်ပါတယ်။
+
+Step 129/330
+>> Burmese - Nepali
+	मेरो भाइ नाम Shavar।
+
+Step 130/330
+>> Nepali - Urdu
+	میرے بھائی کا نام شاور ہے۔
+
+Step 131/330
+>> Urdu - French
+	Mon frère s'appelle Shower.
+
+Step 132/330
+>> French - English
+	My brother's name is Shower.
+
+Step 133/330
+>> English - Swahili
+	Jina la kaka yangu ni Shower.
+
+Step 134/330
+>> Swahili - Arabic
+	اسم أخي هو دش.
+
+Step 135/330
+>> Arabic - Shona
+	Zita remunun'una wangu ndiro.
+
+Step 136/330
+>> Shona - Hausa
+	Sunan dan uwana shi ne.
+
+Step 137/330
+>> Hausa - Swahili
+	Jina la kaka yangu ni.
+
+Step 138/330
+>> Swahili - English
+	My brother's name is.
+
+Step 139/330
+>> English - Arabic
+	اسم اخي هو.
+
+Step 140/330
+>> Arabic - Malagasy
+	Ny anadahiko.
+
+Step 141/330
+>> Malagasy - Swahili
+	Ndugu yangu.
+
+Step 142/330
+>> Swahili - French
+	Mon frère
+
+Step 143/330
+>> French - Arabic
+	أخي
+
+Step 144/330
+>> Arabic - French
+	Mon frère
+
+Step 145/330
+>> French - Arabic
+	أخي
+
+Step 146/330
+>> Arabic - Haitian Creole
+	Frè
+
+Step 147/330
+>> Haitian Creole - Pashto
+	ورور
+
+Step 148/330
+>> Pashto - French
+	Mon frère
+
+Step 149/330
+>> French - Chichewa
+	Mchimwene wanga
+
+Step 150/330
+>> Chichewa - Arabic
+	اخي
+
+Step 151/330
+>> Arabic - Amharic
+	ወንድሜ።
+
+Step 152/330
+>> Amharic - English
+	my brother.
+
+Step 153/330
+>> English - French
+	mon frère.
+
+Step 154/330
+>> French - Swahili
+	kaka yangu.
+
+Step 155/330
+>> Swahili - Portuguese
+	meu irmão
+
+Step 156/330
+>> Portuguese - Arabic
+	اخي
+
+Step 157/330
+>> Arabic - Portuguese
+	Meu irmão
+
+Step 158/330
+>> Portuguese - English
+	My brother
+
+Step 159/330
+>> English - French
+	Mon frère
+
+Step 160/330
+>> French - English
+	My brother
+
+Step 161/330
+>> English - Swahili
+	Kaka yangu
+
+Step 162/330
+>> Swahili - Arabic
+	اخي
+
+Step 163/330
+>> Arabic - Arabic
+	Brother
+
+Step 164/330
+>> Arabic - French
+	Frère
+
+Step 165/330
+>> French - Hausa
+	wa
+
+Step 166/330
+>> Hausa - French
+	disponible
+
+Step 167/330
+>> French - Arabic
+	available
+
+Step 168/330
+>> Arabic - Arabic
+	متاح
+
+Step 169/330
+>> Arabic - Swahili
+	Inapatikana
+
+Step 170/330
+>> Swahili - English
+	Available
+
+Step 171/330
+>> English - French
+	Disponible
+
+Step 172/330
+>> French - English
+	Available
+
+Step 173/330
+>> English - Portuguese
+	acessível
+
+Step 174/330
+>> Portuguese - Arabic
+	متاح
+
+Step 175/330
+>> Arabic - Portuguese
+	Disponível
+
+Step 176/330
+>> Portuguese - Swahili
+	Inapatikana
+
+Step 177/330
+>> Swahili - French
+	Disponible
+
+Step 178/330
+>> French - English
+	Available
+
+Step 179/330
+>> English - Amharic
+	ይገኛል ፡፡
+
+Step 180/330
+>> Amharic - Arabic
+	المتاحة.
+
+Step 181/330
+>> Arabic - Chichewa
+	Kupezeka.
+
+Step 182/330
+>> Chichewa - French
+	Présence.
+
+Step 183/330
+>> French - Pashto
+	شتون لري.
+
+Step 184/330
+>> Pashto - Haitian Creole
+	Disponib.
+
+Step 185/330
+>> Haitian Creole - Arabic
+	المتاحة.
+
+Step 186/330
+>> Arabic - French
+	Disponible.
+
+Step 187/330
+>> French - Arabic
+	المتاحة.
+
+Step 188/330
+>> Arabic - French
+	Disponible.
+
+Step 189/330
+>> French - Swahili
+	Zilizopo.
+
+Step 190/330
+>> Swahili - Malagasy
+	Available.
+
+Step 191/330
+>> Malagasy - Arabic
+	المتاحة.
+
+Step 192/330
+>> Arabic - English
+	Available.
+
+Step 193/330
+>> English - Swahili
+	Inapatikana.
+
+Step 194/330
+>> Swahili - Hausa
+	Akwai.
+
+Step 195/330
+>> Hausa - Shona
+	Ikoko.
+
+Step 196/330
+>> Shona - Arabic
+	هناك.
+
+Step 197/330
+>> Arabic - Swahili
+	Huko.
+
+Step 198/330
+>> Swahili - English
+	There.
+
+Step 199/330
+>> English - French
+	Là.
+
+Step 200/330
+>> French - Urdu
+	نہیں.
+
+Step 201/330
+>> Urdu - Nepali
+	होईन
+
+Step 202/330
+>> Nepali - Burmese
+	မဟုတ်
+
+Step 203/330
+>> Burmese - Portuguese
+	não
+
+Step 204/330
+>> Portuguese - English
+	not
+
+Step 205/330
+>> English - Portuguese
+	não
+
+Step 206/330
+>> Portuguese - English
+	not
+
+Step 207/330
+>> English - Portuguese
+	não
+
+Step 208/330
+>> Portuguese - English
+	not
+
+Step 209/330
+>> English - lao
+	ບໍ່
+
+Step 210/330
+>> lao - French
+	Pas
+
+Step 211/330
+>> French - Bengali
+	না
+
+Step 212/330
+>> Bengali - English
+	No
+
+Step 213/330
+>> English - Spanish
+	No
+
+Step 214/330
+>> Spanish - Portuguese
+	Não
+
+Step 215/330
+>> Portuguese - Hindi
+	नहीं
+
+Step 216/330
+>> Hindi - English
+	No
+
+Step 217/330
+>> English - Spanish
+	No
+
+Step 218/330
+>> Spanish - English
+	Do not
+
+Step 219/330
+>> English - Portuguese
+	Não
+
+Step 220/330
+>> Portuguese - Spanish
+	No
+
+Step 221/330
+>> Spanish - Arabic
+	ليس
+
+Step 222/330
+>> Arabic - Russian
+	не
+
+Step 223/330
+>> Russian - Spanish
+	no
+
+Step 224/330
+>> Spanish - Arabic
+	لا
+
+Step 225/330
+>> Arabic - Spanish
+	No lo hace
+
+Step 226/330
+>> Spanish - Vietnamese
+	Nó không
+
+Step 227/330
+>> Vietnamese - Indonesian
+	Tidak
+
+Step 228/330
+>> Indonesian - Arabic
+	ليس
+
+Step 229/330
+>> Arabic - Zulu
+	Akunjalo
+
+Step 230/330
+>> Zulu - Filipino
+	Hindi naman
+
+Step 231/330
+>> Filipino - Romanian
+	Deloc
+
+Step 232/330
+>> Romanian - Spanish
+	en absoluto
+
+Step 233/330
+>> Spanish - French
+	du tout
+
+Step 234/330
+>> French - Arabic
+	على الإطلاق
+
+Step 235/330
+>> Arabic - English
+	Absolutely
+
+Step 236/330
+>> English - Uzbek
+	Mutlaqo
+
+Step 237/330
+>> Uzbek - Samoan
+	Ioe
+
+Step 238/330
+>> Samoan - English
+	Yes
+
+Step 239/330
+>> English - Dutch
+	Ja
+
+Step 240/330
+>> Dutch - English
+	Yes
+
+Step 241/330
+>> English - Kurdish
+	Erê
+
+Step 242/330
+>> Kurdish - Arabic
+	نعم
+
+Step 243/330
+>> Arabic - Spanish
+	Si
+
+Step 244/330
+>> Spanish - Mongolian
+	Тийм шүү
+
+Step 245/330
+>> Mongolian - English
+	Yes
+
+Step 246/330
+>> English - Spanish
+	si
+
+Step 247/330
+>> Spanish - Ukrainian
+	так
+
+Step 248/330
+>> Ukrainian - Spanish
+	si
+
+Step 249/330
+>> Spanish - Chinese (Simplified)
+	如果
+
+Step 250/330
+>> Chinese (Simplified) - Arabic
+	إذا
+
+Step 251/330
+>> Arabic - Thai
+	ถ้า
+
+Step 252/330
+>> Thai - Armenian
+	Եթե
+
+Step 253/330
+>> Armenian - Macedonian
+	Ако:
+
+Step 254/330
+>> Macedonian - Arabic
+	إذا كنت:
+
+Step 255/330
+>> Arabic - Portuguese
+	Se você:
+
+Step 256/330
+>> Portuguese - Spanish
+	Si tu:
+
+Step 257/330
+>> Spanish - Bosnian
+	Ako ste:
+
+Step 258/330
+>> Bosnian - Sinhala
+	ඔබ නම්:
+
+Step 259/330
+>> Sinhala - English
+	If you:
+
+Step 260/330
+>> English - Spanish
+	Si tu:
+
+Step 261/330
+>> Spanish - English
+	If you:
+
+Step 262/330
+>> English - Georgian
+	Თუ შენ:
+
+Step 263/330
+>> Georgian - English
+	If you:
+
+Step 264/330
+>> English - Albanian
+	Nëse ti:
+
+Step 265/330
+>> Albanian - Serbian
+	Ако:
+
+Step 266/330
+>> Serbian - Spanish
+	Si:
+
+Step 267/330
+>> Spanish - English
+	Yes:
+
+Step 268/330
+>> English - Turkish
+	Evet:
+
+Step 269/330
+>> Turkish - Spanish
+	Sí:
+
+Step 270/330
+>> Spanish - French
+	Oui:
+
+Step 271/330
+>> French - English
+	Yes:
+
+Step 272/330
+>> English - Persian
+	آره:
+
+Step 273/330
+>> Persian - Kazakh
+	Ия:
+
+Step 274/330
+>> Kazakh - English
+	Yes:
+
+Step 275/330
+>> English - Malay
+	Ya:
+
+Step 276/330
+>> Malay - Arabic
+	نعم:
+
+Step 277/330
+>> Arabic - Spanish
+	Si:
+
+Step 278/330
+>> Spanish - English
+	Yes:
+
+Step 279/330
+>> English - Russian
+	Да:
+
+Step 280/330
+>> Russian - Romanian
+	Da:
+
+Step 281/330
+>> Romanian - Bulgarian
+	Да:
+
+Step 282/330
+>> Bulgarian - Albanian
+	Po:
+
+Step 283/330
+>> Albanian - Russian
+	Да:
+
+Step 284/330
+>> Russian - Arabic
+	نعم:
+
+Step 285/330
+>> Arabic - Spanish
+	Si:
+
+Step 286/330
+>> Spanish - Croatian
+	ako je:
+
+Step 287/330
+>> Croatian - Hungarian
+	ha:
+
+Step 288/330
+>> Hungarian - Spanish
+	donde:
+
+Step 289/330
+>> Spanish - Arabic
+	حيث:
+
+Step 290/330
+>> Arabic - Portuguese
+	Onde:
+
+Step 291/330
+>> Portuguese - Latvian
+	Kur:
+
+Step 292/330
+>> Latvian - Arabic
+	حيث:
+
+Step 293/330
+>> Arabic - Malay
+	Di mana:
+
+Step 294/330
+>> Malay - Slovak
+	kde:
+
+Step 295/330
+>> Slovak - Arabic
+	حيث:
+
+Step 296/330
+>> Arabic - Lithuanian
+	Kur:
+
+Step 297/330
+>> Lithuanian - Catalan
+	On:
+
+Step 298/330
+>> Catalan - Arabic
+	حيث:
+
+Step 299/330
+>> Arabic - Polish
+	Gdzie:
+
+Step 300/330
+>> Polish - Turkish
+	burada:
+
+Step 301/330
+>> Turkish - Greek
+	όπου:
+
+Step 302/330
+>> Greek - Estonian
+	kus:
+
+Step 303/330
+>> Estonian - Maltese
+	fejn:
+
+Step 304/330
+>> Maltese - Italian
+	dove:
+
+Step 305/330
+>> Italian - Czech
+	kde:
+
+Step 306/330
+>> Czech - Spanish
+	donde:
+
+Step 307/330
+>> Spanish - Slovenian
+	kje:
+
+Step 308/330
+>> Slovenian - French
+	où:
+
+Step 309/330
+>> French - Korean
+	여기서,
+
+Step 310/330
+>> Korean - Hebrew
+	איפה
+
+Step 311/330
+>> Hebrew - Luxembourgish
+	Wou
+
+Step 312/330
+>> Luxembourgish - German
+	Wo
+
+Step 313/330
+>> German - Japanese
+	どこ
+
+Step 314/330
+>> Japanese - German
+	Wo
+
+Step 315/330
+>> German - Dutch
+	waarin
+
+Step 316/330
+>> Dutch - Maori
+	hea
+
+Step 317/330
+>> Maori - Finnish
+	jossa
+
+Step 318/330
+>> Finnish - English
+	where
+
+Step 319/330
+>> English - Danish
+	hvor
+
+Step 320/330
+>> Danish - Dutch
+	waarin
+
+Step 321/330
+>> Dutch - Chinese (Traditional)
+	哪裡
+
+Step 322/330
+>> Chinese (Traditional) - Swedish
+	var
+
+Step 323/330
+>> Swedish - Chinese (Traditional)
+	是
+
+Step 324/330
+>> Chinese (Traditional) - Icelandic
+	Já
+
+Step 325/330
+>> Icelandic - German
+	ja
+
+Step 326/330
+>> German - Irish
+	yes
+
+Step 327/330
+>> Irish - English
+	yes
+
+Step 328/330
+>> English - German
+	Ja
+
+Step 329/330
+>> German - Norwegian
+	ja
+
+Step 330/330
+>> Norwegian - Portuguese
+	sim
+
+
+##### RESULTS ######
+
+— Em nome de Deus, minha irmã, rogo-te que nos contes o que fizeram as três belas damas com todas as provisões compradas por Amina.
+
+sim
