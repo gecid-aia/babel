@@ -1,0 +1,1147 @@
+Translation chain: ga - zu - ar - es - he - si - lb - ko - sn - ht - ca - da - mt - mk - ha - no - mn - sw - mi - sm - hy - fa - cs - uk - fr - sl - lt - am - it - ku - ms - hu - pt - en - et - fi - ro - bn - tl - sr - lo - hr - kk - vi - mg - ps - hi - ru - pl - id - ur - sv - bs - de - ja - ny - nl - ne - bg - lv - el - tr - ka - zh-TW - uz - my - th - zh - sk - sq - is - sk - hi - ps - si - sw - da - lt - is - sm - ja - ca - tl - bg - ku - sl - ht - uk - ru - hr - ne - mg - ms - es - mn - ur - zu - hu - bn - it - ga - lv - ko - ha - lo - mk - id - vi - sn - no - nl - zh-TW - pt - sr - bs - pl - ro - lb - th - mt - sv - fa - zh - et - mi - de - kk - am - ar - fi - el - my - uz - ny - fr - cs - sq - he - ka - en - hy - tr.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Irish
+	Dó, soláthróidh gach léamh ar aon téacs méid nua agus tuiscint nua ar an téacs sin. Ag labhairt go meafarach, seasann sé os comhair na dtéacsanna mar bhear abhann Heráclito, áit nach féidir dul isteach faoi dhó toisc go bhfuil a chúrsa ag athrú i gcónaí.
+
+Step 2/284
+>> Irish - Zulu
+	Ngaye, konke ukufundwa kwanoma yimuphi umbhalo kuzonikeza ngosayizi omusha nokuqonda okusha kwalowo mbhalo. Ngokukhuluma ngokomfanekiso, umi phambi kwemibhalo efana nomfula waseHeráclito, lapho kungenakwenzeka khona ukungena kabili ngoba inkambo yayo ihlala ishintsha.
+
+Step 3/284
+>> Zulu - Arabic
+	من خلاله ، ستوفر كل قراءة لأي نص بعدًا جديدًا وفهمًا جديدًا للنص. بالمعنى المجازي ، يقف أمام نصوص مثل نهر Heráclito ، حيث من المستحيل التراجع المزدوج لأن مساره يتغير باستمرار.
+
+Step 4/284
+>> Arabic - Spanish
+	A través de él, cada lectura de cualquier texto proporcionará una nueva dimensión y una nueva comprensión del texto. En sentido figurado, se para frente a textos como el río Heráclito, donde es imposible dar marcha atrás porque su camino cambia constantemente.
+
+Step 5/284
+>> Spanish - Hebrew
+	דרכו, כל קריאה של טקסט כלשהו תספק מימד חדש והבנה חדשה של הטקסט. מבחינה פיגורטיבית הוא עומד מול טקסטים כמו נהר הרקליטו, שם אי אפשר לסגת מכיוון שדרכו משתנה ללא הרף.
+
+Step 6/284
+>> Hebrew - Sinhala
+	එය හරහා, ඕනෑම පා of යක් කියවීමෙන් පෙළ පිළිබඳ නව මානයක් සහ අවබෝධයක් ලබා දෙනු ඇත. සංකේතාත්මකව, ඔහු හෙරක්ලිටෝ ගඟ වැනි පා xts වලට මුහුණ දී ඇති අතර, ඔහුගේ මාර්ගය නිරන්තරයෙන් වෙනස් වන බැවින් ඉවත් විය නොහැක.
+
+Step 7/284
+>> Sinhala - Luxembourgish
+	Duerch et, Liesen all Foussofdrock ginn Iech eng nei Dimensioun a Verständnis vum Text. Symbolesch huet hien op Pa xts wéi den Heraclito River begéint an kann net zréckzéien well säi Wee ännert sech dauernd.
+
+Step 8/284
+>> Luxembourgish - Korean
+	이를 통해 모든 발자국을 읽으면 새로운 차원의 텍스트를 이해할 수 있습니다. 상징적으로, 그는 Heraclito River와 같은 Pa xts에 착수했으며 경로가 끊임없이 바뀌기 때문에 후퇴 할 수 없습니다.
+
+Step 9/284
+>> Korean - Shona
+	Izvi zvinokutendera iwe kuti unzwisise zvinyorwa mune imwe nzvimbo itsva nekuverenga tsoka dzese. Nenzira, akatungamira paPa xts seHeraclito Rwizi uye nzira inogara ichichinja, kuti iwe haugone kudzokera.
+
+Step 10/284
+>> Shona - Haitian Creole
+	Sa ap pèmèt ou konprann tèks la nan yon nouvo kote nan lekti chak anprint. By wout la, li te dirije sou xts Pa kòm Rivyè Heraclito ak chemen an tout tan-chanje, ke ou pa ka retounen.
+
+Step 11/284
+>> Haitian Creole - Catalan
+	Això us permetrà entendre el text en una ubicació nova llegint cada petjada. Per cert, es dirigeix cap a Xts Pa com el riu Heràclito i el camí en canvi, que no es pot tornar.
+
+Step 12/284
+>> Catalan - Danish
+	Dette giver dig mulighed for at forstå teksten på et nyt sted ved at læse hvert fodaftryk. Af den måde går den til Xts Pa som floden Heraclitus og vejen i stedet, som ikke kan returneres.
+
+Step 13/284
+>> Danish - Maltese
+	Dan jippermettilek tifhem it-test f'post ġdid billi taqra kull marka. Mill-mod, hija tmur lejn Xts Pa bħala x-xmara Heraclitus u t-triq minflok, li ma tistax terġa 'tiġi rritornata.
+
+Step 14/284
+>> Maltese - Macedonian
+	Ова ви овозможува да се разбере текстот прочита од секој бренд ново место. Патем, се случува да се добие на реката XTS Pa Хераклит и патот наместо тоа, што веќе не може да се врати.
+
+Step 15/284
+>> Macedonian - Hausa
+	Wannan yana ba ku damar fahimtar rubutun karantawa ta kowace sabon wuri. Af, za ku hau kan XTS Pa Heraclitus da hanya maimakon, wanda ba zai iya sake dawowa ba.
+
+Step 16/284
+>> Hausa - Norwegian
+	Dette lar deg forstå den leste teksten gjennom et hvilket som helst nytt sted. Forresten, vil du sykle på XTS Pa Heraclitus og veien i stedet, som ikke kan gjenopprettes.
+
+Step 17/284
+>> Norwegian - Mongolian
+	Энэ нь танд уншсан текстийг ямар ч шинэ байршилаар дамжуулан ойлгох боломжийг олгоно. Дашрамд хэлэхэд та XTS Pa Heraclitus, үүний оронд сэргээгдэх боломжгүй зам руу явах болно.
+
+Step 18/284
+>> Mongolian - Swahili
+	Hii itakuruhusu kuelewa maandishi unayosoma kupitia eneo lolote mpya. Kwa njia, utaenda kwa XTS Pa Heraclitus, badala ya njia isiyoweza kubadilishwa.
+
+Step 19/284
+>> Swahili - Maori
+	Ma tenei ka mohio koe ki nga kuputuhi e panui ana koe i nga waahi hou. Ma te ara, ka haere koe mo te XTS Pa Heraclitus, hei utu mo te huarahi korekore.
+
+Step 20/284
+>> Maori - Samoan
+	O lenei mea o le a faʻatagaina ai oe e iloa le mea o loʻo e faitauina i nofoaga fou. I le auala, o le ae alu mo le XTS Pa Heraclitus, nai lo le ala saʻoloto.
+
+Step 21/284
+>> Samoan - Armenian
+	Սա ձեզ հնարավորություն կտա իմանալ, թե ինչ եք կարդում նոր վայրերում: Ի դեպ, դուք գնում եք դեպի XTS Pa Heraclitus, այլ ոչ թե անվճար երթուղի:
+
+Step 22/284
+>> Armenian - Persian
+	این به شما امکان می دهد آنچه را که در مکان های جدید می خوانید ، بدانید. به هر حال ، شما به XTS Pa Heraclitus می روید ، نه مسیر رایگان.
+
+Step 23/284
+>> Persian - Czech
+	Díky tomu budete vědět, co čtete na nových místech. Každopádně jdete na XTS Pa Heraclitus, ne na bezplatnou trasu.
+
+Step 24/284
+>> Czech - Ukrainian
+	Це допомагає вам знати, що ви читаєте в нових місцях. У будь-якому випадку, ви їдете на XTS Pa Heraclitus, а не на безкоштовний маршрут.
+
+Step 25/284
+>> Ukrainian - French
+	Il vous aide à savoir ce que vous lisez dans de nouveaux endroits. Quoi qu'il en soit, vous êtes sur le XTS Pa Heraclitus, pas sur la route gratuite.
+
+Step 26/284
+>> French - Slovenian
+	Pomaga vam vedeti, kaj berete na novih krajih. Kakor koli že, ste na XTS Pa Heraklitus, ne po prosti cesti.
+
+Step 27/284
+>> Slovenian - Lithuanian
+	Tai padeda jums žinoti, ką skaitote naujose vietose. Šiaip ar taip, jūs važiuojate XTS Pa Heraclitus, o ne laisvu keliu.
+
+Step 28/284
+>> Lithuanian - Amharic
+	በአዲሶቹ ቦታዎች ምን እንደሚያነቡ እንዲያውቁ ያግዝዎታል ፡፡ መቼም ቢሆን ፣ የነፃውን ሳይሆን የ XTS Pa Heraclitus ን እየነዱ ነው ፡፡
+
+Step 29/284
+>> Amharic - Italian
+	Ti aiuta a sapere cosa leggere in nuovi luoghi. Ad ogni modo, stai guidando la XTS Pa Heraclitus, non quella gratuita.
+
+Step 30/284
+>> Italian - Kurdish
+	Ew ji we re dibe alîkar ku hûn bizanin ka hûn li cîyên nû bixwînin. Wekî din, hûn XTS Pa Heraclitus rêve dikin, ne ya belaş.
+
+Step 31/284
+>> Kurdish - Malay
+	Ia membantu anda mengetahui sama ada anda membaca di tempat baru. Lagipun, anda memandu XTS Pa Heraclitus, tidak percuma.
+
+Step 32/284
+>> Malay - Hungarian
+	Segít megtudni, ha valahol újat olvas. Végül is az XTS Pa Heraclitus-t vezet, nem ingyen.
+
+Step 33/284
+>> Hungarian - Portuguese
+	Isso ajuda você a descobrir se está lendo algo novo em algum lugar. Afinal, o XTS executa o Pa Heraclitus, não de graça.
+
+Step 34/284
+>> Portuguese - English
+	This helps you find out if you are reading something new somewhere. After all, XTS runs Pa Heraclitus, not for free.
+
+Step 35/284
+>> English - Estonian
+	See aitab teil teada saada, kas loete kuskil midagi uut. Lõppude lõpuks juhib XTS Pa Heraclitust, mitte tasuta.
+
+Step 36/284
+>> Estonian - Finnish
+	Tämä auttaa sinua selvittämään, luetko jotain uutta jostain. Loppujen lopuksi XTS ajaa Pa Heraclitusia, ei ilmaiseksi.
+
+Step 37/284
+>> Finnish - Romanian
+	Acest lucru vă va ajuta să aflați dacă citiți ceva nou despre ceva. La urma urmei, XTS conduce Pa Heraclit, nu gratuit.
+
+Step 38/284
+>> Romanian - Bengali
+	আপনি কোনও বিষয়ে নতুন কিছু পড়ছেন কিনা তা আপনাকে খুঁজে পেতে সহায়তা করবে। সর্বোপরি, এক্সটিএস বিনামূল্যে হ'ল পা হেরাক্লিটকে ড্রাইভ করে।
+
+Step 39/284
+>> Bengali - Filipino
+	Makakatulong ito sa iyo na malaman kung nagbabasa ka ng bago. Una sa lahat, ang XTS ay ang libreng paa na nagtutulak sa Heraclit.
+
+Step 40/284
+>> Filipino - Serbian
+	Ово ће вам помоћи да сазнате да ли читате нешто ново. Пре свега, КСТС је слободно стопало које покреће Херацлит.
+
+Step 41/284
+>> Serbian - Lao
+	ນີ້ຈະຊ່ວຍໃຫ້ທ່ານຄົ້ນພົບວ່າທ່ານ ກຳ ລັງອ່ານສິ່ງ ໃໝ່ໆ ຢູ່ບໍ. ກ່ອນອື່ນ ໝົດ, KSTS ແມ່ນຕີນຟຣີທີ່ຂັບເຄື່ອນໂດຍ Heraclitus.
+
+Step 42/284
+>> Lao - Croatian
+	Tako ćete saznati čitate li nešto novo. Prije svega, KSTS je besplatna noga koju pokreće Heraklit.
+
+Step 43/284
+>> Croatian - Kazakh
+	Бұл сізге жаңа бір нәрсе оқып отырғаныңыз туралы хабарлайды. Біріншіден, KSTS - бұл Гераклиттің күшімен жұмыс жасайтын еркін аяқ.
+
+Step 44/284
+>> Kazakh - Vietnamese
+	Điều này cho bạn biết rằng bạn đang đọc một cái gì đó mới. Trước hết, KSTS là một chân miễn phí được cung cấp bởi Heraclitus.
+
+Step 45/284
+>> Vietnamese - Malagasy
+	Izany dia milaza aminao fa mamaky zavatra vaovao ianao. Voalohany indrindra, ny KSTS dia tongotra malalaka omen'ny Heraclitus.
+
+Step 46/284
+>> Malagasy - Pashto
+	دا تاسو ته وايي چې تاسو یو څه نوي ولولئ. لومړی او خورا مهم ، KSTS یو وړیا فوټ دی چې د هرکلیټس لخوا چمتو شوی.
+
+Step 47/284
+>> Pashto - Hindi
+	यह बताता है कि आप कुछ नया पढ़ते हैं। सबसे पहले और सबसे महत्वपूर्ण, केएसएस हरक्यूलिस द्वारा प्रदान किया गया एक मुफ्त पैर है।
+
+Step 48/284
+>> Hindi - Russian
+	Это говорит о том, что вы прочитали что-то новое. Прежде всего, KSS - это бесплатная нога, предоставляемая Hercules.
+
+Step 49/284
+>> Russian - Polish
+	To sugeruje, że czytasz coś nowego. Po pierwsze, KSS to darmowa stopa oferowana przez Herculesa.
+
+Step 50/284
+>> Polish - Indonesian
+	Ini menunjukkan bahwa Anda membaca sesuatu yang baru. Pertama-tama, KSS adalah tarif gratis yang ditawarkan oleh Hercules.
+
+Step 51/284
+>> Indonesian - Urdu
+	اس سے ظاہر ہوتا ہے کہ آپ کچھ نیا پڑھ رہے ہیں۔ سب سے پہلے ، کے ایس ایس ہرکیولس کے ذریعہ پیش کردہ مفت ٹیرف ہے۔
+
+Step 52/284
+>> Urdu - Swedish
+	Detta visar att du läser något nytt. Först och främst är KSS en gratis tariff som erbjuds av Hercules.
+
+Step 53/284
+>> Swedish - Bosnian
+	To pokazuje da čitate nešto novo. Prije svega, KSS je besplatna tarifa koju nudi Hercules.
+
+Step 54/284
+>> Bosnian - German
+	Es zeigt, dass Sie etwas Neues lesen. Erstens ist KSS ein kostenloser Tarif, der von Hercules angeboten wird.
+
+Step 55/284
+>> German - Japanese
+	それはあなたが何か新しいものを読んでいることを示しています。まず、KSSはHerculesが提供する無料の料金表です。
+
+Step 56/284
+>> Japanese - Chichewa
+	Zikuwonetsa kuti mukuwerenga zatsopano. Choyamba, KSS ndi msonkho waulere woperekedwa ndi Hercules.
+
+Step 57/284
+>> Chichewa - Dutch
+	Het laat zien dat je iets nieuws leest. Ten eerste is KSS een gratis belasting die Hercules betaalt.
+
+Step 58/284
+>> Dutch - Nepali
+	यसले देखाउँदछ कि तपाईं केहि नयाँ पढ्दै हुनुहुन्छ। पहिले, KSS एक नि: शुल्क कर हो जुन हर्क्युलसले भुक्तान गर्दछ।
+
+Step 59/284
+>> Nepali - Bulgarian
+	Показва, че четете нещо ново. Първо, KSS е безплатен данък, който Херкулес плаща.
+
+Step 60/284
+>> Bulgarian - Latvian
+	Norāda, ka jūs lasāt kaut ko jaunu. Pirmkārt, KSS ir bezmaksas nodoklis, kuru maksā Hercules.
+
+Step 61/284
+>> Latvian - Greek
+	Δηλώνει ότι διαβάζετε κάτι νέο. Κατ 'αρχάς, το CHS είναι ένας δωρεάν φόρος που κατέβαλε ο Ηρακλής.
+
+Step 62/284
+>> Greek - Turkish
+	Yeni bir şey okuduğunuzu söylüyor. Her şeyden önce, CHS Heracles tarafından ödenen ücretsiz bir vergidir.
+
+Step 63/284
+>> Turkish - Georgian
+	იგი ამბობს, რომ ახალს კითხულობ. უპირველეს ყოვლისა, ეს არის უფასო გადასახადი, რომელსაც გადახდილი აქვს CHS Heracles.
+
+Step 64/284
+>> Georgian - Chinese (Traditional)
+	它表示您正在閱讀新內容。首先，這是CHS Heracles支付的免費稅。
+
+Step 65/284
+>> Chinese (Traditional) - Uzbek
+	Bu siz yangi tarkibni o'qiyotganingizni anglatadi. Birinchidan, bu CHS Heracles tomonidan to'lanadigan bepul soliq.
+
+Step 66/284
+>> Uzbek - Burmese
+	ဆိုလိုသည်မှာသင်သည်အကြောင်းအရာအသစ်ကိုဖတ်နေခြင်းဖြစ်သည်။ ပထမ ဦး စွာ CHS Heracles မှပေးသောအခမဲ့အခွန်ဖြစ်သည်။
+
+Step 67/284
+>> Burmese - Thai
+	หมายความว่าคุณกำลังอ่านเนื้อหาใหม่ ก่อนอื่นภาษีฟรีที่จัดทำโดย CHS Heracles
+
+Step 68/284
+>> Thai - Chinese (Simplified)
+	表示您正在阅读新内容首先，CHS Heracles提供免费税。
+
+Step 69/284
+>> Chinese (Simplified) - Slovak
+	Znamená to, že čítate nový obsah V prvom rade spoločnosť CHS Heracles ponúka daň zadarmo.
+
+Step 70/284
+>> Slovak - Albanian
+	Kjo do të thotë që po lexoni përmbajtje të reja Para së gjithash, CHS Heracles ofron një taksë falas.
+
+Step 71/284
+>> Albanian - Icelandic
+	Þetta þýðir að þú ert að lesa nýtt efni Í fyrsta lagi býður CHS Herakles upp á ókeypis skatta.
+
+Step 72/284
+>> Icelandic - Slovak
+	To znamená, že čítate nový obsah V prvom rade spoločnosť CHS Herakles ponúka daň zadarmo.
+
+Step 73/284
+>> Slovak - Hindi
+	इसका मतलब है कि आप नई सामग्री पढ़ रहे हैं सबसे पहले, सीएचएस हेराक्लेस एक मुफ्त कर प्रदान करता है।
+
+Step 74/284
+>> Hindi - Pashto
+	د دې معنی دا ده چې تاسو نوي مواد لوستل کوئ. لومړی ، CHS هریکلس وړیا مالیه وړاندیز کوي.
+
+Step 75/284
+>> Pashto - Sinhala
+	මෙයින් අදහස් කරන්නේ ඔබ නව අන්තර්ගතයන් කියවන බවයි. පළමුව, සීඑච්එස් හර්කියුලිස් නොමිලේ බදු අය කරයි.
+
+Step 76/284
+>> Sinhala - Swahili
+	Hii inamaanisha kuwa unasoma yaliyomo mpya. Kwanza, HSHLE za CHS hazina ushuru.
+
+Step 77/284
+>> Swahili - Danish
+	Det betyder, at du læser nyt indhold. For det første er CHS gratis.
+
+Step 78/284
+>> Danish - Lithuanian
+	Tai reiškia, kad jūs skaitote naują turinį. Pirma, CHS nemokama.
+
+Step 79/284
+>> Lithuanian - Icelandic
+	Þetta þýðir að þú ert að lesa nýtt efni. Í fyrsta lagi er CHS ókeypis.
+
+Step 80/284
+>> Icelandic - Samoan
+	O lona uiga o loʻo e faitauina ni anotusi fou. Muamua, CHS e leai se totogi.
+
+Step 81/284
+>> Samoan - Japanese
+	これは、新しいコンテンツを読んでいることを意味します。まず、CHSは無料です。
+
+Step 82/284
+>> Japanese - Catalan
+	Això vol dir que estàs llegint contingut nou. En primer lloc, CHS és gratuït.
+
+Step 83/284
+>> Catalan - Filipino
+	Nangangahulugan ito na nagbabasa ka ng mga bagong nilalaman. Una sa lahat, libre ang CHS.
+
+Step 84/284
+>> Filipino - Bulgarian
+	Това означава, че четете ново съдържание. На първо място, CHS е безплатен.
+
+Step 85/284
+>> Bulgarian - Kurdish
+	Ev tê vê wateyê ku hûn naveroka nû dixwînin. Berî her tiştî, CHS belaş e.
+
+Step 86/284
+>> Kurdish - Slovenian
+	To pomeni, da berete novo vsebino. Najprej je CHS brezplačen.
+
+Step 87/284
+>> Slovenian - Haitian Creole
+	Sa vle di ke ou ap li nouvo kontni. Premye a tout, CHS gratis.
+
+Step 88/284
+>> Haitian Creole - Ukrainian
+	Це означає, що ви читаєте новий вміст. Перш за все, CHS безкоштовно.
+
+Step 89/284
+>> Ukrainian - Russian
+	Это означает, что вы читаете новый содержание. Прежде всего, CHS бесплатно.
+
+Step 90/284
+>> Russian - Croatian
+	To znači da čitate nove sadržaje. Prije svega, CHS je besplatan.
+
+Step 91/284
+>> Croatian - Nepali
+	यसको मतलब यो हो कि तपाइँ नयाँ सामग्री पढ्दै हुनुहुन्छ। सबै भन्दा पहिले, CHS नि: शुल्क छ।
+
+Step 92/284
+>> Nepali - Malagasy
+	Midika izany fa mamaky zavatra vaovao ianao. Ny voalohany dia afaka ny CHS.
+
+Step 93/284
+>> Malagasy - Malay
+	Ini bermakna anda membaca sesuatu yang baru. Yang pertama adalah percuma CHS.
+
+Step 94/284
+>> Malay - Spanish
+	Eso significa que lees algo nuevo. El primero es CHS gratis.
+
+Step 95/284
+>> Spanish - Mongolian
+	Энэ нь та ямар нэгэн шинэ зүйл уншсан гэсэн үг юм. Эхнийх нь үнэгүй CHS.
+
+Step 96/284
+>> Mongolian - Urdu
+	اس کا مطلب ہے کہ آپ کچھ نیا پڑھتے ہیں۔ پہلی مفت سی ایچ ایس ہے۔
+
+Step 97/284
+>> Urdu - Zulu
+	Lokho kusho ukuthi ufunda okuthile okusha. Owokuqala yi-CHS yamahhala.
+
+Step 98/284
+>> Zulu - Hungarian
+	Ez azt jelenti, hogy valami újat tanulsz. Az első az ingyenes CHS.
+
+Step 99/284
+>> Hungarian - Bengali
+	এর অর্থ হল আপনি নতুন কিছু শিখছেন। প্রথমটি হ'ল ফ্রি সিএইচএস।
+
+Step 100/284
+>> Bengali - Italian
+	Significa che stai imparando qualcosa di nuovo. Il primo è CHS gratuito.
+
+Step 101/284
+>> Italian - Irish
+	Ciallaíonn sé go bhfuil tú ag foghlaim rud éigin nua. Is é an chéad cheann CHS saor in aisce.
+
+Step 102/284
+>> Irish - Latvian
+	Tas nozīmē, ka jūs mācāties kaut ko jaunu. Pirmais ir bez CHS.
+
+Step 103/284
+>> Latvian - Korean
+	새로운 것을 배우고 있다는 의미입니다. 첫 번째는 CHS가없는 것입니다.
+
+Step 104/284
+>> Korean - Hausa
+	Yana nufin cewa kuna koyon wani sabon abu. Na farko ba tare da CHS ba.
+
+Step 105/284
+>> Hausa - Lao
+	ມັນ ໝາຍ ຄວາມວ່າທ່ານ ກຳ ລັງຮຽນຮູ້ສິ່ງ ໃໝ່ໆ. ຫນ້າທໍາອິດໂດຍບໍ່ມີການ CHS.
+
+Step 106/284
+>> Lao - Macedonian
+	Тоа значи дека учите нешто ново. Прво без CHS.
+
+Step 107/284
+>> Macedonian - Indonesian
+	Itu berarti Anda mempelajari sesuatu yang baru. Pertama tanpa CHS.
+
+Step 108/284
+>> Indonesian - Vietnamese
+	Điều đó có nghĩa là bạn học được điều gì đó mới. Đầu tiên không có CHS.
+
+Step 109/284
+>> Vietnamese - Shona
+	Izvi zvinoreva kuti iwe unodzidza chimwe chinhu chitsva. Kutanga hakuna CHS.
+
+Step 110/284
+>> Shona - Norwegian
+	Dette betyr at du lærer noe nytt. Først er det ingen CHS.
+
+Step 111/284
+>> Norwegian - Dutch
+	Dit betekent dat je iets nieuws leert. Ten eerste is er geen CHS.
+
+Step 112/284
+>> Dutch - Chinese (Traditional)
+	這意味著您會學到新東西。首先，沒有CHS。
+
+Step 113/284
+>> Chinese (Traditional) - Portuguese
+	Isso significa que você aprenderá algo novo. Primeiro, não há CHS.
+
+Step 114/284
+>> Portuguese - Serbian
+	То значи да ћете научити нешто ново. Прво, не постоји ЦХС.
+
+Step 115/284
+>> Serbian - Bosnian
+	To znači da ćete naučiti nešto novo. Prvo, ne postoji CHS.
+
+Step 116/284
+>> Bosnian - Polish
+	Oznacza to, że nauczysz się czegoś nowego. Po pierwsze, nie ma CHS.
+
+Step 117/284
+>> Polish - Romanian
+	Aceasta înseamnă că veți învăța ceva nou. În primul rând, nu există CHS.
+
+Step 118/284
+>> Romanian - Luxembourgish
+	Dëst bedeit datt Dir eppes Neies léiert. Als éischt gëtt et keen CHS.
+
+Step 119/284
+>> Luxembourgish - Thai
+	ซึ่งหมายความว่าคุณกำลังเรียนรู้สิ่งใหม่ ก่อนอื่นไม่มี CHS
+
+Step 120/284
+>> Thai - Maltese
+	Li jfisser li qed titgħallem affarijiet ġodda L-ewwelnett, m'hemm l-ebda CHS.
+
+Step 121/284
+>> Maltese - Swedish
+	Vilket innebär att du lära sig nya saker För det första finns det ingen CHS.
+
+Step 122/284
+>> Swedish - Persian
+	این بدان معناست که شما چیزهای جدید را یاد می گیرید ابتدا CHS وجود ندارد.
+
+Step 123/284
+>> Persian - Chinese (Simplified)
+	这意味着您将首先学习CHS不存在的新事物。
+
+Step 124/284
+>> Chinese (Simplified) - Estonian
+	See tähendab, et kõigepealt õpid uusi asju, mida CHS-i pole olemas.
+
+Step 125/284
+>> Estonian - Maori
+	Koinei te tikanga ka ako koe i nga mea hou kaore nei i roto i te CHS.
+
+Step 126/284
+>> Maori - German
+	Dies bedeutet, dass Sie neue Dinge lernen, die derzeit nicht in CHS enthalten sind.
+
+Step 127/284
+>> German - Kazakh
+	Бұл қазіргі уақытта CHS құрамына кірмеген жаңа нәрселерді үйренесіз дегенді білдіреді.
+
+Step 128/284
+>> Kazakh - Amharic
+	ይህ ማለት በአሁኑ ጊዜ የ CHS አካል ያልሆኑ አዳዲስ ነገሮችን ይማራሉ ማለት ነው ፡፡
+
+Step 129/284
+>> Amharic - Arabic
+	هذا يعني أنك ستتعلم الآن أشياء جديدة ليست جزءًا من CHS.
+
+Step 130/284
+>> Arabic - Finnish
+	Tämä tarkoittaa, että opit nyt uusia asioita, jotka eivät kuulu CHS: ään.
+
+Step 131/284
+>> Finnish - Greek
+	Αυτό σημαίνει ότι τώρα μαθαίνετε νέα πράγματα που δεν αποτελούν μέρος του CHS.
+
+Step 132/284
+>> Greek - Burmese
+	ဆိုလိုသည်မှာသင်သည် CHS တွင်မပါ ၀ င်သောအရာများကိုယခုလေ့လာသင်ယူနေသည်ဟုဆိုလိုသည်။
+
+Step 133/284
+>> Burmese - Uzbek
+	Bu endi siz CHS-ga kirmaydigan narsalarni o'rganayotganingizni anglatadi.
+
+Step 134/284
+>> Uzbek - Chichewa
+	Izi zikutanthauza kuti tsopano mukuphunzira zinthu zomwe sizili mbali ya CHS.
+
+Step 135/284
+>> Chichewa - French
+	Cela signifie que vous apprenez maintenant des choses qui ne font pas partie du SHC.
+
+Step 136/284
+>> French - Czech
+	To znamená, že se nyní učíte věci, které nejsou součástí CHS.
+
+Step 137/284
+>> Czech - Albanian
+	Kjo do të thotë që ju tani po mësoni gjëra që nuk janë pjesë e koprës.
+
+Step 138/284
+>> Albanian - Hebrew
+	משמעות הדבר היא שאתה לומד עכשיו דברים שאינם חלק מהשמיר.
+
+Step 139/284
+>> Hebrew - Georgian
+	ეს ნიშნავს, რომ თქვენ ახლა სწავლობთ ნივთებს, რომლებიც არ არიან კამის ნაწილი.
+
+Step 140/284
+>> Georgian - English
+	This means that you are now learning things that are not part of the fennel.
+
+Step 141/284
+>> English - Armenian
+	Սա նշանակում է, որ դուք այժմ սովորում եք այնպիսի բաներ, որոնք սամիթ չեն հանդիսանում:
+
+Step 142/284
+>> Armenian - Turkish
+	Bu, dereotu olmayan şeyleri öğrendiğiniz anlamına gelir.
+
+Step 143/284
+>> Turkish - Armenian
+	Սա նշանակում է, որ դուք բաներ եք սովորել առանց սամիթի:
+
+Step 144/284
+>> Armenian - English
+	This means that you have learned things without dill.
+
+Step 145/284
+>> English - Georgian
+	ეს ნიშნავს, რომ თქვენ ისწავლეთ რამე კამაზე გარეშე.
+
+Step 146/284
+>> Georgian - Hebrew
+	זה אומר שלמדת משהו בלי שמיר.
+
+Step 147/284
+>> Hebrew - Albanian
+	Do të thotë të mësoni diçka pa kopër.
+
+Step 148/284
+>> Albanian - Czech
+	To znamená naučit se něco bez kopru.
+
+Step 149/284
+>> Czech - French
+	Cela signifie apprendre quelque chose sans aneth.
+
+Step 150/284
+>> French - Chichewa
+	Zimatanthawuza kuphunzira china popanda katsabola.
+
+Step 151/284
+>> Chichewa - Uzbek
+	Bu arpabodiyondan boshqa narsani o'rganish demakdir.
+
+Step 152/284
+>> Uzbek - Burmese
+	ဇီယာစေ့ထက်အခြားအရာတစ်ခုခုကိုလေ့လာခြင်းကိုဆိုလိုသည်။
+
+Step 153/284
+>> Burmese - Greek
+	Σημαίνει να μελετάς κάτι άλλο από τον άνηθο.
+
+Step 154/284
+>> Greek - Finnish
+	Se tarkoittaa muun kuin tillin tutkimista.
+
+Step 155/284
+>> Finnish - Arabic
+	يعني دراسة شيء آخر غير الشبت.
+
+Step 156/284
+>> Arabic - Amharic
+	እሱ ከዶልት ሌላ ነገር ማጥናት ማለት ነው ፡፡
+
+Step 157/284
+>> Amharic - Kazakh
+	Бұл Долпиттен басқа нәрсені оқып үйренуді білдіреді.
+
+Step 158/284
+>> Kazakh - German
+	Es bedeutet, etwas anderes als Dolpit zu lernen.
+
+Step 159/284
+>> German - Maori
+	Ko tona tikanga ko te ako i tetahi mea ke atu i a Dolpit.
+
+Step 160/284
+>> Maori - Estonian
+	See tähendab õppida midagi muud kui Dolpit.
+
+Step 161/284
+>> Estonian - Chinese (Simplified)
+	这意味着要学习杜比之外的东西。
+
+Step 162/284
+>> Chinese (Simplified) - Persian
+	این یعنی یادگیری چیز دیگری غیر از دالبی.
+
+Step 163/284
+>> Persian - Swedish
+	Det betyder att lära sig något annat än Dolby.
+
+Step 164/284
+>> Swedish - Maltese
+	Dan ifisser li titgħallem xi ħaġa oħra għajr Dolby.
+
+Step 165/284
+>> Maltese - Thai
+	ซึ่งหมายความว่าที่คุณเรียนรู้สิ่งอื่น ๆ กว่า Dolby
+
+Step 166/284
+>> Thai - Luxembourgish
+	Wat heescht datt Dir aner Saachen léiert wéi Dolby
+
+Step 167/284
+>> Luxembourgish - Romanian
+	Ceea ce înseamnă că veți învăța alte lucruri precum Dolby
+
+Step 168/284
+>> Romanian - Polish
+	Co oznacza, że nauczysz się innych rzeczy, takich jak Dolby
+
+Step 169/284
+>> Polish - Bosnian
+	Što znači da ćete naučiti i druge stvari poput Dolbyja
+
+Step 170/284
+>> Bosnian - Serbian
+	Што значи да ћете научити и друге ствари попут Долбија
+
+Step 171/284
+>> Serbian - Portuguese
+	O que significa que você aprenderá outras coisas como Dolby
+
+Step 172/284
+>> Portuguese - Chinese (Traditional)
+	這意味著您將學習杜比等其他內容
+
+Step 173/284
+>> Chinese (Traditional) - Dutch
+	Dit betekent dat je andere dingen leert, zoals Dolby
+
+Step 174/284
+>> Dutch - Norwegian
+	Dette betyr at du lærer andre ting, for eksempel Dolby
+
+Step 175/284
+>> Norwegian - Shona
+	Izvi zvinoreva kuti iwe unodzidza zvimwe zvinhu, seDolby
+
+Step 176/284
+>> Shona - Vietnamese
+	Điều này có nghĩa là bạn học được một số điều, như Dolby
+
+Step 177/284
+>> Vietnamese - Indonesian
+	Ini artinya Anda mempelajari beberapa hal, seperti Dolby
+
+Step 178/284
+>> Indonesian - Macedonian
+	Ова значи дека научите неколку работи, како Долби
+
+Step 179/284
+>> Macedonian - Lao
+	ນີ້ຫມາຍຄວາມວ່າທ່ານຮຽນຮູ້ສອງສາມຢ່າງ, ເຊັ່ນ Dolby
+
+Step 180/284
+>> Lao - Hausa
+	Wannan yana nufin ka koya 'yan abubuwa, kamar Dolby
+
+Step 181/284
+>> Hausa - Korean
+	즉, Dolby와 같은 몇 가지 사항을 배울 수
+
+Step 182/284
+>> Korean - Latvian
+	Citiem vārdiem sakot, iemācieties dažas lietas, piemēram, Dolby
+
+Step 183/284
+>> Latvian - Irish
+	Is é sin le rá, foghlaim roinnt rudaí mar Dolby
+
+Step 184/284
+>> Irish - Italian
+	Vale a dire, impara alcune cose come Dolby
+
+Step 185/284
+>> Italian - Bengali
+	বলা চলে ডলবির মতো কিছু জিনিস শিখুন
+
+Step 186/284
+>> Bengali - Hungarian
+	Tanuljon meg néhány dolgot, például Dolby
+
+Step 187/284
+>> Hungarian - Zulu
+	Funda izinto ezithile, njengoDolby
+
+Step 188/284
+>> Zulu - Urdu
+	کچھ چیزیں سیکھیں ، جیسے ڈولبی
+
+Step 189/284
+>> Urdu - Mongolian
+	Долби шиг зарим зүйлийг сур
+
+Step 190/284
+>> Mongolian - Spanish
+	Aprende algunas cosas como Dolby
+
+Step 191/284
+>> Spanish - Malay
+	Belajar beberapa perkara seperti Dolby
+
+Step 192/284
+>> Malay - Malagasy
+	Mianara zavatra toa an'i Dolby
+
+Step 193/284
+>> Malagasy - Nepali
+	डॉल्बी जस्तो केहि सिक्नुहोस्
+
+Step 194/284
+>> Nepali - Croatian
+	Nauči nešto poput Dolbyja
+
+Step 195/284
+>> Croatian - Russian
+	Узнайте что-то вроде Dolby
+
+Step 196/284
+>> Russian - Ukrainian
+	Дізнайтеся щось на зразок Dolby
+
+Step 197/284
+>> Ukrainian - Haitian Creole
+	Aprann yon bagay tankou Dolby
+
+Step 198/284
+>> Haitian Creole - Slovenian
+	Nauči se nekaj, kot je Dolby
+
+Step 199/284
+>> Slovenian - Kurdish
+	Tiştek mîna Dolby fêr bibin
+
+Step 200/284
+>> Kurdish - Bulgarian
+	Научете нещо като Dolby
+
+Step 201/284
+>> Bulgarian - Filipino
+	Alamin ang tulad ng Dolby
+
+Step 202/284
+>> Filipino - Catalan
+	Apreneu a agradar a Dolby
+
+Step 203/284
+>> Catalan - Japanese
+	ドルビーを好きになる方法を学ぶ
+
+Step 204/284
+>> Japanese - Samoan
+	Aoao pe faapefea ona e fiafia Dolby
+
+Step 205/284
+>> Samoan - Icelandic
+	Lærðu hvernig þér líkar Dolby
+
+Step 206/284
+>> Icelandic - Lithuanian
+	Sužinokite, kaip jums patinka „Dolby“
+
+Step 207/284
+>> Lithuanian - Danish
+	Find ud af, hvordan du kan lide Dolby
+
+Step 208/284
+>> Danish - Swahili
+	Tafuta jinsi unavyopenda Dolby
+
+Step 209/284
+>> Swahili - Sinhala
+	ඔබ ඩොල්බිට කොතරම් ආදරය කරනවාදැයි සොයා බලන්න
+
+Step 210/284
+>> Sinhala - Pashto
+	ومومئ چې تاسو څومره ډوبي سره مینه لرئ
+
+Step 211/284
+>> Pashto - Hindi
+	पता करें कि आप Doobie से कितना प्यार करते हैं
+
+Step 212/284
+>> Hindi - Slovak
+	Zistite, ako veľmi sa vám páči Doobie
+
+Step 213/284
+>> Slovak - Icelandic
+	Finndu út hvað þér líkar vel við Doobie
+
+Step 214/284
+>> Icelandic - Albanian
+	Zbuloni se çfarë ju pëlqen në lidhje me Doobie
+
+Step 215/284
+>> Albanian - Slovak
+	Zisti, čo sa ti páči na Doobie
+
+Step 216/284
+>> Slovak - Chinese (Simplified)
+	找出您喜欢Doobie的情况
+
+Step 217/284
+>> Chinese (Simplified) - Thai
+	ค้นหาวิธีการที่คุณชอบ Doobie
+
+Step 218/284
+>> Thai - Burmese
+	Doobie ကိုဘယ်လိုကြိုက်လဲဆိုတာရှာကြည့်ပါ။
+
+Step 219/284
+>> Burmese - Uzbek
+	Doobie sizga qanday yoqishini bilib oling.
+
+Step 220/284
+>> Uzbek - Chinese (Traditional)
+	了解您對Doobie的看法。
+
+Step 221/284
+>> Chinese (Traditional) - Georgian
+	შეიტყვეთ რას ფიქრობთ დობი.
+
+Step 222/284
+>> Georgian - Turkish
+	Ne düşündüğünüzü öğrenin Dobby.
+
+Step 223/284
+>> Turkish - Greek
+	Μάθετε τι νομίζετε Dobby.
+
+Step 224/284
+>> Greek - Latvian
+	Uzziniet, ko jūs domājat Dobijs.
+
+Step 225/284
+>> Latvian - Bulgarian
+	Разберете какво мислите за Доби.
+
+Step 226/284
+>> Bulgarian - Nepali
+	तपाई डबीको बारेमा के सोच्नुहुन्छ फेला पार्नुहोस्।
+
+Step 227/284
+>> Nepali - Dutch
+	Ontdek wat je van Dobby vindt.
+
+Step 228/284
+>> Dutch - Chichewa
+	Dziwani zomwe mukuganiza za Dobby.
+
+Step 229/284
+>> Chichewa - Japanese
+	ドビーについてどう思うか調べてください。
+
+Step 230/284
+>> Japanese - German
+	Finden Sie heraus, was Sie über Dobby denken.
+
+Step 231/284
+>> German - Bosnian
+	Otkrijte što mislite o Dobbyju.
+
+Step 232/284
+>> Bosnian - Swedish
+	Ta reda på vad du tycker om Dobby.
+
+Step 233/284
+>> Swedish - Urdu
+	معلوم کریں کہ آپ ڈبی کے بارے میں کیا سوچتے ہیں۔
+
+Step 234/284
+>> Urdu - Indonesian
+	Cari tahu apa pendapat Anda tentang kaleng.
+
+Step 235/284
+>> Indonesian - Polish
+	Dowiedz się, co myślisz o puszkach.
+
+Step 236/284
+>> Polish - Russian
+	Узнайте, что вы думаете о банках.
+
+Step 237/284
+>> Russian - Hindi
+	बैंकों के बारे में क्या सोचते हैं, इसका पता लगाएं।
+
+Step 238/284
+>> Hindi - Pashto
+	ومومئ چې تاسو د بانکونو په اړه څه فکر کوئ.
+
+Step 239/284
+>> Pashto - Malagasy
+	Fantaro izay hevitrao momba ny banky.
+
+Step 240/284
+>> Malagasy - Vietnamese
+	Tìm hiểu những gì bạn nghĩ về ngân hàng.
+
+Step 241/284
+>> Vietnamese - Kazakh
+	Банк ісі туралы не ойлайтындарыңызды біліңіз.
+
+Step 242/284
+>> Kazakh - Croatian
+	Otkrijte što mislite o bankarstvu.
+
+Step 243/284
+>> Croatian - Lao
+	ຄົ້ນພົບສິ່ງທີ່ທ່ານຄິດກ່ຽວກັບການທະນາຄານ.
+
+Step 244/284
+>> Lao - Serbian
+	Откријте шта мислите о банкарству.
+
+Step 245/284
+>> Serbian - Filipino
+	Tuklasin kung ano ang iniisip mo tungkol sa pagbabangko.
+
+Step 246/284
+>> Filipino - Bengali
+	আপনি ব্যাংকিং সম্পর্কে কী ভাবেন তা আবিষ্কার করুন।
+
+Step 247/284
+>> Bengali - Romanian
+	Descoperă ce părere ai despre activități bancare.
+
+Step 248/284
+>> Romanian - Finnish
+	Ota selvää, mitä ajattelet pankkitoiminnasta.
+
+Step 249/284
+>> Finnish - Estonian
+	Uurige välja, mida arvate pangandusest.
+
+Step 250/284
+>> Estonian - English
+	Find out what you think about banking.
+
+Step 251/284
+>> English - Portuguese
+	Descubra o que você pensa sobre serviços bancários.
+
+Step 252/284
+>> Portuguese - Hungarian
+	Tudja meg, mit gondol a banki szolgáltatásokról.
+
+Step 253/284
+>> Hungarian - Malay
+	Ketahui apa yang anda fikirkan mengenai perbankan.
+
+Step 254/284
+>> Malay - Kurdish
+	Fêr bikin ka hûn çi difikirin li ser banking.
+
+Step 255/284
+>> Kurdish - Italian
+	Scopri cosa ne pensi del settore bancario.
+
+Step 256/284
+>> Italian - Amharic
+	ስለባንክ ዘርፍ ምን እንደሚያስቡ ይወቁ ፡፡
+
+Step 257/284
+>> Amharic - Lithuanian
+	Sužinokite, ką manote apie bankų sektorių.
+
+Step 258/284
+>> Lithuanian - Slovenian
+	Ugotovite, kaj menite o bančni industriji.
+
+Step 259/284
+>> Slovenian - French
+	Découvrez ce que vous pensez du secteur bancaire.
+
+Step 260/284
+>> French - Ukrainian
+	Дізнайтеся, що ви думаєте про банківську галузь.
+
+Step 261/284
+>> Ukrainian - Czech
+	Zjistěte, co si myslíte o bankovnictví.
+
+Step 262/284
+>> Czech - Persian
+	اطلاعاتی راجع به بانکداری پیدا کنید.
+
+Step 263/284
+>> Persian - Armenian
+	Իմացեք բանկային գործունեության մասին:
+
+Step 264/284
+>> Armenian - Samoan
+	Aoao e uiga i le faletupe.
+
+Step 265/284
+>> Samoan - Maori
+	Kia mohio mo te peeke.
+
+Step 266/284
+>> Maori - Swahili
+	Jua juu ya kufilisika.
+
+Step 267/284
+>> Swahili - Mongolian
+	Дампуурлын талаар мэдэх.
+
+Step 268/284
+>> Mongolian - Norwegian
+	Lær om konkurs.
+
+Step 269/284
+>> Norwegian - Hausa
+	Koyi game da fatarar kuɗi.
+
+Step 270/284
+>> Hausa - Macedonian
+	Дознајте за банкрот.
+
+Step 271/284
+>> Macedonian - Maltese
+	Sib dwar il-falliment.
+
+Step 272/284
+>> Maltese - Danish
+	Find ud af om konkurs.
+
+Step 273/284
+>> Danish - Catalan
+	Informeu-vos sobre la fallida.
+
+Step 274/284
+>> Catalan - Haitian Creole
+	Aprann sou fayit.
+
+Step 275/284
+>> Haitian Creole - Shona
+	Dzidza nezve kubhuroka.
+
+Step 276/284
+>> Shona - Korean
+	블로그에 대해 알아보십시오.
+
+Step 277/284
+>> Korean - Luxembourgish
+	Léiert iwwer de Blog.
+
+Step 278/284
+>> Luxembourgish - Sinhala
+	බ්ලොගය ගැන ඉගෙන ගන්න.
+
+Step 279/284
+>> Sinhala - Hebrew
+	למדו על הבלוג.
+
+Step 280/284
+>> Hebrew - Spanish
+	Aprende sobre el blog.
+
+Step 281/284
+>> Spanish - Arabic
+	تعرف على المدونة.
+
+Step 282/284
+>> Arabic - Zulu
+	Funda ngebhulogi.
+
+Step 283/284
+>> Zulu - Irish
+	Léigh faoin mblag.
+
+Step 284/284
+>> Irish - English
+	Read about the blog.
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+Read about the blog.

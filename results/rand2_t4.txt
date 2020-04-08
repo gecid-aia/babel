@@ -1,0 +1,1147 @@
+Translation chain: ga - zu - ar - es - he - si - lb - ko - sn - ht - ca - da - mt - mk - ha - no - mn - sw - mi - sm - hy - fa - cs - uk - fr - sl - lt - am - it - ku - ms - hu - pt - en - et - fi - ro - bn - tl - sr - lo - hr - kk - vi - mg - ps - hi - ru - pl - id - ur - sv - bs - de - ja - ny - nl - ne - bg - lv - el - tr - ka - zh-TW - uz - my - th - zh - sk - sq - is - sk - hi - ps - si - sw - da - lt - is - sm - ja - ca - tl - bg - ku - sl - ht - uk - ru - hr - ne - mg - ms - es - mn - ur - zu - hu - bn - it - ga - lv - ko - ha - lo - mk - id - vi - sn - no - nl - zh-TW - pt - sr - bs - pl - ro - lb - th - mt - sv - fa - zh - et - mi - de - kk - am - ar - fi - el - my - uz - ny - fr - cs - sq - he - ka - en - hy - tr.
+Input text: The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Irish
+	Bhí an Khaleefeh Hároon Er-Rasheed imithe amach an oíche seo chun an nuacht a d’fhéadfadh sé a bhailiú a fheiceáil agus a chloisteáil, in éineacht le Jaạfar a Wezeer, agus Mesroor a fhorghníomhaitheoir. Ba é an nós a bhí aige é féin a cheilt in éadaí ceannaí; agus an oíche seo, agus é ag dul tríd an gcathair, tharla sé pas a fháil, lena lucht freastail, ag teach na mban seo, agus fuaimeanna na n-uirlisí ceoil a chloisteáil, a dúirt sé le Jaạfar, tá fonn orm dul isteach sa teach seo, agus le feiceáil cé atá ag tabhairt na ceolchoirme seo. Is páirtí iad atá ar meisce, a d’fhreagair Jaạfar, agus is eagal liom go bhféadfaimis drochúsáid éigin a bhaint astu; ach dúirt an Khaleefeh, Caithfimid dul isteach, agus ba mhaith liom go gceapfá stratagem éigin trínar féidir linn iontráil a fháil do na háitritheoirí. Mar sin d’fhreagair Jaạfar, cloisim agus géillim: agus chuaigh sé chun cinn, agus bhuail sé ag an doras; agus nuair a tháinig an portóir agus a d’oscail sé an doras, dúirt sé léi, A mháistir, is ceannaithe as Tabareeyeh muid, agus bhíomar i mBagdád deich lá; tá marsantas tugtha againn linn, agus lóistín a thógáil i Khán; agus thug ceannaí cuireadh dúinn chuig siamsaíocht an oíche seo: dá réir sin, chuamar go dtí a theach, agus chuir sé bia os ár gcomhair, agus d’itheamar, agus shuíomar go huafásach ag ól le chéile, agus ina dhiaidh sin thug sé cead dúinn imeacht; agus ag dul amach sa dorchadas, agus a bheith inár strainséirí, chaill muid ár mbealach chuig an Khán: tá muinín againn, mar sin, i do fhlaithiúlacht go n-admhóidh tú dúinn an oíche a chaitheamh i do theach; trína dhéanamh gheobhaidh tú luaíocht ar neamh.
+
+Step 2/284
+>> Irish - Zulu
+	U-Khaleefeh Tuberoon u-Er-Rasheed ubephume ngalobu busuku ezobona futhi ezwe izindaba angaziqoqa, kanye noJaạfar a Wezeer, noMesroor owayebulala yena. Kwakuyisiko lakhe ukuzifihla ngezingubo zomthengisi; futhi ngalobu busuku, lapho edlula edolobheni, kwenzeka, kanye nezinceku zakhe, endlini yalo wesifazane, futhi ukuzwa umsindo wezinto zomculo, watshela uJaạfar, ngifisa ukungena kulendlu, nokubona ukuthi ubani opha le khonsathi. Bayiqembu elidakiwe, kuphendula uJaạfar, futhi nginovalo lokuthi singase sibahlukumeze; kodwa abakwaKhaleefeh bathi, Kufanele singene, futhi ngifuna ukuthi nisungule izindlela ezithile esingangena kuzo izakhamizi. Ngakho-ke uJaạfar waphendula wathi: "Ngiyezwa futhi ngiyalalela." Lapho umgcini-mnyango efika futhi evula umnyango, wathi kuye: “Mfundisi, singabathengisi baseThabareeyeh, futhi besiseBaghdad izinsuku eziyishumi; silethile ngokuthengisa nathi, futhi sakhe izindawo zokuhlala eKhán; futhi umthengisi wasimema ukuba sizokuzijabulisa ngalobu busuku: ngakho-ke, sahamba saya endlini yakhe, wasiletha ukudla, sadla, sahlala saphuza ngokudabukisayo, futhi kamuva wavumela ukuthi sihambe; futhi siphume siye ebumnyameni, futhi njengabafokazi bethu, sehle sahamba saya eKhan: ngakho-ke sethembela emseni wakho wokuthi uzosivuma ngokuchitha ubusuku ekhaya lakho; ngokwenza kanjalo uzovuzwa ezulwini.
+
+Step 3/284
+>> Zulu - Arabic
+	كان خليفة خليفة رشيد رشيد في الخارج الليلة لرؤية وسماع القصص التي يمكن أن يجمعها ، إلى جانب جعفر ويزر ، وميسرور الذي كان يقتل نفسه. كان من عادته إخفاء ملابس التاجر. وفي تلك الليلة ، وهو يمر عبر المدينة ، حدث ذلك ، مع خدمه ، إلى منزل السيدة ، وسماع صوت الآلات الموسيقية ، أخبر جعفر ، راغبًا في دخول هذا المنزل ، ومعرفة من قدم الحفل. يجيب جعفر ، إنهم حزب مخمور ، وأخشى أن نسيء إليهم. لكن الخليفة قال ، يجب أن ندخل ، وأريدك أن تحدد بعض الطرق التي يمكننا من خلالها دخول المواطنين. فأجاب جعفر: "أسمع وأطيع." عندما جاء البواب وفتح الباب قال له: يا معلم ، نحن تجار من الثبارية ، وكنا في بغداد منذ عشرة أيام. أدخلناها إلى السوق وأقمنا ملاجئ في خان ؛ ودعانا التاجر للترفيه عننا هذه الليلة: وهكذا ذهبنا إلى منزله وجلبنا الطعام وأكلنا وجلسنا حزينًا ، ثم تركنا نذهب ؛ وخرجنا إلى الظلام ، ومثل كائناتنا الفضائية ، نزلنا إلى كنعان ، وبالتالي نثق في نعمتك التي ستعترف بها لقضاء الليل في بيتك ؛ وبذلك ستكافأ في السماء.
+
+Step 4/284
+>> Arabic - Spanish
+	El sucesor de Khalifa Rashid estaba afuera esta noche para ver y escuchar las historias que podía recopilar, junto con Ja`far y Weisser, y Misur, que se estaba matando. Era su costumbre esconder la ropa del comerciante. Y esa noche, cuando pasó por la ciudad, sucedió, con sus sirvientes, a la casa de la dama, y al escuchar el sonido de los instrumentos musicales, le dijo a Ja`far, que deseaba entrar en esta casa, y averiguar quién presentaba la fiesta. Jaafar responde: "Son una fiesta de borrachos, y me temo que los ofenderemos". Pero el califa dijo: Debemos ingresar, y quiero que especifiquen algunas formas en que podemos ingresar a los ciudadanos. Jaafar respondió: "Escucho y obedezco". Cuando vino el portero y abrió la puerta, le dijo: Maestro, somos comerciantes de Al-Thaabaria, y estuvimos en Bagdad hace diez días. Lo llevamos al mercado y establecimos refugios en Khan, y el comerciante nos invitó a entretenernos esta noche: así que fuimos a su casa, trajimos comida, comimos y nos sentamos tristes, luego nos dejamos ir; En tu hogar, y de esta manera serás recompensado en el cielo.
+
+Step 5/284
+>> Spanish - Hebrew
+	ממשיכו של ח'ליפה ראשיד היה הלילה לראות ולשמוע את הסיפורים שיכול היה לאסוף יחד עם ג'עפר וויסר ומיסור שהרג את עצמו. היה זה מנהגו להסתיר את בגדי הסוחר. ובאותו לילה, כשעבר בעיר, זה קרה, עם משרתיו, לבית הגברת, וכששמע צליל כלי נגינה, הוא אמר לג'עפר, שהוא רוצה להיכנס לבית הזה, ולברר מי הציג את המסיבה. ג'עפר מגיב: "הם מפלגה שיכורה, ואני חושש שנתעלב בהם." אבל הח'ליף אמר: עלינו להיכנס, ואני רוצה שתפרט כמה דרכים בהן אנו יכולים להיכנס לאזרחים. ג'עפר ענה, "אני מקשיב ואני מציית." כשהגיע השוער ופתח את הדלת, הוא אמר: אדון, אנחנו סוחרים מאל-תעבריה, והיינו בבגדאד לפני עשרה ימים. לקחנו אותו לשוק והקמנו מקלטים בחאן, והסוחר הזמין אותנו לבדר את עצמנו הלילה: אז הלכנו לביתו, הבאנו אוכל, אכלנו וישבנו עצובים, ואז שחררנו; בביתך, ובדרך זו תתוגמלים בשמיים.
+
+Step 6/284
+>> Hebrew - Sinhala
+	අද රාත්‍රියේ කලීෆා රෂීඩ්ගේ අනුප්‍රාප්තිකයන් වූයේ ඔහුට ජෆාර් වයිසර් සහ ඔහුගේම .ාතනය සමඟ එකතු කර ගත හැකි කථා දැක බලා ගැනීමයි. වෙළෙන්දාගේ ඇඳුම් සඟවා ගැනීම ඔහුගේ සිරිත විය. එදින රාත්‍රියේ ඔහු නගරය හරහා යද්දී එය සිදු වූයේ ඔහුගේ සේවකයන් සමඟ කාන්තාවගේ නිවසටය. සංගීත භාණ්ඩවල ශබ්දය ඇසුණු විට ඔහු ජැෆර්ට පැවසුවේ තමාට මෙම නිවසට ඇතුළු වීමට අවශ්‍ය බවත්, සාදය ඉදිරිපත් කළේ කවුරුන්දැයි සොයා ගන්නා බවත්ය. ජෆාර් ප්‍රතිචාර දක්වයි: "ඔවුන් බේබදු පක්ෂයක් වන අතර, අප අමනාප වේ යැයි මම බිය වෙමි." නමුත් කාලිෆ් පැවසුවේ “අපි ඇතුළට යා යුතුයි, මට අවශ්‍ය ඔබ අපට පුරවැසියන් ලබා ගත හැකි ක්‍රම කිහිපයක් ගෙනහැර දැක්වීමටයි. ජෆාර් පිළිතුරු දෙමින්, "මම සවන් දෙන අතර මම කීකරු වෙමි." දොරකඩ දොර ඇවිත් දොර ඇරගෙන ඔහු කිව්වා “සර්, අපි අල්-ආබ්‍රියාහි වෙළෙන්දෝ, අපි දවස් දහයකට පෙර බැග්ඩෑඩයේ සිටියෙමු. අපි ඔහුව වෙළඳපොළට ගෙන ගොස් ඛාන්හි කූඩාරම් පිහිටුවා ගත් අතර, වෙළෙන්දා අද රාත්‍රියේ විනෝද වීමට අපට ආරාධනා කළේය. ඉන්පසු අපි ඔහුගේ නිවසට ගොස් ඔහුට කෑම ගෙනැවිත්, කමින් දුකෙන් හිඳගෙන නිදහස් කළෙමු. ඔබේ නිවසේදී, මේ ආකාරයෙන් ඔබට ස්වර්ගයේ විපාක ලැබෙනු ඇත.
+
+Step 7/284
+>> Sinhala - Luxembourgish
+	Haut den Owend waren dem Khalifa Rasheed seng Nofolger déi Geschichten ze gesinn, déi hie mam Jafar Weiser a sengem eegenen Attentat konnt sammelen. Et war säi Brauch d'Händler Kleeder ze verstoppen. Wéi hien déi Nuecht duerch d'Stad war, ass hien a seng Dénger an d'Haus vun der Fra gaang. Wéi hien den Toun vu musikaleschen Instrumenter héieren huet, huet hien de Jaffer gesot datt hie wëll an d'Haus erakommen an erausfannen, wien d'Party gemaach hat. De Jafar äntwert: "Si sinn eng gedronk Partei. Ech fäerten, datt mir rosen ginn." Awer de Khalif sot: "Mir mussen erakommen. Ech wëll datt Dir e puer vun de Weeër ëmschreiwe wéi mir d'Bierger kënne kréien. De Jafar huet geäntwert: "Ech lauschteren an ech befollegen." Hien ass bei d'Dier komm an huet d'Dier opgemaach a gesot: "Sir, mir sinn Händler aus Al-Aabria, mir waren zu Bagdad virun zéng Deeg. Mir hunn hien op de Maart bruecht an Zelter um Khan opgeriicht, an den Händler huet eis den Owend Spaass gemaach. Duerno si mir an d'Haus gaang, hunn him Iessen bruecht, a giess a looss. An Ärem Heem gëtt dës Manéier am Himmel belount.
+
+Step 8/284
+>> Luxembourgish - Korean
+	오늘 밤 칼리파 래쉬 드의 후임자들은 Jafar Weiser와 그의 변호사와 함께 할 수있는 이야기를 보았습니다. 딜러 옷을 숨기는 것이 그의 관습이었습니다. 그날 밤 그 도시를 지났을 때, 그와 그의 종들은 여자 집으로 갔다. 그는 악기 소리가 들렸을 때 Jaffer에게 집에 와서 파티가 누구인지 알아 내고 싶다고 말했습니다. Jafar는 "그들은 술 취한 파티입니다. 우리가 화를 낼까 봐 두려운 것입니다." 그러나 칼리프는“우리는 안으로 들어와야한다. 나는 우리가 시민들을 구할 수있는 몇 가지 방법을 간략하게 설명하고자한다. Jafar가 대답했다. “우리는 알-아 브리아의 상인입니다. 우리는 10 일 전에 바그다드에있었습니다. 우리는 그를 시장에 데려와 칸 주변에 텐트를 세웠고, 딜러는 저녁 동안 우리를 놀 렸습니다. 그 다음 우리는 집에 가서 음식을 가져다가 먹었다. 당신의 가정에서이 방법은 하늘에서 상을받습니다.
+
+Step 9/284
+>> Korean - Shona
+	Manheru ano, vatevedzeri vaKalifa Rashid vakaona nyaya yekuita naJafar Weiser nemagweta ake. Yakanga iri tsika yake kuvanza mutengesi nguo. Paakapfuura muguta usiku ihwohwo, iye nevashandi vake vakaenda kumba kwemukadzi. Akaudza Jaffer kuti achinzwa chiridzwa, akada kuuya kumba uye kuzoona kuti mubato ndiani. Jafar akati, "Ivo idhakwa pati. Ndiri kutya kuti tichapenga." Asi Caliph akati, "Tinofanira kupinda mukati. Ndinoda kutsanangura muchidimbu dzimwe nzira dzatinogona kuponesa nadzo vagari vedu. Jafar akapindura. Isu tiri vatengesi veAl-Abria. Isu takanga tiri muBaghdad mazuva gumi apfuura. Takauya naye kumusika uye tikadzika tende kutenderedza Cannes, uye mutengesi akatinyomba munguva yemanheru. Takazoenda kumba ndokuuya nechikafu tikadya. Mumba mako nzira iyi inopihwa mubayiro kudenga.
+
+Step 10/284
+>> Shona - Haitian Creole
+	Aswè a, fanatik Kalifa Rashid la te wè yon ka ta fè fas ak Jafar Weiser ak avoka l 'yo. Li te koutim l 'yo kache vandè a rad. Lè li te pase nan tout vil la jou swa sa a, li menm ak ekipaj li a te ale nan kay fanm lan. Li te di Jaffer ke lè li te tande enstriman an, li te vle vini lakay li epi chèche konnen ki moun ki te gwoup la. Jafar te di, "Yo ap bwè. Mwen pè nou pral ale fou." Men, Kalif te di, "Nou bezwen etap antre. Mwen vle yon ti tan eksplike kèk nan fason ki nou ka sove sitwayen nou yo. Jafar reponn: Nou se komèsan Al-Abria. Nou te nan Bagdad dis jou de sa. Nan aswè, nou te ale lakay ou epi pote manje ak manje nan kay ou.
+
+Step 11/284
+>> Haitian Creole - Catalan
+	Aquesta nit, els aficionats del califa Rashid han vist un cas en què participaven Jafar Weiser i el seu advocat. Era el seu costum amagar el venedor de roba. Quan passava la ciutat aquella nit, ell i la seva tripulació van anar a casa de la dona. Va dir a Jaffer que quan va sentir l'instrument, volia tornar a casa i esbrinar qui era la banda. Jafar va dir: "Estan beguts. Em temo que ens tornarem bojos". Però Califa va dir: "Hem d'entrar. Vull explicar breument algunes de les maneres de salvar els nostres ciutadans. Jafar va respondre: Som comerciants al-Abria. Estàvem a Bagdad fa deu dies. Al vespre. , vam anar a casa i vam portar menjar i menjar a casa vostra.
+
+Step 12/284
+>> Catalan - Danish
+	I aften har fans fra Caliphate Rashid set en sag, der involverer Jafar Weiser og hans advokat. Det var hans skik at skjule tøjsælgeren. Da han passerede byen den nat, gik han og hans besætning til kvindens hus. Han fortalte Jaffer, at da han hørte instrumentet, ville han gå hjem og finde ud af, hvem bandet var. Jafar sagde: "De er berusede. Jeg er bange for, at vi bliver gale." Men kalif sagde: "Vi må gå ind. Jeg vil kort forklare nogle af måderne til at redde vores borgere på. Jafar svarede: Vi er al-Abria-handlende. Vi var i Bagdad for ti dage siden. Om aftenen gik vi hjem og vi bragte mad og mad til dit hjem.
+
+Step 13/284
+>> Danish - Maltese
+	Illejla, fannijiet ta 'Caliphate Rashid raw każ li jinvolvi lil Jafar Weiser u l-avukat tiegħu. Kienet id-drawwa tiegħu li taħbi l-bejjiegħ tal-ħwejjeġ. Hekk kif għadda l-belt dik il-lejl, hu u l-ekwipaġġ tiegħu marru d-dar tal-mara. Huwa qal lil Jaffer li meta sema 'l-istrument, kien imur id-dar u jsib min kienet il-banda. Jafar qal, "Huma fis-sakra. Nibża li nidħlu miġnun." Iżda l-Kalifu qal, "Irridu mmorru. Nispjega fil-qosor uħud mill-modi kif insalvaw liċ-ċittadini tagħna. Jafar wieġeb: Aħna negozjanti al-Abria. Konna f'Bagdad għaxart ijiem ilu. Fil-għaxija morna d-dar u aħna ġabu ikel u ikel lejn darek.
+
+Step 14/284
+>> Maltese - Macedonian
+	Вечерва, навивачите на Калифат Рашид видоа случај во кој беа вклучени afафар Вајсер и неговиот адвокат. Неговата навика беше да го скрие продавачот на облека. Додека тој го поминуваше градот таа ноќ, тој и неговата екипа отидоа во куќата на жената. Тој му рече на affафер дека кога ќе го слушне инструментот, ќе отиде дома и ќе открие кој е бендот. Afафр рече: "Тие се пијани. Се плашам дека ќе полудоме." Но, Калифот рече: "Ние мора да одиме. Јас накратко ќе објаснам некои од начините на кои ги спасуваме нашите граѓани. Afафар одговори: Ние сме трговци на Ал Абрија. Бевме во Багдад пред десетина дена. Во вечерните часови отидовме дома и донесовме храна и храна во вашиот дом.
+
+Step 15/284
+>> Macedonian - Hausa
+	A daren yau, magoya bayan Khalifat Rashid sun ga karar da ta shafi Afafar Weiser da lauyansa. Al’adarsa ita ce ɓoye dillalan suturar. Sa’ad da yake wucewa cikin gari a daren, shi da ƙungiyar sa suka tafi gidan matar. Ya fada lamarin cewa idan ya ji kayan, zai koma gida ya nemo manajan. Afafar ya ce: "Sun bugu. Ina tsoron kada mu shiga mahaukaci." Amma Halifa ya ce: "Dole ne mu tafi. Zan dan yi bayani a takaice kan wasu hanyoyi da muke kubutar da 'yan kasarmu. Afafar ya amsa: Mu' yan kasuwa ne a garin Al Abria. Mun kasance a cikin Bagadaza kwana goma da suka gabata. Da yamma mun je gida mun kawo abinci da abinci a gidanka.
+
+Step 16/284
+>> Hausa - Norwegian
+	I kveld så Khalifat Rashid-tilhengere en sak mot Afafar Weiser og hans advokat. Jobben hans er å holde forhandleren trygg. Da han gikk gjennom byen om natten, dro han og gruppen til kvinnens hus. Han fortalte dem at når han hørte materialet, ville han reise hjem og lete etter sjefen. Afafar sa: "De er full. Jeg er redd for at vi skal bli gale." Men kalifen sa: "Vi må gå. Jeg vil kort forklare noen av måtene vi frigjør landsmennene våre på. Afafar svarte: Vi er handelsmenn i Al Abria. Vi har vært i Bagdad i ti dager. Vi dro hjem om kvelden og hentet mat og mat til huset ditt.
+
+Step 17/284
+>> Norwegian - Mongolian
+	Өнөө шөнө Халифат Рашидын дэмжигчид Афафар Вайзер болон түүний өмгөөлөгчийн эсрэг хэргийг үзэв. Түүний ажил бол дилерийг аюулгүй байлгах явдал юм. Шөнөдөө тэр хотоор явж байтал тэр бүлэг хүмүүс тэр эмэгтэйн гэрт очлоо. Тэрбээр материалыг сонсоод гэртээ хариад боссоо хайна гэж хэлсэн. Афафар "Тэд дүүрчихлээ. Би галзуурна гэж айж байна." Гэхдээ халиф "Бид явах ёстой. Би нутаг нэгтнээ чөлөөлөх зарим арга замын талаар товч тайлбарлах болно. Афафар хариулав: Бид Аль Абриягийн наймаачид юм. Бид Багдад 10 хонож байна. танай гэрт зориулсан хоол.
+
+Step 18/284
+>> Mongolian - Swahili
+	Usiku wa leo, wafuasi wa Ukhalifa Rashid waliona kesi hiyo dhidi ya Afafar Weiser na wakili wake. Kazi yake ni kuweka muuzaji salama. Wakati wanapita katikati ya jiji wakati wa usiku, kikundi cha watu kilifika nyumbani kwa yule mwanamke. Baada ya kusikia vifaa hivyo, alisema atakwenda nyumbani na kumtafuta bosi wake. "Wamejaa. Ninaogopa nitakua wazimu." Lakini khalifa alisema, "Lazima tuende. Nitaelezea kwa ufupi baadhi ya njia za kukomboa watu wa nchi yangu. Afafar akajibu: Sisi ni wafanyabiashara kutoka Al Abria. Tuko Baghdad kwa siku 10. Chakula cha nyumba yako."
+
+Step 19/284
+>> Swahili - Maori
+	I tenei po, ko nga kaitautoko o te Caliphate Rashid i whakaatu i te keehi ki a Afafar Weiser me ana roia. Ko tana mahi kia tiakina te kaihoko. I a ratou e haahi ana i te pa i te po, ka haere mai te ropu o nga tangata ki te whare o te wahine. I tana rongonga i te korero, ka mea ia ka haere ia ki te kainga ki te rapu i tana rangatira. "Ki tonu ratou. Kei te wehi au kei te mura ahau." Engari ko te khalifa i kii, "Me haere taatau - Ka whakaatu maatau i etahi o nga huarahi e taea ai te whakaoranga i aku taangata." Ka whakahoki a Afafar: He kaihokohoko tatou no Al Abria.Kei a matou i Baghdad mo nga ra 10.
+
+Step 20/284
+>> Maori - Samoan
+	O le po nei, na tuʻuina atu e le lagolago a Rashid Caliphate le mataupu ia Afafar Weiser ma ana loia. O lana galuega le puipuia o le tagata faatau. A o asiasi atu i le aai i le po, sa o mai se vaega o alii i le fale o le fafine. Ina ua ia faalogo i le talafou, na ia fai mai na alu o ia i le fale e saili lona pule. "Ua tumu i latou. Ou te fefe ua ou mu." Ae na fai mai le khalifa, "E tatau ona matou o - O le a matou faaali nisi o auala e mafai ai ona laveaiina loʻu tagata." Afafar tali: O i matou o ni faipisinisi mai Al Abria. Ua matou i Baghdad mo le 10 aso.
+
+Step 21/284
+>> Samoan - Armenian
+	Անցած գիշեր Ռաշիդ Խալիֆաթի կողմնակիցները գործը ներկայացրեցին Աֆաֆար Վայզերին և նրա փաստաբաններին: Հաճախորդին պաշտպանելը նրա գործն է: Գիշերները քաղաք այցելելիս մի խումբ տղամարդիկ եկել էին կնոջ տուն: Լուրը լսելուն պես ասաց, որ գնացել է տուն ՝ որոնելով իր շեֆին: «Դրանք լիքն են: Ես վախենում եմ, որ ես կրակ եմ»: Բայց խալիֆան ասաց. «Մենք պետք է գնանք, մենք ձեզ ցույց կտանք մի քանի եղանակներ, որոնցով իմ ժողովուրդը կարող է փրկվել»: Աֆաֆարի պատասխան. Մենք գործարարներ ենք Ալ Աբրիայից: 10 օր է ՝ գտնվում ենք Բաղդադում:
+
+Step 22/284
+>> Armenian - Persian
+	شب گذشته هواداران راشد خلیفات پرونده را به اففر ویزر و وکلای وی ارائه دادند. حمایت از مشتری کار اوست. هنگام بازدید از شهر شبانه ، جمعی از مردان به خانه این زن آمدند. وی با شنیدن این خبر گفت که او در جستجوی رئیس خود به خانه رفته است. آنها پر هستند. می ترسم از آتش بروم. " اما خلیفه گفت: "ما باید برویم ، راههایی را برای نجات مردم من به شما نشان خواهیم داد." پاسخ آفرار: ما بازرگانان از العربیا هستیم. ما 10 روز در بغداد بوده ایم.
+
+Step 23/284
+>> Persian - Czech
+	Včera v noci Rashidovi příznivci předložili případ důstojníkovi Wiserovi a jeho právníkům. Zákaznická podpora je jeho prací. Při návštěvě města v noci přišla do domu této ženy skupina mužů. Slyšel zprávy a řekl, že šel domů, aby hledal svého šéfa. Jsou plné. Bojím se jít ven z ohně. „Ale kalif řekl:„ Musíme jít, ukážeme vám, jak zachránit mé lidi. “„ Afar Afar: Jsme obchodníci z Al Arábie.
+
+Step 24/284
+>> Czech - Ukrainian
+	Минулої ночі прихильники Рашида передали справу до офіцера Візера та його адвокатів. Підтримка клієнтів - це його робота. Група чоловіків завітала до будинку цієї жінки під час нічного відвідування міста. Він почув цю новину і сказав, що їде додому шукати свого начальника. Вони повні. Боюся вийти з вогню. "Але халіф сказав:" Треба йти, ми покажемо вам, як врятувати моїх людей. "Далеко з Афар: Ми є торговцями з Аль-Аравії.
+
+Step 25/284
+>> Ukrainian - French
+	Hier soir, les partisans de Rashid ont renvoyé l'affaire à l'agent Wieser et à ses avocats. Le support client est son métier. Un groupe d'hommes a visité la maison de cette femme lors d'une visite nocturne dans la ville. Il a entendu cette nouvelle et a dit qu'il rentrait chez lui pour chercher son patron. Ils sont pleins. J'ai peur de sortir du feu. "Mais le calife a dit: 'Nous devons y aller, nous allons vous montrer comment sauver mon peuple.' "Loin d'Afar: nous sommes des commerçants d'Al Arabie.
+
+Step 26/284
+>> French - Slovenian
+	Rašidovi podporniki so sinoči zadevo napotili na grofa Wieserja in njegove odvetnike. Podpora strankam je njihovo delo. Med nočnim obiskom mesta je ženska hiša obiskala žensko hišo. Slišal je novico in rekel, da gre domov, da bi našel šefa. Polni so. Bojim se, da bi ušel iz ognja. "Toda kalif je rekel:" Moramo iti. Pokazali vam bomo, kako rešiti moje ljudi. " "Daleč od daleč: trgovci smo iz Al Arabije.
+
+Step 27/284
+>> Slovenian - Lithuanian
+	Rashido šalininkai praėjusią naktį perdavė bylą grafui Wieseriui ir jo advokatams. Klientų palaikymas yra jų darbas. Naktinio apsilankymo mieste metu moterys aplankė moterų namus. Jis išgirdo naujienas ir sakė, kad eina namo ieškoti savo viršininko. Jų pilna. Bijau pabėgti nuo ugnies. Bet kalifas pasakė: „Mes turime eiti. Mes jums parodysime, kaip išgelbėti mano žmones. "" Iš toli: mes esame prekybininkai iš Al Arabijos.
+
+Step 28/284
+>> Lithuanian - Amharic
+	የራሺድ ደጋፊዎች ጉዳዩን ትላንት ማታ ወደ ዌስተን ዊየርስ እና የሕግ ጠበቆች አስተላልፈዋል ፡፡ የደንበኞች ድጋፍ ሥራቸው ነው ፡፡ በከተማው ውስጥ በሌሊት ጉብኝት ሴቶቹ የሴቶችን ቤት ጎብኝተዋል ፡፡ ዜናውን የሰማ ሲሆን አለቃውን ለመፈለግ ወደ ቤቱ እንደሚሄድ ነገረው ፡፡ እነሱ ሞልተዋል ፡፡ ከእሳት ለማምለጥ ፈራሁ ፡፡ ካሊፉ ግን “መሄድ አለብን ፡፡ ሕዝቤን እንዴት ማዳን እንደሚቻል እናሳይዎታለን ፡፡ ከሩቅ: - እኛ ከአል አረቢያ ነጋዴዎች ነን ፡፡
+
+Step 29/284
+>> Amharic - Italian
+	Ieri sostenitori di Rashid hanno rinviato la questione a West Weyers e agli avvocati. L'assistenza clienti è la loro attività. Durante la visita notturna in città, le donne hanno visitato la casa delle donne. Ha sentito la notizia e gli ha detto di andare a casa a cercare il suo capo. Sono pieni. Avevo paura di sfuggire al fuoco. Kalif disse: “Dobbiamo andare. Ti mostreremo come salvare la mia gente. Da lontano: siamo commercianti dall'Arabia.
+
+Step 30/284
+>> Italian - Kurdish
+	Doh alîgirên Reşîd mijarê ji West Weyers û parêzeran re vegot. Piştgiriya xerîdar karsaziya wan e. Di dema serdana şevê de li bajêr, jinan serdana mala jinan kirin. Wî nûçeyê bihîst û jê re got ku here mala xwe da ku bermayiyê wî bibîne. Ew tijî ne. Ez ji agir xelas bûm. Kalîfeyê got, "Divê em biçin. Em ê nîşanî we bidim ka mirovên min çawa xilas dike. Ji dûr ve: Em bazirganên ji Erebistanê ne.
+
+Step 31/284
+>> Kurdish - Malay
+	Penyokong Dohid memberitahu West Weyers dan peguam mengenai kes itu. Sokongan pelanggan adalah perniagaan mereka. Semasa lawatan malam mereka ke bandar, wanita melawat rumah wanita. Dia mendengar berita itu dan menyuruhnya pulang ke rumah untuk mencari mayatnya. Mereka penuh. Saya diselamatkan dari api. California berkata, "Kami harus pergi, kami akan menunjukkan kepada anda bagaimana rakyat saya selamat dari jauh: Kami adalah peniaga dari Arab Saudi.
+
+Step 32/284
+>> Malay - Hungarian
+	Dohid támogatói elmondták West Weyersnek és az ügyvédeknek az ügyet. Az ügyfélszolgálat az ő üzletük. A városban zajló éjszakai túra során a nők meglátogatták a nők otthonait. Hallotta a hírt, és azt mondta neki, hogy keresse meg a testét. Tele vannak. Megmentettem a tűztől. Kalifornia azt mondja: "Mennünk kell, megmutatjuk, hogy biztonságban vannak az embereim távolról: Szaúd-Arábiából származó kereskedők vagyunk.
+
+Step 33/284
+>> Hungarian - Portuguese
+	Os apoiadores de Dohid disseram ao caso West Weyers e aos advogados. Atendimento ao cliente é o seu negócio. Durante um passeio noturno pela cidade, as mulheres visitaram as casas das mulheres. Ele ouviu a notícia e disse-lhe para procurar seu corpo. Eles estão cheios. Eu salvei do fogo. A Califórnia diz: "Temos que ir, mostraremos que meu povo está seguro à distância: somos comerciantes da Arábia Saudita.
+
+Step 34/284
+>> Portuguese - English
+	Dohid's supporters told the West Weyers case and lawyers. Customer service is your business. During an evening stroll through the city, women visited the women's homes. He heard the news and told him to look for his body. They are full. I saved from the fire. California says: "We have to go, we will show that my people are safe from a distance: we are traders from Saudi Arabia.
+
+Step 35/284
+>> English - Estonian
+	Dohidi toetajad rääkisid West Weyersi juhtumist ja juristidest. Klienditeenindus on teie äri. Õhtul linnas ringi jalutades käisid naised naistekodudes. Ta kuulis uudiseid ja käskis tal oma keha otsida. Nad on täis. Ma päästsin tule eest. California ütleb: "Peame minema, me näitame, et mu inimesed on eemalt turvalised: oleme kauplejad Saudi Araabiast.
+
+Step 36/284
+>> Estonian - Finnish
+	Dohidin kannattajat puhuivat West Weyers -tapauksesta ja lakimiehistä. Asiakaspalvelu on sinun yrityksesi. Kävellessään illalla ympäri kaupunkia, naiset menivät naisten koteihin. Hän kuuli uutiset ja käski hänen etsiä ruumiinsa. He ovat täynnä. Pelasin tulesta. Kalifornia sanoo: "Meidän on mentävä, osoitamme, että kansani ovat turvassa etäältä: olemme kauppiaita Saudi-Arabiasta.
+
+Step 37/284
+>> Finnish - Romanian
+	Suporterii Dohid au vorbit despre cazul West Weyers și despre avocați. Serviciul pentru clienți este afacerea dvs. În timp ce se plimbau prin oraș seara, femeile mergeau la casele femeilor. A auzit vestea și i-a spus să-și caute corpul. Sunt pline. Mă jucam cu focul. California spune: „Trebuie să mergem, arătăm că oamenii mei sunt în siguranță de la distanță: suntem comercianți din Arabia Saudită.
+
+Step 38/284
+>> Romanian - Bengali
+	দোহিদ সমর্থকরা ওয়েস্ট ওয়েয়ার্স মামলা এবং আইনজীবিদের বিষয়ে কথা বলেছেন। গ্রাহক সেবা আপনার ব্যবসা the সন্ধ্যায় শহরের মধ্য দিয়ে হেঁটে যাওয়ার সময় মহিলারা মহিলাদের বাড়িতে যান। তিনি সংবাদটি শুনে তাঁর দেহ সন্ধান করতে বলেছিলেন। তারা পূর্ণ। আমি আগুন নিয়ে খেলছিলাম। ক্যালিফোর্নিয়া বলছে: "আমাদের যেতে হবে, আমরা দেখিয়েছি আমার লোকেরা দূর থেকে নিরাপদ: আমরা সৌদি আরবের ব্যবসায়ী are
+
+Step 39/284
+>> Bengali - Filipino
+	Ang mga tagasuporta ni Dohid ay nag-usap tungkol sa kaso ng West Wears at ang mga abogado. Serbisyo ng Customer Ang Iyong Negosyo মহিল Sa gabi habang naglalakad sa lungsod, binibisita ng mga kababaihan ang bahay ng mga kababaihan. Narinig niya ang balita at hiniling na hanapin ang kanyang katawan. Puno sila Naglalaro ako ng apoy. Sinabi ng California: "Kailangan nating pumunta, ipinapakita namin ang aking mga tao ay malayo sa ligtas: kami ay mga negosyante sa Saudi Arabia
+
+Step 40/284
+>> Filipino - Serbian
+	Дохидине присталице разговарале су о случају Вест Веарс и адвокатима. Служба за кориснике Твој посао মহিল Ноћу док шетамо градом, жене посећују женске домове. Чуо је вест и тражио да нађе његово тело. Били су пуни, играо сам се са ватром. Калифорнија каже: „Морамо ићи, показаћемо да су моји људи далеко од сигурног: ми смо пословни људи у Саудијској Арабији
+
+Step 41/284
+>> Serbian - Lao
+	ຜູ້ສະ ໜັບ ສະ ໜູນ Dohida ໄດ້ກ່າວເຖິງຄະດີ West Vears ແລະທະນາຍຄວາມ. ການບໍລິການລູກຄ້າວຽກຂອງທ່ານমহিলໃນຕອນກາງຄືນ, ໃນເວລາທີ່ພວກເຮົາຍ່າງອ້ອມຕົວເມືອງ, ແມ່ຍິງໄປຢ້ຽມຢາມເຮືອນຂອງແມ່ຍິງ. ລາວໄດ້ຍິນຂ່າວແລະຮຽກຮ້ອງໃຫ້ຊອກຫາສົບຂອງລາວ. ພວກເຂົາເຕັມ, ຂ້ອຍ ກຳ ລັງຫຼີ້ນກັບໄຟ. ລັດ California ກ່າວວ່າ "ພວກເຮົາຕ້ອງໄປ, ພວກເຮົາຈະສະແດງໃຫ້ເຫັນວ່າປະຊາຊົນຂອງຂ້ອຍແມ່ນຢູ່ໄກຈາກຄວາມປອດໄພ: ພວກເຮົາແມ່ນນັກທຸລະກິດໃນປະເທດ Saudi Arabia
+
+Step 42/284
+>> Lao - Croatian
+	Pristalica Dohide odnosila se na West Vears i odvjetnike. Služba za korisnike ວຽກ Noću, dok lutamo gradom, žene posjećuju ženske domove. Čuo je vijest i zatražio da nađe njegovo tijelo. Bili su puni, igrao sam se vatrom. "Moramo ići. Pokazat ćemo da moji ljudi nisu daleko od sigurnog: mi smo biznismeni u Saudijskoj Arabiji", rekao je Kalifornija.
+
+Step 43/284
+>> Croatian - Kazakh
+	Dohida жақтаушысы West Vears пен адвокаттарға сілтеме жасады. Клиенттерге қызмет көрсету ວຽກ Түнде біз қаланы аралап жүріп әйелдер үйіне барамыз. Ол жаңалықты естіп, денесін табуды сұрады. Олар толды, мен отпен ойнап тұрдым. «Біз баруымыз керек. Біз халқымыздың қауіпсіз емес екенін көрсетеміз: біз Сауд Арабиясындағы кәсіпкерлерміз», - деді Калифорния.
+
+Step 44/284
+>> Kazakh - Vietnamese
+	Một người ủng hộ Dohida đã đề cập đến West Vears và luật sư. Dịch vụ khách hàng Buổi tối chúng tôi đi bộ quanh thành phố đến nhà của phụ nữ. Anh nghe tin và yêu cầu tìm xác anh. Họ đã đầy, và tôi đang chơi với lửa. "Chúng ta phải đi. Chúng tôi cho thấy người dân của chúng tôi không an toàn: chúng tôi là doanh nhân ở Ả Rập Saudi, "California nói.
+
+Step 45/284
+>> Vietnamese - Malagasy
+	Mpanohana an'i Dohida no nanonona an'i West Vears sy ilay mpisolovava. Serivisy mpanjifa Amin'ny hariva dia mandehandeha manodidina ny tanàna mankany amin'ny tranon'ny vehivavy izahay. Nandre ny vaovao izy ary nangataka ny hahita ny vatany. Feno izy ireo, ary milalao afo aho. "Tsy maintsy mandeha isika. Asehonay amin'ny vahoaka fa tsy azo antoka ny tenany: mpandraharaha any Saudi Arabia izahay," hoy i California.
+
+Step 46/284
+>> Malagasy - Pashto
+	د دوحده ملاتړ کونکو د ویسټ وییرز او وکیل حواله وکړه. د پیرودونکي خدمت په ماښام کې موږ د ښار شاوخوا د ښځو کور ته ځو. هغه خبر واورېد او د هغه جسد یې لیدو غوښتنه وکړه. دوی ډک دي ، او زه د اور سره لوبې کوم. "موږ باید لاړ شو. موږ خلکو ته وښیو چې دوی خوندي ندي: موږ په سعودي عربستان کې سوداګر یو ،" کالیفورنیا وویل.
+
+Step 47/284
+>> Pashto - Hindi
+	दोहा समर्थकों ने वेस्ट वियर्स और एक वकील के हवाले से। ग्राहक सेवा की शाम में हम शहर के चारों ओर एक महिला के घर जाते हैं। उन्होंने खबर सुनी और उनके शरीर को देखने के लिए कहा। वे भरे हुए हैं, और मैं आग से खेलता हूं। "हमें जाना है। हमें लोगों को दिखाना होगा कि वे सुरक्षित नहीं हैं: हम सऊदी अरब में व्यापारी हैं," कैलिफोर्निया ने कहा।
+
+Step 48/284
+>> Hindi - Russian
+	Сторонники Дохи процитировали West Wears и адвоката. Вечером обслуживания клиентов мы посещаем женский дом по городу. Он услышал новости и попросил увидеть его тело. Они полны, а я играю с огнем. «Мы должны идти. Мы должны показать людям, что они не в безопасности: мы трейдеры в Саудовской Аравии», - сказала Калифорния.
+
+Step 49/284
+>> Russian - Polish
+	Zwolennicy Doha cytowali West Wears i prawnika. Wieczorem obsługa klienta odwiedzamy dom kobiet w mieście. Usłyszał wiadomości i poprosił o obejrzenie swojego ciała. Są pełne, a ja bawię się ogniem. „Musimy iść. Musimy pokazać ludziom, że nie są bezpieczni: jesteśmy handlowcami w Arabii Saudyjskiej - powiedziała Kalifornia.
+
+Step 50/284
+>> Polish - Indonesian
+	Pendukung Doha mengutip West Wears dan seorang pengacara. Di malam hari, layanan pelanggan kami mengunjungi rumah wanita di kota. Dia mendengar berita itu dan meminta untuk melihat tubuhnya. Mereka penuh dan saya bermain dengan api. "Kita harus pergi. Kami perlu menunjukkan kepada orang-orang bahwa mereka tidak aman: kami adalah pedagang di Arab Saudi, "kata California.
+
+Step 51/284
+>> Indonesian - Urdu
+	دوحہ کے حامی ویسٹ ویرز اور ایک وکیل کے حوالے سے۔ شام کو ، ہماری کسٹمر سروس شہر میں عورت کے گھر جاتی ہے۔ اس نے خبر سن کر اس کی لاش دیکھنے کو کہا۔ وہ مکمل ہیں اور میں آگ سے کھیلتا ہوں۔ کیلیفورنیا نے کہا ، "ہمیں جانا ہے۔ ہمیں لوگوں کو یہ دکھانے کی ضرورت ہے کہ وہ محفوظ نہیں ہیں: ہم سعودی عرب کے تاجر ہیں۔"
+
+Step 52/284
+>> Urdu - Swedish
+	Med hänvisning till Doha-anhängare, West Wears och en advokat. På kvällen går vår kundtjänst till kvinnans hus i staden. Han hörde nyheterna och bad att se hans kropp. De är fulla och jag leker med eld. "Vi måste gå," sade Kalifornien.
+
+Step 53/284
+>> Swedish - Bosnian
+	Citirajući pristalice Dohe, West Wears-a i advokata. Uveče, naša služba za korisnike ide u žensku kuću u gradu. Čuo je vest i zatražio da vidi njegovo telo. Puna su, a ja se igram vatrom. "Moramo ići", reče Kalifornija.
+
+Step 54/284
+>> Bosnian - German
+	Unter Berufung auf Doha, West Wears Unterstützer und Anwälte. Abends geht unser Kundenservice zu einem Frauenhaus in der Stadt. Er hörte die Nachrichten und verlangte, seinen Körper zu sehen. Sie sind voll und ich spiele mit dem Feuer. "Wir müssen gehen", sagte Kalifornien.
+
+Step 55/284
+>> German - Japanese
+	ドーハを頼りに、ウエストウェアは支持者と弁護士を擁しています。夕方、私たちの顧客サービスは市内の女性用シェルターに行きます。彼はその知らせを聞いて、彼の体を見ることを頼んだ。彼らはいっぱいで、私は火遊びします。 「我々は行かなければならない」とカリフォルニアは言った。
+
+Step 56/284
+>> Japanese - Chichewa
+	Kudalira ku Doha, Westwear kumakhala ndi othandizira komanso maloya. Madzulo, makasitomala athu amapita kumalo osungirako azimayi mumzinda. Atamva nkhaniyi anapempha kuti ayang'ane thupi lake. Adzaza ndipo ndimasewera ndi moto. "Tiyenera kupita," adatero California.
+
+Step 57/284
+>> Chichewa - Dutch
+	Het hoofdkantoor is gevestigd in Doha en Westwear heeft consultants en advocaten. 'S Avonds bezoeken onze klanten het vrouwenopvangcentrum in de stad. Toen hij het nieuws hoorde, vroeg hij om naar zijn lichaam te kijken. Ze zitten vol en ik speel met vuur. 'We moeten gaan', zei Californië.
+
+Step 58/284
+>> Dutch - Nepali
+	दोहामा मुख्यालय, वेस्टवेयरका सल्लाहकार र वकिल छन्। साँझमा, हाम्रो ग्राहकहरु शहर मा महिला आश्रय भ्रमण। जब उनले यो खबर सुने, उनले आफ्नो शरीरलाई हेर्न भने। तिनीहरू पूर्ण छन् र म आगोले खेल्छु। "हामीले जानु पर्छ," क्यालिफोर्नियाले भन्यो।
+
+Step 59/284
+>> Nepali - Bulgarian
+	Със седалище в Доха, Westware има консултанти и адвокати. Вечерта клиентите ни посещават приюта за жени в града. Като чул тази новина, той помолил да види тялото му. Те са перфектни и аз играя с огън. „Трябва да вървим“, каза Калифорния.
+
+Step 60/284
+>> Bulgarian - Latvian
+	Galvenā mītne atrodas Dohā, Westware ir konsultanti un juristi. Vakarā mūsu klienti apmeklē sieviešu patversmi pilsētā. Izdzirdējis šīs ziņas, viņš lūdza redzēt savu ķermeni. Viņi ir perfekti, un es spēlēju ar uguni. "Mums jāiet," sacīja Kalifornija.
+
+Step 61/284
+>> Latvian - Greek
+	Με έδρα τη Ντόχα, η Westware έχει συμβούλους και δικηγόρους. Το βράδυ, οι πελάτες μας επισκέπτονται ένα γυναικείο καταφύγιο στην πόλη. Αφού άκουσε αυτά τα νέα, ζήτησε να δει το σώμα του. Είναι τέλεια και παίζω με φωτιά. "Πρέπει να πάμε", είπε η Καλιφόρνια.
+
+Step 62/284
+>> Greek - Turkish
+	Doha merkezli Westware'in danışmanları ve avukatları var. Akşamları müşterilerimiz şehirde bir kadın sığınma evini ziyaret ediyor. Bu haberleri dinledikten sonra cesedini görmek istedi. Mükemmel ve ateşle oynuyorum. "Gitmeliyiz," dedi California.
+
+Step 63/284
+>> Turkish - Georgian
+	დოჰაზე დაფუძნებულ Westware– ს ჰყავს მრჩევლები და იურისტები. საღამოს, ჩვენი მომხმარებლები ქალაქში ქალთა თავშესაფარს სტუმრობენ. ამ ამბების მოსმენის შემდეგ, მას სურდა მისი ცხედრის ნახვა. მე მშვენივრად და ცეცხლით ვთამაშობ. "ჩვენ უნდა წავიდეთ", თქვა კალიფორნიამ.
+
+Step 64/284
+>> Georgian - Chinese (Traditional)
+	總部位於多哈的Westware擁有顧問和律師。到了晚上，我們的客戶參觀了這座城市的女性庇護所。聽到這個消息，他想看他的屍體。我玩的很好，很火。加利福尼亞說：“我們必須走。”
+
+Step 65/284
+>> Chinese (Traditional) - Uzbek
+	Dohada joylashgan Westware dasturida maslahatchilar va yuristlar mavjud. Kechqurun mijozlarimiz shahardagi ayollar uyiga tashrif buyurishdi. Bu yangilikni eshitib, u tanasini ko'rishni xohladi. Men yaxshi o'ynadim va u issiq edi. "Biz borishimiz kerak", dedi Kaliforniya.
+
+Step 66/284
+>> Uzbek - Burmese
+	ဒိုဟာအခြေစိုက် Westware အစီအစဉ်တွင်အတိုင်ပင်ခံနှင့်ရှေ့နေများရှိသည်။ ညနေပိုင်းတွင်ကျွန်ုပ်တို့၏ဖောက်သည်များသည်မြို့ရှိအမျိုးသမီးအိမ်တစ်အိမ်သို့သွားရောက်လည်ပတ်ခဲ့သည်။ ဤသတင်းကိုကြားလျှင်သူသည်ကိုယ်ခန္ဓာကိုကြည့်လိုသည်။ ငါကောင်းကောင်းကစားခဲ့တယ်၊ "ငါတို့သွားရမယ်" ဟုကယ်လီဖိုးနီးယားကဆိုသည်။
+
+Step 67/284
+>> Burmese - Thai
+	โปรแกรม Westware ตามโดฮามีที่ปรึกษาและนักกฎหมาย ในตอนเย็นลูกค้าของเราไปเยี่ยมบ้านผู้หญิงในเมือง เมื่อเขาได้ยินสิ่งนี้เขาต้องการที่จะดูร่างกายของเขา ฉันเล่นได้ดีจริงๆ “ เราต้องไป” แคลิฟอร์เนียกล่าว
+
+Step 68/284
+>> Thai - Chinese (Simplified)
+	据多哈说，西件计划有顾问和律师。到了晚上，我们的客户参观了这座城市的女士之家。当他听到这个消息时，他想看看自己的身体。我打得非常好，“我们必须走，”加利福尼亚说。
+
+Step 69/284
+>> Chinese (Simplified) - Slovak
+	Podľa Doha má projekt Western konzultantov a právnikov. Večer navštívili naši klienti dámsky dom v meste. Keď počul správu, chcel sa pozrieť na jeho telo. Hral som veľmi dobre, „Musíme ísť,“ povedala Kalifornia.
+
+Step 70/284
+>> Slovak - Albanian
+	Sipas Doha, projekti perëndimor ka konsulentë dhe avokatë. Në mbrëmje klientët tanë vizituan shtëpinë e zonjave në qytet. Kur dëgjoi mesazhin, ai dëshironte të shikonte trupin e tij. Kam luajtur shumë mirë, "Ne duhet të shkojmë", tha California.
+
+Step 71/284
+>> Albanian - Icelandic
+	Samkvæmt Doha hefur Western verkefnið ráðgjafa og lögfræðinga. Um kvöldið heimsóttu viðskiptavinir okkar dömuhúsið í bænum. Þegar hann heyrði skilaboðin vildi hann líta á líkama sinn. Ég spilaði mjög vel, „Við verðum að fara,“ sagði Kalifornía.
+
+Step 72/284
+>> Icelandic - Slovak
+	Podľa Doha má spoločnosť Western konzultantov a právnikov. Večer navštívili naši zákazníci dámsky dom v meste. Keď počul správu, chcel sa pozrieť na jeho telo. Hral som naozaj dobre, „Musíme ísť,“ povedala Kalifornia.
+
+Step 73/284
+>> Slovak - Hindi
+	दोहा के अनुसार, पश्चिमी में सलाहकार और वकील हैं। शाम को हमारे ग्राहकों ने शहर में महिलाओं के घर का दौरा किया। जब उसने संदेश सुना, तो वह अपने शरीर को देखना चाहता था। मैंने वास्तव में अच्छा खेला, "हमें जाना होगा," कैलिफोर्निया ने कहा।
+
+Step 74/284
+>> Hindi - Pashto
+	د دوحا په وینا ، لویدیز مشاورین او وکیلان لري. په ماښام کې زموږ پیرودونکو په ښار کې د میرمنو کور څخه لیدنه وکړه. کله چې هغه پیغام واورید ، هغه غوښتل د هغې جسد وګوري. ما واقعیا ښه لوبه وکړه ، "موږ باید لاړ شو ،" کالیفورنیا وویل.
+
+Step 75/284
+>> Pashto - Sinhala
+	දෝහාට අනුව, බටහිරට උපදේශකයින් සහ නීති yers යින් සිටී. සවස් වරුවේ අපගේ ගනුදෙනුකරුවන් නගරයේ කාන්තා නිවසට පැමිණියහ. පණිවිඩය ඇසූ විට ඇගේ සිරුර දැකීමට ඇයට අවශ්‍ය විය. මම හොඳින් ක්‍රීඩා කළා, "අපි යා යුතුයි," කැලිෆෝනියා පැවසීය.
+
+Step 76/284
+>> Sinhala - Swahili
+	Kulingana na Doha, Magharibi ina washauri na wanasheria. Jioni, wateja wetu walifika nyumbani kwa wanawake jijini. Alitaka kuona mwili wake uliposikia ujumbe huo. Nilicheza vizuri, "Tunapaswa kwenda," California ilisema.
+
+Step 77/284
+>> Swahili - Danish
+	Ifølge Doha har Vesten konsulenter og advokater. Om aftenen ankom vores kunder til kvindens hjem i byen. Han ville se hans krop høre beskeden. Jeg spillede godt, "Vi skal gå," sagde Californien.
+
+Step 78/284
+>> Danish - Lithuanian
+	Pasak Dohos, Vakarai turi konsultantų ir teisininkų. Vakare mūsų klientės atvyko į moters namus mieste. Jis norėjo, kad jo kūnas išgirstų žinią. Aš gerai grojau: „Mes turime eiti“, - sakė Kalifornija.
+
+Step 79/284
+>> Lithuanian - Icelandic
+	Samkvæmt Doha, á Vesturlöndum eru ráðgjafar og lögfræðingar. Um kvöldið komu skjólstæðingar okkar á heimili konunnar í bænum. Hann vildi að líkami hans heyrði skilaboðin. Ég spilaði vel, „Við verðum að fara,“ sagði Kalifornía.
+
+Step 80/284
+>> Icelandic - Samoan
+	E tusa ai ma Doha, i Sisifo o loʻo i ai faufautua ma loia. I le afiafi, na o mai a matou tagata faatau i le fale o le fafine i le taulaga. Sa manaʻo o ia e faʻalogo lona tino i le feʻau. Sa ou taalo lelei, "Matou te o," o le tala lea a California.
+
+Step 81/284
+>> Samoan - Japanese
+	ドーハによると、西側にはコンサルタントや弁護士がいます。夕方、お客様は町の女性の家にやってきました。彼は自分の体にメッセージを聞いて欲しかった。カリフォルニアは言った。
+
+Step 82/284
+>> Japanese - Catalan
+	Segons Doha, hi ha consultors i advocats a l’oest. Al vespre, el client va arribar a la casa de la dona de la ciutat. Volia que el seu cos escoltés el missatge. Califòrnia va dir.
+
+Step 83/284
+>> Catalan - Filipino
+	Ayon kay Doha, mayroong mga consultant at abogado sa kanluran. Sa gabi, ang customer ay dumating sa bahay ng babae sa bayan. Nais niyang marinig ng kanyang katawan ang mensahe. Sinabi ng California.
+
+Step 84/284
+>> Filipino - Bulgarian
+	Според Доха на запад има консултанти и адвокати. През нощта клиентът пристига в дома на момичето в града. Тя иска тялото й да чуе посланието. Калифорния каза.
+
+Step 85/284
+>> Bulgarian - Kurdish
+	Li gorî Doha, li rojava şêwirmend û parêzvan hene. Bi şev, xerîdar digihîje mala keçikê li bajar. Ew dixwaze laşê wê mesajê bibihîze. California got.
+
+Step 86/284
+>> Kurdish - Slovenian
+	Po besedah Dohe na zahodu obstajajo svetovalci in zagovorniki. Ponoči kupec prispe v dekliško hišo v mestu. Želi slišati vsebino tega sporočila. Je dejala Kalifornija.
+
+Step 87/284
+>> Slovenian - Haitian Creole
+	Selon Doha, gen konseye ak defansè nan lwès la. Nan mitan lannwit, yon kliyan rive nan kay yon ti fi a nan vil. Li vle tande kontni mesaj sa a. California te di.
+
+Step 88/284
+>> Haitian Creole - Ukrainian
+	За словами Дохи, на заході є радники та адвокати. Вночі клієнт приїжджає до будинку дівчини в місті. Він хоче почути зміст цього повідомлення. - сказала Каліфорнія.
+
+Step 89/284
+>> Ukrainian - Russian
+	По словам Дохи, на западе есть советники и адвокаты. Ночью клиент приезжает к дому девушки в городе. Он хочет услышать содержание этого сообщения. - сказала Калифорния.
+
+Step 90/284
+>> Russian - Croatian
+	Prema Dohi, na zapadu postoje savjetnici i odvjetnici. Noću, klijent dođe u djevojčinu kuću u gradu. Želi čuti sadržaj ove poruke. - rekao je Kalifornija.
+
+Step 91/284
+>> Croatian - Nepali
+	दोहाका अनुसार पश्चिममा सल्लाहकार र वकिल छन्। राती, एक ग्राहक शहरमा एक केटीको घरमा आउँछ। ऊ यो सन्देशको सामग्री सुन्न चाहन्छ। क्यालिफोर्निया भने।
+
+Step 92/284
+>> Nepali - Malagasy
+	Raha ny filazan'i Doha dia misy mpanolotsaina sy mpisolovava any Andrefana. Amin'ny alina, misy mpanjifa tonga amin'ny tranon'ny tovovavy iray ao an-tanàna. Te hahare ny anatiny amin'ity hafatra ity izy. Hoy i California.
+
+Step 93/284
+>> Malagasy - Malay
+	Menurut Doha, terdapat kaunselor dan peguam di Barat. Pada waktu malam, pelanggan tiba di rumah seorang gadis di bandar. Dia mahu mendengar bahagian dalam mesej ini. Kata California.
+
+Step 94/284
+>> Malay - Spanish
+	Según Doha, hay consejeros y abogados en Occidente. Por la noche, un cliente llega a la casa de una niña en la ciudad. Quiere escuchar parte de este mensaje. Dijo California.
+
+Step 95/284
+>> Spanish - Mongolian
+	Дохагийн мэдээлснээр баруунд зөвлөх, хуульчид байдаг. Орой нь үйлчлүүлэгч хотын нэгэн охины гэрт ирдэг. Тэр энэ захиасыг сонсохыг хүсч байна. Калифорниа хэллээ.
+
+Step 96/284
+>> Mongolian - Urdu
+	دوحہ کے مطابق ، مغرب میں مشیر اور وکیل ہیں۔ شام کو ، مؤکل شہر سے ایک لڑکی کے گھر آتا ہے۔ وہ یہ پیغام سننا چاہتا ہے۔ کیلیفورنیا نے کہا۔
+
+Step 97/284
+>> Urdu - Zulu
+	Ngokusho kukaDoha, kukhona abeluleki nabameli eNtshonalanga. Kusihlwa, intombazane ifika endlini yentombazane evela edolobheni. Ufuna ukuzwa lo mlayezo. Kusho uCalifornia.
+
+Step 98/284
+>> Zulu - Hungarian
+	Doha szerint Nyugaton vannak mentorok és ügyvédek. Este egy lány érkezik a lány házához a városból. Hallod ezt az üzenetet. Mondja Kaliforniát.
+
+Step 99/284
+>> Hungarian - Bengali
+	দোহ বলেছেন, পশ্চিমে পরামর্শদাতা ও আইনজীবী রয়েছেন। সন্ধ্যায় শহর থেকে একটি মেয়ে তার বাড়িতে উপস্থিত হয়। আপনি এই বার্তা শুনতে। বলুন ক্যালিফোর্নিয়া।
+
+Step 100/284
+>> Bengali - Italian
+	Doh dice che ci sono consulenti e avvocati in Occidente. La sera una ragazza della città frequenta la sua casa. Hai sentito questo messaggio. Di 'la California.
+
+Step 101/284
+>> Italian - Irish
+	Deir Doh go bhfuil sainchomhairleoirí agus dlíodóirí san Iarthar. Sa tráthnóna, tugann cailín ón gcathair cuairt ar a baile. Chuala tú an teachtaireacht seo. Abair California.
+
+Step 102/284
+>> Irish - Latvian
+	Doh saka, ka Rietumos ir konsultanti un juristi. Vakarā mājās apmeklē meitene no pilsētas. Jūs dzirdējāt šo ziņu. Teikt, ka Kalifornija.
+
+Step 103/284
+>> Latvian - Korean
+	도 씨는 서방에는 컨설턴트와 변호사가 있다고 말합니다. 저녁에는 도시에서 온 소녀가 집을 방문합니다. 이 메시지를 들었습니다. 캘리포니아라고 해
+
+Step 104/284
+>> Korean - Hausa
+	Do ya ce akwai masu ba da shawara da lauyoyi a kasashen yamma. Da yamma, yarinya daga gari ta ziyarci gidan. Na ji wannan sakon. Kira shi Kalifoniya
+
+Step 105/284
+>> Hausa - Lao
+	ທ່ານເວົ້າວ່າມີທີ່ປຶກສາແລະທະນາຍຄວາມໃນພາກຕາເວັນຕົກ. ໃນຕອນແລງ, ເດັກຍິງຈາກເມືອງມາຢ້ຽມຢາມເຮືອນ. ຂ້ອຍໄດ້ຍິນຂໍ້ຄວາມນີ້. ໂທຫາມັນຄາລິຟໍເນຍ
+
+Step 106/284
+>> Lao - Macedonian
+	Тој вели дека има консултанти и адвокати на Западот. Во вечерните часови, девојки од градот доаѓаат да ја посетат куќата. Ја слушнав оваа порака. Наречете го Калифорнија
+
+Step 107/284
+>> Macedonian - Indonesian
+	Dia mengatakan ada konsultan dan pengacara di Barat. Di malam hari, gadis-gadis dari kota datang mengunjungi rumah. Saya mendengar pesan ini. Sebut saja California
+
+Step 108/284
+>> Indonesian - Vietnamese
+	Ông nói rằng có những chuyên gia tư vấn và luật sư ở phương Tây. Vào buổi tối, các cô gái từ thành phố đến thăm nhà. Tôi nghe tin nhắn này. Gọi nó là California
+
+Step 109/284
+>> Vietnamese - Shona
+	Akataura kuti kune vanopa mazano uye magweta kuWest. Manheru, vasikana veguta vakatanga kuuya kuzoshanyira imba. Ndakanzwa iri message. Idaire kuti California
+
+Step 110/284
+>> Shona - Norwegian
+	Han sa at det er rådgivere og advokater i Vesten. Om kvelden begynte byjenter å besøke huset. Jeg hørte denne beskjeden. Kall det California
+
+Step 111/284
+>> Norwegian - Dutch
+	Hij zei dat er adviseurs en advocaten zijn in het Westen. 'S Avonds begonnen stadsmeisjes het huis te bezoeken. Ik heb dit bericht gehoord. Noem het Californië
+
+Step 112/284
+>> Dutch - Chinese (Traditional)
+	他說西方有顧問和律師。傍晚，城市女孩開始拜訪這所房子。我聽到了這個消息。稱它為加利福尼亞
+
+Step 113/284
+>> Chinese (Traditional) - Portuguese
+	Ele disse que havia consultores e advogados no Ocidente. À noite, a garota da cidade começou a visitar a casa. Eu ouvi a notícia. Chame de califórnia
+
+Step 114/284
+>> Portuguese - Serbian
+	Рекао је да на Западу постоје консултанти и адвокати. Увече је градска девојка кренула у посету кући. Чуо сам вест. Позив из Калифорније
+
+Step 115/284
+>> Serbian - Bosnian
+	Kazao je da na Zapadu postoje savjetnici i pravnici. Uveče, gradska djevojka otišla je posjetiti svoj dom. Čuo sam vest. Poziv iz Kalifornije
+
+Step 116/284
+>> Bosnian - Polish
+	Powiedział, że na Zachodzie są doradcy i prawnicy. Wieczorem dziewczyna z miasta poszła odwiedzić jej dom. Słyszałem wiadomości. Zadzwoń z Kalifornii
+
+Step 117/284
+>> Polish - Romanian
+	El a spus că în Occident există consilieri și avocați. Seara, o fată din oraș a mers să-și viziteze casa. Am auzit vestea. Sună din California
+
+Step 118/284
+>> Romanian - Luxembourgish
+	Hien huet gesot datt et Beroder an Affekoten am Westen sinn. Owes ass e Meedchen aus der Stad bei hirem Haus besicht. Ech hunn d'Nouvelle héieren. Rufft aus Kalifornien
+
+Step 119/284
+>> Luxembourgish - Thai
+	เขากล่าวว่ามีที่ปรึกษาและนักกฎหมายในตะวันตก ในตอนเย็นมีเด็กผู้หญิงคนหนึ่งจากเมืองมาเยี่ยมเธอ ฉันได้ยินข่าว โทรจากแคลิฟอร์เนีย
+
+Step 120/284
+>> Thai - Maltese
+	Huwa qal li hemm konsulenti u avukati fil-Punent. Fil-għaxija tifla mill-belt żżurha. Smajt l-aħbar Ċempel mill-kalifornja
+
+Step 121/284
+>> Maltese - Swedish
+	Han sa att det finns rådgivare och advokater i väst. På kvällen besöker en flicka från staden henne. Jag hörde samtalet från Kalifornien
+
+Step 122/284
+>> Swedish - Persian
+	وی گفت: مشاوران و وکلا در غرب وجود دارند. عصر ، دختری از شهر به دیدار وی می رود. من تماس از کالیفرنیا را شنیدم
+
+Step 123/284
+>> Persian - Chinese (Simplified)
+	他说：“西方有顾问和律师。”晚上，一个来自城市的女孩来拜访他。我听到加州打来的电话
+
+Step 124/284
+>> Chinese (Simplified) - Estonian
+	"Läänes on konsultante ja juriste," ütles ta. Öösel tuli talle linna külla üks tüdruk. Kuulsin Californias üleskutset
+
+Step 125/284
+>> Estonian - Maori
+	"Kei reira nga kaitohutohu me nga roia i te Hauauru," e ai ta ia. I te po, ka haere mai tetahi kotiro ki te tirotiro ia ia i te taone nui. I rongo ahau i tetahi piira i California
+
+Step 126/284
+>> Maori - German
+	"Es gibt Anwälte und Anwälte im Westen", sagt er. Nachts besuchte ihn ein Mädchen im Stadtzentrum. Ich habe einen Anruf in Kalifornien gehört
+
+Step 127/284
+>> German - Kazakh
+	«Батыста адвокаттар мен адвокаттар бар» дейді ол. Түнде бір қыз оған қала орталығында қонаққа келді. Калифорнияда қоңырау естідім
+
+Step 128/284
+>> Kazakh - Amharic
+	በምዕራቡ ዓለም ጠበቆችና ጠበቆች አሉ ብለዋል ፡፡ ማታ ላይ አንዲት ልጅ በከተማው ውስጥ ሊጠይቃት መጣች ፡፡ በካሊፎርኒያ አንድ ጥሪ ሰማሁ
+
+Step 129/284
+>> Amharic - Arabic
+	وقال إن هناك محامين ومحامين في الغرب. في الليل جاءت فتاة لزيارتها في المدينة. سمعت مكالمة في كاليفورنيا
+
+Step 130/284
+>> Arabic - Finnish
+	Hän sanoi, että lännessä on lakimiehiä ja asianajajia. Yöllä tyttö tuli käymään luokseen kaupunkiin. Kuulin puhelun Kaliforniassa
+
+Step 131/284
+>> Finnish - Greek
+	Είπε ότι υπάρχουν δικηγόροι και δικηγόροι στη Δύση. Τη νύχτα το κορίτσι ήρθε να επισκεφθεί την πόλη της. Άκουσα μια κλήση στην Καλιφόρνια
+
+Step 132/284
+>> Greek - Burmese
+	သူကအနောက်နိုင်ငံများတွင်ရှေ့နေများနှင့်ရှေ့နေများရှိကြောင်းပြောကြားခဲ့သည်။ ညအချိန်တွင်မိန်းကလေးသည်သူမ၏မြို့တော်သို့လာခဲ့သည်။ ကယ်လီဖိုးနီးယားမှာဖုန်းခေါ်တယ်
+
+Step 133/284
+>> Burmese - Uzbek
+	Uning so'zlariga ko'ra, G'arbda advokatlar va yuristlar bor. Kechasi qiz poytaxtga keldi. Kaliforniyada qo'ng'iroq qiling
+
+Step 134/284
+>> Uzbek - Chichewa
+	Anati kuli azamalamulo ndi oyang'anira milandu ku West. Usiku mtsikanayo adabwera kulikulu. Imbani ku California
+
+Step 135/284
+>> Chichewa - French
+	Il a dit qu'il y avait des avocats et des avocats dans l'Ouest. Cette nuit-là, la fille est venue au quartier général. Appeler en Californie
+
+Step 136/284
+>> French - Czech
+	Řekl, že na západě jsou právníci a právníci. Tu noc přišla dívka na velitelství. Zavolejte Kalifornii
+
+Step 137/284
+>> Czech - Albanian
+	Ai tha që kishte avokatë dhe avokatë në perëndim. Atë natë vajza erdhi në seli. Thirrni në Kaliforni
+
+Step 138/284
+>> Albanian - Hebrew
+	הוא אמר שיש עורכי דין ועורכי דין במערב. באותו לילה הילדה הגיעה למטה. חייגו בקליפורניה
+
+Step 139/284
+>> Hebrew - Georgian
+	მისი თქმით, დასავლეთში იურისტები და იურისტები იყვნენ. იმ ღამით გოგონა ჩამოვიდა. აკრიფეს კალიფორნიაში
+
+Step 140/284
+>> Georgian - English
+	He said there were lawyers and lawyers in the West. That night the girl arrived. Dialed in California
+
+Step 141/284
+>> English - Armenian
+	Նա ասաց, որ Արևմուտքում կան փաստաբաններ և փաստաբաններ: Այդ գիշեր ժամանել է աղջիկը: Զանգահարվել է Կալիֆոռնիայում
+
+Step 142/284
+>> Armenian - Turkish
+	Batı'da avukatlar ve avukatlar olduğunu söyledi. Kız o gece geldi. California denilen
+
+Step 143/284
+>> Turkish - Armenian
+	Նա ասաց, որ Արևմուտքում կան փաստաբաններ և փաստաբաններ: Աղջիկը եկավ այդ գիշեր: Կոչվում է Կալիֆոռնիա
+
+Step 144/284
+>> Armenian - English
+	He said there are advocates and advocates in the West. The girl came that night. It's called California
+
+Step 145/284
+>> English - Georgian
+	მისი თქმით, დასავლეთში არსებობს დამცველები და დამცველები. გოგონა იმ ღამით მოვიდა. მას კალიფორნიას ეძახიან
+
+Step 146/284
+>> Georgian - Hebrew
+	הוא אמר שיש מגנים ומגנים במערב. הילדה הגיעה באותו לילה. קוראים לזה קליפורניה
+
+Step 147/284
+>> Hebrew - Albanian
+	Ai tha se ka mburoja dhe mburoja në perëndim. Vajza mbërriti atë natë. Quajeni atë California
+
+Step 148/284
+>> Albanian - Czech
+	Řekl, že na západě jsou štíty a štíty. Ta dívka dorazila tu noc. Říkejte tomu Kalifornie
+
+Step 149/284
+>> Czech - French
+	Il a dit qu'il y avait des boucliers et des boucliers à l'ouest. La fille est arrivée ce soir-là. Appelez ça la Californie
+
+Step 150/284
+>> French - Chichewa
+	Anati pali zikopa ndi zikopa kumadzulo. Mtsikanayo adafika madzulo amenewo. Itchuleni California
+
+Step 151/284
+>> Chichewa - Uzbek
+	G'arbda terilar va terilar borligini aytdi. O'sha kuni kechqurun qiz keldi. Uni Kaliforniyada taqdim eting
+
+Step 152/284
+>> Uzbek - Burmese
+	သူကအနောက်နိုင်ငံတွေမှာအရေခွံတွေရှိတယ်။ ထိုညနေတွင်မိန်းကလေးရောက်လာသည်။ ဒါကိုကယ်လီဖိုးနီးယားမှာတင်ပါ
+
+Step 153/284
+>> Burmese - Greek
+	Έχει δέρματα στη Δύση. Εκείνο το βράδυ έφτασε το κορίτσι. Δημοσιεύστε το στην Καλιφόρνια
+
+Step 154/284
+>> Greek - Finnish
+	Sillä on nahkoja lännessä. Sinä yönä tyttö saapui. Lähetä se Kaliforniaan
+
+Step 155/284
+>> Finnish - Arabic
+	لديها جلود في الغرب. في تلك الليلة وصلت الفتاة. أرسله إلى كاليفورنيا
+
+Step 156/284
+>> Arabic - Amharic
+	በምዕራቡ ላይ ቆዳዎች አሏት ፡፡ የዚያን ዕለት ምሽት ልጅቷ መጣች ፡፡ ወደ ካሊፎርኒያ ይላኩት
+
+Step 157/284
+>> Amharic - Kazakh
+	Оның батысында терілері бар. Қыз сол күні кешке келді. Калифорнияға жіберіңіз
+
+Step 158/284
+>> Kazakh - German
+	Es hat Häute im Westen. Das Mädchen kam an diesem Abend. Nach Kalifornien senden
+
+Step 159/284
+>> German - Maori
+	He hiako kei te hauauru. I haere mai te kotiro. Tukuna atu ki California
+
+Step 160/284
+>> Maori - Estonian
+	Läänes on nahk. Tüdruk tuli. Saatke see Californiasse
+
+Step 161/284
+>> Estonian - Chinese (Simplified)
+	西方有皮革。女孩来了。发送到加利福尼亚
+
+Step 162/284
+>> Chinese (Simplified) - Persian
+	غرب چرم دارد. اینجا دختر می آید. ارسال به کالیفرنیا
+
+Step 163/284
+>> Persian - Swedish
+	Väst har läder. Här kommer flickan. Post till Kalifornien
+
+Step 164/284
+>> Swedish - Maltese
+	Il-flokk għandu ġilda. Hawn tidħol it-tifla. Mail lejn California
+
+Step 165/284
+>> Maltese - Thai
+	เสื้อมีหนัง ที่นี่หญิงสาวมา ส่งไปยังแคลิฟอร์เนีย
+
+Step 166/284
+>> Thai - Luxembourgish
+	Et gi Liederjacken. Hei komme jonk Fraen. Geliwwert a Kalifornien
+
+Step 167/284
+>> Luxembourgish - Romanian
+	Există geci de piele. Aici vin femei tinere. Situat în California
+
+Step 168/284
+>> Romanian - Polish
+	Są kurtki skórzane. Oto młode kobiety. Znajduje się w Kalifornii
+
+Step 169/284
+>> Polish - Bosnian
+	Postoje kožne jakne. Evo mladih žena. Smješten u Kaliforniji
+
+Step 170/284
+>> Bosnian - Serbian
+	Постоје кожне јакне. Ево младих жена. Смештен у Калифорнији
+
+Step 171/284
+>> Serbian - Portuguese
+	Existem jaquetas de couro. Aqui estão as jovens. Localizado na Califórnia
+
+Step 172/284
+>> Portuguese - Chinese (Traditional)
+	有皮夾克。這是年輕的女人。位於加利福尼亞
+
+Step 173/284
+>> Chinese (Traditional) - Dutch
+	Er zijn leren jassen. Dit is een jonge vrouw. In Californië
+
+Step 174/284
+>> Dutch - Norwegian
+	Det er skinnjakker. Dette er en ung kvinne. I California
+
+Step 175/284
+>> Norwegian - Shona
+	Kune majaketi ematehwe. Uyu mukadzi mudiki. MuCalifornia
+
+Step 176/284
+>> Shona - Vietnamese
+	Có áo khoác da. Đây là một phụ nữ trẻ. Ở California
+
+Step 177/284
+>> Vietnamese - Indonesian
+	Ada jaket kulit. Ini adalah wanita muda. Di california
+
+Step 178/284
+>> Indonesian - Macedonian
+	Има кожна јакна. Ова е млада жена. Во Калифорнија
+
+Step 179/284
+>> Macedonian - Lao
+	ລາວມີເສື້ອຫນັງ. ນີ້ແມ່ນຍິງຫນຸ່ມ. ທີ່ລັດ California
+
+Step 180/284
+>> Lao - Hausa
+	Yana da jaket na fata. Wannan yarinya ce. A California
+
+Step 181/284
+>> Hausa - Korean
+	가죽 자켓입니다. 이것은 소녀입니다. 캘리포니아에서
+
+Step 182/284
+>> Korean - Latvian
+	Ādas jaka. Šī ir meitene. Kalifornijā
+
+Step 183/284
+>> Latvian - Irish
+	Seaicéad leathair. Seo cailín. California
+
+Step 184/284
+>> Irish - Italian
+	Giacca di pelle. Questa è una ragazza California
+
+Step 185/284
+>> Italian - Bengali
+	চামড়ার জ্যাকেট এটি ক্যালিফোর্নিয়ার এক মেয়ে
+
+Step 186/284
+>> Bengali - Hungarian
+	Bőrdzseki Ez egy kaliforniai lány
+
+Step 187/284
+>> Hungarian - Zulu
+	Isikhumba Ijeketi Le yintombazane yaseCalifornia
+
+Step 188/284
+>> Zulu - Urdu
+	چرمی جیکٹ یہ کیلیفورنیا کی لڑکی ہے
+
+Step 189/284
+>> Urdu - Mongolian
+	Арьсан хүрэм Энэ Калифорнийн охин
+
+Step 190/284
+>> Mongolian - Spanish
+	Chaqueta de cuero Esta es una chica de California
+
+Step 191/284
+>> Spanish - Malay
+	Jaket kulit Ini adalah seorang gadis California
+
+Step 192/284
+>> Malay - Malagasy
+	Ity palitao hoditra ity dia ankizivavy Kalifornia
+
+Step 193/284
+>> Malagasy - Nepali
+	यो छालाको ज्याकेट क्यालिफोर्नियाको केटी हो
+
+Step 194/284
+>> Nepali - Croatian
+	Ova kožna jakna je kalifornijska djevojka
+
+Step 195/284
+>> Croatian - Russian
+	Эта кожаная куртка - калифорнийская девушка
+
+Step 196/284
+>> Russian - Ukrainian
+	Ця шкіряна куртка - каліфорнійська дівчина
+
+Step 197/284
+>> Ukrainian - Haitian Creole
+	Levit kwi sa a se yon ti fi California
+
+Step 198/284
+>> Haitian Creole - Slovenian
+	Ta usnjena jakna je kalifornijsko dekle
+
+Step 199/284
+>> Slovenian - Kurdish
+	Ev kincê çerm keçek California ye
+
+Step 200/284
+>> Kurdish - Bulgarian
+	Това кожено яке е момиче от Калифорния
+
+Step 201/284
+>> Bulgarian - Filipino
+	Ang leather jacket na ito ay isang batang babae mula sa California
+
+Step 202/284
+>> Filipino - Catalan
+	Aquesta jaqueta de cuir és una noia de Califòrnia
+
+Step 203/284
+>> Catalan - Japanese
+	この革のジャケットはカリフォルニアの女の子です
+
+Step 204/284
+>> Japanese - Samoan
+	O lenei peleue paʻu o se teine Kalefonia
+
+Step 205/284
+>> Samoan - Icelandic
+	Þessi leðurjakka er stúlka í Kaliforníu
+
+Step 206/284
+>> Icelandic - Lithuanian
+	Ši odinė striukė yra Kalifornijos mergaitė
+
+Step 207/284
+>> Lithuanian - Danish
+	Denne læderjakke er en pige i Californien
+
+Step 208/284
+>> Danish - Swahili
+	Hii koti ya ngozi ni msichana huko California
+
+Step 209/284
+>> Swahili - Sinhala
+	මෙම ලෙදර් ජැකට් කැලිෆෝනියාවේ ගැහැණු ළමයෙකි
+
+Step 210/284
+>> Sinhala - Pashto
+	دا د څرمن جاکټ د کالیفورنیا نجلۍ ده
+
+Step 211/284
+>> Pashto - Hindi
+	यह चमड़े की जैकेट एक कैलिफोर्निया लड़की है
+
+Step 212/284
+>> Hindi - Slovak
+	Táto kožená bunda je dievča z Kalifornie
+
+Step 213/284
+>> Slovak - Icelandic
+	Þessi leðurjakka er stelpa frá Kaliforníu
+
+Step 214/284
+>> Icelandic - Albanian
+	Kjo xhaketë lëkure është një vajzë nga Kalifornia
+
+Step 215/284
+>> Albanian - Slovak
+	Táto kožená bunda je dievča z Kalifornie
+
+Step 216/284
+>> Slovak - Chinese (Simplified)
+	这件皮夹克是来自加利福尼亚的女孩
+
+Step 217/284
+>> Chinese (Simplified) - Thai
+	เสื้อแจ็คเก็ตหนังสำหรับผู้หญิงจากแคลิฟอร์เนีย
+
+Step 218/284
+>> Thai - Burmese
+	အမျိုးသမီးများအတွက်ကယ်လီဖိုးနီးယားသားရေအကျီများ
+
+Step 219/284
+>> Burmese - Uzbek
+	Kaliforniya ayollar uchun ko'ylagi
+
+Step 220/284
+>> Uzbek - Chinese (Traditional)
+	加利福尼亞女士夾克
+
+Step 221/284
+>> Chinese (Traditional) - Georgian
+	კალიფორნიის ქალთა ქურთუკები
+
+Step 222/284
+>> Georgian - Turkish
+	California Bayan Ceketleri
+
+Step 223/284
+>> Turkish - Greek
+	Γυναικεία γυναικεία σακάκια
+
+Step 224/284
+>> Greek - Latvian
+	Sieviešu jakas
+
+Step 225/284
+>> Latvian - Bulgarian
+	Дамски якета
+
+Step 226/284
+>> Bulgarian - Nepali
+	महिला ज्याकेटहरू
+
+Step 227/284
+>> Nepali - Dutch
+	Dames jassen
+
+Step 228/284
+>> Dutch - Chichewa
+	Zovala zazimayi
+
+Step 229/284
+>> Chichewa - Japanese
+	婦人服
+
+Step 230/284
+>> Japanese - German
+	Damenbekleidung
+
+Step 231/284
+>> German - Bosnian
+	Ženska odjeća
+
+Step 232/284
+>> Bosnian - Swedish
+	Damkläder
+
+Step 233/284
+>> Swedish - Urdu
+	عورتوں
+
+Step 234/284
+>> Urdu - Indonesian
+	Wanita
+
+Step 235/284
+>> Indonesian - Polish
+	Kobieta
+
+Step 236/284
+>> Polish - Russian
+	женщина
+
+Step 237/284
+>> Russian - Hindi
+	एक महिला
+
+Step 238/284
+>> Hindi - Pashto
+	یوه ښځه
+
+Step 239/284
+>> Pashto - Malagasy
+	Vehivavy
+
+Step 240/284
+>> Malagasy - Vietnamese
+	Phụ nữ
+
+Step 241/284
+>> Vietnamese - Kazakh
+	Әйелдер
+
+Step 242/284
+>> Kazakh - Croatian
+	žene
+
+Step 243/284
+>> Croatian - Lao
+	ແມ່ຍິງ
+
+Step 244/284
+>> Lao - Serbian
+	Жене
+
+Step 245/284
+>> Serbian - Filipino
+	Babae
+
+Step 246/284
+>> Filipino - Bengali
+	নারী
+
+Step 247/284
+>> Bengali - Romanian
+	femeie
+
+Step 248/284
+>> Romanian - Finnish
+	nainen
+
+Step 249/284
+>> Finnish - Estonian
+	naine
+
+Step 250/284
+>> Estonian - English
+	woman
+
+Step 251/284
+>> English - Portuguese
+	mulher
+
+Step 252/284
+>> Portuguese - Hungarian
+	nő
+
+Step 253/284
+>> Hungarian - Malay
+	wanita
+
+Step 254/284
+>> Malay - Kurdish
+	jin
+
+Step 255/284
+>> Kurdish - Italian
+	donna
+
+Step 256/284
+>> Italian - Amharic
+	ሴት
+
+Step 257/284
+>> Amharic - Lithuanian
+	Moteris
+
+Step 258/284
+>> Lithuanian - Slovenian
+	Ženska
+
+Step 259/284
+>> Slovenian - French
+	Femme
+
+Step 260/284
+>> French - Ukrainian
+	Жінка
+
+Step 261/284
+>> Ukrainian - Czech
+	Žena
+
+Step 262/284
+>> Czech - Persian
+	زن
+
+Step 263/284
+>> Persian - Armenian
+	Կինը
+
+Step 264/284
+>> Armenian - Samoan
+	Fafine:
+
+Step 265/284
+>> Samoan - Maori
+	Wahine:
+
+Step 266/284
+>> Maori - Swahili
+	Mwanamke:
+
+Step 267/284
+>> Swahili - Mongolian
+	Эмэгтэй хүн:
+
+Step 268/284
+>> Mongolian - Norwegian
+	Woman:
+
+Step 269/284
+>> Norwegian - Hausa
+	mace:
+
+Step 270/284
+>> Hausa - Macedonian
+	женски:
+
+Step 271/284
+>> Macedonian - Maltese
+	mara:
+
+Step 272/284
+>> Maltese - Danish
+	kvinde:
+
+Step 273/284
+>> Danish - Catalan
+	dona:
+
+Step 274/284
+>> Catalan - Haitian Creole
+	fanm:
+
+Step 275/284
+>> Haitian Creole - Shona
+	mukadzi:
+
+Step 276/284
+>> Shona - Korean
+	여자 :
+
+Step 277/284
+>> Korean - Luxembourgish
+	Fra:
+
+Step 278/284
+>> Luxembourgish - Sinhala
+	සිට:
+
+Step 279/284
+>> Sinhala - Hebrew
+	מאת:
+
+Step 280/284
+>> Hebrew - Spanish
+	Por:
+
+Step 281/284
+>> Spanish - Arabic
+	بواسطة:
+
+Step 282/284
+>> Arabic - Zulu
+	Ngu:
+
+Step 283/284
+>> Zulu - Irish
+	Le:
+
+Step 284/284
+>> Irish - English
+	By:
+
+
+##### RESULTS ######
+
+The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+By:

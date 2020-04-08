@@ -1,0 +1,1147 @@
+Translation chain: pt - ca - pt - fr - es - en - ro - es - ca - en - ro - es - ro - it - fr - ca - fr - ca - es - fr - pt - en - ro - ca - it - pt - ro - it - en - fr - ro - es - pt - ca - ro - en - pt - fr - it - ca - en - fr - ca - pt - it - ca - it - ro - en - pt - en - ro - es - ca - en - es - en - es - ro - it - ro - en - es - ca - ro - it - en - fr - ca - ro - it - es - pt - ca - es - fr - pt - fr - pt - es - en - es - ro - ca - fr - it - ro - es - pt - es - fr - it - ca - pt - en - fr - ca - pt - en - fr - pt - ca - it - en - ca - en - es - it - pt - en - fr - es - it - ca - it - fr - pt - ro - fr - en - es - it - ca - ro - en - it - es - fr - it - pt - ro - it - fr - pt - es - fr - en - ca - fr - it - es - it.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Portuguese
+	Para ele, cada leitura de qualquer texto sempre fornecerá um novo redimensionamento e entendimento desse texto. Metaforicamente, ele se posiciona diante dos textos como banhista do rio Heráclito, no qual é impossível entrar duas vezes porque seu curso está mudando constantemente.
+
+Step 2/284
+>> Portuguese - Catalan
+	Per a ell, cada lectura de qualsevol text sempre proporcionarà una nova redimensionament i comprensió d’aquest text. Metafòricament, se situa davant dels textos com a banyista al riu Heráclito, al qual és impossible entrar dues vegades, ja que el seu curs canvia constantment.
+
+Step 3/284
+>> Catalan - Portuguese
+	Para ele, toda leitura de qualquer texto sempre fornecerá um novo redimensionamento e entendimento desse texto. Metaforicamente, ele fica na frente dos textos como nadador no rio Heráclito, que é impossível entrar duas vezes, pois seu curso muda constantemente.
+
+Step 4/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours un nouveau redimensionnement et une nouvelle compréhension de ce texte. Métaphoriquement, il se tient devant les textes comme nageur dans la rivière Heráclito, qui est impossible d'entrer deux fois, car son parcours change constamment.
+
+Step 5/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará un nuevo cambio de tamaño y una nueva comprensión de este texto. Metafóricamente, se para frente a los textos como nadador en el río Heráclito, al que es imposible ingresar dos veces, porque su ruta cambia constantemente.
+
+Step 6/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new resizing and a new understanding of this text. Metaphorically, he stands in front of the texts as a swimmer in the Heraclitus river, which is impossible to enter twice, because his route constantly changes.
+
+Step 7/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și o nouă înțelegere a acestui text. Metaforic, el stă în fața textelor ca înotător în râul Heraclit, din care este imposibil să intre de două ori, deoarece traseul său se schimbă constant.
+
+Step 8/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre ofrecerá un nuevo cambio de tamaño y comprensión de este texto. Metafóricamente, se encuentra ante los textos como un nadador en el río Heráclito, desde el cual es imposible ingresar dos veces, porque su ruta cambia constantemente.
+
+Step 9/284
+>> Spanish - Catalan
+	Per a ell, qualsevol lectura d'un text sempre oferirà un nou canvi de mida i comprensió d'aquest text. Metafòricament, es troba davant els textos com un nedador al riu Heràclit, des del qual és impossible ingressar dues vegades, perquè la seva ruta canvia constantment.
+
+Step 10/284
+>> Catalan - English
+	For him, any reading of a text will always offer a new resizing and understanding of that text. Metaphorically, he is confronted by texts like a swimmer on the Heraclitus river, from which it is impossible to enter twice, because his route is constantly changing.
+
+Step 11/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și înțelegere a textului respectiv. Metaforic, el se confruntă cu texte precum un înotător pe râul Heraclit, din care este imposibil să intre de două ori, deoarece traseul său se schimbă constant.
+
+Step 12/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre ofrecerá un nuevo cambio de tamaño y comprensión de ese texto. Metafóricamente, se enfrenta a textos como un nadador en el río Heráclito, desde el cual es imposible ingresar dos veces, porque su ruta cambia constantemente.
+
+Step 13/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și înțelegere a textului respectiv. Metaforic, el se confruntă cu texte precum un înotător în râul Heraclit, din care este imposibil să intre de două ori, deoarece traseul său se schimbă constant.
+
+Step 14/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre un nuovo ridimensionamento e comprensione di quel testo. Metaforicamente, affronta i testi come un nuotatore nel fiume Eraclito, dal quale è impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 15/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte offrira toujours un nouveau redimensionnement et une nouvelle compréhension de ce texte. Métaphoriquement, il fait face aux textes comme un nageur dans la rivière Héraclite, d'où il est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 16/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà un nou redimensionament i una nova comprensió d’aquest text. Metafòricament, s’enfronta a textos com un nedador al riu Heràclit, des d’on és impossible entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 17/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte offrira toujours un nouveau redimensionnement et une nouvelle compréhension de ce texte. Métaphoriquement, il rencontre des textes comme un nageur sur la rivière Héraclite, d'où il est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 18/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà un nou redimensionament i una nova comprensió d’aquest text. Metafòricament, coneix textos com un nedador al riu Heràclit, des d’on és impossible entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 19/284
+>> Catalan - Spanish
+	Para él, cualquier lectura de un texto siempre ofrecerá un nuevo redimensionamiento y una nueva comprensión de este texto. Metafóricamente, conoce textos como un nadador al río Heráclito, desde donde es imposible entrar dos veces, porque su camino evoluciona constantemente.
+
+Step 20/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte offrira toujours un nouveau redimensionnement et une nouvelle compréhension de ce texte. Métaphoriquement, il connaît des textes comme un nageur à la rivière Héraclite, d'où il est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 21/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre oferecerá um novo redimensionamento e uma nova compreensão desse texto. Metaforicamente, ele conhece textos como um nadador no rio Heráclito, do qual é impossível entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 22/284
+>> Portuguese - English
+	For him, any reading of a text will always offer a new resizing and a new understanding of that text. Metaphorically, he knows texts like a swimmer in the Heráclito river, from which it is impossible to enter twice, because his path is constantly evolving.
+
+Step 23/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și o nouă înțelegere a textului respectiv. Metaforic, cunoaște texte precum un înotător în râul Heráclito, din care este imposibil să intre de două ori, pentru că calea lui evoluează constant.
+
+Step 24/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà una nova redimensionament i comprensió del text. Metafòricament, coneix textos com un nedador a l’Heràclit, dels quals és impossible entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 25/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre un nuovo ridimensionamento e comprensione del testo. Metaforicamente, conosce i testi come un nuotatore in Eraclito, di cui è impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 26/284
+>> Italian - Portuguese
+	Para ele, qualquer leitura de um texto sempre oferecerá um novo redimensionamento e entendimento do texto. Metaforicamente, ele conhece os textos como nadador em Heráclito, dos quais é impossível entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 27/284
+>> Portuguese - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și înțelegere a textului. Metaforic, el cunoaște textele ca înotător în Heraclit, din care este imposibil să intre de două ori, pentru că calea lui evoluează constant.
+
+Step 28/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre un nuovo ridimensionamento e comprensione del testo. Metaforicamente, conosce i testi come un nuotatore in Eraclito, da cui è impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 29/284
+>> Italian - English
+	For him, any reading of a text will always offer a new resizing and understanding of the text. Metaphorically, he knows the texts as a swimmer in Heraclitus, from which it is impossible to enter twice, because his path is constantly evolving.
+
+Step 30/284
+>> English - French
+	Pour lui, toute lecture d'un texte offrira toujours un nouveau redimensionnement et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes en tant que nageur à Héraclite, d'où il est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 31/284
+>> French - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și o nouă înțelegere a textului. Metaforic, cunoaște textele ca înotător la Heraclit, de unde este imposibil să intre de două ori, pentru că calea lui evoluează constant.
+
+Step 32/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre ofrecerá un nuevo cambio de tamaño y comprensión del texto. Metafóricamente, conoce los textos como nadador en Heráclito, desde donde es imposible ingresar dos veces, porque su camino está en constante evolución.
+
+Step 33/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre oferecerá uma nova mudança de tamanho e compreensão do texto. Metaforicamente, ele conhece os textos como nadador em Heráclito, de onde é impossível entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 34/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà un nou canvi de mida i comprensió del text. Metafòricament, coneix els textos com a nedador d’Heràclit, del qual és impossible entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 35/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă redimensionare și înțelegere a textului. Metaforic, el cunoaște textele ca înotător al lui Heraclit, pe care este imposibil să-l introduci de două ori, pentru că calea lui evoluează constant.
+
+Step 36/284
+>> Romanian - English
+	For him, any reading of a text will always offer a new resizing and understanding of the text. Metaphorically, he knows the texts as a Heraclitean swimmer, which it is impossible to introduce twice, because his path is constantly evolving.
+
+Step 37/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre oferecerá um novo redimensionamento e entendimento do texto. Metaforicamente, ele conhece os textos como nadador heraclitiano, que é impossível introduzir duas vezes, porque seu caminho está em constante evolução.
+
+Step 38/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte offrira toujours un nouveau redimensionnement et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraclitéen, ce qui est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 39/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre un nuovo ridimensionamento e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore eraclito, che è impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 40/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador d’heràclit, al qual és impossible entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 41/284
+>> Catalan - English
+	For him, any reading of a text will always offer a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraclitian swimmer, which is impossible to enter twice, because his path is constantly evolving.
+
+Step 42/284
+>> English - French
+	Pour lui, toute lecture d'un texte offrira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraclitien, ce qui est impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 43/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràlici, al qual és impossible entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 44/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre oferecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 45/284
+>> Portuguese - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 46/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre oferirà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 47/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo offrirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 48/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 49/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 50/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 51/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 52/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 53/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 54/284
+>> Spanish - Catalan
+	Per a ell, qualsevol lectura d'un text sempre proporcionarà una nova escala i una nova comprensió de el text. Metafòricament, coneix els textos com un nedador heràldic, impossible d'ingressar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 55/284
+>> Catalan - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 56/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 57/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 58/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 59/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 60/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 61/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 62/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 63/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 64/284
+>> Spanish - Catalan
+	Per a ell, qualsevol lectura d'un text sempre proporcionarà una nova escala i una nova comprensió de el text. Metafòricament, coneix els textos com un nedador heràldic, impossible d'ingressar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 65/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 66/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 67/284
+>> Italian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as an heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 68/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 69/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 70/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 71/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 72/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 73/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 74/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 75/284
+>> Catalan - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como nadador heráldico, imposible de entrar dos veces, porque su camino está en constante evolución.
+
+Step 76/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 77/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 78/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 79/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 80/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 81/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 82/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 83/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 84/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 85/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 86/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 87/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 88/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 89/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 90/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 91/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 92/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 93/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 94/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 95/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 96/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 97/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 98/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 99/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 100/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 101/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 102/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 103/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 104/284
+>> Italian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as an heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 105/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 106/284
+>> Catalan - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 107/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 108/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 109/284
+>> Italian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 110/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 111/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 112/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 113/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 114/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 115/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 116/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 117/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 118/284
+>> Portuguese - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 119/284
+>> Romanian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 120/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 121/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 122/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 123/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 124/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 125/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 126/284
+>> English - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 127/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 128/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 129/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 130/284
+>> Italian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 131/284
+>> Portuguese - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 132/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 133/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 134/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 135/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 136/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 137/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 138/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 139/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 140/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 141/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 142/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 143/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 144/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 145/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 146/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 147/284
+>> Catalan - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 148/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 149/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 150/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 151/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 152/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 153/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 154/284
+>> Romanian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 155/284
+>> Portuguese - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 156/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 157/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 158/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 159/284
+>> Italian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as an heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 160/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 161/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 162/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 163/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 164/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 165/284
+>> English - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 166/284
+>> French - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 167/284
+>> Romanian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 168/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 169/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 170/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 171/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 172/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 173/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 174/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 175/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 176/284
+>> Portuguese - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 177/284
+>> Italian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 178/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 179/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 180/284
+>> Catalan - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 181/284
+>> English - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 182/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 183/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 184/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 185/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 186/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 187/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 188/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 189/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 190/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 191/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 192/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 193/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 194/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 195/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 196/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 197/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 198/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 199/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 200/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 201/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 202/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 203/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 204/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 205/284
+>> Spanish - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 206/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 207/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 208/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 209/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 210/284
+>> Spanish - Catalan
+	Per a ell, qualsevol lectura d'un text sempre proporcionarà una nova escala i una nova comprensió de el text. Metafòricament, coneix els textos com un nedador heràldic, impossible d'ingressar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 211/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 212/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 213/284
+>> Spanish - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 214/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 215/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 216/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 217/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 218/284
+>> English - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 219/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 220/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 221/284
+>> Catalan - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como nadador heráldico, imposible de entrar dos veces, porque su camino está en constante evolución.
+
+Step 222/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 223/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 224/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 225/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 226/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 227/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 228/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 229/284
+>> Spanish - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 230/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 231/284
+>> Catalan - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como nadador heráldico, imposible de entrar dos veces, porque su camino está en constante evolución.
+
+Step 232/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 233/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 234/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 235/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 236/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 237/284
+>> Romanian - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 238/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 239/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 240/284
+>> Italian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 241/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 242/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 243/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 244/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 245/284
+>> Catalan - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 246/284
+>> Italian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 247/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 248/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 249/284
+>> English - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 250/284
+>> Romanian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 251/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 252/284
+>> Portuguese - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 253/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 254/284
+>> Romanian - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 255/284
+>> French - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts like a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 256/284
+>> English - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 257/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 258/284
+>> Romanian - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 259/284
+>> Portuguese - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 260/284
+>> Italian - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí evoluciona constantment.
+
+Step 261/284
+>> Catalan - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 262/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 263/284
+>> English - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 264/284
+>> Portuguese - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 265/284
+>> French - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 266/284
+>> Spanish - Catalan
+	Per a ell, qualsevol lectura d'un text sempre proporcionarà una nova escala i una nova comprensió de el text. Metafòricament, coneix els textos com un nedador heràldic, impossible d'ingressar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 267/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 268/284
+>> French - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com un nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 269/284
+>> Catalan - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 270/284
+>> French - Italian
+	Per lui, qualsiasi lettura di un testo fornirà sempre una nuova scala e una nuova comprensione del testo. Metaforicamente, conosce i testi come un nuotatore araldico, impossibile entrare due volte, perché il suo percorso è in continua evoluzione.
+
+Step 271/284
+>> Italian - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 272/284
+>> Romanian - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 273/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 274/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 275/284
+>> English - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 276/284
+>> Catalan - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como nadador heráldico, imposible de entrar dos veces, porque su camino está en constante evolución.
+
+Step 277/284
+>> Spanish - Romanian
+	Pentru el, orice citire a unui text va oferi întotdeauna o nouă scară și o nouă înțelegere a textului. Metaforic, el cunoaște textele ca un înotător heraldic, imposibil de intrat de două ori, pentru că calea lui evoluează constant.
+
+Step 278/284
+>> Romanian - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+Step 279/284
+>> English - Spanish
+	Para él, cualquier lectura de un texto siempre proporcionará una nueva escala y una nueva comprensión del texto. Metafóricamente, conoce los textos como un nadador heráldico, imposible de ingresar dos veces, porque su camino está en constante evolución.
+
+Step 280/284
+>> Spanish - French
+	Pour lui, toute lecture d'un texte fournira toujours une nouvelle échelle et une nouvelle compréhension du texte. Métaphoriquement, il connaît les textes comme un nageur héraldique, impossible d'entrer deux fois, car son chemin évolue constamment.
+
+Step 281/284
+>> French - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 282/284
+>> Portuguese - Catalan
+	Per a ell, qualsevol lectura d’un text sempre proporcionarà una nova escala i una nova comprensió del text. Metafòricament, coneix els textos com a nedador heràldic, impossible d’entrar dues vegades, perquè el seu camí està en constant evolució.
+
+Step 283/284
+>> Catalan - Portuguese
+	Para ele, qualquer leitura de um texto sempre fornecerá uma nova escala e uma nova compreensão do texto. Metaforicamente, ele conhece os textos como um nadador heráldico, impossível de entrar duas vezes, porque seu caminho está em constante evolução.
+
+Step 284/284
+>> Portuguese - English
+	For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+For him, any reading of a text will always provide a new scale and a new understanding of the text. Metaphorically, he knows the texts as a heraldic swimmer, impossible to enter twice, because his path is constantly evolving.

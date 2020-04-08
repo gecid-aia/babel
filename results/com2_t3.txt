@@ -1,0 +1,1147 @@
+Translation chain: en - de - sv - en - no - da - af - nl - de - en - de - nl - da - sv - da - af - en - af - no - af - sv - nl - en - de - nl - no - da - en - no - sv - af - nl - de - en - de - no - de - sv - de - nl - sv - da - sv - no - de - en - da - de - nl - no - af - nl - da - sv - af - en - da - af - en - de - af - nl - en - nl - sv - nl - da - nl - no - af - da - de - sv - nl - sv - no - de - en - da - sv - no - af - nl - da - en - sv - no - nl - no - de - sv - no - nl - af - de - da - af - nl - af - sv - de - no - da - de - sv - af - sv - no - nl - no - af - da - no - da - af - en - sv - en - sv - no - de - en - sv - nl - da - no - en - no - sv - nl - de - da - af - de - nl - da - af - sv - en - nl - da - en.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - English
+	For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+Step 2/284
+>> English - German
+	Für ihn bietet jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis dieses Textes. Bildlich gesprochen positioniert er sich vor den Texten als Badegast des Flusses Heráclito, in den man nicht zweimal eintreten kann, weil sich sein Kurs ständig ändert.
+
+Step 3/284
+>> German - Swedish
+	För honom erbjuder varje läsning av en text alltid en ny storlek och en ny förståelse av denna text. Metaforiskt sett placerar han sig framför texterna som en badare av Heráclito-floden, som inte kan anges två gånger eftersom hans kurs förändras ständigt.
+
+Step 4/284
+>> Swedish - English
+	For him, every reading of a text always offers a new size and a new understanding of that text. Metaphorically, he places himself in front of the lyrics as a bather of the Heráclito River, which cannot be stated twice as his course is constantly changing.
+
+Step 5/284
+>> English - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av den teksten. Metaforisk plasserer han seg foran tekstene som en bater av Heráclito-elven, som ikke kan uttales to ganger da løpet hans stadig endrer seg.
+
+Step 6/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af denne tekst. Metaforisk placerer han sig foran teksterne som en bater af Heráclito-floden, som ikke kan udtales to gange, da hans løb konstant ændrer sig.
+
+Step 7/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories plaas hy homself voor die lirieke as 'n bater van die Heráclitorivier, wat nie twee keer uitgespreek kan word nie, omdat sy ras voortdurend verander.
+
+Step 8/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch stelt hij zichzelf voor op de teksten als een aanwinst voor de Heraclite-rivier, wat niet twee keer kan worden gezegd omdat zijn race voortdurend verandert.
+
+Step 9/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch stellt er sich den Texten als eine Bereicherung für den Heraclite River vor, was nicht zweimal gesagt werden kann, da sich seine Rasse ständig ändert.
+
+Step 10/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he imagines the lyrics as an asset to the Heraclite River, which cannot be said twice, as his race is constantly changing.
+
+Step 11/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch stellt er sich die Texte als eine Bereicherung für den Heraclite River vor, was nicht zweimal gesagt werden kann, da sich seine Rasse ständig ändert.
+
+Step 12/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch stelt hij zich de teksten voor als een verrijking voor de Heraclite-rivier, die niet twee keer kan worden gezegd omdat de race voortdurend verandert.
+
+Step 13/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk forestiller han sig teksterne som en berigelse af Heraclite-floden, som ikke kan siges to gange, fordi løbet konstant ændrer sig.
+
+Step 14/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt föreställer han texterna som en anrikning av Heraclite-floden, vilket inte kan sägas två gånger eftersom loppet ständigt förändras.
+
+Step 15/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han teksterne som en berigelse af Heraclite-floden, hvilket ikke kan siges to gange, da løbet konstant ændrer sig.
+
+Step 16/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die lirieke uit as 'n verryking van die Heraclite-rivier, wat nie twee keer gesê kan word nie, omdat die wedloop voortdurend verander.
+
+Step 17/284
+>> Afrikaans - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the lyrics as an enrichment of the Heraclite River, which cannot be said twice as the race is constantly changing.
+
+Step 18/284
+>> English - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die lirieke uit as 'n verryking van die Heraclite-rivier, wat nie twee keer gesê kan word nie, omdat die wedloop voortdurend verander.
+
+Step 19/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk fremstiller han tekstene som en berikelse av Heraclite-elven, som ikke kan sies to ganger da løpet stadig endres.
+
+Step 20/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die lirieke uit as 'n verryking van die Heraclite-rivier, wat nie twee keer gesê kan word nie, aangesien die wedloop gedurig verander.
+
+Step 21/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt framställer han texterna som en berikning av Heraclite-floden, vilket inte kan sägas två gånger eftersom loppet ständigt förändras.
+
+Step 22/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten als een verrijking van de Heraclite-rivier, wat niet tweemaal kan worden gezegd omdat de race voortdurend verandert.
+
+Step 23/284
+>> Dutch - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the lyrics as an enrichment of the Heraclite River, which cannot be said twice because the race is constantly changing.
+
+Step 24/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Heraclite River, was nicht zweimal gesagt werden kann, da sich die Rasse ständig ändert.
+
+Step 25/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten als een verrijking van de Heraclite-rivier, wat niet tweemaal kan worden gezegd omdat de race voortdurend verandert.
+
+Step 26/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk fremstiller han tekstene som en berikelse av Heraclite River, som ikke kan sies to ganger fordi løpet kontinuerlig endres.
+
+Step 27/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han teksterne som en berigelse af Heraclite-floden, som ikke kan siges to gange, fordi løbet konstant ændrer sig.
+
+Step 28/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the lyrics as an enrichment of the Heraclite River, which cannot be said twice because the race is constantly changing.
+
+Step 29/284
+>> English - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk fremstiller han tekstene som en berikelse av Heraclite River, som ikke kan sies to ganger fordi løpet kontinuerlig endres.
+
+Step 30/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt porträtterar han texterna som en berikning av Heraclite-floden, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 31/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit as 'n verryking van die Heraclite-rivier, wat nie twee keer gesê kan word nie, aangesien die kursus voortdurend verander.
+
+Step 32/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten als een verrijking van de Heraclite-rivier, wat niet tweemaal kan worden gezegd omdat de koers voortdurend verandert.
+
+Step 33/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Heraclite River, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 34/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts as an enrichment of the Heraclite River, which cannot be said twice because the course changes constantly.
+
+Step 35/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Verlauf ständig ändert.
+
+Step 36/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk fremstiller han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger siden kurset endrer seg kontinuerlig.
+
+Step 37/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 38/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt framställer han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 39/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 40/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers constant verandert.
+
+Step 41/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en berikning av Heraclitus-strömmen, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 42/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af Heraclitus-strømmen, som ikke kan siges to gange, da kursen konstant ændrer sig.
+
+Step 43/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 44/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger da kurset stadig endres.
+
+Step 45/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 46/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he presents the texts as an enrichment of the flow of Heraclitus, which cannot be said twice since the course changes constantly.
+
+Step 47/284
+>> English - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af strømmen af Heraclitus, som ikke kan siges to gange, da kurset konstant ændres.
+
+Step 48/284
+>> Danish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 49/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers constant verandert.
+
+Step 50/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av Heraclitus-strømmen, som ikke kan sies to ganger fordi kurset stadig endres.
+
+Step 51/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die Heraclitus-stroom, wat nie twee keer gesê kan word nie, omdat die kursus voortdurend verander.
+
+Step 52/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de Heraclitus-stroom, die niet tweemaal kan worden gezegd omdat de koers voortdurend verandert.
+
+Step 53/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af Heraclitus-strømmen, som ikke kan siges to gange, fordi kursen konstant ændrer sig.
+
+Step 54/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 55/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die vloei van Heraclitus, wat nie twee keer gesê kan word nie, aangesien die kursus voortdurend verander.
+
+Step 56/284
+>> Afrikaans - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he presents the texts as an enrichment of the flow of Heraclitus, which cannot be said twice as the course is constantly changing.
+
+Step 57/284
+>> English - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af strømmen af Heraclitus, som ikke kan siges to gange, da kurset konstant ændrer sig.
+
+Step 58/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die vloei van Heraclitus, wat nie twee keer gesê kan word nie, aangesien die kursus voortdurend verander.
+
+Step 59/284
+>> Afrikaans - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he presents the texts as an enrichment of the flow of Heraclitus, which cannot be said twice as the course is constantly changing.
+
+Step 60/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 61/284
+>> German - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die vloei van Heraclitus, wat nie twee keer gesê kan word nie, aangesien die verloop voortdurend verander.
+
+Step 62/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers voortdurend verandert.
+
+Step 63/284
+>> Dutch - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically he presents the texts as an enrichment of the stream of Heraclitus, which cannot be said twice because the course is constantly changing.
+
+Step 64/284
+>> English - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom Heraclitus, wat niet twee keer gezegd kan worden omdat de koers voortdurend verandert.
+
+Step 65/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en berikelse av Heraclitus-strömmen, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 66/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de Heraclitus-stroom, die niet tweemaal kan worden gezegd omdat de koers voortdurend verandert.
+
+Step 67/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af Heraclitus-strømmen, som ikke kan siges to gange, fordi kursen konstant ændrer sig.
+
+Step 68/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers voortdurend verandert.
+
+Step 69/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av Heraclitus-strømmen, som ikke kan sies to ganger fordi kurset stadig endres.
+
+Step 70/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die Heraclitus-stroom, wat nie twee keer gesê kan word nie, omdat die kursus voortdurend verander.
+
+Step 71/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af Heraclitus-strømmen, som ikke kan siges to gange, da kursen konstant ændrer sig.
+
+Step 72/284
+>> Danish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 73/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 74/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers voortdurend verandert.
+
+Step 75/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en berikelse av Heraclitus-strömmen, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 76/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av Heraclitus-strømmen, som ikke kan sies to ganger da kurset stadig endres.
+
+Step 77/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklit-Stroms, was nicht zweimal gesagt werden kann, da sich der Kurs ständig ändert.
+
+Step 78/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he presents the texts as an enrichment of the Heraclitus stream, which cannot be said twice since the course changes constantly.
+
+Step 79/284
+>> English - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af Heraclitus-strømmen, hvilket ikke kan siges to gange, da kurset konstant ændres.
+
+Step 80/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom kursen ständigt förändras.
+
+Step 81/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger da kurset stadig endres.
+
+Step 82/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die vloei van Heraclitus, wat nie twee keer gesê kan word nie, aangesien die kursus voortdurend verander.
+
+Step 83/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden omdat de koers voortdurend verandert.
+
+Step 84/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk præsenterer han teksterne som en berigelse af strømmen af Heraclitus, som ikke kan siges to gange, fordi løbet konstant ændrer sig.
+
+Step 85/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he presents the lyrics as an enrichment of the flow of Heraclitus, which cannot be said twice because the race is constantly changing.
+
+Step 86/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger eftersom loppet ständigt förändras.
+
+Step 87/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger da løpet stadig endres.
+
+Step 88/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet tweemaal kan worden gezegd als de race constant verandert.
+
+Step 89/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger om løpet kontinuerlig endres.
+
+Step 90/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklitflusses, was nicht zweimal gesagt werden kann, wenn der Kurs ständig geändert wird.
+
+Step 91/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt presenterar han texterna som en anrikning av flödet av Heraclitus, vilket inte kan sägas två gånger om kursen ständigt förändras.
+
+Step 92/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk presenterer han tekstene som en berikelse av strømmen av Heraclitus, som ikke kan sies to ganger hvis kurset stadig endres.
+
+Step 93/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch presenteert hij de teksten als een verrijking van de stroom van Heraclitus, wat niet twee keer gezegd kan worden als de koers voortdurend verandert.
+
+Step 94/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories bied hy die tekste aan as 'n verryking van die stroom Heraclitus, wat nie twee keer gesê kan word as die verloop voortdurend verander nie.
+
+Step 95/284
+>> Afrikaans - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch präsentiert er die Texte als Bereicherung des Heraklit-Stroms, was nicht zweimal gesagt werden kann, wenn sich der Kurs ständig ändert.
+
+Step 96/284
+>> German - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han teksterne som en berigelse af Heraclitus-strømmen, som ikke kan siges to gange, hvis forløbet konstant ændres.
+
+Step 97/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit as 'n verryking van die Heraclitus-stroom, wat nie twee keer gesê kan word as die kursus voortdurend verander word nie.
+
+Step 98/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten als een verrijking van de Heraclitus-stroom, die niet tweemaal kan worden gezegd als de koers voortdurend wordt veranderd.
+
+Step 99/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die lirieke uit as 'n verryking van die Heraclitus-stroom, wat nie twee keer gesê kan word as die kursus voortdurend verander word nie.
+
+Step 100/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt framställer han texterna som en berikning av Heraclitus-strömmen, som inte kan sägas två gånger om kursen ständigt förändras.
+
+Step 101/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Heraklit-Stroms, was nicht zweimal gesagt werden kann, wenn sich der Kurs ständig ändert.
+
+Step 102/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk fremstiller han tekstene som en berikelse av strømmen til Heraclitus, som ikke kan sies to ganger hvis forløpet endres kontinuerlig.
+
+Step 103/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han teksterne som en berigelse af strømmen til Heraclitus, som ikke kan siges to gange, hvis forløbet ændres kontinuerligt.
+
+Step 104/284
+>> Danish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte als Bereicherung des Flusses zu Heraklit, was nicht zweimal gesagt werden kann, wenn sich der Kurs kontinuierlich ändert.
+
+Step 105/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikande floden till Heraclitus, vilket inte kan sägas två gånger om banan förändras kontinuerligt.
+
+Step 106/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit as 'n verryking van die rivier na Heraclitus, wat nie twee keer gesê kan word as die baan voortdurend verander nie.
+
+Step 107/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som en berikning av floden till Heraclitus, vilket inte kan sägas två gånger om banan ständigt förändras.
+
+Step 108/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som berikende elven til Heraclitus, som ikke kan sies to ganger hvis kursen stadig endres.
+
+Step 109/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten die de rivier van Heraclitus verrijken, wat niet twee keer gezegd kan worden als de koers constant verandert.
+
+Step 110/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som beriker elven Heraclitus, som ikke kan sies to ganger hvis forløpet endres kontinuerlig.
+
+Step 111/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit wat die rivier Heraclitus verryk, wat nie twee keer gesê kan word as die verloop voortdurend verander nie.
+
+Step 112/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk skildrer han de tekster, der beriger floden Heraclitus, som ikke kan siges to gange, hvis forløbet konstant ændres.
+
+Step 113/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som beriker elven Heraclitus, som ikke kan sies to ganger hvis kursen stadig endres.
+
+Step 114/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk skildrer han teksterne, der beriger floden Heraclitus, som ikke kan siges to gange, hvis forløbet konstant ændres.
+
+Step 115/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit wat die rivier Heraclitus verryk, wat nie twee keer gesê kan word as die gang voortdurend verander word nie.
+
+Step 116/284
+>> Afrikaans - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts that enrich the river Heraclitus, which cannot be said twice if the corridor is constantly changed.
+
+Step 117/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikar floden Heraclitus, som inte kan sägas två gånger om korridoren ständigt ändras.
+
+Step 118/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts that enrich the Heraclitus River, which cannot be said twice if the corridor is constantly changing.
+
+Step 119/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikar floden Heraclitus, som inte kan sägas två gånger om korridoren ständigt förändras.
+
+Step 120/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som beriker Heraclitus-elven, som ikke kan sies to ganger hvis korridoren stadig endres.
+
+Step 121/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte, die den Heraklit bereichern, was nicht zweimal gesagt werden kann, wenn sich der Korridor ständig ändert.
+
+Step 122/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts that enrich Heraclitus, which cannot be said twice if the corridor is constantly changing.
+
+Step 123/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikar Heraclitus, som inte kan sägas två gånger om korridoren ständigt förändras.
+
+Step 124/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden als de gang voortdurend verandert.
+
+Step 125/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk skildrer han de tekster, der beriger Heraclitus, som ikke kan siges to gange, hvis korridoren konstant ændres.
+
+Step 126/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som beriker Heraclitus, som ikke kan sies to ganger hvis korridoren stadig endres.
+
+Step 127/284
+>> Norwegian - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts that enrich Heraclitus, which cannot be said twice if the corridor is constantly changing.
+
+Step 128/284
+>> English - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk skildrer han tekstene som beriker Heraclitus, som ikke kan sies to ganger hvis korridoren stadig endres.
+
+Step 129/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikar Heraclitus, som inte kan sägas två gånger om korridoren ständigt förändras.
+
+Step 130/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden als de gang voortdurend verandert.
+
+Step 131/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, wenn sich der Korridor ständig ändert.
+
+Step 132/284
+>> German - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk skildrer han de tekster, der beriger Heraclitus, som ikke kan siges to gange, hvis korridoren konstant ændrer sig.
+
+Step 133/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit wat Heraclitus verryk, wat nie twee keer gesê kan word as die gang voortdurend verander nie.
+
+Step 134/284
+>> Afrikaans - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch porträtiert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich die Passage ständig ändert.
+
+Step 135/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de passage voortdurend verandert.
+
+Step 136/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk skildrer han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi passagen konstant ændres.
+
+Step 137/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories beeld hy die tekste uit wat Heraclitus verryk, wat nie twee keer gesê kan word nie, omdat die teks voortdurend verander.
+
+Step 138/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt skildrar han texterna som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 139/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he portrays the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 140/284
+>> English - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch portretteert hij de teksten die Heraclitus verrijken, wat niet tweemaal kan worden gezegd omdat de tekst voortdurend verandert.
+
+Step 141/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Han skildrer metaforisk de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 142/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. He metaphorically portrays the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 143/284
+>> English - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Han skildrer metaforisk de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 144/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Hij portretteert metaforisch de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 145/284
+>> Dutch - English
+	For him, every reading of a text always has a new size and a new understanding of the text. He metaphorically portrays the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 146/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Han framställer metaforiskt de texter som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 147/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Hy produseer metafories die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 148/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Han fremstiller metaforisk de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 149/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Hij portretteert metaforisch de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 150/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Er porträtiert metaphorisch die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 151/284
+>> German - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Hy beeld die tekste wat Heraclitus verryk, metafories uit, wat nie twee keer gesê kan word nie, omdat die teks voortdurend verander.
+
+Step 152/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Han skildrer metaforisk de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 153/284
+>> Danish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Er porträtiert metaphorisch die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 154/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Hij portretteert metaforisch de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 155/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Han framställer metaforiskt de texter som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 156/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Han produserer metaforisk tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 157/284
+>> Norwegian - English
+	For him, every reading of a text always has a new size and a new understanding of the text. He metaphorically produces the texts that enrich Heraclitus, which cannot be said twice as the text constantly changes.
+
+Step 158/284
+>> English - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Han produserer metaforisk tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 159/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Han fremstiller metaforisk de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændres.
+
+Step 160/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 161/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 162/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 163/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 164/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 165/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 166/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 167/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 168/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 169/284
+>> English - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 170/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 171/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 172/284
+>> Norwegian - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændres.
+
+Step 173/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 174/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 175/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet tweemaal kan worden gezegd omdat de tekst voortdurend verandert.
+
+Step 176/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 177/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 178/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 179/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 180/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 181/284
+>> German - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 182/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 183/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 184/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 185/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 186/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet tweemaal kan worden gezegd omdat de tekst voortdurend verandert.
+
+Step 187/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 188/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 189/284
+>> Danish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 190/284
+>> German - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 191/284
+>> Afrikaans - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 192/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endrer seg.
+
+Step 193/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 194/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 195/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 196/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 197/284
+>> Dutch - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endrer seg.
+
+Step 198/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 199/284
+>> Swedish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 200/284
+>> English - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 201/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 202/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 203/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 204/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 205/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 206/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 207/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 208/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 209/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 210/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 211/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 212/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 213/284
+>> German - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 214/284
+>> Danish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 215/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 216/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 217/284
+>> Dutch - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 218/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 219/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 220/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 221/284
+>> Dutch - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 222/284
+>> English - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst constant verandert.
+
+Step 223/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 224/284
+>> Afrikaans - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 225/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 226/284
+>> English - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 227/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 228/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 229/284
+>> English - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 230/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 231/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 232/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 233/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 234/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 235/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 236/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 237/284
+>> German - Danish
+	For ham har hver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 238/284
+>> Danish - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 239/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 240/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 241/284
+>> Norwegian - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 242/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 243/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 244/284
+>> Swedish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 245/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 246/284
+>> German - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 247/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 248/284
+>> German - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 249/284
+>> Norwegian - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 250/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 251/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 252/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst constant verandert.
+
+Step 253/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 254/284
+>> Afrikaans - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 255/284
+>> Swedish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 256/284
+>> Norwegian - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text constantly changes.
+
+Step 257/284
+>> English - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændres.
+
+Step 258/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 259/284
+>> Norwegian - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet tweemaal kan worden gezegd omdat de tekst voortdurend verandert.
+
+Step 260/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 261/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 262/284
+>> English - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst constant verandert.
+
+Step 263/284
+>> Dutch - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, vilket inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 264/284
+>> Swedish - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 265/284
+>> Afrikaans - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger da teksten stadig endres.
+
+Step 266/284
+>> Norwegian - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 267/284
+>> Afrikaans - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice as the text is constantly changing.
+
+Step 268/284
+>> English - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie, aangesien die teks voortdurend verander.
+
+Step 269/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 270/284
+>> Danish - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 271/284
+>> Swedish - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, da teksten konstant ændrer sig.
+
+Step 272/284
+>> Danish - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst voortdurend verandert.
+
+Step 273/284
+>> Dutch - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 274/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 275/284
+>> English - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, weil sich der Text ständig ändert.
+
+Step 276/284
+>> German - Dutch
+	Voor hem heeft elke lezing van een tekst altijd een nieuwe grootte en een nieuw begrip van de tekst. Metaforisch produceert hij de teksten die Heraclitus verrijken, wat niet twee keer gezegd kan worden omdat de tekst constant verandert.
+
+Step 277/284
+>> Dutch - Afrikaans
+	Vir hom het elke lees van 'n teks altyd 'n nuwe grootte en 'n nuwe begrip van die teks. Metafories vervaardig hy die tekste wat Heraclitus verryk, wat nie twee keer gesê kan word nie omdat die teks voortdurend verander.
+
+Step 278/284
+>> Afrikaans - Danish
+	For ham har enhver læsning af en tekst altid en ny størrelse og en ny forståelse af teksten. Metaforisk fremstiller han de tekster, der beriger Heraclitus, som ikke kan siges to gange, fordi teksten konstant ændrer sig.
+
+Step 279/284
+>> Danish - Norwegian
+	For ham har hver lesing av en tekst alltid en ny størrelse og en ny forståelse av teksten. Metaforisk produserer han tekstene som beriker Heraclitus, som ikke kan sies to ganger fordi teksten stadig endres.
+
+Step 280/284
+>> Norwegian - English
+	For him, every reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 281/284
+>> English - Swedish
+	För honom har varje läsning av en text alltid en ny storlek och en ny förståelse av texten. Metaforiskt producerar han texterna som berikar Heraclitus, som inte kan sägas två gånger eftersom texten ständigt förändras.
+
+Step 282/284
+>> Swedish - German
+	Für ihn hat jede Lesung eines Textes immer eine neue Größe und ein neues Verständnis des Textes. Metaphorisch produziert er die Texte, die Heraklit bereichern, was nicht zweimal gesagt werden kann, da sich der Text ständig ändert.
+
+Step 283/284
+>> German - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+Step 284/284
+>> English - English
+	For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+For him, each reading of a text always has a new size and a new understanding of the text. Metaphorically, he produces the texts that enrich Heraclitus, which cannot be said twice because the text is constantly changing.

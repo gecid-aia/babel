@@ -1,0 +1,2556 @@
+Step 0/284
+Portuguese
+GLEUacc: 1.0
+GLEUpap: 1.0
+Size: 43
+HarmonicMean: 1.0
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he stands before the texts as the Heraclitus River Bather, which it is impossible to enter twice because its course is constantly changing.
+Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+
+Step 1/284
+Portuguese - Pashto
+GLEUacc: 0.7277039848197343
+GLEUpap: 0.7277039848197343
+Size: 37
+HarmonicMean: 0.7366842155938615
+For him, reading each text will always provide new text size and awareness. Metaphorically speaking, he stands against the texts as the Hercules River Badger, which is impossible to enter twice as this route is constantly changing.
+د هغه لپاره ، د هر متن لوستل به تل د نوي متن له اندازې او پوهاوي چمتو کړي. په استعاري ډول خبرې کول ، هغه د هرکلیټس سیند بیدر په توګه متنونو په وړاندې ودریږي ، کوم چې دوه ځله ننوتل ناممکن دي ځکه چې دا لاره په دوامداره توګه بدلیږي.
+
+Step 2/284
+Pashto - Finnish
+GLEUacc: 0.7381404174573055
+GLEUpap: 0.8363636363636363
+Size: 41
+HarmonicMean: 0.6160925253360042
+For him, reading each text always provides the size and awareness of the new text. Metaphorically speaking, he stands against the text like a badger in the Hercules River, which is impossible to reach twice because this route is constantly changing.
+Hänelle jokaisen tekstin lukeminen tarjoaa aina uuden tekstin koon ja tietoisuuden. Metaforisesti sanottuna hän seisoo tekstiä vastaan kuin Hercules-joen mäyrä, johon on mahdotonta päästä kahdesti, koska tämä reitti muuttuu jatkuvasti.
+
+Step 3/284
+Finnish - Norwegian
+GLEUacc: 0.6432637571157496
+GLEUpap: 0.8555555555555555
+Size: 38
+HarmonicMean: 0.5427036335051431
+For him, reading each text always gives size and awareness of the new text. Metaphorically, he faces the text like a badger in the Hercules River, which is impossible to reach twice because this route is constantly changing.
+For ham gir alltid lesing av hver tekst størrelse og bevissthet om den nye teksten. Metaforisk sett står han mot teksten som en grevling i Hercules-elven, som det er umulig å nå to ganger fordi denne ruten stadig endres.
+
+Step 4/284
+Norwegian - Serbian
+GLEUacc: 0.6404174573055028
+GLEUpap: 0.9354120267260579
+Size: 39
+HarmonicMean: 0.4918547522295172
+For him, always reading each text gives the size and awareness of the new text. Metaphorically, he faces a text like a badger in the river Hercules, which is impossible to reach twice because that route is constantly changing.
+За њега, увек читање сваког текста даје величину и свест о новом тексту. Метафорички, он се суочава са текстом попут јазавца у реци Херкулес, до којег је немогуће двапут доћи јер се та рута непрестано мења.
+
+Step 5/284
+Serbian - Japanese
+GLEUacc: 0.5493358633776091
+GLEUpap: 0.744988864142539
+Size: 39
+HarmonicMean: 0.4538656387603956
+For him, always reading each text gives a new text size and recognition. Compared to phor, he faces text like a badger on the Hercules River, but its route is constantly changing, so it is impossible to reach twice.
+彼にとって、常に各テキストを読むことは、新しいテキストのサイズと認識を与えます。比phor的に、彼はヘラクレス川のアナグマのようなテキストに直面していますが、そのルートは絶えず変化しているため、2回到達することは不可能です。
+
+Step 6/284
+Japanese - Estonian
+GLEUacc: 0.5493358633776091
+GLEUpap: 0.9006928406466512
+Size: 38
+HarmonicMean: 0.4240447452022995
+For him, reading each text always gives new text size and recognition. Compared to Phor, it faces the text like a badger on the Hercules River, but its route is constantly changing, making it twice impossible to reach.
+Tema jaoks annab iga teksti lugemine alati uue teksti suuruse ja äratundmise. Phoriga võrreldes seisab ta teksti ees nagu mäger Heraklese jõel, kuid selle marsruut on pidevas muutumises, mistõttu on kaks korda võimatu jõuda.
+
+Step 7/284
+Estonian - Irish
+GLEUacc: 0.5426944971537002
+GLEUpap: 0.75635103926097
+Size: 37
+HarmonicMean: 0.39980120054867485
+For themselves, reading a new text is always reading each text. Compared to Por, the text is addressed as a badger on the Hercules River, but its way is constantly changing, making it impossible to achieve twice.
+Dóibh féin, bíonn léamh agus téacs nua á léamh i gcónaí ag léamh gach téacs. I gcomparáid le Phor, tá aghaidh ar an téacs mar bhroc ar Abhainn na Earcail, ach tá a bhealach ag athrú i gcónaí, rud a fhágann nach féidir é a bhaint amach faoi dhó.
+
+Step 8/284
+Irish - German
+GLEUacc: 0.5037950664136622
+GLEUpap: 0.8064133016627079
+Size: 35
+HarmonicMean: 0.3795699997748951
+Reading a new text always means reading each text. Compared to Por, the text is referred to as a badger on the Hercules, but its path is constantly changing, making it impossible to reach twice.
+Das Lesen eines neuen Textes bedeutet für sich immer, jeden Text zu lesen. Im Vergleich zu Por wird der Text als Dachs auf dem Herkules angesprochen, aber sein Weg ändert sich ständig, so dass es unmöglich ist, zweimal zu erreichen.
+
+Step 9/284
+German - Slovak
+GLEUacc: 0.4876660341555977
+GLEUpap: 0.9402597402597402
+Size: 33
+HarmonicMean: 0.362341632332315
+Reading new text always means reading each text. Compared to Por, the text is referred to as a badger on Hercules, but its path is constantly changing, making it impossible to achieve twice.
+Čítanie nového textu vždy znamená prečítanie každého textu. V porovnaní s Por sa text označuje ako jazvec na Hercules, ale jeho cesta sa neustále mení, takže je nemožné dosiahnuť dvakrát.
+
+Step 10/284
+Slovak - Chichewa
+GLEUacc: 0.3681214421252372
+GLEUpap: 0.6445623342175066
+Size: 33
+HarmonicMean: 0.3474313120695131
+Reading a new word always means reading every word. Compared to Por, the text is said to be a bad deal for Hercules, but its method is flexible, making it twice as effective.
+Kuwerenga mawu atsopano nthawi zonse kumatanthauza kuwerenga liwu lililonse. Poyerekeza ndi Por, malembawo amatchulidwa kuti ndi choyipa pa Hercules, koma njira yake imasinthasintha, ndikupangitsa kuti izi zitheke kawiri.
+
+Step 11/284
+Chichewa - Nepali
+GLEUacc: 0.340607210626186
+GLEUpap: 0.8942028985507247
+Size: 32
+HarmonicMean: 0.33435565207520895
+Reading a new word means reading each word. Compared to Por, this text is said to be a bad deal for Hercules, but his method is flexible, making it twice as effective.
+नयाँ शब्द पढ्नु भनेको प्रत्येक शब्द पढ्नु हो। पोरको तुलनामा, यो पाठ हर्क्युलसको लागि नराम्रो सम्झौता हो भनिन्छ, तर यसको विधि लचिलो छ, यसलाई दुई पटक प्रभावकारी बनाउँदै।
+
+Step 12/284
+Nepali - Zulu
+GLEUacc: 0.33586337760910817
+GLEUpap: 0.8595166163141994
+Size: 31
+HarmonicMean: 0.3227622173451274
+Reading a new word means reading each word. Compared to Por, the text is said to be a bad deal for Hercules, but his approach is flexible, making it work twice.
+Kufundza ligama lelisha kusho kufundza ligama ngalinye. Uma kuqhathaniswa noPor, lo mbhalo kuthiwa uyisivumelwano esibi kuHercules, kepha indlela yakhe ivumelana nezimo, iyenza isebenze kabili.
+
+Step 13/284
+Zulu - Thai
+GLEUacc: 0.33586337760910817
+GLEUpap: 0.7327327327327328
+Size: 30
+HarmonicMean: 0.3123870704960549
+Reading new words means reading each word. In comparison to Poor, this text is considered a bad deal for Hercules. But his method is flexible, allowing it to work twice
+การอ่านคำใหม่หมายถึงการอ่านแต่ละคำ เมื่อเปรียบเทียบกับพอร์ข้อความนี้ถือว่าเป็นข้อตกลงที่ไม่ดีสำหรับเฮอร์คูเลส แต่วิธีการของเขานั้นยืดหยุ่นได้ทำให้มันทำงานได้สองครั้ง
+
+Step 14/284
+Thai - Armenian
+GLEUacc: 0.31688804554079697
+GLEUpap: 0.8453453453453453
+Size: 29
+HarmonicMean: 0.3030280363995979
+Reading new words means reading each word. Compared to the poor, this text is a bad deal for Hercules. But his method is flexible, allowing him to work twice
+Նոր բառեր կարդալը նշանակում է յուրաքանչյուր բառ կարդալ: Ի համեմատ فقարի ՝ այս տեքստը վատ գործարք է համարվում Հերկուլեսի համար: Բայց նրա մեթոդը ճկուն է, ինչը թույլ է տալիս երկու անգամ աշխատել
+
+Step 15/284
+Armenian - Swedish
+GLEUacc: 0.3235294117647059
+GLEUpap: 0.9174454828660437
+Size: 30
+HarmonicMean: 0.29452723381968465
+Reading new words means reading every word. Compared to the poor, this text is a bad deal for Hercules. But his method is flexible, which allows him to work twice
+Att läsa nya ord betyder att läsa varje ord. Jämfört med de fattiga är denna text en dålig affär för Hercules. Men hans metod är flexibel, vilket gör att han kan arbeta två gånger
+
+Step 16/284
+Swedish - Mongolian
+GLEUacc: 0.33586337760910817
+GLEUpap: 0.8480243161094225
+Size: 31
+HarmonicMean: 0.28675929870678946
+Reading a new word means reading each word. Compared to the poor, this text is a bad treaty for Hercules. However, his method is flexible and allows him to work twice
+Шинэ үг унших гэдэг нь үг бүрийг унших гэсэн үг юм. Ядуутай харьцуулахад энэ текст нь Hercules-ийн хувьд муу гэрээ юм. Гэхдээ түүний арга нь уян хатан бөгөөд энэ нь түүнд хоёр удаа ажиллах боломжийг олгодог
+
+Step 17/284
+Mongolian - Latvian
+GLEUacc: 0.33586337760910817
+GLEUpap: 1.0
+Size: 31
+HarmonicMean: 0.27962322754713076
+Reading a new word means reading each word. Compared to the poor, this text is a bad treaty for Hercules. However, his method is flexible and allows him to work twice
+Jauna vārda lasīšana nozīmē katra vārda lasīšanu. Salīdzinot ar nabadzīgajiem, šis teksts ir slikts Herkules līgums. Tomēr viņa metode ir elastīga un ļauj viņam strādāt divreiz
+
+Step 18/284
+Latvian - Amharic
+GLEUacc: 0.3235294117647059
+GLEUpap: 0.8753753753753754
+Size: 31
+HarmonicMean: 0.2730365937519524
+Reading a new word means reading every word. Compared to the poor, this article is a bad deal for Hercules. However, his method is flexible and allows it to work twice.
+አዲስ ቃል ማንበብ ማለት እያንዳንዱን ቃል ማንበብ ማለት ነው ፡፡ ከድሃው ጋር ሲነፃፀር ይህ ጽሑፍ ለሄርኩለስ መጥፎ ስምምነት ነው ፡፡ ሆኖም የእሱ ዘዴ ተለዋዋጭ ሲሆን ሁለት ጊዜ እንዲሠራ ያስችለዋል ፡፡
+
+Step 19/284
+Amharic - Filipino
+GLEUacc: 0.3519924098671727
+GLEUpap: 0.8731778425655977
+Size: 31
+HarmonicMean: 0.26693136119173083
+Reading a new word means reading each word. Compared to the poor, this article is a bad deal for Hercules. However, his technique is flexible and allows it to operate twice.
+Ang pagbabasa ng isang bagong salita ay nangangahulugang pagbabasa ng bawat salita. Kumpara sa mahihirap, ang artikulong ito ay isang masamang pakikitungo para sa Hercules. Gayunpaman, ang kanyang pamamaraan ay nababaluktot at pinapayagan itong gumana nang dalawang beses.
+
+Step 20/284
+Filipino - Ukrainian
+GLEUacc: 0.3605313092979127
+GLEUpap: 0.8954154727793696
+Size: 31
+HarmonicMean: 0.26125079792714717
+Reading a new word means reading every word. Compared to the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows her to operate twice.
+Читання нового слова означає читання кожного слова. У порівнянні з бідними, ця стаття є поганою справою для Геракла. Однак його техніка гнучка і дозволяє їй оперувати двічі.
+
+Step 21/284
+Ukrainian - Maltese
+GLEUacc: 0.3548387096774194
+GLEUpap: 0.9412607449856734
+Size: 30
+HarmonicMean: 0.2559471636046754
+Reading a new word means reading every word. Compared with the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows it operate twice.
+Qari ta ’kelma ġdida tfisser qari ta’ kull kelma. Meta mqabbel mal-foqra, dan l-artiklu huwa ħaġa ħażina għal Heracles. Madankollu, it-teknika tiegħu hija flessibbli u tippermettilha tħaddem darbtejn.
+
+Step 22/284
+Maltese - English
+GLEUacc: 0.3548387096774194
+GLEUpap: 1.0
+Size: 30
+HarmonicMean: 0.2509799510218234
+Reading a new word means reading every word. Compared with the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows it operate twice.
+Reading a new word means reading every word. Compared with the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows it operate twice.
+
+Step 23/284
+English - French
+GLEUacc: 0.3510436432637571
+GLEUpap: 0.8855072463768116
+Size: 31
+HarmonicMean: 0.2463145312783994
+Reading a new word means reading each word. Compared to the poor, this article is a bad thing for Heracles. However, his technique is flexible and allows him to work twice.
+Lire un nouveau mot signifie lire chaque mot. Comparé aux pauvres, cet article est une mauvaise chose pour Heracles. Cependant, sa technique est flexible et lui permet de fonctionner deux fois.
+
+Step 24/284
+French - Malay
+GLEUacc: 0.35009487666034156
+GLEUpap: 0.9017595307917888
+Size: 30
+HarmonicMean: 0.24192109729075972
+Reading new words means reading every word. Compared to the poor, this article is a bad thing for Heracles. However, the technique is flexible and allows it to work twice.
+Membaca perkataan baru bermakna membaca setiap perkataan. Berbanding dengan orang miskin, artikel ini adalah perkara buruk bagi Heracles. Walau bagaimanapun, tekniknya fleksibel dan membolehkannya bekerja dua kali.
+
+Step 25/284
+Malay - Persian
+GLEUacc: 0.33396584440227706
+GLEUpap: 0.9336283185840708
+Size: 30
+HarmonicMean: 0.23777383090823065
+Reading new words means reading every word. Compared to the poor, this article is a bad thing for Heracles. However, this method is flexible and allows it to work twice.
+خواندن کلمات جدید به معنی خواندن هر کلمه است. در مقایسه با فقرا ، این مقاله برای هراکلز چیز بدی است. با این حال ، این روش انعطاف پذیر است و به آن اجازه می دهد دو بار کار کند.
+
+Step 26/284
+Persian - Vietnamese
+GLEUacc: 0.34724857685009486
+GLEUpap: 0.9193548387096774
+Size: 30
+HarmonicMean: 0.23385023970310168
+Reading new words means reading each word. Compared to the poor, this article is a bad thing for Heracles. However, this method is flexible and allows it to function twice.
+Đọc từ mới có nghĩa là đọc từng từ. So với người nghèo, bài viết này là một điều xấu cho Heracles. Tuy nhiên, phương pháp này linh hoạt và cho phép nó hoạt động hai lần.
+
+Step 27/284
+Vietnamese - Malagasy
+GLEUacc: 0.3538899430740038
+GLEUpap: 0.8717948717948718
+Size: 31
+HarmonicMean: 0.23013062399005052
+Reading new words means reading each word individually. Compared to the poor, this article is a bad thing for Heracles. However, this method is fast and allows it to work twice.
+Ny famakiana teny vaovao dia midika hoe mamaky tsirairay ny teny tsirairay. Raha oharina amin'ny mahantra, ity lahatsoratra ity dia zavatra ratsy ho an'ny Herakôkalatra. Na izany aza, ity fomba ity dia haingam-pandeha ary mamela azy hiasa indroa.
+
+Step 28/284
+Malagasy - Catalan
+GLEUacc: 0.33586337760910817
+GLEUpap: 0.9145299145299145
+Size: 29
+HarmonicMean: 0.22659764485567577
+Reading new words means reading each word individually. Compared with the poor, this article is bad for Heracles. However, this method is fast and allows you to work twice.
+Llegir paraules noves significa llegir cada paraula individualment. En comparació amb els pobres, aquest article és dolent per a Heracles. Tot i això, aquest mètode és ràpid i li permet treballar dues vegades.
+
+Step 29/284
+Catalan - Hebrew
+GLEUacc: 0.33111954459203036
+GLEUpap: 0.969208211143695
+Size: 29
+HarmonicMean: 0.22323597129798592
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Heracles. However, this method is fast and allows you to work twice.
+קריאת מילים חדשות פירושה קריאה של כל מילה בנפרד. בהשוואה לעניים, מאמר זה רע להרקלס. עם זאת, שיטה זו מהירה ומאפשרת לך לעבוד פעמיים.
+
+Step 30/284
+Hebrew - Haitian Creole
+GLEUacc: 0.33111954459203036
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.22003198988272157
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Heracles. However, this method is fast and allows you to work twice.
+Lekti mo nouvo vle di li chak mo endividyèlman. Konpare ak pòv yo, atik sa a se move pou Heracles. Sepandan, metòd sa a vit epi li pèmèt ou travay de fwa.
+
+Step 31/284
+Haitian Creole - Icelandic
+GLEUacc: 0.33111954459203036
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.21697356421748426
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Heracles. However, this method is fast and allows you to work twice.
+Að lesa ný orð þýðir að lesa hvert orð fyrir sig. Í samanburði við fátæka, þá er þessi grein slæm fyrir Herakles. Hins vegar er þessi aðferð hröð og gerir þér kleift að vinna tvisvar.
+
+Step 32/284
+Icelandic - Albanian
+GLEUacc: 0.33111954459203036
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.2140498344337077
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Heracles. However, this method is fast and allows you to work twice.
+Të lexosh fjalë të reja do të thotë të lexosh secilën fjalë individualisht. Në krahasim me të varfërit, ky artikull është i keq për Heraklin. Sidoqoftë, kjo metodë është e shpejtë dhe ju lejon të punoni dy herë.
+
+Step 33/284
+Albanian - Greek
+GLEUacc: 0.31688804554079697
+GLEUpap: 0.9183976261127597
+Size: 29
+HarmonicMean: 0.21125104903205702
+Reading new words means reading each word separately. Compared to the poor, this article is bad for Hercules. However, this method is fast and allows you to work twice.
+Η ανάγνωση νέων λέξεων σημαίνει ανάγνωση κάθε λέξης ξεχωριστά. Σε σύγκριση με τους φτωχούς, αυτό το άρθρο είναι κακό για τον Ηρακλή. Ωστόσο, αυτή η μέθοδος είναι γρήγορη και σας επιτρέπει να εργάζεστε δύο φορές.
+
+Step 34/284
+Greek - Georgian
+GLEUacc: 0.31688804554079697
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.20856842308570575
+Reading new words means reading each word separately. Compared to the poor, this article is bad for Hercules. However, this method is fast and allows you to work twice.
+ახალი სიტყვების წაკითხვა ნიშნავს თითოეული სიტყვის ცალკე წაკითხვას. ღარიბებთან შედარებით, ეს სტატია ცუდია ჰერკულესისთვის. თუმცა, ეს მეთოდი სწრაფია და საშუალებას გაძლევთ ორჯერ იმუშაოთ.
+
+Step 35/284
+Georgian - Bulgarian
+GLEUacc: 0.3206831119544592
+GLEUpap: 0.8952802359882006
+Size: 29
+HarmonicMean: 0.2059940180473819
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Hercules. However, this method is quick and allows you to work twice.
+Четенето на нови думи означава да четете всяка дума поотделно. В сравнение с бедните, тази статия е лоша за Херкулес. Този метод обаче е бърз и ви позволява да работите два пъти.
+
+Step 36/284
+Bulgarian - Croatian
+GLEUacc: 0.3206831119544592
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.20352063936974163
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Hercules. However, this method is quick and allows you to work twice.
+Čitanje novih riječi znači čitanje svake riječi pojedinačno. U usporedbi sa siromašnima, ovaj je članak loš za Herculesa. Međutim, ova metoda je brza i omogućuje vam da radite dva puta.
+
+Step 37/284
+Croatian - Czech
+GLEUacc: 0.3206831119544592
+GLEUpap: 1.0
+Size: 29
+HarmonicMean: 0.2011417488965769
+Reading new words means reading each word individually. Compared to the poor, this article is bad for Hercules. However, this method is quick and allows you to work twice.
+Čtení nových slov znamená čtení každého slova samostatně. Ve srovnání s chudými je tento článek pro Hercules špatný. Tato metoda je však rychlá a umožňuje vám pracovat dvakrát.
+
+Step 38/284
+Czech - Burmese
+GLEUacc: 0.3092979127134725
+GLEUpap: 0.8171091445427728
+Size: 29
+HarmonicMean: 0.19885138956720783
+Reading new word means reading each word separately. Compared with the poor of this article is for Hercules bad. This method is quick and allows you to work twice.
+စကားလုံးအသစ် Reading တစ်ခုချင်းစီကိုသီးခြားစီစကားလုံးဖတ်နေဆိုလိုသည်။ ဆင်းရဲသောသူကိုနှင့်နှိုင်းယှဉ်ပါကဤဆောင်းပါး Hercules မကောင်းတဲ့အဘို့ဖြစ်၏။ ဤနည်းလမ်းကိုအမြန်ဖြစ်ပါတယ်နှင့်သင်နှစ်ကြိမ်အလုပ်လုပ်ရန်ခွင့်ပြုပါတယ်။
+
+Step 39/284
+Burmese - Hindi
+GLEUacc: 0.33206831119544594
+GLEUpap: 0.9194029850746268
+Size: 31
+HarmonicMean: 0.19664412043693197
+Reading a new word means reading each word separately. Hercules is for the bad compared with the poor of this article. This method is quick and allows you to work twice.
+नया शब्द पढ़ना प्रत्येक शब्द अलग से पढ़ने का मतलब है। इस लेख के गरीब के साथ तुलना में हरक्यूलिस बुरा के लिए है। इस विधि जल्दी है और आप दो बार काम करने के लिए अनुमति देता है।
+
+Step 40/284
+Hindi - Chinese (Simplified)
+GLEUacc: 0.32827324478178366
+GLEUpap: 0.8390313390313391
+Size: 32
+HarmonicMean: 0.19451496038143576
+Reading a new word means reading each word separately. Compared with the poor people in this article, Hercules is a bad person. This method is fast and allows you to work twice.
+读一个新单词意味着分别阅读每个单词。与本文的穷人相比，大力士是坏人。此方法快速，可让您工作两次。
+
+Step 41/284
+Chinese (Simplified) - Hungarian
+GLEUacc: 0.32637571157495254
+GLEUpap: 0.9501424501424501
+Size: 32
+HarmonicMean: 0.19245933914423086
+Reading a new word means reading each word separately. Compared to the poor people in the article, Hercules is a bad person. This method is fast and allows you to work twice.
+Új szó olvasása azt jelenti, hogy minden szót külön kell olvasni. A cikkben szereplő szegény emberekkel összehasonlítva Hercules rossz ember. Ez a módszer gyors és lehetővé teszi, hogy kétszer dolgozzon.
+
+Step 42/284
+Hungarian - Hausa
+GLEUacc: 0.3216318785578748
+GLEUpap: 0.8985507246376812
+Size: 31
+HarmonicMean: 0.1904730546197934
+Reading the new word means reading each word separately. Compared to the poor in the story, Hercules is a bad person. This method is fast and allows you to work twice.
+Karatun sabuwar kalma yana nufin karanta kowace kalma dabam. Idan aka kwatanta da talakawa a labarin, Hercules mummunan mutum ne. Wannan hanyar tana da sauri kuma tana baka damar aiki sau biyu.
+
+Step 43/284
+Hausa - Luxembourgish
+GLEUacc: 0.3178368121442125
+GLEUpap: 0.9123867069486404
+Size: 30
+HarmonicMean: 0.18855223545358404
+Reading the new word means reading each word individually. Compared to the poor in history, Hercules is a bad person. This method is fast and allows you to work twice.
+Dat neit Wuert ze liesen heescht bedeit all Wuert eenzel ze liesen. Am Verglach zu den Aarmen an der Geschicht ass den Hercules eng schlecht Persoun. Dës Method ass séier an erlaabt Iech zweemol ze schaffen.
+
+Step 44/284
+Luxembourgish - Lithuanian
+GLEUacc: 0.32922201138519924
+GLEUpap: 0.9424778761061947
+Size: 32
+HarmonicMean: 0.1866933081930389
+Reading a new word means reading each word individually. Compared to the poor man in the story, Hercules is a bad person. This method is fast and allows you to work twice.
+Skaityti naują žodį reiškia skaityti kiekvieną žodį atskirai. Palyginti su varganu istorijoje, Hercules yra blogas žmogus. Šis metodas yra greitas ir leidžia dirbti du kartus.
+
+Step 45/284
+Lithuanian - Spanish
+GLEUacc: 0.31688804554079697
+GLEUpap: 0.9690265486725663
+Size: 31
+HarmonicMean: 0.18489296834829777
+Reading a new word means reading each word individually. Compared to the poor man in history, Hercules is a bad person. This method is fast and allows you to work twice.
+Leer una nueva palabra significa leer cada palabra individualmente. Comparado con el pobre hombre de la historia, Hércules es una mala persona. Este método es rápido y le permite trabajar dos veces.
+
+Step 46/284
+Spanish - Kazakh
+GLEUacc: 0.2836812144212524
+GLEUpap: 0.8164179104477612
+Size: 29
+HarmonicMean: 0.18314815482358052
+A new word means reading each word separately. Hercules is a bad person compared to the poor man in history. This method allows you to work fast and twice.
+Жаңа сөз оқу әр сөзді жеке оқу дегенді білдіреді. Тарихтағы кедей адаммен салыстырғанда Геркулес жаман адам. Бұл әдіс жылдам және екі рет жұмыс істеуге мүмкіндік береді.
+
+Step 47/284
+Kazakh - Turkish
+GLEUacc: 0.2855787476280835
+GLEUpap: 0.9456869009584664
+Size: 29
+HarmonicMean: 0.18145602726419735
+A new word means reading each word separately. Hercules is a bad person compared to the poor man in history. This method allows you to work quickly and twice.
+Yeni bir kelime, her bir kelimeyi ayrı ayrı okumak anlamına gelir. Herkül, tarihteki zavallı adama kıyasla kötü bir insan. Bu yöntem hızlı ve iki kere çalışmanıza izin verir.
+
+Step 48/284
+Turkish - Arabic
+GLEUacc: 0.29316888045540795
+GLEUpap: 0.9290220820189274
+Size: 29
+HarmonicMean: 0.1798139459336831
+A new word means reading each word individually. Hercules is a bad person compared to the poor man in history. This method allows you to work quickly and twice.
+كلمة جديدة تعني قراءة كل كلمة على حدة. هرقل شخص سيء مقارنة بالرجل الفقير في التاريخ. هذه الطريقة تسمح لك بالعمل بسرعة ومرتين.
+
+Step 49/284
+Arabic - Urdu
+GLEUacc: 0.3036053130929791
+GLEUpap: 0.8943217665615142
+Size: 28
+HarmonicMean: 0.1782194537932496
+A new word means reading each word individually. Hercules is a worse person than the poorest man in history. This method allows you to work quickly and twice.
+ایک نئے لفظ کا مطلب ہر لفظ کو انفرادی طور پر پڑھنا ہے۔ تاریخ کے غریب آدمی کے مقابلے میں ہرکیولس ایک برا شخص ہے۔ یہ طریقہ آپ کو جلدی اور دو بار کام کرنے کی اجازت دیتا ہے۔
+
+Step 50/284
+Urdu - Sinhala
+GLEUacc: 0.2703984819734345
+GLEUpap: 0.8578274760383386
+Size: 24
+HarmonicMean: 0.1766702605038475
+A new word means reading each word individually. Hercules is the worst person in history. This method allows you to work quickly and twice.
+නව වචනයක් යනු එක් එක් වචනය තනි තනිව කියවීමයි. හර්කියුලිස් යනු ඉතිහාසයේ දුප්පත්ම මිනිසාට වඩා නරක පුද්ගලයෙකි. මෙම ක්‍රමය මඟින් ඔබට ඉක්මනින් හා දෙවරක් වැඩ කිරීමට ඉඩ ලබා දේ.
+
+Step 51/284
+Sinhala - Bosnian
+GLEUacc: 0.2703984819734345
+GLEUpap: 1.0
+Size: 24
+HarmonicMean: 0.17516422811137736
+A new word means reading each word individually. Hercules is the worst person in history. This method allows you to work quickly and twice.
+Nova riječ znači čitanje svake riječi pojedinačno. Hercules je najgora osoba u historiji. Ova metoda vam omogućuje brz i dvaput rad.
+
+Step 52/284
+Bosnian - Russian
+GLEUacc: 0.2703984819734345
+GLEUpap: 1.0
+Size: 24
+HarmonicMean: 0.17369935820939114
+A new word means reading each word individually. Hercules is the worst person in history. This method allows you to work quickly and twice.
+Новое слово означает чтение каждого слова в отдельности. Геркулес - худший человек в истории. Этот метод позволяет работать быстро и дважды.
+
+Step 53/284
+Russian - Portuguese
+GLEUacc: 0.2703984819734345
+GLEUpap: 1.0
+Size: 24
+HarmonicMean: 0.17227378040211597
+A new word means reading each word individually. Hercules is the worst person in history. This method allows you to work quickly and twice.
+Uma nova palavra significa ler cada palavra individualmente. Hércules é a pior pessoa da história. Este método permite que você trabalhe rapidamente e duas vezes.
+
+Step 54/284
+Portuguese - Samoan
+GLEUacc: 0.24573055028462998
+GLEUpap: 0.8636363636363636
+Size: 23
+HarmonicMean: 0.1708857419147264
+A new word means reading each word. Hercules is the worst villain in history. This method allows you to work quickly and twice.
+O se upu fou o lona uiga o le faitauina o upu taʻitasi. O Hercules o le tagata sili ona leaga i le tala faasolopito. O lenei metotia e mafai ai ona e galue vave ma faalua.
+
+Step 55/284
+Samoan - Bengali
+GLEUacc: 0.2504743833017078
+GLEUpap: 0.9764705882352941
+Size: 23
+HarmonicMean: 0.16953359821823627
+The new word means reading each word. Hercules is the worst villain in history. This method allows you to work quickly and twice.
+নতুন শব্দটির অর্থ প্রতিটি শব্দ পড়া। হারকিউলিস ইতিহাসের সবচেয়ে খারাপ ভিলেন। এই পদ্ধতিটি আপনাকে দ্রুত এবং দু'বার কাজ করতে দেয়।
+
+Step 56/284
+Bengali - Italian
+GLEUacc: 0.23434535104364326
+GLEUpap: 0.9182879377431906
+Size: 24
+HarmonicMean: 0.16821580455378105
+The new word means to read every word. Hercules is the worst villain in history. This method allows you to work quickly and twice.
+La nuova parola significa leggere ogni parola. Ercole è il peggior cattivo della storia. Questo metodo ti consente di lavorare rapidamente e due volte.
+
+Step 57/284
+Italian - Maori
+GLEUacc: 0.2314990512333966
+GLEUpap: 0.9357976653696498
+Size: 24
+HarmonicMean: 0.1669309082559199
+The new word means to read every word. Hercules is the worst crime in history. This method allows you to work quickly and twice.
+Ko te kupu hou ko te tikanga ki te panui i nga kupu katoa. Ko Hercules te kino kino rawa o te hitori. Ma tenei tikanga ka taea e koe te mahi tere me te rua.
+
+Step 58/284
+Maori - Indonesian
+GLEUacc: 0.22675521821631878
+GLEUpap: 0.9762845849802372
+Size: 24
+HarmonicMean: 0.16567754178730526
+A new word means to read every word. Hercules is the worst crime in history. This method allows you to work quickly and twice.
+Kata baru berarti membaca setiap kata. Hercules adalah kejahatan terburuk dalam sejarah. Metode ini memungkinkan Anda bekerja dengan cepat dan dua kali.
+
+Step 59/284
+Indonesian - Kurdish
+GLEUacc: 0.23719165085388993
+GLEUpap: 0.9578313253012049
+Size: 23
+HarmonicMean: 0.16445441640799055
+A new word means reading every word. Hercules is the worst crime in history. This method allows you to work quickly and twice.
+Gotinek nû tê wateya xwendina her peyvan. Hercules sûcê herî xirab ê dîrokê ye. Ev rêbaz dihêle hûn zû û du caran kar bikin.
+
+Step 60/284
+Kurdish - Macedonian
+GLEUacc: 0.22675521821631878
+GLEUpap: 0.9578313253012049
+Size: 24
+HarmonicMean: 0.16326031641205102
+A new word means to read every word. Hercules is the worst crime in history. This method allows you to work quickly and twice.
+Нов збор значи да се чита секој збор. Херкулес е најлошото злосторство во историјата. Овој метод ви овозможува да работите брзо и двапати.
+
+Step 61/284
+Macedonian - Dutch
+GLEUacc: 0.23908918406072105
+GLEUpap: 0.8333333333333334
+Size: 23
+HarmonicMean: 0.16209409387230922
+A new word means reading every word. Hercules is the worst crime in history. You can work quickly and twice with this method.
+Een nieuw woord betekent elk woord lezen. Hercules is de ergste misdaad in de geschiedenis. Met deze methode kunt u snel en twee keer werken.
+
+Step 62/284
+Dutch - Swahili
+GLEUacc: 0.24383301707779886
+GLEUpap: 0.9760956175298805
+Size: 23
+HarmonicMean: 0.16095466384098225
+The new word means reading every word. Hercules is the worst crime in history. You can work quickly and twice with this method.
+Neno jipya linamaanisha kusoma kila neno. Hercules ni uhalifu mbaya zaidi katika historia. Unaweza kufanya kazi haraka na mara mbili na njia hii.
+
+Step 63/284
+Swahili - Uzbek
+GLEUacc: 0.24193548387096775
+GLEUpap: 0.9407114624505929
+Size: 23
+HarmonicMean: 0.15984099996016174
+The new word means reading every word. Hercules is the worst crime in history. With this method, you can work quickly and twice.
+Yangi so'z har bir so'zni o'qishni anglatadi. Gerkules tarixdagi eng yomon jinoyatdir. Ushbu usul bilan siz tez va ikki marta ishlashingiz mumkin.
+
+Step 64/284
+Uzbek - Lao
+GLEUacc: 0.22106261859582543
+GLEUpap: 0.8478260869565217
+Size: 23
+HarmonicMean: 0.1587521304413372
+The new word means to read every word. Hercules is the worst crime in history. This way, you can work quickly and twice.
+ຄຳ ສັບ ໃໝ່ ໝາຍ ເຖິງການອ່ານທຸກ ຄຳ. Hercules ແມ່ນອາຊະຍາກໍາທີ່ຮ້າຍແຮງທີ່ສຸດໃນປະຫວັດສາດ. ດ້ວຍວິທີນີ້, ທ່ານສາມາດເຮັດວຽກໄດ້ໄວແລະສອງຄັ້ງ.
+
+Step 65/284
+Lao - Slovenian
+GLEUacc: 0.21347248576850095
+GLEUpap: 0.8459915611814346
+Size: 23
+HarmonicMean: 0.15768713437779192
+A new word means to read every word. Hercules is the worst crime in history. So you can do it quickly and twice.
+Nova beseda pomeni prebrati vsako besedo. Hercules je najhujši zločin v zgodovini. Tako lahko hitro in dvakrat delate.
+
+Step 66/284
+Slovenian - Chinese (Traditional)
+GLEUacc: 0.2428842504743833
+GLEUpap: 0.6593625498007968
+Size: 23
+HarmonicMean: 0.15664513835773447
+A new word means reading every word. Hercules is the most serious crime in history. Therefore, you can do this again and again.
+一個新單詞意味著閱讀每個單詞。大力神是歷史上最嚴重的犯罪。因此，您可以一次又一次地執行此操作。
+
+Step 67/284
+Chinese (Traditional) - Romanian
+GLEUacc: 0.2314990512333966
+GLEUpap: 0.9063745019920318
+Size: 22
+HarmonicMean: 0.1556253133495613
+A new word means reading every word. Hercules is the worst crime in history. Therefore, you can do this again and again.
+Un cuvânt nou înseamnă a citi fiecare cuvânt. Hercules este cea mai gravă crimă din istorie. Prin urmare, puteți face acest lucru din nou și din nou.
+
+Step 68/284
+Romanian - Danish
+GLEUacc: 0.2409867172675522
+GLEUpap: 0.9081632653061225
+Size: 23
+HarmonicMean: 0.15462687183374185
+A new word means reading every word. Hercules is the worst crime in history. Therefore, you can do this over and over again.
+Et nyt ord betyder at læse hvert ord. Hercules er den værste forbrydelse i historien. Derfor kan du gøre dette igen og igen.
+
+Step 69/284
+Danish - Shona
+GLEUacc: 0.22675521821631878
+GLEUpap: 0.8408163265306122
+Size: 20
+HarmonicMean: 0.1536490651585418
+The new word means reading every word. Hercules is the worst crime in history. Therefore, you can do this repeatedly.
+Izwi nyowani rinoreva kuverenga izwi rega rega. Hercules ndiyo mhosva yakaipa kwazvo munhoroondo. Naizvozvo, iwe unogona kuita izvi nekudzokorora.
+
+Step 70/284
+Shona - Korean
+GLEUacc: 0.1954459203036053
+GLEUpap: 0.8311688311688312
+Size: 21
+HarmonicMean: 0.15269118109919663
+A new word means to read every word. Hercules is the worst crime in history. So you can do this repeatedly.
+새로운 단어는 모든 단어를 읽는 것을 의미합니다. 헤라클레스는 역사상 최악의 범죄입니다. 따라서이 작업을 반복해서 수행 할 수 있습니다.
+
+Step 71/284
+Korean - Polish
+GLEUacc: 0.2030360531309298
+GLEUpap: 0.7345971563981043
+Size: 20
+HarmonicMean: 0.15175254160226329
+A new word means reading each word. Hercules is the worst crime in history. You can do it many times.
+Nowe słowo oznacza czytanie każdego słowa. Hercules jest najgorszą zbrodnią w historii. Możesz to zrobić wielokrotnie.
+
+Step 72/284
+Polish - Lithuanian
+GLEUacc: 0.2049335863377609
+GLEUpap: 0.9507389162561576
+Size: 20
+HarmonicMean: 0.15083250069874737
+A new word means reading each word. Hercules is the worst crime in history. You can do this many times.
+Naujas žodis reiškia kiekvieno žodžio perskaitymą. Hercules yra pats blogiausias nusikaltimas istorijoje. Tai galite padaryti daugybę kartų.
+
+Step 73/284
+Lithuanian - Spanish
+GLEUacc: 0.2049335863377609
+GLEUpap: 1.0
+Size: 20
+HarmonicMean: 0.1499304425712593
+A new word means reading each word. Hercules is the worst crime in history. You can do this many times.
+Una nueva palabra significa leer cada palabra. Hércules es el peor crimen de la historia. Puedes hacer esto muchas veces.
+
+Step 74/284
+Spanish - Lao
+GLEUacc: 0.20967741935483872
+GLEUpap: 0.9210526315789473
+Size: 20
+HarmonicMean: 0.14904577976192135
+A new word means reading each word. Hercules is the worst crime in history. You can do this several times.
+ຄຳ ສັບ ໃໝ່ ໝາຍ ເຖິງການອ່ານແຕ່ລະ ຄຳ. Hercules ແມ່ນອາຊະຍາກໍາທີ່ຮ້າຍແຮງທີ່ສຸດໃນປະຫວັດສາດ. ທ່ານສາມາດເຮັດສິ່ງນີ້ໄດ້ຫຼາຍຄັ້ງ.
+
+Step 75/284
+Lao - Bengali
+GLEUacc: 0.22770398481973433
+GLEUpap: 0.8149779735682819
+Size: 22
+HarmonicMean: 0.14817795150905222
+The new word means reading each word. The worst crime in Hercules history is the worst you can do it several times.
+নতুন শব্দটির অর্থ প্রতিটি শব্দ পড়া। হারকিউলিস ইতিহাসের সবচেয়ে খারাপ অপরাধ worst আপনি এটি বেশ কয়েকবার করতে পারেন।
+
+Step 76/284
+Bengali - Japanese
+GLEUacc: 0.24573055028462998
+GLEUpap: 0.7795918367346939
+Size: 23
+HarmonicMean: 0.1473264222018173
+A new word means reading each word. The worst crime in Hercules history is the worst crime that can be performed many times.
+新しい単語は、各単語を読むことを意味します。 Hercules史上最悪の犯罪は、何度も実行できる最悪の犯罪です。
+
+Step 77/284
+Japanese - Bosnian
+GLEUacc: 0.24003795066413663
+GLEUpap: 0.8229571984435797
+Size: 23
+HarmonicMean: 0.1464906799430679
+A new word means reading every word. The worst crime in Herculean history is the worst crime that can be committed multiple times.
+Nova riječ znači čitanje svake riječi. Najgori zločin u Herkulovoj historiji je najgori zločin koji se može počiniti više puta.
+
+Step 78/284
+Bosnian - English
+GLEUacc: 0.24003795066413663
+GLEUpap: 1.0
+Size: 23
+HarmonicMean: 0.14567023521151712
+A new word means reading every word. The worst crime in Herculean history is the worst crime that can be committed multiple times.
+A new word means reading every word. The worst crime in Herculean history is the worst crime that can be committed multiple times.
+
+Step 79/284
+English - Czech
+GLEUacc: 0.24478178368121442
+GLEUpap: 0.9571984435797666
+Size: 23
+HarmonicMean: 0.14486461961522606
+A new word means reading each word. The worst crime in Herculean history is the worst crime that can be committed multiple times.
+Nové slovo znamená čtení každého slova. Nejhorší zločin v herkulovské historii je nejhorší zločin, který lze spáchat vícekrát.
+
+Step 80/284
+Czech - Hebrew
+GLEUacc: 0.2637571157495256
+GLEUpap: 0.7473498233215548
+Size: 25
+HarmonicMean: 0.14407338472911385
+A new word means reading every word. The most serious crime in Herculean history is the most serious crime that can be committed several times.
+מילה חדשה פירושה קריאה של כל מילה. הפשע החמור ביותר בהיסטוריה ההרקולאית הוא הפשע החמור ביותר שניתן לבצע מספר פעמים.
+
+Step 81/284
+Hebrew - Samoan
+GLEUacc: 0.26280834914611007
+GLEUpap: 0.8745583038869258
+Size: 26
+HarmonicMean: 0.14329610100986906
+A new word means to read every word. The most serious crime in Herculean history is the most serious offense that can be committed many times.
+O se upu fou o lona uiga o le faitauina o upu uma. O le solitulafono pito sili ona ogaoga i le talafaasolopito o Herculean o le soligatulafono matuia lea e mafai ona faia i le tele o taimi.
+
+Step 82/284
+Samoan - Malay
+GLEUacc: 0.2637571157495256
+GLEUpap: 0.9234875444839857
+Size: 24
+HarmonicMean: 0.14253235678223553
+New words mean reading every word. The most serious crime in Herculean history is the most serious offense that can be committed many times.
+Perkataan baru bermakna membaca setiap perkataan. Jenayah yang paling serius dalam sejarah Herculean adalah kesalahan paling serius yang boleh dilakukan berkali-kali.
+
+Step 83/284
+Malay - Uzbek
+GLEUacc: 0.23908918406072105
+GLEUpap: 0.7833935018050542
+Size: 22
+HarmonicMean: 0.14178175729118067
+New words mean reading every word. The most serious crime in Herculean history is the worst crime that can happen many times.
+Yangi so'zlar har bir so'zni o'qishni anglatadi. Herkulean tarixidagi eng og'ir jinoyat bu ko'p marta sodir etilishi mumkin bo'lgan eng og'ir jinoyatdir.
+
+Step 84/284
+Uzbek - Hausa
+GLEUacc: 0.2333965844402277
+GLEUpap: 0.8704453441295547
+Size: 21
+HarmonicMean: 0.14104392381493802
+New words mean reading every word. The greatest crime in Herculean history is the greatest crime that can happen many times.
+Sabbin kalmomi suna nufin karanta kowace kalma. Mafi girman laifi a tarihin Herculean shine mafi girman laifi wanda zai iya faruwa sau da yawa.
+
+Step 85/284
+Hausa - Chinese (Simplified)
+GLEUacc: 0.22675521821631878
+GLEUpap: 0.8387755102040816
+Size: 21
+HarmonicMean: 0.14031849283434925
+New words mean reading every word. The biggest crime in Herculean history is the biggest crime that can occur many times.
+新单词意味着阅读每个单词。 Herculean历史上最大的罪行是可能发生多次的最大罪行。
+
+Step 86/284
+Chinese (Simplified) - Turkish
+GLEUacc: 0.2314990512333966
+GLEUpap: 0.8224489795918367
+Size: 21
+HarmonicMean: 0.1396051152543243
+New words mean reading every word. The greatest crime in Hercules' history is the greatest crime that can happen many times.
+Yeni kelimeler, her kelimeyi okumak anlamına gelir. Herkül tarihinin en büyük suçu, birçok kez meydana gelebilecek en büyük suçtur.
+
+Step 87/284
+Turkish - Burmese
+GLEUacc: 0.18785578747628084
+GLEUpap: 0.6204081632653061
+Size: 18
+HarmonicMean: 0.13890345567359266
+New means to read word for word. Hercules history's greatest crimes may occur several times, the greatest crime.
+နယူးစကားသည်စကားလုံးဖတ်ရှုဖို့ကိုဆိုလိုသည်။ ဟာကြူလီသမိုင်းရဲ့အကြီးမြတ်ဆုံးရာဇဝတ်မှုများ, အကြိမ်ပေါင်းများစွာဖြစ်ပေါ်စေခြင်းငှါအကြီးမြတ်ဆုံးရာဇဝတ်မှုဖြစ်ပါတယ်။
+
+Step 88/284
+Burmese - Chichewa
+GLEUacc: 0.17267552182163187
+GLEUpap: 0.6085972850678733
+Size: 16
+HarmonicMean: 0.13821319169923946
+New way to read words. Hercules records most cases occur several times, the most serious crime.
+Latsopano njira kuwerenga mawu. Hercules mbiri milandu kwambiri kumachitika kangapo, upandu kwambiri.
+
+Step 89/284
+Chichewa - Chinese (Traditional)
+GLEUacc: 0.18311195445920303
+GLEUpap: 0.7277486910994765
+Size: 18
+HarmonicMean: 0.13753401330281192
+A new way to read words. Hercules recorded most cases in the most recent cases, the most serious.
+閱讀單詞的新方法。 Hercules記錄大多數案件發生過幾次，最嚴重。
+
+Step 90/284
+Chinese (Traditional) - Nepali
+GLEUacc: 0.1793168880455408
+GLEUpap: 0.9083769633507853
+Size: 17
+HarmonicMean: 0.13686562221504375
+A new way to read words. Hercules recorded the most serious cases in the most recent cases.
+शब्दहरू पढ्ने नयाँ तरिका। हर्क्युलसले सबैभन्दा हालका केसहरूमा सब भन्दा गम्भीर मामिलाहरू रेकर्ड गर्‍यो।
+
+Step 91/284
+Nepali - Swedish
+GLEUacc: 0.17362428842504743
+GLEUpap: 0.8379888268156425
+Size: 15
+HarmonicMean: 0.13620773135648642
+A new way of reading words. Hercules recorded the most serious cases in recent cases.
+Ett nytt sätt att läsa ord. Hercules registrerade de allvarligaste fallen i de senaste fallen.
+
+Step 92/284
+Swedish - Kurdish
+GLEUacc: 0.18026565464895636
+GLEUpap: 0.8428571428571429
+Size: 15
+HarmonicMean: 0.13556006430155207
+A new way of reading words. Hercules recorded the most serious incidents in recent years.
+Rêbazek nû ya xwendina peyvan. Hercules di bûyerên dawî de bûyerên herî giran tomar kir.
+
+Step 93/284
+Kurdish - Haitian Creole
+GLEUacc: 0.18026565464895636
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.13492235477367254
+A new way of reading words. Hercules recorded the most serious incidents in recent years.
+Yon nouvo fason pou li mo. Hercules anrejistre ensidan ki pi grav nan dènye ane yo.
+
+Step 94/284
+Haitian Creole - Thai
+GLEUacc: 0.16698292220113853
+GLEUpap: 0.7571428571428571
+Size: 15
+HarmonicMean: 0.13429434616945787
+A new way to read vocabulary. Hercules records the most serious events in recent years.
+วิธีใหม่ในการอ่านคำศัพท์ Hercules บันทึกเหตุการณ์ที่ร้ายแรงที่สุดในช่วงไม่กี่ปีที่ผ่านมา
+
+Step 95/284
+Thai - German
+GLEUacc: 0.16793168880455409
+GLEUpap: 0.9298245614035088
+Size: 15
+HarmonicMean: 0.13367579110990357
+A new way to read vocabulary: Hercules records the most serious events of recent years.
+Eine neue Art, Vokabeln zu lesen: Hercules zeichnet die schwerwiegendsten Ereignisse der letzten Jahre auf.
+
+Step 96/284
+German - Ukrainian
+GLEUacc: 0.17172675521821631
+GLEUpap: 0.9132947976878613
+Size: 15
+HarmonicMean: 0.13306645101684456
+A new way to read vocabulary: Hercules captures the most serious events of recent years.
+Новий спосіб читання лексики: Геркулес фіксує найсерйозніші події останніх років.
+
+Step 97/284
+Ukrainian - Icelandic
+GLEUacc: 0.1840607210626186
+GLEUpap: 0.9134078212290503
+Size: 15
+HarmonicMean: 0.13246609571299237
+A new way of reading vocabulary: Hercules captures the most serious events of recent years.
+Ný leið til að lesa orðaforða: Hercules fangar alvarlegustu atburði síðustu ára.
+
+Step 98/284
+Icelandic - Georgian
+GLEUacc: 0.18026565464895636
+GLEUpap: 0.7461538461538462
+Size: 17
+HarmonicMean: 0.1318745030440166
+A New Way of Reading Vocabulary: Hercules conquers some of the most serious events of recent years.
+ლექსიკის წაკითხვის ახალი გზა: ჰერკულესი იპყრობს ბოლო წლების ყველაზე სერიოზულ მოვლენებს.
+
+Step 99/284
+Georgian - Italian
+GLEUacc: 0.20208728652751423
+GLEUpap: 0.8299492385786802
+Size: 18
+HarmonicMean: 0.13129145852124655
+A new way to read the vocabulary: Hercules conquers some of the most serious events of recent years.
+Un nuovo modo di leggere il vocabolario: Ercole conquista alcuni degli eventi più gravi degli ultimi anni.
+
+Step 100/284
+Italian - Portuguese
+GLEUacc: 0.18975332068311196
+GLEUpap: 0.9517766497461929
+Size: 17
+HarmonicMean: 0.13071675498367477
+A new way to read vocabulary: Hercules conquers some of the most serious events of recent years.
+Uma nova maneira de ler o vocabulário: Hércules conquista alguns dos eventos mais graves dos últimos anos.
+
+Step 101/284
+Portuguese - Kazakh
+GLEUacc: 0.1888045540796964
+GLEUpap: 0.746031746031746
+Size: 17
+HarmonicMean: 0.13015019227804006
+A new way to learn lexicon: Hercules conquer some of the most important events of recent years.
+Лексиканы оқудың жаңа тәсілі: Геркулес соңғы жылдардағы кейбір маңызды оқиғаларды жеңеді.
+
+Step 102/284
+Kazakh - Arabic
+GLEUacc: 0.21347248576850095
+GLEUpap: 0.8208955223880597
+Size: 18
+HarmonicMean: 0.12959157695585624
+A new way to learn the lexicon: Heraclius overcomes some of the most important events of recent years.
+طريقة جديدة لتعلم المعجم: يتغلب هرقل على بعض الأحداث الأكثر أهمية في السنوات الأخيرة.
+
+Step 103/284
+Arabic - French
+GLEUacc: 0.21347248576850095
+GLEUpap: 1.0
+Size: 18
+HarmonicMean: 0.12904072198633426
+A new way to learn the lexicon: Heraclius overcomes some of the most important events of recent years.
+Une nouvelle façon d'apprendre le lexique: Héraclius surmonte certains des événements les plus importants de ces dernières années.
+
+Step 104/284
+French - Persian
+GLEUacc: 0.19924098671726756
+GLEUpap: 0.8830845771144279
+Size: 17
+HarmonicMean: 0.12849744648422062
+A new way to learn vocabulary: Heraclius overcomes some of the most important events of recent years.
+یک روش جدید برای یادگیری واژگان: هراکلیوس بر برخی از مهمترین وقایع سالهای اخیر غلبه می کند.
+
+Step 105/284
+Persian - Greek
+GLEUacc: 0.18026565464895636
+GLEUpap: 0.7788944723618091
+Size: 17
+HarmonicMean: 0.1279615754516425
+A New Way to Learn Vocabulary: Heraklion surpasses some of the most important events of recent years.
+Ένας νέος τρόπος για να μάθετε λεξιλόγιο: Ο Ηράκλειος ξεπερνάει μερικά από τα πιο σημαντικά γεγονότα των τελευταίων ετών.
+
+Step 106/284
+Greek - Vietnamese
+GLEUacc: 0.1888045540796964
+GLEUpap: 0.7889447236180904
+Size: 17
+HarmonicMean: 0.12743293953311477
+A new way to learn vocabulary: Heraklion overcomes some of the most important events in recent years.
+Một cách mới để học từ vựng: Heraklion vượt qua một số sự kiện quan trọng nhất trong những năm gần đây.
+
+Step 107/284
+Vietnamese - Zulu
+GLEUacc: 0.18500948766603414
+GLEUpap: 0.9045226130653267
+Size: 17
+HarmonicMean: 0.12691137478292197
+A new way to learn vocabulary: Heraklion wins some of the most important events in recent years.
+Indlela entsha yokufunda silulumagama: IHeraklion inqoba eminye imicimbi ebaluleke kakhulu eminyakeni yamuva.
+
+Step 108/284
+Zulu - Hungarian
+GLEUacc: 0.1432637571157495
+GLEUpap: 0.6798941798941799
+Size: 13
+HarmonicMean: 0.12639672244414146
+A new way to learn vocabulary: Heraklion wins the highlights of recent years.
+A szókincs elsajátításának új módja: Heraklion nyeri az elmúlt évek legfontosabb eseményeit.
+
+Step 109/284
+Hungarian - Albanian
+GLEUacc: 0.12808349146110057
+GLEUpap: 0.826797385620915
+Size: 13
+HarmonicMean: 0.1258888287386253
+A New Way to Learn Vocabulary: Heraklion gains the highlights of recent years.
+Një mënyrë e re për të mësuar fjalorin: Heraklion fiton pikat kryesore të viteve të fundit.
+
+Step 110/284
+Albanian - Bulgarian
+GLEUacc: 0.19070208728652752
+GLEUpap: 0.5431472081218274
+Size: 17
+HarmonicMean: 0.12538754466730234
+A new way to learn vocabulary: Heraklion has been making the most important moments of recent years.
+Нов начин за учене на речник: Ираклион печели най-важните моменти от последните години.
+
+Step 111/284
+Bulgarian - Serbian
+GLEUacc: 0.19449715370018975
+GLEUpap: 0.9378109452736318
+Size: 17
+HarmonicMean: 0.12489272582020627
+A new way to learn vocabulary: Heraklion has been creating the most important moments of recent years.
+Нови начин за учење вокабулара: Хераклион ствара најважније моменте последњих година.
+
+Step 112/284
+Serbian - Hindi
+GLEUacc: 0.1869070208728653
+GLEUpap: 0.9104477611940298
+Size: 16
+HarmonicMean: 0.1244042321956737
+A new way to learn vocabulary: Heraklion is creating the most important moments of recent years.
+शब्दावली सीखने का एक नया तरीका: हेराक्लिओन हाल के वर्षों के सबसे महत्वपूर्ण क्षणों का निर्माण कर रहा है।
+
+Step 113/284
+Hindi - Danish
+GLEUacc: 0.17172675521821631
+GLEUpap: 0.8915343915343915
+Size: 15
+HarmonicMean: 0.1239219280281925
+A new way to learn vocabulary: Heraklion creates the most important moments in recent years.
+En ny måde at lære ordforråd på: Heraklion skaber de vigtigste øjeblikke i de senere år.
+
+Step 114/284
+Danish - Amharic
+GLEUacc: 0.1442125237191651
+GLEUpap: 0.7209944751381215
+Size: 15
+HarmonicMean: 0.12344568162441531
+A New Way to Learn Vocabulary: Hiracion has created some important moments in recent years.
+የቃላት አጠቃቀምን ለመማር አዲስ መንገድ-ሂራክዮን ከቅርብ ዓመታት ወዲህ በጣም አስፈላጊ የሆኑ አፍታዎችን ይፈጥራል ፡፡
+
+Step 115/284
+Amharic - Shona
+GLEUacc: 0.16888045540796964
+GLEUpap: 0.8179487179487179
+Size: 18
+HarmonicMean: 0.12297536520688324
+A New Way to Learn Volume: Hiracion has created some of the most important moments in recent years.
+Nzira Itsva Yekudzidza Vhoriyamu: Hiracion yakagadzira dzimwe nguva dzakakosha mumakore achangopfuura.
+
+Step 116/284
+Shona - Polish
+GLEUacc: 0.15749525616698293
+GLEUpap: 0.6128205128205129
+Size: 16
+HarmonicMean: 0.12251085476503464
+A new way to learn Tom: Hiracion has created some of the highlights of recent years.
+Nowy sposób na naukę Tom: Hiracion stworzył niektóre z najważniejszych momentów w ostatnich latach.
+
+Step 117/284
+Polish - Slovak
+GLEUacc: 0.15749525616698293
+GLEUpap: 1.0
+Size: 16
+HarmonicMean: 0.1220520299131002
+A new way to learn Tom: Hiracion has created some of the highlights of recent years.
+Nový spôsob, ako sa naučiť Tom: Hiracion vytvoril niektoré z vrcholov posledných rokov.
+
+Step 118/284
+Slovak - Irish
+GLEUacc: 0.13757115749525617
+GLEUpap: 0.7818181818181819
+Size: 15
+HarmonicMean: 0.12159877375451063
+A new way to learn Tom: Some recent years highlights have been created by Hiracion.
+Bealach nua chun foghlaim Tom: Tá cuid de bhuaicphointí blianta beaga anuas cruthaithe ag Hiracion.
+
+Step 119/284
+Irish - Slovenian
+GLEUacc: 0.1015180265654649
+GLEUpap: 0.5766871165644172
+Size: 13
+HarmonicMean: 0.12115097275246679
+A New Way to Learn Tom: Hiracion has created some in recent years.
+Nov način učenja Toma: Hiracion je ustvaril nekaj zadnjih let.
+
+Step 120/284
+Slovenian - Russian
+GLEUacc: 0.10910815939278938
+GLEUpap: 0.8925925925925926
+Size: 13
+HarmonicMean: 0.1207085166063434
+A New Way to Learn Tom: Hiracion has created several in recent years.
+Новый способ учиться Том: Hiracion создал несколько в последние годы.
+
+Step 121/284
+Russian - Armenian
+GLEUacc: 0.12333965844402277
+GLEUpap: 0.8555555555555555
+Size: 13
+HarmonicMean: 0.12027129813361745
+A new way to learn Tom. Hiracion has created several in recent years.
+Թոմին սովորելու նոր միջոց. Hiracion- ը վերջին տարիներին ստեղծել է մի քանիսը:
+
+Step 122/284
+Armenian - Finnish
+GLEUacc: 0.12333965844402277
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.11983921315703158
+A new way to learn Tom. Hiracion has created several in recent years.
+Uusi tapa oppia Tomia. Hiracion on luonut useita viime vuosina.
+
+Step 123/284
+Finnish - Sinhala
+GLEUacc: 0.1157495256166983
+GLEUpap: 0.9555555555555556
+Size: 12
+HarmonicMean: 0.11941216039671988
+New way to learn Tom. Hiracion has created several in recent years.
+ටොම් ඉගෙන ගැනීමට නව ක්‍රමයක්. Hiracion මෑත වසරවලදී කිහිපයක් නිර්මාණය කර ඇත.
+
+Step 124/284
+Sinhala - Romanian
+GLEUacc: 0.11195445920303605
+GLEUpap: 0.8778625954198473
+Size: 12
+HarmonicMean: 0.11899004136703954
+New way to learn Tom. Hiracion has created more in recent years.
+Nou mod de a învăța Tom. Hiracion a creat mai multe în ultimii ani.
+
+Step 125/284
+Romanian - Malagasy
+GLEUacc: 0.14895635673624288
+GLEUpap: 0.6666666666666666
+Size: 15
+HarmonicMean: 0.11857276027786769
+A new way of learning about Tom. Hiracion has been more creative in recent years.
+Fomba vaovao hianarana an'i Tom. Hiracion dia namorona bebe kokoa tato anatin'ny taona vitsivitsy.
+
+Step 126/284
+Malagasy - Luxembourgish
+GLEUacc: 0.1442125237191651
+GLEUpap: 0.8647798742138365
+Size: 15
+HarmonicMean: 0.11816022394013609
+A new way to learn about Tom. Hiracion has become more creative in recent years.
+En neie Wee fir iwwer den Tom ze léieren. Hiracion gouf an de leschte Joere méi kreativ.
+
+Step 127/284
+Luxembourgish - Dutch
+GLEUacc: 0.1442125237191651
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.11775234167539021
+A new way to learn about Tom. Hiracion has become more creative in recent years.
+Een nieuwe manier om over Tom te leren. Hiracion is de afgelopen jaren creatiever geworden.
+
+Step 128/284
+Dutch - Maori
+GLEUacc: 0.14800759013282733
+GLEUpap: 0.6094674556213018
+Size: 16
+HarmonicMean: 0.11734902522917119
+A new way of learning about Tom. Hiracion has gained momentum over the past few years.
+He huarahi hou hei ako mo Tom. Kua kaha ake a Hiracion i roto i nga tau kua pahure.
+
+Step 129/284
+Maori - Mongolian
+GLEUacc: 0.1527514231499051
+GLEUpap: 0.6035502958579881
+Size: 15
+HarmonicMean: 0.11695018868803089
+A new way to learn Tom. Hiracion has been energizing for the last several years.
+Томыг сурах шинэ арга. Hiracion нь сүүлийн хэдэн жилийн туршид эрч хүчээ авсан.
+
+Step 130/284
+Mongolian - Urdu
+GLEUacc: 0.15939278937381404
+GLEUpap: 0.8270440251572327
+Size: 15
+HarmonicMean: 0.11655574840000102
+A new way to learn Tom. Hercione has been encouraging for the past several years.
+ٹام سیکھنے کا ایک نیا طریقہ۔ گذشتہ کئی سالوں سے ہیرکسیئن حوصلہ افزائی کررہا ہے۔
+
+Step 131/284
+Urdu - Latvian
+GLEUacc: 0.12239089184060721
+GLEUpap: 0.6792452830188679
+Size: 13
+HarmonicMean: 0.11616562289834746
+A new way to learn Tom. Duke has been encouraging for many years.
+Jauns veids, kā iemācīties Tomu. Hercione ir uzmundrinoša vairākus gadus.
+
+Step 132/284
+Latvian - Maltese
+GLEUacc: 0.12239089184060721
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.11577973282845042
+A new way to learn Tom. Duke has been encouraging for many years.
+Mod ġdid biex titgħallem Tom. Duka ilu jinkuraġġixxi għal ħafna snin.
+
+Step 133/284
+Maltese - Korean
+GLEUacc: 0.11195445920303605
+GLEUpap: 0.9094488188976378
+Size: 12
+HarmonicMean: 0.11539800087765954
+A new way to learn Tom. Duke has been encouraging for years.
+새로운 방법은 톰을 배울 수 있습니다. 듀크는 몇 년 동안 격려하고있다.
+
+Step 134/284
+Korean - Macedonian
+GLEUacc: 0.11195445920303605
+GLEUpap: 1.0
+Size: 12
+HarmonicMean: 0.11502035170798228
+A new way to learn Tom. Duke has been encouraging for years.
+Нов начин да го научите Том. Дјук со години охрабрува.
+
+Step 135/284
+Macedonian - Indonesian
+GLEUacc: 0.11195445920303605
+GLEUpap: 1.0
+Size: 12
+HarmonicMean: 0.11464671189147049
+A new way to learn Tom. Duke has been encouraging for years.
+Cara baru untuk belajar Tom. Duke telah membesarkan hati selama bertahun-tahun.
+
+Step 136/284
+Indonesian - Estonian
+GLEUacc: 0.11954459203036052
+GLEUpap: 0.8739837398373984
+Size: 12
+HarmonicMean: 0.11427700984817858
+A new way of learning Tom. Duke has been encouraging for years.
+Uus viis Tomi õppimiseks. Duke on aastaid julgustanud.
+
+Step 137/284
+Estonian - Filipino
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 12
+HarmonicMean: 0.11391117578657269
+A new way of learning Tom. Duke has been encouraging for years.
+Isang bagong paraan ng pag-aaral ng Tom. Duke ay naghihikayat sa loob ng maraming taon.
+
+Step 138/284
+Filipino - Pashto
+GLEUacc: 0.11480075901328274
+GLEUpap: 0.7906976744186046
+Size: 13
+HarmonicMean: 0.11354914164627711
+A new way of learning Tom. Duke has been an inspiration for years.
+د ټام د زده کړې نوې لاره. ډیوک د کلونو لپاره هڅونکی و.
+
+Step 139/284
+Pashto - Catalan
+GLEUacc: 0.10721062618595825
+GLEUpap: 0.8798449612403101
+Size: 13
+HarmonicMean: 0.11319084104305048
+A new way to learn Tom. Duke has been an inspiration for years.
+Una nova manera d’aprendre Tom. Duke ha estat una inspiració durant anys.
+
+Step 140/284
+Catalan - Swahili
+GLEUacc: 0.10721062618595825
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.11283620921588922
+A new way to learn Tom. Duke has been an inspiration for years.
+Njia mpya ya kujifunza Tom. Duke amekuwa msukumo kwa miaka.
+
+Step 141/284
+Swahili - Croatian
+GLEUacc: 0.10721062618595825
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.11248518297616193
+A new way to learn Tom. Duke has been an inspiration for years.
+Novi način za učenje Toma. Duke je godinama bio inspiracija.
+
+Step 142/284
+Croatian - Norwegian
+GLEUacc: 0.127134724857685
+GLEUpap: 0.8308270676691729
+Size: 14
+HarmonicMean: 0.11213770065868298
+A new way to teach Tom. Duke has been an inspiration for many years.
+En ny måte å lære Tom på. Duke har vært en inspirasjon i mange år.
+
+Step 143/284
+Norwegian - Croatian
+GLEUacc: 0.11290322580645161
+GLEUpap: 0.8909774436090225
+Size: 14
+HarmonicMean: 0.11179370207463818
+A New Way to Teach Tom. Duke has been an inspiration for many years.
+Novi način podučavanja Tome. Duke je bio inspiracija dugi niz godina.
+
+Step 144/284
+Croatian - Swahili
+GLEUacc: 0.127134724857685
+GLEUpap: 0.8909774436090225
+Size: 14
+HarmonicMean: 0.11145312846628053
+A new way to teach Tom. Duke has been an inspiration for many years.
+Njia mpya ya kufundisha Tom. Duke amekuwa msukumo kwa miaka mingi.
+
+Step 145/284
+Swahili - Catalan
+GLEUacc: 0.127134724857685
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.11111592246331728
+A new way to teach Tom. Duke has been an inspiration for many years.
+Una nova manera d’ensenyar a Tom. Duke ha estat una inspiració durant molts anys.
+
+Step 146/284
+Catalan - Pashto
+GLEUacc: 0.14041745730550284
+GLEUpap: 0.8299319727891157
+Size: 15
+HarmonicMean: 0.11078202804091455
+A new way of teaching Tom. The Duke has been an inspiration for many years.
+د ټام ښوونې نوې لاره. ډیوک د ډیری کلونو لپاره یو الهام دی.
+
+Step 147/284
+Pashto - Filipino
+GLEUacc: 0.1347248576850095
+GLEUpap: 0.935374149659864
+Size: 14
+HarmonicMean: 0.11045139047924865
+A new way of teaching Tom. Duke has been an inspiration for many years.
+Isang bagong paraan ng pagtuturo kay Tom. Ang Duke ay naging inspirasyon sa maraming taon.
+
+Step 148/284
+Filipino - Estonian
+GLEUacc: 0.127134724857685
+GLEUpap: 0.8884892086330936
+Size: 14
+HarmonicMean: 0.1101239563245372
+A new way to teach Tom. Duke has been an inspiration for many years.
+Uus viis Tomi õpetamiseks. Duke on olnud inspiratsiooniks juba mitu aastat.
+
+Step 149/284
+Estonian - Indonesian
+GLEUacc: 0.11669829222011385
+GLEUpap: 0.9135338345864662
+Size: 13
+HarmonicMean: 0.10979967335148647
+A new way to teach Tom. Duke has been an inspiration for years.
+Cara baru untuk mengajar Tom. Duke telah menjadi inspirasi selama bertahun-tahun.
+
+Step 150/284
+Indonesian - Macedonian
+GLEUacc: 0.10721062618595825
+GLEUpap: 0.9065040650406504
+Size: 13
+HarmonicMean: 0.10947849052709435
+A new way to learn Tom. Duke has been an inspiration for years.
+Нов начин да го научите Том. Дјук е инспирација со години.
+
+Step 151/284
+Macedonian - Korean
+GLEUacc: 0.09013282732447818
+GLEUpap: 0.7926829268292683
+Size: 11
+HarmonicMean: 0.10916035797575138
+New way to learn Tom. Duke has been inspired for years.
+톰을 배우는 새로운 방법. 듀크는 수년간 영감을 받아 왔습니다.
+
+Step 152/284
+Korean - Maltese
+GLEUacc: 0.0872865275142315
+GLEUpap: 0.8364485981308412
+Size: 11
+HarmonicMean: 0.10884522694558514
+A new way to learn Tom. Duke was inspired for years.
+Mod ġdid biex titgħallem Tom. Duka kien ispirat għal snin twal.
+
+Step 153/284
+Maltese - Latvian
+GLEUacc: 0.08349146110056926
+GLEUpap: 0.8960396039603961
+Size: 11
+HarmonicMean: 0.10853304977599583
+A new way to learn Tom. Duke inspired me for years.
+Jauns veids, kā mācīties Toms. Duke iedvesmoja gadiem.
+
+Step 154/284
+Latvian - Urdu
+GLEUacc: 0.09013282732447818
+GLEUpap: 0.8712871287128713
+Size: 11
+HarmonicMean: 0.10822377986633365
+A new way to learn Tom. Duke impressed me for years.
+ٹام سیکھنے کا ایک نیا طریقہ۔ ڈیوک نے مجھے برسوں سے متاثر کیا۔
+
+Step 155/284
+Urdu - Mongolian
+GLEUacc: 0.10436432637571158
+GLEUpap: 0.8217391304347826
+Size: 12
+HarmonicMean: 0.10791737164567039
+A new way to learn Tom. Duchess has impressed me for years.
+Томыг сурах шинэ арга. Дьюк олон жилийн турш надад сэтгэгдэл төрүүлсэн.
+
+Step 156/284
+Mongolian - Maori
+GLEUacc: 0.13946869070208728
+GLEUpap: 0.5662251655629139
+Size: 15
+HarmonicMean: 0.10761378054362071
+A new way of learning about Tom. The Duchess has been attacking me for years.
+He huarahi hou hei ako ia Tom. Kua maha nga tau kua parea e te Duchess ki ahau.
+
+Step 157/284
+Maori - Dutch
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.8642384105960265
+Size: 15
+HarmonicMean: 0.10731296296216981
+A new way to learn about Tom. The duchess has been attacking me for years.
+Een nieuwe manier om over Tom te leren. De hertogin valt me al jaren aan.
+
+Step 158/284
+Dutch - Luxembourgish
+GLEUacc: 0.12998102466793168
+GLEUpap: 0.9655172413793104
+Size: 15
+HarmonicMean: 0.10701487624846699
+A new way to learn about Tom. The Duchess has been attacking me for years.
+En neie Wee fir iwwer den Tom ze léieren. D'Herzogin attackéiert mech zënter Joeren.
+
+Step 159/284
+Luxembourgish - Malagasy
+GLEUacc: 0.1366223908918406
+GLEUpap: 0.8689655172413793
+Size: 14
+HarmonicMean: 0.10671947866854595
+A new way to learn about Tom. For years the Duchess has been attacking.
+Fomba vaovao hianarana momba an'i Tom. Efa an-taonany maro no nanafika ny Duchess.
+
+Step 160/284
+Malagasy - Romanian
+GLEUacc: 0.14231499051233396
+GLEUpap: 0.8401360544217688
+Size: 15
+HarmonicMean: 0.10642672938193472
+A new way to find out about Tom. For years, the Duchess has been attacking.
+O nouă modalitate de a afla despre Tom. Ani de zile, ducesa atacă.
+
+Step 161/284
+Romanian - Sinhala
+GLEUacc: 0.1366223908918406
+GLEUpap: 0.782312925170068
+Size: 15
+HarmonicMean: 0.10613658841711987
+A new way to learn about Tom. The Duchess has been attacking her for years.
+ටොම් ගැන දැන ගැනීමට නව ක්‍රමයක්. වසර ගණනාවක් තිස්සේ ආදිපාදවරිය පහර දෙයි.
+
+Step 162/284
+Sinhala - Finnish
+GLEUacc: 0.1366223908918406
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.10584901664783114
+A new way to learn about Tom. The Duchess has been attacking her for years.
+Uusi tapa oppia Tomista. Herttuatar on hyökännyt häneen vuosia.
+
+Step 163/284
+Finnish - Armenian
+GLEUacc: 0.13377609108159394
+GLEUpap: 0.9659863945578231
+Size: 15
+HarmonicMean: 0.10556397577011414
+A new way to learn about Tom. The Duchess had been attacking her for years.
+Թոմի մասին սովորելու նոր միջոց: Դքսուհին տարիներ շարունակ հարձակվում էր նրա վրա:
+
+Step 164/284
+Armenian - Russian
+GLEUacc: 0.1204933586337761
+GLEUpap: 0.8163265306122449
+Size: 14
+HarmonicMean: 0.10528142828016047
+A new way to learn about Tom. The Duchess attacked her for many years.
+Новый способ узнать о Томе. Герцогиня нападала на нее в течение многих лет.
+
+Step 165/284
+Russian - Slovenian
+GLEUacc: 0.11005692599620494
+GLEUpap: 0.8357664233576643
+Size: 13
+HarmonicMean: 0.10500133745286559
+A new way to meet Tom. The Duchess attacked her for many years.
+Nov način spoznavanja Toma. Vojvotkinja jo je napadala dolga leta.
+
+Step 166/284
+Slovenian - Irish
+GLEUacc: 0.1252371916508539
+GLEUpap: 0.5896551724137931
+Size: 16
+HarmonicMean: 0.10472366732108658
+A new way to meet Tom. She has been assaulted by Bank Bank for many years.
+Bealach nua chun bualadh le Tom. Thug an Bhanc-Bhanc ionsaí uirthi le blianta fada.
+
+Step 167/284
+Irish - Slovak
+GLEUacc: 0.1204933586337761
+GLEUpap: 0.7241379310344828
+Size: 16
+HarmonicMean: 0.1044483826555727
+A new way to get to know Tom. Bank Bank has been attacked for many years.
+Nový spôsob, ako spoznať Toma. Bank Bank bola napadnutá už mnoho rokov.
+
+Step 168/284
+Slovak - Polish
+GLEUacc: 0.1366223908918406
+GLEUpap: 0.7551724137931034
+Size: 16
+HarmonicMean: 0.10417544894554326
+A new way to meet Tom. Bank The bank has been under attack for many years.
+Nowy sposób na poznanie Toma. Bank Bank był atakowany od wielu lat.
+
+Step 169/284
+Polish - Shona
+GLEUacc: 0.13377609108159394
+GLEUpap: 0.9655172413793104
+Size: 16
+HarmonicMean: 0.10390483237988798
+A new way to meet Tom. Bank The Bank has been under attack for many years.
+Nzira itsva yekusangana naTom. Bhanga Bhanga iri rave richirwiswa kwemakore akawanda.
+
+Step 170/284
+Shona - Amharic
+GLEUacc: 0.11954459203036052
+GLEUpap: 0.8068965517241379
+Size: 14
+HarmonicMean: 0.1036364998289667
+A new way to meet Tom. The bank has been under attack for years.
+ቶም ለመገናኘት አዲስ መንገድ። ባንኩ ለብዙ ዓመታት ጥቃት ሲሰነዘርበት ቆይቷል ፡፡
+
+Step 171/284
+Amharic - Danish
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10337041882698546
+A new way to meet Tom. The bank has been under attack for years.
+En ny måde at møde Tom på. Banken har været under angreb i årevis.
+
+Step 172/284
+Danish - Hindi
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10310655755492819
+A new way to meet Tom. The bank has been under attack for years.
+टॉम से मिलने का एक नया तरीका। बैंक पर सालों से हमले हो रहे हैं।
+
+Step 173/284
+Hindi - Serbian
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10284488482402254
+A new way to meet Tom. The bank has been under attack for years.
+Нови начин за упознавање Тома. Банка је годинама била под нападом.
+
+Step 174/284
+Serbian - Bulgarian
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10258537005972092
+A new way to meet Tom. The bank has been under attack for years.
+Нов начин да се срещнем с Том. Банката е атакувана от години.
+
+Step 175/284
+Bulgarian - Albanian
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10232798328617732
+A new way to meet Tom. The bank has been under attack for years.
+Një mënyrë e re për të takuar Tomin. Banka ka vite që është në sulm.
+
+Step 176/284
+Albanian - Hungarian
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10207269511120227
+A new way to meet Tom. The bank has been under attack for years.
+Új módszer a Tommal való találkozáshoz. A bank évek óta támadás alatt áll.
+
+Step 177/284
+Hungarian - Zulu
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.10181947671167824
+A new way to meet Tom. The bank has been under attack for years.
+Indlela entsha yokuhlangana noTom. Sekuphele iminyaka leli bhange lihlaselwa.
+
+Step 178/284
+Zulu - Vietnamese
+GLEUacc: 0.11954459203036052
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.1015682998194191
+A new way to meet Tom. The bank has been under attack for years.
+Một cách mới để gặp Tom. Ngân hàng đã bị tấn công trong nhiều năm.
+
+Step 179/284
+Vietnamese - Greek
+GLEUacc: 0.1110056925996205
+GLEUpap: 0.7786259541984732
+Size: 15
+HarmonicMean: 0.10131913670745771
+A new way to get to know Tom. The bank has been attacked for years.
+Ένας νέος τρόπος να γνωρίσεις τον Τομ. Η τράπεζα έχει υποστεί επίθεση εδώ και χρόνια.
+
+Step 180/284
+Greek - Persian
+GLEUacc: 0.127134724857685
+GLEUpap: 0.8884892086330936
+Size: 16
+HarmonicMean: 0.10107196017674636
+A new way to get to know Tom. The bank has been under attack for years.
+یک روش جدید برای آشنایی با تام. این بانک سالها مورد حمله قرار گرفته است.
+
+Step 181/284
+Persian - French
+GLEUacc: 0.11669829222011385
+GLEUpap: 0.8992805755395683
+Size: 14
+HarmonicMean: 0.1008267435432553
+A new way to know Tom. The bank has been under attack for years.
+Une nouvelle façon de connaître Tom. La banque est attaquée depuis des années.
+
+Step 182/284
+French - Arabic
+GLEUacc: 0.10056925996204934
+GLEUpap: 0.692
+Size: 13
+HarmonicMean: 0.10058346062545562
+A new way to find out Tom. The bank was attacked for years.
+طريقة جديدة لمعرفة توم. تعرض البنك لهجوم لسنوات.
+
+Step 183/284
+Arabic - Kazakh
+GLEUacc: 0.1204933586337761
+GLEUpap: 0.583969465648855
+Size: 13
+HarmonicMean: 0.10034208573217261
+A new way of knowing Tom. Bank has been attacked for several years.
+Томды білудің жаңа тәсілі. Банкке бірнеше жылдар бойы шабуыл жасалды.
+
+Step 184/284
+Kazakh - Portuguese
+GLEUacc: 0.11480075901328274
+GLEUpap: 0.8320610687022901
+Size: 13
+HarmonicMean: 0.10010259365079718
+A new way to meet Tom. Bank has been attacked for several years.
+Uma nova maneira de conhecer Tom. Banco foi atacado por vários anos.
+
+Step 185/284
+Portuguese - Italian
+GLEUacc: 0.11480075901328274
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.09986495963584233
+A new way to meet Tom. Bank has been attacked for several years.
+Un nuovo modo di incontrare Tom. Bank è stata attaccata da diversi anni.
+
+Step 186/284
+Italian - Georgian
+GLEUacc: 0.10910815939278938
+GLEUpap: 0.848
+Size: 13
+HarmonicMean: 0.09962915939783329
+A new way to meet Tom. The bank was attacked for several years.
+ტომთან შეხვედრის ახალი გზა. რამდენიმე წლის განმავლობაში ბანკი თავს დაესხნენ.
+
+Step 187/284
+Georgian - Icelandic
+GLEUacc: 0.1015180265654649
+GLEUpap: 0.9512195121951219
+Size: 12
+HarmonicMean: 0.09939516909251965
+New way to meet Tom. The bank was attacked for several years.
+Ný leið til að hitta Tom. Ráðist var á bankann í nokkur ár.
+
+Step 188/284
+Icelandic - Ukrainian
+GLEUacc: 0.10246679316888045
+GLEUpap: 0.8861788617886179
+Size: 13
+HarmonicMean: 0.09916296531039841
+A New Way to Meet Tom. The bank was attacked for several years.
+Новий спосіб зустріти Тома. На банк атакували кілька років.
+
+Step 189/284
+Ukrainian - German
+GLEUacc: 0.10910815939278938
+GLEUpap: 0.8821138211382114
+Size: 13
+HarmonicMean: 0.09893252506653759
+A new way to meet Tom. The bank was attacked for several years.
+Eine neue Art, Tom kennenzulernen. Die Bank wurde mehrere Jahre lang angegriffen.
+
+Step 190/284
+German - Thai
+GLEUacc: 0.1110056925996205
+GLEUpap: 0.768
+Size: 14
+HarmonicMean: 0.09870382579069009
+A new way to meet Tom The bank has been attacked for many years.
+วิธีใหม่ในการพบกับทอม ธนาคารถูกโจมตีเป็นเวลาหลายปี
+
+Step 191/284
+Thai - Haitian Creole
+GLEUacc: 0.1204933586337761
+GLEUpap: 0.7781954887218046
+Size: 15
+HarmonicMean: 0.0984768453176882
+A New Way to Meet Tom The bank has been under attack for many years.
+Yon nouvo fason pou rankontre Tom Te bank la te atake pou plizyè ane.
+
+Step 192/284
+Haitian Creole - Kurdish
+GLEUacc: 0.12239089184060721
+GLEUpap: 0.793233082706767
+Size: 14
+HarmonicMean: 0.0982515618781092
+A new way to meet Tom Bank has been under attack for many years.
+Rêyek nû ji bo hevdîtina bi Tom Bank ji gelek salan ve di bin êrîşê de ye.
+
+Step 193/284
+Kurdish - Swedish
+GLEUacc: 0.11290322580645161
+GLEUpap: 0.804
+Size: 13
+HarmonicMean: 0.09802795408920313
+A new way of meeting Tom Bank has been attacked for many years.
+Ett nytt sätt att träffa Tom Bank har attackerats i många år.
+
+Step 194/284
+Swedish - Nepali
+GLEUacc: 0.11954459203036052
+GLEUpap: 0.6910569105691057
+Size: 13
+HarmonicMean: 0.0978060009460742
+The new way to meet Tom Banks has been under attack for years.
+टम बैंकलाई भेट्ने नयाँ तरिका धेरै वर्षदेखि आक्रमण भइरहेको छ।
+
+Step 195/284
+Nepali - Chinese (Traditional)
+GLEUacc: 0.12998102466793168
+GLEUpap: 0.6834532374100719
+Size: 13
+HarmonicMean: 0.09758568181310717
+The new approach to meeting Tom Banks has been attacked for many years.
+與湯姆·班克斯（Tom Banks）會面的新方法已經受到攻擊多年。
+
+Step 196/284
+Chinese (Traditional) - Chichewa
+GLEUacc: 0.11669829222011385
+GLEUpap: 0.6762589928057554
+Size: 12
+HarmonicMean: 0.09736697641563097
+The new way of meeting Tom Banks has been threatened for years.
+Njira yatsopano yokumanirana ndi Tom Banks yakhala ikuwopsezedwa kwa zaka zambiri.
+
+Step 197/284
+Chichewa - Burmese
+GLEUacc: 0.1157495256166983
+GLEUpap: 0.532520325203252
+Size: 13
+HarmonicMean: 0.09714986483181166
+Tom Banks and was for many years a new way to meet danger.
+တွမ်ဘဏ်များနှင့်တွေ့ဆုံရန်ရန်နည်းလမ်းသစ်တစ်ခုနှစ်ပေါင်းများစွာအန္တရာယ်အတွက်ဖြစ်ခဲ့သည်။
+
+Step 198/284
+Burmese - Turkish
+GLEUacc: 0.12903225806451613
+GLEUpap: 0.8925619834710744
+Size: 14
+HarmonicMean: 0.09693432748476749
+Tom Banks and for many years was a new way to meet the danger.
+Tom Bankalar ve uzun yıllar tehlikeyi karşılamak için yeni bir yol oldu.
+
+Step 199/284
+Turkish - Chinese (Simplified)
+GLEUacc: 0.12903225806451613
+GLEUpap: 0.648
+Size: 14
+HarmonicMean: 0.09672034513489851
+Tom Banks has been a new way to deal with this danger for years.
+汤姆·班克斯（Tom Banks）多年来一直是应对这种危险的新方法。
+
+Step 200/284
+Chinese (Simplified) - Hausa
+GLEUacc: 0.12903225806451613
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.09650789887242442
+Tom Banks has been a new way to deal with this danger for years.
+Tom Banks ya kasance sabuwar hanya don magance wannan haɗari na shekaru.
+
+Step 201/284
+Hausa - Uzbek
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.8070866141732284
+Size: 14
+HarmonicMean: 0.09629697011012345
+Tom Banks has been a new way of dealing with this risk for years.
+Tom Banks yillar davomida ushbu xavfga qarshi kurashishning yangi usuli edi.
+
+Step 202/284
+Uzbek - Malay
+GLEUacc: 0.13851992409867173
+GLEUpap: 0.7851851851851852
+Size: 15
+HarmonicMean: 0.09608754057626617
+Tom Banks has been the new way to deal with this risk for many years.
+Tom Banks telah menjadi cara baru untuk menangani risiko ini selama bertahun-tahun.
+
+Step 203/284
+Malay - Samoan
+GLEUacc: 0.13851992409867173
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.09587959230773821
+Tom Banks has been the new way to deal with this risk for many years.
+Tom Banks ua avea ma auala fou e taulimaina ai lenei lamatiaga mo le tele o tausaga.
+
+Step 204/284
+Samoan - Hebrew
+GLEUacc: 0.13567362428842505
+GLEUpap: 0.8481481481481481
+Size: 14
+HarmonicMean: 0.09567310764334544
+Tom Banks has been the new way of dealing with risk for many years.
+טום בנקס היה הדרך החדשה להתמודד עם סיכון זה מזה שנים רבות.
+
+Step 205/284
+Hebrew - Czech
+GLEUacc: 0.11480075901328274
+GLEUpap: 0.7022900763358778
+Size: 13
+HarmonicMean: 0.09546806921729649
+Tom Banks is a new way to deal with risk for many years.
+Tom Banks je nový způsob, jak se vypořádat s rizikem po mnoho let.
+
+Step 206/284
+Czech - English
+GLEUacc: 0.11480075901328274
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.09526445995285669
+Tom Banks is a new way to deal with risk for many years.
+Tom Banks is a new way to deal with risk for many years.
+
+Step 207/284
+English - Bosnian
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.7401574803149606
+Size: 14
+HarmonicMean: 0.09506226305616822
+Tom Banks has been a new way of dealing with risk for many years.
+Tom Banks novi je način suočavanja sa rizikom već dugi niz godina.
+
+Step 208/284
+Bosnian - Japanese
+GLEUacc: 0.12239089184060721
+GLEUpap: 0.6220472440944882
+Size: 13
+HarmonicMean: 0.09486146201023145
+Tom Banks is a new way to deal with risk over the years.
+トムバンクスは、長年にわたってリスクに対処する新しい方法です。
+
+Step 209/284
+Japanese - Bengali
+GLEUacc: 0.12998102466793168
+GLEUpap: 0.8652173913043478
+Size: 13
+HarmonicMean: 0.09466204056904227
+Tom Banks is a new way of dealing with risk over the years.
+টম ব্যাংকস বছরের পর বছর ধরে ঝুঁকি মোকাবেলার একটি নতুন উপায়।
+
+Step 210/284
+Bengali - Lao
+GLEUacc: 0.12998102466793168
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.09446398275188105
+Tom Banks is a new way of dealing with risk over the years.
+Tom Banks ແມ່ນວິທີການ ໃໝ່ ຂອງການຈັດການກັບຄວາມສ່ຽງໃນຫລາຍປີທີ່ຜ່ານມາ.
+
+Step 211/284
+Lao - Spanish
+GLEUacc: 0.12998102466793168
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.09426727283774798
+Tom Banks is a new way of dealing with risk over the years.
+Tom Banks es una nueva forma de lidiar con el riesgo a lo largo de los años.
+
+Step 212/284
+Spanish - Lithuanian
+GLEUacc: 0.12903225806451613
+GLEUpap: 0.9401709401709402
+Size: 13
+HarmonicMean: 0.09407189535994122
+Tom Banks has a new way of dealing with risk over the years.
+Tomas Banksas yra naujas būdas kovoti su rizika bėgant metams.
+
+Step 213/284
+Lithuanian - Polish
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.957983193277311
+Size: 13
+HarmonicMean: 0.09387783510077265
+Tom Banks has a new way of dealing with risks over the years.
+Tom Banks ma nowy sposób radzenia sobie z ryzykiem na przestrzeni lat.
+
+Step 214/284
+Polish - Korean
+GLEUacc: 0.1110056925996205
+GLEUpap: 0.6386554621848739
+Size: 11
+HarmonicMean: 0.09368507708641778
+Tom Banks has had new risk management methods over the years.
+Tom Banks는 수년에 걸쳐 새로운 위험 관리 방법을 가지고 있습니다.
+
+Step 215/284
+Korean - Shona
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.656
+Size: 12
+HarmonicMean: 0.09349360658189544
+Tom Banks has found new ways to manage disasters over the years.
+Tom Banks ave aine nzira nyowani dzekugadzirisa njodzi mumakore apfuura.
+
+Step 216/284
+Shona - Danish
+GLEUacc: 0.1413662239089184
+GLEUpap: 0.8473282442748091
+Size: 13
+HarmonicMean: 0.09330340908617361
+Tom Banks has found new ways to deal with disasters over the years.
+Tom Banks har fundet nye måder at håndtere katastrofer gennem årene.
+
+Step 217/284
+Danish - Romanian
+GLEUacc: 0.1413662239089184
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.09311447032739739
+Tom Banks has found new ways to deal with disasters over the years.
+Tom Banks a găsit noi metode de a face față dezastrelor de-a lungul anilor.
+
+Step 218/284
+Romanian - Chinese (Traditional)
+GLEUacc: 0.13946869070208728
+GLEUpap: 0.9323308270676691
+Size: 13
+HarmonicMean: 0.0929267762582359
+Over the years, Tom Banks has found new ways to deal with disasters.
+多年來，湯姆·班克斯（Tom Banks）已經找到了應對災難的新方法。
+
+Step 219/284
+Chinese (Traditional) - Slovenian
+GLEUacc: 0.14041745730550284
+GLEUpap: 0.9210526315789473
+Size: 13
+HarmonicMean: 0.09274031305134416
+Over the years, Tom Banks has found new ways to cope with disasters.
+Z leti je Tom Banks našel nove načine, kako se spoprijeti z nesrečami.
+
+Step 220/284
+Slovenian - Lao
+GLEUacc: 0.14516129032258066
+GLEUpap: 0.8868613138686131
+Size: 13
+HarmonicMean: 0.09255506709493709
+Over the years, Tom Banks has found new ways of coping with disasters.
+ໃນຫລາຍປີທີ່ຜ່ານມາ, Tom Banks ໄດ້ພົບເຫັນວິທີການ ໃໝ່ ໃນການຮັບມືກັບໄພພິບັດ.
+
+Step 221/284
+Lao - Uzbek
+GLEUacc: 0.1442125237191651
+GLEUpap: 0.7552447552447552
+Size: 13
+HarmonicMean: 0.0923710249884719
+Over the years, Tom Banks has discovered new ways to deal with disasters.
+Bir necha yillar davomida Tom Banks tabiiy ofatlarni engishning yangi usullarini topdi.
+
+Step 222/284
+Uzbek - Swahili
+GLEUacc: 0.1318785578747628
+GLEUpap: 0.8741258741258742
+Size: 12
+HarmonicMean: 0.0921881735384361
+For years, Tom Banks have discovered new ways to deal with disasters.
+Kwa miaka, Tom Banks wamegundua njia mpya za kukabiliana na majanga.
+
+Step 223/284
+Swahili - Dutch
+GLEUacc: 0.1318785578747628
+GLEUpap: 0.9481481481481482
+Size: 12
+HarmonicMean: 0.09200649975423789
+For years, Tom Banks has discovered new ways to deal with disasters.
+Jarenlang heeft Tom Banks nieuwe manieren ontdekt om met rampen om te gaan.
+
+Step 224/284
+Dutch - Macedonian
+GLEUacc: 0.13946869070208728
+GLEUpap: 0.8884892086330936
+Size: 12
+HarmonicMean: 0.09182599084419604
+For years, Tom Banks has discovered new ways of dealing with disasters.
+Со години, Том Бенкс откри нови начини за справување со катастрофи.
+
+Step 225/284
+Macedonian - Kurdish
+GLEUacc: 0.12998102466793168
+GLEUpap: 0.7733812949640287
+Size: 13
+HarmonicMean: 0.0916466342116265
+For years, Tom Banks has figured out new ways to deal with disasters.
+Bi salan, Tom Banks rêyên nû yên ji bo çareserkirina karesatan kifş kiriye.
+
+Step 226/284
+Kurdish - Indonesian
+GLEUacc: 0.13946869070208728
+GLEUpap: 0.8222222222222222
+Size: 13
+HarmonicMean: 0.09146841745102284
+Over the years, Tom Banks has found new ways to deal with disasters.
+Selama bertahun-tahun, Tom Banks telah menemukan cara-cara baru untuk menangani bencana.
+
+Step 227/284
+Indonesian - Maori
+GLEUacc: 0.13092979127134724
+GLEUpap: 0.7443609022556391
+Size: 12
+HarmonicMean: 0.09129132834432797
+Over the years, Tom Banks has found new ways to manage accidents.
+I roto i nga tau, kua kitea e Tom Banks nga huarahi hou hei whakahaere i nga aitua.
+
+Step 228/284
+Maori - Italian
+GLEUacc: 0.13757115749525617
+GLEUpap: 0.9094488188976378
+Size: 12
+HarmonicMean: 0.09111535485729462
+Over the years, Tom Banks has found new ways to handle accidents.
+Nel corso degli anni, Tom Banks ha trovato nuovi modi per gestire gli incidenti.
+
+Step 229/284
+Italian - Bengali
+GLEUacc: 0.13567362428842505
+GLEUpap: 0.9606299212598425
+Size: 12
+HarmonicMean: 0.09094048513593196
+Over the years, Tom Bank has found new ways to handle accidents.
+বছরের পর বছর ধরে টম ব্যাংক দুর্ঘটনাগুলি সামলানোর নতুন উপায় খুঁজে পেয়েছে।
+
+Step 230/284
+Bengali - Samoan
+GLEUacc: 0.13851992409867173
+GLEUpap: 0.6131386861313869
+Size: 14
+HarmonicMean: 0.09076670750303598
+Over the years, Tom Bank has discovered a new way to deal with crises.
+I le aluga o tausaga, ua maua ai e Tom Bank se auala fou e taulimaina ai faalavelave.
+
+Step 231/284
+Samoan - Portuguese
+GLEUacc: 0.13851992409867173
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.09059401045480142
+Over the years, Tom Bank has discovered a new way to deal with crises.
+Ao longo dos anos, o Tom Bank descobriu uma nova maneira de lidar com as crises.
+
+Step 232/284
+Portuguese - Russian
+GLEUacc: 0.13851992409867173
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.09042238265751291
+Over the years, Tom Bank has discovered a new way to deal with crises.
+За прошедшие годы Tom Bank открыл новый способ борьбы с кризисами.
+
+Step 233/284
+Russian - Bosnian
+GLEUacc: 0.15749525616698293
+GLEUpap: 0.8145695364238411
+Size: 15
+HarmonicMean: 0.09025181294431305
+Over the years, Tom Bank has discovered a new way of dealing with the crisis.
+Tokom godina, Tom Bank je otkrila novi način rješavanja krize.
+
+Step 234/284
+Bosnian - Sinhala
+GLEUacc: 0.15370018975332067
+GLEUpap: 0.8642384105960265
+Size: 15
+HarmonicMean: 0.09008229031204545
+Over the years, Tom Bank has found a new way of dealing with the crisis.
+වසර ගණනාවක් තිස්සේ ටොම් බැංකුව අර්බුදය සමඟ කටයුතු කිරීමේ නව ක්‍රමයක් සොයාගෙන ඇත.
+
+Step 235/284
+Sinhala - Urdu
+GLEUacc: 0.1461100569259962
+GLEUpap: 0.8900709219858156
+Size: 15
+HarmonicMean: 0.08991380391817075
+Over the years, Tom Bank has found a new way to deal with the crisis.
+برسوں کے دوران ، ٹام بینک نے اس بحران سے نمٹنے کا ایک نیا طریقہ ڈھونڈ لیا ہے۔
+
+Step 236/284
+Urdu - Arabic
+GLEUacc: 0.1461100569259962
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.08974634307775332
+Over the years, Tom Bank has found a new way to deal with the crisis.
+على مر السنين ، وجد توم بنك طريقة جديدة للتعامل مع الأزمة.
+
+Step 237/284
+Arabic - Turkish
+GLEUacc: 0.1461100569259962
+GLEUpap: 1.0
+Size: 15
+HarmonicMean: 0.0895798972605171
+Over the years, Tom Bank has found a new way to deal with the crisis.
+Yıllar geçtikçe, Tom Bank krizle başa çıkmak için yeni bir yol buldu.
+
+Step 238/284
+Turkish - Kazakh
+GLEUacc: 0.13851992409867173
+GLEUpap: 0.6851851851851852
+Size: 13
+HarmonicMean: 0.08941445608796844
+During these years Tom has found a new way to overcome the crisis.
+Осы жылдар ішінде Том Банк дағдарысты жеңудің жаңа жолын тапты.
+
+Step 239/284
+Kazakh - Spanish
+GLEUacc: 0.13946869070208728
+GLEUpap: 0.9618320610687023
+Size: 13
+HarmonicMean: 0.08925000933058429
+During these years, Tom has found a new way to overcome the crisis.
+Durante estos años, Tom ha encontrado una nueva forma de superar la crisis.
+
+Step 240/284
+Spanish - Lithuanian
+GLEUacc: 0.12903225806451613
+GLEUpap: 0.8893129770992366
+Size: 12
+HarmonicMean: 0.08908654690506397
+During those years, Tom found a new way to overcome the crisis.
+Per tuos metus Tomas rado naują būdą įveikti krizę.
+
+Step 241/284
+Lithuanian - Luxembourgish
+GLEUacc: 0.12903225806451613
+GLEUpap: 1.0
+Size: 12
+HarmonicMean: 0.0889240588716427
+During those years, Tom found a new way to overcome the crisis.
+Wärend deenen Joeren huet den Tom en neie Wee fonnt fir d'Kris z'iwwerwannen.
+
+Step 242/284
+Luxembourgish - Hausa
+GLEUacc: 0.12998102466793168
+GLEUpap: 0.8617886178861789
+Size: 12
+HarmonicMean: 0.08876253543146546
+During those years, Tom found a new way to handle the crisis.
+A cikin waɗannan shekarun, Tom ya sami sabuwar hanyar shawo kan rikicin.
+
+Step 243/284
+Hausa - Hungarian
+GLEUacc: 0.1204933586337761
+GLEUpap: 0.8025210084033614
+Size: 13
+HarmonicMean: 0.08860196692401943
+In those years, Tom found a new way to deal with the crisis.
+Ezekben az években Tom új módszert talált a válság kezelésére.
+
+Step 244/284
+Hungarian - Chinese (Simplified)
+GLEUacc: 0.1204933586337761
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.0884423438246235
+In those years, Tom found a new way to deal with the crisis.
+在那些年里，汤姆找到了应对危机的新方法。
+
+Step 245/284
+Chinese (Simplified) - Hindi
+GLEUacc: 0.1204933586337761
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.08828365674197339
+In those years, Tom found a new way to deal with the crisis.
+उन वर्षों में, टॉम ने संकट से निपटने के लिए एक नया तरीका ढूंढा।
+
+Step 246/284
+Hindi - Burmese
+GLEUacc: 0.127134724857685
+GLEUpap: 0.7637795275590551
+Size: 14
+HarmonicMean: 0.08812589641574091
+In these years, Tom had to find new ways to deal with the crisis.
+အဲဒီနှစျတှငျ, တွမ်အကျပ်အတည်းနှင့်အတူကိုင်တွယ်ရန်နည်းလမ်းသစ်တွေ့ရှိခဲ့ရသည်။
+
+Step 247/284
+Burmese - Czech
+GLEUacc: 0.127134724857685
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.08796905371422596
+In these years, Tom had to find new ways to deal with the crisis.
+V těchto letech se Tom musel najít nové způsoby, jak se vypořádat s krizí.
+
+Step 248/284
+Czech - Croatian
+GLEUacc: 0.12618595825426945
+GLEUpap: 0.8779527559055118
+Size: 14
+HarmonicMean: 0.08781311963205984
+In those years, Tom had to find new ways to cope with the crisis.
+U tim je godinama Tom morao pronaći nove načine da se izbori s krizom.
+
+Step 249/284
+Croatian - Bulgarian
+GLEUacc: 0.1252371916508539
+GLEUpap: 0.9173228346456693
+Size: 14
+HarmonicMean: 0.08765808528795867
+In those years, Tom had to find new ways to deal with the crisis.
+В онези години Том трябваше да намери нови начини да се справи с кризата.
+
+Step 250/284
+Bulgarian - Georgian
+GLEUacc: 0.13757115749525617
+GLEUpap: 0.8777777777777778
+Size: 14
+HarmonicMean: 0.08750394192252547
+During these years, Tom had to find new ways to deal with the crisis.
+ამ წლებში ტომს უნდა მიეღო ახალი გზები კრიზისის მოსაგვარებლად.
+
+Step 251/284
+Georgian - Greek
+GLEUacc: 0.13757115749525617
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.08735068089609994
+During these years, Tom had to find new ways to deal with the crisis.
+Κατά τη διάρκεια αυτών των ετών, ο Τομ έπρεπε να βρει νέους τρόπους αντιμετώπισης της κρίσης.
+
+Step 252/284
+Greek - Albanian
+GLEUacc: 0.13757115749525617
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.08719829368665424
+During these years, Tom had to find new ways to deal with the crisis.
+Gjatë këtyre viteve, Tom duhej të gjente mënyra të reja për t'u marrë me krizën.
+
+Step 253/284
+Albanian - Icelandic
+GLEUacc: 0.13757115749525617
+GLEUpap: 1.0
+Size: 14
+HarmonicMean: 0.08704677188773417
+During these years, Tom had to find new ways to deal with the crisis.
+Á þessum árum þurfti Tom að finna nýjar leiðir til að takast á við kreppuna.
+
+Step 254/284
+Icelandic - Haitian Creole
+GLEUacc: 0.13567362428842505
+GLEUpap: 0.774074074074074
+Size: 13
+HarmonicMean: 0.08689610720644417
+Over the years, Tom has found new ways to deal with the crisis.
+Pandan ane sa yo, Tom te jwenn nouvo fason pou fè fas ak kriz la.
+
+Step 255/284
+Haitian Creole - Hebrew
+GLEUacc: 0.1347248576850095
+GLEUpap: 0.959349593495935
+Size: 13
+HarmonicMean: 0.08674629146147521
+Over the years Tom has found new ways to deal with the crisis.
+במהלך השנים טום מצא דרכים חדשות להתמודד עם המשבר.
+
+Step 256/284
+Hebrew - Catalan
+GLEUacc: 0.127134724857685
+GLEUpap: 0.8099173553719008
+Size: 12
+HarmonicMean: 0.08659731658117457
+Over the years, Tom has found new ways to face the crisis.
+Amb els anys, Tom ha trobat noves maneres d’afrontar la crisi.
+
+Step 257/284
+Catalan - Malagasy
+GLEUacc: 0.13567362428842505
+GLEUpap: 0.8373983739837398
+Size: 13
+HarmonicMean: 0.08644917460165626
+Over the years, Tom has found new ways to deal with the crisis.
+Tao anatin'ny taona maro izay dia nahita fomba vaovao i Tom mba hiatrehana ny krizy.
+
+Step 258/284
+Malagasy - Vietnamese
+GLEUacc: 0.13567362428842505
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.08630185766495117
+Over the years, Tom has found new ways to deal with the crisis.
+Trong những năm qua, Tom đã tìm ra những cách mới để đối phó với khủng hoảng.
+
+Step 259/284
+Vietnamese - Persian
+GLEUacc: 0.1461100569259962
+GLEUpap: 0.8102189781021898
+Size: 15
+HarmonicMean: 0.08615535801719613
+Over the years, Tom has come up with new ways to deal with the crisis.
+با گذشت سالها ، تام روشهای جدیدی برای مقابله با بحران پیدا کرده است.
+
+Step 260/284
+Persian - Malay
+GLEUacc: 0.12333965844402277
+GLEUpap: 0.7153284671532847
+Size: 12
+HarmonicMean: 0.0860096680068606
+Over the years, Tom has developed new ways to deal with crises.
+Sejak bertahun-tahun, Tom telah menghasilkan cara-cara baru untuk menangani krisis.
+
+Step 261/284
+Malay - French
+GLEUacc: 0.11290322580645161
+GLEUpap: 0.8373983739837398
+Size: 11
+HarmonicMean: 0.08586478008301024
+Over the years, Tom has developed new ways to manage crises.
+Au fil des ans, Tom a développé de nouvelles façons de gérer les crises.
+
+Step 262/284
+French - English
+GLEUacc: 0.11290322580645161
+GLEUpap: 1.0
+Size: 11
+HarmonicMean: 0.08572068679360652
+Over the years, Tom has developed new ways to manage crises.
+Over the years, Tom has developed new ways to manage crises.
+
+Step 263/284
+English - Maltese
+GLEUacc: 0.11290322580645161
+GLEUpap: 1.0
+Size: 11
+HarmonicMean: 0.08557738078384143
+Over the years, Tom has developed new ways to manage crises.
+Matul is-snin, Tom żviluppa modi ġodda kif jimmaniġġjaw il-kriżijiet.
+
+Step 264/284
+Maltese - Ukrainian
+GLEUacc: 0.12144212523719165
+GLEUpap: 0.8347107438016529
+Size: 11
+HarmonicMean: 0.08543485479450623
+Over the years, Tom has developed new ways of managing crisis.
+Протягом багатьох років, Том розробив нові способи управління кризами.
+
+Step 265/284
+Ukrainian - Filipino
+GLEUacc: 0.13377609108159394
+GLEUpap: 0.9263565891472868
+Size: 12
+HarmonicMean: 0.08529310166039386
+Over the years, Tom has developed new ways of managing the crisis.
+Sa paglipas ng mga taon, Tom ay bumuo ng mga bagong paraan ng pamamahala ng krisis.
+
+Step 266/284
+Filipino - Amharic
+GLEUacc: 0.11859582542694497
+GLEUpap: 0.8062015503875969
+Size: 11
+HarmonicMean: 0.0851521143087337
+Over the years, Tom developed new ways to manage the crisis.
+ዓመታት እያለፉ ሲሄዱ ቶም ቀውሱን ለማስተዳደር አዳዲስ መንገዶችን አዳብረዋል።
+
+Step 267/284
+Amharic - Latvian
+GLEUacc: 0.127134724857685
+GLEUpap: 0.924
+Size: 12
+HarmonicMean: 0.08501188575765836
+Over the years, Tom has developed new ways to manage the crisis.
+Gadu gaitā Toms izstrādāja jaunus veidus, kā pārvaldīt krīzi.
+
+Step 268/284
+Latvian - Mongolian
+GLEUacc: 0.1555977229601518
+GLEUpap: 0.4869281045751634
+Size: 14
+HarmonicMean: 0.08487240911470133
+For many years, a new way of managing the Great Depression has been developed.
+Олон жилийн турш Том хямралыг зохицуулах шинэ арга замыг боловсруулж иржээ.
+
+Step 269/284
+Mongolian - Swedish
+GLEUacc: 0.1650853889943074
+GLEUpap: 0.8633540372670807
+Size: 15
+HarmonicMean: 0.084733677575325
+For many years, a new way of dealing with the Great Depression has been developed.
+Under många år har ett nytt sätt att hantera det stora depressionen utvecklats.
+
+Step 270/284
+Swedish - Armenian
+GLEUacc: 0.1650853889943074
+GLEUpap: 0.968944099378882
+Size: 15
+HarmonicMean: 0.08459568442147834
+For many years a new way of dealing with the Great Depression has been developed.
+Երկար տարիներ մշակվել է Մեծ դեպրեսիայի հետ գործ ունենալու նոր եղանակ:
+
+Step 271/284
+Armenian - Thai
+GLEUacc: 0.1555977229601518
+GLEUpap: 0.6335403726708074
+Size: 14
+HarmonicMean: 0.08445842302018337
+Over the years, new methods have been developed to cope with the Great Depression.
+หลายปีที่ผ่านมามีการพัฒนาวิธีการใหม่ในการรับมือกับภาวะเศรษฐกิจตกต่ำครั้งใหญ่
+
+Step 272/284
+Thai - Zulu
+GLEUacc: 0.1432637571157495
+GLEUpap: 0.7298136645962733
+Size: 13
+HarmonicMean: 0.08432188682214983
+Over the years, new techniques have been developed to deal with major depression.
+Kuyo yonke le minyaka, kuye kwenziwa izindlela ezintsha zokubhekana nokudana okukhulu.
+
+Step 273/284
+Zulu - Nepali
+GLEUacc: 0.14705882352941177
+GLEUpap: 0.6635220125786163
+Size: 13
+HarmonicMean: 0.08418606936041743
+Over the years, new depression has developed to cope with the Great Depression.
+वर्षौंको दौडान, नयाँ डिप्रेसनहरू विकसित गरिएको छ ठूलो डिप्रेशनसँग सामना गर्न।
+
+Step 274/284
+Nepali - Chichewa
+GLEUacc: 0.1442125237191651
+GLEUpap: 0.6612903225806451
+Size: 12
+HarmonicMean: 0.08405096424902499
+Over the years, new frustration has begun to overcome the Great Depression.
+Kwa zaka zambiri, kukhumudwa kwatsopano kwayamba kuthana ndi Kukhumudwa Kwakukulu.
+
+Step 275/284
+Chichewa - Slovak
+GLEUacc: 0.13377609108159394
+GLEUpap: 0.9047619047619048
+Size: 11
+HarmonicMean: 0.08391656518170577
+Over the years, new frustration began to overcome the Great Depression.
+V priebehu rokov začala nová frustrácia prekonať Veľkú depresiu.
+
+Step 276/284
+Slovak - German
+GLEUacc: 0.14041745730550284
+GLEUpap: 0.7350993377483444
+Size: 12
+HarmonicMean: 0.08378286593060862
+Over the years, new frustration began to overcome the global economic crisis.
+Im Laufe der Jahre begann neue Frustration die Weltwirtschaftskrise zu überwinden.
+
+Step 277/284
+German - Irish
+GLEUacc: 0.15464895635673626
+GLEUpap: 0.7484662576687117
+Size: 13
+HarmonicMean: 0.08364986034504393
+Over the years, new frustration has started to surmount the global economic crisis.
+Thar na blianta, thosaigh frustrachas nua ag sárú na géarchéime geilleagraí domhanda.
+
+Step 278/284
+Irish - Estonian
+GLEUacc: 0.15844402277039848
+GLEUpap: 0.7944785276073619
+Size: 14
+HarmonicMean: 0.08351754235025434
+Over the years, a new frustration has begun to overcome the global economic crisis.
+Aastate jooksul on globaalset majanduskriisi hakanud ületama uus pettumus.
+
+Step 279/284
+Estonian - Japanese
+GLEUacc: 0.150853889943074
+GLEUpap: 0.803680981595092
+Size: 13
+HarmonicMean: 0.08338590594620912
+Over the years, new complaints have begun to overcome the global economic crisis.
+長年にわたり、新たな不満が世界的な経済危機を克服し始めました。
+
+Step 280/284
+Japanese - Serbian
+GLEUacc: 0.150853889943074
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.08325494520642207
+Over the years, new complaints have begun to overcome the global economic crisis.
+Током година, нове жалбе су почеле да превазилазе глобалну економску кризу.
+
+Step 281/284
+Serbian - Norwegian
+GLEUacc: 0.150853889943074
+GLEUpap: 1.0
+Size: 13
+HarmonicMean: 0.0831246542767922
+Over the years, new complaints have begun to overcome the global economic crisis.
+I løpet av årene har nye klager begynt å overvinne den globale økonomiske krisen.
+
+Step 282/284
+Norwegian - Finnish
+GLEUacc: 0.16698292220113853
+GLEUpap: 0.864406779661017
+Size: 15
+HarmonicMean: 0.08299502737446672
+Over the years, new complaints about the global economic crisis have begun to be overcome.
+Vuosien mittaan uusia valituksia on alettu voittaa maailmanlaajuisesta talouskriisistä.
+
+Step 283/284
+Finnish - Pashto
+GLEUacc: 0.16413662239089183
+GLEUpap: 0.8050847457627118
+Size: 14
+HarmonicMean: 0.08286605878672584
+Over the years, new complaints about the global economic crisis have started to fade.
+د کلونو راهیسې ، د نړیوال اقتصادي کړکیچ په اړه نوي شکایتونه له مینځه تلل پیل شوي.
+

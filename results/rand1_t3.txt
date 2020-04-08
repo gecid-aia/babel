@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - tl - el - en - sr - pl - si - lv - id - he - no - fr - zu - ms - uk - fi - hi - lo - da - sl - ar - ro - ha - kk - ca - zh - ht - vi - nl - uz - ga - es - ny - cs - hy - sm - de - ps - mt - mk - et - lt - tr - my - fa - hr - it - sw - sn - bg - mi - sq - bn - lb - ru - hu - ko - ne - mg - mn - am - ku - sk - sv - ka - th - ja - is - pt - ur - bs - zh - mn - es - uz - si - fr - no - ht - ca - am - uk - ka - mt - mk - lb - sv - sl - da - lt - ga - tr - is - et - hi - ro - sr - mg - ar - kk - hy - sm - bn - lo - ny - th - hu - ku - sw - bg - vi - my - en - ne - zh-TW - ru - de - he - tl - ms - bs - pt - sq - nl - fa - hr - el - zu - id - it - ps - sn - ha - ur - cs - ja - pl - lv - ko - mi - fi - sk.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Chinese (Traditional)
+	對於他而言，每次閱讀任何文本都將始終為該文本提供新的大小調整和理解。隱喻地講，他將自己定位為文本的赫拉克利托河的沐浴者，在這裡不可能兩次進入，因為他的路線不斷變化。
+
+Step 2/284
+>> Chinese (Traditional) - Filipino
+	Para sa kanya, sa tuwing magbasa ka ng anumang teksto, palaging bibigyan nito ang teksto ng bagong sizing at pang-unawa. Sa metaphorically, inilagay niya ang kanyang sarili bilang isang pangkat ng teksto sa Heraclitus River, kung saan imposibleng makapasok nang dalawang beses dahil ang kanyang kurso ay patuloy na nagbabago.
+
+Step 3/284
+>> Filipino - Greek
+	Για αυτόν, κάθε φορά που διαβάζετε οποιοδήποτε κείμενο, δίνει πάντα στο κείμενο ένα νέο μέγεθος και κατανόηση. Μεταφορικά, έβαλε τον εαυτό του ως ομάδα κειμένων στον ποταμό Ηράκλειτο, όπου ήταν αδύνατο να εισέλθει δύο φορές καθώς η πορεία του άλλαζε συνεχώς.
+
+Step 4/284
+>> Greek - English
+	For him, every time you read any text, it always gives the text a new dimension and understanding. Metaphorically, he put himself as a group of texts on the river Heraclitus, where he could not enter twice as his course was constantly changing.
+
+Step 5/284
+>> English - Serbian
+	За њега, сваки пут кад прочитате било који текст, он увек даје нову димензију и разумевање. Метафорично, он је себе поставио као групу текстова на реци Хераклит, где није могао два пута да уђе јер се његов курс стално мењао.
+
+Step 6/284
+>> Serbian - Polish
+	Dla niego za każdym razem, gdy czytasz dowolny tekst, zawsze daje nowy wymiar i zrozumienie. Metaforycznie ustawił się jako grupa tekstów na rzece Heraklit, do której nie mógł wejść dwa razy, ponieważ jego kurs ciągle się zmieniał.
+
+Step 7/284
+>> Polish - Sinhala
+	ඔහු වෙනුවෙන්, ඔබ ඕනෑම පෙළක් කියවන සෑම අවස්ථාවකම ඔහු සෑම විටම නව මානයක් හා අවබෝධයක් ලබා දෙයි. ඔහු හෙරක්ලිටස් ගඟේ පෙළ සමූහයක් ලෙස රූපක ලෙස ස්ථානගත කර ඇති අතර, ඔහුගේ ගමන් මාර්ගය නිරන්තරයෙන් වෙනස් වන නිසා ඔහුට දෙවරක් ඇතුළු වීමට නොහැකි විය.
+
+Step 8/284
+>> Sinhala - Latvian
+	Viņam katru reizi, kad lasāt jebkuru tekstu, viņš vienmēr ienes jaunu dimensiju un izpratni. Viņš metaforiski tika pozicionēts kā teksta grupa uz Heraklīta upes, un viņš divreiz nespēja iekļūt, jo viņa trajektorija nemitīgi mainījās.
+
+Step 9/284
+>> Latvian - Indonesian
+	Baginya, setiap kali Anda membaca teks apa pun, ia selalu membawa dimensi dan pemahaman baru. Dia secara metaforis diposisikan sebagai grup teks di Sungai Heraclitus, dan dia tidak dapat masuk dua kali karena lintasannya terus berubah.
+
+Step 10/284
+>> Indonesian - Hebrew
+	מבחינתו, בכל פעם שאתה קורא טקסט כלשהו, הוא תמיד מביא מימד והבנה חדשים. הוא ממוקם באופן מטאפורי כקבוצה של טקסטים בנהר הרקליטוס, והוא אינו יכול להיכנס פעמיים מכיוון שהמסלול משתנה ללא הרף.
+
+Step 11/284
+>> Hebrew - Norwegian
+	Hver gang du leser tekst, bringer det alltid en ny dimensjon og forståelse for ham. Den er metaforisk plassert som en gruppe tekster i Heraclitus-elven, og kan ikke gå inn to ganger da ruten stadig endres.
+
+Step 12/284
+>> Norwegian - French
+	Chaque fois que vous lisez du texte, cela lui apporte toujours une nouvelle dimension et compréhension. Il est métaphoriquement placé comme un groupe de textes dans la rivière Héraclite, et ne peut pas entrer deux fois car l'itinéraire change constamment.
+
+Step 13/284
+>> French - Zulu
+	Noma nini lapho ufunda umbhalo, njalo kuletha ubukhulu kanye nokuqonda kuwo. Ibekwe ngendlela yokulinganisa njengeqembu lemibhalo emfuleni wakwaHeraclitus, futhi ayikwazi ukungena kabili ngoba indlela ishintsha njalo.
+
+Step 14/284
+>> Zulu - Malay
+	Setiap kali anda membaca teks, ia sentiasa membawa kehebatan dan pemahamannya. Ia ditetapkan dalam susunan simetris sebagai sekumpulan teks di dalam sungai Heraclitus, dan ia tidak boleh masuk dua kali kerana laluan sentiasa berubah.
+
+Step 15/284
+>> Malay - Ukrainian
+	Кожен раз, коли ви читаєте текст, він завжди виявляє його силу та розуміння. Він розташований у симетричному порядку як купа текстів у річці Геракліт, і він не може ввійти двічі, оскільки шлях постійно змінюється.
+
+Step 16/284
+>> Ukrainian - Finnish
+	Aina kun luet tekstiä, se ilmaisee aina sen voiman ja ymmärryksen. Se on järjestetty symmetrisesti kasa tekstiä Heraclitus-jokeen, eikä se pääse sisään kahdesti, koska polku muuttuu jatkuvasti.
+
+Step 17/284
+>> Finnish - Hindi
+	जब भी आप कोई पाठ पढ़ते हैं, यह हमेशा अपनी शक्ति और समझ को व्यक्त करता है। इसे हेराक्लीटस नदी में पाठ के ढेर में सममित रूप से व्यवस्थित किया गया है और दो बार प्रवेश नहीं कर सकता क्योंकि मार्ग लगातार बदल रहा है।
+
+Step 18/284
+>> Hindi - Lao
+	ທຸກຄັ້ງທີ່ທ່ານອ່ານຂໍ້ຄວາມ, ມັນສະແດງອອກເຖິງ ອຳ ນາດແລະຄວາມເຂົ້າໃຈຂອງມັນສະ ເໝີ. ມັນຖືກຈັດຢູ່ໃນກະດານຂໍ້ຄວາມໃນແມ່ນ້ ຳ Heraclitus ແລະບໍ່ສາມາດເຂົ້າສອງເທື່ອເພາະເສັ້ນທາງມີການປ່ຽນແປງເລື້ອຍໆ.
+
+Step 19/284
+>> Lao - Danish
+	Hver gang du læser en tekst, viser den altid dens styrke og forståelse. Det er placeret på opslagstavlen i Heraclitus-floden og kan ikke fås adgang to gange, fordi ruten konstant ændres.
+
+Step 20/284
+>> Danish - Slovenian
+	Vsakič, ko preberete besedilo, vedno pokaže svojo moč in razumevanje. Nahaja se na oglasni deski v reki Heraklit in do njega ni mogoče dostopati dvakrat, ker se pot nenehno spreminja.
+
+Step 21/284
+>> Slovenian - Arabic
+	كلما قرأت نصًا ، فإنه يظهر دائمًا قوته وفهمه. وهي تقع على لوحة الإعلانات في نهر هيراكليتوس ولا يمكن الوصول إليها مرتين لأن المسار يتغير باستمرار.
+
+Step 22/284
+>> Arabic - Romanian
+	Ori de câte ori citiți un text, acesta își arată întotdeauna puterea și înțelegerea. Acesta este situat pe panoul publicitar din râul Heraclit și nu poate fi atins de două ori, deoarece calea este în continuă schimbare.
+
+Step 23/284
+>> Romanian - Hausa
+	Duk lokacin da ka karanta rubutu, koyaushe yana nuna ikonsa da fahimtarsa. An samo shi a cikin akwatin allon a cikin kogin Heraclit kuma ba a iya isa gare shi sau biyu, saboda hanyar tana canzawa koyaushe.
+
+Step 24/284
+>> Hausa - Kazakh
+	Мәтінді оқыған кезде әрдайым оның күші мен түсінігі көрінеді. Ол Гераклит өзенінің экранында орналасқан және оған екі рет кіруге болмайды, өйткені жол әрқашан өзгеріп отырады.
+
+Step 25/284
+>> Kazakh - Catalan
+	Quan llegeixes un text, sempre veus el seu poder i comprensió. Es troba a la pantalla del riu Heràclit i no s’hi pot entrar dues vegades, perquè el camí sempre canvia.
+
+Step 26/284
+>> Catalan - Chinese (Simplified)
+	阅读文本时，您始终会看到其力量和理解力。它在Heraclitus河屏幕上，不能输入两次，因为道路总是在变化。
+
+Step 27/284
+>> Chinese (Simplified) - Haitian Creole
+	Kòm ou li tèks la, ou pral toujou wè pouvwa li yo ak konpreyansyon. Li se sou ekran an rivyè èraklit epi yo pa kapab antre nan de fwa tankou wout la ap toujou chanje.
+
+Step 28/284
+>> Haitian Creole - Vietnamese
+	Khi bạn đọc văn bản, bạn sẽ luôn thấy sức mạnh và sự hiểu biết của nó. Nó nằm trên màn hình sông Heraklite và không thể vào hai lần vì con đường sẽ luôn thay đổi.
+
+Step 29/284
+>> Vietnamese - Dutch
+	Als je de tekst leest, zie je altijd de kracht en het begrip ervan. Het bevindt zich op het scherm van de rivier de Heraklite en kan niet tweemaal worden betreden omdat het pad altijd zal veranderen.
+
+Step 30/284
+>> Dutch - Uzbek
+	Matnni o'qiyotganda, siz har doim uning kuchi va tushunchasini ko'rasiz. U Heraklit daryosining ekranida joylashgan va unga ikki marta kirish mumkin emas, chunki yo'l har doim o'zgaradi.
+
+Step 31/284
+>> Uzbek - Irish
+	Agus an téacs á léamh agat, feicfidh tú a chumhacht agus a thuiscint i gcónaí. Tá sé suite ar scáileán Abhainn Heraclitus agus ní féidir teacht air faoi dhó toisc go bhfuil an cosán ag athrú i gcónaí.
+
+Step 32/284
+>> Irish - Spanish
+	A medida que lea el texto, siempre verá su poder y comprensión. Se encuentra en la pantalla del río Heráclito y no se puede acceder dos veces ya que el camino cambia constantemente.
+
+Step 33/284
+>> Spanish - Chichewa
+	Mukamawerenga lembalo, mudzaona mphamvu ndi luntha lake nthawi zonse. Ili pa chiwonetsero cha mtsinje wa Heráclito ndipo silingafikidwe kawiri konse chifukwa njirayo imasintha mosalekeza.
+
+Step 34/284
+>> Chichewa - Czech
+	Když čtete text, vždy uvidíte jeho sílu a brilanci. Nachází se na výhled na řeku Heráclito a nelze jej dosáhnout dvakrát, protože se trasa neustále mění.
+
+Step 35/284
+>> Czech - Armenian
+	Տեքստը կարդալիս միշտ կտեսնեք դրա ուժն ու փայլը: Այն դիտում է Հերցլիտո գետը և երկու անգամ հնարավոր չէ հասնել, քանի որ երթուղին անընդհատ փոխվում է:
+
+Step 36/284
+>> Armenian - Samoan
+	Ao e faitau i le tusiga, o le ae vaaia pea lona malosi ma susulu. E le amanaiaina le Vaitafe o Herzlito ma e le mafai ona faaluaina ona o le auala o le suiga faifaipea.
+
+Step 37/284
+>> Samoan - German
+	Wenn Sie den Artikel lesen, werden Sie immer noch seine Leistung und Helligkeit sehen. Der Herzlito wird ignoriert und kann aufgrund des Weges des ständigen Wandels nicht dupliziert werden.
+
+Step 38/284
+>> German - Pashto
+	که تاسو مقاله ولولئ ، تاسو به بیا هم د هغې فعالیت او روښانه وګورئ. د زړه لیټوو له پامه غورځول شوی او د دوامداره بدلون لارې له امله نشي نقل کیدی.
+
+Step 39/284
+>> Pashto - Maltese
+	Jekk taqra l-artiklu, xorta tara l-prestazzjoni u ċ-ċarezza tiegħu. It-taħbit tal-qalb huwa injorat u ma jistax jiġi duplikat minħabba t-toroq kontinwi tal-bidla.
+
+Step 40/284
+>> Maltese - Macedonian
+	Ако го прочитате написот, се уште се види перформанси и јасност. Пулсот се игнорира и не може да се реплицира, бидејќи на улиците на постојаните промени.
+
+Step 41/284
+>> Macedonian - Estonian
+	Kui loete artiklit, näete ikkagi jõudlust ja selgust. Pulsit eiratakse ja seda ei saa korrata pidevate muutuste tänavate tõttu.
+
+Step 42/284
+>> Estonian - Lithuanian
+	Jei perskaitysite straipsnį, vis tiek pamatysite veikimą ir aiškumą. Pulsas ignoruojamas ir negali būti kartojamas dėl nuolatinių gatvių pokyčių.
+
+Step 43/284
+>> Lithuanian - Turkish
+	Makaleyi okursanız, yine de performans ve netlik göreceksiniz. Darbe yok sayılır ve sürekli sokak değişiklikleri nedeniyle tekrarlanamaz.
+
+Step 44/284
+>> Turkish - Burmese
+	အကယ်၍ သင်သည်ဆောင်းပါးကိုဖတ်လျှင်စွမ်းဆောင်ရည်နှင့်ကြည်လင်ပြတ်သားမှုကိုမြင်ရလိမ့်မည်။ အဆိုပါအာဏာသိမ်းမှုကိုလျစ်လျူရှုထားပြီးစဉ်ဆက်မပြတ်လမ်းပြောင်းလဲမှုကြောင့်ထပ်ခါတလဲလဲမရနိုင်ပါ။
+
+Step 45/284
+>> Burmese - Persian
+	اگر مقاله را بخوانید ، عملکرد و وضوح آن را مشاهده خواهید کرد. کودتا نادیده گرفته شد و به دلیل تغییر مداوم ، دیگر نمی توان آن را تکرار کرد.
+
+Step 46/284
+>> Persian - Croatian
+	Ako pročitate članak, vidjet ćete njegovu izvedbu i razlučivost. Državni udar je ignoriran i zbog stalne promjene više se ne može ponoviti.
+
+Step 47/284
+>> Croatian - Italian
+	Se leggi l'articolo, vedrai le sue prestazioni e risoluzione. Il colpo di stato è stato ignorato e non può più essere ripetuto a causa di cambiamenti costanti.
+
+Step 48/284
+>> Italian - Swahili
+	Ikiwa utasoma kifungu hicho, utaona utendaji wake na azimio lake. Mapinduzi hayajapuuzwa na hayawezi kurudiwa tena kwa sababu ya mabadiliko ya mara kwa mara.
+
+Step 49/284
+>> Swahili - Shona
+	Kana iwe ukaverenga ndima, iwe uchaona kushanda kwayo uye kugadzirisa kwayo. Iyo shanduko haifuratwe uye haigone kudzokororwa nekuda kwekuchinja kwakawanda.
+
+Step 50/284
+>> Shona - Bulgarian
+	Ако прочетете параграф, ще видите неговата ефективност и неговото въздействие. Промяната се игнорира и не може да бъде повторена поради много промени.
+
+Step 51/284
+>> Bulgarian - Maori
+	Mena ka panui koe i tetahi wharangi, ka kite koe i tona kaha me tana whai kiko. Kaore e mohiotia te whakarereketanga kaore e taea te whakahoki ano na te maha o nga huringa.
+
+Step 52/284
+>> Maori - Albanian
+	Nëse lexoni një faqe, do të shihni fuqinë dhe efektivitetin e saj. Ndryshimi është i panjohur dhe nuk mund të përsëritet për shkak të shumë ndryshimeve.
+
+Step 53/284
+>> Albanian - Bengali
+	আপনি যদি কোনও সাইট পড়েন তবে আপনি এর শক্তি এবং কার্যকারিতা দেখতে পাবেন। পরিবর্তনটি অজানা এবং বহু পরিবর্তনের কারণে পুনরাবৃত্তি করা যাবে না।
+
+Step 54/284
+>> Bengali - Luxembourgish
+	Wann Dir e Site liest, gesitt Dir seng Kraaft an Effektivitéit. D'Ännerung ass onbekannt a kann net duerch e puer Ännerunge widderholl ginn.
+
+Step 55/284
+>> Luxembourgish - Russian
+	Когда вы читаете сайт, вы видите его силу и эффективность. Изменение неизвестно и не может быть повторено.
+
+Step 56/284
+>> Russian - Hungarian
+	Amikor elolvas egy webhelyet, láthatja annak erejét és hatékonyságát. A változás ismeretlen és nem ismételhető meg.
+
+Step 57/284
+>> Hungarian - Korean
+	사이트를 읽으면 사이트의 강점과 효과를 볼 수 있습니다. 변경 사항을 알 수 없으므로 반복 할 수 없습니다.
+
+Step 58/284
+>> Korean - Nepali
+	साइट पढेर, तपाईं साइटको सामर्थ्य र प्रभावकारिता देख्न सक्नुहुनेछ। म पुनरावृत्ति गर्न सक्दिन किनकि परिवर्तन अज्ञात छ।
+
+Step 59/284
+>> Nepali - Malagasy
+	Amin'ny famakiana ny tranokala dia ahitanao ny hery sy ny fahombiazan'ny tranokala. Tsy afaka miverina aho satria tsy fantatra ny fanovana.
+
+Step 60/284
+>> Malagasy - Mongolian
+	Сайтыг уншсанаар та сайтын хүч чадал, үр нөлөөг харж болно. Өөрчлөлтүүд тодорхойгүй байгаа тул би буцаж очиж чадахгүй байна.
+
+Step 61/284
+>> Mongolian - Amharic
+	ጣቢያውን በማንበብ የጣቢያው ጥንካሬ እና ተፅእኖ ማየት ይችላሉ ፡፡ እኔ ልመለስ አልችልም ምክንያቱም ለውጦቹ ግልፅ ስላልሆኑ ፡፡
+
+Step 62/284
+>> Amharic - Kurdish
+	Hûn dikarin bi xwendina malperê hêz û bandora malperê bibînin. Ez nikarim vegerim ji ber ku guhertin ne zelal in.
+
+Step 63/284
+>> Kurdish - Slovak
+	Čítaním stránok môžete vidieť silu a vplyv stránky. Nemôžem sa vrátiť, pretože zmeny nie sú jasné.
+
+Step 64/284
+>> Slovak - Swedish
+	Genom att läsa sidorna kan du se sidans styrka och inverkan. Jag kan inte gå tillbaka eftersom ändringarna inte är tydliga.
+
+Step 65/284
+>> Swedish - Georgian
+	გვერდების კითხვით შეგიძლიათ იხილოთ გვერდის სიძლიერე და გავლენა. მე ვერ დავბრუნდები, რადგან ცვლილებები არ არის ნათელი.
+
+Step 66/284
+>> Georgian - Thai
+	โดยการอ่านหน้าคุณสามารถดูความแข็งแกร่งและผลกระทบของหน้า ฉันไม่สามารถย้อนกลับได้เพราะการเปลี่ยนแปลงไม่ชัดเจน
+
+Step 67/284
+>> Thai - Japanese
+	ページを読むことで、ページの強みや効果がわかります。変化がはっきりしないので帰れません。
+
+Step 68/284
+>> Japanese - Icelandic
+	Að lesa síðu segir til um styrkleika og ávinning þess. Ég get ekki snúið aftur vegna þess að breytingin er ekki skýr.
+
+Step 69/284
+>> Icelandic - Portuguese
+	A leitura de uma página informa sobre seus pontos fortes e benefícios. Não posso voltar porque a mudança não está clara.
+
+Step 70/284
+>> Portuguese - Urdu
+	ایک صفحہ پڑھنا آپ کو اس کی طاقت اور فوائد سے آگاہ کرتا ہے۔ میں واپس نہیں جاسکتا کیونکہ تبدیلی واضح نہیں ہے۔
+
+Step 71/284
+>> Urdu - Bosnian
+	Čitanjem stranice obavještavamo vas o njenim prednostima i prednostima. Ne mogu se vratiti jer promena nije jasna.
+
+Step 72/284
+>> Bosnian - Chinese (Simplified)
+	当您阅读该网站时，我们会告知您其好处和好处。我不能回去，因为变化不明确。
+
+Step 73/284
+>> Chinese (Simplified) - Mongolian
+	Та сайтыг уншихад түүний ашиг тус, ашиг тусын талаар танд мэдээлэх болно. Өөрчлөлт тодорхой бус байгаа тул би буцаж очиж чадахгүй байна.
+
+Step 74/284
+>> Mongolian - Spanish
+	A medida que lea el sitio, se le informará sobre sus beneficios y beneficios. No puedo regresar porque el cambio no está claro.
+
+Step 75/284
+>> Spanish - Uzbek
+	Saytni o'qiyotganingizda, uning foydalari va zararlari haqida sizga ma'lumot beriladi. Qaytishim mumkin emas, chunki o'zgarish aniq emas.
+
+Step 76/284
+>> Uzbek - Sinhala
+	ඔබ වෙබ් අඩවිය කියවන විට, එහි ප්‍රතිලාභ සහ හානිය පිළිබඳව ඔබව දැනුවත් කරනු ඇත. වෙනස පැහැදිලි නැති නිසා මට ආපසු යා නොහැක.
+
+Step 77/284
+>> Sinhala - French
+	En lisant le site, vous serez informé de ses avantages et risques. Je ne peux pas revenir en arrière car la différence n'est pas claire.
+
+Step 78/284
+>> French - Norwegian
+	Ved å lese nettstedet vil du bli informert om fordeler og risikoer. Jeg kan ikke gå tilbake fordi forskjellen ikke er tydelig.
+
+Step 79/284
+>> Norwegian - Haitian Creole
+	Pa li sou sit wèb la ou pral enfòme sou benefis yo ak risk. Mwen pa ka retounen paske diferans lan pa klè.
+
+Step 80/284
+>> Haitian Creole - Catalan
+	Llegint el lloc web se us informarà sobre els avantatges i els riscos. No puc tornar perquè la diferència no és clara.
+
+Step 81/284
+>> Catalan - Amharic
+	ድር ጣቢያውን በማንበብ ጥቅሞቹ እና ጉዳቶች ይነገርዎታል ፡፡ ልመለስ አልችልም ምክንያቱም ልዩነቱ ግልፅ ስላልሆነ ፡፡
+
+Step 82/284
+>> Amharic - Ukrainian
+	Читаючи веб-сайт, ви будете проінформовані про його переваги та недоліки. Я не можу повернутися назад, оскільки різниця не зрозуміла.
+
+Step 83/284
+>> Ukrainian - Georgian
+	როგორც ვებსაიტს კითხულობთ, გაცნობებთ მის უპირატესობებსა და უარყოფითი მხარეებს. მე ვერ დავბრუნდები, რადგან განსხვავება არ არის ნათელი.
+
+Step 84/284
+>> Georgian - Maltese
+	Hekk kif taqra l-websajt, titgħallem dwar il-vantaġġi u l-iżvantaġġi tagħha. Ma nistax immur lura għax id-differenza mhix ċara.
+
+Step 85/284
+>> Maltese - Macedonian
+	Како што ќе прочитате на веб страната, да научат за предности и недостатоци. Не можам да се вратам бидејќи разликата не е јасно.
+
+Step 86/284
+>> Macedonian - Luxembourgish
+	Wéi Dir d'Websäit liest, léiert iwwer d'Virdeeler an Nodeeler. Ech ka net zréck goen well den Ënnerscheed net kloer ass.
+
+Step 87/284
+>> Luxembourgish - Swedish
+	När du läser webbplatsen kan du lära dig om fördelar och nackdelar. Jag kan inte gå tillbaka eftersom skillnaden inte är tydlig.
+
+Step 88/284
+>> Swedish - Slovenian
+	Med brskanjem po spletnem mestu lahko spoznate prednosti in slabosti. Ne morem se vrniti, ker razlika ni jasna.
+
+Step 89/284
+>> Slovenian - Danish
+	Når du gennemser webstedet, kan du lære om fordele og ulemper. Jeg kan ikke vende tilbage, fordi forskellen ikke er klar.
+
+Step 90/284
+>> Danish - Lithuanian
+	Naršydami svetainėje galite sužinoti apie privalumus ir trūkumus. Negaliu grįžti, nes skirtumas nėra aiškus.
+
+Step 91/284
+>> Lithuanian - Irish
+	Agus tú ag brabhsáil an láithreáin is féidir leat foghlaim faoi na buntáistí agus na míbhuntáistí. Ní féidir liom dul ar ais mar níl an difríocht soiléir.
+
+Step 92/284
+>> Irish - Turkish
+	Siteye göz atarken artıları ve eksileri hakkında bilgi edinebilirsiniz. Geri dönemem çünkü fark belli değil.
+
+Step 93/284
+>> Turkish - Icelandic
+	Þegar þú vafrar um síðuna geturðu lært um kosti og galla. Ég get ekki farið aftur vegna þess að munurinn er óljós.
+
+Step 94/284
+>> Icelandic - Estonian
+	Saidi sirvimisel saate õppida plusse ja miinuseid. Ma ei saa tagasi minna, sest erinevus on ebaselge.
+
+Step 95/284
+>> Estonian - Hindi
+	जैसा कि आप साइट ब्राउज़ करते हैं, आप पेशेवरों और विपक्षों को सीख सकते हैं। मैं वापस नहीं जा सकता क्योंकि अंतर स्पष्ट नहीं है।
+
+Step 96/284
+>> Hindi - Romanian
+	Pe măsură ce navigați pe site, puteți afla pro și contra. Nu pot să mă întorc pentru că diferența nu este clară.
+
+Step 97/284
+>> Romanian - Serbian
+	Док прегледавате сајт, можете пронаћи предности и недостатке. Не могу се вратити јер разлика није јасна.
+
+Step 98/284
+>> Serbian - Malagasy
+	Rehefa mandinika ny tranokala ianao dia mahita ny fahasambarana sy ny cons. Tsy afaka miverina aho satria tsy mazava ny fahasamihafana.
+
+Step 99/284
+>> Malagasy - Arabic
+	أثناء تصفحك للموقع يمكنك رؤية السعادة والسلبيات. لا أستطيع العودة لأن الفرق غير واضح.
+
+Step 100/284
+>> Arabic - Kazakh
+	Сайтты қарап отырып, сіз бақыт пен негативті көре аласыз. Мен қайтып бара алмаймын, өйткені айырмашылық айқын емес.
+
+Step 101/284
+>> Kazakh - Armenian
+	Նայելով կայքը, դուք կարող եք տեսնել երջանկություն և բացասականություն: Ես չեմ կարող վերադառնալ, քանի որ տարբերությունն ակնհայտ չէ:
+
+Step 102/284
+>> Armenian - Samoan
+	O le tilotilo i luga o le 'upega tafaʻilagi, e mafai ona e vaʻai i le fiafia ma le le fiafia E le mafai ona ou toe foi aua o le eseesega e le o manino.
+
+Step 103/284
+>> Samoan - Bengali
+	সাইটের দিকে তাকিয়ে আপনি হতাশা এবং হতাশা দেখতে পাচ্ছেন আমি ফিরে যেতে পারছি না কারণ পার্থক্যটি অস্পষ্ট।
+
+Step 104/284
+>> Bengali - Lao
+	ຊອກຫາຢູ່ໃນເວັບໄຊທ໌້ທ່ານສາມາດເຫັນຄວາມອຸກອັ່ງແລະຄວາມອຸກອັ່ງໃຈທີ່ຂ້ອຍບໍ່ສາມາດກັບໄປຍ້ອນຄວາມແຕກຕ່າງບໍ່ຈະແຈ້ງ.
+
+Step 105/284
+>> Lao - Chichewa
+	Mukayang'ana pamalopo mutha kuwona kukhumudwitsidwa ndi kukhumudwa komwe sindingathe kubwereranso chifukwa chosiyana.
+
+Step 106/284
+>> Chichewa - Thai
+	หากคุณดูที่เว็บไซต์คุณสามารถเห็นความคับข้องใจและความผิดหวังที่ฉันไม่สามารถย้อนกลับไปได้ด้วยเหตุผลอื่น
+
+Step 107/284
+>> Thai - Hungarian
+	Ha megnézi a weboldalt, láthatja azt a csalódást és csalódást, hogy más okok miatt nem tudok visszamenni.
+
+Step 108/284
+>> Hungarian - Kurdish
+	Heke hûn li malperê mêze bikin, hûn ê şermezar û şaşiyê bibînin ku ez nikarim ji ber sedemên din vegerim.
+
+Step 109/284
+>> Kurdish - Swahili
+	Ukiangalia tovuti, utapata aibu na machafuko ambayo siwezi kurudi kwa sababu zingine.
+
+Step 110/284
+>> Swahili - Bulgarian
+	Ако погледнете сайта, ще откриете срам и объркване, че не мога да се върна по други причини.
+
+Step 111/284
+>> Bulgarian - Vietnamese
+	Nếu bạn nhìn vào trang web, bạn sẽ thấy xấu hổ và bối rối rằng tôi không thể quay lại vì những lý do khác.
+
+Step 112/284
+>> Vietnamese - Burmese
+	ဒီ site ကိုကြည့်လိုက်ရင်ငါတခြားအကြောင်းပြချက်တွေကြောင့်ပြန်လာလို့မရဘူးဆိုတာရှက်ဖို့ကောင်းတယ်။
+
+Step 113/284
+>> Burmese - English
+	Looking at this site, it's a shame I can't come back for any other reason.
+
+Step 114/284
+>> English - Nepali
+	यस साइटलाई हेर्दा, यो लाजको कुरा हो, म कुनै अन्य कारणले आउन सक्दैन।
+
+Step 115/284
+>> Nepali - Chinese (Traditional)
+	看著這個網站，真是可惜我不能以任何其他理由來。
+
+Step 116/284
+>> Chinese (Traditional) - Russian
+	Глядя на этот сайт, жаль, что я не могу прийти по какой-либо другой причине.
+
+Step 117/284
+>> Russian - German
+	Wenn ich mir diese Seite anschaue, ist es schade, dass ich aus keinem anderen Grund kommen kann.
+
+Step 118/284
+>> German - Hebrew
+	כשאני מסתכל על הדף הזה, חבל שאני לא יכול לבוא מסיבה אחרת.
+
+Step 119/284
+>> Hebrew - Filipino
+	Sa pagtingin sa pahinang ito, isang kahihiyan na hindi ako makakarating para sa isa pang kadahilanan.
+
+Step 120/284
+>> Filipino - Malay
+	Melihat laman ini, rasa malu saya tidak boleh datang untuk alasan lain.
+
+Step 121/284
+>> Malay - Bosnian
+	Gledajući ovu stranicu, moja sramota ne može doći iz drugog razloga.
+
+Step 122/284
+>> Bosnian - Portuguese
+	Olhando para este site, minha vergonha não pode vir por outro motivo.
+
+Step 123/284
+>> Portuguese - Albanian
+	Duke parë këtë faqe, turpi im nuk mund të vijë për ndonjë arsye tjetër.
+
+Step 124/284
+>> Albanian - Dutch
+	Als ik naar deze site kijk, komt mijn schaamte misschien niet voor een andere reden.
+
+Step 125/284
+>> Dutch - Persian
+	وقتی به این سایت نگاه می کنم ، شرم من ممکن است به هر دلیل دیگری نباشد.
+
+Step 126/284
+>> Persian - Croatian
+	Kada pogledam ovu stranicu, moje sramote možda neće biti iz bilo kojeg drugog razloga.
+
+Step 127/284
+>> Croatian - Greek
+	Όταν εξετάζω αυτό το site, η αμηχανία μου μπορεί να μην είναι για οποιονδήποτε άλλο λόγο.
+
+Step 128/284
+>> Greek - Zulu
+	Uma ngibheka le sayithi, amahloni ami kungenzeka angabi ngasiphi isizathu.
+
+Step 129/284
+>> Zulu - Indonesian
+	Melihat situs ini, rasa malu saya mungkin bukan karena alasan apa pun.
+
+Step 130/284
+>> Indonesian - Italian
+	Vedendo questo sito, la mia vergogna potrebbe non essere per nessun motivo.
+
+Step 131/284
+>> Italian - Pashto
+	د دې سایټ لیدل ، زما شرم ممکن د کوم دلیل لپاره نه وي.
+
+Step 132/284
+>> Pashto - Shona
+	Kutarisa pane ino saiti, nyadzi dzangu dzinogona kunge dzisiri chero chikonzero.
+
+Step 133/284
+>> Shona - Hausa
+	Ganin wannan rukunin yanar gizon, kunya na bazai yiwu ba saboda kowane irin dalili.
+
+Step 134/284
+>> Hausa - Urdu
+	اس ویب سائٹ کو دیکھتے ہوئے ، میری وجہ سے کسی بھی وجہ سے شرمانا ممکن نہیں ہے۔
+
+Step 135/284
+>> Urdu - Czech
+	Při pohledu na tento web nemůžu být z jakéhokoli důvodu trapně.
+
+Step 136/284
+>> Czech - Japanese
+	なんらかの理由でこのサイトを見て恥ずかしくない。
+
+Step 137/284
+>> Japanese - Polish
+	Z jakiegoś powodu nie wstydzę się zobaczyć tej strony.
+
+Step 138/284
+>> Polish - Latvian
+	Kādu iemeslu dēļ man nav kauns redzēt šo vietni.
+
+Step 139/284
+>> Latvian - Korean
+	어떤 이유로 나는이 사이트를보고 부끄러워하지 않습니다.
+
+Step 140/284
+>> Korean - Maori
+	Mo etahi take kaore au i te whakama ki te kite i tenei papaanga.
+
+Step 141/284
+>> Maori - Finnish
+	Jostain syystä en ole häpeäni nähdä tätä sivua.
+
+Step 142/284
+>> Finnish - Slovak
+	Z nejakého dôvodu sa nehanbím vidieť túto stránku.
+
+Step 143/284
+>> Slovak - Finnish
+	Jostain syystä en ole häpeäni nähdä tätä sivua.
+
+Step 144/284
+>> Finnish - Maori
+	Mo etahi take kaore au i te whakama ki te kite i tenei whaarangi.
+
+Step 145/284
+>> Maori - Korean
+	어떤 이유로 나는이 페이지를보고 부끄러워하지 않습니다.
+
+Step 146/284
+>> Korean - Latvian
+	Kādu iemeslu dēļ man nav kauns redzēt šo lapu.
+
+Step 147/284
+>> Latvian - Polish
+	Z jakiegoś powodu nie wstydzę się zobaczyć tej strony.
+
+Step 148/284
+>> Polish - Japanese
+	どういうわけか、このサイトを見るのを恥ずかしくない。
+
+Step 149/284
+>> Japanese - Czech
+	Nějak se stydím vidět tento web.
+
+Step 150/284
+>> Czech - Urdu
+	کسی طرح اس سائٹ کو دیکھ کر مجھے شرم آتی ہے۔
+
+Step 151/284
+>> Urdu - Hausa
+	Koyaya na ji kunyar ganin wannan rukunin yanar gizon.
+
+Step 152/284
+>> Hausa - Shona
+	Zvisinei ini ndinonyara kuona ichi blog post.
+
+Step 153/284
+>> Shona - Pashto
+	په هرصورت زه د دې بلاګ پوسټ په لیدو شرمیږم.
+
+Step 154/284
+>> Pashto - Italian
+	Comunque mi vergogno di vedere questo post sul blog.
+
+Step 155/284
+>> Italian - Indonesian
+	Namun saya malu melihat posting blog ini.
+
+Step 156/284
+>> Indonesian - Zulu
+	Kepha nginamahloni ukubona lokhu okuthunyelwe kubhulogi.
+
+Step 157/284
+>> Zulu - Greek
+	Αλλά ντρέπομαι να δω αυτό το blog post.
+
+Step 158/284
+>> Greek - Croatian
+	Ali sramim se vidjeti ovaj blog blog.
+
+Step 159/284
+>> Croatian - Persian
+	اما شرمنده این پست وبلاگ هستم.
+
+Step 160/284
+>> Persian - Dutch
+	Maar ik schaam me voor deze blogpost.
+
+Step 161/284
+>> Dutch - Albanian
+	Por më vjen turp për këtë postim në blog.
+
+Step 162/284
+>> Albanian - Portuguese
+	Mas tenho vergonha deste post do blog.
+
+Step 163/284
+>> Portuguese - Bosnian
+	Ali sramim se ovog posta na blogu.
+
+Step 164/284
+>> Bosnian - Malay
+	Tetapi saya malu post blog ini.
+
+Step 165/284
+>> Malay - Filipino
+	Ngunit nahihiya ako sa post sa blog na ito.
+
+Step 166/284
+>> Filipino - Hebrew
+	אבל אני מתביישת בפוסט הבלוג הזה.
+
+Step 167/284
+>> Hebrew - German
+	Aber ich schäme mich für diesen Blog-Beitrag.
+
+Step 168/284
+>> German - Russian
+	Но мне стыдно за этот пост.
+
+Step 169/284
+>> Russian - Chinese (Traditional)
+	但是我為這個職位感到羞恥。
+
+Step 170/284
+>> Chinese (Traditional) - Nepali
+	तर म यस स्थानबाट शर्माउँछु।
+
+Step 171/284
+>> Nepali - English
+	But I'm ashamed of this place.
+
+Step 172/284
+>> English - Burmese
+	ဒါပေမဲ့ဒီနေရာကိုငါရှက်တယ်။
+
+Step 173/284
+>> Burmese - Vietnamese
+	Nhưng tôi xấu hổ về nơi này.
+
+Step 174/284
+>> Vietnamese - Bulgarian
+	Но ме е срам от това място.
+
+Step 175/284
+>> Bulgarian - Swahili
+	Lakini nina aibu juu ya mahali hapa.
+
+Step 176/284
+>> Swahili - Kurdish
+	Lê ez ji vê cihê şerm dikim.
+
+Step 177/284
+>> Kurdish - Hungarian
+	De szégyellem ezt a helyet.
+
+Step 178/284
+>> Hungarian - Thai
+	แต่ฉันรู้สึกละอายใจกับสถานที่แห่งนี้
+
+Step 179/284
+>> Thai - Chichewa
+	Koma ndikumva manyazi ndi malowa
+
+Step 180/284
+>> Chichewa - Lao
+	ແຕ່ຂ້ອຍຮູ້ສຶກມີຄວາມລະອາຍກັບສະຖານທີ່
+
+Step 181/284
+>> Lao - Bengali
+	তবে আমি জায়গাটি নিয়ে লজ্জা বোধ করছি
+
+Step 182/284
+>> Bengali - Samoan
+	Ae ou te maasiasi i le nofoaga
+
+Step 183/284
+>> Samoan - Armenian
+	Բայց ես ամաչում եմ տեղից
+
+Step 184/284
+>> Armenian - Kazakh
+	Бірақ мен өзімнен ұяламын
+
+Step 185/284
+>> Kazakh - Arabic
+	لكنني أشعر بالخجل من نفسي
+
+Step 186/284
+>> Arabic - Malagasy
+	Fa menatra ny tenako
+
+Step 187/284
+>> Malagasy - Serbian
+	Али стидим се себе
+
+Step 188/284
+>> Serbian - Romanian
+	Dar îmi este rușine de mine
+
+Step 189/284
+>> Romanian - Hindi
+	लेकिन मुझे खुद पर शर्म आती है
+
+Step 190/284
+>> Hindi - Estonian
+	Kuid mul on enda pärast häbi
+
+Step 191/284
+>> Estonian - Icelandic
+	En ég skammast mín fyrir sjálfan mig
+
+Step 192/284
+>> Icelandic - Turkish
+	Ama kendimden utanıyorum
+
+Step 193/284
+>> Turkish - Irish
+	Ach tá náire orm féin
+
+Step 194/284
+>> Irish - Lithuanian
+	Bet man gėda dėl savęs
+
+Step 195/284
+>> Lithuanian - Danish
+	Men jeg skammer mig over mig selv
+
+Step 196/284
+>> Danish - Slovenian
+	Sram me je pa samega sebe
+
+Step 197/284
+>> Slovenian - Swedish
+	Jag skäms för mig själv
+
+Step 198/284
+>> Swedish - Luxembourgish
+	Ech schummen mech
+
+Step 199/284
+>> Luxembourgish - Macedonian
+	Се срамам
+
+Step 200/284
+>> Macedonian - Maltese
+	Jiena jistħi
+
+Step 201/284
+>> Maltese - Georgian
+	მე მრცხვენია
+
+Step 202/284
+>> Georgian - Ukrainian
+	Мені соромно
+
+Step 203/284
+>> Ukrainian - Amharic
+	አፍሬ ነው
+
+Step 204/284
+>> Amharic - Catalan
+	És la meva vergonya
+
+Step 205/284
+>> Catalan - Haitian Creole
+	Se wont mwen
+
+Step 206/284
+>> Haitian Creole - Norwegian
+	Det er min skam
+
+Step 207/284
+>> Norwegian - French
+	C'est ma honte
+
+Step 208/284
+>> French - Sinhala
+	ඒක මගේ ලැජ්ජාව
+
+Step 209/284
+>> Sinhala - Uzbek
+	Bu mening sharmandaligim
+
+Step 210/284
+>> Uzbek - Spanish
+	Esta es mi verguenza
+
+Step 211/284
+>> Spanish - Mongolian
+	Энэ бол миний ичгүүр юм
+
+Step 212/284
+>> Mongolian - Chinese (Simplified)
+	这是我的耻辱
+
+Step 213/284
+>> Chinese (Simplified) - Bosnian
+	Ovo je moja sramota
+
+Step 214/284
+>> Bosnian - Urdu
+	یہ میری شرم کی بات ہے
+
+Step 215/284
+>> Urdu - Portuguese
+	Esta é a minha vergonha
+
+Step 216/284
+>> Portuguese - Icelandic
+	Þetta er mér til skammar
+
+Step 217/284
+>> Icelandic - Japanese
+	これは私には残念です
+
+Step 218/284
+>> Japanese - Thai
+	นี่คือโชคร้ายสำหรับฉัน
+
+Step 219/284
+>> Thai - Georgian
+	ეს ცუდი იღბალია ჩემთვის
+
+Step 220/284
+>> Georgian - Swedish
+	Det är otur för mig
+
+Step 221/284
+>> Swedish - Slovak
+	Je to pre mňa zlé
+
+Step 222/284
+>> Slovak - Kurdish
+	Ew ji bo min xirab e
+
+Step 223/284
+>> Kurdish - Amharic
+	ይህ ለእኔ መጥፎ ነው
+
+Step 224/284
+>> Amharic - Mongolian
+	Энэ бол надад муу
+
+Step 225/284
+>> Mongolian - Malagasy
+	Ratsy ho ahy izany
+
+Step 226/284
+>> Malagasy - Nepali
+	त्यो मेरो लागि नराम्रो हो
+
+Step 227/284
+>> Nepali - Korean
+	그건 나에게 나쁘다
+
+Step 228/284
+>> Korean - Hungarian
+	Ez nekem rossz
+
+Step 229/284
+>> Hungarian - Russian
+	Это плохо для меня
+
+Step 230/284
+>> Russian - Luxembourgish
+	Et ass schlecht fir mech
+
+Step 231/284
+>> Luxembourgish - Bengali
+	এটা আমার পক্ষে খারাপ
+
+Step 232/284
+>> Bengali - Albanian
+	Badshtë e keqe për mua
+
+Step 233/284
+>> Albanian - Maori
+	He kino mo taku
+
+Step 234/284
+>> Maori - Bulgarian
+	За съжаление за мен
+
+Step 235/284
+>> Bulgarian - Shona
+	Zvinosuruvarisa kwandiri
+
+Step 236/284
+>> Shona - Swahili
+	Bahati mbaya kwangu
+
+Step 237/284
+>> Swahili - Italian
+	Purtroppo per me
+
+Step 238/284
+>> Italian - Croatian
+	Nažalost za mene
+
+Step 239/284
+>> Croatian - Persian
+	متاسفانه برای من
+
+Step 240/284
+>> Persian - Burmese
+	ကံမကောင်းစွာပဲ
+
+Step 241/284
+>> Burmese - Turkish
+	Ne yazık ki,
+
+Step 242/284
+>> Turkish - Lithuanian
+	Deja,
+
+Step 243/284
+>> Lithuanian - Estonian
+	Kahjuks
+
+Step 244/284
+>> Estonian - Macedonian
+	За жал
+
+Step 245/284
+>> Macedonian - Maltese
+	Sfortunatament
+
+Step 246/284
+>> Maltese - Pashto
+	له بده مرغه
+
+Step 247/284
+>> Pashto - German
+	Leider nein
+
+Step 248/284
+>> German - Samoan
+	Ae paga lea leai
+
+Step 249/284
+>> Samoan - Armenian
+	Unfortunatelyավոք ոչ
+
+Step 250/284
+>> Armenian - Czech
+	Bohužel to tak není
+
+Step 251/284
+>> Czech - Chichewa
+	Tsoka ilo, sizili choncho
+
+Step 252/284
+>> Chichewa - Spanish
+	Desafortunadamente, este no es el caso
+
+Step 253/284
+>> Spanish - Irish
+	Ar an drochuair ní hamhlaidh atá
+
+Step 254/284
+>> Irish - Uzbek
+	Afsuski, bunday emas
+
+Step 255/284
+>> Uzbek - Dutch
+	Dit is helaas niet het geval
+
+Step 256/284
+>> Dutch - Vietnamese
+	Thật không may, đây không phải là trường hợp
+
+Step 257/284
+>> Vietnamese - Haitian Creole
+	Malerezman, sa a se pa ka a
+
+Step 258/284
+>> Haitian Creole - Chinese (Simplified)
+	不幸的是，事实并非如此
+
+Step 259/284
+>> Chinese (Simplified) - Catalan
+	Malauradament, aquest no és el cas
+
+Step 260/284
+>> Catalan - Kazakh
+	Өкінішке орай, олай емес
+
+Step 261/284
+>> Kazakh - Hausa
+	Abin takaici, wannan ba shine lamarin ba
+
+Step 262/284
+>> Hausa - Romanian
+	Din păcate, nu este cazul
+
+Step 263/284
+>> Romanian - Arabic
+	لسوء الحظ ، ليس هذا هو الحال
+
+Step 264/284
+>> Arabic - Slovenian
+	Žal to ni tako
+
+Step 265/284
+>> Slovenian - Danish
+	Desværre er dette ikke tilfældet
+
+Step 266/284
+>> Danish - Lao
+	ແຕ່ໂຊກບໍ່ດີ, ນີ້ບໍ່ແມ່ນຄວາມຈິງ
+
+Step 267/284
+>> Lao - Hindi
+	दुर्भाग्य से, यह सच नहीं है
+
+Step 268/284
+>> Hindi - Finnish
+	Valitettavasti tämä ei ole totta
+
+Step 269/284
+>> Finnish - Ukrainian
+	На жаль, це неправда
+
+Step 270/284
+>> Ukrainian - Malay
+	Malangnya, ini tidak benar
+
+Step 271/284
+>> Malay - Zulu
+	Ngeshwa, lokhu akulona iqiniso
+
+Step 272/284
+>> Zulu - French
+	Malheureusement, ce n'est pas vrai
+
+Step 273/284
+>> French - Norwegian
+	Dette er dessverre ikke sant
+
+Step 274/284
+>> Norwegian - Hebrew
+	למרבה הצער, זה לא נכון
+
+Step 275/284
+>> Hebrew - Indonesian
+	Sayangnya, itu tidak benar
+
+Step 276/284
+>> Indonesian - Latvian
+	Diemžēl tā nav taisnība
+
+Step 277/284
+>> Latvian - Sinhala
+	අවාසනාවට, මෙය සත්‍ය නොවේ
+
+Step 278/284
+>> Sinhala - Polish
+	Niestety nie jest to prawdą
+
+Step 279/284
+>> Polish - Serbian
+	Нажалост, то није тачно
+
+Step 280/284
+>> Serbian - English
+	Unfortunately, this is not true
+
+Step 281/284
+>> English - Greek
+	Δυστυχώς, αυτό δεν είναι αλήθεια
+
+Step 282/284
+>> Greek - Filipino
+	Sa kasamaang palad, hindi ito totoo
+
+Step 283/284
+>> Filipino - Chinese (Traditional)
+	不幸的是，這不是真的
+
+Step 284/284
+>> Chinese (Traditional) - English
+	Unfortunately, this is not true
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+Unfortunately, this is not true

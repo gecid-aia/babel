@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - tl - el - en - sr - pl - si - lv - id - he - no - fr - zu - ms - uk - fi - hi - lo - da - sl - ar - ro - ha - kk - ca - zh - ht - vi - nl - uz - ga - es - ny - cs - hy - sm - de - ps - mt - mk - et - lt - tr - my - fa - hr - it - sw - sn - bg - mi - sq - bn - lb - ru - hu - ko - ne - mg - mn - am - ku - sk - sv - ka - th - ja - is - pt - ur - bs - zh - mn - es - uz - si - fr - no - ht - ca - am - uk - ka - mt - mk - lb - sv - sl - da - lt - ga - tr - is - et - hi - ro - sr - mg - ar - kk - hy - sm - bn - lo - ny - th - hu - ku - sw - bg - vi - my - en - ne - zh-TW - ru - de - he - tl - ms - bs - pt - sq - nl - fa - hr - el - zu - id - it - ps - sn - ha - ur - cs - ja - pl - lv - ko - mi - fi - sk.
+Input text: The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Chinese (Traditional)
+	KhaleefehHároonEr-Rasheed今天晚上出去看望並聽到他可以收集到什麼消息，在他的WezeerJaạfar和他的ạ子手Mesroor的陪同下。偽裝成商人的服裝是他的風俗。那天晚上，當他穿過這座城市時，他碰巧和他的服務員一起經過這些女士的房子，聽見樂器的聲音，他對賈法爾說，我渴望進入這所房子，看看誰在演唱會賈法爾（Jaạfar）回答說，他們是一個令人陶醉的聚會，我擔心我們可能會受到他們的虐待。但是Khaleefeh說，我們必須進入，我希望您能設計出一些策略，以便我們可以接納囚犯。賈法爾（Jaạfar）回答說，我聽見並聽從了。他前進，敲門。女服務員來開門的時候，他對她說：“我的情婦，我們是塔巴耶耶的商人，已經在巴格達住了十天。我們帶來了商品，並在一個Khán住了下來；一位商人邀請我們今晚參加娛樂活動：因此，我們去了他的房子，他把食物擺在我們面前，我們一起吃飯，一起坐了一會兒喝酒，然後他讓我們離開。在黑暗中成為陌生人出去，我們錯過了去Khán的路：因此，我們相信您的慷慨大方，您會允許我們在您的房間過夜。通過這樣做，你會在天上獲得回報。
+
+Step 2/284
+>> Chinese (Traditional) - Filipino
+	Si Khaleefeh Hároon Er-Rasheed ay lumabas upang makita ngayong gabi at narinig kung ano ang mga balita na maaari niyang tipunin, sinamahan ng kanyang Wezeer Jaạfar at ang kanyang tagapagpatay na si Mesroor. Karaniwang kaugalian na magkaila siya bilang isang negosyante. Nang gabing iyon, habang naglalakad siya sa lungsod, naranasan niya ang mga bahay ng mga kababaihan kasama ang kanyang tagapag-alaga at narinig ang tunog ng mga instrumentong pangmusika.Sinabi niya kay Jaffar na sabik akong pumasok sa bahay na ito upang makita kung sino ang nasa konsiyerto Sumagot si Jaạfar na sila ay isang nakalalasing partido at nag-aalala ako na baka inaabuso namin sila. Ngunit sinabi ni Khaleefeh na dapat tayong magpasok at inaasahan kong maaari kang magdisenyo ng ilang mga diskarte upang ma-accommodate namin ang mga bilanggo. Sagot ni Jaạfar, narinig ko at sumunod. Humarap siya at kumatok. Nang dumating ang waitress upang buksan ang pinto, sinabi niya sa kanya, "Aking panginoon, kami ay mga mangangalakal ng Tabayaye at sampung araw na nanirahan sa Baghdad. Dinala namin ang mga kalakal at nanirahan sa isang Khán; isa Inanyayahan kami ng negosyante na aliwin ngayong gabi: Kaya't nagpunta kami sa kanyang bahay, inilagay niya ang pagkain sa harap namin, kumain kami ng magkasama, sabay kaming umupo at uminom, at pagkatapos ay hayaan kaming umalis. Maging mga estranghero sa dilim at lumabas Naiwan namin ang daan patungo sa Khán: Samakatuwid, naniniwala kami sa iyong kagandahang-loob at pahihintulutan ka naming gumastos ng gabi sa iyong silid. Sa paggawa nito, gagantimpalaan ka sa langit.
+
+Step 3/284
+>> Filipino - Greek
+	Ο Khaleefeh Hároon Er-Rasheed βγήκε για να δει απόψε και άκουσε τι νέα θα μπορούσε να συγκεντρώσει, συνοδευόμενος από τον Wezeer Jaạfar και τον εκτελεστή του Mesroor. Είναι συνηθισμένη πρακτική να τον αποκηρύξετε ως επιχειρηματία. Εκείνη τη νύχτα, καθώς περπατούσε μέσα από την πόλη, βίωσε τα γυναικεία σπίτια με τον κηδεμόνα της και άκουσε τον ήχο των μουσικών οργάνων. Είπε στον Jaffar ότι ήμουν πρόθυμος να μπω σε αυτό το σπίτι για να δω ποιος ήταν στη συναυλία Jaạfar απάντησε ότι ήταν ένα μεθυστικό πάρτι και ανησυχούσα ότι θα μπορούσαμε να τους κακομεταχειρίσουμε. Αλλά ο Khaleefeh είπε ότι πρέπει να έρθουμε και ελπίζω ότι μπορείτε να σχεδιάσετε κάποιες στρατηγικές ώστε να μπορέσουμε να φιλοξενήσουμε τους φυλακισμένους. Ο Jaạfar απάντησε, άκουσα και υπακούσα. Σηκώθηκε και χτύπησε. Όταν η σερβιτόρα ήρθε για να ανοίξει την πόρτα, του είπε: «Κύριέ μου, ήμασταν έμποροι του Tabayaye και μέναμε για δέκα μέρες στη Βαγδάτη, φέραμε τα αγαθά και εγκαταστάσαμε σε ένα Khán. απόψε: Έτσι πήγαμε στο σπίτι του, έβαλε το φαγητό μπροστά μας, φάγαμε μαζί, κάθισαμε μαζί και ήπιαμε, και αφήστε μας να φύγουμε. για τον Χαν: Επομένως, πιστεύουμε στην καλοσύνη σας και θα σας επιτρέψουμε να περάσετε τη νύχτα στο δωμάτιό σας, κάνοντας έτσι, θα ανταμειφθείτε στον ουρανό.
+
+Step 4/284
+>> Greek - English
+	Khaleefeh Hároon Er-Rasheed went out to see tonight and heard what news he could muster, accompanied by Wezeer Jaạfar and his Mesroor performer. It is common practice to renounce him as a businessman. That night, as she walked through the city, she experienced female homes with her guardian and listened to the sound of musical instruments. He told Jaffar that I was eager to go into this house to see who was at the Jaạfar concert and replied that it was a drunken party and worried that we might be mistreated. But Khaleefeh said we need to come and I hope you can design some strategies so we can accommodate the prisoners. Jaạfar answered, I listened and obeyed. He got up and knocked. When the waitress came to open the door, he said: "My Lord, we were Tabayaye's traders and we stayed for ten days in Baghdad, brought the goods and settled in a Khán. tonight: So we went to his house, put food in front of us, ate together, sat down and drank together, and let us go. for Khan: So we believe in your kindness and allow you to spend the night in your room, doing so will reward you in heaven.
+
+Step 5/284
+>> English - Serbian
+	Кхалеефех Хароон Ер-Расхеед вечерас је изашао да види и чуо какве вести може да донесе, у пратњи Везеер Јаафара и његовог извођача Месроор. Уобичајена је пракса да се одричу њега као бизнисмена. Те ноћи, док је шетала градом, доживљавала је женске куће са својим чуваром и слушала звук музичких инструмената. Рекао је Јаффару да сам нестрпљив да уђем у ову кућу да видим ко је био на концерту Јаарфара и одговорио да је то пијана забава и да се брине да бисмо могли бити злостављани. Али Кхалеефех је рекао да требамо доћи и надам се да можете смислити неке стратегије како бисмо могли прихватити затворенике. Јаафар одговори, слушао сам и послушао. Устао је и покуцао. Када је конобарица дошла да отвори врата, рекао је: "Господару мој, ми смо били Табаиаие трговци и задржали смо се десет дана у Багдаду, донели робу и настанили се у Кхану. Вечерас смо отишли до његове куће и ставили храну Испред нас, заједно смо јели, заједно седели и пили, и пустили нас. Кхан: Тако да верујемо у вашу доброту и дозвољавамо вам да ноћ проведете у својој соби, чинећи то наградит ће вас на небу.
+
+Step 6/284
+>> Serbian - Polish
+	Khaleefeh Haroon Er-Rasheed wyszedł dziś wieczorem, aby zobaczyć i usłyszeć, jakie wieści może przynieść, w towarzystwie Vezeera Jaafara i jego wykonawcy Mesroora. Powszechną praktyką jest rezygnacja z niego jako biznesmena. Tej nocy, gdy spacerowała po mieście, ze strażą doświadczała kobiecych domów i słuchała dźwięków instrumentów muzycznych. Powiedział Jaffarowi, że chętnie wchodzę do tego domu, aby zobaczyć, kto był na koncercie w Jaarfar, i odpowiedział, że to była pijana impreza, i martwił się, że możemy zostać wykorzystani. Ale Khaleefeh powiedział, że musimy przyjść i mam nadzieję, że wymyślicie jakieś strategie, abyśmy mogli pomieścić więźniów. Jaafar odpowiedział: Słuchałem i słuchałem. Wstał i zapukał. Kiedy kelnerka przyszła, by otworzyć drzwi, powiedział: „Mój panie, byliśmy kupcami z Tabaiaie i zostaliśmy przez dziesięć dni w Bagdadzie, przynieśliśmy nasze towary i osiedliliśmy się w Khanie. Dziś wieczorem poszliśmy do jego domu i położyliśmy jedzenie przed sobą, razem jedliśmy, siedzieliśmy i piliśmy razem, i wpuścili nas. Khan: Więc wierzymy w twoją dobroć i pozwalamy ci spędzić noc w swoim pokoju, ponieważ nagrodzi cię w niebie.
+
+Step 7/284
+>> Polish - Sinhala
+	කලීෆේ හරූන් එර්-රෂීඩ් අද රාත්‍රියේ පිටත්ව ගියේ ඔහුට ගෙන ඒමට හැකි ප්‍රවෘත්ති බැලීමට සහ අසන්නට, වීසීර් ජාෆර් සහ ඔහුගේ රංගන ශිල්පී මෙස්රූර් සමඟය. ව්‍යාපාරිකයෙකු ලෙස ඔහුව අත්හැරීම සාමාන්‍ය සිරිතකි. එදින රාත්‍රියේ ඇය නගරය වටා ඇවිදිමින් සිටියදී කාන්තාවන්ගේ නිවාස මුරයෙන් බලා සංගීත භාණ්ඩවල හ to ට සවන් දුන්නාය. ජාර්ෆාර්හි ප්‍රසංගයට සහභාගී වූයේ කවුරුන්දැයි බැලීමට මම සතුටින් මෙම නිවසට ඇතුළු වන බව ඔහු ජෆාර්ට පැවසූ අතර, ඔහු එය බීම සාදයක් යැයි පිළිතුරු දුන් අතර, අපව භාවිතා කළ හැකි යැයි ඔහු කනස්සල්ලට පත්විය. නමුත් කලීෆේ පැවසුවේ අප පැමිණිය යුතු බවත් සිරකරුවන්ට නවාතැන් ගත හැකි වන පරිදි ඔබ යම් උපාය මාර්ගයක් ඉදිරිපත් කරනු ඇති බවත්ය. ජාෆර් පිළිතුරු දුන්නේ: මම සවන් දී සවන් දුන්නා. ඔහු නැඟිට තට්ටු කළේය. වේටර්වරිය දොර ඇරීමට පැමිණි විට ඔහු මෙසේ පැවසීය: “ස්වාමිනි, අපි ටබයියාහි වෙළෙන්දෝ වූ අතර අපි දින දහයක් බැග්ඩෑඩ්හි නැවතී සිටිමු. අපි අපේ භාණ්ඩ ගෙනැවිත් ඛාන් හි පදිංචි වීමු. අද රාත්‍රියේ අපි ඔහුගේ නිවසට ගොස් ආහාර අප ඉදිරිපිට තබා, එකට කෑවා, වාඩි වී එකට බිව්වෙමු. ඛාන්: එබැවින් අපි ඔබගේ යහපත්කම විශ්වාස කරන අතර රාත්‍රිය ඔබේ කාමරයේ ගත කිරීමට ඔබට ඉඩ දෙන්නෙමු.
+
+Step 8/284
+>> Sinhala - Latvian
+	Khalifa Haroon Er-Rasheed šovakar aizbrauca kopā ar Veisiru Jafferu un viņa aktieri Mesruru, lai redzētu un dzirdētu, kādas ziņas viņš varētu nest. Bija ierasts atstāt viņu kā biznesmeni. Šajā naktī pastaigājoties pa pilsētu, viņa vēroja sieviešu mājas un klausījās mūzikas instrumentus. Viņš teica Jafaram, ka es labprāt ieeju šajā mājā, lai redzētu, kas ir apmeklējis koncertu Jafārā. Bet kalifs teica, ka mums vajadzētu nākt, un jūs nāks klajā ar kādu stratēģiju, lai ieslodzītos varētu izmitināt. Džafars atbildēja: es klausījos un klausījos. Viņš piecēlās un pieklauvēja. Kad viesmīle piegāja pie durvīm, viņš sacīja: "Kungs, mēs esam Tabajājas tirgotāji un desmit dienas uzturēsimies Bagdādē." Mēs atvedām savas preces un apmetāmies Hanā. Šovakar mēs devāmies uz viņa māju, un mums bija priekšā ēdiens, kopā ēdām un dzērām. Kāns: Tātad mēs ticam jūsu labestībai un ļaujam nakti pavadīt savā istabā.
+
+Step 9/284
+>> Latvian - Indonesian
+	Khalif Haroon Er-Rasheed pergi malam ini bersama Weisser Jaffer dan aktornya Mesrur untuk melihat dan mendengar berita apa yang bisa ia bawa. Sudah menjadi kebiasaan untuk meninggalkannya sebagai pengusaha. Berjalan melalui kota malam itu, dia menyaksikan rumah-rumah wanita dan mendengarkan alat musik. Dia memberi tahu Jafar bahwa saya akan dengan senang hati memasuki rumah ini untuk melihat siapa yang menghadiri konser di Jafar. Tetapi khalifah mengatakan kami harus datang dan Anda akan menemukan strategi untuk mengakomodasi para tahanan. Jaffar menjawab: Saya mendengarkan dan mendengarkan. Dia bangkit dan mengetuk. Ketika pelayan datang ke pintu, dia berkata, "Tuan, kami adalah pedagang Tabaya dan akan tinggal di Baghdad selama sepuluh hari." Kami membawa barang-barang kami dan menetap di Hana. Malam ini kami pergi ke rumahnya dan kami memiliki makanan di depan kami, makan dan minum bersama. Khan: Jadi kami percaya pada kebaikan Anda dan membiarkan Anda bermalam di kamar Anda.
+
+Step 10/284
+>> Indonesian - Hebrew
+	חאליף הרון אר-רשיד עזב הלילה יחד עם ווייסר ג'אפר ושחקן מסרור כדי לראות ולשמוע אילו חדשות הוא יכול להביא. זה הפך להרגל להשאיר אותו כיזם. באותו לילה הסתובב בעיר וצפה בבתי נשים והאזין לכלי נגינה. הוא אמר לג'פר שאני אשמח להיכנס לבית הזה כדי לראות מי מגיע לקונצרט בג'פר. אבל הח'ליף אמר שאנחנו חייבים לבוא ותמצאו אסטרטגיה להכיל את האסירים. ג'פר ענה: אני מקשיב ומקשיב. הוא קם ודפק. כשהמשרת ניגש לדלת, הוא אמר, "אדוני, אנחנו סוחרי טאבאיה ונשאר בבגדאד במשך עשרה ימים." אנחנו סוחבים את המזוודות ומתמקמים בהאנה. הלילה הלכנו לביתו והיה לנו אוכל מולנו, אוכלים ושותים יחד. חאן: אז אנו מאמינים בטוב לבכם ומאפשרים לכם לבלות את הלילה בחדרכם.
+
+Step 11/284
+>> Hebrew - Norwegian
+	Khalif Heron Ar-Rashid dro i kveld sammen med Weiser Jaffer og en sagbruksspiller for å se og høre hvilke nyheter han kunne gi. Det har blitt en vane å forlate ham som gründer. Den kvelden gikk han rundt i byen og så på kvinnehus og hørte på musikkinstrumenter. Han sa til Jeffer at jeg ville elske å komme inn i dette huset for å se hvem som kommer til Jeffer konsert. Men kalifen sa at vi må komme og finne en strategi for å inneholde fangene. Jeffer svarte: Jeg hører og hører på. Han reiste seg og banket. Da tjeneren kom til døren, sa han: "Sir, vi er Tabaya-kjøpmenn og vil forbli i Bagdad i ti dager." Vi bærer bagasjen og bosetter oss på Hanna. I kveld dro vi til huset hans og spiste mat foran oss, spiste og drakk sammen. Khan: Så vi tror på din vennlighet og lar deg tilbringe natten på rommet ditt.
+
+Step 12/284
+>> Norwegian - French
+	Khalif Heron Ar-Rashid est allé ce soir avec Weiser Jaffer et un joueur de scierie pour voir et entendre quelles nouvelles il pourrait donner. C'est devenu une habitude de le laisser comme entrepreneur. Cette nuit-là, il se promenait dans la ville, regardait les maisons de femmes et écoutait des instruments de musique. Il a dit à Jeffer que j'aimerais entrer dans cette maison pour voir qui vient au concert de Jeffer. Mais le calife a dit que nous devons venir trouver une stratégie pour contenir les prisonniers. Jeffer a répondu: j'écoute et j'écoute. Il se leva et frappa. Lorsque le domestique est venu à la porte, il a dit: "Monsieur, nous sommes des marchands de Tabaya et nous resterons à Bagdad pendant dix jours." Nous portons nos bagages et nous installons sur Hanna. Ce soir, nous sommes allés chez lui et avons mangé devant nous, avons mangé et bu ensemble. Khan: Nous croyons donc en votre gentillesse et vous permettons de passer la nuit dans votre chambre.
+
+Step 13/284
+>> French - Zulu
+	UKhalif Heron Ar-Rashid uhambe noWeiser Jaffer kanye nomdlali wasebusweni namuhla ukubona nokuzwa ukuthi yiziphi izindaba angabanikeza zona. Sekuphenduke umkhuba ukumshiya njengosomabhizinisi. Ngalobo busuku wayehamba azungeze idolobha, ebuka izindlu zabesifazane futhi elalele izinsimbi zomculo. Uthe kuJeffer ngifuna ukuthi ngingene kule ndlu ukubona ukuthi ngubani oza ekhonsathini kaJeffer. Kepha i-caliph yathi kufanele sifike sizothola isu lokuqukatha iziboshwa. UJeffer waphendula wathi: Ngiyalalela futhi ngiyalalela. Wasukuma wangqongqoza. Lapho inceku ifika emnyango, yathi, "Mnumzane, singabathengisi abavela eThabaya futhi sizohlala eBaghdad izinsuku eziyishumi." Siphatha imithwalo yethu bese sihlala eHanna. Namuhla kusihlwa siye endlini yakhe sadla phambi kwethu, sadla futhi saphuza ndawonye. UKhan: Ngakho-ke sikholelwa emseni wakho futhi sikuvumela ukuba uchithe ubusuku egumbini lakho.
+
+Step 14/284
+>> Zulu - Malay
+	Khalif Heron Ar-Rashid mengembara dengan Weiser Jaffer dan seorang pemain veteran hari ini untuk melihat dan mendengar cerita yang dapat diberikannya. Ia menjadi kebiasaan untuk meninggalkannya sebagai seorang usahawan. Malam itu dia berjalan mengelilingi bandar, menonton rumah wanita dan mendengar alat muzik. Dia berkata kepada Jeffer Saya mahu saya pergi ke rumah ini untuk melihat siapa yang hadir dalam konsert Jeffer. Tetapi khalifah berkata kita terpaksa datang dan mencari rancangan untuk membendung tahanan. Jeffer menjawab: Saya dengar dan saya dengar. Dia bangun dan mengetuk. Ketika pelayan itu datang ke pintu, dia berkata, "Tuan, kami adalah pedagang dari Tabah dan akan tinggal di Baghdad selama sepuluh hari." Kami mengemas barang-barang kami dan menginap di Hanna. Malam ini kami pergi ke rumahnya dan makan di hadapan kami, makan dan minum bersama-sama. Khan: Jadi, kami percaya pada kebaikan anda dan membolehkan anda untuk bermalam di bilik anda.
+
+Step 15/284
+>> Malay - Ukrainian
+	Халіф Херон Ар-Рашид сьогодні подорожував з Вейзером Джаффером та ветераном, щоб побачити та почути історію, яку він міг розповісти. Стала звичка залишати його як підприємця. Тієї ночі він гуляв містом, спостерігаючи за будинками жінок та слухаючи музичні інструменти. Він сказав Джеффу, що я хочу зайти до цього будинку, щоб побачити, хто був на концерті Джеффера. Але халіф сказав, що ми повинні прийти і шукати план утримання полонених. Джеффер відповідає: Я чую і чую. Вона встала і постукала. Коли слуга підійшов до дверей, він сказав: "Сер, ми є купцями Тави і залишимося в Багдаді десять днів". Ми запакували свої речі і залишилися у Ханні. Сьогодні вночі ми зайшли до її будинку і їли перед нами, разом їли та пили. Хан: Отже, ми віримо у вашу доброту і дозволяємо вам переночувати у своїй кімнаті.
+
+Step 16/284
+>> Ukrainian - Finnish
+	Khalif Heron Ar-Rashid matkusti tänään Weiser Jafferin ja veteraanin kanssa nähdä ja kuulla tarina, jonka hän pystyi kertomaan. Tapana oli jättää hänet yrittäjäksi. Sinä yönä hän kulki kaupunkia, katsellen naisten koteja ja kuunnellessa soittimia. Hän kertoi Jeffille, että haluan mennä tähän taloon katsomaan kuka oli Jeffin konsertilla. Mutta kaliffi sanoi, että meidän pitäisi tulla etsimään suunnitelmaa vankien pitämiseksi. Jeff vastaa: Kuulen ja kuulen. Hän nousi ja koputti. Kun palvelija tuli ovelle, hän sanoi: "Herra, olemme Tavan kauppiaita ja pysymme Bagdadissa kymmenen päivää." Pakatimme asiamme ja jäimme Hannahiin. Tänä iltana menimme hänen taloonsa ja söimme ennen meitä, söimme yhdessä ja joimme. Khan: Uskomme siis ystävällisyyteesi ja annamme sinun viettää yön huoneessamme.
+
+Step 17/284
+>> Finnish - Hindi
+	ख़लीफ़ हेरोन अर-राशिद ने आज वेसर जाफ़र और एक दिग्गज के साथ यात्रा की और एक कहानी देखने और सुनने के लिए जिसे वह बताने में सक्षम था। उसे एक उद्यमी के रूप में छोड़ने की प्रथा थी। उस रात, वह महिलाओं के घरों को देखने और संगीत वाद्ययंत्र सुनने के लिए शहर में घूमता रहा। उन्होंने जेफ से कहा कि मैं इस घर में जाकर देखना चाहता हूं कि जेफ के संगीत समारोह में कौन था। लेकिन ख़लीफ़ा ने कहा कि हमें कैदियों को रखने की योजना की तलाश करनी चाहिए। जेफ जवाब देता है: मैं सुनता हूं और सुनता हूं। उसने उठकर दस्तक दी। जब नौकर दरवाजे पर आया, तो उसने कहा, "भगवान, हम मार्ग के व्यापारी हैं और दस दिनों तक बगदाद में रहेंगे।" हम हन्ना के साथ पैक अप और रुके थे। आज रात हम उसके घर गए और हमारे सामने खाना खाया, साथ खाया और पीया। खान: तो हम आपकी दया पर विश्वास करते हैं और आपको हमारे कमरे में रात बिताने देते हैं।
+
+Step 18/284
+>> Hindi - Lao
+	Khalif Heron Ar-Rashid ໄດ້ເດີນທາງກັບ Vesar Jaffer ແລະນັກຮົບເກົ່າໃນມື້ນີ້ເພື່ອເບິ່ງແລະຟັງເລື່ອງລາວທີ່ລາວສາມາດເລົ່າສູ່ຟັງໄດ້. ມັນເປັນປະເພນີທີ່ຈະປ່ອຍໃຫ້ລາວເປັນຜູ້ປະກອບການ. ໃນຄືນນັ້ນ, ລາວໄດ້ຂີ່ເມືອງໄປເບິ່ງເຮືອນຂອງແມ່ຍິງແລະຟັງເຄື່ອງດົນຕີ. ລາວບອກກັບ Jeff ວ່າຂ້ອຍຢາກໄປເຮືອນນີ້ເພື່ອເບິ່ງຜູ້ທີ່ຢູ່ໃນງານຄອນເສີດຂອງ Jeff. ແຕ່ທ່ານ Khalifa ກ່າວວ່າພວກເຮົາຄວນຊອກຫາແຜນການທີ່ຈະຮັກສານັກໂທດ. Jeff ຕອບວ່າ: ຂ້ອຍຟັງແລະຟັງ. ລາວລຸກຂຶ້ນແລະເຄາະ. ເມື່ອຜູ້ຮັບໃຊ້ມາຮອດປະຕູ, ລາວກ່າວວ່າ, "ນາຍເອີຍ, ພວກເຮົາເປັນຜູ້ຄ້າຂາຍທາງແລະຈະອາໄສຢູ່ໃນກຸງແບັກແດັດເປັນເວລາສິບວັນ." ພວກເຮົາໄດ້ຫຸ້ມຫໍ່ແລະຢູ່ກັບ Hannah. ຄືນນີ້ພວກເຮົາໄປເຮືອນຂອງນາງແລະມີອາຫານຢູ່ທາງຫນ້າພວກເຮົາ, ໄດ້ກິນເຂົ້າແລະດື່ມ ນຳ ກັນ. Khan: ດັ່ງນັ້ນພວກເຮົາເຊື່ອໃນຄວາມກະລຸນາຂອງທ່ານແລະໃຫ້ທ່ານໃຊ້ເວລາກາງຄືນຢູ່ໃນຫ້ອງຂອງພວກເຮົາ.
+
+Step 19/284
+>> Lao - Danish
+	Khalif Heron Ar-Rashid rejste med Vesar Jaffer og veteraner i dag for at se og høre historier, han kunne fortælle. Det er sædvanligt at forlade ham som iværksætter. Den aften kørte han rundt i byen for at se en kvindes hus og lytte til musik. Han fortalte Jeff, at jeg ville gå i dette hus for at se, hvem der var på Jeff's koncert. Men Khalifa sagde, at vi skulle finde en plan for at holde fanger. Jeff svarede: Jeg lyttede og lyttede. Han rejste sig og bankede. Da tjeneren kom til døren, sagde han: "Sir, vi er en købmand og vil blive i Bagdad i ti dage." Vi pakket sammen og blev hos Hannah. I aften gik vi til hendes hus og spiste mad foran os, spiste middag og drikke sammen. Khan: Så vi tror på din venlighed og lader dig overnatte i vores rum.
+
+Step 20/284
+>> Danish - Slovenian
+	Khalif Heron Ar-Rashid je danes potoval z Vesarjem Jafferjem in veterani, da bi videl in slišal zgodbe, ki jih je lahko povedal. Običajno ga je pustiti kot podjetnika. Tisto noč se je vozil po mestu, da bi si ogledal žensko hišo in poslušal glasbo. Jeffu je rekel, da grem v to hišo pogledat, kdo je bil na Jeffovem koncertu. Toda Khalifa je dejal, da moramo najti načrt, kako zadržati zapornike. Jeff je odgovoril: poslušal sem in poslušal. Vstal je in potrkal. Ko je hlapec prišel do vrat, je rekel: "Gospod, mi smo trgovec in bomo v Bagdadu ostali deset dni." Spakirali smo se in ostali pri Hannah. Nocoj smo šli do njene hiše in imeli hrano pred seboj, skupaj smo večerjali in pili. Khan: Torej verjamemo v vašo prijaznost in vam dovolimo, da prenočite v naši sobi.
+
+Step 21/284
+>> Slovenian - Arabic
+	سافر خليفة هيرون الرشيد مع Vesar Jaffer والمحاربين القدامى اليوم لرؤية وسماع القصص التي يمكن أن يحكيها. من الشائع تركه كرجل أعمال. في تلك الليلة ، قاد سيارته عبر المدينة لرؤية منزل امرأة والاستماع إلى الموسيقى. أخبر جيف أنني ذاهب إلى هذا المنزل لمعرفة من كان في حفل جيف. لكن خليفة قال إننا بحاجة إلى إيجاد خطة حول كيفية الاحتفاظ بالسجناء. رد جيف: كنت أستمع وأستمع. نهض وطرق. وعندما جاء الخادم ، قال: "سيدي ، نحن تاجر وسنبقى في بغداد لمدة عشرة أيام". احزمنا مكثنا وبقينا مع هانا. ذهبنا إلى منزلها الليلة وتناولنا الطعام ، وتناولنا العشاء والمشروبات معا. خان: لذلك نحن نؤمن بلطفك ونسمح لك بقضاء الليلة في غرفتنا.
+
+Step 22/284
+>> Arabic - Romanian
+	Succesorul lui Heron Al Rashid a călătorit cu Vesar Jaffer și cu veteranii de azi pentru a vedea și auzi povești pe care le putea spune. Este obișnuit să-l lăsați ca om de afaceri. În noaptea aceea, a condus prin oraș pentru a vedea casa unei femei și a asculta muzică. Spune-i lui Geoff că mă duc în această casă pentru a afla cine este la petrecerea lui Geoff. Dar Khalifa a spus că trebuie să găsim un plan despre cum să păstrăm prizonierii. Jeff a răspuns: ascultam și ascultam. S-a ridicat și a bătut. Când a venit servitorul, a spus: „Domnule, suntem un dealer și vom rămâne în Bagdad zece zile”. Am stat și am stat cu Hana. Ne-am dus acasă diseară și am luat cina și băuturile împreună. Khan: Deci credem în bunătatea ta și îți permitem să petreci noaptea în camera noastră.
+
+Step 23/284
+>> Romanian - Hausa
+	Wanda zai maye gurbin Heron Al Rashid ya yi tafiya tare da Vesar Jaffer da tsoffin mayaƙan yau don gani da ji labarun da zai iya ba da labari. Ya zama ruwan dare a gare ka ka bar shi dan kasuwa. A daren, ya zaga cikin gari don ganin gidan mata kuma ya saurari kiɗan. Ka ce wa Geoff zan je wannan gidan don nemo waye a wurin bikin Geoff. Amma Khalifa ya ce muna bukatar samar da tsari kan yadda za a ci gaba da tsare fursunonin. Jeff ya amsa: Muna sauraro kuma muna sauraro. Ya tashi ya kwankwasa. Lokacin da bawan ya zo, sai ya ce, "Yallabai, mahaukaci ne, kuma za mu tsaya a Bagadaza kwana goma." Na zauna kuma na kasance tare da Hana. Mun tafi gida yau da daddare kuma muna cin abincin dare da sha tare. Khan: Don haka mun yi imani da alherinka kuma za mu baka damar kwana a dakinmu.
+
+Step 24/284
+>> Hausa - Kazakh
+	Оның мұрагері Херон Аль Рашид Весар Джаффермен және бұрынғы ардагерлермен бірге өзі айтып бере алатын оқиғаларды көріп, тыңдау үшін сапарға шықты. Бұл сізді бизнеске жіберуге мүмкіндік беретін түнгі қорқыныш. Түнде ол әйелдер үйін көріп, музыка тыңдау үшін қалаға саяхаттайды. Джеффке бұл үйге Джеффтің кешінен біреуді табу үшін баратынымды айтыңыз. Бірақ Халифа бізге тұтқындағылардың қауіпсіздігін сақтаудың жоспарын жасауымыз керек деді. Джефф жауап берді: біз тыңдаймыз және тыңдаймыз. Орнынан тұрып, басын изеді. Қызметші келгенде: «Мырза, біз ақымақпыз, біз Багдадта он күн боламыз», - деді. Мен Ханада тұрдым және бірге болдым. Біз бүгін кешке үйге барып, кешкі ас пен ішімдік іштік. Хан: Сондықтан біз сіздің мейірімділігіңізге сенеміз және сіздің бөлмеңізде түнеуге рұқсат береміз.
+
+Step 25/284
+>> Kazakh - Catalan
+	La seva successora, Heron Al Rashid, va viatjar amb Vesar Jaffer i antics veterans per veure i escoltar històries que podia explicar. És un malson que us pot enviar a negocis. A la nit viatja a la ciutat per veure la casa de les dones i escoltar música. Digues a Jeff que vaig a aquesta casa per trobar algú de la festa de Jeff. Però el califa ens va dir que féssim un pla per mantenir els presoners segurs. Jeff va respondre: Escoltem i escoltem. S’aixeca i busca el cap. Quan el criat va venir, va dir: "Senyor, som ximples. Ens quedarem a Bagdad durant deu dies." Jo vivia a Hana i estàvem junts. Vam anar a casa aquesta nit i vam sopar i prendre una copa. Khan: Així que creiem en la vostra amabilitat i et permetem passar la nit a la teva habitació.
+
+Step 26/284
+>> Catalan - Chinese (Simplified)
+	她的继任者埃隆·拉希德（Heron Al Rashid）和维萨·贾弗（Vesar Jaffer）和以前的退伍军人一起旅行，看和听他能讲的故事。这是一场噩梦，可将您带入业务。傍晚，前往城市参观妇女的房屋并听音乐。告诉杰夫，我要去这所房子找杰夫聚会上的人。但是哈里发告诉我们制定一个计划，以确保囚犯的安全。杰夫回答：我们听着，我们听着。他起身寻找头。仆人来的时候，他说：“先生，我们是傻瓜。我们将在巴格达呆十天。”我住在哈纳，我们在一起。我们今晚回家，共进晚餐和小酌一杯。汗：所以我们相信您的好意，并允许您在房间里过夜。
+
+Step 27/284
+>> Chinese (Simplified) - Haitian Creole
+	Siksesè li, Heron Al Rashid ak Vesar Jaffer, vwayaje ak ansyen veteran yo wè epi koute istwa li te kapab di. Sa a se yon kochma ki ka pote ou nan biznis. Nan aswè a, tèt nan lavil la ale nan kay fanm yo ak koute mizik. Di Jeff ke mwen pral kay sa a pou jwenn yon moun nan fèt Jeff la. Men kalif la te di nou pou fè yon plan pou asire sekirite prizonye yo. Jeff reponn: nou koute, nou koute. Li leve, li gade pou tèt li. Lè domestik la rive, li te di, "Mesye, nou se moun san konprann! Nou pral rete nan Bagdad pou dis jou." Mwen ap viv nan Hana e nou yo ansanm. Nou ale lakay nou aswè pou dine ak bwè. Khan: Se konsa, nou kwè nan jantiyès ou ak pèmèt ou pase nwit la la nan chanm nan.
+
+Step 28/284
+>> Haitian Creole - Vietnamese
+	Người kế vị của ông, Heron Al Rashid và Vesar Jaffer, đã đi cùng các cựu chiến binh để xem và lắng nghe những câu chuyện ông có thể kể. Đây là một cơn ác mộng có thể đưa bạn vào kinh doanh. Vào buổi tối, đi đến thành phố để thăm nhà của phụ nữ và nghe nhạc. Nói với Jeff rằng tôi sẽ đến ngôi nhà này để tìm ai đó trong bữa tiệc của Jeff. Nhưng Caliph bảo chúng tôi lập một kế hoạch để đảm bảo an toàn cho các tù nhân. Jeff trả lời: Chúng tôi lắng nghe, chúng tôi lắng nghe. Anh đứng dậy và nhìn mình. Khi người hầu đến, anh ta nói: "Các quý ông, chúng tôi là những kẻ ngốc! Chúng tôi sẽ ở lại Baghdad trong mười ngày." Tôi sống ở Hana và chúng tôi ở cùng nhau. Tối nay chúng ta về nhà ăn tối và uống nước. Khan: Vì vậy, chúng tôi tin vào lòng tốt của bạn và cho phép bạn qua đêm trong phòng.
+
+Step 29/284
+>> Vietnamese - Dutch
+	Zijn opvolgers, Heron Al Rashid en Vesar Jaffer, gingen met veteranen om de verhalen te zien en te luisteren die hij kon vertellen. Dit is een nachtmerrie die je tot zaken kan aanzetten. Ga 's avonds naar de stad om vrouwenhuizen te bezoeken en naar muziek te luisteren. Zeg tegen Jeff dat ik naar dit huis ga om iemand te zoeken op het feest van Jeff. Maar kalief zei dat we een plan moesten maken om de gevangenen te beschermen. Jeff antwoordde: we luisterden, we luisterden. Hij stond op en keek naar zichzelf. Toen de bediende arriveerde, zei hij: 'Heren, we zijn gek! We blijven tien dagen in Bagdad.' Ik woon in Hana en we blijven bij elkaar. Vanavond gaan we naar huis om te eten en water te drinken. Khan: Dus we geloven in je vriendelijkheid en laten je de nacht in de kamer doorbrengen.
+
+Step 30/284
+>> Dutch - Uzbek
+	Uning vorislari Heron Al Rashid va Vesar Jaffer faxriylar bilan birga aytib berishlari mumkin bo'lgan voqealarni ko'rish va tinglash uchun borishdi. Bu sizni biznesga jalb qilishi mumkin bo'lgan kabus. Kechqurun ayollar uylariga tashrif buyurish va musiqa tinglash uchun shaharga boring. Jeffga ayt, men bu uyga Jeffning ziyofatida biron kishini topish uchun boraman. Ammo xalifa biz mahbuslarni himoya qilish uchun reja tuzishimiz kerakligini aytdi. Jeff javob berdi, biz tingladik, tingladik. U o'rnidan turib, o'ziga qaradi. Xizmatkor kelganida, u dedi: "Janoblar, biz aqldan ozamiz! Biz Bog'dodda o'n kun turamiz. " Men Xanada yashayman va biz birga bo'lamiz. Bugun kechqurun ovqatlanib, suv ichish uchun uyga boramiz. Xon: Shunday qilib, biz sizning mehribonligingizga ishonamiz va xonada tunashga ruxsat beramiz.
+
+Step 31/284
+>> Uzbek - Irish
+	Chuaigh a chomharbaí, Heron Al Rashid agus Vesar Jaffer, leis na veterans chun na scéalta a d’fhéadfadh siad a insint a fheiceáil agus a chloisteáil. Is tromluí é a fhéadann tú a chur i mbun gnó. Sa tráthnóna téigh go dtí an baile chun cuairt a thabhairt ar thithe na mban agus chun éisteacht le ceol. Inis do Jeff, tá mé ag dul go dtí an teach seo chun duine a fháil ag cóisir Jeff. Ach dúirt an caliph gur cheart dúinn plean a dhéanamh chun na príosúnaigh a chosaint. D'fhreagair Jeff, d'éist muid, d'éist muid. Sheas sé suas agus d’fhéach sé air féin. Nuair a tháinig an seirbhíseach, dúirt sé, "A dhaoine uaisle, tá muid as a meabhair! Fanfaimid i mBagdad ar feadh deich lá." Tá mé i mo chónaí i Hana agus beimid le chéile. Téimid abhaile anocht chun uisce a ithe agus a ól. Khan: Mar sin creidimid i do chineáltas agus ligimid duit an oíche a chaitheamh sa seomra.
+
+Step 32/284
+>> Irish - Spanish
+	Sus sucesores, Heron Al Rashid y Vesar Jaffer, se unieron a los veteranos para ver y escuchar las historias que podían contar. Es una pesadilla que puedes poner en el negocio. Por la noche, vaya a la ciudad para visitar hogares de mujeres y escuchar música. Dile a Jeff, voy a esta casa a buscar a alguien en la fiesta de Jeff. Pero el califa dijo que deberíamos hacer un plan para proteger a los prisioneros. Jeff respondió, escuchamos, escuchamos. Se puso de pie y se miró a sí mismo. Cuando llegó el criado, dijo: "Damas y caballeros, ¡estamos locos! Nos quedaremos en Bagdad durante diez días". Vivo en Hana y vivimos juntos. Nos vamos a casa esta noche para comer y beber agua. Khan: Entonces creemos en tu amabilidad y te permitimos pasar la noche en la habitación.
+
+Step 33/284
+>> Spanish - Chichewa
+	Olowa m'malo mwake, Heron Al Rashid ndi Vesar Jaffer, adalumikizana ndi akatswiriwa kuti awone ndikumva nkhani zomwe anganene. Ndizovuta usiku kuti mutha kuyika mu bizinesi. Madzulo, pitani kumatauni kukaona nyumba za azimayi ndikumvetsera nyimbo. Muuzeni Jeff, ndikupita kunyumba ino kuti ndikapeze munthu paphwando la Jeff. Koma caliph adati tifunika kupanga dongosolo loteteza akaidi. Jeff adayankha, timvera, timamvetsera. Adayimirira ndikuziyang'ana. Wantchitoyo atafika, anati, "Amayi ndi abambo, ndife amisala! Tikhala ku Baghdad masiku khumi." Ndimakhala ku Hana ndipo timakhala limodzi. Tipita kunyumba usiku uno kuti tikadye ndi kumwa madzi. Khan: Kenako tikukhulupirira kukoma mtima kwanu ndikulolani kuti mugone mchipindachi.
+
+Step 34/284
+>> Chichewa - Czech
+	Jeho nástupci Heron Al Rashid a Vesar Jaffer se připojili k odborníkům, aby viděli a slyšeli příběhy, které mohli vyprávět. Je to noční můra, kterou můžete začít podnikat. Večer jděte do města a navštivte ženské domy a poslouchejte hudbu. Řekněte Jeffovi, že jdu do tohoto domu, abych někoho našel na Jeffově party. Kalif ale řekl, že musíme vytvořit plán na ochranu vězňů. Jeff odpověděl, posloucháme, posloucháme. Vstal a podíval se na to. Když doprovod dorazil, řekl: „Dámy a pánové, jsme blázni! Budeme v Bagdádu deset dní.“ Bydlím v Hannah a žijeme spolu. Dnes večer jedeme domů, abychom jedli a pili vodu. Khan: Potom důvěřujeme vaší laskavosti a necháme vás spát v místnosti.
+
+Step 35/284
+>> Czech - Armenian
+	Նրա իրավահաջորդները ՝ Heron Al Rashid- ը և Vesar Jaffer- ը միացան փորձագետներին ՝ տեսնելու և լսել այն պատմությունները, որոնք նրանք կարող էին պատմել: Դա մղձավանջ է, որը կարող եք սկսել ձեր գործը: Երեկոյան գնացեք քաղաք և այցելեք կանանց տներ և լսեք երաժշտությունը: Ասացեք effեֆֆին, որ ես գնում եմ այս տուն ՝ someoneեֆի երեկույթի մեկին գտնելու համար: Բայց խալիֆան ասաց, որ մենք պետք է մշակենք պլան ՝ բանտարկյալներին պաշտպանելու համար: Effեֆը պատասխանեց ՝ մենք լսում ենք, լսում ենք: Նա վեր կացավ և նայեց դրան: Երբ շրջապատը հասավ, նա ասաց. «Տիկնայք և պարոնայք, մենք խենթ ենք: Մենք տասը օր կլինենք Բաղդադում »: Ես ապրում եմ Աննայում և միասին ենք ապրում: Այս երեկո մենք գնում ենք տուն ուտելու և ջուր խմելու: Խան. Հետո մենք վստահում ենք ձեր բարությանն ու թույլ ենք տալիս քնել սենյակում:
+
+Step 36/284
+>> Armenian - Samoan
+	O ona sui, o Heron Al Rashid ma Vesar Jaffer, na auai i le au atamamai e vaai ma faalogo i tala e mafai ona latou faamatalaina. O se moemoega e mafai ona amata oe. Alu i le taulaga i le afiafi ma asiasi i fale o tamaitai ma faʻalogo i musika. Taʻu le eff ego o le a ou alu i lenei fale e suʻe se tasi i le pati o le po. Ae na fai mai le faifeau e tatau ona tatou galulue i se fuafuaga e puipuia pagota. Fai mai Eff Eff, matou te faʻalogo, matou te faʻalogo. Sa ia tu i luga ma tilotilo i ai. Ina ua oo mai le lio, sa ia fai mai: "Alii ma alii, matou te valea. Matou te i ai i Baghdad mo aso e sefulu. " Ou te nofo i Anna ma matou nonofo faatasi. O le po nei tatou te oi le fale e 'ai ma inu vai. Khan. Ona matou faʻatuatuaina lea o lou agalelei ma faʻataga oe e moe ile potu.
+
+Step 37/284
+>> Samoan - German
+	Die Mitglieder Heron Al Rashid und Vesar Jaffer schlossen sich den Gelehrten an, um die Geschichten zu sehen und zu hören, die sie erzählen konnten. Ein Traum kann Ihnen den Einstieg erleichtern. Verlassen Sie abends die Stadt, besuchen Sie Frauenhäuser und hören Sie Musik. Sagen Sie dem eff ego, dass ich in dieses Haus gehen werde, um jemanden auf der Nachtparty zu finden. Aber der Minister sagte, wir sollten an einem Plan zum Schutz der Gefangenen arbeiten. Eff Eff sagt, wir hören zu, wir hören zu. Sie stand auf und sah es an. Als der Kreis kam, sagte er: „Meine Damen und Herren, wir sind verrückt. Wir werden zehn Tage in Bagdad sein.“ Ich lebe in Anna und wir leben zusammen. Heute Abend gehen wir nach Hause, um Wasser zu essen und zu trinken. Khan. Dann vertrauen wir Ihrer Freundlichkeit und erlauben Ihnen, im Zimmer zu schlafen.
+
+Step 38/284
+>> German - Pashto
+	غړي هیرون الرشید او ویسار جعفر د عالمانو سره یوځای شول ترڅو دا کیسې وګوري او واوري چې دوی یې کولی شي ووایی. یو خوب کولی شي له تاسو سره مرسته وکړي پیل یې کړي. په ماښام کې ، ښار پریږدو ، د ښځو استوګنځایونو څخه لیدنه وکړئ او میوزیک واورئ. اغا انا ته ووایاست چې زه به دې کور ته لاړ شم چې د شپې په محفل کې یو څوک ومومم. خو وزیر وویل چې موږ باید د بندیانو د ساتنې لپاره پر یو پلان کار وکړو. ایف ایف ایف وايي موږ اورو ، موږ اورو. هغه پورته شوه او هغې ته یې وکتل. کله چې حلقه راغله ، هغه وویل: "میرمنو او ښاغلو ، موږ لیوني یو. موږ به په لسو ورځو کې په بغداد کې پاتې شو. "زه په انا کې اوسېږم او یوځای ژوند کوو. نن شپه موږ کور ته د خواړو او څښلو لپاره ځو. خان. بیا موږ ستاسو په مهربانۍ باور لرو او تاسو ته اجازه درکړو چې په خونه کې ویده شو.
+
+Step 39/284
+>> Pashto - Maltese
+	Il-membri Haroon-ul-Rashid u Visar Jaffer ingħaqdu ma 'ex-studenti biex jaraw u jisimgħu l-istejjer li setgħu jirrakkontaw. Ħolma tista 'tgħinek tibda. Fil-għaxija, titlaq mill-belt, żur ir-residenzi tan-nisa u tisma 'l-mużika. Għid lil Anna li jien immur f’din id-dar biex insib lil xi ħadd fiċ-ċerimonja tal-lejla. Iżda l-Ministru qal li rridu naħdmu fuq pjan biex nipproteġu l-priġunieri. FFF jgħid li nisimgħu, aħna nisimgħu. Qabbdet u ħarset lejnha. Meta ħareġ iċ-ċurkett, huwa qal, "Sinjuri u rġulija, aħna miġnun. Aħna nibqgħu f'Bagdad għal għaxart ijiem." Jiena ngħix f'Anna u ngħix flimkien. Illejla se nkunu d-dar biex nieklu u nixorbu. خان. Imbagħad aħna fiduċja fit-tjubija tiegħek u nħalluk torqod fil-kamra.
+
+Step 40/284
+>> Maltese - Macedonian
+	Членовите Харун-ул-Рашид и Висар affафер им се придружија на алумни за да ги видат и да ги слушнат приказните што би можеле да ги раскажат. Сонот може да ви помогне да започнете. Вечерните часови го напуштате градот, ги посетувате женските резиденции и слушате музика. Кажи на Ана дека одам во оваа куќа за да запознаам некого на оваа вечерашна церемонија. Но, министерот рече дека мора да работиме на план за заштита на затворениците. ФФФ вели дека слушаме, слушаме. Стана и ја погледна. Кога излезе прстенот, тој рече: "Дами и господа, ние сме луди.'Llе останеме во Багдад десет дена". Јас живеам во Ана и живеам заедно. Вечерва ќе бидеме дома да јадеме и пиеме. Кан. Тогаш ние веруваме во вашата добрина и ви дозволуваме да спиете во собата.
+
+Step 41/284
+>> Macedonian - Estonian
+	Faroun-ul-Rashidi ja Visari afääri liikmed liitusid vilistlastega, et näha ja kuulda lugusid, mida nad võiksid rääkida. Unistamine võib aidata teil alustada. Õhtuti, kui lahkute linnast, külastage naiste elukohti ja kuulake muusikat. Ütle Annale, et lähen siia majja kellegagi täna õhtul aset leidval tseremoonial. Kuid minister ütles, et peame vangide kaitsmise kava kallal töötama. Ta ütleb, et kuuleme, kuuleme. Ta tõusis püsti ja vaatas teda. Kui ring välja tuli, ütles ta: "Daamid ja härrad, me oleme hullud. Jäägem kümme päeva Bagdadisse." Ma elan Annas ja elan koos. Täna õhtul oleme kodus söömas ja joomas. Kan. Siis usume teie lahkusesse ja laseme teil toas magada.
+
+Step 42/284
+>> Estonian - Lithuanian
+	Faroun-ul-Rashid ir Visar romano nariai prisijungė prie absolventų, norėdami pamatyti ir išgirsti istorijas, kurias jie galėtų papasakoti. Svajoti gali padėti pradėti. Vakarais, išeidami iš miesto, apsilankykite moterų namuose ir klausykite muzikos. Pasakyk Anna, kad šį vakarą einu į namus kartu su kuo nors. Tačiau ministras sakė, kad turime dirbti su kalinių apsaugos schema. Jis sako, kad girdime, girdime. Jis atsistojo ir pažvelgė į jį. Kai žiedas pasirodė, jis pasakė: "Ponios ir ponai, mes esame beprotiški. Dešimt dienų pasilikime Bagdade". Aš gyvenu Anna ir gyvenu kartu. Šiąnakt mes namuose valgyti ir gerti. Kan. Tada mes tikime jūsų gerumu ir leidžiame jums miegoti kambaryje.
+
+Step 43/284
+>> Lithuanian - Turkish
+	Faroun-ul-Rashid ve Visar'ın roman üyeleri, anlatabilecekleri hikayeleri görmek ve duymak için mezunlara katıldı. Rüya görmek başlamanıza yardımcı olabilir. Akşamları, kasabadan ayrıldığınızda, kadınların evini ziyaret edin ve müzik dinleyin. Anna'ya bu gece birisiyle eve gideceğimi söyle. Ancak bakan, bir mahkum koruma planı üzerinde çalışmamız gerektiğini söyledi. Duyduğumuzu söylüyor, duyuyoruz. Ayağa kalktı ve ona baktı. Yüzük çıkınca "Bayanlar baylar, deliyiz. On gün Bağdat'ta kalacağız." Dedi. Anna'da yaşıyorum ve birlikte yaşıyorum. Bu gece yemek ve içmek için evdeyiz. Kan. Sonra iyiliğinize inanıyoruz ve odada uyumanıza izin veriyoruz.
+
+Step 44/284
+>> Turkish - Burmese
+	Faroun-ul-Rashid နှင့် Visar တို့၏ ၀ တ္ထုများသည်ဘွဲ့ရများနှင့်သူတို့ကြားနိုင်သောဇာတ်လမ်းများကိုကြား။ ကြားရန်ဖြစ်သည်။ အိပ်မက်ခြင်းကသင့်ကိုစတင်ရန်ကူညီနိုင်သည်။ ညနေခင်းတွင်၊ သင်မြို့မှထွက်ခွာသောအခါအမျိုးသမီးအိမ်သို့သွားပြီးတေးဂီတကိုနားထောင်ပါ။ ငါတစ်ယောက်ယောက်နဲ့ဒီညအိမ်မှာနေမယ်အန္နကိုပြောပါ ဒါပေမယ့် ၀ န်ကြီးကပြောတာကတော့အကျဉ်းသားကာကွယ်ရေးအစီအစဉ်ကိုကျွန်တော်တို့လုပ်သင့်တယ်။ ငါတို့ကြားရတယ်၊ သူမသည်ထရပ်သူမ၏ကြည့်ရှုကြ၏။ လက်စွပ်ထွက်ပေါ်လာတဲ့အခါမှာတော့ "မင်းသမီးတွေနဲ့လူကြီးလူကောင်းတွေ၊ ငါတို့အရူးတွေပဲ။ ဘဂ္ဂဒက်မှာ ၁၀ ရက်နေမယ်။ " သူကပြောပါတယ်။ ငါအန်နာမှာနေထိုင်ပြီးငါအတူတူနေတယ်။ ဒီညအိမ်မှာနေပြီးငါတို့စားသောက်ဖို့အိမ်မှာရှိတယ်။ အသွေးသည်။ ထို့နောက်ကျွန်ုပ်တို့သည်သင်၏သုခချမ်းသာကိုယုံကြည်ပြီးအခန်းထဲ၌သင့်ကိုအိပ်စက်ပါစေ။
+
+Step 45/284
+>> Burmese - Persian
+	رمان های فارون اول رشید و ویسار فارغ التحصیلان و داستانهایی را که می شنوند ، می شنوند. شنیدن خواب دیدن می تواند در شروع کار به شما کمک کند. عصر وقتی شهر را ترک می کنید ، به خانه خانم بروید و به موسیقی گوش دهید. من به آنا گفتم كه امشب با او خواهم ماند اما وزیر گفت كه ما باید یك برنامه حفاظت از زندانیان را تهیه كنیم. می شنویم نگاهش می کند. وقتی حلقه بیرون آمد ، وی گفت ، "پرنسس ها و آقایان ، ما دیوانه هستیم. ما 10 روز در بغداد خواهیم ماند." من در آنا زندگی می کنم و با هم زندگی می کنم. امشب در خانه بمانید و ما در خانه برای غذا خوردن هستیم. خونین سپس ما به خوشبختی شما ایمان داریم و به شما اجازه می دهیم در اتاق بخوابید.
+
+Step 46/284
+>> Persian - Croatian
+	U romanima Farona I Rashida i Wissara slušaju se alumni i priče koje čuju. Slušanje sna može vam pomoći da započnete. Navečer kad napustite grad, idite do gospođice i slušajte glazbu. Rekao sam Ani da ću ostati s njom večeras, ali ministar je rekao da moramo razviti plan zaštite zatvorenika. Čujemo njezin pogled. Kad je prsten izašao, rekao je: "Princeze i gospodo, ludi smo. Ostat ćemo u Bagdadu 10 dana." Živim u Ani i živimo zajedno. Ostani večeras kući, a mi smo doma jesti. Krvavi onda vjerujemo u vašu sreću i dopuštamo vam da spavate u sobi.
+
+Step 47/284
+>> Croatian - Italian
+	Nei romanzi di Faron I Rashid e Wissar, gli ex studenti vengono ascoltati e le storie che ascoltano. Ascoltare un sogno può aiutarti a iniziare. La sera, quando lasci la città, vai da Miss e ascolta la musica. Ho detto ad Anna che sarei rimasta con lei stasera, ma il ministro ha detto che dovevamo sviluppare un piano per proteggere i prigionieri. Sentiamo il suo sguardo. Quando è uscito l'anello, ha detto: "Principesse e signori, siamo pazzi. Resteremo a Baghdad per 10 giorni". Vivo ad Anna e viviamo insieme. Resta a casa stasera e siamo a casa a mangiare. Sanguinosi, allora crediamo nella tua felicità e ti lasciamo dormire nella stanza.
+
+Step 48/284
+>> Italian - Swahili
+	Katika riwaya za Faron I Rashid na Wissar, wanafunzi wa zamani husikilizwa na hadithi wanazosikiliza. Kusikiliza ndoto inaweza kukusaidia kuanza. Jioni, unapoondoka jijini, nenda kwa Miss na usikilize muziki. Nilimwambia Anna nitakaa naye usiku wa leo, lakini waziri akasema tulilazimika kubuni mpango wa kulinda wafungwa. Tunahisi macho yake. Wakati pete ilipojitokeza, alisema, "Wanahabari na waungwana, tunapenda. Tutakaa Baghdad kwa siku 10." Ninaishi Anna na tunaishi pamoja. Kaa nyumbani usiku wa leo na tuko nyumbani kula. Umwagaji damu, basi tunaamini katika furaha yako na hukuruhusu ulale ndani ya chumba hicho.
+
+Step 49/284
+>> Swahili - Shona
+	Mune zvinyorwa zveFaron I Rashid naWissar, vaimbove vadzidzi vanonzwika nenyaya dzavanoteerera. Kuteerera kuhope kunogona kukubatsira kuti utange. Manheru, paunobva mudhorobha, enda kuMiss uye uteerere kumimhanzi. Ndakaudza Anna kuti ndichagara naye manheru ano, asi gurukota rakati tinofanira kuronga zano rekuchengetedza vasungwa. Tinonzwa maziso ake. Pakaonekwa rin'i, akati, "Midhiya nevarume, tinochida. Tichagara muBaghdad kwemazuva gumi." Ini ndinogara muAnna uye isu tinogara pamwe. Gara kumba manheru ano uye kumba tadya. Ropa, saka isu tinotenda mune mufaro wako uye tinokutendera iwe kurara mukamuri.
+
+Step 50/284
+>> Shona - Bulgarian
+	В съчиненията на Фарон I Рашид и Висар бившите студенти са били чувани от предметите, които са слушали. Слушането на сън може да ви помогне да започнете. Вечерта, когато излизате от града, отидете в Мисури и слушайте музиката. Казах на Анна, че ще остана с нея тази вечер, но министърът каза, че трябва да разработим план за задържане на затворници. Усещаме очите му. Когато пръстенът се появи, той каза: "Медиите и хората, имаме нужда от него. Ще останем в Багдад 10 дни." Аз живея в Анна и живеем заедно. Останете у дома тази вечер и у дома сме яли. Кръв, така че ние вярваме във вашето щастие и ви оставяме да спите в стаята.
+
+Step 51/284
+>> Bulgarian - Maori
+	I nga tuhinga a Faron I Rashid me Visar, i rongohia nga akonga o mua mai i nga kaupapa e rangona ana e raatau. Ko te whakarongo ki te moemoea ka awhina koe ki te tiimata. I te ahiahi, ka wehe atu koe i te taone, haere ki Missouri me te whakarongo ki te waiata. Ka korerotia e ahau ki a Anna ka noho ahau ki a ia i tenei po, engari i kii te minita me whakawhanake he mahere mo te aukati i nga mauhere. E ite tatou i ona kanohi. Ka puta te whakatangihanga, i kii ia, "Ko te hunga pāpāho me te iwi, e hiahiatia ana e matou. Ka noho to matou i Baghdad mo nga ra 10." Kei te noho ahau i te Anna a kei te noho ngatahi matou. Me noho ki te kainga i te po nei ka kai matou i te kainga. Toto, no reira ka whakapono matou ki to koa, ka pai koe ki te moe.
+
+Step 52/284
+>> Maori - Albanian
+	Në shkrimet e Faron I Rashid dhe Visar, ish-studentë u dëgjuan nga tema që ata dëgjuan. Dëgjimi i ëndrrës ju ndihmon të filloni. Pasdite, kur largoheni nga qyteti, shkoni në Misuri dhe dëgjoni muzikë. I thashë Anna që do të qëndroja me të sonte, por ministri tha që ajo duhej të hartonte një plan për parandalimin e paraburgimit. Ne e shohim fytyrën e tij. Trajneri doli, ai tha: "Media dhe njerëzit, na duhen. Do të jemi në Bagdad për 10 ditë". Unë jetoj në Anna dhe jetojmë së bashku. Qëndro sonte në shtëpi dhe ne do të hamë në shtëpi. Gjaku, kështu që ne besojmë në lumturinë tuaj, ju do të kënaqeni me gjumin.
+
+Step 53/284
+>> Albanian - Bengali
+	ফারন আই রশিদ এবং ভিসার রচনায় প্রাক্তন শিক্ষার্থীরা যে বিষয়টি শুনেছিল তা থেকে তাদের শোনা গিয়েছিল। স্বপ্নের কথা শুনে আপনাকে শুরু করতে সহায়তা করে। বিকেলে, আপনি শহর ছেড়ে চলে আসার সময়, মিসৌরিতে যান এবং গান শুনুন। আমি আন্নাকে বলেছিলাম যে আমি আজ রাতেই তার সাথে থাকব, কিন্তু মন্ত্রী বলেছিলেন যে তাকে একটি আটকানো প্রতিরোধের পরিকল্পনা তৈরি করতে হবে। আমরা তার চেহারা দেখতে। কোচ বাইরে এসে বললেন, "মিডিয়া এবং জনগণ, আমাদের এটি দরকার। আমরা ১০ দিনের মধ্যে বাগদাদে থাকব।" আমি আন্নায় থাকি এবং আমরা একসাথে থাকি। আজ রাতে বাড়িতে থাকুন এবং আমরা বাড়িতে খেতে পারি। রক্ত, তাই আমরা আপনার সুখে বিশ্বাস করি, আপনি ঘুম উপভোগ করবেন।
+
+Step 54/284
+>> Bengali - Luxembourgish
+	Si goufe vun enger Geschicht héieren, déi de Farao Al Rashid an d'Alumni a Visa geschriwwen hunn. Dreem lauschtert hëlleft Iech unzefänken. Nomëttes, wann Dir d'Stad verloosst, gitt Richtung Missouri a lauschtert Musek. Ech hunn dem Anna gesot datt ech mat hir den Owend wär, awer de Minister huet gesot datt si mat engem Haftpräventiounsplang sollt opkommen. Mir gesinn hir Look. Den Trainer ass eraus komm a sot: "D'Medien an d'Leit, mir brauche se. Mir wäerte zu Bagdad an deenen Deeg." Ech liewen an Anna a mir liewen zesummen. Bleift haut den Owend doheem a mir kënne doheem iessen. Blutt, sou datt mir un Äert Gléck gleewen, Dir wäert Schlof genéissen.
+
+Step 55/284
+>> Luxembourgish - Russian
+	Они были услышаны из истории, написанной фараоном Аль-Рашидом и выпускниками и Visa. Слушание снов помогает вам начать. Днем, когда вы покидаете город, отправляйтесь в Миссури и слушайте музыку. Я сказал Анне, что буду с ней в тот вечер, но министр сказал, что она должна разработать профилактический план. Мы видим ее взгляд. Тренер вышел и сказал: «СМИ и люди, они нам нужны. Мы будем в Багдаде в те дни». Я живу в Анне, и мы живем вместе. Оставайтесь дома сегодня вечером, и мы можем есть дома. Кровь, чтобы мы верили в твое счастье, ты будешь наслаждаться сном.
+
+Step 56/284
+>> Russian - Hungarian
+	Al-Rashid fáraó, öregdiákok és Visa által írt történetből hallották őket. Az álmok meghallgatása segít az indulásban. Délután, amikor elhagyja a várost, menjen Missouriban és hallgasson zenét. Mondtam Annanak, hogy vele leszek azon az estén, de a miniszter azt mondta, hogy dolgozzon ki egy prevenciós tervet. Látjuk a tekintetét. Az edző kijött és azt mondta: „Média és emberek, szükségünk van rájuk. Akkoriban Bagdadban leszünk. Annaban élünk és együtt élünk. Ma este maradj otthon, és otthon is enni tudunk. Vér, hogy hiszünk a boldogságban, élvezni fogja az alvást.
+
+Step 57/284
+>> Hungarian - Korean
+	Al-Rashid는 Pharaoh, 동문 및 Visa가 쓴 이야기에서 그것들을 들었습니다. 꿈을 들으면 시작하는 데 도움이됩니다. 오후에는 마을을 떠날 때 미주리로 가서 음악을 듣습니다. 나는 애나에게 그날 밤 그녀와 함께있을 것이라고 말했지만 목사는 나에게 예방 계획을 세우라고 말했다. 우리는 그녀의 눈을 본다. 코치가 와서 말했다.“미디어와 사람들, 우리는 그것들이 필요합니다. 우리는 그때 바그다드에있을 것입니다. 우리는 앤에 살고 함께 살고 있습니다. 오늘 밤 집에 있으면 집에서 먹을 수 있습니다. 우리가 행복을 믿는 피는 수면을 즐길 것입니다.
+
+Step 58/284
+>> Korean - Nepali
+	अल-रशीदले तिनीहरूलाई फिरऊन, पूर्व छात्रों र भिसा द्वारा लेखिएका कथाहरू सुने। सपना सुनेर तपाईंलाई सुरू गर्न मद्दत गर्दछ। दिउँसो, जब तपाईं शहर छोडनुहुन्छ, तपाईं मिसौरी जानुहुन्छ र संगीत सुन्नुहुन्छ। मैले अन्नालाई भने कि त्यस रात म उनीसँग हुनेछु, तर पास्टरले मलाई रोकथाम योजना बनाउन भने। हामी उसको आँखामा हेर्छौं। कोच आए र भने, "मिडिया र मानिस, हामीलाई उनीहरू चाहिन्छ। हामी तब बगदादमा हुनेछौं। हामी एनीमा बस्छौं र सँगै बस्छौं। यदि तपाईं आज रात घरमा हुनुहुन्छ भने, तपाईं घरमा खान सक्नुहुन्छ। रगतले हामी खुशीमा विश्वास गर्छौं निद्राको आनन्द लिन सक्छ।
+
+Step 59/284
+>> Nepali - Malagasy
+	Al-Rashid dia nihaino ireo tantara nosoratan'i Farao, alumni ary visa. Ny fihainoana nofy dia manampy anao manomboka. Ny tolakandro, rehefa miala tanàna ianao dia mankany Missouri ary mihaino mozika. Nolazaiko tamin'i Anna fa hiaraka aminy aho amin'ny alina, nefa nasain'ny pasitera nanao drafitra fisorohana aho. Isika no mijery. Tonga ireo mpanazatra ary niteny hoe: "ny haino aman-jery sy ny vahoaka, mila azy ireo isika. Ho tonga ao Baghdad isika izao. Mipetraka ao Annie isika ary miara-mipetraka. Raha any an-trano anio hariva ianao dia afaka misakafo ao an-trano. Mino izahay ny fahasambarana, ny ra dia mety hody hatory.
+
+Step 60/284
+>> Malagasy - Mongolian
+	Аль-Рашид фараоны бичсэн зохиол, төгсөгчид болон визний талаар сонссон. Мөрөөдөл сонсох нь таныг эхлэхэд тусална. Үдээс хойш хотоос гарахдаа Миссурид очиж хөгжим сонсоорой. Би Аннад шөнө хамт байх болно гэж хэлсэн боловч пастор надад төлөвлөгөө гарга гэж хэлсэн. Бид харж байна. Дасгалжуулагч нар ирж "хэвлэл мэдээллийнхэн, хүмүүс бидэнд хэрэгтэй байна. Бид одоо Багдад руу явж байна. Бид Аннид хамт байж байгаад хамт байна. Хэрэв та өнөө орой гэртээ байгаа бол та тэндээс идэж болно." гэр Аз жаргалд итгэдэг, цус унтаж магадгүй юм.
+
+Step 61/284
+>> Mongolian - Amharic
+	አል-ረሺድ ስለ ፈር Pharaohን ጽሑፎች ፣ አዘጋጆች እና ቪዛዎች ሰማ ፡፡ ህልሞችን ማዳመጥ እንዲጀምሩ ይረዳዎታል ፡፡ ከሰዓት በኋላ ከተማውን ለቀው ሲወጡ ሙዚቃ ለመስማት ወደ ሚዙሪ ይሂዱ ፡፡ አና ዛሬ ማታ ከእሷ ጋር እንደምሆን ነገርኳት ፣ ግን ፓስተሩ እቅድ እንዳወጣ ነገረኝ። እናያለን ፡፡ አሠልጣኞቹ መጥተው “ሚዲያውን እና ህዝቡን እንፈልጋለን ፡፡ አሁን ወደ ባግዳድ እንሄዳለን ፡፡ ከአና ጋር ነን ፡፡ ዛሬ ማታ ቤት ከሆንክ መብላት ትችላላችሁ ፡፡” አሉ ፡፡ ቤቱ በደስታ ውስጥ ያምናል ፣ ደሙም ይተኛል።
+
+Step 62/284
+>> Amharic - Kurdish
+	Al-Reşîd li ser nivîsarên, rêxistin û vîzayên Pharaoh bihîst. Ew ji we re dibe alîkar ku hûn dest bi bihîstina xewnan bikin. Gava ku hûn di nîvroyê de ji bajêr derdikevin, serê xwe ji Mizûrî dikin ku guhdariya muzîkê bike. Min ji Anna re got ku ez ê îşev bi wî re bim, lê pastor ji min re got ku min planek xwe heye. Ka em bibînin. Hevber hatin û gotin, "Em hewceyê medya û gel. Naha em diçin Bexdayê. Em bi Anna re ne. Ger hûn îşev li malê bin, hûn dikarin bixwin. " Wan digot. Mal ji bawerîyê bawer dike, û xwîna wê jî di xew re diçe.
+
+Step 63/284
+>> Kurdish - Slovak
+	Al-Rašíd počul o faraonových spisoch, organizáciách a vízach. Pomáha vám to začať snívať. Keď opustíte mesto v poludnie, choďte k Mizuri, aby ste počúvali hudbu. Anna som povedala, že dnes večer budem s ním, ale farár mi povedal, že mám plán. Pozrime sa. Spoločníci prišli a povedali: „Potrebujeme médiá a ľudí. Teraz ideme do Bagdadu. Sme s Annou. Ak ste dnes večer doma, môžete jesť.“ “ Mal verí vo vieru a jej krv ide spať.
+
+Step 64/284
+>> Slovak - Swedish
+	Al-Rashid har hört talas om faraos skrifter, organisationer och visum. Det hjälper dig att börja drömma. När du lämnar staden vid middagstid, gå till Mizuri för att lyssna på musik. Anna sa att jag skulle vara med honom ikväll, men pastorn sa till mig att jag hade en plan. Låt oss se. Kamerorna kom och sa: ”Vi behöver media och folket. Vi åker till Bagdad nu. Vi är med Anna. Om du är hemma ikväll kan du äta. ”” Han tror på tro och hennes blod sover.
+
+Step 65/284
+>> Swedish - Georgian
+	ალ-რაშიდს გაუგია ფარაონის ნაწერები, ორგანიზაციები და ვიზები. ეს დაგეხმარებათ სიზმარში დაიწყოს. შუადღისას ქალაქგარეთ წასვლისას გაემგზავრე მიზურამდე მუსიკის მოსასმენად. ანამ თქვა, რომ ამაღამ მასთან ვიქნები, მაგრამ პასტორმა მითხრა, რომ გეგმა მაქვს. ვნახოთ. კამერები მოვიდნენ და თქვა: ”ჩვენ გვჭირდება მედია და ხალხი. ახლა ბაღდადში მივდივართ. ჩვენ ანასთან ვართ. თუ ამ დღეს სახლში ხართ, შეგიძლიათ ჭამა. ”” მას სწამს რწმენა და მის სისხლს ეძინა.
+
+Step 66/284
+>> Georgian - Thai
+	Al-Rashid เคยได้ยินงานเขียนองค์กรและวีซ่าของฟาโรห์ สิ่งนี้จะช่วยให้คุณเริ่มต้นในฝัน เมื่อคุณออกจากเมืองในตอนบ่ายไปที่ Target เพื่อฟังเพลง แอนนาบอกว่าฉันจะอยู่กับเธอคืนนี้ แต่ศิษยาภิบาลบอกฉันว่าฉันมีแผน มาดูกัน กล้องเข้ามาและพูดว่า "เราต้องการสื่อและผู้คน ตอนนี้เรากำลังมุ่งหน้าสู่กรุงแบกแดด เราอยู่กับแอนนา ถ้าคุณอยู่บ้านในวันนี้คุณสามารถกิน "" เขาเชื่อในศรัทธาและเลือดของเขาหลับ
+
+Step 67/284
+>> Thai - Japanese
+	アル・ラシドはファラオの著作、組織、ビザを聞いたことがあります。これはあなたがあなたの夢で始めるのを助けます。午後に町を出たら、Targetに行ってその歌を聞いてください。しかし牧師は私がカメラが入って来て言うのを見る計画があると私に言った「私たちはメディアと人々を必要としています。私たちは今バグダッドに向かっています。アンナと一緒です今日あなたが家にいるなら、あなたは食べることができます。
+
+Step 68/284
+>> Japanese - Icelandic
+	Al Rashid hefur frétt af skrifum Faraós, samtökum og vegabréfsáritunum. Þetta mun hjálpa þér að byrja með drauma þína. Þegar þú yfirgefur bæinn síðdegis skaltu fara á Target og hlusta á lagið. En presturinn sagði mér að ég væri með áætlun um að horfa á myndavélina koma inn og segja: "Okkur vantar fjölmiðla og fólkið. Við erum nú á leið til Bagdad. Með Önnu Ef þú ert heima í dag geturðu borðað.
+
+Step 69/284
+>> Icelandic - Portuguese
+	Al Rashid tem notícias dos escritos, associações e vistos do faraó. Isso ajudará você a começar com seus sonhos. Quando você sair da cidade à tarde, vá para o Target e ouça a música. Mas o pastor me disse que eu tinha um plano para assistir a câmera entrar e dizer: "Precisamos da mídia e das pessoas. Estamos agora a caminho de Bagdá. Com Anna Se você estiver em casa hoje, poderá comer.
+
+Step 70/284
+>> Portuguese - Urdu
+	الرشید کے پاس فرعون کی تحریروں ، انجمنوں اور ویزوں کی خبریں ہیں۔ اس سے آپ کو اپنے خوابوں کا آغاز کرنے میں مدد ملے گی۔ جب آپ دوپہر کو شہر چھوڑتے ہیں تو ، ٹارگٹ پر جائیں اور موسیقی سنیں۔ لیکن پادری نے مجھے بتایا کہ کیمرا کو آتے ہوئے دیکھ کر میرا کہنا تھا ، "ہمیں میڈیا اور لوگوں کی ضرورت ہے۔ ہم اب بغداد جارہے ہیں۔ انا کے ساتھ اگر آپ آج گھر میں ہیں تو ، آپ کھا سکتے ہیں۔
+
+Step 71/284
+>> Urdu - Bosnian
+	Al-Rashid ima vijesti o faraonovim spisima, asocijacijama i vizama. Ovo će vam pomoći da započnete svoje snove. Kada izađete iz grada u podne, idite na Target i slušajte muziku. Ali pastor mi je rekao kad sam vidio da kamera dolazi, rekao sam: "Trebaju nam mediji i ljudi. Idemo sada u Bagdad. Ako ste danas kod Ane, možete jesti."
+
+Step 72/284
+>> Bosnian - Chinese (Simplified)
+	拉希德（Al-Rashid）有关法老王的著作，协会和签证的消息。这将帮助您开始梦想。当您中午离开城镇时，前往Target并听音乐。但是牧师告诉我，当我看到相机要来时，我说：“我们需要媒体和人民。现在我们去巴格达。如果今天和安娜在一起，就可以吃饭。”
+
+Step 73/284
+>> Chinese (Simplified) - Mongolian
+	Аль-Рашидын зохиолууд, холбоо, фараонуудын визний талаархи мэдээ. Энэ нь мөрөөдлөө эхлүүлэхэд тусална. Үдээс хойш хотоос гарахдаа Зорилтот чиглэл рүү явж, хөгжим сонсоорой. Гэхдээ тахилч надад камер ирж байгааг хараад "Бидэнд хэвлэл мэдээлэл, хүмүүс хэрэгтэй байна. Одоо бид Багдад руу явлаа. Хэрэв бид өнөөдөр Аннагийн хамт байгаа бол идэж болно" гэж хэлсэн.
+
+Step 74/284
+>> Mongolian - Spanish
+	Escritos, alianzas y noticias de Al-Rashid sobre las visas de los faraones. Esto te ayudará a comenzar tu sueño. Cuando salgas de la ciudad por la tarde, ve a tu destino y escucha música. Pero cuando el sacerdote vio venir la cámara, dijo: "Necesitamos los medios y la gente. Ahora vamos a Bagdad. Si hoy estamos con Anna, podemos comer".
+
+Step 75/284
+>> Spanish - Uzbek
+	Fir'avnlarning vizalari to'g'risida Rashiddan yozuvlar, bitimlar va yangiliklar. Bu sizning orzuingizni boshlashingizga yordam beradi. Kunduzi shaharni tark etganingizda, belgilangan joyga boring va musiqa tinglang. Ammo kamera kelayotganini ko'rgan ruhoniy dedi: "Bizga vositalar va odamlar kerak. Endi biz Bog'dodga ketyapmiz. Agar bugun Anna bilan birga bo'lsak, ovqatlanishimiz mumkin."
+
+Step 76/284
+>> Uzbek - Sinhala
+	පාරාවෝවරුන්ගේ වීසා බලපත්‍ර පිළිබඳව රෂීඩ්ගෙන් වාර්තා, ගිවිසුම් සහ ප්‍රවෘත්ති. මෙය ඔබේ සිහිනය ආරම්භ කිරීමට උපකාරී වේ. ඔබ දිවා කාලයේදී නගරයෙන් පිටවන විට, නියමිත ස්ථානයට ගොස් සංගීතයට සවන් දෙන්න. නමුත් කැමරාව එනවා දුටු පූජකයා, "අපට වාහන සහ මිනිසුන් අවශ්‍යයි. දැන් අපි බැග්ඩෑඩ් වෙත යමු. අද අපි ඇනා සමඟ සිටී නම් අපට කන්න පුළුවන්" යනුවෙන් පැවසීය.
+
+Step 77/284
+>> Sinhala - French
+	Rapports Rashid, contrats et nouvelles sur les visas de Pharaon. Cela vous aidera à démarrer votre rêve. Lorsque vous quittez la ville pendant la journée, allez au bon endroit et écoutez de la musique. Mais voyant la caméra arriver, le prêtre a dit: "Nous avons besoin de véhicules et de personnes. Allons à Bagdad. Nous pouvons manger aujourd'hui si nous sommes avec Anna."
+
+Step 78/284
+>> French - Norwegian
+	Rashid rapporter, kontrakter og nyheter om faraos visum. Dette vil hjelpe deg med å starte drømmen. Når du forlater byen på dagtid, kan du dra til rett sted og høre på musikk. Men da han så kameraet komme, sa presten: "Vi trenger kjøretøy og folk. La oss dra til Bagdad. Vi kan spise i dag hvis vi er sammen med Anna."
+
+Step 79/284
+>> Norwegian - Haitian Creole
+	Rapò Rashid, kontra ak nouvèl sou viza farawon an. Sa ap ede ou kòmanse rèv ou. Lè ou kite lavil la pandan lajounen an, ou ka ale nan plas la dwat epi koute mizik. Men, lè li te wè kamera a ap vini, prèt la te di, "Nou bezwen machin ak moun. Ann ale nan Bagdad. Nou ka manje jodi a si nou ak Anna."
+
+Step 80/284
+>> Haitian Creole - Catalan
+	Rashid informa, ofereix i notícies sobre la visa del faraó. Això us ajudarà a començar el vostre somni. Quan sortiu de la ciutat durant el dia, podeu anar al lloc adequat i escoltar música. Però quan va veure la càmera que venia, el sacerdot va dir: "Necessitem cotxes i gent. Anem a Bagdad. Avui podem menjar si nosaltres i Anna".
+
+Step 81/284
+>> Catalan - Amharic
+	ራሺድ ስለ ፈር Pharaohን ቪዛ ዘገባዎች ፣ ቅናሾች እና ዜና ያቀርባል ፡፡ ይህ ህልምዎን ለመጀመር ይረዳዎታል ፡፡ ቀኑን ከከተማ ሲወጡ ወደ ትክክለኛው ቦታ ሄደው ሙዚቃ ማዳመጥ ይችላሉ ፡፡ ካህኑ ሲመጣ ባየ ጊዜ ካህኑ "እኛ መኪናዎች እና ሰዎች እንፈልጋለን ፡፡ ወደ ባግዳድ እንሄዳለን ፡፡ እኛ እና አና የምንችል ከሆነ ዛሬ መብላት እንችላለን ፡፡"
+
+Step 82/284
+>> Amharic - Ukrainian
+	Рашид надає новини, пропозиції та новини про візу фараона. Це допоможе вам розпочати мрію. Виїхавши за місто, ви можете поїхати в потрібне місце і послухати музику. Коли священик побачив його, священик сказав: "Нам потрібні машини та люди. Ми поїдемо до Багдаду. Якщо ми з Анною зможемо, ми можемо сьогодні поїсти".
+
+Step 83/284
+>> Ukrainian - Georgian
+	რაშიდი გთავაზობთ სიახლეებს, შეთავაზებებსა და სიახლეებს ფარაონის ვიზის შესახებ. ეს დაგეხმარებათ ოცნების დასაწყებად. როდესაც თქვენ დატოვებთ ქალაქს, შეგიძლიათ სწორ ადგილას წასვლა და მუსიკის მოსმენა. როდესაც მან მღვდელი დაინახა, მღვდელმა თქვა: "ჩვენ გვჭირდება მანქანები და ხალხი. ჩვენ წავალთ ბაღდადში. თუ მე და ანა, ჩვენ შეგვიძლია. დღეს შეგვიძლია საჭმელად".
+
+Step 84/284
+>> Georgian - Maltese
+	Rashid joffri aħbarijiet, offerti u aħbarijiet dwar il-viża tal-Fargħun. Dan jgħinek tibda bil-ħolma tiegħek. Meta titlaq mill-belt tista 'tmur fil-post it-tajjeb u tisma' mużika. Meta ra lis-saċerdot, il-kappillan qal, "Għandna bżonn karozzi u nies. Se mmorru f'Bagdad. Jekk Anna u jien nistgħu, nistgħu. Illum nistgħu nieklu."
+
+Step 85/284
+>> Maltese - Macedonian
+	Рашид нуди новости, понуди и новости за визата на фараонот. Ова ќе ви помогне да започнете со вашиот сон. Кога ќе го напуштите градот, можете да отидете на вистинското место и да слушате музика. Кога го виде свештеникот, свештеникот рече: "Ни требаат автомобили и луѓе. Goе одиме во Багдад. Ако јас и Ана можеме, можеме. Денес можеме да јадеме".
+
+Step 86/284
+>> Macedonian - Luxembourgish
+	De Rashid bitt dem Farao säi Visa Neiegkeeten, Offeren an Neiegkeeten. Dëst hëlleft Iech mat Ärem Dram unzefänken. Wann Dir d'Stad verléisst, kënnt Dir op déi richteg Plaz goen an Musek lauschteren. Wéi hien de Paschtouer gesinn huet, huet de Priister gesot: "Mir brauchen Autoen a Leit. Mir ginn op Bagdad. Wann Anna an ech kënnen, kënne mir. Haut kënne mer iessen."
+
+Step 87/284
+>> Luxembourgish - Swedish
+	Rashid erbjuder Faraos visumnyheter, erbjudanden och nyheter. Detta hjälper dig att komma igång med din dröm. När du lämnar staden kan du åka till rätt plats och lyssna på musik. När han såg pastorn sade prästen, "Vi behöver bilar och människor. Vi åker till Bagdad. Om Anna och jag kan, kan vi. Idag kan vi äta."
+
+Step 88/284
+>> Swedish - Slovenian
+	Rashid nudi faraonu vizumske novice, ponudbe in novice. To vam bo pomagalo začeti sanje. Ko zapustite mesto, lahko greste na pravo mesto in poslušate glasbo. Ko je zagledal župnika, je duhovnik rekel: "Potrebujemo avtomobile in ljudi. Odpravimo se v Bagdad. Če lahko Anna in jaz, lahko. Danes lahko jeva."
+
+Step 89/284
+>> Slovenian - Danish
+	Rashid tilbyder nyheder, tilbud og nyheder til Farao. Dette vil hjælpe dig med at starte din drøm. Når du forlader byen, kan du gå til det rigtige sted og lytte til musik. Da han så præsten, sagde præsten, "Vi har brug for biler og folk. Lad os tage til Bagdad. Hvis Anna og jeg kan, kan vi. Vi kan spise i dag."
+
+Step 90/284
+>> Danish - Lithuanian
+	Rashidas pateikia naujienas, pasiūlymus ir naujienas faraonui. Tai padės įgyvendinti svajonę. Išvykę iš miesto galite eiti į reikiamą vietą ir klausytis muzikos. Pamatęs kunigą, kunigas pasakė: "Mums reikia automobilių ir žmonių. Važiuokime į Bagdadą. Jei Anna ir aš galime, galime. Mes galime valgyti šiandien".
+
+Step 91/284
+>> Lithuanian - Irish
+	Seachadann Rashid nuacht, déileálacha agus nuacht do Pharaoh. Cabhróidh sé le d’aisling a chomhlíonadh. Nuair a bhíonn tú as baile, is féidir leat dul go dtí an áit cheart agus éisteacht le ceol. Tar éis dó an sagart a fheiceáil, dúirt an sagart, "Teastaíonn gluaisteáin agus daoine uainn. Téimid go Bagdad. Más féidir le Anna agus mise, is féidir linn. Is féidir linn ithe inniu."
+
+Step 92/284
+>> Irish - Turkish
+	Rashid Firavun'a haberler, fırsatlar ve haberler verir. Hayalini gerçekleştirmeye yardımcı olacak. Uzaktayken doğru yere gidebilir ve müzik dinleyebilirsiniz. Rahip gördükten sonra, rahip "Arabalara ve insanlara ihtiyacımız var. Bağdat'a gidiyoruz. Anna ve ben yapabilirsek yapabiliriz. Bugün yemek yiyebiliriz."
+
+Step 93/284
+>> Turkish - Icelandic
+	Rashid gefur Faraó fréttir, tækifæri og fréttir. Það mun hjálpa þér að gera draum þinn að veruleika. Þú getur farið á réttan stað og hlustað á tónlist meðan þú ert í burtu. Eftir að hafa séð prestinn sagði presturinn: „Okkur vantar bíla og fólk. Við förum til Bagdad. Anna og ég getum gert ef við getum. Við getum borðað í dag.“
+
+Step 94/284
+>> Icelandic - Estonian
+	Rashid annab vaaraole uudiseid, võimalusi ja uudiseid. See aitab teil oma unistuse teoks teha. Võite eemal viibides minna õiges kohas ja muusikat kuulata. Pärast preestri nägemist ütles preester: “Vajame autosid ja inimesi. Me läheme Bagdadi. Anna ja mina saame sellega hakkama, kui saame. Saame täna süüa. "
+
+Step 95/284
+>> Estonian - Hindi
+	रशीद फिरौन को समाचार, अवसर और समाचार देता है। यह आपके सपने को सच करने में आपकी मदद करेगा। आप सही जगह पर जा सकते हैं और दूर रहते हुए संगीत सुन सकते हैं। पुजारी को देखने के बाद, पुजारी ने कहा, “हमें कारों और लोगों की आवश्यकता है। हम बगदाद जा रहे हैं। अन्ना और मैं कर सकते हैं अगर हम कर सकते हैं। हम आज खा सकते हैं। "
+
+Step 96/284
+>> Hindi - Romanian
+	Rashid dă lui Faraon vești, oportunități și știri. Acest lucru vă va ajuta să vă faceți visul realitate. Puteți merge la locul potrivit și puteți asculta muzică în timp ce sunteți departe. După ce l-a văzut pe preot, preotul a spus: „Avem nevoie de mașini și oameni. Mergem la Bagdad. Anna și cu mine putem dacă putem. Putem mânca astăzi. "
+
+Step 97/284
+>> Romanian - Serbian
+	Расхид даје фараону вести, могућности и вести. Ово ће вам помоћи да ваш сан постане стварност. Можете отићи на право место и слушати музику док нисте код куће. Пошто је видео свештеника, свештеник је рекао: „Требају нам аутомобили и људи. Идемо у Багдад. Анна и ја можемо ако можемо. Данас можемо јести. "
+
+Step 98/284
+>> Serbian - Malagasy
+	Nanome vaovao, fahafahana ary vaovao i Faraona Hanampy anao hahatanteraka ny nofinofinao izany. Afaka mandeha amin'ny toerana mety sy mihaino mozika ianao rehefa tsy eo. Raha nahita ilay pretra izy dia nilaza ilay pretra hoe: “Mila fiara sy olona izahay. Andao andao hankany Baghdad. Izaho sy i Anna raha afaka manao izany. Afaka misakafo anio. "
+
+Step 99/284
+>> Malagasy - Arabic
+	يوفر فرعون المعلومات والفرص والمعلومات لمساعدتك على تحقيق أحلامك. يمكنك الذهاب إلى المكان الصحيح والاستماع إلى الموسيقى عندما لا تكون هناك. قال الكاهن وهو يرى الكاهن: "نحتاج السيارات والناس. دعنا نذهب إلى بغداد. أنا وأنا يمكن أن نفعل ذلك. يمكنك أن تأكل اليوم. "
+
+Step 100/284
+>> Arabic - Kazakh
+	Перғауын сіздің арманыңызға жетуге көмектесетін ақпарат, мүмкіндіктер мен ақпаратты ұсынады. Сіз жоқ жерде қажетті жерге барып, музыка тыңдауға болады. Діни қызметкерді көріп, діни қызметкер: «Бізге көліктер мен адамдар керек. Бағдатқа барайық. Мен және мен солай жасай аламыз. Бүгін жеуге болады», - деді.
+
+Step 101/284
+>> Kazakh - Armenian
+	Փարավոնը առաջարկում է տեղեկատվություն, հնարավորություններ և տեղեկատվություն `օգնելու ձեզ հասնել ձեր երազանքները: Ուր էլ չլինեք, կարող եք գնալ այնտեղ, որտեղ ցանկանում եք և լսել երաժշտություն: Քահանան տեսնելով ՝ քահանան ասաց. «Մեզ մեքենաներն ու մարդիկ են պետք: Եկեք գնանք Բաղդադ: Ես և ես կարող ենք դա անել: Դուք այսօր կարող եք ուտել », - ասաց նա:
+
+Step 102/284
+>> Armenian - Samoan
+	Ua tuʻuina mai e Farao faʻamatalaga, avanoa, ma faʻamatalaga e fesoasoani ia te oe e ausia ai au miti. Soo se mea e te i ai, e mafai ona e alu i soo se mea e te manaʻo ai ma faʻalogo i musika. O le vaaia o le ositaulaga, na fai mai ai le ositaulaga, "Matou te manaʻomia taavale ma tagata. Tatou oi Baghdad. E mafai ona ma faia. E mafai ona e 'ai i le aso, "o lana tala lea.
+
+Step 103/284
+>> Samoan - Bengali
+	আপনাকে স্বপ্নগুলি অর্জনে সহায়তা করার জন্য ফেরাউন তথ্য, সুযোগ এবং তথ্য সরবরাহ করে। আপনি যেখানেই থাকুন না কেন আপনি যে কোনও জায়গায় যেতে পারেন এবং গান শুনতে পারেন। পুরোহিতকে দেখেই পুরোহিত বললেন, "আমাদের গাড়ি ও লোক দরকার। আসুন আমরা বাগদাদে যাই। আমরা এটি করতে পারি। আপনি আজ খেতে পারেন," তিনি বলেছিলেন।
+
+Step 104/284
+>> Bengali - Lao
+	ຟາໂລໃຫ້ຂໍ້ມູນ, ກາລະໂອກາດແລະຂໍ້ມູນເພື່ອຊ່ວຍທ່ານໃຫ້ບັນລຸຄວາມຝັນຂອງທ່ານ. ທ່ານສາມາດໄປທຸກບ່ອນແລະຟັງເພງບໍ່ວ່າທ່ານຈະຢູ່ໃສກໍ່ຕາມ. ຫລັງຈາກໄດ້ເຫັນປະໂລຫິດ, ປະໂລຫິດກ່າວວ່າ, "ພວກເຮົາຕ້ອງການລົດແລະຄົນ. ໃຫ້ໄປທີ່ Baghdad. ພວກເຮົາສາມາດເຮັດມັນໄດ້. ທ່ານສາມາດກິນໄດ້ມື້ນີ້,".
+
+Step 105/284
+>> Lao - Chichewa
+	Farao amapereka chidziwitso, mwayi ndi chidziwitso kuti chikuthandizeni kukwaniritsa maloto anu. Mutha kupita kulikonse ndikumvetsera nyimbo mosatengera komwe muli. Atawona wansembeyo, wansembeyo anati, "Tikufunika galimoto ndi anthu. Tiyeni tipite ku Baghdad. Titha kuchita izi. Mutha kudya lero," adatero.
+
+Step 106/284
+>> Chichewa - Thai
+	ฟาโรห์ให้ข้อมูลโอกาสและความรู้เพื่อช่วยให้คุณเติมเต็มความฝัน คุณสามารถไปได้ทุกที่และฟังเพลงไม่ว่าคุณจะอยู่ที่ไหน เมื่อเขาเห็นนักบวชนักบวชกล่าวว่า "เราต้องการรถยนต์และผู้คนเราไปที่แบกแดดเราสามารถทำสิ่งนี้ได้คุณสามารถกินวันนี้" เขากล่าว
+
+Step 107/284
+>> Thai - Hungarian
+	A fáraók információt, lehetőségeket és ismereteket nyújtanak álmai megvalósításához. Bárhová ment, bárhová ment és hallgathat zenét. Amikor meglátta a szerzeteseket, a szerzetesek mondta "Autókra és emberekre van szükségünk. Bagdadba megyünk. Meg tudjuk csinálni. Ma már enni is lehet" - mondta.
+
+Step 108/284
+>> Hungarian - Kurdish
+	Pharaoh agahî, derfet û zanyarî dide ku xewna we bicîh bîne. Her diçin, her derê biçin û muzîkê guhdarî bikin. Dema ku wî murîd dît, murîdan got, "Pêwîstiya me bi otomobîl û gel heye. Em diçin Bexdayê. Em dikarin wê bikin. Todayro em dikarin bixwin."
+
+Step 109/284
+>> Kurdish - Swahili
+	Firauni hutoa habari, fursa na maarifa ya kutimiza ndoto yako. Nenda, nenda kila mahali na usikilize muziki. Alipomwona murid, muridan alisema, "Tunahitaji magari na watu. Tunakwenda Baghdad. Tunaweza kuifanya. Leo tunaweza kula."
+
+Step 110/284
+>> Swahili - Bulgarian
+	Фараонът предоставя информация, възможности и знания за изпълнение на вашата мечта. Идете, ходете навсякъде и слушайте музика. Когато видя убиеца, муридан каза: „Имаме нужда от коли и хора. Отиваме в Багдад. Можем да го направим. Днес можем да ядем“.
+
+Step 111/284
+>> Bulgarian - Vietnamese
+	Pharaoh cung cấp thông tin, cơ hội và kiến thức để thực hiện ước mơ của bạn. Đi, đi bất cứ đâu và nghe nhạc. Khi nhìn thấy kẻ giết người, Muridan nói: "Chúng tôi cần xe hơi và người. Chúng tôi đến Baghdad. Chúng tôi có thể làm điều đó. Hôm nay chúng ta có thể ăn. "
+
+Step 112/284
+>> Vietnamese - Burmese
+	သင်၏အိပ်မက်များကိုအကောင်အထည်ဖော်ရန်အတွက်ဖါရောဘုရင်သည်သတင်းအချက်အလက်၊ သွား, ဘယ်နေရာမှာမဆိုသွားနှင့်ဂီတကိုနားထောင်ပါ။ လူသတ်သမားကိုသူတွေ့သောအခါ Muridan က "ကျနော်တို့ကားတွေ၊ လူတွေလိုတယ်။ ဘဂ္ဂဒက်ကိုသွားတယ်။ ငါတို့လုပ်နိုင်တယ်။ ဒီနေ့စားလို့ရတယ်" ဟုပြောသည်
+
+Step 113/284
+>> Burmese - English
+	In order to fulfill your dreams, Pharaoh will provide you with information, information, and resources. Go, go anywhere and listen to music. When he saw the murderer, Muridan said, "We need cars and people. We go to Baghdad. We can do it today."
+
+Step 114/284
+>> English - Nepali
+	आफ्नो सपना पूरा गर्नका लागि, फिरऊनले तपाईंलाई जानकारी, सूचना, र स्रोतहरू प्रदान गर्नेछ। जानुहोस्, जहाँसुकै जानुहोस् र संगीत सुन्नुहोस्। जब उनले हत्यारालाई देखे, मुरीदानले भने, "हामीलाई गाडी र मानिस चाहिन्छ। हामी बगदाद जान्छौं। आज हामी यो गर्न सक्छौं।"
+
+Step 115/284
+>> Nepali - Chinese (Traditional)
+	為了實現您的夢想，法老將為您提供信息，信息和資源。到任何地方去聽音樂。穆里丹看到兇手時說：“我們需要一輛汽車和一名男子。我們去了巴格達。今天我們可以做到。”
+
+Step 116/284
+>> Chinese (Traditional) - Russian
+	Чтобы осуществить свою мечту, фараон предоставит вам информацию, информацию и ресурсы. Идите куда угодно, чтобы слушать музыку. Муридан сказал, когда увидел убийцу: «Нам нужна машина и мужчина. Мы поехали в Багдад. Сегодня мы можем это сделать».
+
+Step 117/284
+>> Russian - German
+	Um seinen Traum zu erfüllen, wird der Pharao Ihnen Informationen, Informationen und Ressourcen zur Verfügung stellen. Gehen Sie überall hin, um Musik zu hören. Muridan sagte, als er den Mörder sah: „Wir brauchen ein Auto und einen Mann. Wir gingen nach Bagdad. Heute können wir es schaffen. “
+
+Step 118/284
+>> German - Hebrew
+	כדי להגשים את חלומו, הפרעה יספק לך מידע, מידע ומשאבים. סע לכל מקום כדי להאזין למוזיקה. מורידן אמר כשראה את הרוצח, "אנחנו צריכים מכונית ואדם. נסענו לבגדאד. היום אנו יכולים לעשות זאת. "
+
+Step 119/284
+>> Hebrew - Filipino
+	Upang matupad ang kanyang pangarap, ang pagkagambala ay magbibigay sa iyo ng impormasyon, impormasyon at mapagkukunan. Pumunta sa kahit saan upang makinig sa musika. Sinabi ni Moridan nang makita niya ang pumatay, "Kailangan namin ng kotse at isang tao. Pumunta kami sa Baghdad. Ngayon ay magagawa natin iyon."
+
+Step 120/284
+>> Filipino - Malay
+	Untuk memenuhi impiannya, gangguan akan memberi anda maklumat, maklumat dan sumber. Pergi ke mana sahaja untuk mendengar muzik. Moridan berkata ketika dia melihat pembunuh tersebut, "Kami memerlukan sebuah kereta dan seseorang, kami pergi ke Baghdad, sekarang kita dapat melakukan itu."
+
+Step 121/284
+>> Malay - Bosnian
+	Da biste mu ispunili san, poremećaji će vam pružiti informacije, informacije i resurse. Idite bilo gdje da čujete muziku. Moridan je rekao kada je vidio ubicu: "Treba nam auto i neko. Otišli smo u Bagdad, sad to možemo i uraditi".
+
+Step 122/284
+>> Bosnian - Portuguese
+	Para realizar seu sonho, os distúrbios fornecerão informações, informações e recursos. Vá a qualquer lugar para ouvir música. Moridan disse quando viu o assassino: "Precisamos de um carro e de alguém. Fomos a Bagdá, agora podemos fazê-lo".
+
+Step 123/284
+>> Portuguese - Albanian
+	Për ta realizuar ëndrrën tuaj, shqetësimet do të japin informacion, informacion dhe burime. Shkoni kudo për të dëgjuar muzikë. Moridan tha kur pa vrasësin: "Ne kemi nevojë për një makinë dhe dikë. Ne shkuam në Bagdad, tani ne mund ta bëjmë atë."
+
+Step 124/284
+>> Albanian - Dutch
+	Om uw droom waar te maken, zorgen zorgen voor informatie, informatie en bronnen. Ga overal naartoe om naar muziek te luisteren. Moridan zei toen hij de moordenaar zag: 'We hebben een auto en iemand nodig. We zijn naar Bagdad gegaan, nu kunnen we het doen.'
+
+Step 125/284
+>> Dutch - Persian
+	برای تحقق رویای خود ، اطلاعات ، اطلاعات و منابع خود را تهیه کنید. برای گوش دادن به موسیقی به هر جایی بروید. موریدان با دیدن قاتل گفت: "ما به ماشین و شخصی احتیاج داریم. ما به بغداد رفتیم ، اکنون می توانیم این کار را انجام دهیم. "
+
+Step 126/284
+>> Persian - Croatian
+	Dajte informacije, informacije i resurse kako biste ostvarili svoj san. Idite bilo gdje da slušate glazbu. Vidjevši ubojicu, Moridan je rekao: "Trebamo auto i nekoga. Otišli smo u Bagdad, sad to možemo."
+
+Step 127/284
+>> Croatian - Greek
+	Παρέχετε πληροφορίες, πληροφορίες και πόρους για να κάνετε το όνειρό σας πραγματικότητα. Πηγαίνετε οπουδήποτε για να ακούσετε μουσική. Βλέποντας τον δολοφόνο, ο Moridan είπε: "Χρειαζόμαστε ένα αυτοκίνητο και κάποιον. Πήγαμε στη Βαγδάτη, τώρα μπορούμε."
+
+Step 128/284
+>> Greek - Zulu
+	Nikeza imininingwane, imininingwane nezinsizakusebenza ukuze iphupho lakho lifezeke. Iya noma kuphi ukulalela umculo. Ebona umbulali, uMoridan wathi, "Sidinga imoto nothile. Saya eBaghdad, manje sesingakwazi."
+
+Step 129/284
+>> Zulu - Indonesian
+	Berikan detail, detail, dan sumber daya untuk mewujudkan impian Anda. Pergi ke mana saja untuk mendengarkan musik. Melihat pembunuhnya, Moridan berkata, "Kami membutuhkan mobil dengan seseorang. Kami pergi ke Baghdad, sekarang kami bisa."
+
+Step 130/284
+>> Indonesian - Italian
+	Fornisci dettagli, dettagli e risorse per realizzare i tuoi sogni. Vai ovunque per ascoltare la musica. Vedendo l'assassino, Moridan disse: "Abbiamo bisogno di una macchina con qualcuno. Andiamo a Baghdad, ora possiamo."
+
+Step 131/284
+>> Italian - Pashto
+	ستاسو خوبونه ریښتیني کولو لپاره توضیحات ، توضیحات او سرچینې چمتو کړئ. هرچیرې لاړشئ چې میوزیک واورئ. د وژونکي لیدو ته ، موریډن وویل ، "موږ له یو چا سره موټر ته اړتیا لرو. راځئ چې بغداد ته لاړ شو ، اوس کولی شو."
+
+Step 132/284
+>> Pashto - Shona
+	Ipa ruzivo, tsananguro, uye zviwanikwa kuti zviroto zvako zviitike. Enda chero kupi kuti uteerere mimhanzi. Achiona mhondi, Moridin akati, "Tinoda mota nemunhu. Ngatiendei kuBaghdad, ikozvino tinokwanisa."
+
+Step 133/284
+>> Shona - Hausa
+	Bayar da bayanai, bayanai, da albarkatu don ganin burinka ya tabbata. Je ko'ina don sauraron kiɗan. Da ya ga mai kisan, Moridin ya ce, "Muna buƙatar mota da mutum. Bari mu je Bagdad, yanzu za mu iya."
+
+Step 134/284
+>> Hausa - Urdu
+	اپنے مقصد کو حقیقت بنانے کیلئے معلومات ، معلومات اور وسائل پیش کریں۔ موسیقی سننے کے لئے ہر جگہ جائیں۔ قاتل کو دیکھ کر موریڈین نے کہا ، "ہمیں ایک کار اور ایک آدمی کی ضرورت ہے۔ چلو بغداد چلو ، اب ہم کر سکتے ہیں۔"
+
+Step 135/284
+>> Urdu - Czech
+	Prezentujte informace, informace a zdroje, aby se váš cíl stal skutečností. Poslouchejte hudbu všude. Když Moridin viděl vraha, řekl: „Potřebujeme auto a muže. Pojďme do Bagdádu, teď můžeme.“
+
+Step 136/284
+>> Czech - Japanese
+	情報、情報、リソースを提示して、目標を実現します。どこでも音楽を聴く。モリディンは殺人犯を見たとき、次のように述べました。今バグダッドに行きましょう。
+
+Step 137/284
+>> Japanese - Polish
+	Przedstaw informacje, informacje i zasoby, aby osiągnąć swoje cele. Słuchaj muzyki w dowolnym miejscu. Kiedy Moridin zobaczył mordercę, stwierdził: Chodźmy teraz do Bagdadu.
+
+Step 138/284
+>> Polish - Latvian
+	Sniedziet informāciju, informāciju un resursus savu mērķu sasniegšanai. Klausieties mūziku jebkur. Kad Moridīns ieraudzīja slepkavu, viņš sacīja: Tagad brauksim uz Bagdādi.
+
+Step 139/284
+>> Latvian - Korean
+	목표를 달성하기 위해 정보, 정보 및 리소스를 제공하십시오. 어디서나 음악을들을 수 있습니다. 그는 Moridine이 살인자를보고 "바그다드로 가자"고 말했습니다.
+
+Step 140/284
+>> Korean - Maori
+	Homai nga korero, nga korero me nga rauemi hei whakatutuki i au whaainga. Ka taea e koe te whakarongo ki te waiata ki hea noa. I kii ia i kite a Moridine i te kaipatu tangata ka "Haere tatou ki Baghdad."
+
+Step 141/284
+>> Maori - Finnish
+	Anna tietoja, tietoja ja resursseja tavoitteidesi saavuttamiseksi. Voit kuunnella musiikkia missä tahansa. Hän sanoi, että Moridine oli nähnyt murhaajan ja sanoi "Mennään Bagdadiin."
+
+Step 142/284
+>> Finnish - Slovak
+	Poskytnite informácie, informácie a zdroje na dosiahnutie vašich cieľov. Hudbu môžete počúvať kdekoľvek. Povedal, že Moridín videl vraha a povedal: „Poďme do Bagdadu.“
+
+Step 143/284
+>> Slovak - Finnish
+	Anna tietoja, tietoja ja resursseja tavoitteidesi saavuttamiseksi. Voit kuunnella musiikkia missä tahansa. Hän sanoi, että Moridin näki tappajan ja sanoi: "Mennään Bagdadiin."
+
+Step 144/284
+>> Finnish - Maori
+	Homai nga korero, nga korero, me nga rauemi ki te whakatutuki i au whaainga. Ka taea e koe te whakarongo ki te waiata ki hea noa. Ka mea ia ka kite a Moridin i te kaipatu ka mea atu, "Tatou ka haere ki Baghdad."
+
+Step 145/284
+>> Maori - Korean
+	목표를 달성하기 위해 정보, 정보 및 리소스를 제공하십시오. 어디서나 음악을들을 수 있습니다. 그는 모리 딘을보고 "바그다드로 가자"고 말했다.
+
+Step 146/284
+>> Korean - Latvian
+	Sniedziet informāciju, informāciju un resursus savu mērķu sasniegšanai. Jūs varat klausīties mūziku jebkur. Viņš paskatījās uz Mori Dean un teica: "Brauksim uz Bagdādi."
+
+Step 147/284
+>> Latvian - Polish
+	Podaj informacje, informacje i zasoby, aby osiągnąć swoje cele. Możesz słuchać muzyki w dowolnym miejscu. Spojrzał na Mori Deana i powiedział: „Chodźmy do Bagdadu”.
+
+Step 148/284
+>> Polish - Japanese
+	目標を達成するための情報、情報、リソースを提供します。どこでも音楽を聴くことができます。彼は森ディーンを見て、「バグダッドに行こう」と言った。
+
+Step 149/284
+>> Japanese - Czech
+	Poskytněte informace, informace a zdroje k dosažení vašich cílů. Hudbu můžete poslouchat kdekoli. Uviděl Mori Deana a řekl: „Pojďme do Bagdádu.“
+
+Step 150/284
+>> Czech - Urdu
+	اپنے اہداف کے حصول کے لئے معلومات ، معلومات اور وسائل مہیا کریں۔ آپ کہیں بھی موسیقی سن سکتے ہیں۔ اس نے موری ڈین کو دیکھا اور کہا ، "چلیں بغداد چلیں۔"
+
+Step 151/284
+>> Urdu - Hausa
+	Bayar da bayani, bayanai da albarkatu don cimma burin ku. Kuna iya sauraron kiɗa a ko'ina. Ya kalli Moriarty ya ce, Bari mu je Bagdad.
+
+Step 152/284
+>> Hausa - Shona
+	Ipa ruzivo, ruzivo uye zviwanikwa zvekuzadzisa zvinangwa zvako. Unogona kuteerera mimhanzi kwese kupi. Akatarisa Moriarty ndokuti, Handei kuBagdad.
+
+Step 153/284
+>> Shona - Pashto
+	خپلو اهدافو ته د رسیدو لپاره معلومات ، معلومات او سرچینې چمتو کړئ. تاسو کولی شئ هر چیرې میوزیک واورئ. هغه موريارټي ته وکتل او ويې ويل ، راځئ چې بغداد ته لاړ شو.
+
+Step 154/284
+>> Pashto - Italian
+	Fornisci informazioni, informazioni e risorse per raggiungere i tuoi obiettivi. Puoi ascoltare musica ovunque. Guardò Moriarty e disse: 'Andiamo a Baghdad.
+
+Step 155/284
+>> Italian - Indonesian
+	Berikan informasi, informasi, dan sumber daya untuk mencapai tujuan Anda. Anda dapat mendengarkan musik di mana saja. Dia memandang Moriarty dan berkata, 'Ayo pergi ke Baghdad.
+
+Step 156/284
+>> Indonesian - Zulu
+	Nikeza ulwazi, imininingwane nezinsizakusebenza ukufezekisa izinhloso zakho. Ungalalela umculo noma kuphi. Wabheka uMoriarty wathi, 'Asiye eBaghdad.
+
+Step 157/284
+>> Zulu - Greek
+	Παρέχετε πληροφορίες, πληροφορίες και πόρους για την επίτευξη των στόχων σας. Μπορείτε να ακούσετε μουσική οπουδήποτε. Κοίταξε τον Μοριάρτυ και είπε: "Ας πάμε στη Βαγδάτη.
+
+Step 158/284
+>> Greek - Croatian
+	Dajte informacije, informacije i resurse za postizanje svojih ciljeva. Možete slušati glazbu bilo gdje. Pogledao je Moriartyja i rekao: "Idemo u Bagdad.
+
+Step 159/284
+>> Croatian - Persian
+	اطلاعات ، اطلاعات و منابع را برای دستیابی به اهداف خود فراهم کنید. شما می توانید در هر جایی به موسیقی گوش دهید. او به موریارتی نگاه کرد و گفت: "برویم به بغداد.
+
+Step 160/284
+>> Persian - Dutch
+	Geef informatie, informatie en middelen om uw doelen te bereiken. Je kunt overal naar muziek luisteren. Hij keek naar Moriarty en zei: 'Laten we naar Bagdad gaan.
+
+Step 161/284
+>> Dutch - Albanian
+	Siguroni informacion, informacion dhe burime për të arritur qëllimet tuaja. Ju mund të dëgjoni muzikë kudo. Ai shikoi Moriarty dhe tha: "Le të shkojmë në Bagdad.
+
+Step 162/284
+>> Albanian - Portuguese
+	Forneça informações, informações e recursos para atingir seus objetivos. Você pode ouvir música em qualquer lugar. Ele olhou para Moriarty e disse: "Vamos para Bagdá.
+
+Step 163/284
+>> Portuguese - Bosnian
+	Dajte informacije, informacije i resurse za postizanje svojih ciljeva. Možete slušati muziku bilo gde. Pogledao je Moriartyja i rekao: "Idemo u Bagdad.
+
+Step 164/284
+>> Bosnian - Malay
+	Memberi maklumat, maklumat dan sumber untuk mencapai matlamat anda. Anda boleh mendengar muzik di mana-mana sahaja. Dia memandang Moriarty dan berkata, "Ayo pergi ke Baghdad.
+
+Step 165/284
+>> Malay - Filipino
+	Magbigay ng impormasyon, impormasyon at mapagkukunan upang makamit ang iyong mga layunin. Maaari kang makinig sa musika kahit saan. Tumingin siya kay Moriarty at sinabing, "Pumunta tayo sa Baghdad.
+
+Step 166/284
+>> Filipino - Hebrew
+	ספק מידע, מידע ומשאבים להשגת היעדים שלך. אתה יכול להאזין למוזיקה בכל מקום. הוא הביט במוריארטי ואמר, "בוא נלך לבגדאד.
+
+Step 167/284
+>> Hebrew - German
+	Stellen Sie Informationen, Informationen und Ressourcen bereit, um Ihre Ziele zu erreichen. Sie können überall Musik hören. Er sah Moriarty an und sagte: "Gehen wir nach Bagdad.
+
+Step 168/284
+>> German - Russian
+	Предоставлять информацию, информацию и ресурсы, которые помогут вам в достижении ваших целей. Вы можете слушать музыку где угодно. Он посмотрел на Мориарти и сказал: «Пойдем в Багдад.
+
+Step 169/284
+>> Russian - Chinese (Traditional)
+	提供有助於您實現目標的信息，信息和資源。您可以在任何地方聽音樂。他看著莫里亞蒂說：“我們去巴格達。
+
+Step 170/284
+>> Chinese (Traditional) - Nepali
+	जानकारी, जानकारी र संसाधनहरू प्रदान गर्नुहोस् जसले तपाईंलाई तपाईंको लक्ष्यहरू प्राप्त गर्न मद्दत गर्दछ। तपाईं कहिँ पनि संगीत सुन्न सक्नुहुन्छ। उनले मोरिआर्तीलाई हेरे र भने, "हामी बगदाद जाऔं।
+
+Step 171/284
+>> Nepali - English
+	Provide information, information and resources that will help you achieve your goals. You can listen to music anywhere. He looked at Moriarty and said, "Let's go to Baghdad.
+
+Step 172/284
+>> English - Burmese
+	သင်၏ရည်မှန်းချက်များအောင်မြင်ရန်အထောက်အကူဖြစ်စေမည့်သတင်းအချက်အလက်၊ သတင်းအချက်အလက်နှင့်အရင်းအမြစ်များကိုပေးပါ။ မည်သည့်နေရာတွင်မဆိုသီချင်းနားထောင်နိုင်သည်။ သူက Moriarty ကိုကြည့်ပြီး“ ဘဂ္ဂဒက်ကိုသွားကြစို့။
+
+Step 173/284
+>> Burmese - Vietnamese
+	Thông tin có thể giúp bạn đạt được mục tiêu của mình. Cung cấp thông tin và tài nguyên. Nghe nhạc ở bất cứ đâu. Anh nhìn Moriarty và nói, "Chúng ta hãy đến Baghdad.
+
+Step 174/284
+>> Vietnamese - Bulgarian
+	Информацията може да ви помогне да постигнете целите си. Предоставяне на информация и ресурси. Слушайте музика навсякъде. Той погледна Мориарти и каза: „Хайде да отидем в Багдад.
+
+Step 175/284
+>> Bulgarian - Swahili
+	Habari inaweza kukusaidia kufikia malengo yako. Utoaji wa habari na rasilimali. Sikiza muziki kila mahali. Alimtazama Moriarty na akasema, "Twende Baghdad.
+
+Step 176/284
+>> Swahili - Kurdish
+	Agahdarî dikare bike ku hûn bigihîjin armancên xwe. Agahî û çavkaniyên peyda kirin. Li her deverê muzîkê guhdarî bikin. Wî li Moriarty nêrî û got, "Ka em herin Bexdayê.
+
+Step 177/284
+>> Kurdish - Hungarian
+	Az információk segíthetnek elérni céljait. Rendelkezésre álló információk és források. Hallgassa meg a zenét bárhol. Moriartyra nézett és azt mondta: "Menjünk Bagdadba.
+
+Step 178/284
+>> Hungarian - Thai
+	ข้อมูลสามารถช่วยให้คุณบรรลุเป้าหมาย ข้อมูลและทรัพยากรที่มีอยู่ ฟังเพลงได้ทุกที่ เขาดูโมริอาร์ตีและพูดว่า "ไปที่แบกแดดกันเถอะ
+
+Step 179/284
+>> Thai - Chichewa
+	Zambiri zingakuthandizeni kukwaniritsa zolinga zanu. Zambiri zomwe zilipo ndi zothandizira Mverani nyimbo kulikonse Adamuyang'ana Moriarti nati "Tiyeni tipite ku Baghdad.
+
+Step 180/284
+>> Chichewa - Lao
+	ຂໍ້ມູນສາມາດຊ່ວຍໃຫ້ທ່ານບັນລຸເປົ້າ ໝາຍ ຂອງທ່ານ. ມີຂໍ້ມູນເພີ່ມເຕີມແລະຊັບພະຍາກອນໃຫ້ຟັງເພັງຢູ່ທົ່ວທຸກບ່ອນທີ່ລາວເບິ່ງ Moriarti ແລະກ່າວວ່າ“ Let’s go to Baghdad.
+
+Step 181/284
+>> Lao - Bengali
+	তথ্য আপনাকে আপনার লক্ষ্য অর্জনে সহায়তা করতে পারে। তিনি মরিয়ার্তির দিকে তাকিয়ে যেখানেই সংগীত শোনার জন্য আরও তথ্য এবং সংস্থান রয়েছে এবং বলে, "আসুন আমরা বাগদাদ যাই।
+
+Step 182/284
+>> Bengali - Samoan
+	O faʻamatalaga e mafai ona fesoasoani ia te oe e ausia au sini. Na te tilotilo atu ia Moriarty i soo se mea e tele atu faʻamatalaga ma punaoa mo le faʻalogologo i musika ma fai mai, "Tatou ō i Baghdad.
+
+Step 183/284
+>> Samoan - Armenian
+	Տեղեկատվությունը կարող է օգնել ձեզ հասնել ձեր նպատակներին: Նա երաժշտություն լսելու համար ավելի շատ տեղեկություններ և ռեսուրսներ է նայում ամենուր Մորիարթիին և ասում. «Եկեք գնանք Բաղդադ:
+
+Step 184/284
+>> Armenian - Kazakh
+	Ақпарат мақсаттарыңызға жетуге көмектеседі. Ол Мориартиге музыка тыңдау үшін қосымша ақпарат пен ресурстар іздейді. «Бағдатқа барайық.
+
+Step 185/284
+>> Kazakh - Arabic
+	سوف تساعدك المعلومات على تحقيق أهدافك. إنه يبحث عن معلومات وموارد إضافية لكي يستمع موريارتي إلى الموسيقى. "دعنا نذهب إلى بغداد.
+
+Step 186/284
+>> Arabic - Malagasy
+	Hanampy anao hahatratra ny tanjonao ireo fampahalalana ireo. Mitady fampahalalana sy loharanom-baovao fanampiny ho an'i Moriarty izy mba hihainoana mozika. "Andao isika hankany Baghdad.
+
+Step 187/284
+>> Malagasy - Serbian
+	Ове информације ће вам помоћи да постигнете своје циљеве. Она тражи додатне информације и ресурсе да Мориарти слуша музику. „Идемо у Багдад.
+
+Step 188/284
+>> Serbian - Romanian
+	Aceste informații vă vor ajuta să vă atingeți obiectivele. Solicită informații și resurse suplimentare pentru Moriarti să asculte muzică. „Mergem la Bagdad.
+
+Step 189/284
+>> Romanian - Hindi
+	यह जानकारी आपको अपने लक्ष्य तक पहुँचने में मदद करेगी। संगीत सुनने के लिए मोरियार्टी के लिए अतिरिक्त जानकारी और संसाधनों का अनुरोध करें। “हम बगदाद जा रहे हैं।
+
+Step 190/284
+>> Hindi - Estonian
+	See teave aitab teil eesmärgi saavutada. Moriartylt muusika kuulamiseks lisateabe ja ressursside taotlemine. "Me läheme Bagdadi.
+
+Step 191/284
+>> Estonian - Icelandic
+	Þessar upplýsingar hjálpa þér að ná markmiði þínu. Óska eftir frekari upplýsingum og úrræðum frá Moriarty til að hlusta á tónlist. „Við förum til Bagdad.
+
+Step 192/284
+>> Icelandic - Turkish
+	Bu bilgiler hedefinize ulaşmanıza yardımcı olacaktır. Müzik dinlemek için Moriarty'den daha fazla bilgi ve kaynak isteyin. "Bağdat'a gidiyoruz.
+
+Step 193/284
+>> Turkish - Irish
+	Cuideoidh an fhaisnéis seo leat do sprioc a bhaint amach. Iarr tuilleadh faisnéise agus acmhainní ó Moriarty chun éisteacht le ceol. “Táimid ag dul go Bagdad.
+
+Step 194/284
+>> Irish - Lithuanian
+	Ši informacija padės pasiekti užsibrėžtą tikslą. Norėdami klausytis muzikos, paprašykite „Moriarty“ daugiau informacijos ir šaltinių. „Mes einame į Bagdadą.
+
+Step 195/284
+>> Lithuanian - Danish
+	Disse oplysninger hjælper dig med at nå dit mål. Bed Moriarty om mere information og kilder til at lytte til musik. ”Vi tager til Bagdad.
+
+Step 196/284
+>> Danish - Slovenian
+	Te informacije vam bodo pomagale doseči cilj. Prosite Moriartyja za več informacij in virov za poslušanje glasbe. "Gremo v Bagdad.
+
+Step 197/284
+>> Slovenian - Swedish
+	Denna information hjälper dig att nå ditt mål. Be Moriarty om mer information och resurser för att lyssna på musik. "Vi åker till Bagdad.
+
+Step 198/284
+>> Swedish - Luxembourgish
+	Dës Informatioun hëlleft Iech Äert Zil z'erreechen. Frot de Moriarty fir méi Informatioun a Ressourcen fir Musek ze lauschteren. "Mir ginn zu Bagdad.
+
+Step 199/284
+>> Luxembourgish - Macedonian
+	Оваа информација ќе ви помогне да ја постигнете вашата цел. Побарајте Мориарти за повеќе информации и ресурси за слушање музика. „Одиме во Багдад.
+
+Step 200/284
+>> Macedonian - Maltese
+	Din l-informazzjoni tgħinek tilħaq l-għan tiegħek. Fittex għal Moriarty għal aktar informazzjoni u riżorsi għas-smigħ tal-mużika. "Se nkunu f'Bagdad.
+
+Step 201/284
+>> Maltese - Georgian
+	ეს ინფორმაცია დაგეხმარებათ მიაღწიოთ თქვენს მიზანს. მოძებნეთ Moriarty- ს მეტი ინფორმაცია და რესურსი მუსიკის მოსასმენად. ”ჩვენ ბაღდადში ვიქნებით.
+
+Step 202/284
+>> Georgian - Ukrainian
+	Ця інформація допоможе вам досягти своєї мети. Знайдіть Моріарті для отримання додаткової інформації та ресурсів для прослуховування музики. "Ми будемо в Багдаді.
+
+Step 203/284
+>> Ukrainian - Amharic
+	ይህ መረጃ ግብዎን ላይ ለመድረስ ይረዳዎታል ፡፡ ሙዚቃን ለማዳመጥ የበለጠ መረጃ እና ሀብቶችን ለማግኘት Moriarty ን ይፈልጉ። በባግዳድ ውስጥ እንሆናለን ፡፡
+
+Step 204/284
+>> Amharic - Catalan
+	Aquesta informació us ajudarà a assolir el vostre objectiu. Cerca a Moriarty per obtenir més informació i recursos per escoltar música. Estem a Bagdad.
+
+Step 205/284
+>> Catalan - Haitian Creole
+	Enfòmasyon sa a pral ede w reyalize objektif ou. Rechèch Moriarty pou plis enfòmasyon ak resous pou koute mizik. Nou nan Bagdad.
+
+Step 206/284
+>> Haitian Creole - Norwegian
+	Denne informasjonen vil hjelpe deg å nå dine mål. Søk i Moriarty for mer informasjon og ressurser for å lytte til musikk. Vi er i Bagdad.
+
+Step 207/284
+>> Norwegian - French
+	Ces informations vous aideront à atteindre vos objectifs. Recherchez Moriarty pour plus d'informations et de ressources pour écouter de la musique. Nous sommes à Bagdad.
+
+Step 208/284
+>> French - Sinhala
+	මෙම තොරතුරු ඔබේ ඉලක්ක කරා ළඟා වීමට උපකාරී වේ. සංගීතයට සවන් දීම සඳහා වැඩි විස්තර සහ සම්පත් සඳහා මොරියාර්ටි සොයන්න. අපි ඉන්නේ බැග්ඩෑඩයේ.
+
+Step 209/284
+>> Sinhala - Uzbek
+	Ushbu ma'lumotlar sizning maqsadlaringizga erishishga yordam beradi. Moriarty-dan musiqani tinglash bo'yicha qo'shimcha ma'lumot va manbalarni qidiring. Biz Bog'doddamiz.
+
+Step 210/284
+>> Uzbek - Spanish
+	Esta información lo ayudará a alcanzar sus objetivos. Busque más información y recursos para escuchar música de Moriarty. Estamos en Bagdad
+
+Step 211/284
+>> Spanish - Mongolian
+	Энэхүү мэдээлэл нь зорилгодоо хүрэхэд тань туслах болно. Moriarty хөгжмийг сонсох талаар илүү их мэдээлэл, эх үүсвэр олж аваарай. Бид Багдад байна
+
+Step 212/284
+>> Mongolian - Chinese (Simplified)
+	这些信息将帮助您实现目标。了解有关收听Moriarty音乐和资源的更多信息。我们在巴格达
+
+Step 213/284
+>> Chinese (Simplified) - Bosnian
+	Te će vam informacije pomoći da postignete svoje ciljeve. Saznajte više o slušanju muzike i resursa Moriartyja. Mi smo u Bagdadu
+
+Step 214/284
+>> Bosnian - Urdu
+	یہ معلومات آپ کو اپنے اہداف کے حصول میں معاون ثابت ہوگی۔ موریارٹی کی موسیقی اور وسائل سننے کے بارے میں مزید معلومات حاصل کریں۔ ہم بغداد میں ہیں
+
+Step 215/284
+>> Urdu - Portuguese
+	Esta informação o ajudará a atingir seus objetivos. Saiba mais sobre como ouvir a música e os recursos de Moriarty. Estamos em Bagdá
+
+Step 216/284
+>> Portuguese - Icelandic
+	Þessar upplýsingar hjálpa þér að ná markmiðum þínum. Lærðu meira um að hlusta á tónlist og úrræði Moriarty. Við erum í Bagdad
+
+Step 217/284
+>> Icelandic - Japanese
+	この情報は、目標の達成に役立ちます。 Moriartyによる音楽やリソースの聴取の詳細をご覧ください。私たちはバグダッドにいます
+
+Step 218/284
+>> Japanese - Thai
+	ข้อมูลนี้จะช่วยให้คุณบรรลุเป้าหมาย เรียนรู้เพิ่มเติมเกี่ยวกับการฟังเพลงและทรัพยากรจาก Moriarty เราอยู่ในแบกแดด
+
+Step 219/284
+>> Thai - Georgian
+	ეს ინფორმაცია დაგეხმარებათ თქვენი მიზნების მიღწევაში. შეიტყვეთ მეტი მუსიკის მოსმენის შესახებ მორიარტისგან. ჩვენ ბაღდადში ვართ.
+
+Step 220/284
+>> Georgian - Swedish
+	Denna information hjälper dig att nå dina mål. Läs mer om att lyssna på musik från Moriarty. Vi är i Bagdad.
+
+Step 221/284
+>> Swedish - Slovak
+	Tieto informácie vám pomôžu dosiahnuť vaše ciele. Prečítajte si viac o počúvaní hudby od spoločnosti Moriarty. Sme v Bagdade.
+
+Step 222/284
+>> Slovak - Kurdish
+	Ev agahdarî dê ji we re bibe alîkar ku hûn armanca xwe bigihîjin. Zêdetir li ser guhdariya muzîkê ji Moriarty fêr bibin. Em li Bexdayê ne.
+
+Step 223/284
+>> Kurdish - Amharic
+	ይህ መረጃ ግብዎን ላይ ለመድረስ ይረዳዎታል ፡፡ ከሞሪያል ሙዚቃ ስለማዳመጥ የበለጠ ለመረዳት። እኛ በባግዳድ ውስጥ ነን ፡፡
+
+Step 224/284
+>> Amharic - Mongolian
+	Энэхүү мэдээлэл нь зорилгодоо хүрэхэд тань туслах болно. Маврикийн хөгжим сонсох талаар илүү ихийг олж мэдэх. Бид Багдад байна.
+
+Step 225/284
+>> Mongolian - Malagasy
+	Ity fampahalalana ity dia hanampy anao hahatratra ny tanjonao. Mianara bebe kokoa amin'ny fihainoana ny mozika maorisiana. Ao Baghdad izahay.
+
+Step 226/284
+>> Malagasy - Nepali
+	यो जानकारीले तपाईंलाई तपाईंको लक्ष्यहरू प्राप्त गर्न मद्दत गर्दछ। मोरिसियन संगीत सुनेर थप जान्नुहोस्। हामी बगदादमा छौं।
+
+Step 227/284
+>> Nepali - Korean
+	이 정보는 목표 달성에 도움이됩니다. 모리셔스 음악을 들으면서 자세히 알아볼 수 있습니다. 우리는 바그다드에 있습니다.
+
+Step 228/284
+>> Korean - Hungarian
+	Ez az információ segít elérni céljait. Többet megtudhat a mauritiusi zene hallgatása közben. Bagdadban vagyunk.
+
+Step 229/284
+>> Hungarian - Russian
+	Эта информация поможет вам достичь ваших целей. Узнайте больше о прослушивании музыки на Маврикии. Мы в Багдаде.
+
+Step 230/284
+>> Russian - Luxembourgish
+	Dës Informatioun hëlleft Iech Är Ziler z'erreechen. Léiere méi iwwer d'Musek zu Mauritius ze lauschteren. Mir sinn zu Bagdad.
+
+Step 231/284
+>> Luxembourgish - Bengali
+	এই তথ্য আপনাকে আপনার লক্ষ্য অর্জনে সহায়তা করবে। মরিশাসে সংগীত শুনতে সম্পর্কে আরও জানুন। আমরা বাগদাদে আছি।
+
+Step 232/284
+>> Bengali - Albanian
+	Ky informacion do t'ju ndihmojë të arrini qëllimet tuaja. Mësoni më shumë rreth dëgjimit të muzikës në Mauritius. Jemi në Bagdad.
+
+Step 233/284
+>> Albanian - Maori
+	Ko enei korero ka awhina koe ki te whakatutuki i o whaainga. Kia kaha ake te whakarongo ki te whakarongo ki te puoro i te motu Maunguru. Kei roto matou i Baghdad.
+
+Step 234/284
+>> Maori - Bulgarian
+	Тази информация ще ви помогне да постигнете целите си. Не забравяйте да слушате музика на остров Мангуру. Намираме се в Багдад.
+
+Step 235/284
+>> Bulgarian - Shona
+	Ruzivo urwu ruchakubatsira iwe kuzadzisa zvinangwa zvako. Ive nechokwadi chekuteerera mimhanzi iri paManguru Island. Isu tiri muBaghdad.
+
+Step 236/284
+>> Shona - Swahili
+	Habari hii itakusaidia kufikia malengo yako. Hakikisha kusikiliza muziki kwenye Kisiwa cha Manguru. Tuko Baghdad.
+
+Step 237/284
+>> Swahili - Italian
+	Queste informazioni ti aiuteranno a raggiungere i tuoi obiettivi. Assicurati di ascoltare la musica sull'isola di Manguru. Siamo a Baghdad.
+
+Step 238/284
+>> Italian - Croatian
+	Te će vam informacije pomoći da postignete svoje ciljeve. Obavezno slušajte glazbu na otoku Manguru. Nalazimo se u Bagdadu.
+
+Step 239/284
+>> Croatian - Persian
+	این اطلاعات به شما در دستیابی به اهداف خود کمک می کند. حتما موسیقی را در جزیره منور گوش دهید. ما در بغداد واقع شده ایم.
+
+Step 240/284
+>> Persian - Burmese
+	ဤအချက်အလက်သည်သင်၏ပန်းတိုင်များကိုအောင်မြင်ရန်ကူညီလိမ့်မည်။ Menorah ကျွန်းရှိဂီတကိုသေချာစွာနားထောင်ပါ။ ငါတို့က Bagddad မှာရှိတယ်။
+
+Step 241/284
+>> Burmese - Turkish
+	Bu bilgiler hedeflerinize ulaşmanıza yardımcı olacaktır. Menorah Island'daki müziği dikkatle dinleyin. Bağdat'tayız.
+
+Step 242/284
+>> Turkish - Lithuanian
+	Ši informacija padės pasiekti užsibrėžtus tikslus. Atidžiai klausykitės muzikos Menora saloje. Mes Bagdade.
+
+Step 243/284
+>> Lithuanian - Estonian
+	See teave aitab teil eesmärke saavutada. Kuulake hoolikalt Menorahi saarel olevat muusikat. Oleme Bagdadis.
+
+Step 244/284
+>> Estonian - Macedonian
+	Оваа информација ќе ви помогне да ги постигнете своите цели. Слушајте ја внимателно музиката на островот Менора. Ние сме во Багдад.
+
+Step 245/284
+>> Macedonian - Maltese
+	Din l-informazzjoni tgħinek tikseb l-għanijiet tiegħek. Isma 'l-mużika fil-gżira ta' Menora bir-reqqa. Aħna f'Bagdad.
+
+Step 246/284
+>> Maltese - Pashto
+	دا معلومات به تاسو سره ستاسو اهدافو په ترلاسه کولو کې مرسته وکړي. د مینورا ټاپو کې میوزیک په ډیر غور سره واورئ. موږ په بغداد کې یو.
+
+Step 247/284
+>> Pashto - German
+	Diese Informationen helfen Ihnen, Ihre Ziele zu erreichen. Hören Sie sich die Musik auf Manora Island genau an. Wir sind in Bagdad.
+
+Step 248/284
+>> German - Samoan
+	O lenei faʻamatalaga o le a fesoasoani ia te oe e ausia au sini. Faʻalogo lelei i musika i Manora Island. Ua matou i Baghdad.
+
+Step 249/284
+>> Samoan - Armenian
+	Այս տեղեկատվությունը կօգնի ձեզ հասնել ձեր նպատակներին: Լսեք երաժշտությունը Manora Island- ում: Մենք Բաղդադում ենք:
+
+Step 250/284
+>> Armenian - Czech
+	Tyto informace vám pomohou dosáhnout vašich cílů. Poslouchejte hudbu na ostrově Manora. Jsme v Bagdádu.
+
+Step 251/284
+>> Czech - Chichewa
+	Izi zikuthandizani kukwaniritsa zolinga zanu. Mverani nyimbo pachilumba cha Manora. Tili ku Baghdad.
+
+Step 252/284
+>> Chichewa - Spanish
+	Esto te ayudará a alcanzar tus objetivos. Escucha música en la isla de Manora. Estamos en Bagdad
+
+Step 253/284
+>> Spanish - Irish
+	Cabhróidh sé seo leat do spriocanna a bhaint amach. Éist le ceol ar oileán Manora. Tá muid i mBagdad
+
+Step 254/284
+>> Irish - Uzbek
+	Bu sizning maqsadlaringizga erishishingizga yordam beradi. Manora orolida musiqa tinglang. Biz Bog'doddamiz
+
+Step 255/284
+>> Uzbek - Dutch
+	Dit zal je helpen om je doelen te bereiken. Luister naar muziek op Manora Island. We zijn in Bagdad
+
+Step 256/284
+>> Dutch - Vietnamese
+	Điều này sẽ giúp bạn đạt được mục tiêu của mình. Nghe nhạc trên đảo Manora. Chúng tôi đang ở Baghdad
+
+Step 257/284
+>> Vietnamese - Haitian Creole
+	Sa ap ede ou reyalize objektif ou yo. Koute mizik sou zile Manora. Nou nan Bagdad
+
+Step 258/284
+>> Haitian Creole - Chinese (Simplified)
+	这将帮助您实现目标。在马诺拉岛上听音乐。我们在巴格达
+
+Step 259/284
+>> Chinese (Simplified) - Catalan
+	Això us ajudarà a assolir els vostres objectius. Escoltant música a l’illa de Manora. Estem a Bagdad
+
+Step 260/284
+>> Catalan - Kazakh
+	Бұл сіздің мақсатыңызға жетуге көмектеседі. Манора аралында музыка тыңдау. Біз Бағдадта тұрмыз
+
+Step 261/284
+>> Kazakh - Hausa
+	Wannan zai taimaka muku cimma burin ku. Saurari kiɗa a Tsibirin Manora. Muna zaune a Bagadaza
+
+Step 262/284
+>> Hausa - Romanian
+	Acest lucru vă va ajuta să vă atingeți obiectivele. Ascultă muzică pe insula Manora. Locuim în Bagdad
+
+Step 263/284
+>> Romanian - Arabic
+	هذا سيساعدك على الوصول إلى أهدافك. استمع إلى الموسيقى في جزيرة مانورا. نحن نعيش في بغداد
+
+Step 264/284
+>> Arabic - Slovenian
+	Tako boste dosegli svoje cilje. Poslušajte glasbo na otoku Manora. Živimo v Bagdadu
+
+Step 265/284
+>> Slovenian - Danish
+	Dette vil hjælpe dig med at nå dine mål. Lyt til musik på Manora Island. Vi bor i Bagdad
+
+Step 266/284
+>> Danish - Lao
+	ນີ້ຈະຊ່ວຍໃຫ້ທ່ານບັນລຸເປົ້າຫມາຍຂອງທ່ານ. ຟັງເພັງຢູ່ເກາະ Manora. ພວກເຮົາອາໄສຢູ່ໃນ Baghdad
+
+Step 267/284
+>> Lao - Hindi
+	इससे आपको अपने लक्ष्य हासिल करने में मदद मिलेगी। मनोरा द्वीप पर संगीत सुनें। हम बगदाद में रहते हैं
+
+Step 268/284
+>> Hindi - Finnish
+	Tämä auttaa sinua saavuttamaan tavoitteesi. Kuuntele musiikkia Manora Islandilla. Asumme Bagdadissa
+
+Step 269/284
+>> Finnish - Ukrainian
+	Це допоможе вам досягти поставлених цілей. Слухайте музику на острові Манора. Ми живемо в Багдаді
+
+Step 270/284
+>> Ukrainian - Malay
+	Ini akan membantu anda mencapai matlamat anda. Dengar muzik di Pulau Manor. Kami tinggal di Baghdad
+
+Step 271/284
+>> Malay - Zulu
+	Lokhu kuzokusiza ukufeza izinhloso zakho. Lalela umculo esiqhingini saseManor. Sihlala eBaghdad
+
+Step 272/284
+>> Zulu - French
+	Cela vous aidera à atteindre vos objectifs. Écoutez de la musique sur l'île de Manor. Nous vivons à Bagdad
+
+Step 273/284
+>> French - Norwegian
+	Dette vil hjelpe deg å nå dine mål. Lytt til musikk på Isle of Manor. Vi bor i Bagdad
+
+Step 274/284
+>> Norwegian - Hebrew
+	זה יעזור לך להגיע ליעדים שלך. האזן למוזיקה באי האחוזה. אנחנו גרים בבגדאד
+
+Step 275/284
+>> Hebrew - Indonesian
+	Ini akan membantu Anda mencapai tujuan Anda. Dengarkan musik di pulau estat. Kami tinggal di Baghdad
+
+Step 276/284
+>> Indonesian - Latvian
+	Tas palīdzēs sasniegt savus mērķus. Klausieties mūziku muižas salā. Mēs dzīvojam Bagdādē
+
+Step 277/284
+>> Latvian - Sinhala
+	මෙය ඔබේ අරමුණු සාක්ෂාත් කර ගැනීමට උපකාරී වේ. මනෝර් දූපතේ සංගීතයට සවන් දෙන්න. අපි ජීවත් වෙන්නේ බැග්ඩෑඩ් වල
+
+Step 278/284
+>> Sinhala - Polish
+	Pomoże Ci to osiągnąć swoje cele. Słuchaj muzyki Manor Island. Mieszkamy w Bagdadzie
+
+Step 279/284
+>> Polish - Serbian
+	То ће вам помоћи да постигнете своје циљеве. Слушајте музику са Манор Исланда. Живимо у Багдаду
+
+Step 280/284
+>> Serbian - English
+	This will help you reach your goals. Listen to music from Manor Island. We live in Baghdad
+
+Step 281/284
+>> English - Greek
+	Αυτό θα σας βοηθήσει να επιτύχετε τους στόχους σας. Ακούστε μουσική από το Manor Island. Ζούμε στη Βαγδάτη
+
+Step 282/284
+>> Greek - Filipino
+	Makakatulong ito sa iyo na makamit ang iyong mga layunin. Makinig sa musika mula sa Manor Island. Nakatira kami sa Baghdad
+
+Step 283/284
+>> Filipino - Chinese (Traditional)
+	這將幫助您實現目標。聆聽莊園島的音樂。我們住在巴格達
+
+Step 284/284
+>> Chinese (Traditional) - English
+	This will help you achieve your goals. Listen to the music on Manor Island. We live in baghdad
+
+
+##### RESULTS ######
+
+The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+This will help you achieve your goals. Listen to the music on Manor Island. We live in baghdad

@@ -1,0 +1,1147 @@
+Translation chain: ps - fi - no - sr - ja - et - ga - de - sk - ny - ne - zu - th - hy - sv - mn - lv - am - tl - uk - mt - en - fr - ms - fa - vi - mg - ca - he - ht - is - sq - el - ka - bg - hr - cs - my - hi - zh - hu - ha - lb - lt - es - kk - tr - ar - ur - si - bs - ru - pt - sm - bn - it - mi - id - ku - mk - nl - sw - uz - lo - sl - zh-TW - ro - da - sn - ko - pl - lt - es - lo - bn - ja - bs - en - cs - he - sm - ms - uz - ha - zh - tr - my - ny - zh-TW - ne - sv - ku - ht - th - de - uk - is - ka - it - pt - kk - ar - fr - fa - el - vi - zu - hu - sq - bg - sr - hi - da - am - sn - pl - sk - ga - sl - ru - hy - fi - si - ro - mg - lb - nl - mi - mn - ur - lv - mt - ko - mk - id - et - tl - ps - ca - sw - hr - no.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Pashto
+	د هغه لپاره ، د هر متن لوستل به تل د نوي متن له اندازې او پوهاوي چمتو کړي. په استعاري ډول ، هغه د متنونو په وړاندې ځان د هیروکلیتو د سیند بیدري په توګه ځای په ځای کوي ، په کوم کې چې دوه ځله ننوتل ناممکن دي ځکه چې د هغه لاره په دوامداره توګه بدلیږي.
+
+Step 2/284
+>> Pashto - Finnish
+	Hänelle jokaisen tekstin lukeminen tarjoaa aina uuden tekstin koon ja tietoisuuden. Metaforisesti hän asettaa itsensä tekstejä vastaan Herculetto-joen kallioperäksi, johon on mahdotonta päästä kaksinkertaiseksi, koska hänen polunsa muuttuu jatkuvasti.
+
+Step 3/284
+>> Finnish - Norwegian
+	For ham gir alltid lesing av hver tekst størrelse og bevissthet om den nye teksten. Metaforisk plasserer han seg mot tekstene som berggrunnen til Herculetto-elven, som det er umulig å doble fordi banen hans stadig endres.
+
+Step 4/284
+>> Norwegian - Serbian
+	За њега увек читање сваког текста даје величину и свест о новом тексту. Метафорички, он се против стихова поставља као подлога реке Херкулетто, што је немогуће удвостручити јер се његов пут стално мења.
+
+Step 5/284
+>> Serbian - Japanese
+	彼にとって、常に各テキストを読むことは、新しいテキストのサイズと認識を与えます。比喩的に、彼は聖句に逆らって自分の道を絶えず変えているので、ハーキュレット川の岩盤として設定しました。
+
+Step 6/284
+>> Japanese - Estonian
+	Tema jaoks annab iga teksti pidev lugemine uue teksti suuruse ja äratundmise. Piltlikult öeldes muutis ta pidevalt oma viise pühakirjade vastu, nii et ta seadis selle Herculet 'jõe aluskiviks.
+
+Step 7/284
+>> Estonian - Irish
+	Dó, tugann léamh leanúnach gach téacs méid agus aitheantas nua don téacs. Ag labhairt go figiúrtha, d’athraigh sé a bhealaí i gcónaí i gcoinne na scrioptúir ionas gur leag sé é mar bhunchloch Abhainn Herculet.
+
+Step 8/284
+>> Irish - German
+	Für ihn verleiht das kontinuierliche Lesen jedes Textes dem Text eine neue Dimension und Identität. Im übertragenen Sinne änderte er ständig seine Wege gegen die Schrift, so dass er sie als Grundstein für den Herculet-Fluss legte.
+
+Step 9/284
+>> German - Slovak
+	Neustále čítanie každého textu mu dáva nový rozmer a identitu. V obrazovom zmysle neustále menil svoje cesty proti Písmu, aby ho položil ako základný kameň rieky Herculet.
+
+Step 10/284
+>> Slovak - Chichewa
+	Kuwerenga pafupipafupi kwa lemba lililonse kumapangitsa kuti adziwe tanthauzo komanso chizindikiritso chake. M'mawonekedwe, amasintha njira zake motsutsana ndi Malembo kuti aziike ngati mwala wapakona wa Mtsinje wa Herculet.
+
+Step 11/284
+>> Chichewa - Nepali
+	प्रत्येक पाठको नियमित पढनाले यसको अर्थ र यसको अर्थ स्पष्ट पार्छ। दृश्यहरूमा उनले धर्मशास्त्रको बिरूद्ध आफ्नो कार्यनीति बदल्छ र यसलाई हरक्युलेट नदीको कुनाको ढु as्गामा राख्छ।
+
+Step 12/284
+>> Nepali - Zulu
+	Ukusifunda njalo isifundo ngasinye kuyachaza ukuthi kuchazwa ukuthini nokuthi kusho ukuthini. Ezibukweni ushintsha isu lakhe ngokumelene neMibhalo futhi alibeka etsheni elikhoneni loMfula iHerculet.
+
+Step 13/284
+>> Zulu - Thai
+	การอ่านแต่ละบทเรียนเป็นประจำจะอธิบายความหมายและความหมายของมัน ในฉากที่เขาเปลี่ยนกลยุทธ์ของเขากับพระคัมภีร์และวางไว้บนหินที่มุมของแม่น้ำเฮอร์คิวเลต
+
+Step 14/284
+>> Thai - Armenian
+	Յուրաքանչյուր դասի կանոնավոր ընթերցմամբ բացատրվում է դրա իմաստը և իմաստը: Դեպքի վայրում նա փոխեց իր ռազմավարությունը Աստվածաշնչի հետ և այն տեղադրեց Հերակլեսի անկյունում գտնվող ժայռի վրա:
+
+Step 15/284
+>> Armenian - Swedish
+	Regelbunden läsning av varje lektion förklarar dess betydelse och betydelse. På scenen ändrade han sin strategi med Bibeln och placerade den på en klippa i Herakles hörn.
+
+Step 16/284
+>> Swedish - Mongolian
+	Хичээл тус бүрийг тогтмол унших нь түүний утга, ач холбогдлыг тайлбарладаг. Тайзан дээр тэрээр Библитэй хийх стратегиа өөрчилж, Гераклусын буланд байрлах хадан дээр байрлуулав.
+
+Step 17/284
+>> Mongolian - Latvian
+	Regulāra katras stundas lasīšana izskaidro tās nozīmi un nozīmi. Uz skatuves viņš mainīja savu stratēģiju ar Bībeli un novietoja to uz klints Heraklija stūrī.
+
+Step 18/284
+>> Latvian - Amharic
+	የእያንዲንደ ሰዓት አዘውትሮ ንባብ ትርጉሙን እና ትርጉሙን ያብራራሌ። በመድረክ ላይ እስትራቴጂውን ከመጽሐፍ ቅዱስ ጋር ቀይረው በሄራሊየስ ጥግ ላይ ዓለት ላይ አኖረው ፡፡
+
+Step 19/284
+>> Amharic - Filipino
+	Ang regular na pagbabasa ng bawat oras ay nagpapaliwanag ng kahulugan at kahulugan nito. Sa entablado, binago niya ang kanyang diskarte sa Bibliya at inilagay ito sa isang bato sa sulok ng Heraelius.
+
+Step 20/284
+>> Filipino - Ukrainian
+	Регулярне читання кожного разу пояснює його зміст і значення. На сцені він змінив свій підхід до Біблії і розмістив її на скелі в кутку Гераелія.
+
+Step 21/284
+>> Ukrainian - Maltese
+	Qari regolari kull darba jispjega l-kontenut u t-tifsira tiegħu. Fuq il-palk, huwa biddel l-approċċ tiegħu lejn il-Bibbja u poġġieha fuq blat fil-kantuniera ta 'Geraeli.
+
+Step 22/284
+>> Maltese - English
+	Regular reading each time explaining the contents and its meaning. On stage, he changed his approach to the Bible and putting in a rock on the corner of Geraeli.
+
+Step 23/284
+>> English - French
+	Lecture régulière expliquant à chaque fois le contenu et sa signification. Sur scène, il a changé son approche de la Bible et a mis un rocher au coin de Geraeli.
+
+Step 24/284
+>> French - Malay
+	Bacaan teratur menerangkan setiap kandungan dan maknanya. Di atas panggung, dia mengubah pendekatannya ke Alkitab dan meletakkan batu di sudut Geraeli.
+
+Step 25/284
+>> Malay - Persian
+	خواندن منظم هر محتوا و معنی آن را توصیف می کند. او روی صحنه ، رویکرد خود را به کتاب مقدس تغییر داد و سنگی را در گوشه گرایلی گذاشت.
+
+Step 26/284
+>> Persian - Vietnamese
+	Đọc thường xuyên mô tả từng nội dung và ý nghĩa của nó. Trên sân khấu, anh thay đổi cách tiếp cận với Kinh thánh và đặt một hòn đá ở góc của Grieley.
+
+Step 27/284
+>> Vietnamese - Malagasy
+	Vakio mamaky tsy tapaka ireo votoaty tsirairay sy ny dikany. Teo an-tampony, dia nanova ny fomba fanao tamin'ny Baiboly izy ary nametraka vato teo amin'ny zoro Grieley.
+
+Step 28/284
+>> Malagasy - Catalan
+	Llegeix regularment cada contingut i el seu significat. A la part superior, va canviar l'estil bíblic i va col·locar una pedra a la cantonada de Grieley.
+
+Step 29/284
+>> Catalan - Hebrew
+	קרא כל תוכן באופן קבוע ומשמעותו. בחלקו העליון שינה את הסגנון המקראי והניח אבן בפינה של גריאלי.
+
+Step 30/284
+>> Hebrew - Haitian Creole
+	Li chak kontni regilyèman ak siyifikasyon li yo. Nan pati a anwo li chanje style la biblik epi li mete yon wòch nan kwen Greali a.
+
+Step 31/284
+>> Haitian Creole - Icelandic
+	Lestu hvert innihald reglulega og merkingu þess. Í efri hlutanum breytti hann biblíulegum stíl og lagði stein við horn Greali.
+
+Step 32/284
+>> Icelandic - Albanian
+	Lexoni rregullisht çdo përmbajtje dhe kuptimin e saj. Në pjesën e sipërme, ai ndryshoi stilin biblik dhe vuri një gur në cep të Greali.
+
+Step 33/284
+>> Albanian - Greek
+	Να διαβάζετε τακτικά κάθε περιεχόμενο και το νόημά του. Στην κορυφή, άλλαξε το βιβλικό στυλ και έβαλε μια πέτρα στη γωνία του Γρησίλη.
+
+Step 34/284
+>> Greek - Georgian
+	წაიკითხეთ ყველა შინაარსი და მისი მნიშვნელობა რეგულარულად. თავზე მან შეცვალა ბიბლიური სტილი და გრიზილის კუთხეში ქვა დაადო.
+
+Step 35/284
+>> Georgian - Bulgarian
+	Прочетете редовно цялото съдържание и неговото значение. На всичкото отгоре той промени библейския си стил и постави камък в ъгъла на Гризли.
+
+Step 36/284
+>> Bulgarian - Croatian
+	Redovito čitajte sav sadržaj i njegovo značenje. Povrh toga, promijenio je svoj biblijski stil i stavio kamen u kut Grizzlyja.
+
+Step 37/284
+>> Croatian - Czech
+	Přečtěte si veškerý obsah a jeho význam pravidelně. Navíc změnil svůj biblický styl a do rohu Grizzly dal kámen.
+
+Step 38/284
+>> Czech - Burmese
+	အကြောင်းအရာအားလုံးကိုနှင့်၎င်း၏အဓိပ္ပာယ်ကိုမှန်မှန်ဖတ်ပါ။ ထို့အပြင်သူသည်သူ၏သမ္မာကျမ်းစာစတိုင်ကိုပြောင်းလဲပြီး Grizzly ၏ထောင့်တွင်ကျောက်တုံးတစ်ခုထည့်ခဲ့သည်။
+
+Step 39/284
+>> Burmese - Hindi
+	सभी सामग्री और उसके अर्थ को नियमित रूप से पढ़ें। उसने अपनी बाइबल शैली भी बदली और ग्रिजली के कोने पर एक पत्थर रख दिया।
+
+Step 40/284
+>> Hindi - Chinese (Simplified)
+	定期阅读所有内容及其含义。他还改变了圣经的风格，并在灰熊的角上放了一块石头。
+
+Step 41/284
+>> Chinese (Simplified) - Hungarian
+	Rendszeresen olvassa el mindent és annak jelentését. Megváltoztatta a Biblia stílusát is, és egy követ tett a grizzly kürtre.
+
+Step 42/284
+>> Hungarian - Hausa
+	Karanta komai da ma'anarsa a kai a kai. Ya kuma canza salon Littafi Mai-Tsarki ya sa wani dutse a ƙaho mai ƙaho.
+
+Step 43/284
+>> Hausa - Luxembourgish
+	Liest et regelméisseg a seng Bedeitung. Hien huet och de Stil vun der Bibel geännert an e Steen an d'Horn geluecht.
+
+Step 44/284
+>> Luxembourgish - Lithuanian
+	Reguliariai skaitykite ir jo prasmę. Jis taip pat pakeitė Biblijos stilių ir įdėjo akmenį į ragą.
+
+Step 45/284
+>> Lithuanian - Spanish
+	También lea su significado regularmente. También cambió el estilo de la Biblia y puso la piedra en el cuerno.
+
+Step 46/284
+>> Spanish - Kazakh
+	Оның мағынасын үнемі оқып отырыңыз. Сонымен қатар ол Киелі кітаптың стилін өзгертіп, тасты мүйізге қойды.
+
+Step 47/284
+>> Kazakh - Turkish
+	Anlamını düzenli olarak okuyun. Ayrıca Mukaddes Kitabın stilini değiştirdi ve onu taş kornanın üzerine koydu.
+
+Step 48/284
+>> Turkish - Arabic
+	اقرأ المعنى بانتظام. كما قام بتغيير نمط الكتاب المقدس ووضعه على القرن الحجري.
+
+Step 49/284
+>> Arabic - Urdu
+	معنی باقاعدگی سے پڑھیں۔ اس نے بائبل کا انداز بھی تبدیل کیا اور اسے پتھر کے سینگ پر رکھ دیا۔
+
+Step 50/284
+>> Urdu - Sinhala
+	අර්ථය නිතිපතා කියවන්න. ඔහු බයිබලයේ ශෛලිය වෙනස් කර ගල් අඟක් මත තැබුවේය.
+
+Step 51/284
+>> Sinhala - Bosnian
+	Redovno čitajte značenje. Promijenio je stil Biblije i stavio je na kamen.
+
+Step 52/284
+>> Bosnian - Russian
+	Читайте значение регулярно. Он изменил стиль Библии и положил его на камень.
+
+Step 53/284
+>> Russian - Portuguese
+	Leia o significado regularmente. Ele mudou o estilo da Bíblia e a colocou em uma pedra.
+
+Step 54/284
+>> Portuguese - Samoan
+	Faitau le uiga masani. Na ia suia le ituaiga o le Tusi Paia ma tuu i luga o se papa.
+
+Step 55/284
+>> Samoan - Bengali
+	প্রাথমিক সংজ্ঞাটি পড়ুন। তিনি বাইবেলের স্টাইল পরিবর্তন করেছিলেন এবং এটিকে একটি শিলাতে রেখেছিলেন।
+
+Step 56/284
+>> Bengali - Italian
+	Leggi la definizione principale. Ha cambiato lo stile della Bibbia e lo ha messo su una roccia.
+
+Step 57/284
+>> Italian - Maori
+	Panuihia nga whakamaarama matua. Kua hurihia e ia nga momo paerewa o te Paipera kua maka ki runga i te toka.
+
+Step 58/284
+>> Maori - Indonesian
+	Baca penjelasan utama. Dia telah mengubah standar Alkitab dan meletakkannya di atas batu.
+
+Step 59/284
+>> Indonesian - Kurdish
+	Explanationiroveya bingehîn bixwînin. Wî standardên Mizgîniyê guhezand û ew li kevirekî danîn.
+
+Step 60/284
+>> Kurdish - Macedonian
+	Прочитајте го основното објаснување. Тој ги постави библиските мерила и ги постави на камен.
+
+Step 61/284
+>> Macedonian - Dutch
+	Lees de basisuitleg. Hij stelde bijbelse maatstaven en zette ze op steen.
+
+Step 62/284
+>> Dutch - Swahili
+	Soma maelezo ya msingi. Aliweka viwango vya Bibilia na kuiweka kwenye jiwe.
+
+Step 63/284
+>> Swahili - Uzbek
+	Asosiy ma'lumotlarni o'qing. U Muqaddas Kitob me'yorlarini o'rnatib, tosh ustiga qo'ydi.
+
+Step 64/284
+>> Uzbek - Lao
+	ອ່ານພື້ນຖານ. ພຣະອົງໄດ້ວາງມາດຕະຖານໃນພຣະ ຄຳ ພີແລະວາງໄວ້ເທິງຫີນ.
+
+Step 65/284
+>> Lao - Slovenian
+	Preberite osnove. Postavil je standarde v svetih spisih in jih postavil na skalo.
+
+Step 66/284
+>> Slovenian - Chinese (Traditional)
+	閱讀基礎知識。他在聖經中設定了標準，並把它們固定在一塊石頭上。
+
+Step 67/284
+>> Chinese (Traditional) - Romanian
+	Citiți elementele de bază. El a stabilit standarde în Biblie și le-a fixat pe o piatră.
+
+Step 68/284
+>> Romanian - Danish
+	Læs det grundlæggende. Han satte standarder i Bibelen og satte dem på en sten.
+
+Step 69/284
+>> Danish - Shona
+	Verenga izvo zvekutanga. Akaisa zvimiro muBhaibheri uye akazvimisa padombo.
+
+Step 70/284
+>> Shona - Korean
+	먼저 읽어보세요. 그는 조각상을 성서에 넣고 바위에 걸었습니다.
+
+Step 71/284
+>> Korean - Polish
+	Przeczytaj to najpierw. Włożył posąg do Biblii i zawiesił na skale.
+
+Step 72/284
+>> Polish - Lithuanian
+	Pirmiausia perskaitykite tai. Jis įdėjo statulą į Bibliją ir pakabino ant uolos.
+
+Step 73/284
+>> Lithuanian - Spanish
+	Por favor lea esto primero. Puso la estatua en la Biblia y la colgó en la roca.
+
+Step 74/284
+>> Spanish - Lao
+	ກະລຸນາອ່ານຂໍ້ນີ້ກ່ອນ. ລາວເອົາຮູບປັ້ນພະ ຄຳ ພີໄວ້ໃນພະ ຄຳ ພີແລະວາງສາຍເທິງຫີນ.
+
+Step 75/284
+>> Lao - Bengali
+	প্রথমে এটি পড়ুন। তিনি বাইবেলকে একটি স্ক্রল রেখে একটি পাথরে রেখেছিলেন।
+
+Step 76/284
+>> Bengali - Japanese
+	最初にお読みください。彼は巻物を持って石の上に聖書を置きました。
+
+Step 77/284
+>> Japanese - Bosnian
+	Molimo pročitajte prvo. Stavio je Bibliju na kamen sa svitkom.
+
+Step 78/284
+>> Bosnian - English
+	Please read first. He put the Bible on a stone with a scroll.
+
+Step 79/284
+>> English - Czech
+	Přečtěte si prosím nejprve. Položil Bibli na kámen se svitkem.
+
+Step 80/284
+>> Czech - Hebrew
+	אנא קרא תחילה. הוא הניח את התנ"ך על אבן עם מגילה.
+
+Step 81/284
+>> Hebrew - Samoan
+	Faamolemole faitau muamua. Sa ia tuuina le Tusi Paia i luga o se maa ma se tusi taai.
+
+Step 82/284
+>> Samoan - Malay
+	Sila baca lebih awal. Dia meletakkan Alkitab di atas batu dengan skrol.
+
+Step 83/284
+>> Malay - Uzbek
+	Iltimos, oldindan o'qing. U Muqaddas Kitobni o'ram bilan tosh ustiga qo'ydi.
+
+Step 84/284
+>> Uzbek - Hausa
+	Da fatan za a karanta a gaba. Ya sanya Littafi Mai-Tsarki akan dutsen tare da mayafin murfi.
+
+Step 85/284
+>> Hausa - Chinese (Simplified)
+	请进一步阅读。他带盖将圣经放在山上。
+
+Step 86/284
+>> Chinese (Simplified) - Turkish
+	Lütfen daha fazla okuyun. İncil'i bir örtü ile dağa koydu.
+
+Step 87/284
+>> Turkish - Burmese
+	ဆက်ဖတ်ရန်။ သူသည်ကျမ်းစာကိုဖုံးအုပ်။ တောင်ပေါ်တွင်တင်ထား၏။
+
+Step 88/284
+>> Burmese - Chichewa
+	Werengani Zambiri Amabisa Bayibulo. Ndi kukhazikitsa paphiri.
+
+Step 89/284
+>> Chichewa - Chinese (Traditional)
+	閱讀更多隱藏聖經。並設置在山上。
+
+Step 90/284
+>> Chinese (Traditional) - Nepali
+	लुकेका बाइबलमा थप पढ्नुहोस्। र पहाड मा सेट।
+
+Step 91/284
+>> Nepali - Swedish
+	Läs mer om den dolda Bibeln. Och ligger i bergen.
+
+Step 92/284
+>> Swedish - Kurdish
+	Zêdetir li ser Mizgîniya veşartî bixwînin. Lies dikeve nav çîyan.
+
+Step 93/284
+>> Kurdish - Haitian Creole
+	Li plis sou Bib la sekrè. Manti nan mòn yo.
+
+Step 94/284
+>> Haitian Creole - Thai
+	อ่านเพิ่มเติมเกี่ยวกับ Secret Bible ตั้งอยู่บนภูเขา.
+
+Step 95/284
+>> Thai - German
+	Lesen Sie mehr über die geheime Bibel in den Bergen.
+
+Step 96/284
+>> German - Ukrainian
+	Детальніше про таємну Біблію в горах.
+
+Step 97/284
+>> Ukrainian - Icelandic
+	Meira um dularfulla biblíu á fjöllum.
+
+Step 98/284
+>> Icelandic - Georgian
+	დაწვრილებით მთებში საიდუმლოებით მოცული ბიბლია.
+
+Step 99/284
+>> Georgian - Italian
+	Leggi la Bibbia tra le misteriose colline.
+
+Step 100/284
+>> Italian - Portuguese
+	Leia a Bíblia entre as colinas misteriosas.
+
+Step 101/284
+>> Portuguese - Kazakh
+	Жұмбақ төбелер арасында Киелі кітапты оқып шығыңыз.
+
+Step 102/284
+>> Kazakh - Arabic
+	اقرأ الكتاب المقدس بين التلال الغامضة.
+
+Step 103/284
+>> Arabic - French
+	Lisez la Bible entre les collines mystérieuses.
+
+Step 104/284
+>> French - Persian
+	کتاب مقدس را بین تپه های اسرارآمیز بخوانید.
+
+Step 105/284
+>> Persian - Greek
+	Διαβάστε τη Γραφή ανάμεσα στους μυστηριώδεις λόφους.
+
+Step 106/284
+>> Greek - Vietnamese
+	Đọc Kinh Thánh giữa những ngọn đồi bí ẩn.
+
+Step 107/284
+>> Vietnamese - Zulu
+	Funda iBhayibheli phakathi kwamagquma angaqondakali.
+
+Step 108/284
+>> Zulu - Hungarian
+	Olvassa el a Bibliát a titokzatos hegyek között.
+
+Step 109/284
+>> Hungarian - Albanian
+	Lexoni Biblën në Malet Misterioze.
+
+Step 110/284
+>> Albanian - Bulgarian
+	Прочетете Библията в Тайнствените планини.
+
+Step 111/284
+>> Bulgarian - Serbian
+	Читајте Библију у Тајанственим планинама.
+
+Step 112/284
+>> Serbian - Hindi
+	रहस्यमय पहाड़ों में बाइबिल पढ़ें।
+
+Step 113/284
+>> Hindi - Danish
+	Læs Bibelen i de mystiske bjerge.
+
+Step 114/284
+>> Danish - Amharic
+	ምስጢራዊ ተራሮች ውስጥ መጽሐፍ ቅዱስን ያንብቡ ፡፡
+
+Step 115/284
+>> Amharic - Shona
+	Verenga Bhaibheri mumakomo asinganzwisisike.
+
+Step 116/284
+>> Shona - Polish
+	Czytaj Biblię w tajemniczych górach.
+
+Step 117/284
+>> Polish - Slovak
+	Prečítajte si Bibliu v tajomných horách.
+
+Step 118/284
+>> Slovak - Irish
+	Léigh an Bíobla sna sléibhte mistéireach.
+
+Step 119/284
+>> Irish - Slovenian
+	Preberite Sveto pismo v skrivnostnih gorah.
+
+Step 120/284
+>> Slovenian - Russian
+	Читайте Библию в таинственных горах.
+
+Step 121/284
+>> Russian - Armenian
+	Կարդացեք Աստվածաշունչը խորհրդավոր լեռներում:
+
+Step 122/284
+>> Armenian - Finnish
+	Lue Raamattu salaperäisillä vuorilla.
+
+Step 123/284
+>> Finnish - Sinhala
+	අද්භූත කඳුකරයේ බයිබලය කියවන්න.
+
+Step 124/284
+>> Sinhala - Romanian
+	Citiți Biblia în munții misterioși.
+
+Step 125/284
+>> Romanian - Malagasy
+	Vakio ny Baiboly any an-tendrombohitra mistery.
+
+Step 126/284
+>> Malagasy - Luxembourgish
+	Liest d'Bibel an de mysteriéesche Bierger.
+
+Step 127/284
+>> Luxembourgish - Dutch
+	Lees de Bijbel en de mysterieuze burgers.
+
+Step 128/284
+>> Dutch - Maori
+	Panuihia te Paipera me nga tangata ngaro.
+
+Step 129/284
+>> Maori - Mongolian
+	Библи болон төөрөлдсөн хүмүүсийг унш.
+
+Step 130/284
+>> Mongolian - Urdu
+	بائبل اور گمشدہ لوگوں کو پڑھیں۔
+
+Step 131/284
+>> Urdu - Latvian
+	Lasiet Bībeli un pazudušos cilvēkus.
+
+Step 132/284
+>> Latvian - Maltese
+	Aqra l-Bibbja u l-Poplu Mitluf.
+
+Step 133/284
+>> Maltese - Korean
+	성경과 잃어버린 사람들을 읽어보십시오.
+
+Step 134/284
+>> Korean - Macedonian
+	Прочитајте ја Библијата и изгубениот народ.
+
+Step 135/284
+>> Macedonian - Indonesian
+	Baca Alkitab dan orang-orang terhilang.
+
+Step 136/284
+>> Indonesian - Estonian
+	Loe Piiblit ja kadunud inimesi.
+
+Step 137/284
+>> Estonian - Filipino
+	Basahin ang Bibliya at nawala ang mga tao.
+
+Step 138/284
+>> Filipino - Pashto
+	انجیل ولولئ او خلک ورک شوي.
+
+Step 139/284
+>> Pashto - Catalan
+	Llegiu la Bíblia i la gent es perd.
+
+Step 140/284
+>> Catalan - Swahili
+	Soma bibilia na watu wamepotea.
+
+Step 141/284
+>> Swahili - Croatian
+	Čitajte Bibliju i ljudi se gube.
+
+Step 142/284
+>> Croatian - Norwegian
+	Les Bibelen og folk går seg vill.
+
+Step 143/284
+>> Norwegian - Croatian
+	Čitajte Bibliju i ljudi se izgube.
+
+Step 144/284
+>> Croatian - Swahili
+	Soma bibilia na watu wanapotea.
+
+Step 145/284
+>> Swahili - Catalan
+	Llegiu la Bíblia i la gent es perd.
+
+Step 146/284
+>> Catalan - Pashto
+	انجیل ولولئ او خلک ورک شوي.
+
+Step 147/284
+>> Pashto - Filipino
+	Basahin ang Bibliya at ang mga tao ay nawala.
+
+Step 148/284
+>> Filipino - Estonian
+	Loe Piiblit ja inimesed on kadunud.
+
+Step 149/284
+>> Estonian - Indonesian
+	Baca Alkitab dan orang-orang terhilang.
+
+Step 150/284
+>> Indonesian - Macedonian
+	Прочитајте ја Библијата и изгубените луѓе.
+
+Step 151/284
+>> Macedonian - Korean
+	성경과 잃어버린 사람들을 읽으십시오.
+
+Step 152/284
+>> Korean - Maltese
+	Aqra l-Bibbja u n-nies mitlufa.
+
+Step 153/284
+>> Maltese - Latvian
+	Lasīt Bībeli un zaudēto cilvēku.
+
+Step 154/284
+>> Latvian - Urdu
+	بائبل اور گمشدہ انسان پڑھیں۔
+
+Step 155/284
+>> Urdu - Mongolian
+	Библи болон төөрсөн хүнийг унш.
+
+Step 156/284
+>> Mongolian - Maori
+	Panuihia te Paipera me te ngaro.
+
+Step 157/284
+>> Maori - Dutch
+	Lees de Bijbel en mis het.
+
+Step 158/284
+>> Dutch - Luxembourgish
+	Liest d'Bibel a verpasst et.
+
+Step 159/284
+>> Luxembourgish - Malagasy
+	Vakio ny Baiboly dia adino izany.
+
+Step 160/284
+>> Malagasy - Romanian
+	Citește Biblia și uită-o.
+
+Step 161/284
+>> Romanian - Sinhala
+	බයිබලය කියවා එය අමතක කරන්න.
+
+Step 162/284
+>> Sinhala - Finnish
+	Lue Raamattu ja unohda se.
+
+Step 163/284
+>> Finnish - Armenian
+	Կարդացեք Աստվածաշունչը և մոռացեք այն:
+
+Step 164/284
+>> Armenian - Russian
+	Прочитайте Библию и забудьте об этом.
+
+Step 165/284
+>> Russian - Slovenian
+	Preberite Sveto pismo in pozabite nanjo.
+
+Step 166/284
+>> Slovenian - Irish
+	Léigh an Bíobla agus déan dearmad air.
+
+Step 167/284
+>> Irish - Slovak
+	Prečítajte si Bibliu a zabudnite na ňu.
+
+Step 168/284
+>> Slovak - Polish
+	Czytaj i zapominaj Biblię.
+
+Step 169/284
+>> Polish - Shona
+	Verenga uye kanganwa Bhaibheri.
+
+Step 170/284
+>> Shona - Amharic
+	መጽሐፍ ቅዱስን ያንብቡ እና ይርሱ ፡፡
+
+Step 171/284
+>> Amharic - Danish
+	Læs og glem Bibelen.
+
+Step 172/284
+>> Danish - Hindi
+	बाइबिल पढ़ें और भूल जाएं।
+
+Step 173/284
+>> Hindi - Serbian
+	Прочитајте Библију и заборавите је.
+
+Step 174/284
+>> Serbian - Bulgarian
+	Прочетете Библията и я забравете.
+
+Step 175/284
+>> Bulgarian - Albanian
+	Lexoni Biblën dhe harroni atë.
+
+Step 176/284
+>> Albanian - Hungarian
+	Olvassa el a Bibliát és felejtse el.
+
+Step 177/284
+>> Hungarian - Zulu
+	Funda ibhayibheli ukhohlwe.
+
+Step 178/284
+>> Zulu - Vietnamese
+	Đọc Kinh thánh và quên đi.
+
+Step 179/284
+>> Vietnamese - Greek
+	Διαβάστε τη Βίβλο και ξεχάστε την.
+
+Step 180/284
+>> Greek - Persian
+	کتاب مقدس را بخوانید و فراموش کنید.
+
+Step 181/284
+>> Persian - French
+	Lisez et oubliez la Bible.
+
+Step 182/284
+>> French - Arabic
+	اقرأ ونسي الكتاب المقدس.
+
+Step 183/284
+>> Arabic - Kazakh
+	Киелі кітапты оқып, ұмытыңыз.
+
+Step 184/284
+>> Kazakh - Portuguese
+	Leia e esqueça a Bíblia.
+
+Step 185/284
+>> Portuguese - Italian
+	Leggi e dimentica la Bibbia.
+
+Step 186/284
+>> Italian - Georgian
+	წაიკითხეთ და დაივიწყეთ ბიბლია.
+
+Step 187/284
+>> Georgian - Icelandic
+	Lestu og gleymdu Biblíunni.
+
+Step 188/284
+>> Icelandic - Ukrainian
+	Прочитайте та забудьте Біблію.
+
+Step 189/284
+>> Ukrainian - German
+	Lies und vergiss die Bibel.
+
+Step 190/284
+>> German - Thai
+	อ่านและลืมพระคัมภีร์
+
+Step 191/284
+>> Thai - Haitian Creole
+	Li epi bliye Bib la
+
+Step 192/284
+>> Haitian Creole - Kurdish
+	Mizgîniyê bixwînin û ji bîr bikin
+
+Step 193/284
+>> Kurdish - Swedish
+	Läs Bibeln och glöm det
+
+Step 194/284
+>> Swedish - Nepali
+	बाइबल पढ्नुहोस् र यो बिर्सनुहोस्
+
+Step 195/284
+>> Nepali - Chinese (Traditional)
+	閱讀聖經，忘記它
+
+Step 196/284
+>> Chinese (Traditional) - Chichewa
+	Werengani Bayibulo ndi kuyiwala
+
+Step 197/284
+>> Chichewa - Burmese
+	သမ္မာကျမ်းစာကိုဖတ်ရှုပြီးမေ့လိုက်ပါ
+
+Step 198/284
+>> Burmese - Turkish
+	İncil'i okuyun ve unutun
+
+Step 199/284
+>> Turkish - Chinese (Simplified)
+	阅读和忘记圣经
+
+Step 200/284
+>> Chinese (Simplified) - Hausa
+	Karatu da manta littafi mai tsarki
+
+Step 201/284
+>> Hausa - Uzbek
+	Injilni o'qing va unuting
+
+Step 202/284
+>> Uzbek - Malay
+	Baca dan lupakan Alkitab
+
+Step 203/284
+>> Malay - Samoan
+	Faitau ma galo le Tusi Paia
+
+Step 204/284
+>> Samoan - Hebrew
+	קרא ושכח את התנ"ך
+
+Step 205/284
+>> Hebrew - Czech
+	Přečtěte si a zapomeňte na Bibli
+
+Step 206/284
+>> Czech - English
+	Read and forget the Bible
+
+Step 207/284
+>> English - Bosnian
+	Pročitajte i zaboravite Bibliju
+
+Step 208/284
+>> Bosnian - Japanese
+	聖書を読んで忘れる
+
+Step 209/284
+>> Japanese - Bengali
+	বাইবেল পড়ুন এবং ভুলে যান
+
+Step 210/284
+>> Bengali - Lao
+	ອ່ານ ຄຳ ພີໄບເບິນແລະລືມມັນ
+
+Step 211/284
+>> Lao - Spanish
+	Lee la Biblia y olvídate de ella
+
+Step 212/284
+>> Spanish - Lithuanian
+	Perskaitykite Bibliją ir pamirškite apie ją
+
+Step 213/284
+>> Lithuanian - Polish
+	Przeczytaj Biblię i zapomnij o tym
+
+Step 214/284
+>> Polish - Korean
+	성서를 읽고 잊어 버리십시오
+
+Step 215/284
+>> Korean - Shona
+	Verenga Bhaibheri uye kanganwa
+
+Step 216/284
+>> Shona - Danish
+	Læs Bibelen og glem
+
+Step 217/284
+>> Danish - Romanian
+	Citește Biblia și uită
+
+Step 218/284
+>> Romanian - Chinese (Traditional)
+	閱讀聖經，忘記
+
+Step 219/284
+>> Chinese (Traditional) - Slovenian
+	Preberite Sveto pismo in pozabite
+
+Step 220/284
+>> Slovenian - Lao
+	ອ່ານພະຄໍາພີແລະລືມມັນ
+
+Step 221/284
+>> Lao - Uzbek
+	Muqaddas Kitobni o'qing va uni unuting
+
+Step 222/284
+>> Uzbek - Swahili
+	Soma bibilia na usahau
+
+Step 223/284
+>> Swahili - Dutch
+	Lees de Bijbel en vergeet het niet
+
+Step 224/284
+>> Dutch - Macedonian
+	Прочитајте ја Библијата и не заборавајте
+
+Step 225/284
+>> Macedonian - Kurdish
+	Mizgîniyê bixwînin û ji bîr nekin
+
+Step 226/284
+>> Kurdish - Indonesian
+	Baca Alkitab dan lupakan
+
+Step 227/284
+>> Indonesian - Maori
+	Panuihia te Paipera me te wareware
+
+Step 228/284
+>> Maori - Italian
+	Leggi la Bibbia e dimenticala
+
+Step 229/284
+>> Italian - Bengali
+	বাইবেল পড়ুন এবং এটি ভুলে যান
+
+Step 230/284
+>> Bengali - Samoan
+	Faitau le Tusi Paia ma faagalo
+
+Step 231/284
+>> Samoan - Portuguese
+	Leia a Bíblia e esqueça-a
+
+Step 232/284
+>> Portuguese - Russian
+	Прочитай Библию и забудь
+
+Step 233/284
+>> Russian - Bosnian
+	Pročitajte bibliju i zaboravite
+
+Step 234/284
+>> Bosnian - Sinhala
+	බයිබලය කියවා එය අමතක කරන්න
+
+Step 235/284
+>> Sinhala - Urdu
+	بائبل پڑھیں اور اسے بھول جائیں
+
+Step 236/284
+>> Urdu - Arabic
+	اقرأ الكتاب المقدس وانساه
+
+Step 237/284
+>> Arabic - Turkish
+	İncil'i okuyun ve unutun
+
+Step 238/284
+>> Turkish - Kazakh
+	Киелі кітапты оқып, ұмытыңыз
+
+Step 239/284
+>> Kazakh - Spanish
+	Lee y olvida la Biblia
+
+Step 240/284
+>> Spanish - Lithuanian
+	Perskaitykite ir pamirškite Bibliją
+
+Step 241/284
+>> Lithuanian - Luxembourgish
+	Liest a vergiess d'Bibel
+
+Step 242/284
+>> Luxembourgish - Hausa
+	Karanta kuma ka manta da littafi mai tsarki
+
+Step 243/284
+>> Hausa - Hungarian
+	Olvassa el és felejtse el a Bibliát
+
+Step 244/284
+>> Hungarian - Chinese (Simplified)
+	阅读和忘记圣经
+
+Step 245/284
+>> Chinese (Simplified) - Hindi
+	बाइबल पढ़ना और भूलना
+
+Step 246/284
+>> Hindi - Burmese
+	သမ္မာကျမ်းစာကိုဖတ်ရှုခြင်းနှင့်မေ့ခြင်း
+
+Step 247/284
+>> Burmese - Czech
+	Čtení a zapomínání na Bibli
+
+Step 248/284
+>> Czech - Croatian
+	Čitanje i zaboravljanje Biblije
+
+Step 249/284
+>> Croatian - Bulgarian
+	Четене и забравяне на Библията
+
+Step 250/284
+>> Bulgarian - Georgian
+	ბიბლიის კითხვა და დავიწყება
+
+Step 251/284
+>> Georgian - Greek
+	Αγία Γραφή ανάγνωση και ξεχνώντας
+
+Step 252/284
+>> Greek - Albanian
+	Leximi dhe harrimi i Biblës
+
+Step 253/284
+>> Albanian - Icelandic
+	Að lesa og gleyma Biblíunni
+
+Step 254/284
+>> Icelandic - Haitian Creole
+	Li ak bliye Bib la
+
+Step 255/284
+>> Haitian Creole - Hebrew
+	קרא ושכח את התנ"ך
+
+Step 256/284
+>> Hebrew - Catalan
+	Llegiu i oblideu la Bíblia
+
+Step 257/284
+>> Catalan - Malagasy
+	Vakio sy adino ny Baiboly
+
+Step 258/284
+>> Malagasy - Vietnamese
+	Đọc và quên Kinh thánh
+
+Step 259/284
+>> Vietnamese - Persian
+	کتاب مقدس را بخوانید و فراموش کنید
+
+Step 260/284
+>> Persian - Malay
+	Baca dan lupakan Alkitab
+
+Step 261/284
+>> Malay - French
+	Lisez et oubliez la Bible
+
+Step 262/284
+>> French - English
+	Read and forget the Bible
+
+Step 263/284
+>> English - Maltese
+	Aqra u tinsa l-Bibbja
+
+Step 264/284
+>> Maltese - Ukrainian
+	Читайте Біблію і забути
+
+Step 265/284
+>> Ukrainian - Filipino
+	Basahin ang Bibliya at kalimutan ito
+
+Step 266/284
+>> Filipino - Amharic
+	መጽሐፍ ቅዱስን ያንብቡ እና ይርሱት
+
+Step 267/284
+>> Amharic - Latvian
+	Izlasi Bībeli un aizmirsti to
+
+Step 268/284
+>> Latvian - Mongolian
+	Библийг уншаад март
+
+Step 269/284
+>> Mongolian - Swedish
+	Läs och glöm Bibeln
+
+Step 270/284
+>> Swedish - Armenian
+	Կարդացեք և մոռացեք Աստվածաշունչը
+
+Step 271/284
+>> Armenian - Thai
+	อ่านและลืมพระคัมภีร์
+
+Step 272/284
+>> Thai - Zulu
+	Funda futhi ukhohlwe ibhayibheli
+
+Step 273/284
+>> Zulu - Nepali
+	बाइबल पढ्नुहोस् र बिर्सनुहोस्
+
+Step 274/284
+>> Nepali - Chichewa
+	Werengani Bayibulo ndi kuyiwala
+
+Step 275/284
+>> Chichewa - Slovak
+	Prečítajte si Bibliu a zabudnite
+
+Step 276/284
+>> Slovak - German
+	Lies die Bibel und vergiss
+
+Step 277/284
+>> German - Irish
+	Léigh an Bíobla agus déan dearmad
+
+Step 278/284
+>> Irish - Estonian
+	Loe Piiblit ja unusta
+
+Step 279/284
+>> Estonian - Japanese
+	聖書を読んで忘れて
+
+Step 280/284
+>> Japanese - Serbian
+	Прочитајте библију и заборавите
+
+Step 281/284
+>> Serbian - Norwegian
+	Les Bibelen og glem den
+
+Step 282/284
+>> Norwegian - Finnish
+	Lue Raamattu ja unohda se
+
+Step 283/284
+>> Finnish - Pashto
+	انجیل ولولئ او هیر یې کړئ
+
+Step 284/284
+>> Pashto - English
+	Read the Bible and forget it
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+Read the Bible and forget it

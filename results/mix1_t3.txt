@@ -1,0 +1,1147 @@
+Translation chain: zh-TW - ru - pt - hi - ru - hi - ku - en - ru - zh-TW - pt - fi - zh-TW - ru - hi - ru - ku - fi - ku - zh-TW - en - ku - ru - en - hi - fi - en - ru - hi - fi - hi - ku - en - pt - zh-TW - ru - pt - hi - en - ru - ku - pt - zh-TW - fi - hi - ru - fi - hi - zh-TW - en - pt - zh-TW - en - ru - ku - ru - pt - fi - en - zh-TW - ru - ku - zh-TW - en - pt - ku - en - ku - pt - fi - zh-TW - ku - fi - ku - ru - pt - ru - hi - pt - ru - pt - en - hi - ku - hi - ku - fi - hi - en - ru - hi - fi - hi - zh-TW - fi - hi - ru - zh-TW - en - hi - fi - ru - zh-TW - en - fi - pt - fi - hi - ku - ru - ku - en - fi - ku - en - ru - pt - hi - pt - zh-TW - ku - en - pt - en - pt - zh-TW - fi - ku - fi - ru - fi - en - ku - hi - pt - hi - en - hi - ku - zh-TW - en - pt.
+Input text: For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Chinese (Traditional)
+	對於他而言，每次閱讀任何文本都將始終為該文本提供新的大小調整和理解。隱喻地講，他將自己定位為文本的赫拉克利托河的沐浴者，在這裡不可能兩次進入，因為他的路線不斷變化。
+
+Step 2/284
+>> Chinese (Traditional) - Russian
+	Для него каждый раз, когда вы читаете какой-либо текст, он всегда будет придавать тексту новые размеры и понимание. Образно говоря, он позиционировал себя как купальщика текста на реке Гераклит, куда было невозможно войти дважды, потому что его курс постоянно менялся.
+
+Step 3/284
+>> Russian - Portuguese
+	Para ele, toda vez que você ler um texto, ele sempre dará ao texto novas dimensões e compreensão. Figurativamente falando, ele se posicionou como banhista de texto no rio Heráclito, onde era impossível entrar duas vezes porque seu curso estava mudando constantemente.
+
+Step 4/284
+>> Portuguese - Hindi
+	उसके लिए, हर बार जब आप एक पाठ पढ़ते हैं, तो यह हमेशा पाठ को नए आयाम और समझ देगा। बोलचाल की भाषा में, उसने खुद को हेराक्लिटस नदी में एक पाठ के रूप में लिखा, जहां दो बार प्रवेश करना असंभव था क्योंकि उसका पाठ्यक्रम लगातार बदल रहा था।
+
+Step 5/284
+>> Hindi - Russian
+	Для этого каждый раз, когда вы читаете текст, он всегда придает тексту новое измерение и понимание. В разговорной речи он написал себя как текст на реке Гераклит, куда было невозможно войти дважды, потому что его курс постоянно менялся.
+
+Step 6/284
+>> Russian - Hindi
+	ऐसा करने के लिए, हर बार जब आप एक पाठ पढ़ते हैं, तो यह हमेशा पाठ को एक नया आयाम और समझ देता है। बोलचाल की भाषा में, उन्होंने खुद को हेराक्लिटस नदी पर एक पाठ के रूप में लिखा, जहां दो बार प्रवेश करना असंभव था क्योंकि उनका पाठ्यक्रम लगातार बदल रहा था।
+
+Step 7/284
+>> Hindi - Kurdish
+	Ji bo vê kirinê, her gava ku hûn nivîsarek bixwînin, ew timî li ser text dimenek nû û têgihiştinê dide. Di berhevokê de, wî xwe wekî nivîsar li ser çemê Heraclitus nivîsand, li wir ne mumkun bû ku du caran têkeve bin ji ber ku qursa wî bi domdarî diguhere.
+
+Step 8/284
+>> Kurdish - English
+	To do this, every time you read a script, it always gives a new dimension and understanding to the text. In the collection, he wrote as a writer on the river Heraclitus, where it was impossible to enter twice because his course was constantly changing.
+
+Step 9/284
+>> English - Russian
+	Для этого каждый раз, когда вы читаете скрипт, он всегда дает новое измерение и понимание тексту. В сборнике он писал как писатель на реке Гераклит, куда было невозможно войти дважды, потому что его курс постоянно менялся.
+
+Step 10/284
+>> Russian - Chinese (Traditional)
+	為此，每次閱讀腳本時，它總是為文本提供新的維度和理解。在收藏中，他在赫拉克利特斯河（Heraclitus River）上以作家的身份寫作，那裡不可能兩次進入，因為他的路線不斷變化。
+
+Step 11/284
+>> Chinese (Traditional) - Portuguese
+	Por esse motivo, toda vez que você lê um script, ele sempre fornece uma nova dimensão e entendimento ao texto. Na coleção, ele escreve como escritor no rio Heráclito, onde é impossível entrar duas vezes porque sua rota está em constante mudança.
+
+Step 12/284
+>> Portuguese - Finnish
+	Tästä syystä joka kerta, kun luet komentosarjaa, se tarjoaa aina uuden ulottuvuuden ja ymmärryksen tekstille. Kokoelmassa hän kirjoittaa kirjailijana Heráclitojoella, jonne on mahdotonta päästä kahdesti, koska hänen reittinsä muuttuu jatkuvasti.
+
+Step 13/284
+>> Finnish - Chinese (Traditional)
+	因此，每次閱讀腳本時，它總是為文本提供新的維度和理解。在收藏中，他在Heráclitjoki上以作家的身份寫作，由於他的路線不斷變化，因此無法兩次訪問。
+
+Step 14/284
+>> Chinese (Traditional) - Russian
+	Поэтому каждый раз, когда вы читаете сценарий, он всегда дает тексту новое измерение и понимание. В сборнике он пишет как писатель на Heráclitjoki и не может быть посещен дважды из-за его изменяющегося курса.
+
+Step 15/284
+>> Russian - Hindi
+	इसलिए, हर बार जब आप एक स्क्रिप्ट पढ़ते हैं, तो यह हमेशा पाठ को एक नया आयाम और समझ देता है। संग्रह में, वह हेराक्लित्जोकी पर एक लेखक के रूप में लिखते हैं और अपने बदलते पाठ्यक्रम के कारण दो बार नहीं जा सकते हैं।
+
+Step 16/284
+>> Hindi - Russian
+	Поэтому каждый раз, когда вы читаете сценарий, он всегда дает новое измерение и понимание тексту. В сборнике он пишет о Гераклицоки как писатель и не может пойти дважды из-за его изменяющегося курса.
+
+Step 17/284
+>> Russian - Kurdish
+	Ji ber vê yekê, her gava ku hûn nivîsarek dixwînin, her gav ji bo nivîsê dimenek nû û têgihiştinê dide. Di berhevokê de, ew li ser Heraclitsocki wekî nivîskarek dinivîse û ji ber ku qursa guheztina wî du car dernakeve.
+
+Step 18/284
+>> Kurdish - Finnish
+	Siksi joka kerta, kun luet tekstiä, se antaa sinulle aina uuden ulottuvuuden ja ymmärryksen tekstille. Kokoelmassa hän kirjoittaa Heraclitsockista kirjoittajana ja koska hän ei kuunnellut kahdesti.
+
+Step 19/284
+>> Finnish - Kurdish
+	Ji ber vê yekê, her gava ku hûn nivîsarek dixwînin, ew her gav ji we re dimenek nû û têgihiştinê dide. Di berhevokê de ew wek Heraclitsock wekî nivîskarek dinivîse û ji ber ku du caran guhdarî nekir.
+
+Step 20/284
+>> Kurdish - Chinese (Traditional)
+	因此，每次閱讀腳本時，它總是為您提供新的維度和理解。在收藏中，他以作家的身份寫了Heraclitsock，此後沒有兩次聽過。
+
+Step 21/284
+>> Chinese (Traditional) - English
+	So every time you read a script, it always gives you a new dimension and understanding. In the collection, he wrote Heraclitsock as a writer and has not heard of it twice since.
+
+Step 22/284
+>> English - Kurdish
+	Ji ber vê yekê her dem ku hûn nivîsarek dixwînin, her gav ji we re dimenek û têgihiştinek nû dide. Di berhevokê de, wî wekî nivîskarek Heraclitsock nivîsandiye û ji hingê ve du caran jê nebihîstiye.
+
+Step 23/284
+>> Kurdish - Russian
+	Поэтому каждый раз, когда вы читаете сценарий, он всегда дает вам новое измерение и понимание. В сборнике он написал как автор для Гераклиса и с тех пор никогда не слышал об этом дважды.
+
+Step 24/284
+>> Russian - English
+	Therefore, every time you read a script, it always gives you a new dimension and understanding. In the collection, he wrote as an author for Heraclis and since then has never heard of it twice.
+
+Step 25/284
+>> English - Hindi
+	इसलिए, हर बार जब आप एक स्क्रिप्ट पढ़ते हैं, तो यह आपको हमेशा एक नया आयाम और समझ देता है। संग्रह में, उन्होंने हेराक्लीज़ के लिए एक लेखक के रूप में लिखा और तब से दो बार इसके बारे में कभी नहीं सुना।
+
+Step 26/284
+>> Hindi - Finnish
+	Siksi joka kerta, kun luet komentosarjaa, se antaa sinulle aina uuden ulottuvuuden ja ymmärryksen. Kokoelmassa hän kirjoitti Heracliesille kirjoittajana eikä ole koskaan kuullut siitä kahdesti.
+
+Step 27/284
+>> Finnish - English
+	Therefore, every time you read a script, it always gives you a new dimension and understanding. In the collection, he wrote for Heraclies as a writer and has never heard of it twice.
+
+Step 28/284
+>> English - Russian
+	Поэтому каждый раз, когда вы читаете сценарий, он всегда дает вам новое измерение и понимание. В сборнике он написал для Геракла как писатель и никогда не слышал об этом дважды.
+
+Step 29/284
+>> Russian - Hindi
+	इसलिए, हर बार जब आप एक स्क्रिप्ट पढ़ते हैं, तो यह आपको हमेशा एक नया आयाम और समझ देता है। संग्रह में, उन्होंने एक लेखक के रूप में हरक्यूलिस के लिए लिखा और इसके बारे में दो बार कभी नहीं सुना।
+
+Step 30/284
+>> Hindi - Finnish
+	Siksi joka kerta, kun luet komentosarjaa, se antaa sinulle aina uuden ulottuvuuden ja ymmärryksen. Kokoelmassa hän kirjoitti Herkuleselle kirjailijana eikä koskaan kuullut siitä kahdesti.
+
+Step 31/284
+>> Finnish - Hindi
+	इसलिए, हर बार जब आप एक स्क्रिप्ट पढ़ते हैं, तो यह आपको हमेशा एक नया आयाम और समझ देता है। संग्रह में उन्होंने एक लेखक के रूप में हरक्यूलिस को लिखा और दो बार कभी नहीं सुना।
+
+Step 32/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, her gava ku hûn nivîsarek dixwînin, her gav ji we re dimenek nû û têgihiştinê dide. Di berhevokê de wî wekî nivîskarek Hercules nivîsand û du caran nebihîst.
+
+Step 33/284
+>> Kurdish - English
+	Therefore, every time you read a script, it always gives you a new dimension and understanding. In the collection he wrote as a writer of Hercules and never heard twice.
+
+Step 34/284
+>> English - Portuguese
+	Portanto, sempre que você lê um script, ele sempre oferece uma nova dimensão e entendimento. Na coleção, ele escreveu como escritor de Hércules e nunca ouviu duas vezes.
+
+Step 35/284
+>> Portuguese - Chinese (Traditional)
+	因此，每當您閱讀腳本時，它總會提供新的維度和理解。在收藏中，他以《大力士》（Hercules）的身份寫作，從未聽過兩次。
+
+Step 36/284
+>> Chinese (Traditional) - Russian
+	Поэтому, когда вы читаете сценарий, он всегда дает новое измерение и понимание. В сборнике он написал как Геркулес и никогда не слышал об этом дважды.
+
+Step 37/284
+>> Russian - Portuguese
+	Portanto, quando você lê o script, ele sempre fornece uma nova dimensão e entendimento. Na coleção, ele escreveu como Hércules e nunca ouviu falar duas vezes.
+
+Step 38/284
+>> Portuguese - Hindi
+	इसलिए, जब आप स्क्रिप्ट पढ़ते हैं, तो यह हमेशा एक नया आयाम और समझ प्रदान करता है। संग्रह में, उन्होंने हरक्यूलिस की तरह लिखा और दो बार कभी नहीं सुना।
+
+Step 39/284
+>> Hindi - English
+	Therefore, when you read the script, it always provides a new dimension and understanding. In the collection, he wrote like Hercules and was never heard from twice.
+
+Step 40/284
+>> English - Russian
+	Поэтому, когда вы читаете сценарий, он всегда обеспечивает новое измерение и понимание. В сборнике он писал как Геркулес и никогда не был услышан дважды.
+
+Step 41/284
+>> Russian - Kurdish
+	Ji ber vê yekê, gava ku hûn nivîsarek dixwînin, ew her gav bi rêgezek nû û têgihiştinê peyda dike. Di berhevokê de wî mîna Hercules nivîsand û qet carê du car hate bihîstin.
+
+Step 42/284
+>> Kurdish - Portuguese
+	Então, quando você lê um script, ele sempre vem com um novo conceito e entendimento. Na coleção, ele escreveu como Hércules e nunca foi ouvido duas vezes.
+
+Step 43/284
+>> Portuguese - Chinese (Traditional)
+	因此，當您閱讀腳本時，它總是帶有新的概念和理解。在收藏中，他的作品像大力士一樣，從未兩次聽到。
+
+Step 44/284
+>> Chinese (Traditional) - Finnish
+	Joten kun luet käsikirjoitusta, se sisältää aina uusia käsitteitä ja ymmärrystä. Kokoelmassa hänen teoksiaan, kuten Herculesia, ei ole koskaan kuultu kahdesti.
+
+Step 45/284
+>> Finnish - Hindi
+	इसलिए जब आप स्क्रिप्ट पढ़ते हैं, तो उसमें हमेशा नई अवधारणाएँ और समझ होती है। उनका संग्रह, जैसे कि हरक्यूलिस, दो बार कभी नहीं सुना गया।
+
+Step 46/284
+>> Hindi - Russian
+	Поэтому, когда вы читаете сценарий, у него всегда появляются новые концепции и понимание. Его коллекция, такая как Геркулес, никогда не была услышана дважды.
+
+Step 47/284
+>> Russian - Finnish
+	Siksi, kun luet käsikirjoitusta, siinä on aina uusia käsitteitä ja ymmärrystä. Hänen kokoelmaansa, kuten Herculesia, ei ole koskaan kuultu kahdesti.
+
+Step 48/284
+>> Finnish - Hindi
+	इसलिए, जैसा कि आप पांडुलिपि पढ़ते हैं, इसमें हमेशा नई अवधारणाएं और समझ होती है। उनका संग्रह, हरक्यूलिस की तरह, दो बार कभी नहीं सुना गया है।
+
+Step 49/284
+>> Hindi - Chinese (Traditional)
+	因此，當您閱讀手稿時，它總是包含新的概念和理解。像赫拉克勒斯一樣，他的收藏從未被聽到過兩次。
+
+Step 50/284
+>> Chinese (Traditional) - English
+	So when you read the manuscript, it always contains new concepts and understandings. Like Hercules, his collection has never been heard twice.
+
+Step 51/284
+>> English - Portuguese
+	Portanto, quando você lê o manuscrito, ele sempre contém novos conceitos e entendimentos. Como Hércules, sua coleção nunca foi ouvida duas vezes.
+
+Step 52/284
+>> Portuguese - Chinese (Traditional)
+	因此，當您閱讀手稿時，它總是包含新的概念和理解。像赫拉克勒斯一樣，他的收藏從未聽過兩次。
+
+Step 53/284
+>> Chinese (Traditional) - English
+	So when you read the manuscript, it always contains new concepts and understandings. Like Hercules, his collection has never been heard twice.
+
+Step 54/284
+>> English - Russian
+	Поэтому, когда вы читаете рукопись, она всегда содержит новые концепции и понимания. Как и Геркулес, его коллекция никогда не была услышана дважды.
+
+Step 55/284
+>> Russian - Kurdish
+	Ji ber vê yekê, gava hûn destnivîsarek dixwînin, timûtim têgez û têgihiştinên nû vedibêje. Wekî Hercules, berhevoka wî qet carî du car hate bihîstin.
+
+Step 56/284
+>> Kurdish - Russian
+	Поэтому, когда вы читаете рукопись, вы постоянно придумываете новые концепции и понимания. Как и Геракл, его сборник никогда не публиковался дважды.
+
+Step 57/284
+>> Russian - Portuguese
+	Portanto, ao ler um manuscrito, você constantemente apresenta novos conceitos e entendimentos. Como Hércules, sua coleção nunca foi publicada duas vezes.
+
+Step 58/284
+>> Portuguese - Finnish
+	Siksi, kun luet käsikirjoitusta, esität jatkuvasti uusia käsitteitä ja ymmärryksiä. Kuten Hercules, hänen kokoelmaansa ei koskaan julkaistu kahdesti.
+
+Step 59/284
+>> Finnish - English
+	Therefore, as you read the script, you are constantly coming up with new concepts and understandings. Like Hercules, his collection was never published twice.
+
+Step 60/284
+>> English - Chinese (Traditional)
+	因此，在閱讀腳本時，您會不斷想出新的概念和理解。像赫拉克勒斯一樣，他的收藏從未出版過兩次。
+
+Step 61/284
+>> Chinese (Traditional) - Russian
+	Поэтому, читая сценарий, вы продолжаете придумывать новые концепции и понимания. Как и Геракл, его сборник никогда не публиковался дважды.
+
+Step 62/284
+>> Russian - Kurdish
+	Ji ber vê yekê, her ku hûn nivîsandinê dixwînin, hûn berdewam dikin ku hûn têgez û têgihiştinên nû derxin. Mîna Hercules, berhevoka wî du caran jî ne hate çap kirin.
+
+Step 63/284
+>> Kurdish - Chinese (Traditional)
+	因此，在學習寫作時，您會不斷提出新的概念和理解。像赫拉克勒斯一樣，他的收藏沒有出版過兩次。
+
+Step 64/284
+>> Chinese (Traditional) - English
+	Therefore, as you learn to write, you will continually come up with new concepts and understandings. Like Hercules, his collection has not been published twice.
+
+Step 65/284
+>> English - Portuguese
+	Portanto, à medida que aprende a escrever, você continuamente apresenta novos conceitos e entendimentos. Como Hércules, sua coleção não foi publicada duas vezes.
+
+Step 66/284
+>> Portuguese - Kurdish
+	Ji ber vê yekê, her ku hûn fêr dibin ku binivîsin, hûn bi domdarî têgez û têgihiştinên nû nû didin. Jixwe Hercules, berhevoka wî du caran nehat weşandin.
+
+Step 67/284
+>> Kurdish - English
+	Therefore, as you learn to write, you are constantly updating new concepts and understandings. Hercules himself, his collection has not been published twice.
+
+Step 68/284
+>> English - Kurdish
+	Ji ber vê yekê, her ku hûn fêr dibin ku hûn binivîsin, hûn bi domdarî têgehan û têgihiştinên nû nûve dikin. Hercules bixwe, berhevoka wî du caran nehatiye weşandin.
+
+Step 69/284
+>> Kurdish - Portuguese
+	Portanto, ao aprender a escrever, você está constantemente atualizando novos conceitos e entendimentos. Hércules, sua coleção não foi publicada duas vezes.
+
+Step 70/284
+>> Portuguese - Finnish
+	Siksi, kun oppit kirjoittamaan, päivität jatkuvasti uusia käsitteitä ja ymmärryksiä. Hercules, kokoelmasi ei ole julkaistu kahdesti.
+
+Step 71/284
+>> Finnish - Chinese (Traditional)
+	因此，在學習寫作時，您會不斷更新新的概念和理解。大力神，您的收藏尚未出版兩次。
+
+Step 72/284
+>> Chinese (Traditional) - Kurdish
+	Ji ber vê yekê, her ku hûn fêr dibin ku hûn binivîsin, hûn bi domdarî têgehan û têgihiştinên nû nûve dikin. Hercules, berhevoka we du caran nehatiye çap kirin.
+
+Step 73/284
+>> Kurdish - Finnish
+	Siksi, kun opit kirjoittamaan, päivität jatkuvasti uusia käsitteitä ja ymmärryksiä. Hercules, kokoelmasi ei ole koskaan julkaistu kahdesti.
+
+Step 74/284
+>> Finnish - Kurdish
+	Ji ber vê yekê, her ku hûn hîn dibin ku binivîsin, hûn bi berdewamî bi têgeh û têgihiştinên nû nûve dibin. Hercules, berhevoka we du caran çap nebûye.
+
+Step 75/284
+>> Kurdish - Russian
+	Поэтому, когда вы учитесь писать, вы постоянно пополняетесь новыми понятиями и пониманиями. Во всяком случае, ваша коллекция не была напечатана дважды.
+
+Step 76/284
+>> Russian - Portuguese
+	Portanto, quando você aprende a escrever, é constantemente reabastecido com novos conceitos e entendimentos. De qualquer forma, sua coleção não foi impressa duas vezes.
+
+Step 77/284
+>> Portuguese - Russian
+	Поэтому, когда вы учитесь писать, вы постоянно пополняетесь новыми понятиями и пониманиями. В любом случае, его коллекция не была напечатана дважды.
+
+Step 78/284
+>> Russian - Hindi
+	इसलिए, जब आप लिखना सीखते हैं, तो आपको लगातार नई अवधारणाओं और समझ के साथ फिर से भर दिया जाता है। किसी भी मामले में, उनका संग्रह दो बार नहीं छपा था।
+
+Step 79/284
+>> Hindi - Portuguese
+	Portanto, quando você aprende a escrever, é constantemente preenchido com novos conceitos e compreensão. De qualquer forma, sua coleção não foi impressa duas vezes.
+
+Step 80/284
+>> Portuguese - Russian
+	Поэтому, когда вы учитесь писать, вы постоянно наполняетесь новыми понятиями и пониманием. В любом случае, его коллекция не была напечатана дважды.
+
+Step 81/284
+>> Russian - Portuguese
+	Portanto, quando você aprende a escrever, está constantemente cheio de novos conceitos e compreensão. De qualquer forma, sua coleção não foi impressa duas vezes.
+
+Step 82/284
+>> Portuguese - English
+	Therefore, when you learn to write, you are constantly full of new concepts and understanding. In any case, his collection was not printed twice.
+
+Step 83/284
+>> English - Hindi
+	इसलिए, जब आप लिखना सीखते हैं, तो आप लगातार नई अवधारणाओं और समझ से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार नहीं छपा था।
+
+Step 84/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, dema ku hûn fêr dibin ku hûn binivîsin, hûn bi berdewamî tijî têgez û têgihiştinên nû ne. Di tu rewşê de, berhevoka wî du carî çap nebû.
+
+Step 85/284
+>> Kurdish - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप लगातार नई अवधारणाओं और समझ से भरे होते हैं। किसी भी मामले में उनका संग्रह दो बार प्रकाशित नहीं हुआ था।
+
+Step 86/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, her ku hûn fêr dibin ku hûn binivîsin, hûn bi berdewamî tije têgeh û têgihiştinên nû ne. Di tu rewşê de berhevoka wî du car nehat weşandin.
+
+Step 87/284
+>> Kurdish - Finnish
+	Siksi, kun opit kirjoittamaan, olet täynnä jatkuvasti uusia käsitteitä ja ymmärryksiä. Hänen kokoelmaansa ei missään tapauksessa julkaistu kahdesti.
+
+Step 88/284
+>> Finnish - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप लगातार नई अवधारणाओं और समझ से भरे होते हैं। किसी भी मामले में उनका संग्रह दो बार प्रकाशित नहीं हुआ था।
+
+Step 89/284
+>> Hindi - English
+	Therefore, as you learn to write, you are constantly full of new concepts and understanding. In any case his collection was not published twice.
+
+Step 90/284
+>> English - Russian
+	Поэтому, когда вы учитесь писать, вы постоянно полны новых концепций и понимания. В любом случае его коллекция не была опубликована дважды.
+
+Step 91/284
+>> Russian - Hindi
+	इसलिए, जब आप लिखना सीखते हैं, तो आप लगातार नई अवधारणाओं और समझ से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार प्रकाशित नहीं हुआ था।
+
+Step 92/284
+>> Hindi - Finnish
+	Siksi, kun opit kirjoittamaan, olet jatkuvasti täynnä uusia käsitteitä ja ymmärrystä. Joka tapauksessa hänen kokoelmaansa ei julkaistu kahdesti.
+
+Step 93/284
+>> Finnish - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप लगातार नई अवधारणाओं और समझ से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार प्रकाशित नहीं हुआ था।
+
+Step 94/284
+>> Hindi - Chinese (Traditional)
+	因此，在學習寫作時，您會不斷充滿新概念和新知識。無論如何，他的收藏沒有兩次出版。
+
+Step 95/284
+>> Chinese (Traditional) - Finnish
+	Siksi, kun opit kirjoittamaan, olet täynnä jatkuvasti uusia käsitteitä ja uutta tietoa. Joka tapauksessa hänen kokoelmaansa ei ole julkaistu kahdesti.
+
+Step 96/284
+>> Finnish - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप लगातार नई अवधारणाओं और नए ज्ञान से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार प्रकाशित नहीं हुआ है।
+
+Step 97/284
+>> Hindi - Russian
+	Поэтому, когда вы учитесь писать, вы постоянно наполняетесь новыми понятиями и новыми знаниями. В любом случае, его коллекция не была опубликована дважды.
+
+Step 98/284
+>> Russian - Chinese (Traditional)
+	因此，當您學習寫作時，就會不斷充滿新概念和新知識。無論如何，他的收藏沒有兩次出版。
+
+Step 99/284
+>> Chinese (Traditional) - English
+	Therefore, as you learn to write, you are constantly filled with new concepts and new knowledge. In any case, his collection has not been published twice.
+
+Step 100/284
+>> English - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप लगातार नई अवधारणाओं और नए ज्ञान से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार प्रकाशित नहीं हुआ है।
+
+Step 101/284
+>> Hindi - Finnish
+	Siksi kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa hänen kokoelmaansa ei ole julkaistu kahdesti.
+
+Step 102/284
+>> Finnish - Russian
+	Поэтому, когда вы учитесь писать, вы полны новых концепций и новых знаний. В любом случае, его коллекция не была опубликована дважды.
+
+Step 103/284
+>> Russian - Chinese (Traditional)
+	因此，當您學習寫作時，就會充滿新概念和新知識。無論如何，他的收藏沒有兩次出版。
+
+Step 104/284
+>> Chinese (Traditional) - English
+	So when you learn to write, you are full of new concepts and new knowledge. In any case, his collection has not been published twice.
+
+Step 105/284
+>> English - Finnish
+	Joten kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa hänen kokoelmaansa ei ole julkaistu kahdesti.
+
+Step 106/284
+>> Finnish - Portuguese
+	Então, quando você aprende a escrever, está cheio de novos conceitos e novos conhecimentos. De qualquer forma, sua coleção não foi publicada duas vezes.
+
+Step 107/284
+>> Portuguese - Finnish
+	Joten kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa hänen kokoelmaansa ei ole julkaistu kahdesti.
+
+Step 108/284
+>> Finnish - Hindi
+	इसलिए जब आप लिखना सीखते हैं, तो आप नई अवधारणाओं और नए ज्ञान से भरे होते हैं। किसी भी मामले में, उनका संग्रह दो बार प्रकाशित नहीं हुआ है।
+
+Step 109/284
+>> Hindi - Kurdish
+	Ji ber vê yekê gava ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanyariyên nû tije ne. Di tu rewşê de, berhevoka wî du caran nehatiye çap kirin.
+
+Step 110/284
+>> Kurdish - Russian
+	Поэтому, когда вы учитесь писать, вы полны новых концепций и новых знаний. Ни в коем случае его коллекция не была опубликована дважды.
+
+Step 111/284
+>> Russian - Kurdish
+	Ji ber vê yekê, dema ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanyariyên nû tije ne. Di tu rewşê de berhevoka wî du caran nehat weşandin.
+
+Step 112/284
+>> Kurdish - English
+	So, when you learn to write, you are full of new concepts and new knowledge. In no case was his publication twice published.
+
+Step 113/284
+>> English - Finnish
+	Joten kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Missään tapauksessa hänen julkaisuaan ei julkaistu kahdesti.
+
+Step 114/284
+>> Finnish - Kurdish
+	Ji ber vê yekê dema ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanyariyên nû tije ne. Di tu rewşê de du caran weşana wî ne hate weşandin.
+
+Step 115/284
+>> Kurdish - English
+	So when you learn to write, you are full of new concepts and new knowledge. In no case has it been published twice.
+
+Step 116/284
+>> English - Russian
+	Поэтому, когда вы учитесь писать, вы полны новых концепций и новых знаний. Ни в одном случае он не был опубликован дважды.
+
+Step 117/284
+>> Russian - Portuguese
+	Portanto, quando você aprende a escrever, está cheio de novos conceitos e novos conhecimentos. Em nenhum caso foi publicado duas vezes.
+
+Step 118/284
+>> Portuguese - Hindi
+	इसलिए, जब आप लिखना सीखते हैं, तो आप नई अवधारणाओं और नए ज्ञान से भरे होते हैं। किसी भी मामले में इसे दो बार प्रकाशित नहीं किया गया है।
+
+Step 119/284
+>> Hindi - Portuguese
+	Portanto, quando você aprende a escrever, está cheio de novos conceitos e novos conhecimentos. De qualquer forma, não foi publicado duas vezes.
+
+Step 120/284
+>> Portuguese - Chinese (Traditional)
+	因此，當您學習寫作時，就會充滿新概念和新知識。無論如何，它沒有出版兩次。
+
+Step 121/284
+>> Chinese (Traditional) - Kurdish
+	Ji ber vê yekê gava ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanyariyên nû tije ne. Di her rewşê de, du caran nehatiye weşandin.
+
+Step 122/284
+>> Kurdish - English
+	So when you learn to write, you are full of new concepts and new knowledge. In any case, it has not been published twice.
+
+Step 123/284
+>> English - Portuguese
+	Então, quando você aprende a escrever, está cheio de novos conceitos e novos conhecimentos. De qualquer forma, não foi publicado duas vezes.
+
+Step 124/284
+>> Portuguese - English
+	So, when you learn to write, you are full of new concepts and new knowledge. Anyway, it was not published twice.
+
+Step 125/284
+>> English - Portuguese
+	Então, quando você aprende a escrever, está cheio de novos conceitos e novos conhecimentos. Enfim, não foi publicado duas vezes.
+
+Step 126/284
+>> Portuguese - Chinese (Traditional)
+	因此，當您學習寫作時，就會充滿新概念和新知識。無論如何，它沒有出版兩次。
+
+Step 127/284
+>> Chinese (Traditional) - Finnish
+	Joten kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa sitä ei ole julkaistu kahdesti.
+
+Step 128/284
+>> Finnish - Kurdish
+	Ji ber vê yekê dema ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanyariyên nû tije ne. Di her rewşê de, du caran nehatiye weşandin.
+
+Step 129/284
+>> Kurdish - Finnish
+	Joten kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa sitä ei ole julkaistu kahdesti.
+
+Step 130/284
+>> Finnish - Russian
+	Поэтому, когда вы учитесь писать, вы полны новых концепций и новых знаний. В любом случае, он не был опубликован дважды.
+
+Step 131/284
+>> Russian - Finnish
+	Siksi, kun opit kirjoittamaan, olet täynnä uusia käsitteitä ja uutta tietoa. Joka tapauksessa sitä ei ole julkaistu kahdesti.
+
+Step 132/284
+>> Finnish - English
+	Therefore, as you learn to write, you are full of new concepts and new knowledge. In any case, it has not been published twice.
+
+Step 133/284
+>> English - Kurdish
+	Ji ber vê yekê, her ku hûn fêr dibin ku hûn binivîsin, hûn ji têgehên nû û zanebûna nû tije ne. Di her rewşê de, du caran nehatiye weşandin.
+
+Step 134/284
+>> Kurdish - Hindi
+	इसलिए, जैसा कि आप लिखना सीखते हैं, आप नई अवधारणाओं और नए ज्ञान से भरे होते हैं। किसी भी मामले में, यह दो बार प्रकाशित नहीं हुआ है।
+
+Step 135/284
+>> Hindi - Portuguese
+	Portanto, ao aprender a escrever, você é preenchido com novos conceitos e novos conhecimentos. De qualquer forma, não foi publicado duas vezes.
+
+Step 136/284
+>> Portuguese - Hindi
+	इसलिए, जब लिखना सीखना हो, तो आप नई अवधारणाओं और नए ज्ञान से भरे हों। वैसे भी, यह दो बार प्रकाशित नहीं हुआ था।
+
+Step 137/284
+>> Hindi - English
+	Therefore, when learning how to write, you are full of new concepts and new knowledge. Anyway, it was not published twice.
+
+Step 138/284
+>> English - Hindi
+	इसलिए, जब लिखना सीखते हैं, तो आप नई अवधारणाओं और नए ज्ञान से भरे होते हैं। वैसे भी, यह दो बार प्रकाशित नहीं हुआ था।
+
+Step 139/284
+>> Hindi - Kurdish
+	Ji ber vê yekê, dema ku fêrbûna nivîsandinê hîn dibe, hûn bi têgehên nû û zanyariyên nû tijî dibin. I jî, du caran çap nebû.
+
+Step 140/284
+>> Kurdish - Chinese (Traditional)
+	因此，在學習寫作時，您會充滿新概念和新知識。我也沒有打印兩次。
+
+Step 141/284
+>> Chinese (Traditional) - English
+	So when you learn to write, you will be full of new concepts and new knowledge. I also didn't print it twice.
+
+Step 142/284
+>> English - Portuguese
+	Então, quando você aprender a escrever, estará cheio de novos conceitos e novos conhecimentos. Também não imprimi duas vezes.
+
+Step 143/284
+>> Portuguese - English
+	Then, when you learn to write, you will be full of new concepts and new knowledge. I also did not print twice.
+
+Step 144/284
+>> English - Chinese (Traditional)
+	然後，當您學習寫作時，您將充滿新概念和新知識。我也沒有打印兩次。
+
+Step 145/284
+>> Chinese (Traditional) - Kurdish
+	Wê hingê, gava ku hûn fêrbûna nivîsandinê hîn dibin, hûn ê bi têgihiştin û zanyariyên nû werin dagirtin. Min jî du caran çap nekir.
+
+Step 146/284
+>> Kurdish - Hindi
+	फिर, जैसा कि आप लेखन कौशल सीखते हैं, आप नई समझ और ज्ञान से भर जाएंगे। मैंने भी दो बार नहीं छापा।
+
+Step 147/284
+>> Hindi - English
+	Then, as you learn writing skills, you will be filled with new understanding and knowledge. I also did not print twice.
+
+Step 148/284
+>> English - Hindi
+	फिर, जैसा कि आप लेखन कौशल सीखते हैं, आप नई समझ और ज्ञान से भर जाएंगे। मैंने भी दो बार नहीं छापा।
+
+Step 149/284
+>> Hindi - Portuguese
+	Então, ao aprender habilidades de escrita, você será preenchido com nova compreensão e conhecimento. Também não imprimi duas vezes.
+
+Step 150/284
+>> Portuguese - Hindi
+	फिर, लेखन कौशल सीखने के दौरान, आप नई समझ और ज्ञान से भर जाएंगे। मैंने भी दो बार नहीं छापा।
+
+Step 151/284
+>> Hindi - Kurdish
+	Hingê, dema ku hûn fêrbûna nivîsandinê fêr bibin, hûn ê bi têgihiştin û zanyarîya nû werin dagirtin. Min jî du car çap nekir.
+
+Step 152/284
+>> Kurdish - English
+	Then, as you learn writing skills, you will be filled with new understanding and knowledge. I didn't even print twice.
+
+Step 153/284
+>> English - Finnish
+	Sitten, kun opit kirjoitustaidot, sinut täytetään uudella ymmärryksellä ja tiedolla. En edes tulostanut kahdesti.
+
+Step 154/284
+>> Finnish - Russian
+	Затем, когда вы овладеете навыками письма, вы будете полны нового понимания и знаний. Я даже не печатал дважды.
+
+Step 155/284
+>> Russian - Finnish
+	Sitten, kun hallitset kirjoitustaidot, olet täynnä uutta ymmärrystä ja tietoa. En edes tulostanut kahdesti.
+
+Step 156/284
+>> Finnish - Kurdish
+	Dûv re, her ku hûn şarezayên xwe yên nivîsandinê master dikin, hûn bi têgihîştin û zanyariya nû tijî ne. Min jî du car çap nekir.
+
+Step 157/284
+>> Kurdish - Finnish
+	Sitten, kun hallitset kirjoitustaidosi, olet täynnä uutta ymmärrystä ja tietoa. En edes tulostanut kahdesti.
+
+Step 158/284
+>> Finnish - Chinese (Traditional)
+	然後，在掌握寫作技巧的同時，您將充滿新的理解和知識。我什至沒有打印兩次。
+
+Step 159/284
+>> Chinese (Traditional) - Portuguese
+	Então, enquanto domina suas habilidades de escrita, você será preenchido com nova compreensão e conhecimento. Eu nem sequer imprimi duas vezes.
+
+Step 160/284
+>> Portuguese - English
+	Then, as you master your writing skills, you will be filled with new understanding and knowledge. I didn't even print it twice.
+
+Step 161/284
+>> English - Portuguese
+	Então, ao dominar suas habilidades de escrita, você será preenchido com nova compreensão e conhecimento. Eu nem sequer imprimi duas vezes.
+
+Step 162/284
+>> Portuguese - English
+	Then, by mastering your writing skills, you will be filled with new understanding and knowledge. I didn't even print it twice.
+
+Step 163/284
+>> English - Kurdish
+	Paşê, bi hînbûna şehrezayiyên nivîskariya xwe, hûn ê bi têgihiştin û zanyariya nû dagirtin. Min jî du caran çap nekir.
+
+Step 164/284
+>> Kurdish - Chinese (Traditional)
+	然後，通過學習寫作技巧，您將獲得新的理解和知識。我什至沒有打印兩次。
+
+Step 165/284
+>> Chinese (Traditional) - Portuguese
+	Então, aprendendo habilidades de escrita, você obterá nova compreensão e conhecimento. Eu nem sequer imprimi duas vezes.
+
+Step 166/284
+>> Portuguese - Hindi
+	फिर, लेखन कौशल सीखने से, आप नई समझ और ज्ञान प्राप्त करेंगे। मैंने इसे दो बार छापा भी नहीं था।
+
+Step 167/284
+>> Hindi - Portuguese
+	Então, aprendendo habilidades de escrita, você obterá nova compreensão e conhecimento. Eu nem o imprimi duas vezes.
+
+Step 168/284
+>> Portuguese - Russian
+	Тогда, изучая навыки письма, вы получите новое понимание и знания. Я даже не распечатал это дважды.
+
+Step 169/284
+>> Russian - English
+	Then, by learning writing skills, you will gain a new understanding and knowledge. I did not even print it twice.
+
+Step 170/284
+>> English - Kurdish
+	Dûv re, bi hînbûna şehrezayiya nivîsandinê, hûn ê têgihiştin û zanyarîyek nû bi dest xwe bixin. Min jî du caran çap nekir.
+
+Step 171/284
+>> Kurdish - Finnish
+	Sitten kirjoittamisen viisaudella saat uuden ymmärryksen ja tiedon. En myöskään tulostanut kahdesti.
+
+Step 172/284
+>> Finnish - English
+	Then, with the wisdom of writing, you will gain new understanding and knowledge. Nor did I print twice.
+
+Step 173/284
+>> English - Kurdish
+	Wê hingê, bi hişmendiya nivîsandinê, hûn ê têgihiştin û zanyariya nû bidest bixin. Ne du car min çap kir.
+
+Step 174/284
+>> Kurdish - Russian
+	Тогда, с осознанием письма, вы получите новое понимание и знание. Не дважды я печатал.
+
+Step 175/284
+>> Russian - Kurdish
+	Wê hingê, bi hişmendiya nivîsandinê, hûn ê têgihiştin û zanyariyek nû bi dest bixin. Ne du caran min tîp kir.
+
+Step 176/284
+>> Kurdish - Hindi
+	फिर, लेखन की मानसिकता के साथ, आप एक नई समझ और ज्ञान प्राप्त करेंगे। दो बार नहीं मैंने टाइप किया है।
+
+Step 177/284
+>> Hindi - Finnish
+	Sitten kirjoittamisen ajattelutavan avulla saat uuden ymmärryksen ja tiedon. En ole kahdesti kirjoittanut.
+
+Step 178/284
+>> Finnish - Portuguese
+	Então, a mentalidade de escrever oferece um novo entendimento e conhecimento. Eu não escrevi duas vezes.
+
+Step 179/284
+>> Portuguese - Finnish
+	Joten kirjoittamisen ajattelutapa tarjoaa uuden ymmärryksen ja tiedon. En kirjoittanut sitä kahdesti.
+
+Step 180/284
+>> Finnish - English
+	So the writing mindset provides new understanding and knowledge. I didn't write it twice.
+
+Step 181/284
+>> English - Chinese (Traditional)
+	因此，寫作心態提供了新的理解和知識。我沒有寫兩次。
+
+Step 182/284
+>> Chinese (Traditional) - Russian
+	Таким образом, менталитет письма обеспечивает новое понимание и знания. Я не писал дважды.
+
+Step 183/284
+>> Russian - Finnish
+	Siten kirjoittamisen mentaliteetti tarjoaa uuden ymmärryksen ja tiedon. En kirjoittanut kahdesti.
+
+Step 184/284
+>> Finnish - Hindi
+	इस प्रकार लेखन मानसिकता नई समझ और ज्ञान प्रदान करती है। मैंने दो बार नहीं लिखा।
+
+Step 185/284
+>> Hindi - English
+	Thus writing mindset provides new understanding and knowledge. I did not write twice.
+
+Step 186/284
+>> English - Chinese (Traditional)
+	因此，寫作心態提供了新的理解和知識。我沒有寫兩次。
+
+Step 187/284
+>> Chinese (Traditional) - Russian
+	Таким образом, менталитет письма обеспечивает новое понимание и знания. Я не писал дважды.
+
+Step 188/284
+>> Russian - Hindi
+	इस प्रकार, लेखन की मानसिकता एक नई समझ और ज्ञान प्रदान करती है। मैंने दो बार नहीं लिखा।
+
+Step 189/284
+>> Hindi - Finnish
+	Siten kirjoittamisen ajattelutapa tarjoaa uuden ymmärryksen ja tiedon. En kirjoittanut kahdesti.
+
+Step 190/284
+>> Finnish - Chinese (Traditional)
+	因此，寫作心態提供了新的理解和知識。我沒有寫兩次。
+
+Step 191/284
+>> Chinese (Traditional) - Hindi
+	इसलिए, लेखन मानसिकता नई समझ और ज्ञान प्रदान करती है। मैंने दो बार नहीं लिखा।
+
+Step 192/284
+>> Hindi - Finnish
+	Siksi kirjoittamisen ajattelutapa tarjoaa uuden ymmärryksen ja tiedon. En kirjoittanut kahdesti.
+
+Step 193/284
+>> Finnish - Hindi
+	इसलिए, लेखन मानसिकता नई समझ और ज्ञान प्रदान करती है। मैंने दो बार नहीं लिखा।
+
+Step 194/284
+>> Hindi - Russian
+	Таким образом, образ мышления обеспечивает новое понимание и знания. Я не писал дважды.
+
+Step 195/284
+>> Russian - English
+	Thus, the way of thinking provides a new understanding and knowledge. I did not write twice.
+
+Step 196/284
+>> English - Hindi
+	इस प्रकार, सोचने का तरीका एक नई समझ और ज्ञान प्रदान करता है। मैंने दो बार नहीं लिखा।
+
+Step 197/284
+>> Hindi - Finnish
+	Siten ajattelutapa tarjoaa uuden ymmärryksen ja tiedon. En kirjoittanut kahdesti.
+
+Step 198/284
+>> Finnish - Kurdish
+	Bi vî rengî hişmendî û têgihîştina nû peyda dike. Min du caran nenivîsiye.
+
+Step 199/284
+>> Kurdish - Hindi
+	यह इस प्रकार नई जागरूकता और समझ लाता है। मैंने दो बार नहीं लिखा है।
+
+Step 200/284
+>> Hindi - Kurdish
+	Bi vî rengî hişmendî û têgihiştina nû derdixe holê. Min du caran nivîsandiye.
+
+Step 201/284
+>> Kurdish - Hindi
+	इस तरह, नई जागरूकता और समझ पैदा होती है। मैंने दो बार लिखा है।
+
+Step 202/284
+>> Hindi - English
+	In this way, new awareness and understanding are created. I have written twice.
+
+Step 203/284
+>> English - Portuguese
+	Dessa maneira, nova consciência e entendimento são criados. Eu escrevi duas vezes.
+
+Step 204/284
+>> Portuguese - Russian
+	Таким образом, создается новое понимание и понимание. Я написал это дважды.
+
+Step 205/284
+>> Russian - Portuguese
+	Assim, um novo entendimento e entendimento são criados. Eu escrevi isso duas vezes.
+
+Step 206/284
+>> Portuguese - Hindi
+	इस प्रकार, एक नई समझ और समझ पैदा होती है। मैंने यह दो बार लिखा है।
+
+Step 207/284
+>> Hindi - Russian
+	Таким образом, новое понимание и понимание возникает. Я написал это дважды.
+
+Step 208/284
+>> Russian - Portuguese
+	Assim, um novo entendimento e entendimento surge. Eu escrevi isso duas vezes.
+
+Step 209/284
+>> Portuguese - Russian
+	Таким образом, возникает новое понимание и понимание. Я написал это дважды.
+
+Step 210/284
+>> Russian - Kurdish
+	Bi vê yekê, têgihiştin û têgihiştinek nû derdikeve holê. Min ev du caran nivîsand.
+
+Step 211/284
+>> Kurdish - Finnish
+	Tämän myötä syntyy uusi ymmärrys ja ymmärrys. Kirjoitin tämän kahdesti.
+
+Step 212/284
+>> Finnish - Kurdish
+	Digel vê yekê têgihiştin û têgihiştinek nû derdikeve holê. Min ev du caran nivîsand.
+
+Step 213/284
+>> Kurdish - Chinese (Traditional)
+	然而，正在出現新的理解。我寫了兩次。
+
+Step 214/284
+>> Chinese (Traditional) - Finnish
+	Uusi käsitys on kuitenkin syntymässä. Kirjoitin sen kahdesti.
+
+Step 215/284
+>> Finnish - Portuguese
+	No entanto, uma nova percepção está surgindo. Eu escrevi duas vezes.
+
+Step 216/284
+>> Portuguese - Kurdish
+	Lêbelê, têgînek nû derdikeve holê. Min du caran ev nivîsand.
+
+Step 217/284
+>> Kurdish - English
+	However, a new concept emerges. I wrote this twice.
+
+Step 218/284
+>> English - Kurdish
+	Lêbelê, têgînek nû derdikeve holê. Min ev du caran nivîsand.
+
+Step 219/284
+>> Kurdish - Portuguese
+	No entanto, um novo conceito surge. Eu escrevi isso duas vezes.
+
+Step 220/284
+>> Portuguese - English
+	However, a new concept emerges. I wrote this twice.
+
+Step 221/284
+>> English - Chinese (Traditional)
+	但是，出現了一個新概念。我寫了兩次。
+
+Step 222/284
+>> Chinese (Traditional) - Kurdish
+	Lêbelê, konseptek nû derket. Min du caran ev nivîsand.
+
+Step 223/284
+>> Kurdish - Russian
+	Однако появилась новая концепция. Я написал это дважды.
+
+Step 224/284
+>> Russian - Chinese (Traditional)
+	但是，出現了一個新概念。我寫了兩次。
+
+Step 225/284
+>> Chinese (Traditional) - English
+	However, a new concept emerged. I wrote it twice.
+
+Step 226/284
+>> English - Finnish
+	Kuitenkin syntyi uusi käsite. Kirjoitin sen kahdesti.
+
+Step 227/284
+>> Finnish - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi duas vezes.
+
+Step 228/284
+>> Portuguese - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 229/284
+>> Russian - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min ev du caran nivîsand.
+
+Step 230/284
+>> Kurdish - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 231/284
+>> Russian - English
+	However, a new concept was born. I wrote this twice.
+
+Step 232/284
+>> English - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 233/284
+>> Chinese (Traditional) - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi duas vezes.
+
+Step 234/284
+>> Portuguese - English
+	However, a new concept was born. I wrote it twice.
+
+Step 235/284
+>> English - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 236/284
+>> Chinese (Traditional) - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने इसे दो बार लिखा।
+
+Step 237/284
+>> Hindi - Finnish
+	Kuitenkin syntyi uusi konsepti. Kirjoitin sen kahdesti.
+
+Step 238/284
+>> Finnish - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 239/284
+>> Russian - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 240/284
+>> Hindi - Finnish
+	Kuitenkin syntyi uusi konsepti. Olen kirjoittanut tämän kahdesti.
+
+Step 241/284
+>> Finnish - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫這個的兩倍。
+
+Step 242/284
+>> Chinese (Traditional) - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi isso duas vezes.
+
+Step 243/284
+>> Portuguese - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min ev du caran nivîsand.
+
+Step 244/284
+>> Kurdish - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 245/284
+>> Russian - English
+	However, a new concept was born. I wrote this twice.
+
+Step 246/284
+>> English - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 247/284
+>> Hindi - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi isso duas vezes.
+
+Step 248/284
+>> Portuguese - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 249/284
+>> Russian - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 250/284
+>> Chinese (Traditional) - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi duas vezes.
+
+Step 251/284
+>> Portuguese - English
+	However, a new concept was born. I wrote it twice.
+
+Step 252/284
+>> English - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min du caran ev nivîsand.
+
+Step 253/284
+>> Kurdish - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 254/284
+>> Hindi - Finnish
+	Kuitenkin syntyi uusi konsepti. Olen kirjoittanut tämän kahdesti.
+
+Step 255/284
+>> Finnish - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैं इस दो बार लिखा है।
+
+Step 256/284
+>> Hindi - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 257/284
+>> Russian - English
+	However, a new concept was born. I wrote this twice.
+
+Step 258/284
+>> English - Finnish
+	Kuitenkin syntyi uusi konsepti. Kirjoitin tämän kahdesti.
+
+Step 259/284
+>> Finnish - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 260/284
+>> Hindi - English
+	However, a new concept was born. I have written this twice.
+
+Step 261/284
+>> English - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 262/284
+>> Russian - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min ev du caran nivîsand.
+
+Step 263/284
+>> Kurdish - English
+	However, a new concept was born. I wrote this twice.
+
+Step 264/284
+>> English - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 265/284
+>> Chinese (Traditional) - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min du caran ev nivîsand.
+
+Step 266/284
+>> Kurdish - Finnish
+	Kuitenkin syntyi uusi konsepti. Kirjoitin tämän kahdesti.
+
+Step 267/284
+>> Finnish - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min ev du caran nivîsand.
+
+Step 268/284
+>> Kurdish - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 269/284
+>> Russian - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 270/284
+>> Hindi - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 271/284
+>> Russian - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 272/284
+>> Chinese (Traditional) - Finnish
+	Kuitenkin syntyi uusi konsepti. Kirjoitin sen kahdesti.
+
+Step 273/284
+>> Finnish - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi duas vezes.
+
+Step 274/284
+>> Portuguese - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 275/284
+>> Chinese (Traditional) - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 276/284
+>> Russian - English
+	However, a new concept was born. I wrote this twice.
+
+Step 277/284
+>> English - Kurdish
+	Lêbelê, konseptek nû ji dayik bû. Min ev du caran nivîsand.
+
+Step 278/284
+>> Kurdish - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 279/284
+>> Hindi - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 280/284
+>> Russian - Hindi
+	हालाँकि, एक नई अवधारणा का जन्म हुआ। मैंने यह दो बार लिखा है।
+
+Step 281/284
+>> Hindi - Portuguese
+	No entanto, um novo conceito nasceu. Eu escrevi isso duas vezes.
+
+Step 282/284
+>> Portuguese - Russian
+	Тем не менее, новая концепция родилась. Я написал это дважды.
+
+Step 283/284
+>> Russian - Chinese (Traditional)
+	但是，一個新的概念誕生了。我寫了兩次。
+
+Step 284/284
+>> Chinese (Traditional) - English
+	However, a new concept was born. I wrote it twice.
+
+
+##### RESULTS ######
+
+For him, each reading of any text will always provide a new resizing and understanding of that text. Metaphorically speaking, he positions himself before the texts as the bather of the river of Heráclito, in which it is impossible to enter twice because his course is constantly changing.
+
+However, a new concept was born. I wrote it twice.

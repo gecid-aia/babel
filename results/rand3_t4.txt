@@ -1,0 +1,1147 @@
+Translation chain: ps - fi - no - sr - ja - et - ga - de - sk - ny - ne - zu - th - hy - sv - mn - lv - am - tl - uk - mt - en - fr - ms - fa - vi - mg - ca - he - ht - is - sq - el - ka - bg - hr - cs - my - hi - zh - hu - ha - lb - lt - es - kk - tr - ar - ur - si - bs - ru - pt - sm - bn - it - mi - id - ku - mk - nl - sw - uz - lo - sl - zh-TW - ro - da - sn - ko - pl - lt - es - lo - bn - ja - bs - en - cs - he - sm - ms - uz - ha - zh - tr - my - ny - zh-TW - ne - sv - ku - ht - th - de - uk - is - ka - it - pt - kk - ar - fr - fa - el - vi - zu - hu - sq - bg - sr - hi - da - am - sn - pl - sk - ga - sl - ru - hy - fi - si - ro - mg - lb - nl - mi - mn - ur - lv - mt - ko - mk - id - et - tl - ps - ca - sw - hr - no.
+Input text: The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+##### MONITORING ######
+
+Step 1/284
+>> English - Pashto
+	خلیفه هریون ارا رشید نن شپه د خپل ویزر جعفر او د هغه د اعدام کوونکی میسور سره د لیدو او اوریدو لپاره د کومې خبري د اوریدو لپاره تللي وو. دا د هغه دود و چې ځان د سوداګر په جامو کې بدلوي. او نن شپه ، کله چې هغه له ښار څخه تیریده ، د هغه ناستو کسانو سره د دې میرمنو کور سره تلی او د موسیقي غږونو واورېدل ، هغه جعفر ته وویل: زه غواړم چې دې کور ته ننوځم. او دا به وګوري چې څوک دغه کنسرت ورکوي. جعفر ځواب ورکړ ، دا هغه ګوند دی چې معتاد شوي دي ، او زه ویره لرم چې شاید موږ له دوی څخه ناوړه ګټه پورته کړو. خو خلیفه وویل ، موږ باید داخل شو ، او زه هیله لرم چې تاسو یو څه داسې حرکت طرحه کړئ چې له مخې یې موږ زندانیانو ته د داخلېدو زمینه برابره کړو. جعفر ځواب ورکړ ، چې زه یې واورم او اطاعت یې کوم: هغه پرمختګ وکړ او په دروازه یې ټکان وکړ. کله چې نقشه راغله او دروازه يې خلاصه کړه ، نو هغې ته يې وويل: زما ملکه ، موږ د تبريه سوداګر يو او لس ورځې په بغداد کې يو. موږ له ځان سره سوداګريز توکي راوړل او په خان کې يې استوګنځايونه نيولي دي. یوه سوداګر موږ ته په دې شپه کې یو ساتیرۍ ته بلنه ورکړه: په دې اساس موږ د هغه کور ته لاړو ، هغه زموږ مخې ته خواړه وخوړل ، او ومو وخوړله او یو څه سره وڅښلو ، وروسته یې موږ ته د تګ اجازه ورکړه. او په تیاره کې ، او د پردیو په توګه ، موږ خان ته خپله لاره له لاسه ورکړه: موږ باور لرو ، نو په دې توګه ستاسو په سخاوت سره چې تاسو به زموږ په کور کې شپې تیروي. چې په کولو سره به تاسو په جنت کې اجر ترلاسه کړئ.
+
+Step 2/284
+>> Pashto - Finnish
+	Kalifio Huron Ara Rashid meni katsomaan ja kuulemaan, mitä uutisia hänellä oli visiirillään Jafarilla ja teloittajalla Mysorella tänään. Hänen tapansa oli muuttaa itsensä kauppiaan vaatteiksi. Ja tänään, kun hän oli ylittämässä kaupunkia, ja hänen seuralaistensa kanssa kuunnellessaan tämän naisen taloa ja kuunnellessaan musiikin ääniä, hän kertoi Jafarille: Haluan mennä tähän taloon. Ja nähdään kuka antaa konsertin. Jafar vastasi: "Tämä on riippuvainen puolue, ja pelkään, että voimme väärinkäyttää heitä." Mutta kaliffi sanoi: "Meidän on päästävä sisään, ja toivon, että suunnittelette liikettä, jonka avulla sallimme vankien tulla". Jafar vastasi: "Kuuntelen häntä ja totellen: hän eteni ja koputti ovelle." Kun kartta tuli esiin ja avasi oven, hän kertoi hänelle: "Kuningattareni, olemme liikemies Tiberiasta ja olemme Bagdadissa kymmenen päivää." Olemme tuoneet tavaroita ja asuneet asuinpaikkoja Khanissa. Liikemies kutsui meidät tavernaan sinä yönä. Joten menimme hänen taloonsa, hän söi edessämme, söi ja joi, ja sitten hän päästi meidät menemään. Ja pimeässä, muukalaisena, kadotimme tien Khaniin: uskomme, niin anteliaisuutesi mukaan, että vietät yön talossamme. Näin tekemällä saat palkinnon taivaassa.
+
+Step 3/284
+>> Finnish - Norwegian
+	Kalifio Huron Ara Rashid gikk for å se og høre hvilke nyheter han hadde om visiret Jafar og bøddelen i Mysore i dag. Han pleide å endre seg til kjøpmannsklær. Og i dag, da hun krysset byen og sammen med ledsagerne sine, hørte på denne kvinnens hus og hørte på lydene av musikk, sa hun til Jafar: Jeg vil gå til dette huset. Og la oss se hvem som gir konserten. Jafar svarte: "Dette er en avhengig part, og jeg er redd for at vi kan misbruke dem." Men kalifen sa: "Vi må komme oss inn, og jeg håper du planlegger en bevegelse som lar fangene komme." Jafar svarte: "Jeg hører på ham og adlyder; han gikk og banket på døren." Da kartet kom ut og åpnet døren, sa han til ham: "Min dronning, vi er en forretningsmann fra Tiberias og vi er i Bagdad i ti dager." Vi har importert varer og bodd i Khan. En forretningsmann inviterte oss til kroen den kvelden. Så vi dro til huset hans, han spiste foran oss, han spiste og drakk, og så slapp han oss. Og i mørket, som en fremmed, mistet vi veien til Khan: vi tror, i henhold til din generøsitet, at du tilbringer natten i huset vårt. Hvis du gjør det, vil du belønne deg i himmelen.
+
+Step 4/284
+>> Norwegian - Serbian
+	Калифио Хурон Ара Расхид отишао је данас да види и чује какве су вести о Џафару и вилошару у Мисоре-у. Прерађивао се у гардеробу. И данас, док је прелазила град и са својим друговима, слушајући кућу ове жене и слушајући звуке музике, рекла је Џаферу: Идем у ову кућу. А да видимо ко даје концерт. Џафар је одговорио: "Ово је зависна странка и бојим се да их можемо злоупотребити." Али халиф је рекао: "Морамо ући, и надам се да планирате потез који ће омогућити затвореницима да дођу." Јапхар му одговори: "Чујем га и покоравам се. Куцао је на врата." Када је карта изашла и отворила врата, рекао му је: "Моја краљице, ми смо бизнисмен из Тиберије и налазимо се у Багдаду десет дана." Увезли смо робу и живели у Кхану. Бизнисмен нас је те вечери позвао у гостионицу. Тако смо отишли до његове куће, он је јео пред нама, јео и пио, а онда нас је пустио. А у мраку смо, као странац, изгубили пут ка Кану: верујемо, према вашој великодушности, да ноћ проведете у нашој кући. Ако то учините, наградићете се на небу.
+
+Step 5/284
+>> Serbian - Japanese
+	Califio Huron Ara Rashidは今日、JafarとMisoreのフォークに関するニュースを見て聞いた。それは楽屋に変身していた。今日でも、彼女は街を横断し、友達と一緒に、この女性の家を聞き、音楽の音を聞いていたので、ジャファーに言った：私はこの家に行くつもりです。そして、誰がコンサートを行うか見てみましょう。ジャファル氏は、「これは依存政党であり、虐待されるのではないかと恐れている」と述べた。しかし、ハリファ氏は、「私たちは入国する必要があります。囚人が来ることを許すような動きを計画していることを願っています。」 「私は彼の言うことを聞いて従います。彼はドアをノックしました。」チケットが出てきてドアを開けると、彼は彼に言った、「私の女王、私たちはティベリア出身の実業家で、バグダッドに10日間滞在しています。」私たちは商品を輸入し、カーンに住んでいました。その夜、ビジネスマンが私たちを旅館に招待しました。それで私たちは彼の家に行きました、彼は私たちの前で食べ、食べて飲んだ後、彼を私たちに行かせました。そして、暗闇の中で、見知らぬ人として、私たちはカンヌへの道を失いました。私たちはあなたの寛大さによって、私たちの家で夜を過ごすと信じています。そうすれば、天国で報われるでしょう。
+
+Step 6/284
+>> Japanese - Estonian
+	Califio Huron Ara Rashid kuulis ja kuulis täna Jafari ja Misore'i kahvlite kohta uudiseid. See muudeti riietusruumiks. Isegi täna ületas ta oma sõpradega linna, kuulas selle naise maja ja kuulas muusikat, nii et ta ütles Jafferile: ma lähen sellesse majja. Ja vaata, kes kontserdi teeb. "See on sõltuv partei ja me kardame, et seda kuritarvitatakse," ütles Jafar. Hr Khalifa ütles siiski: "Peame riiki sisenema. Loodan, et kavandame liikumist, mis võimaldab vangidel tulla." "Ma kuuletun tema sõnul. Ta koputas uksele. "Kui pilet tuli välja ja ukse avas, ütles ta talle:" Mu kuninganna, me oleme Tiberiasest pärit ärimees ja oleme Bagdadis olnud kümme päeva. Importisime kaupa ja elasime Khanis. Sel ööl kutsus ärimees meid kõrtsi. Nii et me läksime tema majja, ta sõi meie ees, sõi ja jõi, siis saatis ta meie juurde. Ja pimedas kaotasime võõrastena tee Cannesisse. Usume, et veedate oma heldemeelsuse läbi meie kodus öö. Teid premeeritakse taevas.
+
+Step 7/284
+>> Estonian - Irish
+	Chuala agus chuala Califio Huron Ara Rashid inniu faoi fhorcanna Jafar agus Misore. Athraíodh é go seomra feistis. Fiú sa lá inniu, thrasnaigh sé féin agus a chairde an chathair, d’éist siad le teach na mná sin, agus d’éist siad le ceol, mar sin dúirt sí le Jaffer, "Tá mé ag dul go dtí an teach seo." Agus féach cé a dhéanann an cheolchoirm. "Is páirtí cleithiúnach é agus is eagal linn go mbainfear mí-úsáid as," a dúirt Jafar. Dúirt an tUasal Khalifa, áfach: "Caithfimid dul isteach sa tír. Tá súil agam go bhfuil gluaiseacht á phleanáil againn a ligfidh do phríosúnaigh teacht." "Cloisim é á rá. Bhuail sé ar an doras." Nuair a tháinig an ticéad amach agus a d'oscail an doras, dúirt sé leis, "Mo bhanríon, is fear gnó muid as Tiberias agus bhíomar i mBagdad le deich lá. Mar sin chuamar go dtí a theach, d’ith sé os ár gcomhair, d’ith agus d’ól muid, ansin sheol sé chugainn. Agus sa dorchadas chaill muid ár mbealach go Cannes. Creidimid go gcaithfidh tú oíche do fhlaithiúlacht inár dteach.
+
+Step 8/284
+>> Irish - German
+	Califio Huron Ara Rashid hörte und hörte heute von Jafar und Misores Gabeln. Es wurde zu einem Ankleidezimmer umgebaut. Noch heute haben er und seine Freunde die Stadt durchquert, das Haus dieser Frau gehört und Musik gehört, also sagte sie zu Jaffer: "Ich gehe in dieses Haus. "" Und sehen Sie, wer das Konzert macht. "Es ist eine abhängige Partei und wir befürchten, dass sie missbraucht wird", sagte Jafar. Herr Khalifa sagte jedoch: "Wir müssen ins Land. Ich hoffe, wir planen eine Bewegung, die es Gefangenen ermöglicht, zu kommen." "Ich höre ihn sagen. Er klopfte an die Tür." Als das Ticket herauskam und die Tür öffnete, sagte er zu ihm: "Meine Königin, wir sind ein Geschäftsmann aus Tiberias und seit zehn Tagen in Bagdad. Also gingen wir zu seinem Haus, er aß bei uns denn wir haben gegessen und getrunken, dann ist er für uns gesegelt. Und im Dunkeln haben wir uns nach Cannes verirrt. Wir glauben, Sie müssen die Nacht Ihrer Großzügigkeit in unserem Haus verbringen.
+
+Step 9/284
+>> German - Slovak
+	Califio Huron Ara Rashid počula a dnes počula o vidličkách Jafar a Misore. Premení sa na šatňu. Dokonca aj dnes on a jeho priatelia kráčali mestom, počúvali dom tejto ženy a počúvali hudbu, a tak povedala Jafferovi: „Idem do tohto domu.“ „A uvidíme, kto robí koncert.“ Je to závislá strana. a obávame sa, že bude zneužité, “uviedol Jafar. Pán Khalifa však povedal:„ Musíme ísť do krajiny. Dúfam, že plánujeme hnutie, ktoré umožní väzňom prísť. “„ Počul som ho povedať. Zaklopal na dvere. „Keď vyšli lístky a otvorili dvere, povedal mu:„ Moja kráľovná, sme obchodník z Tiberias a boli sme v Bagdade desať dní. A tak sme išli do jeho domu, jedol s nami, pretože sme jedli a pili, potom pre nás plavil. A v tme sme sa stratili v Cannes. Veríme, že v našom dome musíte stráviť noc svojej štedrosti.
+
+Step 10/284
+>> Slovak - Chichewa
+	Kalifio Huron Ara Rashid adamva ndipo lero amva za mafoloko a Jafar ndi Misore. Zimasanduka chipinda chovala. Ngakhale lero iye ndi abwenzi ake anali kudutsa mzindawu, akumvetsera nyumba ya mayiyu ndikumvetsera nyimbo, ndipo adauza Jaffer, "Ndikupita kunyumba ino." "Ndipo tiwona amene akuchitaimbira." ndipo tikuopa kuti zichitilidwa nkhanza, ”adatero Jafar. Koma a Khalifa adati, "Tiyenera kupita kumudzi. Ndikukhulupirira kuti tikukonzekera gulu lomwe lingalole akaidi kubwera. "" Ndidamumva akunena. Adagogoda pakhomo. "Matikiti atatuluka ndikutsegula chitseko, anati kwa iye," Mfumukazi yanga, ndife amalonda ochokera ku Tiberiya, ndipo tinali ku Baghdad masiku khumi. Chifukwa chake tinapita kunyumba kwake, anadya nafe chifukwa tinadya ndi kumwa, natipangira ulendo. Ndipo mumdima tidasowa ku Cannes. Tikukhulupirira kuti m'nyumba mwathu mukuyenera kukhala usiku wopatsa wanu.
+
+Step 11/284
+>> Chichewa - Nepali
+	कालिफियो हरुन आरा रशीदले सुने र आज उनले जाफर र मिसोरको कांटाको बारेमा सुने। यो ड्रेसिंग कोठामा परिणत हुन्छ। आज पनि उनी र तिनका साथीहरू शहरको यात्रा गर्दै थिए, आइमाईको घर सुन्दै र संगीत सुन्दै, र जाफरलाई भने, "म यस घर जाँदैछु।" "र हामी कसले कल गर्दैछौं हेर्नेछौं।" र हामीलाई डर छ कि यसको दुरुपयोग हुनेछ, "जाफरले भने। तर खलिफाले भने, "हामीले गाउँ जानु पर्छ। मलाई विश्वास छ हामी एउटा समूह तयार गर्दैछौं जसले कैदीहरूलाई आउन दिनेछ।" १० दिनसम्म बगदाद हामी उसको घरमा गयौं, उनले हामीसँग खाए किनकि हामी खायौं र पियौं, हाम्रो यात्रा गर्यौं, र अन्धकारमा हामीले क्यान्स हरायौं, हामी आशा गर्दछौं कि तपाईंको घर तपाईंको दिने रात हो।
+
+Step 12/284
+>> Nepali - Zulu
+	UCalifio Huron Ara Rashid wezwa futhi namhlanje wezwa ngameva eJaffer naseGibhithe. Ijika ibe igumbi lokugqoka. Ngisho nanamuhla, yena nabangane bakhe bebeya edolobheni, belalele indlu yowesifazane belalele umculo, batshela uJaffer ukuthi, "Ngiya kule ndlu." "Futhi sizobona ukuthi ubani obizayo." Futhi sesaba ukuthi kuzohlukunyezwa, "kusho uJafar. Kepha uKlififa wathi," Kufanele siye edolobhaneni. Ngikholwa ukuthi silungiselela iqembu elizovumela iziboshwa ukuthi zize. "Izinsuku eziyisikhombisa eBaghdad, saya endlini yakhe, wadla nathi ngoba sidla futhi saphuza, sahamba, futhi ebumnyameni silahlekile imisele, siyethemba indlu yakho izoba ngeyakho ubusuku. Yebo.
+
+Step 13/284
+>> Zulu - Thai
+	แคลิฟอร์เนีย Huron Ara Rashid ได้ยินและวันนี้เขาได้ยินหนามใน Jaffer และอียิปต์ มันกลายเป็นห้องแต่งตัว แม้กระทั่งทุกวันนี้เขาและเพื่อน ๆ ของเขากำลังจะไปในเมืองกำลังฟังบ้านของผู้หญิงกำลังฟังเพลงบอกจาฟเฟอร์ว่า "ฉันจะไปบ้านนี้" "และเราจะเห็นว่าใครกำลังโทรมา" และเรากลัวว่ามันจะถูกใช้ในทางที่ผิด "Jafar กล่าว แต่ Klififa พูดว่า" เราควรไปที่หมู่บ้าน ฉันเชื่อว่าเรากำลังเตรียมงานปาร์ตี้ที่จะอนุญาตให้นักโทษมา "เจ็ดวันในแบกแดดเราไปที่บ้านของเขาเขากินกับเราเพราะเรากินและดื่มเราไปและในความมืดเราสูญเสียคลองเราหวังว่าบ้านของคุณจะเป็นของคุณคืนนี้ใช่
+
+Step 14/284
+>> Thai - Armenian
+	Կալիֆոռնիայի Հուրոն Արա Ռաշիդը լսեց, և այսօր նա լսել է փուշերը affաֆֆերում և Եգիպտոսում, այն դարձել է հանդերձարան: Նույնիսկ մինչ օրս նա և իր ընկերները գնում են քաղաք ՝ լսելով կնոջ տուն, լսում են երաժշտություն: «Ես կգնամ այս տուն»: «Եվ մենք կտեսնենք, թե ով է զանգահարում»: Եվ մենք վախենում ենք, որ այն չարաշահվելու է, - ասաց afաֆարը: - Բայց Կլիֆիֆան ասաց. "Մենք պետք է գնանք գյուղ: Ես հավատում եմ, որ մենք պատրաստում ենք մի երեկույթ, որը թույլ կտա գալ գերիներ: «Բաղդադում յոթ օր մենք գնում ենք նրա տուն: Նա մեզ հետ կերավ, քանի որ ուտում և խմում էր մեզ: Եվ մթության մեջ մենք ջրանցքը կորցրեցինք: Հուսով ենք, որ ձեր տունը կլինի այս գիշեր ձերն է: Այո:
+
+Step 15/284
+>> Armenian - Swedish
+	Kaliforniens Huron Ara Rashid lyssnade, och idag har hon hört törnen i aff affär och i Egypten har det blivit en garderob. Till och med denna dag åker han och hans vänner till stan och lyssnar på hans hustrus hus och lyssnar på musik. "Jag kommer till det här huset." "Och vi får se vem som ringer." Och vi är rädda för att det kommer att missbrukas, sade långt ifrån. "Men Clififa sa: "Vi måste åka till byn. Jag tror att vi förbereder en fest som låter fångarna komma." I sju dagar går vi till hans hus i Bagdad. Han åt med oss när han åt och drack med oss. Och i mörkret vi tappade kanalen, vi hoppas att ditt hem kommer att bli ditt i natt.
+
+Step 16/284
+>> Swedish - Mongolian
+	Калифорниа мужийн Хурон Ара Рашид сонсож, өнөөдөр тэр хайрын өргөс сонсогдов, Египтэд энэ нь шкаф болжээ. Өнөөдрийг хүртэл найз нөхөдтэйгээ хамт хот руу явж, эхнэрийнхээ гэрийг сонсож, хөгжим сонсдог. "Би энэ гэрт ирж байна." "Тэгээд бид хэн залгаж байгааг харах болно." Үүнийг доромжлохоос айж байна гэж үүнээс хол гэж хэлсэн. "Гэхдээ Клифифа 'Бид тосгон руу явах ёстой. Бид хоригдлуудыг ирэхэд нь зориулж үдэшлэгт бэлтгэж байгаа гэж бодож байна. "Бид долоо хоногийн турш Багдад дахь түүний гэрт очив. Тэр бидэнтэй хамт идэж, хамт идсэн юм. Харанхуйд бид суваг унагав, таны гэр орон болно гэж найдаж байна. өнөө орой таных байх.
+
+Step 17/284
+>> Mongolian - Latvian
+	Klausoties Huronu Ara Rašidu no Kalifornijas, šodien viņš dzirdēja mīlestības ērkšķu, un Ēģiptē tas kļuva par skapi. Līdz šai dienai viņš kopā ar draugiem dodas uz pilsētu, klausās savas sievas māju un klausās mūziku. "Es nāku uz šo māju." "Tad mēs redzēsim, kurš zvana." Viņš sacīja, ka baidās tikt apvainots. "Bet Kliffa teica:" Mums jāiet uz ciematu. Mēs domājam, ka mēs gatavojamies ballītei, kurā ierodas ieslodzītie. "Mēs nedēļu devāmies uz viņa māju Bagdādē. Viņš ēda kopā ar mums un ēda ar mums. Tumsā mēs nogāzām kanālu un ceram, ka tās būs jūsu mājas. esi tavs šovakar
+
+Step 18/284
+>> Latvian - Amharic
+	በዛሬው ጊዜ በካሊፎርኒያ የሚገኘውን ሁሮን አራራ ረሺርን ሲያዳምጥ የፍቅር መውጊያ እሾህ ሰማ ፣ እናም በግብፅ ውስጥ መጠጊያ ሆነ ፡፡ እስከዛሬ ድረስ ከጓደኞቹ ጋር ወደ ከተማ ይሄዳል ፣ የሚስቱን ቤት ያዳምጣል እንዲሁም ሙዚቃ ያዳምጣል ፡፡ እኔ ወደዚህ ቤት እየመጣሁ ነው ፡፡ "እንግዲያውስ ማን እንደሚደውል እናያለን ፡፡" ቅር ተሰኝቶኛል ሲል ተናግሯል ፡፡ ክሊፍ ግን 'ወደ መንደሩ መሄድ አለብን ፡፡ እስረኞች ወደሚገኙበት ፓርቲ እየተዘጋጀን ያለ ይመስለናል ፡፡ በባግዳድ ለአንድ ሳምንት ወደ ቤታችን ሄድን ፡፡ እሱ አብሮን በላ ፣ አብሮን በላ ፡፡ በጨለማ ውስጥ ቦይ አደረግን እና የእርስዎ ቤት ይሆናል ብለን ተስፋ አድርገናል ፡፡
+
+Step 19/284
+>> Amharic - Filipino
+	Narinig niya ang mga tinik ng pag-ibig habang nakikinig siya kay Hiro Arar Rishir, na nasa California ngayon, at siya ay naging kanlungan sa Egypt. Pumunta pa rin siya sa lungsod kasama ang kanyang mga kaibigan, nakikinig sa bahay ng kanyang asawa, at nakikinig sa musika. Uuwi na ako. "Pagkatapos ay makikita natin kung sino ang tumatawag." Sinabi niya na nabigo ako. Ngunit sinabi ni Cliff, 'Kailangan nating pumunta sa nayon. Sa palagay namin naghahanda kami para sa isang partido kung saan naroroon ang mga bilanggo. Umuwi kami sa Baghdad ng isang linggo. Kumain siya kasama namin, kumain kami. Gumawa kami ng isang kanal sa kadiliman at inaasahan na ito ay iyong tahanan.
+
+Step 20/284
+>> Filipino - Ukrainian
+	Він почув шипи кохання, слухаючи Хіро Арара Рішира, який зараз знаходиться в Каліфорнії, і він був притулком в Єгипті. Вона все ще їде в місто з друзями, слухає будинок чоловіка і слухає музику. Я йду додому. "Тоді ми побачимо, хто дзвонить". Він сказав, що я розчарований. Але Кліфф сказав: «Треба їхати в село. Ми думаємо, що готуємось до вечірки, на якій присутні ув'язнені. Ми їхали в Багдад на тиждень. Він їв з нами, ми їли. Ми створили канал у темряві і сподівались, що це ваш дім.
+
+Step 21/284
+>> Ukrainian - Maltese
+	Huwa sema 'l-ponot ta' l-imħabba li jisma 'lil Hiro Arar Rishir, li issa jinsab f'Kalifornja, u li hu kien kenn fl-Eġittu. Hija għadha tmur il-belt ma ’ħbieb, tisma’ d-dar ta ’żewġha u tisma’ l-mużika. Sejjer id-dar. "Imbagħad se naraw min qed jitlob." Huwa qal li kont diżappuntat. Imma Cliff qal: "Irridu mmorru fir-raħal. Aħna naħsbu li qed nippreparaw għal partit fejn il-priġunieri huma preżenti. Morna Bagdad għal ġimgħa. Huwa kiel magħna, kielu. Ħloqna kanal fid-dlam u ttamajna li kienet id-dar tiegħek.
+
+Step 22/284
+>> Maltese - English
+	He heard the tips of love listening to Hiro Arar Rishir, who is now in California, and that he had been a refuge in Egypt. She still goes around town with friends, listening to her husband's house and listening to music. I'm going home. "Then we will see who is calling." He said I was disappointed. But Cliff said: "We want to go to the village. We think we are preparing for a party where prisoners are present. We went to Baghdad for a week. He ate with us, ate. We created a canal in the dark and hoped it was your home.
+
+Step 23/284
+>> English - French
+	Il a entendu les conseils de l'amour en écoutant Hiro Arar Rishir, qui est maintenant en Californie, et qu'il avait été un refuge en Égypte. Elle parcourt toujours la ville avec des amis, écoutant la maison de son mari et écoutant de la musique. Je rentre à la maison. "Ensuite, nous verrons qui appelle." Il a dit que j'étais déçu. Mais Cliff a déclaré: "Nous voulons aller au village. Nous pensons que nous nous préparons pour une fête où les prisonniers sont présents. Nous sommes allés à Bagdad pendant une semaine. Il a mangé avec nous, a mangé. Nous avons créé un canal dans l'obscurité et espéré c'était ta maison.
+
+Step 24/284
+>> French - Malay
+	Dia mendengar nasihat cinta sambil mendengar Hiro Arar Rishir, yang kini berada di California, dan dia menjadi tempat perlindungan di Mesir. Dia sentiasa mengembara bandar dengan kawan-kawan, mendengar rumah suaminya dan mendengar muzik. Saya pulang ke rumah. "Kemudian kita akan melihat siapa yang memanggil." Dia berkata saya kecewa. Tetapi Cliff berkata, "Kami mahu pergi ke kampung ini, kami fikir kami sedang bersiap-siap untuk sebuah pesta di mana para tahanan hadir, kami pergi ke Baghdad selama seminggu, makan bersama kami, makan kami. dalam gelap dan berharap ia adalah rumah anda.
+
+Step 25/284
+>> Malay - Persian
+	او هنگام گوش دادن به هیرو آرار ریشیر که هم اکنون در کالیفرنیا است ، به توصیه های عشق گوش فرا داد و در مصر پناهنده شد. او به همراه دوستان به شهر رفت و آمد داشت ، به خانه شوهرش گوش می داد و به موسیقی گوش می داد. من خانه هستم "سپس خواهیم دید که چه کسی تماس می گیرد." گفت من ناامید شدم. اما کلیف گفت: "ما می خواهیم به این روستا برویم ، فکر می کنیم برای مهمانی آماده می شویم که زندانیان در آنجا بیایند ، یک هفته به بغداد می رویم ، با ما غذا می خوریم ، با ما غذا می خوریم. ،
+
+Step 26/284
+>> Persian - Vietnamese
+	Anh nghe lời khuyên trong khi nghe Hiro Arar Rishir, hiện đang ở California và trở thành người tị nạn ở Ai Cập. Cô đang đi du lịch đến thị trấn với bạn bè, nghe nhà chồng và nghe nhạc. Tôi đang ở nhà "Rồi chúng ta sẽ thấy ai đang gọi." Anh nói tôi thất vọng. Nhưng Cliff nói: "Chúng tôi muốn đến ngôi làng này, chúng tôi nghĩ rằng chúng tôi đã sẵn sàng cho một bữa tiệc nơi các tù nhân đến. Chúng tôi đến Baghdad trong một tuần, chúng tôi ăn, chúng tôi ăn.
+
+Step 27/284
+>> Vietnamese - Malagasy
+	Nihaino ny torohevitra izy rehefa nihaino an'i Hiro Arar Rishir, any California izao ary lasa mpitsoa-ponenana any Ejipta. Mandeha any amin'ny tanàna miaraka amin'ny namany izy, mihaino ny tranon'ny vadiny ary mihaino mozika. Eto an-trano aho "Dia hahita hoe iza no miantso." Nilaza izy fa diso fanantenana aho. Nefa hoy i Cliff: "Te-handeha ho any amin'ity tanàna ity izahay, heverinay fa vonona amin'ny fety ho avy tonga ny voafonja. Tonga ao Baghdad izahay herinandro, mihinana, misakafo.
+
+Step 28/284
+>> Malagasy - Catalan
+	Va escoltar assessorament quan va escoltar a Hiro Arar Rishir, ara a Califòrnia i com a refugiat a Egipte. Va al poble amb els seus amics, escolta la casa del seu marit i escolta música. Estic a casa "Després veurem qui truca". Va dir que estava decebut. Però Cliff va dir: "Volem anar a aquesta ciutat, pensem que els presos estan preparats per a la festa que ve. Venim a Bagdad una setmana, dinem, dinem.
+
+Step 29/284
+>> Catalan - Hebrew
+	הוא שמע עצות כששמע את הירו עראר רישיר, כיום בקליפורניה וכפליט במצרים. היא נוסעת לעיר עם חבריה, מאזינה לבית בעלה ומאזינה למוזיקה. אני בבית "ואז נראה למי מתקשר." הוא אמר שהוא מאוכזב. אבל קליף אמר, "אנחנו רוצים לנסוע לעיר הזאת, אנחנו חושבים שהאסירים מוכנים למסיבה הבאה. אנחנו באים לבגדאד לשבוע, אוכלים ארוחת צהריים, אוכלים ארוחת צהריים.
+
+Step 30/284
+>> Hebrew - Haitian Creole
+	Li te tande konsèy lè li te tande Hiro Arar Rishir, kounye a nan California ak kòm yon refijye nan peyi Lejip la. Li ale nan vil ak zanmi l ', koute kay mari l' la ak koute mizik. Mwen se lakay "ak Lè sa a, nou pral wè ki moun ki rele." Li te di ke li te wont. Men, Cliff te di, "Nou vle ale nan vil sa a. Nou panse ke prizonye yo pare pou pwochen fèt la. Nou vini nan Bagdad pou yon semèn, gen manje midi, gen manje midi.
+
+Step 31/284
+>> Haitian Creole - Icelandic
+	Hann heyrði ráð þegar hann frétti af Hiro Arar Rishir, nú í Kaliforníu og sem flóttamaður í Egyptalandi. Hún fer í bæinn með vinum sínum, hlustar á hús eiginmanns síns og hlustar á tónlist. Ég er heima "og þá sjáum við hver hringir." Hann sagðist vera vonsvikinn. En Cliff sagði: „Við viljum fara til þessarar borgar. Við teljum að fangarnir séu tilbúnir í næsta partý. Við komum til Bagdad í viku, borðum hádegismat, borðum hádegismat.
+
+Step 32/284
+>> Icelandic - Albanian
+	Ai dëgjoi këshilla kur dëgjoi për Hiro Arar Rishir, tani në Kaliforni dhe si refugjat në Egjipt. Ajo shkon në qytet me miqtë e saj, dëgjon shtëpinë e burrit të saj dhe dëgjon muzikë. Unë jam në shtëpi "dhe pastaj do të shohim se kush po telefonon". Ai tha se ishte i zhgënjyer. Por Cliff tha: "Ne duam të shkojmë në këtë qytet. Ne mendojmë se të burgosurit janë gati për partinë tjetër. Ne vijmë në Bagdad për një javë, kemi drekë, kemi drekë.
+
+Step 33/284
+>> Albanian - Greek
+	Ακούστηκε συμβουλή όταν άκουσε για τον Hiro Arar Rishir, τώρα στην Καλιφόρνια και ως πρόσφυγας στην Αίγυπτο. Πηγαίνει στην πόλη με τους φίλους της, ακούει το σπίτι του συζύγου της και ακούει μουσική. Είμαι στο σπίτι "και στη συνέχεια θα δούμε ποιος καλεί." Είπε ότι ήταν απογοητευμένος. Ο Cliff, όμως, είπε: "Θέλουμε να πάμε σε αυτή την πόλη, νομίζουμε ότι οι φυλακισμένοι είναι έτοιμοι για το επόμενο πάρτι, έρχονται στη Βαγδάτη μια εβδομάδα, έχουν μεσημεριανό γεύμα, έχουν γεύμα.
+
+Step 34/284
+>> Greek - Georgian
+	მან მოისმინა რჩევები, როდესაც შეიტყო ჰირო არარ რიშირის შესახებ, ახლა კალიფორნიაში და ეგვიპტეში ლტოლვილია. იგი მეგობრებთან ერთად ქალაქში მიდის, უსმენს ქმრის სახლს და უსმენს მუსიკას. მე სახლში ვარ "და შემდეგ ვნახავთ ვინ დარეკავს." მან თქვა, რომ იმედგაცრუებულია. ამასთან, კლიფმა თქვა: ”ჩვენ გვსურს ამ ქალაქში წასვლა, ჩვენ ვფიქრობთ, რომ პატიმრები მზად არიან შემდეგი პარტიისთვის, ერთი კვირით ჩამოდიან ბაღდადში, სადილზე, ლანჩზე.
+
+Step 35/284
+>> Georgian - Bulgarian
+	Чула съвет, когато научила за Хиро Арар Ришир, сега бежанец в Калифорния и Египет. Тя отива в града с приятелите си, слуша къщата на съпруга си и слуша музика. Вкъщи съм "и тогава ще видим кой се обажда". Той каза, че е разочарован. Въпреки това Клиф каза: „Обичаме да ходим в този град, смятаме, че затворниците са готови за следващото парти, пристигайки в Багдад за седмица, за обяд, за обяд.
+
+Step 36/284
+>> Bulgarian - Croatian
+	Čula je savjet kad je saznala za Hiro Arar Rishir, koji je sada izbjeglica u Kaliforniji i Egiptu. S prijateljima odlazi u grad, sluša kuću svoga muža i sluša glazbu. Kući sam "i tada ćemo vidjeti tko zove". Rekao je da je razočaran. Međutim, Cliff je rekao: „Mi volimo ići u ovaj grad, mislimo da su zatvorenici spremni za sljedeću zabavu, koja u Bagdad stiže za tjedan dana, za ručak, za ručak.
+
+Step 37/284
+>> Croatian - Czech
+	Slyšela radu, když se dozvěděla o Hiro Arar Rishir, který je nyní uprchlíkem v Kalifornii a Egyptě. S přáteli chodí do města, poslouchá dům jejího manžela a poslouchá hudbu. Jsem doma "a uvidíme, kdo volá." Řekl, že byl zklamaný. Cliff však řekl: „Rádi chodíme do tohoto města, myslíme si, že vězni jsou připraveni na příští párty, která dorazí do Bagdádu za týden, na oběd, na oběd.
+
+Step 38/284
+>> Czech - Burmese
+	ယခုကယ်လီဖိုးနီးယားနှင့်အီဂျစ်ဒုက္ခသည်များဖြစ်သော Hiro Arar Rishir အကြောင်းလေ့လာသောအခါအကြံဥာဏ်ကိုသူမကြားခဲ့ရသည်။ သူမသည်သူငယ်ချင်းများနှင့်အတူမြို့တော်သို့သွားသည်။ သူမ၏ခင်ပွန်း၏အိမ်နှင့်ဂီတကိုနားထောင်သည်။ ငါအိမ်ပြန်လာပြီ။ သူဟာစိတ်ပျက်မိကြောင်းပြောကြားခဲ့သည်။ သို့သော် Cliff က“ ကျနော်တို့ဒီမြို့ကိုသွားချင်ကြတာပါ။ အကျဉ်းသားတွေဟာလာမယ့်ပါတီအတွက်အဆင်သင့်ဖြစ်နေပြီလို့ထင်ပါတယ်၊ ဘာကဒ်ဒက်ကိုတစ်ပတ်အတွင်း၊ နေ့လယ်စာစားဖို့၊
+
+Step 39/284
+>> Burmese - Hindi
+	अब, जब उसने एक कैलिफोर्निया और मिस्र के शरणार्थी, हिरो अरार रिशिर के बारे में जाना, तो उसने सलाह सुनी। वह अपने दोस्तों के साथ राजधानी जाती है। वह अपने पति के घर और संगीत सुनती है। मैं घर आ गया हूं। उन्होंने कहा कि वह निराश हैं। लेकिन क्लिफ कहते हैं, “हम इस शहर में जाना चाहते हैं। मुझे लगता है कि कैदी अगली पार्टी के लिए तैयार हैं। एक सप्ताह के भीतर दोपहर का खाना खाने के लिए
+
+Step 40/284
+>> Hindi - Chinese (Simplified)
+	现在，当他得知加利福尼亚和埃及难民希罗·阿拉尔·里希尔（Hiro Arar Rishir）时，他听了这些建议。她和朋友们一起去首都。她听丈夫的房子和音乐。我回来了他说他很失望。但是克里夫说：“我们想去这座城市。我认为囚犯已准备好参加下一场聚会。一个星期内吃午餐
+
+Step 41/284
+>> Chinese (Simplified) - Hungarian
+	Most, amikor megtudja Hiro Arar Rishirről, egy kaliforniai és egyiptomi menekültről, meghallgatja ezeket a javaslatokat. A barátaival ment a fővárosba. Hallgatja a férje házát és a zenét. Visszajöttem és azt mondtam, hogy csalódott. De Cliff azt mondta: "Ide akarunk menni ebbe a városba. Azt hiszem, a foglyok készek menni a következő partira.
+
+Step 42/284
+>> Hungarian - Hausa
+	Yanzu, lokacin da ya sami labarin Hiro Arar Rishir, ɗan gudun hijira daga California da Misira, ya saurari waɗannan shawarwari. Ya tafi babban birnin tare da abokansa. Sauraren gidan mijinta da kida. Na dawo ya ce ya yi rashin nasara. Amma Cliff ya ce, "Muna son zuwa wannan birni. Ina tsammanin fursunonin a shirye suke don halartar bikin na gaba.
+
+Step 43/284
+>> Hausa - Luxembourgish
+	Elo, wann hien de Hiro Arar Rishir, e Flüchtling aus Kalifornien an Ägypten léiert, huet hien op dës Empfeelunge gelauschtert. Hien ass mat senge Frënn an d'Haaptstad gaang. Lauschtert dem Haus vum Mann an d'Musek. Ech sinn zréck komm a sot, hie wier gescheitert. Awer de Cliff huet gesot: "Mir wëllen an dës Stad goen. Ech mengen datt d'Prisonéier prett sinn fir den nächste Festival.
+
+Step 44/284
+>> Luxembourgish - Lithuanian
+	Dabar, mokydamasis apie Hiro Arar Rishir, Kalifornijos pabėgėlį iš Egipto, jis klausėsi tų rekomendacijų. Jis su draugais išvyko į sostinę. Klausykite vyro namų ir muzikos. Grįžau ir pasakiau, kad jam skauda. Bet Cliffas sakė: "Mes norime nuvykti į šį miestą. Manau, kad kaliniai yra pasirengę kitam festivaliui.
+
+Step 45/284
+>> Lithuanian - Spanish
+	Ahora, mientras conocía a Hiro Arar Rishir, un refugiado de California de Egipto, escuchó esas recomendaciones. Él y sus amigos fueron a la capital. Escucha la casa y la música de su esposo. Regresé y dije que estaba dolido. Pero Cliff dijo: "Queremos llegar a esta ciudad. Creo que los prisioneros están listos para el próximo festival.
+
+Step 46/284
+>> Spanish - Kazakh
+	Енді, Мысырдан шыққан Калифорниядан келген Хиро Арар Риширмен кездескенде, ол сол ұсыныстарды тыңдады. Ол достарымен бірге астанаға кетті. Күйеуіңіздің үйін және музыкасын тыңдаңыз. Мен қайтып келдім, мен ренжідім дедім. Бірақ Клифф: «Біз бұл қалаға түскіміз келеді. Меніңше, тұтқындар келесі фестивальге дайын.
+
+Step 47/284
+>> Kazakh - Turkish
+	Şimdi, Kaliforniya, Mısır'dan Hiro Arar Rishir ile tanıştığında, bu önerileri dinledi. Arkadaşlarıyla başkente gitti. Kocanızın evini ve müziğini dinleyin. Geri döndüm ve üzgün olduğumu söyledim. Ancak Cliff şöyle dedi: "Bu şehre gitmek istiyoruz. Bence mahkumlar bir sonraki festivale hazır.
+
+Step 48/284
+>> Turkish - Arabic
+	الآن ، عندما التقى هيرو عرار ريشير من مصر ، كاليفورنيا ، استمع إلى هذه الاقتراحات. ذهب إلى العاصمة مع أصدقائه. استمع إلى بيت زوجك وموسيقاه. عدت وقلت أنا آسف. لكن كليف قال: "نريد الذهاب إلى هذه المدينة. أعتقد أن السجناء جاهزون للمهرجان المقبل.
+
+Step 49/284
+>> Arabic - Urdu
+	اب ، جب وہ مصر ، کیلیفورنیا سے تعلق رکھنے والے ہیرو آرار ریشر سے ملے تو انہوں نے ان مشوروں کو سنا۔ وہ اپنے دوستوں کے ساتھ دارالحکومت گیا۔ اپنے شوہر کے گھر اور اس کی موسیقی سنیں۔ میں واپس آیا اور کہا مجھے افسوس ہے۔ لیکن کلف نے کہا: "ہم اس شہر جانا چاہتے ہیں۔ میرے خیال میں قیدی اگلے تہوار کے لئے تیار ہیں۔
+
+Step 50/284
+>> Urdu - Sinhala
+	දැන්, කැලිෆෝනියාවේ ඊජිප්තුවේ වීරයකු වන අරාර් රීචර් මුණගැසුණු විට ඔහුට මෙම යෝජනා ඇසුණි. ඔහු තම මිතුරන් සමඟ අගනුවරට ගියේය. ඔබේ සැමියාගේ නිවස සහ ඔහුගේ සංගීතයට සවන් දෙන්න. මම ආපහු ඇවිත් කිව්වා මට සමාවෙන්න. නමුත් ක්ලිෆ් පැවසුවේ “අපට මේ නගරයට යාමට අවශ්‍යයි. මම හිතන්නේ සිරකරුවන් ඊළඟ උත්සවයට සූදානම්.
+
+Step 51/284
+>> Sinhala - Bosnian
+	Čuo je ove prijedloge kad je u Kaliforniji sreo egipatskog heroja Arthura Reichera. S prijateljima je otišao u glavni grad. Slušajte kuću vašeg muža i njegovu muziku. Vratio sam se i rekao da mi je žao. Ali Cliff je rekao: „Želimo doći u ovaj grad. Mislim da su zatvorenici spremni za sljedeću ceremoniju.
+
+Step 52/284
+>> Bosnian - Russian
+	Он услышал эти предложения, когда встретил египетского героя Артура Райхера в Калифорнии. Он отправился в столицу со своими друзьями. Слушайте дом вашего мужа и его музыку. Я вернулся и сказал, что извините. Но Клифф сказал: «Мы хотим приехать в этот город. Я думаю, что заключенные готовы к следующей церемонии.
+
+Step 53/284
+>> Russian - Portuguese
+	Ele ouviu essas sugestões quando conheceu o herói egípcio Arthur Reicher na Califórnia. Ele foi para a capital com seus amigos. Ouça a casa do seu marido e a música dele. Voltei e pedi desculpas. Mas Cliff disse: “Queremos vir para esta cidade. Acho que os prisioneiros estão prontos para a próxima cerimônia.
+
+Step 54/284
+>> Portuguese - Samoan
+	Na ia faʻalogo i nei fautuaga ina ua ia feiloai ma le toa Amerika o Arthur Reicher i Kalefonia. Sa ia alu i le laumua ma ana uo. Faʻalogo i le fale o lau tane ma lana musika. Na ou toe foi atu ma faatoese. Ae na fai mai Cliff, "Matou te fia sau i lenei aai. Ou te manatu ua sauni pagota mo le isi sauniga.
+
+Step 55/284
+>> Samoan - Bengali
+	ক্যালিফোর্নিয়ায় আমেরিকান নায়ক আর্থার রেচারের সাথে দেখা করার সময় তিনি এই পরামর্শগুলি শুনেছিলেন। তিনি বন্ধুদের সাথে রাজধানীতে যান। আপনার স্বামীর বাড়ি এবং এর সংগীত শুনুন। আমি ফিরে এসে ক্ষমা চেয়ে নিলাম। তবে ক্লিফ বলেছিলেন, "আমরা এই শহরে আসতে চাই। আমার ধারণা বন্দীরা পরবর্তী অধিবেশনটির জন্য প্রস্তুত।
+
+Step 56/284
+>> Bengali - Italian
+	Ha sentito questi suggerimenti quando ha incontrato l'eroe americano Arthur Reacher in California. Va nella capitale con gli amici. Ascolta la casa di tuo marito e la sua musica. Sono tornato e mi sono scusato. Ma Cliff ha detto: "Vogliamo venire in questa città. Penso che i prigionieri siano pronti per la prossima sessione.
+
+Step 57/284
+>> Italian - Maori
+	I rongo ia i enei tohutohu i te wa i tutaki ai ia ki te toa Amerika a Arthur Reacher i California. Haere ki te whakapaipai ki o hoa. Whakarongo ki te whare o to tane me tana puoro. Ua ho‘i mai hoi au e ua taio atu. Engari i kii a Cliff, "Kei te hiahia taatau ki te haere mai ki tenei taone nui. Ki taku whakaaro kua rite nga herehere ki te huihuinga e whai ake nei.
+
+Step 58/284
+>> Maori - Indonesian
+	Dia mendengar tips ini ketika dia bertemu pahlawan Amerika Arthur Reacher di California. Hiasi dengan teman-teman Anda. Dengarkan rumah suamimu dengan musiknya. Saya juga kembali dan membacanya. Tetapi Cliff berkata, "Kami ingin datang ke kota besar ini. Saya pikir para tahanan siap untuk acara berikutnya.
+
+Step 59/284
+>> Indonesian - Kurdish
+	Wî van seriştan bihîst dema ku wî li California bi Arthur Reacher re hevdîtin kir. Meriv bi hevalên xwe re dixemilîne. Mala mêrê xwe bi muzîka wî guhdarî bikin. Ez jî vegeriyam û min ew xwend. Lê Cliff got, "Em dixwazin werin vî bajarî mezin. Ez difikirim ku girtî ji bo bûyera din amade ne.
+
+Step 60/284
+>> Kurdish - Macedonian
+	Тој ги слушна овие приказни кога го запозна Артур Рихер во Калифорнија. Мажот украсува со пријателите. Слушајте ја куќата на нејзиниот сопруг со неговата музика. И јас се вратив и го прочитав. Но, Клиф рече: „Ние сакаме да дојдеме во овој голем град. Мислам дека затворениците се подготвени за друг настан.
+
+Step 61/284
+>> Macedonian - Dutch
+	Hij hoorde deze verhalen toen hij Arthur Richter in Californië ontmoette. Man versiert met vrienden. Luister naar het huis van haar man met zijn muziek. En ik ging terug en las het. Maar Cliff zei: 'We willen naar deze grote stad komen. Ik denk dat de gevangenen klaar zijn voor een nieuwe gebeurtenis.
+
+Step 62/284
+>> Dutch - Swahili
+	Alisikia hadithi hizi wakati alipokutana na Arthur Richter huko California. Mtu hupamba na marafiki. Sikiza nyumba ya mumewe na muziki wake. Nami nikarudi na kukisoma. Lakini Cliff alisema, "Tunataka kuja katika mji huu mkubwa. Nadhani wafungwa wako tayari kwa hafla mpya.
+
+Step 63/284
+>> Swahili - Uzbek
+	U bu hikoyalarni Kaliforniyada Artur Rixter bilan uchrashganda eshitgan. Kimdir do'stlari bilan bezatadi. Erining uyi va musiqasini tinglang. Va men qaytib borib, uni o'qidim. Ammo Kliff: "Biz bu buyuk shaharga kelishni xohlaymiz. Menimcha, mahbuslar yangi holatlarga tayyor.
+
+Step 64/284
+>> Uzbek - Lao
+	ລາວໄດ້ຍິນເລື່ອງເຫລົ່ານີ້ເມື່ອລາວພົບກັບ Arthur Richter ໃນລັດ California. ມີຄົນແຕ່ງຕົວກັບ ໝູ່. ຟັງສຽງເພງແລະເຮືອນຂອງຜົວຂອງນາງ. ແລະຂ້ອຍໄດ້ກັບໄປອ່ານມັນອີກ. ແຕ່ Cliff ກ່າວວ່າ: "ພວກເຮົາຢາກມາເມືອງທີ່ຍິ່ງໃຫຍ່ນີ້. ຂ້ອຍຄິດວ່ານັກໂທດກຽມພ້ອມ ສຳ ລັບສະຖານະການ ໃໝ່.
+
+Step 65/284
+>> Lao - Slovenian
+	Te stvari je slišal, ko je v Kaliforniji srečal Arthurja Richterja. Naj se ljudje oblačijo s prijatelji. Poslušaj glasbo in dom svojega moža. In sem se vrnil in prebral. Toda Cliff je dejal: "Radi bi prišli v to veliko mesto. Mislim, da so zaporniki pripravljeni na novo situacijo.
+
+Step 66/284
+>> Slovenian - Chinese (Traditional)
+	當他在加利福尼亞遇到亞瑟·里希特時，他聽到了這些話。讓人們與朋友打扮。聽聽丈夫的音樂和家。然後我回去閱讀。但是克里夫說：“我們想來到這個大城市。我認為囚犯已經為新的情況做好了準備。
+
+Step 67/284
+>> Chinese (Traditional) - Romanian
+	A auzit aceste cuvinte când l-a cunoscut pe Arthur Richter în California. Faceți oamenii să se îmbrace cu prietenii. Ascultă muzica soțului și acasă. Apoi m-am întors să citesc. Dar Cliff a spus: "Vrem să venim în acest oraș mare. Cred că prizonierii sunt pregătiți pentru noua situație.
+
+Step 68/284
+>> Romanian - Danish
+	Han hørte disse ord, da han mødte Arthur Richter i Californien. Få folk til at klæde sig sammen med venner. Lyt til mandens musik og derhjemme. Så gik jeg tilbage til at læse. Men Cliff sagde: "Vi vil komme til denne store by. Jeg tror, at fangerne er klar til den nye situation.
+
+Step 69/284
+>> Danish - Shona
+	Akanzwa mazwi iwayo paakasangana naArthur Richter muCalifornia. Ita kuti vanhu vapfeke pamwe neshamwari. Teerera kumimhanzi yemurume uye kumba. Ipapo ndakadzokera kuverenga. Asi Cliff akati, "Tichauya kuguta iri rakanaka. Ini ndinofunga vasungwa vakagadzirira mamiriro matsva."
+
+Step 70/284
+>> Shona - Korean
+	그녀는 캘리포니아에서 Arthur Richter를 만났을 때 그 말을 들었습니다. 사람들이 친구들과 어울리도록하세요. 남자와 집의 음악을 듣습니다. 그런 다음 다시 책을 읽었습니다. 그러나 클리프는 "우리는이 아름다운 도시로 올 것이다. 나는 죄수들이 새로운 상황에 대비할 준비가 된 것 같다"고 말했다.
+
+Step 71/284
+>> Korean - Polish
+	Usłyszała to, kiedy poznała Arthura Richtera w Kalifornii. Pozwól ludziom spotykać się z przyjaciółmi. Mężczyzna słucha muzyki w domu. Potem znów czytam książkę. Ale Cliff powiedział: „Przyjedziemy do tego pięknego miasta. Myślę, że więźniowie są gotowi na nową sytuację”.
+
+Step 72/284
+>> Polish - Lithuanian
+	Ji tai išgirdo, kai Kalifornijoje sutiko Arthurą Richterį. Leiskite žmonėms atostogauti su draugais. Vyras namuose klausosi muzikos. Tada dar kartą perskaičiau knygą. Bet Cliffas sakė: „Mes atvyksime į šį gražų miestą. Manau, kaliniai yra pasirengę naujai situacijai “.
+
+Step 73/284
+>> Lithuanian - Spanish
+	Lo escuchó cuando conoció a Arthur Richter en California. Deja que las personas vayan de vacaciones con amigos. Un hombre en casa escuchando música. Entonces volví a leer el libro. Pero Cliff dijo: "Estamos llegando a esta hermosa ciudad. Creo que los prisioneros están listos para la nueva situación ".
+
+Step 74/284
+>> Spanish - Lao
+	ທ່ານໄດ້ຍິນມັນເມື່ອທ່ານພົບກັບ Arthur Richter ໃນລັດ California. ໃຫ້ຄົນໄປພັກຜ່ອນກັບ ໝູ່ ເພື່ອນ. ຜູ້ຊາຍຢູ່ເຮືອນຟັງເພັງ. ຫຼັງຈາກນັ້ນຂ້າພະເຈົ້າໄດ້ອ່ານປື້ມຄືນ. ແຕ່ Cliff ກ່າວວ່າ "ພວກເຮົາມາຮອດເມືອງທີ່ສວຍງາມນີ້. ຂ້ອຍຄິດວ່ານັກໂທດກຽມພ້ອມ ສຳ ລັບສະຖານະການ ໃໝ່".
+
+Step 75/284
+>> Lao - Bengali
+	ক্যালিফোর্নিয়ায় আর্থার রিখটারের সাথে দেখা করার সময় আপনি এটি শুনেছিলেন। বন্ধুদের সাথে hangout করতে কাউকে পান। বাড়িতে পুরুষরা গান শুনছেন। তারপরে আমি বইটি আবার পড়ি। তবে ক্লিফ বলেছেন, "আমরা এই সুন্দর শহরে এসেছি। আমি মনে করি বন্দীরা নতুন পরিস্থিতির জন্য প্রস্তুত।"
+
+Step 76/284
+>> Bengali - Japanese
+	私はカリフォルニアでアーサー・リヒターに会ったときにこれを聞いた。誰かと友達とたまり場を作ろう。家では男性が音楽を聴いています。それから私はその本をもう一度読みました。しかしクリフ氏は、「私たちはこの美しい街にやってきた。囚人たちは新しい状況に備えていると思う」と述べた。
+
+Step 77/284
+>> Japanese - Bosnian
+	To sam čuo kad sam u Kaliforniji upoznao Arthura Richtera. Napravite hangout sa nekim i prijateljima. Kod kuće muškarci slušaju muziku. Tada sam knjigu ponovo pročitao. Ali Cliff je rekao: „Došli smo u ovaj prekrasan grad. Mislim da se zatvorenici pripremaju za nove situacije."
+
+Step 78/284
+>> Bosnian - English
+	I heard that when I met Arthur Richter in California. Hang out with someone and friends. At home, men listen to music. Then I read the book again. But Cliff said: "We came to this beautiful city. I think inmates are preparing for new situations. "
+
+Step 79/284
+>> English - Czech
+	Slyšel jsem to, když jsem potkal Arthura Richtera v Kalifornii. Setkejte se s někým a přáteli. Doma muži poslouchají hudbu. Pak jsem knihu znovu četl. Cliff však řekl: „Přišli jsme do tohoto krásného města. Myslím, že se chovanci připravují na nové situace.“
+
+Step 80/284
+>> Czech - Hebrew
+	שמעתי את זה כשפגשתי את ארתור ריכטר בקליפורניה. הכירו מישהו וחברים. בבית גברים מאזינים למוזיקה. ואז קראתי את הספר שוב. אבל צוק אמר, "הגענו לעיר היפה הזו. אני חושב שהאסירים נערכים למצבים חדשים. "
+
+Step 81/284
+>> Hebrew - Samoan
+	Na ou faalogo i ai ina ua ou feiloai ma Arthur Richter i Kalefonia. Ia e iloa se tasi ma uo. I le fale, o loʻo faʻalogo tagata i musika. Ona ou toe faitau lea o le tusi. Ae na fai mai Cliff, "Ua matou o mai i lenei aai matagofie. Ou te manatu o loo sauni pagota mo ni tulaga fou."
+
+Step 82/284
+>> Samoan - Malay
+	Saya mendengarnya ketika saya bertemu dengan Arthur Richter di California. Kenali seseorang dan rakan-rakan. Di rumah, orang sedang mendengar muzik. Kemudian saya membaca buku itu lagi. Tetapi Cliff berkata, "Kami telah datang ke bandar yang indah ini, saya rasa tahanan sedang bersedia untuk situasi baru."
+
+Step 83/284
+>> Malay - Uzbek
+	Buni men Artur Rixter bilan Kaliforniyada tanishganimda eshitganman. Odamlar va do'stlar bilan tanishing. Uyda odamlar musiqa tinglashadi. Keyin men kitobni yana o'qidim. Ammo Cliff: "Biz bu go'zal shaharga keldik, menimcha, mahbuslar yangi vaziyatga tayyor".
+
+Step 84/284
+>> Uzbek - Hausa
+	Na ji wannan lokacin da na sadu da Arthur Richter a California. Sadu da mutane da abokai. A gida, mutane suna sauraron kiɗa. Sai na sake karanta littafin. Amma Cliff: "Mun zo wannan kyakkyawan birni. Ina tsammanin fursunonin suna shirye don sabon yanayi."
+
+Step 85/284
+>> Hausa - Chinese (Simplified)
+	当我在加利福尼亚遇到亚瑟·里希特时，我听到了这一消息。认识人和朋友。在家里，人们听音乐。然后我又读了这本书。但是克里夫：“我们来到了这座美丽的城市。我认为囚犯已经为新的环境做好了准备。”
+
+Step 86/284
+>> Chinese (Simplified) - Turkish
+	California'daki Arthur Richter ile tanıştığımda haberi duydum. İnsanlarla ve arkadaşlarla tanışın. Evde insanlar müzik dinliyor. Sonra kitabı tekrar okudum. Ama Cliff: "Bu güzel şehre geldik. Bence mahkumlar yeni bir ortama hazır."
+
+Step 87/284
+>> Turkish - Burmese
+	ကယ်လီဖိုးနီးယားမှာအာသာရစ်ချတာနဲ့တွေ့တဲ့အခါငါကြားခဲ့ရတယ်။ လူများနှင့်သူငယ်ချင်းများကိုတွေ့ဆုံပါ။ အိမ်တွင်လူတို့သည်ဂီတကိုနားထောင်ကြသည်။ နောက်စာအုပ်ကိုပြန်ဖတ်တယ်။ သို့သော် Cliff: "ကျနော်တို့ကဒီလှပတဲ့မြို့တော်ကိုလာပါပြီ။ အကျဉ်းသားတွေဟာပတ်ဝန်းကျင်အသစ်အတွက်အဆင်သင့်ဖြစ်နေပြီလို့ကျွန်တော်ထင်တယ်။ "
+
+Step 88/284
+>> Burmese - Chichewa
+	Nditakumana ndi Arthur ku California, ndinamva. Kumanani ndi anthu komanso anzanu. Kunyumba anthu amamvera nyimbo. Ndidawerenga buku lotsatira. Koma Cliff: "Tafika mumzinda wokongola uno. Ndikuganiza kuti akaidiwo ali okonzekera malo atsopano."
+
+Step 89/284
+>> Chichewa - Chinese (Traditional)
+	當我在加利福尼亞遇到亞瑟時，我聽到了。與人和朋友見面。人們在家聽音樂。我讀了下一本書。但是克里夫：“我們已經來到了這座美麗的城市。我認為囚犯已經準備好搬到新地方了。”
+
+Step 90/284
+>> Chinese (Traditional) - Nepali
+	जब मैले क्यालिफोर्नियामा आर्थरलाई भेटे, मैले यो सुने। व्यक्ति र साथीहरूलाई भेट्नुहोस्। मानिसहरू घरमा संगीत सुन्दछन्। मैले अर्को पुस्तक पढें। तर क्लिफ: "हामी यो सुन्दर शहरमा आएका छौं। मलाई लाग्छ कैदीहरू नयाँ ठाउँमा सर्न तयार छन्।"
+
+Step 91/284
+>> Nepali - Swedish
+	När jag träffade Arthur i Kalifornien hörde jag det. Möt människor och vänner. Folk lyssnar på musik hemma. Jag läste en annan bok. Men Cliff: "Vi har kommit till denna vackra stad. Jag tror att fångarna är redo att flytta till en ny plats."
+
+Step 92/284
+>> Swedish - Kurdish
+	Dema ku min bi Arthur re li Kalifornia nas kir, min ew bihîst. Hevdîtin mirov û hevalan. Mirov li malê muzîkê guhdarî dike. Min pirtûkek din xwend. Lê Cliff: "Em hatin vê bajarê bedew. Ez difikirim ku girtiyan amade ne ku biçin cîhekî nû."
+
+Step 93/284
+>> Kurdish - Haitian Creole
+	Lè mwen te rive konnen Arthur nan California, mwen tande l '. Rankontre moun ak zanmi. Moun koute mizik nan kay la. Mwen li yon lòt liv. Men, Cliff: "Nou te vini nan lavil sa a bèl. Mwen panse ke prizonye yo pare pou yo ale nan yon nouvo kote."
+
+Step 94/284
+>> Haitian Creole - Thai
+	เมื่อฉันรู้จักอาเธอร์ในแคลิฟอร์เนียฉันก็ได้ยินเขา พบปะผู้คนและเพื่อน คนฟังเพลงที่บ้าน ฉันอ่านหนังสืออีกเล่ม แต่หน้าผา: "เรามาถึงเมืองที่สวยงามแห่งนี้ฉันคิดว่านักโทษพร้อมที่จะไปยังสถานที่ใหม่"
+
+Step 95/284
+>> Thai - German
+	Als ich Arthur in Kalifornien kannte, hörte ich ihn. Treffen Sie Leute und Freunde Leute, die zu Hause Musik hören Ich las ein anderes Buch als die Klippe: "Wir sind in dieser schönen Stadt angekommen. Ich denke, die Gefangenen sind bereit, an einen neuen Ort zu gehen."
+
+Step 96/284
+>> German - Ukrainian
+	Коли я пізнав Артура в Каліфорнії, почув його. Знайомтесь з людьми та друзями Люди, які слухають музику вдома, я читаю книгу, відмінну від скелі: "Ми приїхали в це прекрасне місто. Я думаю, що в'язні готові їхати в нове місце".
+
+Step 97/284
+>> Ukrainian - Icelandic
+	Þegar ég hitti Arthur í Kaliforníu heyrði ég hann. Hittu fólk og vini Fólk sem hlustar á tónlist heima, ég las aðra bók en klettinn: "Við komum til þessarar fallegu borgar. Ég held að fangarnir séu tilbúnir að fara á nýjan stað."
+
+Step 98/284
+>> Icelandic - Georgian
+	როდესაც კალიფორნიაში არტურს შევხვდი, მისი მოსმენა გავიგე. შეხვდით ხალხს და მეგობრებს, რომლებიც სახლში მუსიკას უსმენენ. მე წავიკითხე კიდევ ერთი წიგნი, ვიდრე როკი: "ჩვენ მივდივართ ამ ლამაზ ქალაქში. ვფიქრობ, რომ პატიმრები მზად არიან გადავიდნენ ახალ ადგილზე."
+
+Step 99/284
+>> Georgian - Italian
+	Quando ho incontrato Arthur in California, ho sentito parlare di lui. Incontra persone e amici che ascoltano musica a casa. Ho letto un libro in più di Rock: "Andremo in questa bellissima città. Penso che i prigionieri siano pronti a trasferirsi in un nuovo posto."
+
+Step 100/284
+>> Italian - Portuguese
+	Quando conheci Arthur na Califórnia, ouvi falar dele. Conheça pessoas e amigos que ouvem música em casa. Li mais um livro do Rock: "Vamos a esta bela cidade. Acho que os prisioneiros estão prontos para se mudar para um novo lugar".
+
+Step 101/284
+>> Portuguese - Kazakh
+	Мен Артурмен Калифорнияда кездестім, ол туралы естідім. Үйде музыка тыңдайтын адамдармен және достармен танысыңыз. Мен тағы бір рок кітабын оқыдым: «Мына әсем қалаға барайық. Меніңше, тұтқындар жаңа жерге көшуге дайын».
+
+Step 102/284
+>> Kazakh - Arabic
+	قابلت آرثر في كاليفورنيا وسمعت عنه. قابل الناس والأصدقاء الذين يستمعون إلى الموسيقى في المنزل. قرأت كتاب روك آخر: "دعنا نذهب إلى هذه المدينة الجميلة. أعتقد أن السجناء مستعدون للانتقال إلى مكان جديد ".
+
+Step 103/284
+>> Arabic - French
+	J'ai rencontré Arthur en Californie et j'ai entendu parler de lui. Rencontrez des gens et des amis qui écoutent de la musique à la maison. J'ai lu un autre livre de rock: "Allons dans cette belle ville. Je pense que les prisonniers sont prêts à déménager dans un nouvel endroit."
+
+Step 104/284
+>> French - Persian
+	من با آرتور در کالیفرنیا آشنا شدم و از او شنیدم. با افراد و دوستانی که به موسیقی گوش می دهند ملاقات کنید. کتاب سنگ دیگری را خواندم: "بیایید به این شهر زیبا برویم. فکر می کنم زندانیان آماده انتقال به مکانی جدید هستند."
+
+Step 105/284
+>> Persian - Greek
+	Συναντήθηκα και άκουσα από τον Άρθουρ στην Καλιφόρνια. Γνωρίστε ανθρώπους και φίλους που ακούν μουσική. Διάβασα ένα άλλο πέτρινο βιβλίο: "Ας πάμε σε αυτή την όμορφη πόλη. Νομίζω ότι οι φυλακισμένοι είναι έτοιμοι να μετακομίσουν σε ένα νέο μέρος".
+
+Step 106/284
+>> Greek - Vietnamese
+	Tôi đã gặp và nghe từ Arthur ở California. Gặp gỡ những người và bạn bè nghe nhạc. Tôi đọc một cuốn sách đá khác: "Chúng ta hãy đến thành phố xinh đẹp này. Tôi nghĩ rằng các tù nhân đã sẵn sàng để chuyển đến một nơi mới."
+
+Step 107/284
+>> Vietnamese - Zulu
+	Ngiye ngahlangana futhi ngezwa ku-Arthur eCalifornia. Hlangana nabantu nabangane ulalele umculo. Ngifunde enye incwadi yedwala: "Asiye kuleli dolobha elihle. Ngicabanga ukuthi iziboshwa sezikulungele ukuthuthela endaweni entsha."
+
+Step 108/284
+>> Zulu - Hungarian
+	Találkoztam és hallottam Arthur-tól Kaliforniában. Találkozz emberekkel és barátokkal, és hallgasson zenét. Elolvastam egy másik sziklakönyvet: "Menjünk ebbe a gyönyörű városba. Azt hiszem, a foglyok készek új helyre költözni."
+
+Step 109/284
+>> Hungarian - Albanian
+	Jam takuar dhe dëgjuar nga Arthur në Kaliforni. Takoni njerëz dhe miq dhe dëgjoni muzikë. Kam lexuar një libër tjetër rock, "Le të shkojmë në këtë qytet të bukur. Unë mendoj se të burgosurit janë të gatshëm të transferohen në një vend të ri."
+
+Step 110/284
+>> Albanian - Bulgarian
+	Срещнах се и чух от Артур в Калифорния. Запознайте се с хора и приятели и слушайте музика. Прочетох друга рок книга: "Да отидем в този красив град. Мисля, че затворниците са готови да се преместят на ново място."
+
+Step 111/284
+>> Bulgarian - Serbian
+	Упознао сам и чуо с Артхуром у Калифорнији. Упознајте људе и пријатеље и слушајте музику. Прочитао сам још једну роцк књигу: "Идемо у овај прелепи град. Мислим да су затвореници спремни да се преселе на ново место."
+
+Step 112/284
+>> Serbian - Hindi
+	मैं कैलिफोर्निया में आर्थर से मिला और सुना। लोगों और दोस्तों से मिलें और संगीत सुनें। मैंने एक और रॉक किताब पढ़ी: "चलो इस खूबसूरत शहर में चलते हैं। मुझे लगता है कि कैदी एक नई जगह पर जाने के लिए तैयार हैं।"
+
+Step 113/284
+>> Hindi - Danish
+	Jeg mødte og hørte Arthur i Californien. Mød mennesker og venner og lyt til musik. Jeg læste en anden rockebog: "Lad os tage til denne smukke by. Jeg tror, at fangerne er klar til at flytte til et nyt sted."
+
+Step 114/284
+>> Danish - Amharic
+	በካሊፎርኒያ ውስጥ አርተርን አገኘሁ እና ሰማሁ ፡፡ ሰዎችን እና ጓደኞችዎን ያግኙ እና ሙዚቃ ያዳምጡ። ሌላ የድንጋይ መጽሐፍ አነበብኩ: - “ወደዚች ውብ ከተማ እንሂድ ፡፡ እስረኞቹ ወደ አዲስ ስፍራ ለመሄድ ዝግጁ ናቸው ብዬ አስባለሁ ፡፡
+
+Step 115/284
+>> Amharic - Shona
+	Ndakasangana ndikanzwa Arthur kuCalifornia. Tsvaga vanhu neshamwari uye teerera kumimhanzi. Ndakaverenga rimwe bhuku, "Hendei kuguta iri rakanaka." Ndinofunga vasungwa vakagadzirira kutamira kunzvimbo nyowani.
+
+Step 116/284
+>> Shona - Polish
+	Spotkałem się i usłyszałem Arthura w Kalifornii. Znajdź ludzi i przyjaciół i słuchaj muzyki. Przeczytałem inną książkę: „Chodźmy do tego pięknego miasta”. Myślę, że więźniowie są gotowi przenieść się w inne miejsce.
+
+Step 117/284
+>> Polish - Slovak
+	Stretol som sa a počul som Arthura v Kalifornii. Nájdite ľudí a priateľov a počúvajte hudbu. Čítal som ďalšiu knihu: „Poďme do tohto krásneho mesta.“ Myslím, že väzni sú pripravení sa presťahovať na iné miesto.
+
+Step 118/284
+>> Slovak - Irish
+	Bhuail mé agus chuala mé Arthur i California. Aimsigh daoine agus cairde agus éist le ceol. Léigh mé leabhar eile: “Téimid go dtí an chathair álainn seo.” Sílim go bhfuil na príosúnaigh réidh le bogadh go háit eile.
+
+Step 119/284
+>> Irish - Slovenian
+	Arthurja sem spoznal in slišal v Kaliforniji. Poiščite ljudi in prijatelje in poslušajte glasbo. Prebral sem še eno knjigo: "Pojdimo v to lepo mesto." Mislim, da so se zaporniki pripravljeni preseliti drugam.
+
+Step 120/284
+>> Slovenian - Russian
+	Я встретил и услышал Артура в Калифорнии. Найдите людей и друзей и слушайте музыку. Я прочитал другую книгу: «Пойдем в этот прекрасный город». Я думаю, что заключенные готовы переехать в другое место.
+
+Step 121/284
+>> Russian - Armenian
+	Ես հանդիպեցի և լսեցի Արթուրին Կալիֆոռնիայում: Գտեք մարդկանց և ընկերներին և լսեք երաժշտություն: Կարդացի ևս մեկ գիրք ՝ «Եկեք գնանք այս գեղեցիկ քաղաքը»: Կարծում եմ, որ բանտարկյալները պատրաստ են տեղափոխվել այլ վայր:
+
+Step 122/284
+>> Armenian - Finnish
+	Tapasin ja kuuntelin Arthuria Kaliforniassa. Löydä ihmisiä ja ystäviä ja kuuntele musiikkia. Luin toisen kirjan "Mennään tähän kauniiseen kaupunkiin". Mielestäni vangit ovat valmiita muuttamaan jonnekin.
+
+Step 123/284
+>> Finnish - Sinhala
+	මම කැලිෆෝනියාවේ ආතර්ව මුණගැසී සවන් දුන්නා. පුද්ගලයින් සහ මිතුරන් සොයාගෙන සංගීතයට සවන් දෙන්න. මම තවත් පොතක් කියෙව්වා, "අපි මේ සුන්දර නගරයට යමු." මම හිතන්නේ සිරකරුවන් කොහේ හරි යන්න සූදානම්.
+
+Step 124/284
+>> Sinhala - Romanian
+	L-am cunoscut pe Arthur în California și am ascultat. Găsiți oameni și prieteni și ascultați muzică. Am citit o altă carte, „Hai să mergem în acest oraș frumos”. Cred că prizonierii sunt gata să plece undeva.
+
+Step 125/284
+>> Romanian - Malagasy
+	Nihaona tamin'i Arthur tany Kalifornia aho ary nihaino. Mitadiava olona sy namana ary henoy ny mozika. Namaky boky iray hafa aho, "Andao isika hankany amin'ity tanàna mahafinaritra ity." Heveriko fa vonona handeha amin'ny toerana sasany ireo voafonja.
+
+Step 126/284
+>> Malagasy - Luxembourgish
+	Ech hunn den Arthur a Kalifornien begéint an hunn nolauschtert. Fannt Leit a Frënn a lauschtert Musek. Ech liesen en anert Buch "Loosst eis an dës schéi Stad goen." Ech denken datt d'Prisonéier prett iergendwou ze goen.
+
+Step 127/284
+>> Luxembourgish - Dutch
+	Ik ontmoette Arthur in Californië en luisterde. Vind mensen en vrienden en luister naar muziek. Ik las nog een boek "Laten we naar deze prachtige stad gaan." Ik denk dat de gevangenen klaar zijn om ergens heen te gaan.
+
+Step 128/284
+>> Dutch - Maori
+	I tutaki ahau ki a Arthur i California, a ka whakarongo. Rapua nga taangata me nga hoa ka whakarongo ki te puoro. Kua panuihia e au tetahi atu pukapuka "Tatou ka haere ki tenei taone ataahua." Ki taku whakaaro kua rite nga herehere ki te haere ki tetahi wahi.
+
+Step 129/284
+>> Maori - Mongolian
+	Би Калифорния дахь Артуртай уулзаж, сонссон. Найз нөхөд, найз нөхөд хайж олох, хөгжим сонсох. Би "Энэ үзэсгэлэнтэй хот руу явцгаая" гэсэн өөр нэг номыг уншсан. Хоригдлууд хаа нэг газар очиход бэлэн байна гэж би бодож байна.
+
+Step 130/284
+>> Mongolian - Urdu
+	میں کیلیفورنیا میں آرتھر سے ملا اور سنا۔ دوست ڈھونڈیں ، دوست بنائیں ، موسیقی سنیں۔ میں نے ایک اور کتاب پڑھی ، "آئیے اس خوبصورت شہر میں جائیں۔" میرے خیال میں قیدی کہیں جانے کو تیار ہیں۔
+
+Step 131/284
+>> Urdu - Latvian
+	Es satiku un dzirdēju par Artūru Kalifornijā. Atrodiet draugus, draudzējieties, klausieties mūziku. Es lasīju citu grāmatu “Dosimies uz šo skaisto pilsētu”. Es domāju, ka ieslodzītie ir gatavi kaut kur doties.
+
+Step 132/284
+>> Latvian - Maltese
+	Iltqajt u smajt dwar Arthur f'Kalifornja. Sib ħbieb, tagħmel ħbieb, tisma 'l-mużika. Qrajt ktieb ieħor, "Ejja mmorru f'din il-belt sabiħa." Naħseb li l-priġunieri huma lesti biex imorru x'imkien.
+
+Step 133/284
+>> Maltese - Korean
+	캘리포니아의 아서에 대해 알게되었습니다. 친구를 찾고, 친구를 사귀고, 음악을 듣습니다. 또 다른 책을 읽었습니다. "이 아름다운 도시로 가자." 죄수들이 어딘가로 갈 준비가되어 있다고 생각합니다.
+
+Step 134/284
+>> Korean - Macedonian
+	Дознав за Артур во Калифорнија. Најдете пријатели, дружете се и слушајте музика. Читав друга книга. „Ајде да одиме во овој прекрасен град“. Мислам дека затворениците се подготвени да одат некаде.
+
+Step 135/284
+>> Macedonian - Indonesian
+	Saya mengetahui tentang Arthur di California. Berteman, bergaul, dan mendengarkan musik. Saya sedang membaca buku lain. "Ayo pergi ke kota yang indah ini." Saya pikir para tahanan siap untuk pergi ke suatu tempat.
+
+Step 136/284
+>> Indonesian - Estonian
+	Sain teada Arthuri kohta Californias. Saate sõpru, hangouti ja muusikat kuulata. Ma loen veel ühte raamatut. "Lähme sellesse kaunisse linna." Ma arvan, et vangid on valmis kuhugi minema.
+
+Step 137/284
+>> Estonian - Filipino
+	Nalaman ko ang tungkol kay Arthur sa California. Makinig sa mga kaibigan, hangout, at musika. Magbasa ako ng ibang libro. "Pumunta tayo sa magandang lungsod na ito." Sa palagay ko ang mga bilanggo ay handa nang pumunta sa kung saan.
+
+Step 138/284
+>> Filipino - Pashto
+	ما په کالیفورنیا کې د ارتور په اړه وموند. ملګرو ، ځړونو ، او میوزیک ته غوږ شئ. زه به یو بل کتاب ولولم. "راځئ چې دې ښکلي ښار ته لاړ شو." زما په اند زندانیان چمتو دي چیرته ولاړ شي.
+
+Step 139/284
+>> Pashto - Catalan
+	Vaig conèixer Arthur sobre Califòrnia. Escolteu amics, bars i música. Llegiré un altre llibre. "Anem a aquesta bonica ciutat." Crec que els presos estan preparats per anar-hi.
+
+Step 140/284
+>> Catalan - Swahili
+	Nilikutana na Arthur kuhusu California. Sikiza marafiki, baa na muziki. Nitasoma kitabu kingine. "Twende mji huu mzuri." Nadhani wafungwa wako tayari kwenda huko.
+
+Step 141/284
+>> Swahili - Croatian
+	Upoznao sam Arthura u Kaliforniji. Slušajte prijatelje, barove i glazbu. Pročitat ću još jednu knjigu. "Idemo u ovaj prekrasan grad." Mislim da su zatvorenici spremni tamo ići.
+
+Step 142/284
+>> Croatian - Norwegian
+	Jeg møtte Arthur i California. Lytt til venner, barer og musikk. Jeg skal lese en annen bok. "La oss dra til denne vakre byen." Jeg tror fangene er klare til å dra dit.
+
+Step 143/284
+>> Norwegian - Croatian
+	Upoznao sam Arthura u Kaliforniji. Slušajte prijatelje, barove i glazbu. Pročitat ću još jednu knjigu. "Idemo u ovaj prekrasan grad." Mislim da su zatvorenici spremni tamo ići.
+
+Step 144/284
+>> Croatian - Swahili
+	Nilikutana na Arthur huko California. Sikiza marafiki, baa na muziki. Nitasoma kitabu kingine. "Twende mji huu mzuri." Nadhani wafungwa wako tayari kwenda huko.
+
+Step 145/284
+>> Swahili - Catalan
+	Vaig conèixer Arthur a Califòrnia. Escolteu amics, bars i música. Llegiré un altre llibre. "Anem a aquesta bonica ciutat." Crec que els presos estan preparats per anar-hi.
+
+Step 146/284
+>> Catalan - Pashto
+	ما په کالیفورنیا کې د ارتور سره ولیدل. ملګرو ، بارونو او میوزیک ته غوږ شئ. زه به یو بل کتاب ولولم. "راځئ چې دې ښکلي ښار ته لاړ شو." زما په اند زندانیان چمتو دي چې هلته لاړشي.
+
+Step 147/284
+>> Pashto - Filipino
+	Nakilala ko si Arthur sa California. Makinig sa mga kaibigan, bar at musika. Magbasa ako ng ibang libro. "Pumunta tayo sa magandang lungsod na ito." Sa palagay ko ay handa na ang mga bilanggo.
+
+Step 148/284
+>> Filipino - Estonian
+	Kohtusin Arthuriga Californias. Kuulake sõpru, baare ja muusikat. Ma loen veel ühte raamatut. "Lähme sellesse kaunisse linna." Ma arvan, et vangid on valmis.
+
+Step 149/284
+>> Estonian - Indonesian
+	Saya bertemu Arthur di California. Dengarkan teman, bar, dan musik. Saya akan membaca buku lain. "Ayo pergi ke kota yang indah ini." Saya pikir para tahanan sudah siap.
+
+Step 150/284
+>> Indonesian - Macedonian
+	Го запознав Артур во Калифорнија. Слушајте пријатели, барови и музика. Willе прочитам друга книга. „Ајде да одиме во овој прекрасен град“. Мислам дека затворениците се подготвени.
+
+Step 151/284
+>> Macedonian - Korean
+	캘리포니아에서 Arthur를 만났습니다. 친구, 바 및 음악을 듣습니다. 다른 책을 읽습니다. "이 아름다운 도시로 가자." 죄수들이 준비된 것 같습니다.
+
+Step 152/284
+>> Korean - Maltese
+	Iltqajt ma 'Arthur f'Kalifornja. Isma 'ħbieb, bars u mużika. Aqra ktieb ieħor. "Ejja mmorru f'din il-belt sabiħa." Naħseb li l-priġunieri huma lesti.
+
+Step 153/284
+>> Maltese - Latvian
+	Es satiku Artūru Kalifornijā. Klausieties draugus, bārus un mūziku. Lasīt citu grāmatu. "Dosimies uz šo skaisto pilsētu." Es domāju, ka ieslodzītie ir gatavi.
+
+Step 154/284
+>> Latvian - Urdu
+	میں کیلیفورنیا میں آرتھر سے ملا۔ دوستوں ، باروں اور موسیقی کو سنیں۔ ایک اور کتاب پڑھیں۔ "چلیں اس خوبصورت شہر میں۔" میرے خیال میں قیدی تیار ہیں۔
+
+Step 155/284
+>> Urdu - Mongolian
+	Би Артуртай Калифорнид уулзсан. Найз нөхөд, баар, хөгжим сонс. Өөр ном уншина уу. "Энэ сайхан хот руу явцгаая." Хоригдлууд бэлэн болсон гэж бодож байна.
+
+Step 156/284
+>> Mongolian - Maori
+	I tutaki ahau ki Arthur i California. Whakarongo ki nga hoa, pa me nga puoro. Panuitia tetahi atu pukapuka. "Me haere tatou ki tenei taone ataahua." Ki taku whakaaro kua rite nga herehere herehere.
+
+Step 157/284
+>> Maori - Dutch
+	Ik ontmoette Arthur in Californië. Luister naar vrienden, fans en muziek. Lees nog een boek. 'We moeten naar deze prachtige stad gaan.' Ik denk dat de gevangenen er klaar voor zijn.
+
+Step 158/284
+>> Dutch - Luxembourgish
+	Ech hunn den Arthur a Kalifornien begéint. Lauschtert nei Frënn, Fans a Musek. Liest en anert Buch. "Mir mussen an dës schéi Stad goen." Ech mengen datt d'Prisonéier prett sinn.
+
+Step 159/284
+>> Luxembourgish - Malagasy
+	Nihaona tamin'i Arthur tany Kalifornia aho. Mihainoa namana, mpankafy ary mozika vaovao. Mamaky boky hafa. "Tsy maintsy mandeha amin'ity tanàna mahafinaritra ity izahay." Heveriko fa vonona ny gadra.
+
+Step 160/284
+>> Malagasy - Romanian
+	L-am cunoscut pe Arthur în California. Ascultă prieteni noi, fani și muzică. Citiți o altă carte. „Trebuie să mergem în acest oraș minunat.” Cred că prizonierii sunt gata.
+
+Step 161/284
+>> Romanian - Sinhala
+	මට ආතර්ව කැලිෆෝනියාවේදී හමු විය. නව මිතුරන්, රසිකයන් සහ සංගීතයට සවන් දෙන්න. තවත් පොතක් කියවන්න. "අපි මේ අපූරු නගරයට යා යුතුයි." මම හිතන්නේ සිරකරුවන් සූදානම්.
+
+Step 162/284
+>> Sinhala - Finnish
+	Tapasin Arthurin Kaliforniassa. Kuuntele uusia ystäviä, faneja ja musiikkia. Lue toinen kirja. "Meidän on muutettava tähän upeaan kaupunkiin." Mielestäni vangit ovat valmiita.
+
+Step 163/284
+>> Finnish - Armenian
+	Ես հանդիպեցի Արթուրին Կալիֆոռնիայում: Լսեք նոր ընկերներ, երկրպագուներ և երաժշտություն: Կարդացեք մեկ այլ գիրք: «Մենք պետք է տեղափոխվենք այս հիանալի քաղաք»: Կարծում եմ, որ բանտարկյալները պատրաստ են:
+
+Step 164/284
+>> Armenian - Russian
+	Я встретил Артура в Калифорнии. Слушайте новых друзей, поклонников и музыку. Прочитайте другую книгу. «Мы должны переехать в этот замечательный город». Я думаю, что заключенные готовы.
+
+Step 165/284
+>> Russian - Slovenian
+	Arthurja sem spoznal v Kaliforniji. Poslušajte nove prijatelje, oboževalce in glasbo. Preberi še eno knjigo. "Moramo se preseliti v to čudovito mesto." Mislim, da so zaporniki pripravljeni.
+
+Step 166/284
+>> Slovenian - Irish
+	Bhuail mé le Arthur i California. Éist le cairde, lucht leanúna agus ceol nua. Léigh leabhar eile. "Caithfimid bogadh go dtí an chathair álainn seo." Sílim go bhfuil na príosúnaigh réidh.
+
+Step 167/284
+>> Irish - Slovak
+	V Kalifornii som sa stretol s Arthurom. Počúvajte priateľov, fanúšikov a novú hudbu. Prečítajte si ďalšiu knihu. "Musíme sa presťahovať do tohto krásneho mesta." Myslím, že väzni sú pripravení.
+
+Step 168/284
+>> Slovak - Polish
+	Arthura poznałem w Kalifornii. Słuchaj przyjaciół, fanów i nowej muzyki. Przeczytaj następną książkę. „Musimy przeprowadzić się do tego pięknego miasta”. Myślę, że więźniowie są gotowi.
+
+Step 169/284
+>> Polish - Shona
+	Ndakasangana naArthur kuCalifornia. Teerera shamwari, vateveri uye mimhanzi mitsva. Verenga bhuku rinotevera. "Tinofanirwa kuenda kuguta iri rakanaka." Ndinofunga vasungwa vakagadzirira.
+
+Step 170/284
+>> Shona - Amharic
+	በካሊፎርኒያ ከአርተር ጋር ተገናኘሁ ፡፡ ጓደኞች ፣ አድናቂዎች እና አዲስ ሙዚቃ ያዳምጡ ፡፡ የሚቀጥለውን መጽሐፍ ያንብቡ። ወደዚህች ቆንጆ ከተማ መሄድ አለብን ፡፡ እስረኞች ዝግጁ ናቸው ብዬ አስባለሁ ፡፡
+
+Step 171/284
+>> Amharic - Danish
+	Jeg mødte Arthur i Californien. Lyt til venner, fans og ny musik. Læs den næste bog. Vi skal til denne smukke by. Jeg tror, at fangerne er klar.
+
+Step 172/284
+>> Danish - Hindi
+	मैं कैलिफोर्निया में आर्थर से मिला। दोस्तों, प्रशंसकों और नए संगीत को सुनें। अगली किताब पढ़िए। हम इस खूबसूरत शहर में जा रहे हैं। मुझे लगता है कि कैदी तैयार हैं।
+
+Step 173/284
+>> Hindi - Serbian
+	Упознао сам Артхура у Калифорнији. Слушајте пријатеље, фанове и нову музику. Прочитајте следећу књигу. Идемо у овај прелепи град. Мислим да су затвореници спремни.
+
+Step 174/284
+>> Serbian - Bulgarian
+	Срещнах Артур в Калифорния. Слушайте приятели, фенове и нова музика. Прочетете следващата книга. Да отидем в този красив град. Мисля, че затворниците са готови.
+
+Step 175/284
+>> Bulgarian - Albanian
+	Takova Arturin në Kaliforni. Dëgjoni miq, fansa dhe muzikë të re. Lexoni librin tjetër. Le të shkojmë në këtë qytet të bukur. Unë mendoj se të burgosurit janë gati.
+
+Step 176/284
+>> Albanian - Hungarian
+	Találkoztam Arthurral Kaliforniában. Hallgassa meg új barátait, rajongóit és új zenét. Olvassa el a következő könyvet. Menjünk ebbe a gyönyörű városba. Azt hiszem, a foglyok készen állnak.
+
+Step 177/284
+>> Hungarian - Zulu
+	Ngatholana no-Arthur eCalifornia. Lalela abangane bakho abasha, abalandeli nomculo omusha. Funda incwadi elandelayo. Asiye kulomuzi omuhle. Ngicabanga ukuthi iziboshwa zikulungele.
+
+Step 178/284
+>> Zulu - Vietnamese
+	Tôi đã gặp Arthur ở California. Nghe bạn bè mới, người theo dõi và âm nhạc mới của bạn. Đọc cuốn sách tiếp theo. Hãy đến thành phố xinh đẹp này. Tôi nghĩ rằng các tù nhân đã sẵn sàng.
+
+Step 179/284
+>> Vietnamese - Greek
+	Συναντήθηκα τον Άρθουρ στην Καλιφόρνια. Ακούστε τους νέους φίλους, τους οπαδούς σας και τη νέα μουσική. Διαβάστε το επόμενο βιβλίο. Ελάτε σε αυτή την όμορφη πόλη. Νομίζω ότι οι φυλακισμένοι είναι έτοιμοι.
+
+Step 180/284
+>> Greek - Persian
+	من با آرتور در کالیفرنیا آشنا شدم. به دوستان ، طرفداران و موسیقی جدید گوش فرا دهید. کتاب بعدی را بخوانید. بیا به این شهر زیبا. من فکر می کنم زندانیان آماده هستند.
+
+Step 181/284
+>> Persian - French
+	J'ai rencontré Arthur en Californie. Écoutez de nouveaux amis, fans et nouvelles musiques. Lisez le livre suivant. Venez dans cette belle ville. Je pense que les prisonniers sont prêts.
+
+Step 182/284
+>> French - Arabic
+	قابلت آرثر في كاليفورنيا. استمع إلى أصدقاء وجماهير وموسيقى جديدة. اقرأ الكتاب التالي. تعال إلى هذه المدينة الجميلة. أعتقد أن السجناء جاهزون.
+
+Step 183/284
+>> Arabic - Kazakh
+	Мен Артурмен Калифорнияда таныстым. Жаңа достар, жанкүйерлер мен музыканы тыңдаңыз. Келесі кітапты оқып шығыңыз. Мына әдемі қалаға келіңіз. Тұтқындар дайын деп ойлаймын.
+
+Step 184/284
+>> Kazakh - Portuguese
+	Eu conheci Arthur na Califórnia. Ouça novos amigos, fãs e música. Leia o próximo livro. Venha para esta bela cidade. Eu acho que os prisioneiros estão prontos.
+
+Step 185/284
+>> Portuguese - Italian
+	Ho incontrato Arthur in California. Ascolta nuovi amici, fan e musica. Leggi il prossimo libro Vieni in questa bellissima città. Penso che i prigionieri siano pronti.
+
+Step 186/284
+>> Italian - Georgian
+	არტურს შევხვდი კალიფორნიაში. მოუსმინეთ ახალ მეგობრებს, ფანებს და მუსიკას. წაიკითხეთ შემდეგი წიგნი მოდი ამ ულამაზეს ქალაქში. ვფიქრობ, რომ პატიმრები მზად არიან.
+
+Step 187/284
+>> Georgian - Icelandic
+	Ég hitti Arthur í Kaliforníu. Hlustaðu á nýja vini, aðdáendur og tónlist. Lestu næstu bók Komdu til þessarar fallegu borgar. Ég held að fangarnir séu tilbúnir.
+
+Step 188/284
+>> Icelandic - Ukrainian
+	Я зустрів Артура в Каліфорнії. Слухайте нових друзів, шанувальників та музику. Прочитайте наступну книгу Приходьте до цього прекрасного міста. Я думаю, що в'язні готові.
+
+Step 189/284
+>> Ukrainian - German
+	Ich habe Arthur in Kalifornien getroffen. Hören Sie neue Freunde, Fans und Musik. Lesen Sie das folgende Buch Kommen Sie in diese schöne Stadt. Ich denke, die Gefangenen sind bereit.
+
+Step 190/284
+>> German - Thai
+	ฉันพบอาเธอร์ในแคลิฟอร์เนีย ได้ยินเพื่อนใหม่แฟน ๆ และเพลง อ่านหนังสือต่อไปนี้มาที่เมืองที่สวยงามแห่งนี้ ฉันคิดว่านักโทษพร้อมแล้ว
+
+Step 191/284
+>> Thai - Haitian Creole
+	Mwen te rankontre Arthur nan Kalifòni. Koute nouvo zanmi, fanatik, ak chan sa yo lekti vini nan vil sa a bèl. Mwen panse prizonye yo pare.
+
+Step 192/284
+>> Haitian Creole - Kurdish
+	Ez Arthur ji California re hevdîtin. Guh bidin hevalên nû, temaşevan, û yên ku stranan dixwînin werin vî bajarî xweş. Ez difikirim ku girtî girtî ne.
+
+Step 193/284
+>> Kurdish - Swedish
+	Jag träffade Arthur från Kalifornien. Lyssna på nya vänner, tittare och sångare kommer till denna vackra stad. Jag tror att fångarna är stängda.
+
+Step 194/284
+>> Swedish - Nepali
+	मैले क्यालिफोर्नियाबाट आर्थरलाई भेटें। नयाँ साथीहरू सुन्नुहोस्, दर्शकहरू र गायकहरू यस सुन्दर शहरमा आउँदछन्। मलाई लाग्छ कैदीहरू बन्द छन्।
+
+Step 195/284
+>> Nepali - Chinese (Traditional)
+	我從加利福尼亞認識了亞瑟。聽新朋友，聽眾和歌手來到這個美麗的城市。我認為囚犯被關起來了。
+
+Step 196/284
+>> Chinese (Traditional) - Chichewa
+	Ndinakumana ndi Arthur wochokera ku California. Mverani anzanu atsopano, omvera ndi oyimba kubwera kumzindawu. Ndikuganiza kuti mkaidiyu watsekedwa.
+
+Step 197/284
+>> Chichewa - Burmese
+	ငါကယ်လီဖိုးနီးယားကနေအာသာတွေ့ဆုံခဲ့သည် သူငယ်ချင်းများ၊ နားထောင်သူများနှင့်မြို့တော်သို့လာရောက်သောဂီတသမားအသစ်များကိုနားထောင်ပါ။ အကျဉ်းသားပိတ်သွားပြီလို့ကျွန်တော်ထင်တယ်
+
+Step 198/284
+>> Burmese - Turkish
+	Kaliforniya'dan tanıştığım arkadaşlar, arkadaşlarım, Şehre gelen dinleyicileri ve yeni müzisyenleri dinleyin. Sanırım mahkumlar kapatıldı
+
+Step 199/284
+>> Turkish - Chinese (Simplified)
+	听我从加利福尼亚认识的朋友，朋友，听众和新音乐家。我认为囚犯是封闭的
+
+Step 200/284
+>> Chinese (Simplified) - Hausa
+	Saurari abokai, abokai, masu sauraro da kuma sababbin mawakan da na sani daga California. Ina ji an rufe fursunoni
+
+Step 201/284
+>> Hausa - Uzbek
+	Kaliforniyadan tanigan do'stlarim, do'stlarim, tinglovchilaringiz va yangi musiqachilaringizni tinglang. Menimcha, mahbuslar yopiq
+
+Step 202/284
+>> Uzbek - Malay
+	Dengarkan kawan-kawan, kenalan, pendengar dan pemuzik baru yang saya tahu dari California. Saya rasa banduan ditutup
+
+Step 203/284
+>> Malay - Samoan
+	Faalogo i uo fou, tagata masani, tagata faalogologo ma musika ou te iloa mai Kalefonia. Ou te manatu ua tapuni le pagota
+
+Step 204/284
+>> Samoan - Hebrew
+	האזינו לחברים חדשים, מכרים, מאזינים ומוזיקאים שאני מכיר מקליפורניה. אני חושב שהאסיר כלוא
+
+Step 205/284
+>> Hebrew - Czech
+	Poslouchejte nové přátele, známé, posluchače a hudebníky, které znám z Kalifornie. Myslím, že vězeň je uvězněn
+
+Step 206/284
+>> Czech - English
+	Listen to new friends, acquaintances, listeners and musicians I know from California. I think a prisoner is imprisoned
+
+Step 207/284
+>> English - Bosnian
+	Slušajte nove prijatelje, poznanike, slušatelje i muzičare koje poznajem iz Kalifornije. Mislim da je zatvorenik zatvoren
+
+Step 208/284
+>> Bosnian - Japanese
+	カリフォルニアで知り合った新しい友達、知り合い、リスナー、ミュージシャンの話を聞いてください。囚人は閉じていると思います
+
+Step 209/284
+>> Japanese - Bengali
+	ক্যালিফোর্নিয়ায় আপনি নতুন বন্ধু, পরিচিতজন, শ্রোতা এবং সংগীতশিল্পীদের সাথে সাক্ষাত করুন। আমার মনে হয় বন্দীরা বন্ধ আছে
+
+Step 210/284
+>> Bengali - Lao
+	ພົບກັບເພື່ອນ ໃໝ່, ຄົນຮູ້ຈັກ, ຜູ້ຟັງແລະນັກດົນຕີຢູ່ລັດຄາລິຟໍເນຍ. ຂ້ອຍຄິດວ່ານັກໂທດຖືກປິດແລ້ວ
+
+Step 211/284
+>> Lao - Spanish
+	Conoce nuevos amigos, conocidos, oyentes y músicos en California. Creo que los prisioneros están cerrados.
+
+Step 212/284
+>> Spanish - Lithuanian
+	Susipažinkite su naujais draugais, pažįstamais, klausytojais ir muzikantais Kalifornijoje. Manau, kaliniai uždaryti.
+
+Step 213/284
+>> Lithuanian - Polish
+	Poznaj nowych przyjaciół, znajomych, słuchaczy i muzyków w Kalifornii. Myślę, że więźniowie są zamknięci.
+
+Step 214/284
+>> Polish - Korean
+	캘리포니아에서 새로운 친구, 지인, 청취자 및 음악가를 만나십시오. 죄수들이 갇혀 있다고 생각합니다.
+
+Step 215/284
+>> Korean - Shona
+	Sangana neshamwari nyowani, vaunozivana, vateereri uye vaimbi muCalifornia. Ndofunga vasungwa vakasungwa.
+
+Step 216/284
+>> Shona - Danish
+	Mød nye venner, bekendte, lyttere og musikere i Californien. Jeg tror, at fangerne er bundet.
+
+Step 217/284
+>> Danish - Romanian
+	Întâlnește prieteni noi, cunoscuți, ascultători și muzicieni din California. Cred că prizonierii sunt legați.
+
+Step 218/284
+>> Romanian - Chinese (Traditional)
+	在加利福尼亞認識新朋友，新朋友，聽眾和音樂家。我認為囚犯是有聯繫的。
+
+Step 219/284
+>> Chinese (Traditional) - Slovenian
+	Spoznajte nove ljudi, nove prijatelje, poslušalce in glasbenike v Kaliforniji. Mislim, da so zaporniki povezani.
+
+Step 220/284
+>> Slovenian - Lao
+	ພົບກັບຄົນ ໃໝ່, ໝູ່ ໃໝ່, ຜູ້ຟັງແລະນັກດົນຕີຢູ່ລັດຄາລິຟໍເນຍ. ຂ້ອຍຄິດວ່ານັກໂທດຕິດພັນກັນ.
+
+Step 221/284
+>> Lao - Uzbek
+	Kaliforniyada yangi odamlar, yangi do'stlar, tinglovchilar va musiqachilar bilan tanishing. Menimcha, mahbuslar o'zaro bog'liq.
+
+Step 222/284
+>> Uzbek - Swahili
+	Kutana na watu wapya, marafiki wapya, wasikilizaji na wanamuziki huko California. Nadhani wafungwa wanategemeana.
+
+Step 223/284
+>> Swahili - Dutch
+	Ontmoet nieuwe mensen, nieuwe vrienden, luisteraars en muzikanten in Californië. Ik denk dat gevangenen onderling afhankelijk zijn.
+
+Step 224/284
+>> Dutch - Macedonian
+	Запознајте нови луѓе, нови пријатели, слушатели и музичари во Калифорнија. Мислам дека затворениците се меѓусебно зависни.
+
+Step 225/284
+>> Macedonian - Kurdish
+	Li California bi mirovên nû re hevdîtin, heval, guhdar û muzîkjenan çêbikin. Ez difikirim ku girtî bi hev ve girêdayî ne.
+
+Step 226/284
+>> Kurdish - Indonesian
+	Ketemu orang baru, teman, pendengar dan musisi di California. Saya pikir para tahanan saling berhubungan.
+
+Step 227/284
+>> Indonesian - Maori
+	Me tutaki ki nga taangata hou, hoa, whakarongo me nga kaiwaiata kei California. Ki taku whakaaro me hononga nga herehere.
+
+Step 228/284
+>> Maori - Italian
+	Conosci gente nuova, amici, ascoltatori e musicisti in California. Penso che i prigionieri dovrebbero essere collegati.
+
+Step 229/284
+>> Italian - Bengali
+	ক্যালিফোর্নিয়ায় নতুন লোক, বন্ধু, শ্রোতা এবং সংগীতজ্ঞদের সাথে দেখা করুন। আমি মনে করি বন্দীদের সংযুক্ত করা উচিত।
+
+Step 230/284
+>> Bengali - Samoan
+	Feiloai atu i tagata fou, uo, tagata faalogologo ma musika i Kalefonia. Ou te manatu e tatau ona fesoʻotaʻi pagota.
+
+Step 231/284
+>> Samoan - Portuguese
+	Conheça novas pessoas, amigos, ouvintes e músicos na Califórnia. Eu acho que os prisioneiros devem estar conectados.
+
+Step 232/284
+>> Portuguese - Russian
+	Новые знакомства, друзья, слушатели и музыканты в Калифорнии. Я думаю, что заключенные должны быть связаны.
+
+Step 233/284
+>> Russian - Bosnian
+	Nova poznanstva, prijatelji, slušaoci i muzičari u Kaliforniji. Mislim da bi zatvorenici trebali biti povezani.
+
+Step 234/284
+>> Bosnian - Sinhala
+	කැලිෆෝනියාවේ නව මිතුරන්, මිතුරන්, සවන්දෙන්නන් සහ සංගීත ians යන්. මම හිතන්නේ සිරකරුවන් සම්බන්ධ විය යුතුයි.
+
+Step 235/284
+>> Sinhala - Urdu
+	کیلیفورنیا میں نئے دوست ، دوست ، سننے اور موسیقار۔ میرے خیال میں قیدیوں کو بھی اس میں شامل ہونا چاہئے۔
+
+Step 236/284
+>> Urdu - Arabic
+	أصدقاء جدد ، أصدقاء ، مستمعون وموسيقيون في كاليفورنيا. أعتقد أنه يجب إشراك السجناء كذلك.
+
+Step 237/284
+>> Arabic - Turkish
+	Kaliforniya'da yeni arkadaşlar, arkadaşlar, dinleyiciler ve müzisyenler. Bence mahkumlar da dahil olmalı.
+
+Step 238/284
+>> Turkish - Kazakh
+	Калифорнияда жаңа достар, достар, тыңдаушылар және музыканттар. Менің ойымша, сотталғандарды қатыстыру керек.
+
+Step 239/284
+>> Kazakh - Spanish
+	Nuevos amigos, amigos, oyentes y músicos en California. Creo que los convictos deberían estar involucrados.
+
+Step 240/284
+>> Spanish - Lithuanian
+	Nauji draugai, draugai, klausytojai ir muzikantai Kalifornijoje. Manau, nuteistieji turėtų būti įtraukti.
+
+Step 241/284
+>> Lithuanian - Luxembourgish
+	Nei Frënn, Frënn, Nolauschteren a Museker a Kalifornien. Ech mengen, Veruerteelte sollen derbäi sinn.
+
+Step 242/284
+>> Luxembourgish - Hausa
+	Sabbin abokai, abokai, masu sauraro da mawaƙa a California. Ina jin cewa mutane da aka yanke hukunci ya kamata su kasance a wurin.
+
+Step 243/284
+>> Hausa - Hungarian
+	Új barátok, barátok, hallgatók és zenészek Kaliforniában. Úgy érzem, hogy az elítélt embereknek ott kell lennie.
+
+Step 244/284
+>> Hungarian - Chinese (Simplified)
+	加利福尼亚的新朋友，朋友，学生和音乐家。我觉得被定罪的人必须在那里。
+
+Step 245/284
+>> Chinese (Simplified) - Hindi
+	कैलिफोर्निया में नए दोस्त, दोस्त, छात्र और संगीतकार। मुझे लगता है कि दोषी को होना चाहिए।
+
+Step 246/284
+>> Hindi - Burmese
+	ကယ်လီဖိုးနီးယားရှိသူငယ်ချင်းအသစ်များ၊ သူငယ်ချင်းများ၊ ကျောင်းသားများနှင့်ဂီတသမားများ။ ငါတရားခံဖြစ်သင့်ထင်ပါတယ်။
+
+Step 247/284
+>> Burmese - Czech
+	Noví přátelé v Kalifornii; Přátelé! Studenti a hudebníci. Myslím, že bych měl být viníkem.
+
+Step 248/284
+>> Czech - Croatian
+	Novi prijatelji u Kaliforniji; Prijatelji! Studenti i glazbenici. Mislim da bih trebao biti krivac.
+
+Step 249/284
+>> Croatian - Bulgarian
+	Нови приятели в Калифорния; Приятели! Студенти и музиканти. Мисля, че трябва да съм виновникът.
+
+Step 250/284
+>> Bulgarian - Georgian
+	ახალი მეგობრები კალიფორნიაში; მეგობრებო! სტუდენტები და მუსიკოსები. ვფიქრობ, მე უნდა ვიყო დამნაშავე.
+
+Step 251/284
+>> Georgian - Greek
+	Νέοι φίλοι στην Καλιφόρνια; Φίλοι! Φοιτητές και μουσικοί. Υποθέτω ότι πρέπει να φταίω.
+
+Step 252/284
+>> Greek - Albanian
+	Shokë të rinj në Kaliforni? Miqtë! Studentë dhe muzikantë. Unë mendoj se duhet të fajësoj.
+
+Step 253/284
+>> Albanian - Icelandic
+	Nýir vinir í Kaliforníu? Vinir! Nemendur og tónlistarmenn. Ég held að ég verði að kenna.
+
+Step 254/284
+>> Icelandic - Haitian Creole
+	Nouvo zanmi nan Kalifòni? Zanmi! Elèv yo ak mizisyen yo. Mwen panse ke mwen dwe anseye.
+
+Step 255/284
+>> Haitian Creole - Hebrew
+	חברים חדשים בקליפורניה? חברים! סטודנטים ומוזיקאים. אני חושב שאני צריך ללמד.
+
+Step 256/284
+>> Hebrew - Catalan
+	Nous amics a Califòrnia? Amics! Estudiants i músics. Crec que necessito ensenyar.
+
+Step 257/284
+>> Catalan - Malagasy
+	Namana vaovao any California? Ry namako! Mpianatra sy mpitendry zavamaneno. Heveriko fa mila mampianatra aho.
+
+Step 258/284
+>> Malagasy - Vietnamese
+	Bạn mới ở California? Các bạn ơi! Sinh viên và nhạc sĩ. Tôi nghĩ rằng tôi cần phải dạy.
+
+Step 259/284
+>> Vietnamese - Persian
+	آیا شما در کالیفرنیا تازه کار هستید؟ بچه ها! دانش آموزان و نوازندگان. فکر می کنم باید تدریس کنم.
+
+Step 260/284
+>> Persian - Malay
+	Adakah anda baru ke California? Lelaki! Pelajar dan pemuzik. Saya fikir saya harus mengajar.
+
+Step 261/284
+>> Malay - French
+	Êtes-vous nouveau en Californie? Mec! Étudiants et musiciens. Je pense que je devrais enseigner.
+
+Step 262/284
+>> French - English
+	Are you new to California? Guy! Students and musicians. I think I should teach.
+
+Step 263/284
+>> English - Maltese
+	Int ġdid fil-Kalifornja? Guy! Studenti u mużiċisti. Naħseb li għandi ngħallem.
+
+Step 264/284
+>> Maltese - Ukrainian
+	Ви новачок у Каліфорнії? Хлопець! Студенти та музиканти. Думаю, я повинен навчати.
+
+Step 265/284
+>> Ukrainian - Filipino
+	Bago ka ba sa California? Boy! Mga mag-aaral at musikero. Sa palagay ko kailangan kong magturo.
+
+Step 266/284
+>> Filipino - Amharic
+	ለካሊፎርኒያ አዲስ ነዎት? ልጅ! ተማሪዎች እና ሙዚቀኞች ፡፡ እኔ ማስተማር ያለብኝ ይመስለኛል ፡፡
+
+Step 267/284
+>> Amharic - Latvian
+	Vai esat jauns Kalifornijā? Dēls! Studenti un mūziķi. Es domāju, ka man vajadzētu mācīt.
+
+Step 268/284
+>> Latvian - Mongolian
+	Калифорнид шинэ үү? Хүү! Оюутнууд, хөгжимчид. Би заах ёстой гэж бодож байна.
+
+Step 269/284
+>> Mongolian - Swedish
+	Är du ny i Kalifornien? Boy! Studenter och musiker. Jag tror att jag måste lära.
+
+Step 270/284
+>> Swedish - Armenian
+	Դուք նոր եք Կալիֆոռնիայում: Boy! Ուսանողներ և երաժիշտներ: Կարծում եմ, որ պետք է սովորեմ:
+
+Step 271/284
+>> Armenian - Thai
+	คุณยังใหม่กับแคลิฟอร์เนีย บอย! นักเรียนและนักดนตรี ฉันคิดว่าฉันควรเรียนรู้
+
+Step 272/284
+>> Thai - Zulu
+	Umusha kumfana weCalifornia! Abafundi nabaculi Ngicabanga ukuthi kufanele ngifunde
+
+Step 273/284
+>> Zulu - Nepali
+	क्यालिफोर्नियाको मान्छेलाई नयाँ! विद्यार्थी र कलाकारहरू मलाई लाग्छ कि मैले पढ्नु पर्छ
+
+Step 274/284
+>> Nepali - Chichewa
+	Zatsopano kwa anthu aku California! Ophunzira ndi ojambula ndimaona kuti ndiyenera kuwerenga
+
+Step 275/284
+>> Chichewa - Slovak
+	Novinka pre Kalifornčanov! Študenti a umelci cítim, že by som si mal prečítať
+
+Step 276/284
+>> Slovak - German
+	Neu für Kalifornier! Studenten und Künstler finden, dass ich lesen sollte
+
+Step 277/284
+>> German - Irish
+	Nua do Californians! Síleann mic léinn agus ealaíontóirí gur chóir dom léamh
+
+Step 278/284
+>> Irish - Estonian
+	Kalifornlaste jaoks uus! Õpilaste ja kunstnike arvates peaksin lugema
+
+Step 279/284
+>> Estonian - Japanese
+	カリフォルニア人にとって新しい！学生と芸術家は私が読むべきだと思います
+
+Step 280/284
+>> Japanese - Serbian
+	Ново за Калифорније! Студенти и уметници мисле да бих требало да читам
+
+Step 281/284
+>> Serbian - Norwegian
+	Nytt for California! Studenter og kunstnere synes jeg burde lese
+
+Step 282/284
+>> Norwegian - Finnish
+	Uusi Kaliforniassa! Opiskelijoiden ja taiteilijoiden mielestä minun pitäisi lukea
+
+Step 283/284
+>> Finnish - Pashto
+	کالیفورنیا ته نوی! زده کونکي او هنرمندان فکر کوي چې زه باید لوستل شم
+
+Step 284/284
+>> Pashto - English
+	New to California! Students and artists think I should read
+
+
+##### RESULTS ######
+
+The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
+
+New to California! Students and artists think I should read

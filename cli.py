@@ -6,7 +6,7 @@ from babel.use_cases import chain_translate_text
 
 
 TEXT = """
-Para ele, cada leitura de qualquer texto sempre proporcionará um novo redimensionamento e entendimento desse texto. Metaforicamente falando, ele se posiciona diante dos textos como o banhista do rio de Heráclito, no qual é impossível entrar duas vezes devido a seu curso estar em constante mutação.
+The Khaleefeh Hároon Er-Rasheed had gone forth this night to see and hear what news he could collect, accompanied by Jaạfar his Wezeer, and Mesroor his executioner. It was his custom to disguise himself in the attire of a merchant; and this night, as he went through the city, he happened to pass, with his attendants, by the house of these ladies, and hearing the sounds of the musical instruments, he said to Jaạfar, I have a desire to enter this house, and to see who is giving this concert. They are a party who have become intoxicated, replied Jaạfar, and I fear that we may experience some ill usage from them; but the Khaleefeh said, We must enter, and I would that thou devise some stratagem by which we may obtain admission to the inmates. Jaạfar therefore answered, I hear and obey: and he advanced, and knocked at the door; and when the portress came and opened the door, he said to her, My mistress, we are merchants from Tabareeyeh, and have been in Baghdád ten days; we have brought with us merchandise, and taken lodgings in a Khán; and a merchant invited us to an entertainment this night: accordingly, we went to his house, and he placed food before us, and we ate, and sat awhile drinking together, after which he gave us leave to depart; and going out in the dark, and being strangers, we missed our way to the Khán: we trust, therefore, in your generosity that you will admit us to pass the night in your house; by doing which you will obtain a reward in heaven.
 """.strip()
 
 
@@ -25,7 +25,7 @@ def from_idh_csv(filename):
     cprint.ok(f"Translation chain: {chain_str}.")
     cprint.ok(f"Input text: {TEXT}\n")
 
-    start_codelang = {'codes': 'pt', 'languages': 'Portuguese'}
+    start_codelang = {'codes': 'en', 'languages': 'English'}
     text, result = chain_translate_text(TEXT, start_codelang, codelang, monitoring = True)
 
     cprint.ok("\n##### RESULTS ######\n")
